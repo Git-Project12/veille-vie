@@ -1,0 +1,1287 @@
+/* ---------------------------------------------------------------
+   Veille V.I.E — Matériaux & Mécanique
+   Direction : la fiche matériau. Fond zinc poli, encre bleu-nuit,
+   accent oxyde. Les couleurs d'axe fonctionnent comme les éléments
+   d'alliage d'une barre de composition.
+   --------------------------------------------------------------- */
+
+:root {
+  --zinc:      #dcdfe2;
+  --zinc-deep: #c8ccd0;
+  --paper:     #f7f8f9;
+  --ink:       #12171c;
+  --steel:     #5b6a75;
+  --oxide:     #a8410f;
+
+  --axis-rd:   #2e5e4e;
+  --axis-prod: #8a4b1f;
+  --axis-qual: #33507e;
+  --axis-calc: #6b4a7a;
+
+  --rule: 1px solid rgba(18, 23, 28, .14);
+  --shadow: 0 1px 2px rgba(18, 23, 28, .06);
+}
+
+* { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  background: var(--zinc);
+  color: var(--ink);
+  font-family: "IBM Plex Sans", system-ui, sans-serif;
+  font-size: 16px;
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+}
+
+.mono { font-family: "IBM Plex Mono", ui-monospace, monospace; }
+
+a { color: var(--oxide); }
+
+/* ---------------- Masthead ---------------- */
+
+.masthead {
+  border-bottom: 3px solid var(--ink);
+  background:
+    repeating-linear-gradient(
+      -38deg,
+      rgba(18, 23, 28, .028) 0 2px,
+      transparent 2px 9px
+    ),
+    var(--zinc);
+}
+
+.masthead-inner {
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 3.4rem 1.5rem 2.4rem;
+}
+
+.eyebrow {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: .72rem;
+  letter-spacing: .18em;
+  text-transform: uppercase;
+  color: var(--steel);
+  margin: 0 0 1.1rem;
+}
+
+.masthead h1 {
+  font-family: Archivo, sans-serif;
+  font-weight: 800;
+  font-size: clamp(2.1rem, 5.6vw, 4rem);
+  line-height: .98;
+  letter-spacing: -.028em;
+  margin: 0 0 1.2rem;
+  max-width: 16ch;
+}
+
+.masthead h1 .accent { color: var(--oxide); }
+
+.standfirst {
+  max-width: 56ch;
+  margin: 0;
+  color: var(--steel);
+  font-size: 1.02rem;
+}
+
+/* Barre de composition du corpus — l'élément signature */
+
+.corpus { margin-top: 2.6rem; }
+
+.corpus-bar {
+  display: flex;
+  height: 30px;
+  border: 2px solid var(--ink);
+  overflow: hidden;
+}
+
+.corpus-bar span {
+  display: block;
+  transition: flex-grow .6s cubic-bezier(.22, .8, .3, 1);
+}
+
+.corpus-stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0 2.2rem;
+  margin: .85rem 0 0;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: .74rem;
+  letter-spacing: .04em;
+  text-transform: uppercase;
+  color: var(--steel);
+}
+
+.corpus-stats div { display: flex; align-items: baseline; gap: .5rem; }
+.corpus-stats dt::after { content: ""; }
+.corpus-stats dt { display: flex; align-items: center; gap: .45rem; }
+.corpus-stats dd { margin: 0; color: var(--ink); font-weight: 600; }
+
+.swatch {
+  width: 10px; height: 10px;
+  display: inline-block;
+  border: 1px solid rgba(18, 23, 28, .35);
+}
+
+/* ---------------- Structure ---------------- */
+
+.shell {
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 2.4rem 1.5rem 3rem;
+  display: grid;
+  grid-template-columns: 250px 1fr;
+  gap: 2.6rem;
+  align-items: start;
+}
+
+/* ---------------- Rail de filtres ---------------- */
+
+/* Le panneau de filtres défile indépendamment de la liste : il reste
+   entièrement accessible sans avoir à parcourir toutes les offres.
+   Le décalage supérieur correspond à la hauteur de la barre d'onglets,
+   elle-même collante. */
+.rail {
+  position: sticky;
+  top: 3.6rem;
+  max-height: calc(100vh - 4.6rem);
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  scrollbar-width: thin;
+
+  /* Marge intérieure de chaque côté : sans elle, le liseré de focus des
+     champs (outline décalé) est rogné par la zone défilante. */
+  padding: 4px 8px 4px 4px;
+  margin-left: -4px;
+}
+
+.rail::-webkit-scrollbar { width: 7px; }
+.rail::-webkit-scrollbar-track { background: transparent; }
+.rail::-webkit-scrollbar-thumb {
+  background: var(--zinc-deep);
+  border-radius: 4px;
+}
+.rail::-webkit-scrollbar-thumb:hover { background: var(--steel); }
+
+.field { margin-bottom: 1.4rem; border: 0; padding: 0; }
+
+.field label,
+.field legend {
+  display: block;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: .7rem;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  color: var(--steel);
+  margin-bottom: .45rem;
+  padding: 0;
+}
+
+.field input[type="search"],
+.field select {
+  width: 100%;
+  padding: .52rem .6rem;
+  font: inherit;
+  font-size: .92rem;
+  color: var(--ink);
+  background: var(--paper);
+  border: var(--rule);
+  border-radius: 2px;
+}
+
+.field input[type="search"]:focus-visible,
+.field select:focus-visible,
+.checks label:focus-within {
+  outline: 2px solid var(--oxide);
+  outline-offset: 1px;
+}
+
+.field input[type="range"] { width: 100%; accent-color: var(--oxide); }
+
+#minscore-out { float: right; color: var(--ink); }
+
+.checks { display: flex; flex-direction: column; gap: .3rem; }
+
+.checks label {
+  display: flex;
+  align-items: center;
+  gap: .5rem;
+  font-size: .88rem;
+  cursor: pointer;
+  color: var(--ink);
+  text-transform: none;
+  letter-spacing: 0;
+  font-family: inherit;
+  margin: 0;
+}
+
+.checks input { accent-color: var(--oxide); margin: 0; }
+
+.reset {
+  font: inherit;
+  font-size: .82rem;
+  background: none;
+  border: var(--rule);
+  border-radius: 2px;
+  padding: .45rem .7rem;
+  color: var(--steel);
+  cursor: pointer;
+}
+
+.reset:hover { color: var(--ink); border-color: var(--ink); }
+
+.freshness {
+  margin-top: 1.6rem;
+  font-size: .7rem;
+  line-height: 1.6;
+  color: var(--steel);
+  border-top: var(--rule);
+  padding-top: .8rem;
+}
+
+/* ---------------- Résultats ---------------- */
+
+.results-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  border-bottom: 2px solid var(--ink);
+  padding-bottom: .6rem;
+  margin-bottom: 1.4rem;
+}
+
+.results-head h2 {
+  font-family: Archivo, sans-serif;
+  font-size: 1.12rem;
+  letter-spacing: -.01em;
+  margin: 0;
+}
+
+.legend {
+  font-size: .68rem;
+  letter-spacing: .07em;
+  text-transform: uppercase;
+  color: var(--steel);
+  margin: 0;
+  display: flex;
+  align-items: center;
+  gap: .35rem;
+}
+
+.legend .key {
+  width: 9px; height: 9px;
+  display: inline-block;
+  margin-left: .7rem;
+  border: 1px solid rgba(18, 23, 28, .3);
+}
+
+.legend .key:first-child { margin-left: 0; }
+.key[data-axis="rd"]   { background: var(--axis-rd); }
+.key[data-axis="prod"] { background: var(--axis-prod); }
+.key[data-axis="qual"] { background: var(--axis-qual); }
+.key[data-axis="calc"] { background: var(--axis-calc); }
+
+/* Carte d'offre */
+
+.offer {
+  background: var(--paper);
+  border: var(--rule);
+  border-left: 4px solid var(--steel);
+  border-radius: 2px;
+  padding: 1.05rem 1.15rem;
+  margin-bottom: .8rem;
+  box-shadow: var(--shadow);
+}
+
+.offer[data-axis="rd"]   { border-left-color: var(--axis-rd); }
+.offer[data-axis="prod"] { border-left-color: var(--axis-prod); }
+.offer[data-axis="qual"] { border-left-color: var(--axis-qual); }
+.offer[data-axis="calc"] { border-left-color: var(--axis-calc); }
+
+.offer-head {
+  display: flex;
+  gap: 1.1rem;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.offer h3 {
+  font-family: Archivo, sans-serif;
+  font-weight: 700;
+  font-size: 1.04rem;
+  line-height: 1.25;
+  letter-spacing: -.012em;
+  margin: 0 0 .3rem;
+}
+
+.offer h3 a { color: var(--ink); text-decoration: none; }
+.offer h3 a:hover { color: var(--oxide); text-decoration: underline; }
+
+.meta {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: .74rem;
+  color: var(--steel);
+  letter-spacing: .02em;
+}
+
+.meta strong { color: var(--ink); font-weight: 600; }
+
+.gauge { text-align: right; flex-shrink: 0; }
+
+.gauge b {
+  font-family: Archivo, sans-serif;
+  font-size: 1.75rem;
+  font-weight: 800;
+  letter-spacing: -.04em;
+  line-height: 1;
+  display: block;
+}
+
+.gauge span {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: .62rem;
+  letter-spacing: .09em;
+  text-transform: uppercase;
+  color: var(--steel);
+}
+
+/* Barre de composition d'une offre */
+
+.composition {
+  display: flex;
+  height: 7px;
+  margin: .85rem 0 .7rem;
+  background: var(--zinc-deep);
+  border-radius: 1px;
+  overflow: hidden;
+}
+
+.composition span { display: block; }
+.composition span[data-axis="rd"]   { background: var(--axis-rd); }
+.composition span[data-axis="prod"] { background: var(--axis-prod); }
+.composition span[data-axis="qual"] { background: var(--axis-qual); }
+.composition span[data-axis="calc"] { background: var(--axis-calc); }
+
+.modules {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: .3rem;
+}
+
+.modules li {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: .68rem;
+  line-height: 1.35;
+  padding: .18rem .42rem;
+  border: 1px solid rgba(18, 23, 28, .16);
+  border-radius: 2px;
+  color: var(--steel);
+  background: rgba(255, 255, 255, .55);
+}
+
+.modules li b { color: var(--ink); font-weight: 600; }
+
+.empty {
+  background: var(--paper);
+  border: var(--rule);
+  border-left: 4px solid var(--oxide);
+  padding: 1.6rem;
+  border-radius: 2px;
+}
+
+.empty h3 { font-family: Archivo, sans-serif; margin: 0 0 .5rem; }
+.empty code {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: .84rem;
+  background: var(--zinc);
+  padding: .12rem .35rem;
+  border-radius: 2px;
+}
+
+/* ---------------- Veille entreprises ---------------- */
+
+.watchlist {
+  border-top: 3px solid var(--ink);
+  background: var(--paper);
+}
+
+.watchlist-inner {
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 2.6rem 1.5rem;
+}
+
+.watchlist h2 {
+  font-family: Archivo, sans-serif;
+  font-size: 1.35rem;
+  letter-spacing: -.02em;
+  margin: 0 0 .5rem;
+}
+
+.watchlist p { max-width: 62ch; color: var(--steel); margin: 0 0 1.5rem; }
+
+.company-grid {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
+  gap: .5rem;
+}
+
+.company-grid a {
+  display: block;
+  padding: .55rem .7rem;
+  border: var(--rule);
+  border-radius: 2px;
+  text-decoration: none;
+  color: var(--ink);
+  background: var(--zinc);
+  font-size: .88rem;
+}
+
+.company-grid a:hover { border-color: var(--oxide); color: var(--oxide); }
+
+.company-grid small {
+  display: block;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: .64rem;
+  letter-spacing: .06em;
+  text-transform: uppercase;
+  color: var(--steel);
+}
+
+/* ---------------- Pied ---------------- */
+
+.colophon {
+  border-top: var(--rule);
+  background: var(--paper);
+}
+
+.colophon p {
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 1.4rem 1.5rem 2.4rem;
+  font-size: .82rem;
+  color: var(--steel);
+}
+
+/* ---------------- Adaptatif ---------------- */
+
+@media (max-width: 820px) {
+  .shell { grid-template-columns: 1fr; gap: 1.6rem; }
+  .rail {
+    position: static;
+    max-height: none;
+    overflow: visible;
+    padding-right: 0;
+  }
+  #filters {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 0 1rem;
+  }
+  .masthead-inner { padding-top: 2.4rem; }
+  .offer-head { flex-direction: row; }
+  .gauge b { font-size: 1.45rem; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: .001ms !important;
+    transition-duration: .001ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* ===============================================================
+   Confort d'usage — ajouts v2
+   =============================================================== */
+
+.sr {
+  position: absolute; width: 1px; height: 1px;
+  overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap;
+}
+
+/* --- Filtres : bouton mobile, raccourci clavier, compteurs --- */
+
+.filter-toggle { display: none; }
+
+.field label kbd {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: .62rem;
+  border: 1px solid rgba(18,23,28,.25);
+  border-bottom-width: 2px;
+  border-radius: 3px;
+  padding: 0 .25rem;
+  margin-left: .3rem;
+  color: var(--steel);
+}
+
+.checks label {
+  padding: .18rem .3rem;
+  border-radius: 2px;
+  transition: background .12s ease;
+}
+
+.checks label:hover { background: rgba(255,255,255,.6); }
+.checks-label { flex: 1; }
+.checks-count { color: var(--steel); font-size: .72rem; }
+
+.field input[type="search"],
+.field select { transition: border-color .15s ease, background .15s ease; }
+.field input[type="search"]:hover,
+.field select:hover { border-color: var(--steel); }
+
+.reset { width: 100%; transition: color .15s ease, border-color .15s ease; }
+
+.freshness strong { color: var(--ink); }
+
+/* --- Filtres actifs --- */
+
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .35rem;
+  margin-bottom: 1rem;
+}
+
+.chip {
+  font: inherit;
+  font-size: .78rem;
+  display: inline-flex;
+  align-items: center;
+  gap: .45rem;
+  padding: .22rem .55rem;
+  background: var(--paper);
+  border: 1px solid rgba(18,23,28,.2);
+  border-radius: 20px;
+  color: var(--ink);
+  cursor: pointer;
+  transition: border-color .15s ease, color .15s ease;
+}
+
+.chip span { color: var(--steel); font-size: .95rem; line-height: 1; }
+.chip:hover { border-color: var(--oxide); color: var(--oxide); }
+.chip:hover span { color: var(--oxide); }
+
+/* --- Compteur de résultats --- */
+
+.results-head h2 strong {
+  font-family: Archivo, sans-serif;
+  font-weight: 800;
+}
+
+.of-total { color: var(--steel); font-weight: 400; }
+
+/* --- Cartes dépliables --- */
+
+.offer {
+  cursor: pointer;
+  transition: border-color .16s ease, box-shadow .16s ease, transform .16s ease;
+  animation: rise .32s cubic-bezier(.22,.8,.3,1) both;
+}
+
+@keyframes rise {
+  from { opacity: 0; transform: translateY(6px); }
+  to   { opacity: 1; transform: none; }
+}
+
+.offer:hover {
+  box-shadow: 0 3px 10px rgba(18,23,28,.10);
+  transform: translateY(-1px);
+}
+
+.offer:focus-visible {
+  outline: 2px solid var(--oxide);
+  outline-offset: 2px;
+}
+
+.offer-id { min-width: 0; }
+
+.modules {
+  max-height: 3.4rem;
+  overflow: hidden;
+  transition: max-height .28s ease;
+}
+
+.offer.open .modules { max-height: 30rem; }
+
+/* Grille à une rangée : passer de 0fr à 1fr anime l'ouverture quelle que
+   soit la hauteur du contenu, sans plafond arbitraire qui tronquerait la fin. */
+/* Replié = retiré du flux. Aucune hauteur résiduelle possible, quel que soit
+   le nombre de blocs à l'intérieur. L'animation porte sur l'apparition, pas
+   sur la hauteur : c'est moins spectaculaire, mais incassable. */
+.detail-panel { display: none; }
+
+.detail-inner { animation: unfold .26s cubic-bezier(.22, .8, .3, 1) both; }
+
+@keyframes unfold {
+  from { opacity: 0; transform: translateY(-6px); }
+  to   { opacity: 1; transform: none; }
+}
+
+.offer.open .detail-panel {
+  display: block;
+  margin-top: .9rem;
+}
+
+.offer-body {
+  margin: 0 0 .9rem;
+  font-size: .89rem;
+  line-height: 1.6;
+  color: var(--steel);
+  white-space: pre-line;
+  border-top: var(--rule);
+  padding-top: .8rem;
+}
+
+.apply {
+  display: inline-block;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: .76rem;
+  letter-spacing: .04em;
+  text-decoration: none;
+  color: var(--paper);
+  background: var(--ink);
+  padding: .5rem .8rem;
+  border-radius: 2px;
+  transition: background .15s ease;
+}
+
+.apply:hover { background: var(--oxide); }
+
+.expand-hint {
+  margin: .7rem 0 0;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: .66rem;
+  letter-spacing: .07em;
+  text-transform: uppercase;
+  color: var(--steel);
+}
+
+.expand-hint span::after { content: " ↓"; }
+.offer.open .expand-hint span { display: none; }
+.offer.open .expand-hint::after { content: "Replier ↑"; }
+
+/* --- Squelette de chargement --- */
+
+.skeleton { cursor: default; pointer-events: none; border-left-color: var(--zinc-deep); }
+
+.sk {
+  background: linear-gradient(90deg,
+    var(--zinc-deep) 0%, rgba(255,255,255,.7) 50%, var(--zinc-deep) 100%);
+  background-size: 200% 100%;
+  animation: shimmer 1.3s linear infinite;
+  border-radius: 2px;
+}
+
+.sk-title { height: 17px; width: 62%; margin-bottom: .55rem; }
+.sk-meta  { height: 11px; width: 40%; margin-bottom: 1rem; }
+.sk-bar   { height: 7px;  width: 100%; margin-bottom: .8rem; }
+.sk-tags  { height: 22px; width: 78%; }
+
+@keyframes shimmer {
+  from { background-position: 200% 0; }
+  to   { background-position: -200% 0; }
+}
+
+/* --- Chargement progressif --- */
+
+.more-wrap { text-align: center; margin-top: 1.4rem; }
+
+.more {
+  font: inherit;
+  font-size: .85rem;
+  background: var(--paper);
+  border: var(--rule);
+  border-radius: 2px;
+  padding: .7rem 1.4rem;
+  color: var(--ink);
+  cursor: pointer;
+  transition: border-color .15s ease, color .15s ease;
+}
+
+.more:hover { border-color: var(--oxide); color: var(--oxide); }
+
+/* --- États vides --- */
+
+.empty p { margin: 0 0 .8rem; }
+.empty .detail { font-size: .7rem; color: var(--steel); margin-top: 1.1rem; }
+.empty .reset { width: auto; margin-top: .4rem; }
+
+/* --- Corpus : couleurs d'axe --- */
+
+.corpus-bar span[data-axis="rd"]   { background: var(--axis-rd); }
+.corpus-bar span[data-axis="prod"] { background: var(--axis-prod); }
+.corpus-bar span[data-axis="qual"] { background: var(--axis-qual); }
+.corpus-bar span[data-axis="calc"] { background: var(--axis-calc); }
+
+/* --- Mobile : filtres repliés derrière un bouton --- */
+
+@media (max-width: 820px) {
+  .filter-toggle {
+    display: block;
+    width: 100%;
+    font: inherit;
+    font-size: .9rem;
+    padding: .65rem;
+    background: var(--paper);
+    border: var(--rule);
+    border-radius: 2px;
+    cursor: pointer;
+    margin-bottom: .9rem;
+  }
+
+  .filter-toggle::after { content: " ▾"; color: var(--steel); }
+  .rail.open .filter-toggle::after { content: " ▴"; }
+
+  #filters, .freshness { display: none; }
+
+  .rail.open #filters {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 0 1rem;
+  }
+
+  .rail.open .freshness { display: block; }
+
+  .offer-head { gap: .7rem; }
+  .modules { max-height: 2.6rem; }
+}
+
+/* ===============================================================
+   Onglets, favoris, suivi, pondération — v3
+   =============================================================== */
+
+/* --- Barre d'onglets --- */
+
+.tabs {
+  border-bottom: 2px solid var(--ink);
+  background: var(--paper);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.tabs-inner {
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+  display: flex;
+  gap: .2rem;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+
+.tabs-inner::-webkit-scrollbar { display: none; }
+
+.tab {
+  font: inherit;
+  font-size: .88rem;
+  white-space: nowrap;
+  background: none;
+  border: 0;
+  border-bottom: 3px solid transparent;
+  padding: .85rem .8rem;
+  color: var(--steel);
+  cursor: pointer;
+  transition: color .15s ease, border-color .15s ease;
+}
+
+.tab:hover { color: var(--ink); }
+
+.tab[aria-selected="true"] {
+  color: var(--ink);
+  border-bottom-color: var(--oxide);
+  font-weight: 600;
+}
+
+.tab-count {
+  font-size: .7rem;
+  padding: .1rem .35rem;
+  margin-left: .3rem;
+  border-radius: 10px;
+  background: var(--zinc);
+  color: var(--steel);
+}
+
+.tab[aria-selected="true"] .tab-count { background: var(--oxide); color: var(--paper); }
+
+/* --- Badges d'état sur les cartes --- */
+
+.badges { display: flex; flex-wrap: wrap; gap: .3rem; margin: 0 0 .4rem; }
+
+.badge {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: .62rem;
+  letter-spacing: .06em;
+  text-transform: uppercase;
+  padding: .16rem .4rem;
+  border-radius: 2px;
+  border: 1px solid transparent;
+}
+
+.badge.new     { background: var(--axis-rd);   color: #fff; }
+.badge.urgent  { background: var(--oxide);     color: #fff; }
+.badge.reco    { background: var(--axis-calc); color: #fff; }
+.badge.track-badge {
+  background: transparent;
+  border-color: rgba(18,23,28,.3);
+  color: var(--steel);
+}
+
+/* --- Étoile favori --- */
+
+.fav-btn {
+  font-size: 1.15rem;
+  line-height: 1;
+  background: none;
+  border: 0;
+  cursor: pointer;
+  color: var(--zinc-deep);
+  padding: 0 0 .25rem;
+  transition: color .15s ease, transform .15s ease;
+}
+
+.fav-btn:hover { color: var(--oxide); transform: scale(1.15); }
+.fav-btn.on { color: var(--oxide); }
+
+/* --- Justification d'une recommandation --- */
+
+.because {
+  margin: .5rem 0 0;
+  font-size: .8rem;
+  color: var(--steel);
+  border-left: 2px solid var(--axis-calc);
+  padding-left: .6rem;
+}
+
+.because b { color: var(--ink); font-weight: 600; }
+
+/* --- Suivi de candidature --- */
+
+.track {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .9rem;
+  margin: 0 0 .9rem;
+  padding: .8rem;
+  background: var(--zinc);
+  border-radius: 2px;
+  cursor: default;
+}
+
+.track label {
+  display: flex;
+  flex-direction: column;
+  gap: .3rem;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: .66rem;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: var(--steel);
+}
+
+.track .note-label { flex: 1; min-width: 200px; }
+
+.track select,
+.track textarea {
+  font: inherit;
+  font-size: .86rem;
+  color: var(--ink);
+  background: var(--paper);
+  border: var(--rule);
+  border-radius: 2px;
+  padding: .4rem .5rem;
+  text-transform: none;
+  letter-spacing: 0;
+}
+
+.track textarea { resize: vertical; font-family: inherit; }
+
+.offer[data-status="sent"]     { border-left-style: double; border-left-width: 6px; }
+.offer[data-status="rejected"] { opacity: .55; }
+
+/* --- Panneau de pondération --- */
+
+.weights-panel {
+  margin: 1.4rem 0;
+  border: var(--rule);
+  border-radius: 2px;
+  background: var(--paper);
+}
+
+.weights-panel summary {
+  cursor: pointer;
+  padding: .6rem .7rem;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: .7rem;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  color: var(--steel);
+}
+
+.weights-panel[open] summary { border-bottom: var(--rule); color: var(--ink); }
+
+.weights-intro {
+  font-size: .78rem;
+  color: var(--steel);
+  margin: .7rem .7rem 0;
+  line-height: 1.5;
+}
+
+.weight-group { padding: .7rem .7rem 0; }
+
+.weight-group h4 {
+  display: flex;
+  align-items: center;
+  gap: .4rem;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: .66rem;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: var(--steel);
+  margin: .6rem 0 .5rem;
+}
+
+.weight-row {
+  display: grid;
+  grid-template-columns: 1fr 70px 22px;
+  align-items: center;
+  gap: .4rem;
+  margin-bottom: .35rem;
+}
+
+.weight-row label {
+  font-size: .72rem;
+  line-height: 1.25;
+  color: var(--ink);
+  text-transform: none;
+  letter-spacing: 0;
+  font-family: inherit;
+  margin: 0;
+}
+
+.weight-row input[type="range"] { width: 100%; accent-color: var(--oxide); }
+.weight-row output { font-size: .72rem; text-align: right; color: var(--steel); }
+
+.weights-panel .reset { margin: .8rem .7rem .8rem; width: calc(100% - 1.4rem); }
+
+/* --- Exports --- */
+
+.exports { display: flex; flex-direction: column; gap: .35rem; margin-bottom: 1rem; }
+
+.import-label {
+  display: block;
+  text-align: center;
+  cursor: pointer;
+}
+
+/* --- Adaptations mobiles --- */
+
+@media (max-width: 820px) {
+  .tabs-inner { padding: 0 .8rem; }
+  .tab { padding: .75rem .55rem; font-size: .82rem; }
+  .rail.open .weights-panel,
+  .rail.open .exports { display: block; }
+  .weights-panel, .exports { display: none; }
+  .weight-row { grid-template-columns: 1fr 60px 20px; }
+  .track { flex-direction: column; }
+}
+
+/* ===============================================================
+   Infobulles et profil recherché — v4
+   =============================================================== */
+
+.info { position: relative; display: inline-block; margin-left: .3rem; }
+
+.info-btn {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: .58rem;
+  font-weight: 600;
+  line-height: 1;
+  width: 14px;
+  height: 14px;
+  padding: 0;
+  border-radius: 50%;
+  border: 1px solid var(--steel);
+  background: transparent;
+  color: var(--steel);
+  cursor: help;
+  vertical-align: middle;
+  transition: background .15s ease, color .15s ease, border-color .15s ease;
+}
+
+.info-btn:hover,
+.info.open .info-btn {
+  background: var(--ink);
+  border-color: var(--ink);
+  color: var(--paper);
+}
+
+.info-bubble {
+  position: absolute;
+  right: 0;
+  top: calc(100% + 8px);
+  z-index: 40;
+  width: 310px;
+  max-width: 76vw;
+  padding: .8rem .9rem;
+  background: var(--ink);
+  color: #e8ebee;
+  border-radius: 3px;
+  box-shadow: 0 6px 22px rgba(18, 23, 28, .3);
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: .78rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0;
+  text-transform: none;
+  text-align: left;
+  white-space: normal;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(-4px);
+  transition: opacity .16s ease, transform .16s ease, visibility .16s;
+  cursor: default;
+}
+
+.info:hover .info-bubble,
+.info-btn:focus-visible + .info-bubble,
+.info.open .info-bubble {
+  opacity: 1;
+  visibility: visible;
+  transform: none;
+}
+
+.info-bubble b { color: #fff; display: block; margin-bottom: .35rem; }
+.info-bubble p { margin: .5rem 0 0; }
+.info-bubble .swatch { border-color: rgba(255,255,255,.4); margin-right: .4rem; }
+
+.help-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: .5rem 0 0;
+  font-size: .74rem;
+}
+
+.help-table td {
+  padding: .16rem 0;
+  border-bottom: 1px solid rgba(255,255,255,.12);
+  vertical-align: middle;
+}
+
+.help-table td:last-child { text-align: right; color: #fff; padding-left: .6rem; }
+
+/* Le « i » posé sur un badge coloré doit rester lisible */
+.info.on-badge { margin-left: .35rem; }
+.info.on-badge .info-btn { border-color: rgba(255,255,255,.65); color: #fff; }
+.info.on-badge .info-btn:hover { background: #fff; color: var(--ink); border-color: #fff; }
+
+/* Sur les cartes, la bulle du score s'ouvre vers la gauche */
+.gauge .info-bubble { right: 0; }
+.checks .info-bubble { left: 0; right: auto; }
+
+/* --- Profil recherché --- */
+
+.profile-block {
+  border-top: var(--rule);
+  border-left: 3px solid var(--axis-qual);
+  background: rgba(255, 255, 255, .6);
+  padding: .75rem .85rem;
+  margin: .2rem 0 .9rem;
+  border-radius: 2px;
+}
+
+.profile-block h4 {
+  display: flex;
+  align-items: center;
+  gap: .5rem;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: .66rem;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: var(--steel);
+  margin: 0 0 .45rem;
+}
+
+.profile-block .extracted {
+  font-size: .58rem;
+  letter-spacing: .04em;
+  padding: .1rem .3rem;
+  border: 1px solid rgba(18,23,28,.2);
+  border-radius: 2px;
+  color: var(--steel);
+  text-transform: none;
+}
+
+.profile-block p {
+  margin: 0;
+  font-size: .87rem;
+  line-height: 1.6;
+  color: var(--ink);
+  white-space: pre-line;
+}
+
+.profile-block mark {
+  background: rgba(168, 65, 15, .16);
+  color: inherit;
+  padding: 0 .12rem;
+  border-radius: 2px;
+  font-weight: 600;
+}
+
+@media (max-width: 820px) {
+  .info-bubble { width: 260px; right: -40px; }
+  .checks .info-bubble { left: -20px; right: auto; }
+}
+
+
+/* --- Synthèse du poste et barre d'actions — v5 --- */
+
+.summary-block { margin-bottom: .9rem; }
+
+.summary-block h4,
+.profile-block h4 {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: .66rem;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: var(--steel);
+  margin: 0 0 .45rem;
+}
+
+.summary-block .offer-body {
+  border-top: var(--rule);
+  padding-top: .7rem;
+  margin: 0;
+  max-height: 22em;
+  overflow-y: auto;
+}
+
+/* Barre d'actions toujours visible, hors du panneau dépliant :
+   le lien vers l'annonce reste accessible sans déplier la carte. */
+.actions {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin: .9rem 0 0;
+  padding-top: .7rem;
+  border-top: var(--rule);
+}
+
+.actions .apply { flex-shrink: 0; }
+.actions .expand-hint { margin: 0; }
+
+/* Marqueur de version : permet de vérifier d'un coup d'œil que le navigateur
+   a bien chargé les fichiers à jour, et non une copie en cache. */
+.version {
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 0 1.5rem 1.6rem;
+  font-size: .66rem;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: var(--zinc-deep);
+}
+
+
+/* --- Offres archivées — v7 --- */
+
+.badge.archived {
+  background: var(--steel);
+  color: #fff;
+}
+
+.offer:has(.badge.archived) { border-left-style: dashed; }
+
+.archived-note {
+  margin: 0 0 .9rem;
+  padding: .65rem .75rem;
+  background: rgba(91, 106, 117, .12);
+  border-left: 3px solid var(--steel);
+  border-radius: 2px;
+  font-size: .8rem;
+  line-height: 1.5;
+  color: var(--steel);
+}
+
+.apply.gone {
+  background: var(--steel);
+}
+
+.apply.gone:hover { background: var(--ink); }
+
+
+/* --- Archives — v7 --- */
+
+.badge.online  { background: var(--axis-rd); color: #fff; }
+.badge.offline { background: var(--steel);   color: #fff; }
+
+/* Lien d'une annonce probablement retirée : signalé sans être désactivé,
+   l'offre pouvant réapparaître ou rester consultable un temps. */
+.apply.stale {
+  background: var(--steel);
+}
+
+.apply.stale::after {
+  content: " (lien probablement expiré)";
+  font-size: .68rem;
+  opacity: .85;
+}
+
+.drop-archive {
+  font: inherit;
+  font-size: .76rem;
+  background: none;
+  border: var(--rule);
+  border-radius: 2px;
+  padding: .45rem .7rem;
+  color: var(--steel);
+  cursor: pointer;
+  transition: color .15s ease, border-color .15s ease;
+}
+
+.drop-archive:hover { color: var(--oxide); border-color: var(--oxide); }
+
+@media (max-width: 820px) {
+  /* Sur mobile le rail est replié derrière un bouton : pas de défilement propre */
+  .rail { position: static; max-height: none; overflow: visible; }
+}
+
+
+/* --- Filtrage des listes déroulantes et pagination — v8 --- */
+
+.option-search {
+  width: 100%;
+  padding: .38rem .5rem;
+  margin-bottom: .3rem;
+  font: inherit;
+  font-size: .82rem;
+  color: var(--ink);
+  background: var(--zinc);
+  border: 1px dashed rgba(18, 23, 28, .25);
+  border-radius: 2px;
+}
+
+.option-search::placeholder { color: var(--steel); opacity: .8; }
+
+.option-search:focus-visible {
+  outline: 2px solid var(--oxide);
+  outline-offset: 1px;
+  background: var(--paper);
+  border-style: solid;
+}
+
+#country, #company { min-height: 2.1rem; }

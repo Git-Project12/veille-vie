@@ -1,0 +1,10 @@
+# La clé d'API ne doit JAMAIS être publiée : le dépôt est public pour que
+# GitHub Pages fonctionne. En ligne, la clé vient du secret VIE_API_KEY.
+cle-api.txt
+
+# Environnement Python local et fichiers temporaires
+.venv/
+__pycache__/
+*.pyc
+_site/
+.DS_Store

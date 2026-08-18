@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Veille V.I.E — Matériaux &amp; Mécanique</title>
+<meta name="description" content="Offres de Volontariat International en Entreprise filtrées et notées selon le programme de la filière Matériaux &amp; Mécanique de l'ENSICAEN.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;700;800&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/styles.css?v=8">
+</head>
+<body>
+
+<header class="masthead">
+  <div class="masthead-inner">
+    <p class="eyebrow">Volontariat International en Entreprise</p>
+    <h1>Offres lues à travers<br><span class="accent">le programme de la formation</span></h1>
+    <p class="standfirst">
+      Chaque offre publiée par Business France est comparée aux modules réellement
+      enseignés en filière Matériaux &amp; Mécanique — métallurgie, mise en forme,
+      calcul de structure, contrôles non destructifs. Le score dit à quel point
+      le poste mobilise ce qui a été appris.
+    </p>
+
+    <div class="corpus" id="corpus" hidden>
+      <div class="corpus-bar" id="corpus-bar" role="img" aria-label="Répartition des offres par domaine"></div>
+      <dl class="corpus-stats" id="corpus-stats"></dl>
+    </div>
+  </div>
+</header>
+
+<nav class="tabs" role="tablist" aria-label="Vues des offres">
+  <div class="tabs-inner">
+    <button class="tab" role="tab" data-tab="all" aria-selected="true">
+      Toutes <span class="tab-count mono">0</span></button>
+    <button class="tab" role="tab" data-tab="fav" aria-selected="false">
+      ★ Favoris <span class="tab-count mono">0</span></button>
+    <button class="tab" role="tab" data-tab="reco" aria-selected="false">
+      Recommandées <span class="tab-count mono">0</span></button>
+    <button class="tab" role="tab" data-tab="soon" aria-selected="false">
+      Échéances <span class="tab-count mono">0</span></button>
+    <button class="tab" role="tab" data-tab="new" aria-selected="false">
+      Nouveautés <span class="tab-count mono">0</span></button>
+    <button class="tab" role="tab" data-tab="track" aria-selected="false">
+      Candidatures <span class="tab-count mono">0</span></button>
+    <button class="tab" role="tab" data-tab="archive" aria-selected="false">
+      Archives <span class="tab-count mono">0</span></button>
+  </div>
+</nav>
+
+<main class="shell">
+
+  <aside class="rail" id="rail">
+    <button type="button" id="filter-toggle" class="filter-toggle" aria-expanded="false">
+      Filtrer les offres
+    </button>
+
+    <form id="filters" autocomplete="off" onsubmit="return false">
+      <div class="field">
+        <label for="q">Rechercher <kbd>/</kbd></label>
+        <input type="search" id="q" placeholder="soudage, Abaqus, Brésil…">
+      </div>
+
+      <fieldset class="field">
+        <legend>Domaine dominant</legend>
+        <div id="axis-filters" class="checks"></div>
+      </fieldset>
+
+      <div class="field">
+        <label for="minscore">Score minimum <output id="minscore-out" class="mono">0</output></label>
+        <input type="range" id="minscore" min="0" max="90" step="5" value="0">
+      </div>
+
+      <div class="field">
+        <label for="country">Pays</label>
+        <input type="search" id="country-search" class="option-search"
+               placeholder="Filtrer les pays…" autocomplete="off">
+        <select id="country" size="1"><option value="">Tous</option></select>
+      </div>
+
+      <div class="field">
+        <label for="company">Entreprise</label>
+        <input type="search" id="company-search" class="option-search"
+               placeholder="Filtrer les entreprises…" autocomplete="off">
+        <select id="company" size="1"><option value="">Toutes</option></select>
+      </div>
+
+      <div class="field">
+        <label for="duration">Durée</label>
+        <select id="duration">
+          <option value="">Toutes</option>
+          <option value="short">12 mois ou moins</option>
+          <option value="mid">12 à 18 mois</option>
+          <option value="long">Plus de 18 mois</option>
+        </select>
+      </div>
+
+      <div class="field">
+        <label for="start-after">Départ à partir du</label>
+        <input type="date" id="start-after">
+      </div>
+
+      <div class="field">
+        <label for="sort">Trier par</label>
+        <select id="sort">
+          <option value="score">Adéquation</option>
+          <option value="start">Date de départ</option>
+          <option value="expiry">Date d'expiration</option>
+          <option value="publish">Date de publication</option>
+          <option value="company">Entreprise</option>
+        </select>
+      </div>
+
+      <div class="field">
+        <label for="page-size">Offres affichées</label>
+        <select id="page-size">
+          <option value="25">25 par page</option>
+          <option value="50">50 par page</option>
+          <option value="75">75 par page</option>
+          <option value="100">100 par page</option>
+          <option value="0">Toutes</option>
+        </select>
+      </div>
+
+      <button type="button" id="reset" class="reset">Réinitialiser</button>
+    </form>
+
+    <details class="weights-panel">
+      <summary>Pondérer les critères</summary>
+      <p class="weights-intro">
+        Chaque curseur correspond à un module du programme. Monte ceux qui
+        comptent pour toi, descends les autres : tous les scores se recalculent
+        immédiatement.
+      </p>
+      <div id="weights"></div>
+      <button type="button" id="weights-reset" class="reset">Revenir aux poids d'origine</button>
+    </details>
+
+    <div class="exports">
+      <button type="button" id="export-csv" class="reset">Exporter ma sélection (CSV)</button>
+      <button type="button" id="export-prefs" class="reset">Sauvegarder mes favoris</button>
+      <label class="reset import-label">
+        Restaurer une sauvegarde
+        <input type="file" id="import-prefs" accept="application/json" hidden>
+      </label>
+    </div>
+
+    <p class="freshness mono" id="freshness"></p>
+  </aside>
+
+  <section class="results">
+    <div class="results-head">
+      <h2 id="count">Chargement…</h2>
+      <p class="legend mono">
+        <span class="key" data-axis="rd"></span>R&amp;D
+        <span class="key" data-axis="prod"></span>Prod
+        <span class="key" data-axis="qual"></span>Qualité
+        <span class="key" data-axis="calc"></span>Calcul
+      </p>
+    </div>
+
+    <div id="chips" class="chips" hidden></div>
+    <div id="list"></div>
+
+    <div id="more-wrap" class="more-wrap" hidden>
+      <button type="button" id="more" class="more"></button>
+    </div>
+  </section>
+
+</main>
+
+<section class="watchlist">
+  <div class="watchlist-inner">
+    <h2>Vérifier aussi à la source</h2>
+    <p>
+      La quasi-totalité des V.I.E passe par Business France, mais certains groupes
+      publient d'abord sur leur propre portail. Ces raccourcis lancent la recherche
+      chez les entreprises qui recrutent le plus sur ce profil.
+    </p>
+    <ul id="companies" class="company-grid"></ul>
+  </div>
+</section>
+
+<footer class="colophon">
+  <p>
+    Données publiques Business France, collectées automatiquement chaque jour.
+    Favoris, notes et pondérations restent dans ce navigateur — pense à les
+    sauvegarder avant de changer de machine. Le score est un outil de tri, pas
+    un avis de recrutement : il n'a pas lu l'offre, il a compté des mots.
+  </p>
+  <p class="version mono" id="ui-version">Interface non chargée</p>
+</footer>
+
+<script src="assets/app.js?v=8"></script>
+</body>
+</html>

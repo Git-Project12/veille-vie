@@ -1,0 +1,99 @@
+name: Collecte quotidienne des offres V.I.E
+
+on:
+  schedule:
+    # 05h10 UTC, soit environ 07h10 à Paris.
+    - cron: "10 5 * * *"
+  workflow_dispatch:        # bouton « Run workflow » pour lancer à la demande
+  push:
+    branches: [main]
+
+permissions:
+  contents: write           # pour committer data/offers.json
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Refuser de publier si la clé a fui dans le dépôt
+        run: |
+          if git ls-files --error-unmatch cle-api.txt >/dev/null 2>&1; then
+            echo "::error::cle-api.txt est suivi par Git et serait publié."
+            echo "::error::Corrige avec : git rm --cached cle-api.txt puis committe."
+            exit 1
+          fi
+          echo "Aucune clé exposée dans le dépôt."
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installer les dépendances
+        run: pip install -r collector/requirements.txt
+
+      - name: Vérifier que la clé d'API est configurée
+        run: |
+          if [ -z "${{ secrets.VIE_API_KEY }}" ]; then
+            echo "::warning::Le secret VIE_API_KEY est absent."
+            echo "::warning::Réglages > Secrets and variables > Actions > New repository secret"
+            echo "::warning::La collecte utilisera la clé intégrée au script, qui peut être périmée."
+          fi
+
+      - name: Collecter et noter les offres
+        id: collect
+        continue-on-error: true    # une API indisponible ne doit pas casser le site
+        env:
+          # La clé vient du coffre du dépôt. Elle n'apparaît ni dans le code,
+          # ni dans les journaux : GitHub la masque automatiquement.
+          VIE_API_KEY: ${{ secrets.VIE_API_KEY }}
+        run: python collector/collect.py
+
+      - name: Signaler une collecte en échec
+        if: steps.collect.outcome == 'failure'
+        run: |
+          echo "::warning::La collecte a échoué. Le site conserve les offres précédentes."
+          echo "::warning::Cause la plus fréquente : clé X-API-KEY changée par Business France."
+
+      - name: Committer les nouvelles données
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/offers.json
+          if git diff --staged --quiet; then
+            echo "Aucun changement dans les offres."
+          else
+            git commit -m "Collecte du $(date -u +%Y-%m-%d)"
+            git push
+          fi
+
+      - name: Assembler le site
+        run: |
+          mkdir -p _site/data
+          cp -r site/* _site/
+          if [ -f data/offers.json ]; then
+            cp data/offers.json _site/data/
+          else
+            echo '{"offers":[],"total_scanned":0,"total_kept":0}' > _site/data/offers.json
+          fi
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: collect
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
