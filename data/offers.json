@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-08-19T06:04:37+00:00",
+ "generated_at": "2026-08-19T17:38:21+00:00",
  "source": "Business France — mon-vie-via.businessfrance.fr",
- "total_scanned": 762,
- "total_kept": 505,
+ "total_scanned": 767,
+ "total_announced": 767,
+ "total_kept": 506,
  "threshold": 25,
  "axes": {
   "rd": {
@@ -502,7 +503,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-11T14:56:32Z",
    "sector": "",
-   "specialization": "60",
+   "specialization": "[\"60\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -656,7 +657,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-05T13:42:18Z",
    "sector": "",
-   "specialization": "60",
+   "specialization": "[\"60\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -940,7 +941,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-18T09:17:58Z",
    "sector": "",
-   "specialization": "149",
+   "specialization": "[\"149\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -1114,7 +1115,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-27T16:31:25Z",
    "sector": "",
-   "specialization": "60, 64, 65, 77",
+   "specialization": "[\"60\",\"64\",\"65\",\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -1243,7 +1244,7 @@
    "expiry_date": "",
    "publish_date": "2026-03-03T08:40:40Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -1819,7 +1820,7 @@
    "expiry_date": "",
    "publish_date": "2025-10-08T09:46:46Z",
    "sector": "",
-   "specialization": "77, 149",
+   "specialization": "[\"77\",\"149\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -2926,7 +2927,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-30T08:26:59Z",
    "sector": "",
-   "specialization": "86, 113, 125, 149, 169",
+   "specialization": "[\"86\",\"113\",\"125\",\"149\",\"169\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -3414,7 +3415,7 @@
    "expiry_date": "",
    "publish_date": "2026-05-12T14:43:27Z",
    "sector": "",
-   "specialization": "5, 21, 49, 86, 125, 144, 150, 155, 208, 209, 244, 256, 262, 264",
+   "specialization": "[\"5\",\"21\",\"49\",\"86\",\"125\",\"144\",\"150\",\"155\",\"208\",\"209\",\"244\",\"256\",\"262\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -3935,7 +3936,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-27T12:16:48Z",
    "sector": "",
-   "specialization": "63, 86, 251",
+   "specialization": "[\"63\",\"86\",\"251\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -4273,7 +4274,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-04T20:56:07Z",
    "sector": "",
-   "specialization": "9",
+   "specialization": "[\"9\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -4848,7 +4849,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-14T14:33:03Z",
    "sector": "",
-   "specialization": "144",
+   "specialization": "[\"144\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -4963,7 +4964,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-23T08:49:09Z",
    "sector": "",
-   "specialization": "70",
+   "specialization": "[\"70\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5144,7 +5145,7 @@
   },
   {
    "id": "245280",
-   "title": "Chargé(e) de qualité (H/F)",
+   "title": "Ingénieur Qualité Vie Série (H/F)",
    "company": "FAURECIA CLARION ELECTRONICS EUROPE",
    "country": "HONGRIE",
    "city": "NAGYKATA",
@@ -5157,15 +5158,15 @@
    "expiry_date": "",
    "publish_date": "2026-08-17T10:41:19Z",
    "sector": "",
-   "specialization": "149",
+   "specialization": "[\"149\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-08-17T10:41:19Z",
     "missionStartDate": "2026-11-01T00:00:00",
     "missionEndDate": "2027-11-01T00:00:00",
-    "startBroadcastDate": "2026-08-17T00:00:00",
-    "endBroadcastDate": "2026-09-16T00:00:00"
+    "startBroadcastDate": "2026-08-19T00:00:00",
+    "endBroadcastDate": "2026-09-18T00:00:00"
    },
    "summary": "Participer activement au déploiement des demandes de modification technique ou de processus.\nÉvaluer l’impact sur la qualité résultant des demandes de modification internes ou externes (impact sur l’APQP client / impact sur la qualification du produit / impact sur la qualification de niveau N).\nVeiller à l’application des exigences client relatives aux aspects qualité de la production en série (MP).\nValider les instructions de contrôle conformément à la mise à jour du plan de contrôle (par exemple : instructions de contrôle final, instructions de validation de la première pièce, etc.).\nVeiller au respect des normes de qualité (basées sur le plan de contrôle, l’analyse PFMEA, la standardisation du travail, etc.) pendant la production en série.\nGérer conjointement l’audit annuel du client avec l’équipe de planification.\nSuperviser le dispositif de lancement en toute sécurité et suivre les résultats.\nCréer et valider le plan de qualification des processus et la validation de la ligne de production en cas de modifications des lignes de production existantes. […]",
    "url": "https://mon-vie-via.businessfrance.fr/offres/245280",
@@ -5237,6 +5238,7 @@
     {
      "label": "Intitulé technique ciblé",
      "terms": [
+      "ingenieur",
       "qualite"
      ],
      "points": 14
@@ -5628,7 +5630,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-03T08:04:03Z",
    "sector": "",
-   "specialization": "70",
+   "specialization": "[\"70\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6648,7 +6650,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-29T08:07:51Z",
    "sector": "",
-   "specialization": "328",
+   "specialization": "[\"328\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -7078,7 +7080,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-10T13:07:46Z",
    "sector": "",
-   "specialization": "208",
+   "specialization": "[\"208\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -7598,7 +7600,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-10T14:00:20Z",
    "sector": "",
-   "specialization": "73",
+   "specialization": "[\"73\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -7820,7 +7822,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-12T12:21:22Z",
    "sector": "",
-   "specialization": "60",
+   "specialization": "[\"60\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8474,6 +8476,112 @@
    ]
   },
   {
+   "id": "243585",
+   "title": "Process Engineer  (H/F)",
+   "company": "ADISSEO FRANCE S.A.S.",
+   "country": "CHINE",
+   "city": "NANJING",
+   "description": "About the Nanjing Site\r\nThe Nanjing site is one of Adisseo’s major industrial complexes, comprising two production units (BANC 1 and BANC 2) with a total capacity of approximately 350 kt.\r\n\r\nSpanning 43 hectares, the site includes 25 chemical units as well as a dedicated logistics center.\r\n\r\nThe plant primarily produces liquid methionine (Rhodimet AT88), ammonium sulfate, and carbon disulfide (CS₂).\r\n\r\nIt employs around 500 people, supported by more than 300 contractors.\r\n\r\nKey Responsibilities\r\nReporting to the site industrial teams, you will actively contribute to operational performance and the optimization of chemical processes.\r\n\r\nYour main responsibilities will include:\r\n\r\nSupporting the implementation of the site’s operational strategy\r\nMonitoring, analyzing, and optimizing production processes to achieve performance targets (quality, cost, delivery)\r\nContributing to continuous improvement initiatives and chemical process optimization projects\r\nParticipating in safety audits, risk assessments (e.g., HAZOP, FMEA), and incident investigations\r\nEnsuring compliance with HSE (Health, Safety, Environment) standards and regulatory requirements\r\nMonitoring process parameters and contributing to the update of technical documentation\r\nSupporting ISO compliance and coordinating quality audits\r\nCollaborating closely with local teams, suppliers, and industrial partners",
+   "mission": "",
+   "profile": "Master’s degree (Engineering degree or equivalent) in Chemical Engineering, Process Engineering, or Industrial Engineering\nInitial experience (internship or apprenticeship) in an industrial or chemical environment is a plus\nStrong awareness of HSE and quality standards\nAnalytical mindset, rigor, and problem-solving skills\nTeam player with strong communication skills in an international environment\nGood command of English required",
+   "duration": 12,
+   "start_date": "2027-02-01T00:00:00",
+   "end_date": "2028-02-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-06-05T12:11:52Z",
+   "sector": "",
+   "specialization": "[\"169\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-06-05T12:11:52Z",
+    "missionStartDate": "2027-02-01T00:00:00",
+    "missionEndDate": "2028-02-01T00:00:00",
+    "startBroadcastDate": "2026-08-19T00:00:00",
+    "endBroadcastDate": "2026-09-18T00:00:00"
+   },
+   "summary": "About the Nanjing Site\r\nThe Nanjing site is one of Adisseo’s major industrial complexes, comprising two production units (BANC 1 and BANC 2) with a total capacity of approximately 350 kt.\r\n\r\nSpanning 43 hectares, the site includes 25 chemical units as well as a dedicated logistics center.\r\n\r\nThe plant primarily produces liquid methionine (Rhodimet AT88), ammonium sulfate, and carbon disulfide (CS₂).\r\n\r\nIt employs around 500 people, supported by more than 300 contractors.\r\n\r\nKey Responsibilities\r\nReporting to the site industrial teams, you will actively contribute to operational performance and the optimization of chemical processes.\r\n\r\nYour main responsibilities will include:\r\n\r\nSupporting the implementation of the site’s operational strategy\r\nMonitoring, analyzing, and optimizing production processes to achieve performance targets (quality, cost, delivery)\r\nContributing to continuous improvement initiatives and chemical process optimization projects\r\nParticipating in safety audits, risk assessments (e.g., HAZOP, FMEA), and incident investigations […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/243585",
+   "score": 61,
+   "label": "Bonne adéquation",
+   "first_seen": "2026-08-19",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 33,
+    "qual": 50,
+    "calc": 0
+   },
+   "dominant_axis": "qual",
+   "matched_families": [
+    {
+     "id": "prod4",
+     "axis": "prod",
+     "source": "Outils de production (269-1), Tenue mécanique des outillages (284-3, 292-1)",
+     "weight": 10,
+     "terms": [
+      "plant",
+      "process engineer",
+      "process engineering"
+     ]
+    },
+    {
+     "id": "prod5",
+     "axis": "prod",
+     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
+     "weight": 7,
+     "terms": [
+      "continuous improvement",
+      "industrial engineer",
+      "process optimization"
+     ]
+    },
+    {
+     "id": "qual2",
+     "axis": "qual",
+     "source": "Qualité et normes (774-1)",
+     "weight": 10,
+     "terms": [
+      "audit",
+      "compliance",
+      "quality",
+      "standards"
+     ]
+    },
+    {
+     "id": "qual3",
+     "axis": "qual",
+     "source": "Plans d'expériences (283-1), Outils logiciels mathématiques et statistiques (289-1)",
+     "weight": 8,
+     "terms": [
+      "fmea"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "engineer",
+      "process"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "chemical",
+      "industrial"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
    "id": "244639",
    "title": "Chargé d’Affaires Technique (H/F)",
    "company": "ALLIO FRANCE",
@@ -8488,7 +8596,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-16T13:20:47Z",
    "sector": "",
-   "specialization": "64, 77, 149, 175, 264",
+   "specialization": "[\"64\",\"77\",\"149\",\"175\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8613,7 +8721,7 @@
    "expiry_date": "",
    "publish_date": "2025-11-19T10:45:12Z",
    "sector": "",
-   "specialization": "77, 149, 207",
+   "specialization": "[\"77\",\"149\",\"207\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8827,7 +8935,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-13T12:46:22Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8938,7 +9046,7 @@
    "expiry_date": "",
    "publish_date": "2026-05-13T14:06:07Z",
    "sector": "",
-   "specialization": "114",
+   "specialization": "[\"114\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9810,7 +9918,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-06T12:31:39Z",
    "sector": "",
-   "specialization": "66",
+   "specialization": "[\"66\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10243,117 +10351,6 @@
    ]
   },
   {
-   "id": "244716",
-   "title": "Quality management coordination (H/F)",
-   "company": "ARCELORMITTAL FRANCE",
-   "country": "LUXEMBOURG",
-   "city": "LUXEMBOURG",
-   "description": "Detailed responsibilities as per:\n\nto act as trusted Quality coordinator advisor, proactively providing sound and pragmatic counseling, at the same time minimizing and mitigating risks, and promotes leadership on Quality management balancing with practices of other business initiatives to allow all objectives of the business and customer requirements to be satisfied\nto implement & deploy quality system and coordinate quality systems on-going maintenance and continuous improvement projects. Ensure compliance of quality to all required standards including customer specific requirements (ISO 9001 & IATF 16949)\nto actively support processes when need be (specific changes, critical topics, gaps to close, etc.)\nto manage the daily activities of the functional Quality organization ensuring adequate resources are in place \nto train and educate EPO teams on Quality management matters, so that they are informed of any changes and updates to guidelines.\nto monitor all EPO operational and support processes and procedures to ensure that the company complies with all required norms & regulations, conducting regular assessments via the EPO MMS process. To develop and perform monthly/quarterly KPIs reporting to management.\nto maintain and support ISO Certification : to conduct certification and surveillance audits with Third Party Agencies / conducting Second party audit / third party audit organization. To coordinate and perform (as required) internal process audits and system audits utilizing VDA 6.3\nto validate & publish documents on sharepoints/ portals/ and communicate the changes\nto effectively challenge the pilot/owner on continuous improvement and problem resolution to support implementation of reporting systems and continuous improvement systems and tools\nto be up-to-date on regulations related to norms and requirements\nto actively participate to meetings and calls with Corporate /Europe Quality team when required and regularly sharing best practices, new challenges or developments, innovations. And reporting functionally on matters of relevance.",
-   "mission": "",
-   "profile": "COMPETENCES & QUALIFICATIONS/EXPERIENCES\nMaster's degree; or at least 2 years' experience in Quality Assurance/Quality Systems with a background in Quality or steel production industry\nKnowledge of quality systems ISO 9001, including IATF 16949 -procurement chapters is a must; other certifications (ISO14001, ISO 45001, and experience in VDA 6.3 and customer portals and systems is a plus).\nAuditing experience\nGood command of English. Any additional European language is a plus\nStrong leadership and communication skills\nResult and Customer oriented, and able to cope with high levels of stress under time pressure and challenging people and environments \nProficiency in Microsoft Office\nKnowledge on IT Tools & « digitalization » (how to create / manage digital courses is a “plus”)",
-   "duration": 12,
-   "start_date": "2026-10-01T00:00:00",
-   "end_date": "2027-10-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-07-20T14:51:41Z",
-   "sector": "",
-   "specialization": "209",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-07-20T14:51:41Z",
-    "missionStartDate": "2026-10-01T00:00:00",
-    "missionEndDate": "2027-10-01T00:00:00",
-    "startBroadcastDate": "2026-07-21T00:00:00",
-    "endBroadcastDate": "2026-08-20T00:00:00"
-   },
-   "summary": "Detailed responsibilities as per:\n\nto act as trusted Quality coordinator advisor, proactively providing sound and pragmatic counseling, at the same time minimizing and mitigating risks, and promotes leadership on Quality management balancing with practices of other business initiatives to allow all objectives of the business and customer requirements to be satisfied\nto implement & deploy quality system and coordinate quality systems on-going maintenance and continuous improvement projects. Ensure compliance of quality to all required standards including customer specific requirements (ISO 9001 & IATF 16949)\nto actively support processes when need be (specific changes, critical topics, gaps to close, etc.)\nto manage the daily activities of the functional Quality organization ensuring adequate resources are in place \nto train and educate EPO teams on Quality management matters, so that they are informed of any changes and updates to guidelines. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/244716",
-   "score": 59,
-   "label": "Bonne adéquation",
-   "first_seen": "2026-08-18",
-   "axis_scores": {
-    "rd": 17,
-    "prod": 45,
-    "qual": 47,
-    "calc": 0
-   },
-   "dominant_axis": "qual",
-   "matched_families": [
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1), Tenue mécanique des outillages (284-3, 292-1)",
-     "weight": 10,
-     "terms": [
-      "usine"
-     ]
-    },
-    {
-     "id": "prod5",
-     "axis": "prod",
-     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
-     "weight": 7,
-     "terms": [
-      "continuous improvement"
-     ]
-    },
-    {
-     "id": "prod6",
-     "axis": "prod",
-     "source": "Usinage / moyens de fabrication (259-1)",
-     "weight": 6,
-     "terms": [
-      "press"
-     ]
-    },
-    {
-     "id": "qual2",
-     "axis": "qual",
-     "source": "Qualité et normes (774-1)",
-     "weight": 10,
-     "terms": [
-      "audit",
-      "certification",
-      "compliance",
-      "iatf"
-     ]
-    },
-    {
-     "id": "qual4",
-     "axis": "qual",
-     "source": "Introduction aux techniques expérimentales (267-1)",
-     "weight": 7,
-     "terms": [
-      "qualification"
-     ]
-    },
-    {
-     "id": "rd1",
-     "axis": "rd",
-     "source": "Métallurgie 1 & 2 (280-1, 287-1)",
-     "weight": 10,
-     "terms": [
-      "steel"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "quality"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "230085",
    "title": "INGENIEUR DEVELOPMENT SYSTEM EMBARQUE (H/F) - SUEDE",
    "company": "CLEEVEN ND",
@@ -10660,7 +10657,7 @@
    "expiry_date": "",
    "publish_date": "2025-11-13T13:45:31Z",
    "sector": "",
-   "specialization": "64, 77, 150, 153, 168, 206",
+   "specialization": "[\"64\",\"77\",\"150\",\"153\",\"168\",\"206\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10861,7 +10858,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-31T07:24:37Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -11177,7 +11174,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-16T09:46:27Z",
    "sector": "",
-   "specialization": "29",
+   "specialization": "[\"29\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -11667,7 +11664,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-06T13:29:27Z",
    "sector": "",
-   "specialization": "68",
+   "specialization": "[\"68\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12165,7 +12162,7 @@
    "expiry_date": "",
    "publish_date": "2026-02-23T16:12:58Z",
    "sector": "",
-   "specialization": "330",
+   "specialization": "[\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12575,7 +12572,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-10T16:59:30Z",
    "sector": "",
-   "specialization": "60, 149, 224",
+   "specialization": "[\"60\",\"149\",\"224\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -13856,7 +13853,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-21T13:03:01Z",
    "sector": "",
-   "specialization": "64, 264",
+   "specialization": "[\"64\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -15328,7 +15325,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-12T12:32:56Z",
    "sector": "",
-   "specialization": "60",
+   "specialization": "[\"60\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -15418,7 +15415,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-12T13:41:19Z",
    "sector": "",
-   "specialization": "351",
+   "specialization": "[\"351\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -15799,7 +15796,7 @@
    "expiry_date": "",
    "publish_date": "2026-05-06T09:32:41Z",
    "sector": "",
-   "specialization": "329",
+   "specialization": "[\"329\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -15993,7 +15990,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-10T10:23:23Z",
    "sector": "",
-   "specialization": "66",
+   "specialization": "[\"66\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -16195,7 +16192,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-20T10:05:55Z",
    "sector": "",
-   "specialization": "64",
+   "specialization": "[\"64\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -17210,7 +17207,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-20T12:15:57Z",
    "sector": "",
-   "specialization": "169",
+   "specialization": "[\"169\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -17423,6 +17420,116 @@
    ]
   },
   {
+   "id": "245310",
+   "title": "VIE - Market Risk Analyst H/F (H/F)",
+   "company": "ENGIE GLOBAL MARKETS",
+   "country": "ROUMANIE",
+   "city": "BUCAREST",
+   "description": "About ENGIE\n\nENGIE is a global reference in low-carbon energy and services. In Romania, ENGIE is a key player in the energy sector, supplying gas and electricity to a wide range of clients. As the Romanian energy markets evolve and become increasingly volatile, ENGIE is strengthening its capabilities in market risk monitoring and performance analysis to support its growth in energy trading.\n________________________________________\nMission\nAs a Market Risk Analyst under the VIE program, you will support the development and automation of market risk monitoring tools and processes. You will play a key role in ensuring accurate risk representation, delivering insightful performance analysis, and supporting the management of an increasingly diverse energy portfolio, including renewable generation, battery energy storage systems (BESS), and other emerging energy market activities.\n________________________________________\nKey Responsibilities\nRisk Monitoring & Reporting\n• Produce daily market risk reports and dashboards.\n• Analyze portfolio positions, hedging strategies, and risk limits.\n• Monitor market risk exposure related to both trading and supply activities.\n• Support the evaluation of market exposures and associated risks (e.g., Greeks, stress tests, VaR).\n• Contribute to the risk assessment of new business activities and products, with a particular focus on flexibility assets such as BESS.\nAutomation & Digitalization\n• Contribute to the automation of reporting tools using Python and Power BI.\n• Develop and enhance tools for risk analysis, forecasting, and sensitivity analysis.\n• Propose innovative and robust monitoring solutions to support business development.\nBusiness Support & Collaboration\n• Assist in understanding and explaining P&L variations to Finance and Controlling teams.\n• Provide guidance on risk representation in the deal management system.\n• Collaborate with traders, sales teams, and other stakeholders to ensure risk awareness and compliance.\n• Support the development and integration of new flexibility activities, including BESS optimization and related hedging strategies.",
+   "mission": "",
+   "profile": "Profile\nEducation & Experience\n• Master’s degree (Bac+5) in Finance, Engineering, Economics, or a related field.\n• A minimum of 6 months of experience in the energy sector is preferred.\nSkills & Competencies\n• Strong knowledge of market risk management and financial instruments.\n• Proficiency in Python and Power BI; familiarity with VBA or R is a plus.\n• Understanding of the Romanian and European energy markets and regulatory frameworks.\n• Excellent analytical, critical thinking, and problem-solving skills.\n• Strong communication and presentation abilities.\n• Fluent in English (written and spoken); French is a plus.\nPersonal Attributes\n• Curious, proactive, and adaptable.\n• Team-oriented with a strong sense of responsibility.\n• Results-driven and capable of working autonomously.\n________________________________________\nWhy Join Us?\nYou will be part of a dynamic and ambitious team of 60 professionals in Bucharest, working closely with ENGIE’s financial, trading, and sales teams, as well as international centers of expertise. This role offers a unique opportunity to gain hands-on experience in energy trading and market risk management within a fast-evolving environment.",
+   "duration": 12,
+   "start_date": "2026-11-01T00:00:00",
+   "end_date": "2027-11-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-08-19T11:04:40Z",
+   "sector": "",
+   "specialization": "[\"320\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-08-19T11:04:40Z",
+    "missionStartDate": "2026-11-01T00:00:00",
+    "missionEndDate": "2027-11-01T00:00:00",
+    "startBroadcastDate": "2026-08-19T00:00:00",
+    "endBroadcastDate": "2026-09-18T00:00:00"
+   },
+   "summary": "About ENGIE\n\nENGIE is a global reference in low-carbon energy and services. In Romania, ENGIE is a key player in the energy sector, supplying gas and electricity to a wide range of clients. As the Romanian energy markets evolve and become increasingly volatile, ENGIE is strengthening its capabilities in market risk monitoring and performance analysis to support its growth in energy trading.\n________________________________________\nMission\nAs a Market Risk Analyst under the VIE program, you will support the development and automation of market risk monitoring tools and processes. You will play a key role in ensuring accurate risk representation, delivering insightful performance analysis, and supporting the management of an increasingly diverse energy portfolio, including renewable generation, battery energy storage systems (BESS), and other emerging energy market activities.\n________________________________________\nKey Responsibilities\nRisk Monitoring & Reporting\n• Produce daily market risk reports and dashboards.\n• Analyze portfolio positions, hedging strategies, and risk limits. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/245310",
+   "score": 52,
+   "label": "Bonne adéquation",
+   "first_seen": "2026-08-19",
+   "axis_scores": {
+    "rd": 13,
+    "prod": 57,
+    "qual": 28,
+    "calc": 17
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "calc4",
+     "axis": "calc",
+     "source": "Outils et méthodes de calcul numérique (258-1), Initiation Excel et macros (266-1), Asservissement (840-1)",
+     "weight": 5,
+     "terms": [
+      "automation",
+      "python",
+      "vba"
+     ]
+    },
+    {
+     "id": "prod1",
+     "axis": "prod",
+     "source": "Mise en forme par déformation plastique des métaux (281-1), Physique de la mise en forme (290-1)",
+     "weight": 10,
+     "terms": [
+      "rolling"
+     ]
+    },
+    {
+     "id": "prod2",
+     "axis": "prod",
+     "source": "Mise en forme par solidification (288-1), Outils et moyens de fabrication (259-1)",
+     "weight": 9,
+     "terms": [
+      "casting"
+     ]
+    },
+    {
+     "id": "prod4",
+     "axis": "prod",
+     "source": "Outils de production (269-1), Tenue mécanique des outillages (284-3, 292-1)",
+     "weight": 10,
+     "terms": [
+      "usine"
+     ]
+    },
+    {
+     "id": "qual2",
+     "axis": "qual",
+     "source": "Qualité et normes (774-1)",
+     "weight": 10,
+     "terms": [
+      "compliance"
+     ]
+    },
+    {
+     "id": "rd6",
+     "axis": "rd",
+     "source": "Comportement mécanique des matériaux non conventionnels (298-2), Projet de recherche (261-1)",
+     "weight": 8,
+     "terms": [
+      "battery"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "energy"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
    "id": "242022",
    "title": "Ingénieur(e) risques industriels (H/F)",
    "company": "NEODYME",
@@ -17539,7 +17646,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-10T09:53:50Z",
    "sector": "",
-   "specialization": "138, 144, 248, 327, 330, 355",
+   "specialization": "[\"138\",\"144\",\"248\",\"327\",\"330\",\"355\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -17736,7 +17843,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-29T21:13:41Z",
    "sector": "",
-   "specialization": "330",
+   "specialization": "[\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -18639,7 +18746,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-17T07:09:21Z",
    "sector": "",
-   "specialization": "9, 259",
+   "specialization": "[\"9\",\"259\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -18821,7 +18928,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-17T12:08:42Z",
    "sector": "",
-   "specialization": "6",
+   "specialization": "[\"6\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19259,7 +19366,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-31T12:40:30Z",
    "sector": "",
-   "specialization": "73",
+   "specialization": "[\"73\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19340,7 +19447,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-10T13:47:40Z",
    "sector": "",
-   "specialization": "245, 248, 251, 262, 323, 328, 330, 355, 356, 357",
+   "specialization": "[\"245\",\"248\",\"251\",\"262\",\"323\",\"328\",\"330\",\"355\",\"356\",\"357\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19498,101 +19605,6 @@
       "ingenieur"
      ],
      "points": 14
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
-   "id": "243911",
-   "title": "INGÉNIEUR(E) AMÉLIORATION CONTINUE (H/F)",
-   "company": "AALBERTS HFC COMAP SA",
-   "country": "PAYS-BAS",
-   "city": "ALMERE",
-   "description": "Le poste en amélioration continue (CI) Europe sera rattaché au Directeur senior global Amélioration Continue EMEA. Le poste sera basé à Almere, aux Pays-Bas.\r\nIl impliquera le soutien des usines Aalberts de la région Europe dans leurs démarches d’amélioration continue, avec environ 50 % de déplacements au sein des sites européens.\r\nEn tant que leader proactif et opérationnel en amélioration continue, la mission consiste à déployer les outils et méthodes Lean en collaboration avec les responsables de production, les superviseurs et les opérateurs afin d’améliorer la performance en matière de Sécurité, Qualité, Coûts, Délais, Stocks et Ressources humaines (SQCDIP).\r\nLa mission sera principalement axée sur la mise en place des fondamentaux du Lean et de la culture associée, ainsi que sur la formation quotidienne sur le terrain des équipes opérationnelles, au travers des ateliers Kaizen suivants :\r\n\r\n- Déploiement du système et des procédures 5S, avec mise en œuvre dans des zones pilotes\r\n- Mise en place des réunions de management quotidien avec tableaux de bord à niveaux (tier boards) et indicateurs clés de performance (SQCDIP), afin de piloter les plans d’actions à court et long terme\r\n- Équilibrage des temps de cycle hommes / machines au sein des cellules de production\r\n- Déploiement de la Maintenance Productive Totale (TPM) : maintenance autonome, maintenance préventive et système de gestion des pièces de rechange\r\n- Réduction des rebuts et retouches par l’analyse des 5 pourquoi et l’Analyse par Arbre de Défaillance (FTA), amélioration des procédés et de la conception des produits\r\n- Analyse et réduction des stocks obsolètes\r\n- Conception et optimisation des implantations des ateliers et des entrepôts\r\n\r\nÀ partir de ces ateliers Lean pratiques, le titulaire du poste accompagnera le Directeur senior global Amélioration Continue EMEA dans le partage des bonnes pratiques à l’échelle de la région et des sites, tout en contribuant au développement et au déploiement de l’Aalberts Production System et de sa feuille de route.",
-   "mission": "",
-   "profile": "Bon(ne communicant(e)\nFaciliter dans l'animation de workshops\n5S, Kaizen, amélioration du temps de cycle, tableau de pilotage (SQCDIP), SMED, TPM (serait un plus)\nUne expérience en amélioration continue et excellence opérationnelle dans un environnement industriel est souhaitée.\nFormation en ingénierie ou en gestion de la chaîne d’approvisionnement (génie mécanique, génie industriel ou supply chain management de préférence).",
-   "duration": 18,
-   "start_date": "2026-10-01T00:00:00",
-   "end_date": "2028-04-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-06-18T08:57:53Z",
-   "sector": "",
-   "specialization": "244",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-06-18T08:57:53Z",
-    "missionStartDate": "2026-10-01T00:00:00",
-    "missionEndDate": "2028-04-01T00:00:00",
-    "startBroadcastDate": "2026-07-21T00:00:00",
-    "endBroadcastDate": "2026-08-20T00:00:00"
-   },
-   "summary": "Le poste en amélioration continue (CI) Europe sera rattaché au Directeur senior global Amélioration Continue EMEA. Le poste sera basé à Almere, aux Pays-Bas.\r\nIl impliquera le soutien des usines Aalberts de la région Europe dans leurs démarches d’amélioration continue, avec environ 50 % de déplacements au sein des sites européens.\r\nEn tant que leader proactif et opérationnel en amélioration continue, la mission consiste à déployer les outils et méthodes Lean en collaboration avec les responsables de production, les superviseurs et les opérateurs afin d’améliorer la performance en matière de Sécurité, Qualité, Coûts, Délais, Stocks et Ressources humaines (SQCDIP).\r\nLa mission sera principalement axée sur la mise en place des fondamentaux du Lean et de la culture associée, ainsi que sur la formation quotidienne sur le terrain des équipes opérationnelles, au travers des ateliers Kaizen suivants :\r\n\r\n- Déploiement du système et des procédures 5S, avec mise en œuvre dans des zones pilotes […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/243911",
-   "score": 50,
-   "label": "Bonne adéquation",
-   "first_seen": "2026-08-18",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 33,
-    "qual": 28,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1), Tenue mécanique des outillages (284-3, 292-1)",
-     "weight": 10,
-     "terms": [
-      "atelier",
-      "methodes",
-      "plant",
-      "procede"
-     ]
-    },
-    {
-     "id": "prod5",
-     "axis": "prod",
-     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
-     "weight": 7,
-     "terms": [
-      "5s",
-      "amelioration continue",
-      "kaizen",
-      "lean"
-     ]
-    },
-    {
-     "id": "qual2",
-     "axis": "qual",
-     "source": "Qualité et normes (774-1)",
-     "weight": 10,
-     "terms": [
-      "qualite"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "industriel",
-      "mecanique"
-     ],
-     "points": 5
     },
     {
      "label": "Niveau bac+5 / ingénieur annoncé",
@@ -20169,87 +20181,6 @@
    ]
   },
   {
-   "id": "244690",
-   "title": "BPE Professional – Systems & Process  (H/F)",
-   "company": "CEVA FRANCE",
-   "country": "ETATS-UNIS",
-   "city": "DALLAS          -TX-",
-   "description": "THE MISSIONS \r\n\r\nRequirement to work with GHO organization (interlocutors in France & Netherlands). Need for mobile, junior profile with opportunities to travel to Europe & North America \r\nSupport Migration of systems from OFS to Matrix TMS/FSS, integral in the Ground \"Down-to-3\" IT roadmap and the Company sunsetting of OFS \r\nWork with USA BPE organization to support future solution preparedness for the US Network roll-out \r\nDeploy Track & Trace solution to support Canada customers & operational visibility (MyCEVA & P44) \r\nLeverage Continuous Improvement methodology in improving Process & tools utilization\r\n\r\nABOUT CEVA LOGISTICS\r\n\r\nCEVA Logistics provides global supply chain solutions to connect people, products, and providers all around the world. Present in 170+ countries and with more than 110,000 employees spread over 1,500 sites, we are proud to be a Top 5 global 3PL.\r\n\r\nWe believe that our employees are the key to our success. We want to engage and empower our diverse, global team to co-create value with our customers through our solutions in contract logistics and air, ocean, ground, and finished vehicle transport. That is why CEVA Logistics offers a dynamic and exceptional work environment that fosters personal growth, innovation, and continuous improvement.\r\n\r\nAt CEVA Logistics, we Rise in Motion. Your career is always on the move, growing as fast and as far as your ambition takes you. Join a global team of nearly 200 nationalities, shaping the future of global trade, moving essential goods, forging new paths, and pushing boundaries to serve an ever-changing world. The pace is fast, the challenges are real, but the rewards are greater: growth, purpose, and the chance to make a meaningful impact. This is more than a job. It’s a journey on which you rise.",
-   "mission": "",
-   "profile": "Master’s degree in supply chain, Logistics, Business or related field \r\nEnglish profficiency \r\nWillingness to work in autonomy on high value Digital projects\r\n12 months of professional experience in a similar or related position",
-   "duration": 18,
-   "start_date": "2026-11-01T00:00:00",
-   "end_date": "2028-05-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-07-20T08:10:00Z",
-   "sector": "",
-   "specialization": "264",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-07-20T08:10:00Z",
-    "missionStartDate": "2026-11-01T00:00:00",
-    "missionEndDate": "2028-05-01T00:00:00",
-    "startBroadcastDate": "2026-08-11T00:00:00",
-    "endBroadcastDate": "2026-09-10T00:00:00"
-   },
-   "summary": "THE MISSIONS \r\n\r\nRequirement to work with GHO organization (interlocutors in France & Netherlands). Need for mobile, junior profile with opportunities to travel to Europe & North America \r\nSupport Migration of systems from OFS to Matrix TMS/FSS, integral in the Ground \"Down-to-3\" IT roadmap and the Company sunsetting of OFS \r\nWork with USA BPE organization to support future solution preparedness for the US Network roll-out \r\nDeploy Track & Trace solution to support Canada customers & operational visibility (MyCEVA & P44) \r\nLeverage Continuous Improvement methodology in improving Process & tools utilization\r\n\r\nABOUT CEVA LOGISTICS\r\n\r\nCEVA Logistics provides global supply chain solutions to connect people, products, and providers all around the world. Present in 170+ countries and with more than 110,000 employees spread over 1,500 sites, we are proud to be a Top 5 global 3PL.\r\n\r\nWe believe that our employees are the key to our success. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/244690",
-   "score": 50,
-   "label": "Bonne adéquation",
-   "first_seen": "2026-08-18",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 53,
-    "qual": 0,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod1",
-     "axis": "prod",
-     "source": "Mise en forme par déformation plastique des métaux (281-1), Physique de la mise en forme (290-1)",
-     "weight": 10,
-     "terms": [
-      "forging"
-     ]
-    },
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1), Tenue mécanique des outillages (284-3, 292-1)",
-     "weight": 10,
-     "terms": [
-      "usine"
-     ]
-    },
-    {
-     "id": "prod5",
-     "axis": "prod",
-     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
-     "weight": 7,
-     "terms": [
-      "continuous improvement"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "process"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "245257",
    "title": "Ingénieur méthodes 4.0 (H/F)",
    "company": "EFE INTERNATIONAL",
@@ -20264,7 +20195,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-13T13:34:30Z",
    "sector": "",
-   "specialization": "65, 77, 149, 207, 244",
+   "specialization": "[\"65\",\"77\",\"149\",\"207\",\"244\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20809,7 +20740,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-21T12:18:30Z",
    "sector": "",
-   "specialization": "60",
+   "specialization": "[\"60\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20993,7 +20924,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-23T14:25:33Z",
    "sector": "",
-   "specialization": "259",
+   "specialization": "[\"259\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21084,7 +21015,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-23T15:01:57Z",
    "sector": "",
-   "specialization": "259",
+   "specialization": "[\"259\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21175,7 +21106,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-23T14:36:30Z",
    "sector": "",
-   "specialization": "259",
+   "specialization": "[\"259\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21266,7 +21197,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-23T14:18:30Z",
    "sector": "",
-   "specialization": "259",
+   "specialization": "[\"259\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21357,7 +21288,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-28T14:31:43Z",
    "sector": "",
-   "specialization": "86, 155, 209, 264",
+   "specialization": "[\"86\",\"155\",\"209\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21557,7 +21488,7 @@
    "expiry_date": "",
    "publish_date": "2025-09-25T16:46:39Z",
    "sector": "",
-   "specialization": "78, 106, 155, 158, 192, 208, 244, 264",
+   "specialization": "[\"78\",\"106\",\"155\",\"158\",\"192\",\"208\",\"244\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21922,7 +21853,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-18T09:23:47Z",
    "sector": "",
-   "specialization": "248",
+   "specialization": "[\"248\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22003,7 +21934,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-18T09:21:29Z",
    "sector": "",
-   "specialization": "248",
+   "specialization": "[\"248\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22519,7 +22450,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-21T12:28:26Z",
    "sector": "",
-   "specialization": "73",
+   "specialization": "[\"73\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22827,7 +22758,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-19T15:19:47Z",
    "sector": "",
-   "specialization": "107",
+   "specialization": "[\"107\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -23121,7 +23052,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-12T13:36:38Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -23582,7 +23513,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-29T15:24:21Z",
    "sector": "",
-   "specialization": "225",
+   "specialization": "[\"225\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -23877,7 +23808,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-30T15:10:39Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -24274,7 +24205,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-30T08:31:23Z",
    "sector": "",
-   "specialization": "65, 77",
+   "specialization": "[\"65\",\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -24565,7 +24496,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-16T10:04:59Z",
    "sector": "",
-   "specialization": "259",
+   "specialization": "[\"259\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -24667,7 +24598,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-05T15:05:16Z",
    "sector": "",
-   "specialization": "109",
+   "specialization": "[\"109\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25095,7 +25026,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-10T15:21:27Z",
    "sector": "",
-   "specialization": "155",
+   "specialization": "[\"155\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25181,7 +25112,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-11T15:34:59Z",
    "sector": "",
-   "specialization": "57",
+   "specialization": "[\"57\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25521,6 +25452,96 @@
    ]
   },
   {
+   "id": "245292",
+   "title": "Forward Deployed Engineer - AI & Data Analyst (VIE - New York) (H/F)",
+   "company": "NUMBERLY",
+   "country": "ETATS-UNIS",
+   "city": "New York, NY",
+   "description": "Description de l'entreprise\r\nNumberly est reconnu comme l’un des meilleurs spécialistes mondiaux du Data Marketing avec près de 500 collaborateurs et 11 bureaux dans le monde au service de plus de 300 clients de premier plan (L'Oréal, Groupe Seb, Pernod Ricard, Kellogg's, Colgate, Hills, SNCF, Aigle, HSBC, Arte, L’Occitane...). \r\nEn mettant la technologie au service des marques et des consommateurs, Numberly est au cœur de la croissance des entreprises et de l’aspiration de chacun à un marketing plus responsable et plus pertinent. \r\nNumberly s’appuie sur les avancées les plus récentes en matière de traitement, d’analyse et d’activation media des données dans un contexte vertueux alliant compétitivité des entreprises et respect renforcé de la vie privée et de la protection des données.\r\n\r\nDescription du poste :\r\nPour accompagner notre développement en Amérique du Nord et accélérer notre évolution technologique, Numberly recherche un·e Forward Deployed Engineer - AI & Data Analyst pour une première période de 6/12 mois au sein de nos équipes à Paris, suivie d’un VIE de 18 mois à New York (bureau localisé à Brooklyn).\r\nAu croisement du Marketing, du Data Engineering, des Clean Rooms et de l'IA, vous contribuerez activement aux grands projets Data pour participer à la mise en valeur des données de nos clients et de leurs partenaires, tout en accompagnant l'intégration de l'IA et l'automatisation de nos processus.\r\n\r\nLe/la VIE sera intégré·e à l'équipe Data du bureau de New York et bénéficiera d'un accompagnement quotidien par son manager local ou sa manageuse locale.\r\n\r\nPassionné·e par la data collaboration et l'impact de l'IA sur la transformation de projets complexes ? Rejoignez-nous !\r\n\r\nVos responsabilités s'articuleront autour des missions suivantes :\r\n- Contribution aux projets de Data Collaboration pour nos clients nord-américains dans un environnement international, en participant la bonne traduction des besoins business US en solutions techniques concrètes.\r\n- Analyse & Activation Data : Participation à l'analyse de données marketing, optimisation des stratégies d'activation et amélioration de la connaissance client via l'écosystème adtech (AMC, LiveRamp, Meta) pour maximiser les performances des campagnes.\r\n- Analyser les workflows marketing et data actuels pour identifier, aux côtés des équipes, les opportunités d'amélioration d'efficacité et d'automatisation grâce à l'IA.\r\n- Appui à l'évolution des processus de Numberly pour qu'ils soient nativement pensés pour être exécutés ou assistés par des systèmes automatisés et des agents IA.\r\nPoste à pourvoir en septembre/octobre 2026. \r\n\r\nInformations complémentaires \r\n- Chez Numberly, nous partageons une passion pour la transmission : des talks internes hebdomadaires, des rencontres avec des professionnel·le·s expert·e·s dans leur domaine, un apprentissage permanent.\r\n- Un onboarding rapide et puissant, notamment grâce à notre plateforme de learning interactive et personnalisée ; aux Vis ma vie dans des équipes différentes ; aux Happy Meetings, des rendez-vous mensuels internes pour se retrouver avec toutes nos équipes dans le monde et partager l’actualité du groupe ; aux Jedi Masters pour accompagner les nouveaux talents.\r\n- Nous cultivons la liberté de parole qui permet à toutes et tous de participer au développement du groupe.\r\n- Nous agissons positivement sur notre écosystème à travers 1000mercis impacts et via nos activités qui créent de la valeur dans l’Open Internet et participent à l’enrichissement de l’Open Source.\r\n- Numberly est acteur de la diversité et Gender Equal by design (Gender Equity score de 97/100).\r\n- Numberly est certifié ISO/IEC 27001:2023 ; cette certification reconnaît le respect des normes les plus élevées en matière de sécurité de l'information.\r\n- Nous évoluons dans un environnement international avec plus de 30 nationalités dans nos équipes.\r\n- Des bureaux à l’image de chacune des équipes, une bibliothèque généreuse, un grand studio de musique tout équipé, deux chats, du lombricompostage, la possibilité de venir avec votre animal de compagnie et de la place pour les vélos ! Dans chaque cuisine : café, thé, infusions à volonté et aussi des mystery lunchs.\r\n- Organisation du travail pouvant inclure des jours de remote selon les besoins de l’équipe et des projets.\r\n- Numberly accueille les personnes en situation de handicap.",
+   "mission": "",
+   "profile": "Profil recherché\r\nVous êtes éligible au contrat VIE (ressortissant·e de l'Espace Économique Européen, âgé·e de 18 à 28 ans au début de la mission).\r\nVous êtes diplômé·e d'une grande école d'Ingénieur ou d'un Master universitaire en Data, Informatique ou Management de la Technologie.\r\nVous avez une première expérience (stage/alternance/CDI) réussie en gestion de projets Data et possédez de fortes capacités analytiques. \r\nVous avez une sensibilité ou une première expérience sur les sujets d’IA et d’automatisation, vous vous intéressez à l'usage des LLMs, vous comprenez le fonctionnement des architectures agentiques/multi-agents et souhaitez développer vos compétences pour faire communiquer des applications et APIs entre elles.\r\n Une connaissance ou un intérêt marqué pour la création de Skills, de MCPs et de processus agentiques sera apprécié.\r\nApproche Think & Do : vous aimez tester des outils, créer, vous tromper pour apprendre et concevoir des architectures innovantes.\r\nLa connaissance (ou une appétence pour l'apprentissage) de ces langages et outils serait un plus : SQL, Spark, Python, DAX, tracking et outils de gestion de campagnes.\r\nAnglais courant (écrit et oral) indispensable pour accompagner des clients nord-américains.",
+   "duration": 18,
+   "start_date": "2026-11-01T00:00:00",
+   "end_date": "2028-05-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-08-18T09:54:20Z",
+   "sector": "",
+   "specialization": "[\"355\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-08-18T09:54:20Z",
+    "missionStartDate": "2026-11-01T00:00:00",
+    "missionEndDate": "2028-05-01T00:00:00",
+    "startBroadcastDate": "2026-08-19T00:00:00",
+    "endBroadcastDate": "2026-09-17T00:00:00"
+   },
+   "summary": "Description de l'entreprise\r\nNumberly est reconnu comme l’un des meilleurs spécialistes mondiaux du Data Marketing avec près de 500 collaborateurs et 11 bureaux dans le monde au service de plus de 300 clients de premier plan (L'Oréal, Groupe Seb, Pernod Ricard, Kellogg's, Colgate, Hills, SNCF, Aigle, HSBC, Arte, L’Occitane...). \r\nEn mettant la technologie au service des marques et des consommateurs, Numberly est au cœur de la croissance des entreprises et de l’aspiration de chacun à un marketing plus responsable et plus pertinent. \r\nNumberly s’appuie sur les avancées les plus récentes en matière de traitement, d’analyse et d’activation media des données dans un contexte vertueux alliant compétitivité des entreprises et respect renforcé de la vie privée et de la protection des données.\r\n\r\nDescription du poste : […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/245292",
+   "score": 46,
+   "label": "À examiner",
+   "first_seen": "2026-08-19",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 20,
+    "qual": 28,
+    "calc": 17
+   },
+   "dominant_axis": "qual",
+   "matched_families": [
+    {
+     "id": "calc4",
+     "axis": "calc",
+     "source": "Outils et méthodes de calcul numérique (258-1), Initiation Excel et macros (266-1), Asservissement (840-1)",
+     "weight": 5,
+     "terms": [
+      "automatisation",
+      "python"
+     ]
+    },
+    {
+     "id": "prod4",
+     "axis": "prod",
+     "source": "Outils de production (269-1), Tenue mécanique des outillages (284-3, 292-1)",
+     "weight": 10,
+     "terms": [
+      "usine"
+     ]
+    },
+    {
+     "id": "qual2",
+     "axis": "qual",
+     "source": "Qualité et normes (774-1)",
+     "weight": 10,
+     "terms": [
+      "certification",
+      "normes"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "engineer"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "space"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
    "id": "245119",
    "title": "Data and Process Analyst (H/F)",
    "company": "SNCF VOYAGES DEVELOPPEMENT",
@@ -25535,7 +25556,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-04T14:26:14Z",
    "sector": "",
-   "specialization": "17",
+   "specialization": "[\"17\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25917,7 +25938,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-07T04:05:22Z",
    "sector": "",
-   "specialization": "202",
+   "specialization": "[\"202\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26208,7 +26229,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-27T16:30:48Z",
    "sector": "",
-   "specialization": "2, 60, 62, 63, 64, 65, 66, 71, 73, 110, 112, 114, 133, 143, 144, 145, 149, 155, 158, 159, 160, 161, 168, 169, 205, 206, 207, 208, 213, 244, 245, 246, 247, 248, 249, 251, 327, 328, 329, 330, 331, 345, 355, 358",
+   "specialization": "[\"2\",\"60\",\"62\",\"63\",\"64\",\"65\",\"66\",\"71\",\"73\",\"110\",\"112\",\"114\",\"133\",\"143\",\"144\",\"145\",\"149\",\"155\",\"158\",\"159\",\"160\",\"161\",\"168\",\"169\",\"205\",\"206\",\"207\",\"208\",\"213\",\"244\",\"245\",\"246\",\"247\",\"248\",\"249\",\"251\",\"327\",\"328\",\"329\",\"330\",\"331\",\"345\",\"355\",\"358\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26370,7 +26391,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-22T12:46:37Z",
    "sector": "",
-   "specialization": "130",
+   "specialization": "[\"130\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26895,7 +26916,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-05T13:32:27Z",
    "sector": "",
-   "specialization": "60",
+   "specialization": "[\"60\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26978,7 +26999,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-23T14:02:31Z",
    "sector": "",
-   "specialization": "327",
+   "specialization": "[\"327\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27323,7 +27344,7 @@
    "expiry_date": "",
    "publish_date": "2026-01-20T11:43:51Z",
    "sector": "",
-   "specialization": "52, 63, 118, 125, 168, 225, 256",
+   "specialization": "[\"52\",\"63\",\"118\",\"125\",\"168\",\"225\",\"256\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -28208,7 +28229,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-23T09:27:21Z",
    "sector": "",
-   "specialization": "7, 17, 194, 200, 259, 318, 320",
+   "specialization": "[\"7\",\"17\",\"194\",\"200\",\"259\",\"318\",\"320\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -28337,7 +28358,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-14T12:45:10Z",
    "sector": "",
-   "specialization": "206",
+   "specialization": "[\"206\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29198,7 +29219,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-04T12:59:38Z",
    "sector": "",
-   "specialization": "21",
+   "specialization": "[\"21\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29290,7 +29311,7 @@
    "expiry_date": "",
    "publish_date": "2026-03-30T10:51:45Z",
    "sector": "",
-   "specialization": "248, 327, 328",
+   "specialization": "[\"248\",\"327\",\"328\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29567,7 +29588,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-23T09:09:43Z",
    "sector": "",
-   "specialization": "68",
+   "specialization": "[\"68\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29825,7 +29846,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-22T09:45:04Z",
    "sector": "",
-   "specialization": "29, 35, 144, 213, 245, 246, 247, 248, 251",
+   "specialization": "[\"29\",\"35\",\"144\",\"213\",\"245\",\"246\",\"247\",\"248\",\"251\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30270,7 +30291,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-07T11:55:01Z",
    "sector": "",
-   "specialization": "2",
+   "specialization": "[\"2\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30356,7 +30377,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-07T11:46:23Z",
    "sector": "",
-   "specialization": "2",
+   "specialization": "[\"2\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30865,7 +30886,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-29T17:07:10Z",
    "sector": "",
-   "specialization": "109",
+   "specialization": "[\"109\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31029,7 +31050,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-18T10:03:44Z",
    "sector": "",
-   "specialization": "219",
+   "specialization": "[\"219\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31112,7 +31133,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-05T13:22:26Z",
    "sector": "",
-   "specialization": "219, 222",
+   "specialization": "[\"219\",\"222\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31275,7 +31296,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-17T13:00:11Z",
    "sector": "",
-   "specialization": "5",
+   "specialization": "[\"5\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32208,7 +32229,7 @@
    "expiry_date": "",
    "publish_date": "2026-05-26T12:48:06Z",
    "sector": "",
-   "specialization": "2, 6, 195, 234, 244",
+   "specialization": "[\"2\",\"6\",\"195\",\"234\",\"244\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32612,7 +32633,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-21T14:17:50Z",
    "sector": "",
-   "specialization": "178",
+   "specialization": "[\"178\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32882,7 +32903,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-11T16:18:16Z",
    "sector": "",
-   "specialization": "144, 245, 354, 356",
+   "specialization": "[\"144\",\"245\",\"354\",\"356\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32969,7 +32990,7 @@
    "expiry_date": "",
    "publish_date": "2026-03-16T17:19:09Z",
    "sector": "",
-   "specialization": "248, 249, 327, 328, 329, 330, 331, 354, 356",
+   "specialization": "[\"248\",\"249\",\"327\",\"328\",\"329\",\"330\",\"331\",\"354\",\"356\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33249,7 +33270,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-24T07:23:00Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33629,7 +33650,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-03T09:12:35Z",
    "sector": "",
-   "specialization": "144",
+   "specialization": "[\"144\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33753,7 +33774,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-12T20:28:04Z",
    "sector": "",
-   "specialization": "248",
+   "specialization": "[\"248\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34038,7 +34059,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-28T12:55:54Z",
    "sector": "",
-   "specialization": "206",
+   "specialization": "[\"206\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34772,7 +34793,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-30T13:59:35Z",
    "sector": "",
-   "specialization": "6, 61, 69, 109, 130, 136, 191, 236, 300, 301, 365, 371",
+   "specialization": "[\"6\",\"61\",\"69\",\"109\",\"130\",\"136\",\"191\",\"236\",\"300\",\"301\",\"365\",\"371\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34854,7 +34875,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-30T14:01:54Z",
    "sector": "",
-   "specialization": "7, 130, 259",
+   "specialization": "[\"7\",\"130\",\"259\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35225,7 +35246,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-18T10:00:42Z",
    "sector": "",
-   "specialization": "259",
+   "specialization": "[\"259\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35300,7 +35321,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-30T14:56:46Z",
    "sector": "",
-   "specialization": "312",
+   "specialization": "[\"312\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35814,7 +35835,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-10T15:03:12Z",
    "sector": "",
-   "specialization": "209",
+   "specialization": "[\"209\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -36050,7 +36071,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-11T08:22:25Z",
    "sector": "",
-   "specialization": "251",
+   "specialization": "[\"251\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -36130,7 +36151,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-21T13:10:53Z",
    "sector": "",
-   "specialization": "158",
+   "specialization": "[\"158\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -37139,7 +37160,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-23T12:36:25Z",
    "sector": "",
-   "specialization": "234",
+   "specialization": "[\"234\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -37240,7 +37261,7 @@
    "expiry_date": "",
    "publish_date": "2026-03-16T17:31:12Z",
    "sector": "",
-   "specialization": "330, 331, 354, 356",
+   "specialization": "[\"330\",\"331\",\"354\",\"356\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -37317,7 +37338,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-12T13:45:29Z",
    "sector": "",
-   "specialization": "29",
+   "specialization": "[\"29\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -37675,7 +37696,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-17T07:02:56Z",
    "sector": "",
-   "specialization": "259",
+   "specialization": "[\"259\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -38230,7 +38251,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-05T14:47:35Z",
    "sector": "",
-   "specialization": "251, 330",
+   "specialization": "[\"251\",\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -38678,7 +38699,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-25T09:51:20Z",
    "sector": "",
-   "specialization": "8",
+   "specialization": "[\"8\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -38748,7 +38769,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-14T12:44:05Z",
    "sector": "",
-   "specialization": "138",
+   "specialization": "[\"138\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -39438,7 +39459,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-22T15:43:27Z",
    "sector": "",
-   "specialization": "238",
+   "specialization": "[\"238\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -39519,7 +39540,7 @@
    "expiry_date": "",
    "publish_date": "2025-10-13T08:46:35Z",
    "sector": "",
-   "specialization": "245, 248",
+   "specialization": "[\"245\",\"248\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -39744,7 +39765,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-05T14:43:14Z",
    "sector": "",
-   "specialization": "130",
+   "specialization": "[\"130\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -39827,7 +39848,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-25T08:56:10Z",
    "sector": "",
-   "specialization": "259",
+   "specialization": "[\"259\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -40402,7 +40423,7 @@
    "expiry_date": "",
    "publish_date": "2026-03-02T17:42:11Z",
    "sector": "",
-   "specialization": "6, 7, 71, 73, 77, 109, 153, 195",
+   "specialization": "[\"6\",\"7\",\"71\",\"73\",\"77\",\"109\",\"153\",\"195\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -40475,7 +40496,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-17T10:15:14Z",
    "sector": "",
-   "specialization": "313",
+   "specialization": "[\"313\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -40994,7 +41015,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-10T14:07:02Z",
    "sector": "",
-   "specialization": "130",
+   "specialization": "[\"130\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -42123,7 +42144,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-04T08:51:02Z",
    "sector": "",
-   "specialization": "246",
+   "specialization": "[\"246\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -42274,7 +42295,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-20T08:25:32Z",
    "sector": "",
-   "specialization": "327, 328, 332",
+   "specialization": "[\"327\",\"328\",\"332\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -42524,7 +42545,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-31T13:16:18Z",
    "sector": "",
-   "specialization": "8",
+   "specialization": "[\"8\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -42585,7 +42606,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-07T06:44:48Z",
    "sector": "",
-   "specialization": "330",
+   "specialization": "[\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -42821,7 +42842,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-10T08:33:09Z",
    "sector": "",
-   "specialization": "330",
+   "specialization": "[\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -42958,7 +42979,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-18T10:09:02Z",
    "sector": "",
-   "specialization": "327",
+   "specialization": "[\"327\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -43175,7 +43196,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-29T13:52:14Z",
    "sector": "",
-   "specialization": "238",
+   "specialization": "[\"238\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -44350,7 +44371,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-24T14:25:44Z",
    "sector": "",
-   "specialization": "6, 195",
+   "specialization": "[\"6\",\"195\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -44416,7 +44437,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-31T14:52:06Z",
    "sector": "",
-   "specialization": "9",
+   "specialization": "[\"9\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -44481,7 +44502,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-30T12:55:21Z",
    "sector": "",
-   "specialization": "238",
+   "specialization": "[\"238\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -44553,7 +44574,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-28T15:01:54Z",
    "sector": "",
-   "specialization": "6",
+   "specialization": "[\"6\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -44723,7 +44744,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-27T16:09:15Z",
    "sector": "",
-   "specialization": "11",
+   "specialization": "[\"11\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -45045,6 +45066,78 @@
    ]
   },
   {
+   "id": "245308",
+   "title": "Chargé(e) de mission universitaire (H/F)",
+   "company": "MINISTERE DE L'EUROPE ET DES AFFAIRES ETRANGERES",
+   "country": "CHILI",
+   "city": "SANTIAGO",
+   "description": "Sous l’autorité hiérarchique de l’Attachée de coopération scientifique et universitaire et de la responsable de l’Espace Campus France Chili, le ou la V.I. sera principalement en charge de la promotion des études supérieures en France auprès des étudiants chiliens et de l’orientation des étudiants résidents au Chili pour des études en France. Il/Elle soutiendra la diversification des actions de promotion, participera à la consolidation des outils de communication de l’Espace Campus France Chili et à l’animation du réseau des alumni. Le/la VIA participera de façon ponctuelle aux activités transversales du pôle scientifique et universitaire.\nLe/la VIA exercera les missions suivantes : \n1- Relation avec le public étudiant :\n- Information et orientation des étudiants résidents au Chili pour des études en France : entretiens et conférences d’information et d’orientation en présentiel et distanciel ; entretiens de candidature; passation d’entretiens pré-consulaires ; réponse aux mails des étudiants ; suivi, révision et validation des dossiers sur EeF ; gestion des paiements. \n- Promotion des études supérieures en France auprès des établissements chiliens : participation à des actions de promotion (conférences, salons étudiants), et soutien à l’organisation de missions de promotion d’établissements français au Chili. \n- Soutien à la responsable de l’Espace Campus France Chili et adjointe de l’attachée de coopération scientifique et universitaire dans le suivi et la valorisation des boursiers France Excellence Chili. Aide à la préparation des boursiers en partance, suivi sur place et au retour de leur séjour d’étude/de recherche.\n\n2- Soutien à l’amélioration des outils de l’Espace Campus France Chili et de la coopération universitaire :\n- Coopération universitaire : actualisation et suivi des fiches et bases de données universitaires. Collaboration avec le secteur scientifique sur des projets transversaux et soutien ponctuel à l’organisation d’évènements. \n- Partenaires : soutien dans les actions d’animation du réseau des Alliances Françaises en régions, en tant que relais de l’Espace Campus France.\n\n3- Soutien à la communication :\n- Réseaux sociaux et site internet : Animation des réseaux sociaux (Facebook,Instagram et Linkedin Campus France Chili), création graphique, actualisation du site Internet.\n- France Alumni : actualisation du site internet France Alumni Chili, communications spécifiques avec d’anciens étudiants notamment boursiers et organisation d’évènements Alumni en équipe. \n\n- Environnement professionnel, horaires de travail, disponibilité soirs/weekends : Les horaires habituels sont de 9h à 18h ; la disponibilité de la / du VIA peut-être requise en dehors de ces horaires en fonction des événements organisés à l’Institut français du Chili ou ailleurs avec des partenaires.\n\n- Règlement intérieur appliqué et droit ou non aux RTT : Le règlement intérieur appliqué est celui de l’Ambassade de France au Chili et la/le VIA a droit à des jours de RTT. \n\n- Spécificités concernant les congés : Les dates des congés sont définies en accord avec l’équipe afin d’assurer une continuité des activités.\n\n- Déplacements / missions fréquentes : Des déplacements dans la région métropolitaine sont à prévoir ; des missions peuvent être proposées (universités, projets spécifiques…).\n\n- Composition de l’équipe de travail : Ces activités seront réalisées sous l’autorité du Directeur, de l’Attachée de coopération scientifique et universitaire et de son Adjointe également Responsable Campus France Chili, dans une équipe qui comporte aussi une VIA Chargée de mission en coopération universitaire et scientifique et une Assistante administrative.\n\n*************\nATTENTION : Veillez à postuler via cette plate-forme pendant que l’offre est en ligne, celle-ci disparaîtra de ce site le jour d’expiration mentionné dans l’annonce à 00h01.\n• Toute candidature à cette offre suppose obligatoirement une inscription préalable sur le site https://mon-vie-via.businessfrance.fr/ (les informations y figurant doivent être régulièrement mises à jour). Les candidat(e)s non inscrit(e)s ne seront pas retenu(e)s.\n• A compter de la sélection finale, les démarches de mise en route s’effectuent en France et nécessitent ==au minimum entre 2 et 4 mois à compter de l’identification du/de la candidat/e retenu/e selon le pays de destination==.\n• Merci d'adresser ==IMPERATIVEMENT== votre CV et lettre de motivation en français, au format PDF en respectant le format de fichiers ci-après : \n NOM Prénom CV.pdf\n NOM Prénom LM.pdf\n• Merci d'indiquer ==IMPERATIVEMENT== votre numéro d'identifiant donné lors de votre inscription sur le site.\n• Les niveaux de langues étrangères doivent être précisés selon le cadre européen de référence pour les langues (CECRL) A1, A2, B1, B2, C1, C2.\n• Veillez à sauvegarder le contenu de cette offre lorsque vous postulez (sous format PDF ou via une copie d'écran et non pas sélectionné en favoris sur la plateforme Cf. ci-dessus).\n• Tout dossier de candidature adressé directement à l’organisme d’affectation (Institut français, Consulat, Alliance Française, Ambassade), ou qui serait incomplet ou non conforme ne sera pas retenu.\n• Les lettres de recommandation, prises de contact ou autres formes d’intervention (LinkedIn Instagram...etc...) auprès des Conseillers RH ou des organismes d’affectation sont proscrites. \n• Si vous ne recevez pas d'information de notre part sous 8 semaines après retrait de l’annonce, vous pourrez considérer que, malgré tout l'intérêt que présente votre profil, il ne correspond pas à nos besoins actuels.\n• Les entretiens auront lieu principalement en visioconférence (dans l’éventualité où ils se dérouleraient à Paris, aucune prise en charge des frais de transport par le Ministère n’est envisageable).\n• Le/la volontaire international(e) devra être éligible à l'obtention d'un passeport de service pour cette destination.\n• La consultation de la fiche « conseils aux voyageurs » sur le site du MEAE est ==INDISPENSABLE== au moment de postuler : https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/ \nLe ministère de l’Europe et des Affaires étrangères (MEAE) recrute chaque année plusieurs centaines d’agents pour exercer des dizaines de métiers différents sous des statuts très divers. Chacun peut y trouver sa place et y vivre une expérience professionnelle hors du commun.\nLe MEAE s’engage résolument pour la diversité, l’égalité professionnelle entre les femmes et les hommes et la lutte contre les discriminations. \nDécouvrez l’engagement du ministère en faveur de la diversité : https://www.diplomatie.gouv.fr/fr/le-ministere-et-son-reseau/la-diversite-au-ministere/",
+   "mission": "",
+   "profile": "Diplômes demandés : Niveau Master 2 (Affaires internationales, sciences politiques, communication, coopération, sciences humaines et sociales)\n\nLangues : \nESPAGNOL : très bon niveau indispensable (lu, écrit, parlé)\nANGLAIS : très bon niveau indispensable (lu, écrit, parlé)\n\nCompétences informatiques :\nPack office (maîtrise obligatoire Word, Excel, PowerPoint) ; \nLogiciels d’édition simples (du type Canva) ou plus complexes (du type suite adobe) pour venir en appui sur l’édition de supports de communication (maîtrise très appréciée).\n\nCompétences attendues pour les missions (profil, connaissance du pays / de la zone géographique, savoir-faire, savoir-être) : \nLe ou la VI sera en contact régulier avec des étudiants et partenaires universitaires chiliens. Une maîtrise du fonctionnement de l’enseignement supérieur et des universités en France et à l’international est requis pour ce poste. Une très bonne maîtrise de la langue espagnole est indispensable. Le ou la VI sera amené à faire fréquemment des présentations en public.\n- capacités relationnelles et rédactionnelles, sens de l’organisation, gestion des priorités, rigueur intellectuelle, ouverture et curiosité d’esprit, sens de la communication écrite et orale et la créativité\n- Les contraintes sont celles d’un exercice professionnel dans le cadre d’un éloignement géographique. Rythme soutenu.\n- Polyvalence (capacité d’écoute, gestion des réseaux sociaux, organisation d’événements, création graphique).\n- Autonomie, aptitude au travail en équipe et à coordonner des acteurs multiples, agir en transversalité, gestion de projet.\n- Faire preuve d’analyse et de précision, capacité à hiérarchiser les priorités.\n-disponibilité et faculté d'adaptation.\n- Sens de l’initiative, esprit critique et capacité à être force de proposition.",
+   "duration": 12,
+   "start_date": "2026-12-01T00:00:00",
+   "end_date": "2027-12-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-08-19T10:04:35Z",
+   "sector": "",
+   "specialization": "[\"57\"]",
+   "contract": "VIA",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-08-19T10:04:35Z",
+    "missionStartDate": "2026-12-01T00:00:00",
+    "missionEndDate": "2027-12-01T00:00:00",
+    "startBroadcastDate": "2026-08-19T00:00:00",
+    "endBroadcastDate": "2026-08-22T00:00:00"
+   },
+   "summary": "Sous l’autorité hiérarchique de l’Attachée de coopération scientifique et universitaire et de la responsable de l’Espace Campus France Chili, le ou la V.I. sera principalement en charge de la promotion des études supérieures en France auprès des étudiants chiliens et de l’orientation des étudiants résidents au Chili pour des études en France. Il/Elle soutiendra la diversification des actions de promotion, participera à la consolidation des outils de communication de l’Espace Campus France Chili et à l’animation du réseau des alumni. Le/la VIA participera de façon ponctuelle aux activités transversales du pôle scientifique et universitaire.\nLe/la VIA exercera les missions suivantes : \n1- Relation avec le public étudiant :\n- Information et orientation des étudiants résidents au Chili pour des études en France : entretiens et conférences d’information et d’orientation en présentiel et distanciel ; entretiens de candidature; passation d’entretiens pré-consulaires ; réponse aux mails des étudiants ; suivi, révision et validation des dossiers sur EeF ; gestion des paiements. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/245308",
+   "score": 26,
+   "label": "Périphérique",
+   "first_seen": "2026-08-19",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 20,
+    "qual": 19,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod4",
+     "axis": "prod",
+     "source": "Outils de production (269-1), Tenue mécanique des outillages (284-3, 292-1)",
+     "weight": 10,
+     "terms": [
+      "usine"
+     ]
+    },
+    {
+     "id": "qual4",
+     "axis": "qual",
+     "source": "Introduction aux techniques expérimentales (267-1)",
+     "weight": 7,
+     "terms": [
+      "validation"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "space"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
    "id": "245268",
    "title": "GTM & account manager (H/F)",
    "company": "MUCHBETTER.AI",
@@ -45257,7 +45350,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-02T15:49:12Z",
    "sector": "",
-   "specialization": "60, 262, 264",
+   "specialization": "[\"60\",\"262\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -45322,7 +45415,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-07T11:04:57Z",
    "sector": "",
-   "specialization": "237",
+   "specialization": "[\"237\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -46080,7 +46173,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-13T10:52:58Z",
    "sector": "",
-   "specialization": "144",
+   "specialization": "[\"144\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -46184,7 +46277,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-06T14:16:07Z",
    "sector": "",
-   "specialization": "62, 70, 264",
+   "specialization": "[\"62\",\"70\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -46652,7 +46745,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-07T07:08:25Z",
    "sector": "",
-   "specialization": "21, 109",
+   "specialization": "[\"21\",\"109\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
