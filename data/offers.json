@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-18T19:38:30+00:00",
+ "generated_at": "2026-08-19T06:04:37+00:00",
  "source": "Business France — mon-vie-via.businessfrance.fr",
- "total_scanned": 767,
- "total_kept": 507,
+ "total_scanned": 762,
+ "total_kept": 505,
  "threshold": 25,
  "axes": {
   "rd": {
@@ -656,7 +656,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-05T13:42:18Z",
    "sector": "",
-   "specialization": "[\"60\"]",
+   "specialization": "60",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -940,7 +940,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-18T09:17:58Z",
    "sector": "",
-   "specialization": "[\"149\"]",
+   "specialization": "149",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -1545,7 +1545,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-04T09:55:03Z",
    "sector": "",
-   "specialization": "[\"149\"]",
+   "specialization": "149",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -1819,7 +1819,7 @@
    "expiry_date": "",
    "publish_date": "2025-10-08T09:46:46Z",
    "sector": "",
-   "specialization": "[\"77\",\"149\"]",
+   "specialization": "77, 149",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -3414,7 +3414,7 @@
    "expiry_date": "",
    "publish_date": "2026-05-12T14:43:27Z",
    "sector": "",
-   "specialization": "[\"5\",\"21\",\"49\",\"86\",\"125\",\"144\",\"150\",\"155\",\"208\",\"209\",\"244\",\"256\",\"262\",\"264\"]",
+   "specialization": "5, 21, 49, 86, 125, 144, 150, 155, 208, 209, 244, 256, 262, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -3778,125 +3778,6 @@
    ]
   },
   {
-   "id": "244746",
-   "title": "DESSINATEUR MECANIQUE –AEROSPATIAL (H/F)",
-   "company": "AKKODIS HIGH TECH SAS",
-   "country": "BELGIQUE",
-   "city": "CHARLEROI",
-   "description": "À propos du projet\n\nDans le cadre d'un projet stratégique pour l'un de nos clients du secteur aéronautique, nous recherchons 5 Dessinateurs Mécaniques Aéronautiques afin de rejoindre une équipe en charge de projets de modification et de conception d'aérostructures.\n\nVous intégrerez un bureau d'études dynamique et participerez au développement de solutions techniques innovantes en collaboration avec les équipes d'ingénierie et de production.\n\nVos missions\nAnalyser les besoins techniques et fonctionnels liés à l'intégration d'équipements.\nConcevoir des solutions techniques adaptées aux contraintes aéronautiques.\nRéaliser les modèles 3D et les plans mécaniques complexes sous CATIA V5.\nParticiper aux projets de modification d'aérostructures.\nAssurer le respect des normes de conception et de fabrication.\nCollaborer avec les équipes Bureau d'Études, Industrialisation et Production.\nParticiper aux revues de conception et à l'amélioration continue des solutions techniques.",
-   "mission": "",
-   "profile": "- Formation :\r\n\r\nBac+2 à Bac+5 en Génie Mécanique, Conception Mécanique, Génie Mécanique et Productique (GMP) ou équivalent.\r\n\r\n- Expérience :\r\n\r\nUne expérience d'au moins 1 an dans le secteur aéronautique est souhaitée.\r\n\r\n- Compétences techniques :\r\n\r\nMaîtrise indispensable de CATIA V5, notamment des modules :\r\n\r\nGenerative Shape Design (GSD)\r\n\r\nAssembly Design\r\n\r\nDrafting (Drawing)\r\n\r\nSheet Metal Design\r\n\r\nBonne connaissance de 3DEXPERIENCE / PLM.\r\n\r\nConnaissance des normes de cotation ISO GPS.\r\n\r\nSolides compétences en conception de structures mécaniques",
-   "duration": 12,
-   "start_date": "2026-10-01T00:00:00",
-   "end_date": "2027-10-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-07-21T07:49:53Z",
-   "sector": "",
-   "specialization": "64",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-07-21T07:49:53Z",
-    "missionStartDate": "2026-10-01T00:00:00",
-    "missionEndDate": "2027-10-01T00:00:00",
-    "startBroadcastDate": "2026-07-21T00:00:00",
-    "endBroadcastDate": "2026-08-18T00:00:00"
-   },
-   "summary": "À propos du projet\n\nDans le cadre d'un projet stratégique pour l'un de nos clients du secteur aéronautique, nous recherchons 5 Dessinateurs Mécaniques Aéronautiques afin de rejoindre une équipe en charge de projets de modification et de conception d'aérostructures.\n\nVous intégrerez un bureau d'études dynamique et participerez au développement de solutions techniques innovantes en collaboration avec les équipes d'ingénierie et de production.\n\nVos missions\nAnalyser les besoins techniques et fonctionnels liés à l'intégration d'équipements.\nConcevoir des solutions techniques adaptées aux contraintes aéronautiques.\nRéaliser les modèles 3D et les plans mécaniques complexes sous CATIA V5.\nParticiper aux projets de modification d'aérostructures.\nAssurer le respect des normes de conception et de fabrication.\nCollaborer avec les équipes Bureau d'Études, Industrialisation et Production.\nParticiper aux revues de conception et à l'amélioration continue des solutions techniques.",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/244746",
-   "score": 75,
-   "label": "Cœur de cible",
-   "first_seen": "2026-08-18",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 71,
-    "qual": 28,
-    "calc": 27
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "calc2",
-     "axis": "calc",
-     "source": "CAO (278-1), Conception mécanique (264-1), Critères de choix des matériaux (265-1)",
-     "weight": 8,
-     "terms": [
-      "bureau d'etudes",
-      "catia",
-      "conception mecanique"
-     ]
-    },
-    {
-     "id": "prod1",
-     "axis": "prod",
-     "source": "Mise en forme par déformation plastique des métaux (281-1), Physique de la mise en forme (290-1)",
-     "weight": 10,
-     "terms": [
-      "sheet metal"
-     ]
-    },
-    {
-     "id": "prod3",
-     "axis": "prod",
-     "source": "Assemblage des matériaux (297-2)",
-     "weight": 9,
-     "terms": [
-      "assembly"
-     ]
-    },
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1), Tenue mécanique des outillages (284-3, 292-1)",
-     "weight": 10,
-     "terms": [
-      "industrialisation"
-     ]
-    },
-    {
-     "id": "prod5",
-     "axis": "prod",
-     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
-     "weight": 7,
-     "terms": [
-      "amelioration continue"
-     ]
-    },
-    {
-     "id": "qual2",
-     "axis": "qual",
-     "source": "Qualité et normes (774-1)",
-     "weight": 10,
-     "terms": [
-      "normes"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "mecanique"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "aeronautique",
-      "industrial",
-      "mecanique"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "245212",
    "title": "Aircraft Stress Engineer (H/F)",
    "company": "CAPGEMINI TECHNOLOGY SERVICES",
@@ -4054,7 +3935,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-27T12:16:48Z",
    "sector": "",
-   "specialization": "[\"63\",\"86\",\"251\"]",
+   "specialization": "63, 86, 251",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -4162,7 +4043,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-29T14:45:36Z",
    "sector": "",
-   "specialization": "[\"155\"]",
+   "specialization": "155",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -4392,7 +4273,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-04T20:56:07Z",
    "sector": "",
-   "specialization": "[\"9\"]",
+   "specialization": "9",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -4849,7 +4730,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-22T06:47:55Z",
    "sector": "",
-   "specialization": "[\"64\"]",
+   "specialization": "64",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5082,7 +4963,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-23T08:49:09Z",
    "sector": "",
-   "specialization": "[\"70\"]",
+   "specialization": "70",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5276,7 +5157,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-17T10:41:19Z",
    "sector": "",
-   "specialization": "[\"149\"]",
+   "specialization": "149",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5747,7 +5628,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-03T08:04:03Z",
    "sector": "",
-   "specialization": "[\"70\"]",
+   "specialization": "70",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6978,7 +6859,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-30T08:55:36Z",
    "sector": "",
-   "specialization": "[\"63\",\"86\",\"113\",\"123\",\"125\",\"149\",\"155\",\"169\",\"366\"]",
+   "specialization": "63, 86, 113, 123, 125, 149, 155, 169, 366",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -7197,7 +7078,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-10T13:07:46Z",
    "sector": "",
-   "specialization": "[\"208\"]",
+   "specialization": "208",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8498,7 +8379,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-14T17:26:18Z",
    "sector": "",
-   "specialization": "[\"56\",\"66\",\"68\",\"77\",\"118\",\"149\",\"225\"]",
+   "specialization": "56, 66, 68, 77, 118, 149, 225",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8946,7 +8827,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-13T12:46:22Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9057,7 +8938,7 @@
    "expiry_date": "",
    "publish_date": "2026-05-13T14:06:07Z",
    "sector": "",
-   "specialization": "[\"114\"]",
+   "specialization": "114",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9700,7 +9581,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-31T07:39:30Z",
    "sector": "",
-   "specialization": "[\"63\",\"114\",\"149\",\"150\",\"169\",\"262\",\"264\"]",
+   "specialization": "63, 114, 149, 150, 169, 262, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9929,7 +9810,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-06T12:31:39Z",
    "sector": "",
-   "specialization": "[\"66\"]",
+   "specialization": "66",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10040,7 +9921,7 @@
    "expiry_date": "",
    "publish_date": "2026-02-23T15:38:40Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10376,7 +10257,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-20T14:51:41Z",
    "sector": "",
-   "specialization": "[\"209\"]",
+   "specialization": "209",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10980,7 +10861,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-31T07:24:37Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -11498,7 +11379,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-06T08:59:23Z",
    "sector": "",
-   "specialization": "[\"327\"]",
+   "specialization": "327",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -11786,7 +11667,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-06T13:29:27Z",
    "sector": "",
-   "specialization": "[\"68\"]",
+   "specialization": "68",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -11885,7 +11766,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-12T09:22:53Z",
    "sector": "",
-   "specialization": "[\"66\"]",
+   "specialization": "66",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12284,7 +12165,7 @@
    "expiry_date": "",
    "publish_date": "2026-02-23T16:12:58Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12385,7 +12266,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-17T10:27:54Z",
    "sector": "",
-   "specialization": "[\"65\",\"71\",\"153\"]",
+   "specialization": "65, 71, 153",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12909,7 +12790,7 @@
    "expiry_date": "",
    "publish_date": "2026-03-26T15:27:20Z",
    "sector": "",
-   "specialization": "[\"63\",\"113\",\"114\",\"123\",\"125\",\"256\"]",
+   "specialization": "63, 113, 114, 123, 125, 256",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -13409,7 +13290,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-29T08:09:09Z",
    "sector": "",
-   "specialization": "[\"149\"]",
+   "specialization": "149",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -13975,7 +13856,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-21T13:03:01Z",
    "sector": "",
-   "specialization": "[\"64\",\"264\"]",
+   "specialization": "64, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -14948,7 +14829,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-31T07:35:29Z",
    "sector": "",
-   "specialization": "[\"63\",\"114\",\"149\",\"150\",\"169\",\"262\",\"264\"]",
+   "specialization": "63, 114, 149, 150, 169, 262, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -15152,7 +15033,7 @@
    "expiry_date": "",
    "publish_date": "2025-10-28T09:46:40Z",
    "sector": "",
-   "specialization": "[\"248\"]",
+   "specialization": "248",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -15245,7 +15126,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-21T13:27:37Z",
    "sector": "",
-   "specialization": "[\"73\"]",
+   "specialization": "73",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -15447,7 +15328,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-12T12:32:56Z",
    "sector": "",
-   "specialization": "[\"60\"]",
+   "specialization": "60",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -15728,7 +15609,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-10T15:55:38Z",
    "sector": "",
-   "specialization": "[\"114\"]",
+   "specialization": "114",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -16112,7 +15993,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-10T10:23:23Z",
    "sector": "",
-   "specialization": "[\"66\"]",
+   "specialization": "66",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -16314,7 +16195,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-20T10:05:55Z",
    "sector": "",
-   "specialization": "[\"64\"]",
+   "specialization": "64",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -16648,7 +16529,7 @@
    "expiry_date": "",
    "publish_date": "2025-10-08T10:46:44Z",
    "sector": "",
-   "specialization": "[\"77\",\"149\",\"207\"]",
+   "specialization": "77, 149, 207",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -16840,7 +16721,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-24T14:02:22Z",
    "sector": "",
-   "specialization": "[\"149\"]",
+   "specialization": "149",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -17658,7 +17539,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-10T09:53:50Z",
    "sector": "",
-   "specialization": "[\"138\",\"144\",\"248\",\"327\",\"330\",\"355\"]",
+   "specialization": "138, 144, 248, 327, 330, 355",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -17855,7 +17736,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-29T21:13:41Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -18758,7 +18639,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-17T07:09:21Z",
    "sector": "",
-   "specialization": "[\"9\",\"259\"]",
+   "specialization": "9, 259",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -18858,7 +18739,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-30T08:06:03Z",
    "sector": "",
-   "specialization": "[\"65\",\"68\",\"71\",\"73\",\"149\",\"153\",\"365\"]",
+   "specialization": "65, 68, 71, 73, 149, 153, 365",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -18940,7 +18821,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-17T12:08:42Z",
    "sector": "",
-   "specialization": "[\"6\"]",
+   "specialization": "6",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19459,7 +19340,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-10T13:47:40Z",
    "sector": "",
-   "specialization": "[\"245\",\"248\",\"251\",\"262\",\"323\",\"328\",\"330\",\"355\",\"356\",\"357\"]",
+   "specialization": "245, 248, 251, 262, 323, 328, 330, 355, 356, 357",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19640,7 +19521,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-18T08:57:53Z",
    "sector": "",
-   "specialization": "[\"244\"]",
+   "specialization": "244",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19735,7 +19616,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-13T08:18:45Z",
    "sector": "",
-   "specialization": "[\"149\"]",
+   "specialization": "149",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20302,7 +20183,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-20T08:10:00Z",
    "sector": "",
-   "specialization": "[\"264\"]",
+   "specialization": "264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21112,7 +20993,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-23T14:25:33Z",
    "sector": "",
-   "specialization": "[\"259\"]",
+   "specialization": "259",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21203,7 +21084,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-23T15:01:57Z",
    "sector": "",
-   "specialization": "[\"259\"]",
+   "specialization": "259",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21294,7 +21175,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-23T14:36:30Z",
    "sector": "",
-   "specialization": "[\"259\"]",
+   "specialization": "259",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21385,7 +21266,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-23T14:18:30Z",
    "sector": "",
-   "specialization": "[\"259\"]",
+   "specialization": "259",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21476,7 +21357,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-28T14:31:43Z",
    "sector": "",
-   "specialization": "[\"86\",\"155\",\"209\",\"264\"]",
+   "specialization": "86, 155, 209, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21676,7 +21557,7 @@
    "expiry_date": "",
    "publish_date": "2025-09-25T16:46:39Z",
    "sector": "",
-   "specialization": "[\"78\",\"106\",\"155\",\"158\",\"192\",\"208\",\"244\",\"264\"]",
+   "specialization": "78, 106, 155, 158, 192, 208, 244, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21949,7 +21830,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-03T13:19:41Z",
    "sector": "",
-   "specialization": "[\"169\"]",
+   "specialization": "169",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22041,7 +21922,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-18T09:23:47Z",
    "sector": "",
-   "specialization": "[\"248\"]",
+   "specialization": "248",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22122,7 +22003,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-18T09:21:29Z",
    "sector": "",
-   "specialization": "[\"248\"]",
+   "specialization": "248",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22535,7 +22416,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-23T12:32:22Z",
    "sector": "",
-   "specialization": "[\"244\"]",
+   "specialization": "244",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -23240,7 +23121,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-12T13:36:38Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -24393,7 +24274,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-30T08:31:23Z",
    "sector": "",
-   "specialization": "[\"65\",\"77\"]",
+   "specialization": "65, 77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -24583,7 +24464,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-04T13:32:39Z",
    "sector": "",
-   "specialization": "[\"2\",\"77\",\"244\"]",
+   "specialization": "2, 77, 244",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -24684,7 +24565,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-16T10:04:59Z",
    "sector": "",
-   "specialization": "[\"259\"]",
+   "specialization": "259",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -24786,7 +24667,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-05T15:05:16Z",
    "sector": "",
-   "specialization": "[\"109\"]",
+   "specialization": "109",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -24887,7 +24768,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-22T14:17:04Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25050,7 +24931,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-24T07:55:08Z",
    "sector": "",
-   "specialization": "[\"86\",\"123\",\"125\",\"150\",\"206\",\"208\",\"209\",\"264\"]",
+   "specialization": "86, 123, 125, 150, 206, 208, 209, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25125,7 +25006,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-30T07:58:49Z",
    "sector": "",
-   "specialization": "[\"65\",\"68\",\"77\",\"107\",\"149\",\"159\",\"168\",\"365\"]",
+   "specialization": "65, 68, 77, 107, 149, 159, 168, 365",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25214,7 +25095,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-10T15:21:27Z",
    "sector": "",
-   "specialization": "[\"155\"]",
+   "specialization": "155",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25300,7 +25181,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-11T15:34:59Z",
    "sector": "",
-   "specialization": "[\"57\"]",
+   "specialization": "57",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25654,7 +25535,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-04T14:26:14Z",
    "sector": "",
-   "specialization": "[\"17\"]",
+   "specialization": "17",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25825,7 +25706,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-17T07:49:12Z",
    "sector": "",
-   "specialization": "[\"328\"]",
+   "specialization": "328",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25943,7 +25824,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-21T07:33:28Z",
    "sector": "",
-   "specialization": "[\"150\",\"264\"]",
+   "specialization": "150, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26036,7 +25917,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-07T04:05:22Z",
    "sector": "",
-   "specialization": "[\"202\"]",
+   "specialization": "202",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26141,7 +26022,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-05T08:30:05Z",
    "sector": "",
-   "specialization": "[\"262\"]",
+   "specialization": "262",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26232,7 +26113,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-17T10:29:05Z",
    "sector": "",
-   "specialization": "[\"149\"]",
+   "specialization": "149",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26489,7 +26370,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-22T12:46:37Z",
    "sector": "",
-   "specialization": "[\"130\"]",
+   "specialization": "130",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26577,7 +26458,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-30T15:28:53Z",
    "sector": "",
-   "specialization": "[\"74\",\"251\"]",
+   "specialization": "74, 251",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27523,7 +27404,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-06T08:57:05Z",
    "sector": "",
-   "specialization": "[\"327\"]",
+   "specialization": "327",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27975,7 +27856,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-30T08:38:53Z",
    "sector": "",
-   "specialization": "[\"64\",\"65\",\"68\",\"71\",\"73\",\"153\"]",
+   "specialization": "64, 65, 68, 71, 73, 153",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -28231,6 +28112,88 @@
    ]
   },
   {
+   "id": "245299",
+   "title": "Engineering Project Management & Process Excellence Officer (h/f)",
+   "company": "IVECO FRANCE",
+   "country": "TCHEQUIE / REPUBLIQUE TCHEQUE",
+   "city": "VYSOKE MYTO",
+   "description": "As part of the transformation of the BUS Technology & Digital organization and the drive to harmonize practices across the various project-focused \"Technical Tables,\" the VIE will contribute to structuring project management methods, improving processes, and deploying common standards to enhance efficiency, visibility, and robustness in project execution. This role is part of a continuous improvement initiative aimed at strengthening project management maturity within the organization.\nPrimary Mission\nSupport technical project managers and the Technical Project Office manager in implementing a common project management framework by harmonizing the processes, methodologies, and tools used across the different Technical Tables.\nKey Activities\nHarmonization of methods and processes\n• Map the project management practices currently used across the different Technical Tables.\n• Identify operational discrepancies and propose common standards.\n• Define and formalize a shared methodological framework (processes, templates, KPIs, governance).\n• Harmonize management processes, methodologies, and tools to ensure consistent project execution and improve operational efficiency.\n• Facilitate communities of practice for project managers and technical leads regarding best practices.\nKnowledge capitalization and continuous improvement\n• Structure and disseminate lessons learned.\n• Develop a library of best practices and reference documents.\n• Identify opportunities to simplify and optimize processes.\n• Contribute to the continuous improvement of project standards across the organization.\nDigitalization and tools\n• Participate in the deployment and enhancement of project management tools.\n• Develop and improve consolidated dashboards to facilitate project management and decision-making.\n• Support teams in adopting new project management tools and standards.",
+   "mission": "",
+   "profile": "Engineering degree or Master’s degree in project management, industrial engineering, continuous improvement, or organizational transformation.\n• Strong interest in project management methodologies and performance management.\n• Excellent analytical, structuring, and synthesis skills.\n• Comfortable working in international and multicultural industrial environments.\n• Proficiency in Excel, Power BI, and project management tools.\n• Fluent English essential.",
+   "duration": 12,
+   "start_date": "2026-11-01T00:00:00",
+   "end_date": "2027-11-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-08-18T12:32:29Z",
+   "sector": "",
+   "specialization": "[\"262\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-08-18T12:32:29Z",
+    "missionStartDate": "2026-11-01T00:00:00",
+    "missionEndDate": "2027-11-01T00:00:00",
+    "startBroadcastDate": "2026-08-19T00:00:00",
+    "endBroadcastDate": "2026-09-18T00:00:00"
+   },
+   "summary": "As part of the transformation of the BUS Technology & Digital organization and the drive to harmonize practices across the various project-focused \"Technical Tables,\" the VIE will contribute to structuring project management methods, improving processes, and deploying common standards to enhance efficiency, visibility, and robustness in project execution. This role is part of a continuous improvement initiative aimed at strengthening project management maturity within the organization.\nPrimary Mission\nSupport technical project managers and the Technical Project Office manager in implementing a common project management framework by harmonizing the processes, methodologies, and tools used across the different Technical Tables.\nKey Activities\nHarmonization of methods and processes\n• Map the project management practices currently used across the different Technical Tables.\n• Identify operational discrepancies and propose common standards.\n• Define and formalize a shared methodological framework (processes, templates, KPIs, governance). […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/245299",
+   "score": 43,
+   "label": "À examiner",
+   "first_seen": "2026-08-19",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 14,
+    "qual": 28,
+    "calc": 0
+   },
+   "dominant_axis": "qual",
+   "matched_families": [
+    {
+     "id": "prod5",
+     "axis": "prod",
+     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
+     "weight": 7,
+     "terms": [
+      "continuous improvement",
+      "industrial engineer"
+     ]
+    },
+    {
+     "id": "qual2",
+     "axis": "qual",
+     "source": "Qualité et normes (774-1)",
+     "weight": 10,
+     "terms": [
+      "standards"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "engineer",
+      "engineering",
+      "process"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "industrial"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
    "id": "244024",
    "title": "Commercial Controller (KONI Group) (H/F)",
    "company": "KONI FRANCE FAB AMORTISSEURS",
@@ -28245,7 +28208,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-23T09:27:21Z",
    "sector": "",
-   "specialization": "[\"7\",\"17\",\"194\",\"200\",\"259\",\"318\",\"320\"]",
+   "specialization": "7, 17, 194, 200, 259, 318, 320",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -28374,7 +28337,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-14T12:45:10Z",
    "sector": "",
-   "specialization": "[\"206\"]",
+   "specialization": "206",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29235,7 +29198,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-04T12:59:38Z",
    "sector": "",
-   "specialization": "[\"21\"]",
+   "specialization": "21",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29327,7 +29290,7 @@
    "expiry_date": "",
    "publish_date": "2026-03-30T10:51:45Z",
    "sector": "",
-   "specialization": "[\"248\",\"327\",\"328\"]",
+   "specialization": "248, 327, 328",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29421,7 +29384,7 @@
    "expiry_date": "",
    "publish_date": "2026-03-16T17:10:46Z",
    "sector": "",
-   "specialization": "[\"245\",\"247\",\"248\",\"249\",\"251\",\"327\",\"328\",\"329\",\"330\",\"331\",\"356\"]",
+   "specialization": "245, 247, 248, 249, 251, 327, 328, 329, 330, 331, 356",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29604,7 +29567,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-23T09:09:43Z",
    "sector": "",
-   "specialization": "[\"68\"]",
+   "specialization": "68",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29862,7 +29825,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-22T09:45:04Z",
    "sector": "",
-   "specialization": "[\"29\",\"35\",\"144\",\"213\",\"245\",\"246\",\"247\",\"248\",\"251\"]",
+   "specialization": "29, 35, 144, 213, 245, 246, 247, 248, 251",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30034,7 +29997,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-20T10:12:34Z",
    "sector": "",
-   "specialization": "[\"246\"]",
+   "specialization": "246",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30307,7 +30270,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-07T11:55:01Z",
    "sector": "",
-   "specialization": "[\"2\"]",
+   "specialization": "2",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30393,7 +30356,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-07T11:46:23Z",
    "sector": "",
-   "specialization": "[\"2\"]",
+   "specialization": "2",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30479,7 +30442,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-22T13:59:34Z",
    "sector": "",
-   "specialization": "[\"251\"]",
+   "specialization": "251",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30560,7 +30523,7 @@
    "expiry_date": "",
    "publish_date": "2026-05-06T16:27:06Z",
    "sector": "",
-   "specialization": "[\"64\",\"65\",\"71\",\"77\",\"107\",\"149\",\"153\",\"224\"]",
+   "specialization": "64, 65, 71, 77, 107, 149, 153, 224",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30635,7 +30598,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-27T08:01:52Z",
    "sector": "",
-   "specialization": "[\"6\"]",
+   "specialization": "6",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30822,7 +30785,7 @@
    "expiry_date": "",
    "publish_date": "2026-03-30T16:06:48Z",
    "sector": "",
-   "specialization": "[\"49\",\"52\",\"63\",\"114\",\"148\",\"245\",\"256\"]",
+   "specialization": "49, 52, 63, 114, 148, 245, 256",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30902,7 +30865,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-29T17:07:10Z",
    "sector": "",
-   "specialization": "[\"109\"]",
+   "specialization": "109",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31066,7 +31029,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-18T10:03:44Z",
    "sector": "",
-   "specialization": "[\"219\"]",
+   "specialization": "219",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31232,7 +31195,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-24T14:39:06Z",
    "sector": "",
-   "specialization": "[\"29\",\"60\",\"64\",\"70\",\"71\",\"77\",\"125\",\"134\",\"143\",\"145\",\"149\",\"169\",\"207\",\"209\",\"264\",\"361\"]",
+   "specialization": "29, 60, 64, 70, 71, 77, 125, 134, 143, 145, 149, 169, 207, 209, 264, 361",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32245,7 +32208,7 @@
    "expiry_date": "",
    "publish_date": "2026-05-26T12:48:06Z",
    "sector": "",
-   "specialization": "[\"2\",\"6\",\"195\",\"234\",\"244\"]",
+   "specialization": "2, 6, 195, 234, 244",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32649,7 +32612,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-21T14:17:50Z",
    "sector": "",
-   "specialization": "[\"178\"]",
+   "specialization": "178",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32919,7 +32882,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-11T16:18:16Z",
    "sector": "",
-   "specialization": "[\"144\",\"245\",\"354\",\"356\"]",
+   "specialization": "144, 245, 354, 356",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33006,7 +32969,7 @@
    "expiry_date": "",
    "publish_date": "2026-03-16T17:19:09Z",
    "sector": "",
-   "specialization": "[\"248\",\"249\",\"327\",\"328\",\"329\",\"330\",\"331\",\"354\",\"356\"]",
+   "specialization": "248, 249, 327, 328, 329, 330, 331, 354, 356",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33365,7 +33328,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-17T07:24:49Z",
    "sector": "",
-   "specialization": "[\"320\"]",
+   "specialization": "320",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33666,7 +33629,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-03T09:12:35Z",
    "sector": "",
-   "specialization": "[\"144\"]",
+   "specialization": "144",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33790,7 +33753,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-12T20:28:04Z",
    "sector": "",
-   "specialization": "[\"248\"]",
+   "specialization": "248",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34075,7 +34038,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-28T12:55:54Z",
    "sector": "",
-   "specialization": "[\"206\"]",
+   "specialization": "206",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34449,7 +34412,7 @@
    "expiry_date": "",
    "publish_date": "2026-03-26T16:26:49Z",
    "sector": "",
-   "specialization": "[\"245\",\"248\",\"249\",\"251\",\"330\",\"356\"]",
+   "specialization": "245, 248, 249, 251, 330, 356",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34809,7 +34772,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-30T13:59:35Z",
    "sector": "",
-   "specialization": "[\"6\",\"61\",\"69\",\"109\",\"130\",\"136\",\"191\",\"236\",\"300\",\"301\",\"365\",\"371\"]",
+   "specialization": "6, 61, 69, 109, 130, 136, 191, 236, 300, 301, 365, 371",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34891,7 +34854,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-30T14:01:54Z",
    "sector": "",
-   "specialization": "[\"7\",\"130\",\"259\"]",
+   "specialization": "7, 130, 259",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34965,7 +34928,7 @@
    "expiry_date": "",
    "publish_date": "2025-10-27T14:46:40Z",
    "sector": "",
-   "specialization": "[\"60\",\"65\",\"66\",\"71\",\"73\",\"143\",\"153\",\"213\"]",
+   "specialization": "60, 65, 66, 71, 73, 143, 153, 213",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35262,7 +35225,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-18T10:00:42Z",
    "sector": "",
-   "specialization": "[\"259\"]",
+   "specialization": "259",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35337,7 +35300,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-30T14:56:46Z",
    "sector": "",
-   "specialization": "[\"312\"]",
+   "specialization": "312",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -36087,7 +36050,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-11T08:22:25Z",
    "sector": "",
-   "specialization": "[\"251\"]",
+   "specialization": "251",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -36167,7 +36130,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-21T13:10:53Z",
    "sector": "",
-   "specialization": "[\"158\"]",
+   "specialization": "158",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -36435,7 +36398,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-22T09:21:43Z",
    "sector": "",
-   "specialization": "[\"63\",\"65\",\"66\",\"68\",\"69\",\"70\",\"71\",\"72\",\"73\",\"74\",\"76\",\"77\",\"78\",\"80\",\"107\",\"109\",\"114\",\"117\",\"123\",\"134\",\"135\",\"138\",\"139\",\"142\",\"143\",\"145\",\"149\",\"150\",\"153\",\"155\",\"158\",\"159\",\"160\",\"168\",\"169\",\"175\",\"192\",\"197\",\"207\",\"208\",\"209\",\"224\",\"244\",\"251\",\"264\",\"330\",\"351\",\"355\",\"356\",\"357\",\"358\"]",
+   "specialization": "63, 65, 66, 68, 69, 70, 71, 72, 73, 74, 76, 77, 78, 80, 107, 109, 114, 117, 123, 134, 135, 138, 139, 142, 143, 145, 149, 150, 153, 155, 158, 159, 160, 168, 169, 175, 192, 197, 207, 208, 209, 224, 244, 251, 264, 330, 351, 355, 356, 357, 358",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -36795,77 +36758,6 @@
    ]
   },
   {
-   "id": "244370",
-   "title": "INGENIEUR D'AFFAIRES H/F (H/F)",
-   "company": "NGEN LILLE",
-   "country": "BELGIQUE",
-   "city": "BRUXELLES",
-   "description": "Devenez Ingénieur d’affaires en VIE au sein de notre agence Bruxelloise.\r\n\r\nÊtre Ingénieur d’Affaires en VIE, c’est endosser un rôle audacieux : décrocher et piloter vos projets, accompagner une équipe pour développer votre activité au sein d’une société en pleine croissance.\r\nChez NGen, depuis 2018, nous sommes une équipe dynamique unie par l’envie de créer et de faire évoluer des activités à forte valeur ajoutée.\r\nNous recherchons des talents prêts à s’investir pleinement pour développer nos activités dans la région et construire leur succès aux côtés d’une équipe qui avance à l’ambition et à la performance.\r\n\r\nVos missions 🚀 \r\n• Participer au développement commercial auprès de clients industriels.\r\n• Identifier de nouvelles opportunités d'affaires et contribuer aux actions de prospection.\r\n• Accompagner les négociations commerciales aux côtés des responsables de Business Unit.\r\n• Participer au suivi des projets et à la coordination des prestations.\r\n• Contribuer aux actions de recrutement et au suivi des consultants.\r\n• Découvrir progressivement les différents leviers de pilotage d'une Business Unit (activité commerciale, recrutement, suivi opérationnel et développement).\r\n\r\nLe profil recherché :\r\nNous sommes à la recherche de talents diplômés d’un Bac+5 (école de commerce ou école d’ingénieur ou équivalent), désireux d’évoluer vers des postes à fortes responsabilités alliant technique et commerce, en VIE.\r\nVous avez de l’énergie à revendre et êtes proactif ? Vous disposez d’un esprit de conquête ? Vous êtes ambitieux et avez la capacité de rebondir en toute circonstance ? Vous souhaitez exploiter votre aisance relationnelle, et exprimer votre leadership ? \r\n\r\nCe poste est fait pour vous si :\r\n• Construire votre portefeuille clients from scratch est une vraie source de motivation\r\n• Vous préférez décrocher votre téléphone plutôt que d’envoyer un mail\r\n• Vous aimez la compétition, les challenges et dépasser vos objectifs\r\n• Vous souhaitez apprendre le rôle de manager \r\n• Vous êtes ambitieux, orienté résultat et avez la capacité de rebondir en toute circonstance\r\n• Vous avez de l’énergie à revendre et disposez d’un esprit de conquête\r\n• Vous souhaitez exploiter votre aisance relationnelle, et exprimer votre leadership\r\n• Vous recherchez un rôle à triple casquette : business, recrutement et management\r\n• Vous êtes diplômé(e) d’un Bac+5 (école de commerce ou école d’ingénieur)\r\n\nCe poste n’est probablement pas fait pour vous si :\r\n• Vous souhaitez uniquement gérer des projets d’ingénierie techniques sans dimension business\r\n• La prospection à froid fait partie de vos pires cauchemars\r\n• Démarrer avec un portefeuille clients déjà existant est indispensable pour vous\r\n\nVotre parcours d’intégration :\r\n\r\nAvant même votre arrivée :\r\nTout est prêt pour vous accueillir sereinement. Vous recevrez toutes les informations nécessaires pour commencer votre aventure en toute confiance.\r\n\r\nDès le 1er jour :\r\nVous êtes accompagné(e) par un Ingénieur d’affaires dédié, votre coach. Il vous guidera pas à pas, vous transmettra son expertise et sera votre point de référence tout au long de votre formation.\r\n\r\nAu fil des mois :\r\nVous prenez progressivement en main votre activité et gagnez en autonomie, tout en continuant de bénéficier du soutien de votre coach et d’un suivi structuré.\r\n\nNotre processus de recrutement :\r\n• 1er échange téléphonique (quelques minutes) et premier entretien (environ 1h) avec Eva, notre chargée de recrutement interne. \r\n• 2ème entretien à Bruxelles avec Pierre (Manager). \r\n• Rencontre finale avec Nicolas (Directeur d’agence).\r\n\nVous êtes prêts à vous lancer avec nous ? N’attendez plus, postulez ! \r\n\nNGen Bruxelles en quelques mots : \r\n• Une équipe jeune et motivée depuis 2019.\r\n• Des locaux chaleureux et accueillant au centre de Bruxelles.\r\n• Des collègues au top avec qui évoluer au quotidien : Alexis, Léa, Nicolas et Simon.\r\n• Des moments conviviaux entre NGeneers comme des beertimes, des activités sportives, ou encore des soirées annuelles.\r\n• Notre directeur, Pierre, expérimenté et prêt à vous faire monter en compétences. \r\n• Une intégration active aux projets RSE de la société (world clean up day en équipe, marathons solidaires, implication caritative).",
-   "mission": "",
-   "profile": "Le profil recherché :\nNous sommes à la recherche de talents diplômés d’une école d’ingénieurs, de commerce ou équivalent, désireux d’évoluer vers des postes à fortes responsabilités alliant technique et commerce.\n\nVous avez de l’énergie à revendre et êtes proactif ? Vous disposez d’un esprit de conquête ? Vous êtes ambitieux et avez la capacité de rebondir en toute circonstance ? Vous souhaitez exploiter votre aisance relationnelle, et exprimer votre leadership ?",
-   "duration": 12,
-   "start_date": "2026-10-01T00:00:00",
-   "end_date": "2027-10-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-07-06T13:59:24Z",
-   "sector": "",
-   "specialization": "6, 7, 21, 78, 130, 158, 195, 207, 244, 264",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-07-06T13:59:24Z",
-    "missionStartDate": "2026-10-01T00:00:00",
-    "missionEndDate": "2027-10-01T00:00:00",
-    "startBroadcastDate": "2026-07-20T00:00:00",
-    "endBroadcastDate": "2026-08-18T00:00:00"
-   },
-   "summary": "Devenez Ingénieur d’affaires en VIE au sein de notre agence Bruxelloise.\r\n\r\nÊtre Ingénieur d’Affaires en VIE, c’est endosser un rôle audacieux : décrocher et piloter vos projets, accompagner une équipe pour développer votre activité au sein d’une société en pleine croissance.\r\nChez NGen, depuis 2018, nous sommes une équipe dynamique unie par l’envie de créer et de faire évoluer des activités à forte valeur ajoutée.\r\nNous recherchons des talents prêts à s’investir pleinement pour développer nos activités dans la région et construire leur succès aux côtés d’une équipe qui avance à l’ambition et à la performance.\r\n\r\nVos missions 🚀 \r\n• Participer au développement commercial auprès de clients industriels.\r\n• Identifier de nouvelles opportunités d'affaires et contribuer aux actions de prospection.\r\n• Accompagner les négociations commerciales aux côtés des responsables de Business Unit.\r\n• Participer au suivi des projets et à la coordination des prestations.\r\n• Contribuer aux actions de recrutement et au suivi des consultants. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/244370",
-   "score": 35,
-   "label": "À examiner",
-   "first_seen": "2026-08-18",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 20,
-    "qual": 0,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1), Tenue mécanique des outillages (284-3, 292-1)",
-     "weight": 10,
-     "terms": [
-      "usine"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "energie",
-      "industriel"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "245221",
    "title": "Customer Experience - VIE (H/F)",
    "company": "PELICO",
@@ -36975,7 +36867,7 @@
    "expiry_date": "",
    "publish_date": "2026-03-03T08:41:49Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -37121,7 +37013,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-06T15:14:05Z",
    "sector": "",
-   "specialization": "[\"62\",\"70\",\"197\"]",
+   "specialization": "62, 70, 197",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -37184,7 +37076,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-06T15:08:44Z",
    "sector": "",
-   "specialization": "[\"70\",\"145\",\"197\"]",
+   "specialization": "70, 145, 197",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -37247,7 +37139,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-23T12:36:25Z",
    "sector": "",
-   "specialization": "[\"234\"]",
+   "specialization": "234",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -37425,7 +37317,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-12T13:45:29Z",
    "sector": "",
-   "specialization": "[\"29\"]",
+   "specialization": "29",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -37783,7 +37675,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-17T07:02:56Z",
    "sector": "",
-   "specialization": "[\"259\"]",
+   "specialization": "259",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -38134,7 +38026,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-17T15:13:52Z",
    "sector": "",
-   "specialization": "[\"22\",\"33\"]",
+   "specialization": "22, 33",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -38338,7 +38230,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-05T14:47:35Z",
    "sector": "",
-   "specialization": "[\"251\",\"330\"]",
+   "specialization": "251, 330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -38411,7 +38303,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-11T16:09:31Z",
    "sector": "",
-   "specialization": "[\"138\",\"144\",\"245\",\"246\",\"251\",\"330\",\"354\",\"355\",\"356\",\"358\"]",
+   "specialization": "138, 144, 245, 246, 251, 330, 354, 355, 356, 358",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -38626,7 +38518,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-18T08:50:01Z",
    "sector": "",
-   "specialization": "[\"328\"]",
+   "specialization": "328",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -38786,7 +38678,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-25T09:51:20Z",
    "sector": "",
-   "specialization": "[\"8\"]",
+   "specialization": "8",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -38856,7 +38748,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-14T12:44:05Z",
    "sector": "",
-   "specialization": "[\"138\"]",
+   "specialization": "138",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -39316,87 +39208,6 @@
    ]
   },
   {
-   "id": "245180",
-   "title": "Chargé(e) de mission - études macroéconomiques et financières au SER de PRETORIA (H/F)",
-   "company": "DIRECTION GENERALE DU TRESOR",
-   "country": "AFRIQUE DU SUD",
-   "city": "PRETORIA",
-   "description": "NOUS VOUS INVITONS, POUR TOUT ENVOI DE DOSSIER DE CANDIDATURE, A SCRUPULEUSEMENT RESPECTER LES CONDITIONS DECRITES A LA FIN DE CETTE OFFRE DE VIA. EN CAS DE MANQUEMENT A CES CONSIGNES, VOTRE CANDIDATURE NE POURRA ETRE PRISE EN COMPTE. \r\nDUREE DE LA MISSION VIA : 12 mois renouvelable une fois pour une durée maximale de 24 mois.\r\n*****\r\n\nPRESENTATION DU SERVICE ECONOMIQUE REGIONAL (SER)\r\nLe SER de Pretoria suit les activités économiques et financières de 10 pays d'Afrique australe : Afrique du Sud, Angola, Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibie, Zambie, Zimbabwe. Il est composé du Chef de service, de trois Conseillers (Conseiller financier, Conseiller sectoriel et Conseiller « environnement »), de deux Chargés de mission (l’un spécialisé sur les questions macroéconomiques et financières, l’autre sur les sujets sectoriels), et d’une Assistante. \r\n\nMISSION ET ATTRIBUTIONS DU VIA \r\n\r\nAu sein du pôle macroéconomique, en lien avec le conseiller financier, le volontaire sera plus particulièrement chargé des tâches suivantes :\r\n\r\n- assurer un suivi hebdomadaire des problématiques et des agrégats macroéconomiques des 10 pays de la région (PIB, inflation, réserves de change, secteur bancaire, production industrielle, etc.) et rédaction des « brèves économiques et financières » ;\r\n- participer à l’analyse des grandes problématiques macroéconomiques de la région : risque-pays, notes et veilles sur le commerce et les flux de capitaux, analyse des budgets des économies de la région, suivi des questions fiscales, évolution et composition de la dette publique / soutenabilité des finances publiques, etc.;\r\n- contribuer à alimenter une base de données interne au SER de manière à mettre à jour un « observatoire de la conjoncture de la région », suivant un rythme semestriel ;\r\n- contribuer à l’élaboration d’analyses sur des projets d’aide au développement financés par l’AFD et les institutions financières internationales ;\r\n- assurer la rédaction de notes sur l’influence et la présence française dans les différents pays de la région (note sur les échanges commerciaux ; note sur les investissements directs étrangers français dans les différents pays de la région, etc.) ;\r\n- rédaction de notes transversales sur des thématiques d’intérêt pour le service et/ou l’administration centrale, en fonction de l’actualité ;\r\n- préparer des présentations générales sur les enjeux économiques globaux de la région.\r\n\r\nCes travaux nécessitent de pouvoir collaborer avec les autres services de l’Ambassade (Chancellerie et Service de coopération et d’action culturelle notamment), les Consulats, les autres institutions de l’équipe France (Chambre de Commerce franco-sud-africaine, Business France, AFD, etc.) et les institutions nationales et régionales.\r\n\r\nEn fonction des compétences de l’agent et des nécessités de service, le périmètre du poste pourra être adapté en tant que de besoin. \r\nEn tant que de besoin, l’agent pourra être amené à contribuer à toute demande ponctuelle dans l’intérêt du Service Economique Régional.\r\n\nPROFIL \r\n- Formation de type Master en économie, avec une possible spécialisation en économie internationale, analyse risque-pays, économie du développement ; ou formation de type « école de commerce » avec un cursus à forte connotation économique.\r\n- Une première expérience dans le domaine de l’analyse « risque-pays », de l’analyse des politiques économiques, de l’économie internationale et/ou financière (stages en Service Economique, DG Trésor, services d’études de banques, agences de notation, COFACE ou BpiFrance, etc.) serait un plus.\r\n- Permis de conduire fortement recommandé.\r\n\r\nCOMPETENCES REQUISES \r\n- qualités rédactionnelles (capacité à rédiger de façon concise dans des délais brefs)\r\n- forte capacité de recherche et d'analyse\r\n- autonomie, rigueur et capacité d'initiative élevées\r\n- maîtrise complète d’Excel\r\n- ouverture d'esprit et capacité de travail en équipe\r\n- respect des délais (parfois courts) et forte capacité de travail\r\n- très bonne maîtrise de l’anglais indispensable\r\n- impérativement titulaire du permis de conduire compte tenu des caractéristiques du pays de résidence.\r\n\nDIVERS \r\nInsécurité relativement élevée, d’où la nécessité de se conformer étroitement aux recommandations édictées par l’ambassade et les services français. Il vous sera conseillé d’acquérir un véhicule personnel.\r\n\n*****\r\nCONDITIONS DE CANDIDATURE :\r\nSi ce poste vous intéresse, vous devez impérativement être inscrit(e) sur la plateforme « Mon Volontariat International ». Merci d’adresser votre CV et votre lettre de motivation EN FRANÇAIS sous format Word ou PDF (fichiers joints personnalisés) uniquement via la plateforme prévue à cet effet, en mentionnant en objet la référence ainsi que le poste et la ville de destination. \r\n\r\nMERCI DE NE PAS ENVOYER VOS CANDIDATURES DIRECTEMENT AUX SERVICES ECONOMIQUES.\r\n\r\nEn sus de votre CV, votre lettre de motivation doit CLAIREMENT détailler les raisons motivant votre démarche ainsi que votre intérêt pour le poste PRECISEMENT convoité.\r\n\r\nCette annonce ne paraîtra que quelques jours. Merci donc de systématiquement la conserver car elle pourrait ne plus être disponible par la suite.\r\n\r\nLa date limite de réception des candidatures est fixée au lundi 17 août 2026 inclus (modifiable si besoin, en fonction du nombre des candidatures reçues). Tout dossier soumis après cette date ne sera pas considéré.\r\n\r\nEN RAISON DU NOMBRE IMPORTANT DE CANDIDATURES RECUES NOUS N’ACCUSONS PAS RECEPTION. SI VOUS NE RECEVEZ PAS DE REPONSE DANS LES 6 SEMAINES APRES L’ENVOI DE VOTRE CANDIDATURE, VOUS DEVREZ CONSIDERER QU’ELLE N’A PAS ETE RETENUE.",
-   "mission": "",
-   "profile": "PROFIL \n- Formation de type Master en économie, avec une possible spécialisation en économie internationale, analyse risque-pays, économie du développement ; ou formation de type « école de commerce » avec un cursus à forte connotation économique.\n- Une première expérience dans le domaine de l’analyse « risque-pays », de l’analyse des politiques économiques, de l’économie internationale et/ou financière (stages en Service Economique, DG Trésor, services d’études de banques, agences de notation, COFACE ou BpiFrance, etc.) serait un plus.\n- Permis de conduire fortement recommandé.\n\nCOMPETENCES REQUISES \n- qualités rédactionnelles (capacité à rédiger de façon concise dans des délais brefs)\n- forte capacité de recherche et d'analyse\n- autonomie, rigueur et capacité d'initiative élevées\n- maîtrise complète d’Excel\n- ouverture d'esprit et capacité de travail en équipe\n- respect des délais (parfois courts) et forte capacité de travail\n- très bonne maîtrise de l’anglais indispensable\n- impérativement titulaire du permis de conduire compte tenu des caractéristiques du pays de résidence.",
-   "duration": 24,
-   "start_date": "2026-11-01T00:00:00",
-   "end_date": "2028-11-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-08-07T08:55:10Z",
-   "sector": "",
-   "specialization": "[\"17\",\"188\",\"259\"]",
-   "contract": "VIA",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-08-07T08:55:10Z",
-    "missionStartDate": "2026-11-01T00:00:00",
-    "missionEndDate": "2028-11-01T00:00:00",
-    "startBroadcastDate": "2026-08-07T00:00:00",
-    "endBroadcastDate": "2026-08-18T00:00:00"
-   },
-   "summary": "NOUS VOUS INVITONS, POUR TOUT ENVOI DE DOSSIER DE CANDIDATURE, A SCRUPULEUSEMENT RESPECTER LES CONDITIONS DECRITES A LA FIN DE CETTE OFFRE DE VIA. EN CAS DE MANQUEMENT A CES CONSIGNES, VOTRE CANDIDATURE NE POURRA ETRE PRISE EN COMPTE. \r\nDUREE DE LA MISSION VIA : 12 mois renouvelable une fois pour une durée maximale de 24 mois.\r\n*****\r\n\nPRESENTATION DU SERVICE ECONOMIQUE REGIONAL (SER)\r\nLe SER de Pretoria suit les activités économiques et financières de 10 pays d'Afrique australe : Afrique du Sud, Angola, Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibie, Zambie, Zimbabwe. Il est composé du Chef de service, de trois Conseillers (Conseiller financier, Conseiller sectoriel et Conseiller « environnement »), de deux Chargés de mission (l’un spécialisé sur les questions macroéconomiques et financières, l’autre sur les sujets sectoriels), et d’une Assistante. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/245180",
-   "score": 32,
-   "label": "Périphérique",
-   "first_seen": "2026-08-18",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 20,
-    "qual": 28,
-    "calc": 17
-   },
-   "dominant_axis": "qual",
-   "matched_families": [
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1), Initiation Excel et macros (266-1), Asservissement (840-1)",
-     "weight": 5,
-     "terms": [
-      "macro"
-     ]
-    },
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1), Tenue mécanique des outillages (284-3, 292-1)",
-     "weight": 10,
-     "terms": [
-      "usine"
-     ]
-    },
-    {
-     "id": "qual2",
-     "axis": "qual",
-     "source": "Qualité et normes (774-1)",
-     "weight": 10,
-     "terms": [
-      "qualite"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "industriel"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "236448",
    "title": "Assistant(e) – Customer Satisfaction Support (H/F)",
    "company": "EFE INTERNATIONAL",
@@ -39708,7 +39519,7 @@
    "expiry_date": "",
    "publish_date": "2025-10-13T08:46:35Z",
    "sector": "",
-   "specialization": "[\"245\",\"248\"]",
+   "specialization": "245, 248",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -39933,7 +39744,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-05T14:43:14Z",
    "sector": "",
-   "specialization": "[\"130\"]",
+   "specialization": "130",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -40090,7 +39901,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-17T06:09:10Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -40664,7 +40475,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-17T10:15:14Z",
    "sector": "",
-   "specialization": "[\"313\"]",
+   "specialization": "313",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -41183,7 +40994,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-10T14:07:02Z",
    "sector": "",
-   "specialization": "[\"130\"]",
+   "specialization": "130",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -41569,7 +41380,7 @@
    "expiry_date": "",
    "publish_date": "2026-03-05T10:16:21Z",
    "sector": "",
-   "specialization": "[\"29\",\"112\",\"248\"]",
+   "specialization": "29, 112, 248",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -41704,7 +41515,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-16T14:23:15Z",
    "sector": "",
-   "specialization": "17",
+   "specialization": "[\"17\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -42238,7 +42049,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-07T15:14:37Z",
    "sector": "",
-   "specialization": "[\"73\",\"109\",\"149\",\"158\"]",
+   "specialization": "73, 109, 149, 158",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -42312,7 +42123,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-04T08:51:02Z",
    "sector": "",
-   "specialization": "[\"246\"]",
+   "specialization": "246",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -42463,7 +42274,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-20T08:25:32Z",
    "sector": "",
-   "specialization": "[\"327\",\"328\",\"332\"]",
+   "specialization": "327, 328, 332",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -42713,7 +42524,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-31T13:16:18Z",
    "sector": "",
-   "specialization": "[\"8\"]",
+   "specialization": "8",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -42774,7 +42585,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-07T06:44:48Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -43010,7 +42821,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-10T08:33:09Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -43147,7 +42958,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-18T10:09:02Z",
    "sector": "",
-   "specialization": "[\"327\"]",
+   "specialization": "327",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -43364,7 +43175,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-29T13:52:14Z",
    "sector": "",
-   "specialization": "[\"238\"]",
+   "specialization": "238",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -43755,7 +43566,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-30T06:51:46Z",
    "sector": "",
-   "specialization": "[\"6\",\"7\",\"9\",\"17\",\"21\",\"91\",\"93\",\"98\",\"101\",\"109\",\"126\"]",
+   "specialization": "6, 7, 9, 17, 21, 91, 93, 98, 101, 109, 126",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -43891,7 +43702,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-24T14:12:53Z",
    "sector": "",
-   "specialization": "[\"230\"]",
+   "specialization": "230",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -44539,7 +44350,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-24T14:25:44Z",
    "sector": "",
-   "specialization": "[\"6\",\"195\"]",
+   "specialization": "6, 195",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -44605,7 +44416,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-31T14:52:06Z",
    "sector": "",
-   "specialization": "[\"9\"]",
+   "specialization": "9",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -44670,7 +44481,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-30T12:55:21Z",
    "sector": "",
-   "specialization": "[\"238\"]",
+   "specialization": "238",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -44807,7 +44618,7 @@
    "expiry_date": "",
    "publish_date": "2026-03-13T15:06:44Z",
    "sector": "",
-   "specialization": "[\"63\",\"130\",\"134\",\"169\"]",
+   "specialization": "63, 130, 134, 169",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -44912,7 +44723,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-27T16:09:15Z",
    "sector": "",
-   "specialization": "[\"11\"]",
+   "specialization": "11",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -45446,7 +45257,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-02T15:49:12Z",
    "sector": "",
-   "specialization": "[\"60\",\"262\",\"264\"]",
+   "specialization": "60, 262, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -45577,7 +45388,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-07T05:40:31Z",
    "sector": "",
-   "specialization": "[\"22\"]",
+   "specialization": "22",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -45898,7 +45709,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-15T08:31:19Z",
    "sector": "",
-   "specialization": "[\"60\"]",
+   "specialization": "60",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -46373,7 +46184,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-06T14:16:07Z",
    "sector": "",
-   "specialization": "[\"62\",\"70\",\"264\"]",
+   "specialization": "62, 70, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -46437,7 +46248,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-30T09:41:12Z",
    "sector": "",
-   "specialization": "[\"49\"]",
+   "specialization": "49",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -46841,7 +46652,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-07T07:08:25Z",
    "sector": "",
-   "specialization": "[\"21\",\"109\"]",
+   "specialization": "21, 109",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
