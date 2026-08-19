@@ -15,7 +15,7 @@ const AXIS_LABELS = {
 const AXIS_ORDER = ["rd", "prod", "qual", "calc"];
 let PAGE_STEP = 25;          // ajustable depuis le panneau de filtres
 const PAGE_SIZES = [25, 50, 75, 100];
-const UI_VERSION = "8";   // affiché en pied de page : permet de vérifier
+const UI_VERSION = "9";   // affiché en pied de page : permet de vérifier
                           // quelle version de l'interface est réellement chargée
 const EXPIRY_WINDOW_DAYS = 14;   // seuil de l'onglet « échéances »
 const NEW_WINDOW_DAYS = 7;       // seuil de l'onglet « nouveautés »
@@ -908,9 +908,22 @@ function updateFreshness() {
   const stamp = DATA.generated_at
     ? new Date(DATA.generated_at).toLocaleString("fr-FR", { dateStyle: "long", timeStyle: "short" })
     : "jamais";
+  // Contrôle d'exhaustivité : la collecte a-t-elle bien vu toutes les offres
+  // que l'API déclare publier ?
+  const scanned = DATA.total_scanned || 0;
+  const announced = DATA.total_announced || 0;
+  let coverage = "";
+  if (announced && scanned < announced) {
+    coverage = `<br><span class="incomplete">Collecte incomplète :
+      ${scanned} sur ${announced} annoncées</span>`;
+  } else if (announced) {
+    coverage = `<br><span class="complete">Toutes les offres publiées
+      ont été examinées (${announced})</span>`;
+  }
+
   $("#freshness").innerHTML =
     `Dernière recherche<br><strong>${escapeHtml(stamp)}</strong><br><br>` +
-    `${DATA.total_scanned || 0} offres examinées, ${DATA.total_kept || 0} retenues.`;
+    `${scanned} offres examinées, ${DATA.total_kept || 0} retenues.` + coverage;
 }
 
 const EMPTY_MESSAGES = {

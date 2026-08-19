@@ -1285,3 +1285,7 @@ a { color: var(--oxide); }
 }
 
 #country, #company { min-height: 2.1rem; }
+
+/* Contrôle d'exhaustivité de la collecte — v9 */
+.freshness .complete { color: var(--axis-rd); }
+.freshness .incomplete { color: var(--oxide); font-weight: 600; }

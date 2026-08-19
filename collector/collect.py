@@ -272,13 +272,24 @@ def negotiate(session, verbose=True):
 
 
 def fetch_all(session, path, variant, max_pages):
+    """
+    Parcourt toutes les pages de résultats.
+
+    Retourne (offres, total_annoncé). Le total annoncé par l'API sert de
+    contrôle : si la collecte s'arrête avant de l'atteindre, c'est qu'une page
+    a échoué ou que la pagination a changé — mieux vaut le savoir que de
+    croire à tort avoir tout examiné.
+    """
     offers, seen = [], set()
+    announced = 0
     for page in range(max_pages):
         payload = build_payload(variant, skip=page * PAGE_SIZE,
                                 limit=PAGE_SIZE, page=page + 1)
         resp = session.post(API_BASE + path, json=payload, timeout=45)
         resp.raise_for_status()
         records, total = extract_records(resp.json())
+        if total and not announced:
+            announced = total
         if not records:
             break
         new = 0
@@ -296,7 +307,7 @@ def fetch_all(session, path, variant, max_pages):
         if total and len(offers) >= total:
             break
         time.sleep(REQUEST_DELAY)
-    return offers
+    return offers, announced
 
 
 BOILERPLATE = [
@@ -542,8 +553,22 @@ def main():
         return
 
     print("\nCollecte des offres…")
-    raw_offers = fetch_all(session, path, variant, args.max_pages)
+    raw_offers, announced = fetch_all(session, path, variant, args.max_pages)
     print(f"{len(raw_offers)} offres récupérées.")
+
+    if announced:
+        if len(raw_offers) >= announced:
+            print(f"Contrôle d'exhaustivité : {len(raw_offers)} récupérées sur "
+                  f"{announced} annoncées par l'API — collecte complète.")
+        else:
+            manquantes = announced - len(raw_offers)
+            print(f"::warning::Collecte incomplète : {len(raw_offers)} offres "
+                  f"récupérées sur {announced} annoncées ({manquantes} manquantes).")
+            print("Causes possibles : limite de pages atteinte (--max-pages), "
+                  "page en erreur, ou pagination modifiée par l'API.")
+    else:
+        print("::warning::L'API n'a pas annoncé de total : "
+              "impossible de vérifier l'exhaustivité de la collecte.")
 
     # Historique : conserver la date de première apparition de chaque offre,
     # ce qui permet à la page de signaler les nouveautés.
@@ -579,6 +604,7 @@ def main():
         "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "source": "Business France — mon-vie-via.businessfrance.fr",
         "total_scanned": len(raw_offers),
+        "total_announced": announced,
         "total_kept": len(scored),
         "threshold": args.threshold,
         "axes": AXES,
