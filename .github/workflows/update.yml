@@ -21,10 +21,6 @@ permissions:
   pages: write
   id-token: write
 
-concurrency:
-  group: pages
-  cancel-in-progress: false
-
 jobs:
   collect:
     runs-on: ubuntu-latest
@@ -128,6 +124,15 @@ jobs:
   deploy:
     needs: collect
     runs-on: ubuntu-latest
+    # La règle ne s'applique qu'à la publication, et non à toute la chaîne :
+    # sinon une collecte attend la fin de la précédente, et la file s'allonge.
+    #
+    # « cancel-in-progress: true » : avec une collecte toutes les 30 minutes,
+    # une publication en attente est déjà périmée quand la suivante arrive.
+    # Mieux vaut l'annuler et publier la plus récente.
+    concurrency:
+      group: pages
+      cancel-in-progress: true
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
