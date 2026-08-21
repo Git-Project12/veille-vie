@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-08-21T19:35:04+00:00",
+ "generated_at": "2026-08-21T19:47:28+00:00",
  "source": "Business France — mon-vie-via.businessfrance.fr",
- "total_scanned": 750,
- "total_announced": 750,
- "total_kept": 499,
+ "total_scanned": 752,
+ "total_announced": 752,
+ "total_kept": 500,
  "threshold": 25,
  "axes": {
   "rd": {
@@ -10787,6 +10787,124 @@
      "terms": [
       "industrial",
       "industriel"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
+   "id": "245356",
+   "title": "VIE - IT APPLICATION SUPPORT OFFICER (H/F)",
+   "company": "ENGIE GLOBAL MARKETS",
+   "country": "SINGAPOUR",
+   "city": "SINGAPOUR",
+   "description": "We are a leading global group in low-carbon energy and services. Together with our employees, customers, partners and stakeholders, we are committed every day to accelerating the transition towards a carbon-neutral world through more energy-efficient and environmentally friendly solutions. Guided by our purpose, we combine economic performance with a positive impact on people and the planet, leveraging our core businesses (gas, renewable energies and services) to provide competitive solutions to our customers.\nAbout ENGIE and Supply & Energy Management:\nENGIE, a global leader in low-carbon energy and services, relies on its Global Business Unit Supply & Energy Management (GBU S&EM) to provide reliable, sustainable, and affordable energy to all its customers. This strategic unit optimizes the Group’s and clients’ production assets and designs tailored energy solutions for our 200,000 professional clients and 15 million consumers.\nThe Global Business Unit Supply & Energy Management leverages ENGIE’s assets to deliver secure and sustainable energy to its B2B and B2C customers. It uses its expertise in energy management to provide decarbonized electricity 24/7.\nJoining Supply & Energy Management means becoming part of a team of over 10,000 passionate experts spread across 20 countries, all united by a shared mission: shaping a greener and more efficient energy future. Together, we push the boundaries of innovation to deliver decarbonized energy 24/7. Join us and be part of those shaping the energy of tomorrow!\n\n**S&EM – Business Platform APAC** is responsible for managing and developing ENGIE Group’s trading activities across the APAC region, as well as supporting the Group’s LNG business worldwide.\n\nAs part of its ongoing transformation, S&EM is developing and rolling out several strategic IT and digital initiatives, including **Algo Trading, Gemstone** (the front-to-accounting trading chain based on Orchestrade), **eBusiness development**, and other projects aimed at improving the efficiency, reliability and digitalization of the trading platform.\n\nTo support these activities, the S&EM APAC IT team is looking for an **IT Application Support Officer** to contribute to the reliability and continuous improvement of the existing information systems, while supporting the deployment and development of new solutions.\n\nThe position is based in **Singapore** and involves frequent interaction with IT and business teams in Europe, particularly in Paris and Brussels. Occasional business trips to Europe may be required.\n\nAs a member of the Singapore IT team, the VIE will also contribute to the collaboration and cohesion of the wider international IT organization, working closely with teams across different time zones as part of a **Follow-the-Sun support model**.\n\n## Main responsibilities\n\nThe main responsibilities will include:\n\n* **Ensure the stability and continuity of the production environment**, by monitoring applications, services and batches running in Singapore and Europe, identifying incidents and coordinating their resolution with the relevant IT teams.\n\n* **Provide application support to business users** across the trading environment, covering areas such as pre-trade and pricing, trade lifecycle, post-trade, Greeks/V@R/valuation, curves and market data, static reference data and short-term trading.\n\n* **Analyze and resolve incidents**, document solutions and contribute to the continuous improvement of monitoring tools, operational procedures and support processes.\n\n* **Support local users in Singapore**, handling requests related to application configuration, access and usage, while collecting user feedback and sharing it with development and business analysis teams.\n\n* **Collaborate closely with IT teams in Paris and Brussels**, ensuring efficient communication, knowledge sharing and handover of activities within the Follow-the-Sun operating model.\n\n* **Contribute to continuous improvement**, by identifying recurring issues, enriching the problem backlog and proposing improvements to the IT landscape and user experience.\n\n* **Develop knowledge of the trading IT ecosystem**, proactively learning about applications, processes and technologies, and contributing to the Singapore Business Continuity Plan.\n\n## Workplace environment\n\n**Job title:** IT Application Support Officer\n**Seniority:** Intermediate\n**Department:** S&EM APAC IT Team\n**Reporting line:** Team Lead S&EM APAC IS Functional\n**Location:** Singapore\n\n## What you will gain from this VIE\n\nThis VIE offers the opportunity to work in an **international and fast-paced trading environment**, at the intersection of IT, energy markets and business operations. You will interact with teams based in Singapore and Europe, gain exposure to a wide range of trading applications and contribute directly to the reliability and transformation of ENGIE’s global trading platform.",
+   "mission": "",
+   "profile": "Education\n• Bachelor's or Master's degree in Information Technology, Engineering, Mathematics, Finance, or a related discipline.\nProfessional Experience\n• 3+ years of experience as an Application Support Specialist within commodity trading, energy trading, or financial services environments.\n• Experience supporting trading, risk management, and portfolio management processes across front, middle, and back-office functions.\n• Proven experience working in live trading environments and supporting business-critical applications.\n• Experience with ETRM/CTRM, trading, or risk management platforms such as Orchestrade, Endur, Murex, Calypso, Beacon, or equivalent solutions.\n• Experience working with global and cross-regional teams in delivering business and technology initiatives.\nTrading & Risk Management Knowledge\n• Understanding of the complete trade life cycle including trade capture, validation, confirmations, fixings, exercises, liquidations, terminations, settlements, and reporting.\n• Knowledge of risk management concepts and metrics, including: \no Greeks and sensitivities\no P&L explain and attribution\no Mark-to-Market (MtM)\no Value-at-Risk (VaR)\no Position and exposure management\no Limit monitoring and controls\n• Understanding of pre-trade pricing, valuation methodologies, and risk engine concepts.\n• Experience with market data management, curve building, valuation curves, and market data retrieval platforms.\n• Understanding of static data management, reference data governance, and workflow management processes.",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-08-21T19:02:33Z",
+   "sector": "",
+   "specialization": "[\"327\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-08-21T19:02:33Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-08-21T00:00:00",
+    "endBroadcastDate": "2026-09-20T00:00:00"
+   },
+   "summary": "We are a leading global group in low-carbon energy and services. Together with our employees, customers, partners and stakeholders, we are committed every day to accelerating the transition towards a carbon-neutral world through more energy-efficient and environmentally friendly solutions. Guided by our purpose, we combine economic performance with a positive impact on people and the planet, leveraging our core businesses (gas, renewable energies and services) to provide competitive solutions to our customers.\nAbout ENGIE and Supply & Energy Management:\nENGIE, a global leader in low-carbon energy and services, relies on its Global Business Unit Supply & Energy Management (GBU S&EM) to provide reliable, sustainable, and affordable energy to all its customers. This strategic unit optimizes the Group’s and clients’ production assets and designs tailored energy solutions for our 200,000 professional clients and 15 million consumers.\nThe Global Business Unit Supply & Energy Management leverages ENGIE’s assets to deliver secure and sustainable energy to its B2B and B2C customers. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/245356",
+   "score": 59,
+   "label": "Bonne adéquation",
+   "first_seen": "2026-08-21T19:47:26+00:00",
+   "axis_scores": {
+    "rd": 25,
+    "prod": 71,
+    "qual": 19,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod1",
+     "axis": "prod",
+     "source": "Mise en forme par déformation plastique des métaux (281-1), Physique de la mise en forme (290-1)",
+     "weight": 10,
+     "terms": [
+      "rolling"
+     ]
+    },
+    {
+     "id": "prod3",
+     "axis": "prod",
+     "source": "Assemblage des matériaux (297-2)",
+     "weight": 9,
+     "terms": [
+      "joining"
+     ]
+    },
+    {
+     "id": "prod4",
+     "axis": "prod",
+     "source": "Outils de production (269-1), Tenue mécanique des outillages (284-3, 292-1)",
+     "weight": 10,
+     "terms": [
+      "usine"
+     ]
+    },
+    {
+     "id": "prod5",
+     "axis": "prod",
+     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
+     "weight": 7,
+     "terms": [
+      "continuous improvement"
+     ]
+    },
+    {
+     "id": "qual4",
+     "axis": "qual",
+     "source": "Introduction aux techniques expérimentales (267-1)",
+     "weight": 7,
+     "terms": [
+      "validation"
+     ]
+    },
+    {
+     "id": "rd3",
+     "axis": "rd",
+     "source": "Dégradation des matériaux (300-2), Traitements de surface (306-2)",
+     "weight": 9,
+     "terms": [
+      "aging"
+     ]
+    },
+    {
+     "id": "rd7",
+     "axis": "rd",
+     "source": "Recyclage des matériaux, Éco-conception (842-1), Enjeux DDRS (838-1)",
+     "weight": 6,
+     "terms": [
+      "sustainab"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "energie",
+      "energy"
      ],
      "points": 5
     },
