@@ -479,6 +479,92 @@ def normalize_offer(raw):
     return offer
 
 
+NTFY_SERVER = "https://ntfy.sh"
+NOTIFY_MIN_SCORE = int(os.environ.get("NOTIFY_MIN_SCORE", "50"))
+MAX_LISTED = 8          # au-delà, le message devient illisible sur un écran
+
+
+def notify_new_offers(new_offers):
+    """
+    Envoie une notification poussée pour les nouvelles offres pertinentes.
+
+    Le canal (« topic » ntfy) est lu dans la variable NTFY_TOPIC, elle-même
+    alimentée par un secret GitHub : sans cela, n'importe qui connaissant le
+    nom du canal recevrait — ou pourrait envoyer — tes alertes.
+
+    Rien n'est envoyé si le canal n'est pas configuré : le silence vaut mieux
+    qu'un échec bruyant au milieu d'une collecte par ailleurs réussie.
+    """
+    topic = os.environ.get("NTFY_TOPIC", "").strip()
+    if not topic:
+        print("Notification ignorée : NTFY_TOPIC non configuré.")
+        return
+    if not new_offers:
+        return
+
+    lines = []
+    for offer in new_offers[:MAX_LISTED]:
+        lieu = offer.get("country") or ""
+        lines.append(f"{offer['score']}/100 — {offer['title'][:60]}"
+                     f" ({offer.get('company', '')}, {lieu})")
+    if len(new_offers) > MAX_LISTED:
+        lines.append(f"… et {len(new_offers) - MAX_LISTED} autre(s).")
+
+    titre = (f"{len(new_offers)} nouvelle offre V.I.E" if len(new_offers) == 1
+             else f"{len(new_offers)} nouvelles offres V.I.E")
+
+    try:
+        resp = requests.post(
+            f"{NTFY_SERVER}/{topic}",
+            data="\n".join(lines).encode("utf-8"),
+            headers={
+                "Title": titre.encode("utf-8"),
+                "Priority": "default",
+                "Tags": "briefcase",
+                "Click": "https://git-project12.github.io/veille-vie/",
+            },
+            timeout=20,
+        )
+        if resp.status_code < 300:
+            print(f"Notification envoyée : {len(new_offers)} offre(s).")
+        else:
+            print(f"::warning::Notification refusée (HTTP {resp.status_code}).")
+    except requests.RequestException as exc:
+        print(f"::warning::Notification impossible : {exc}")
+
+
+def report_detection_hours(offers):
+    """
+    Répartition horaire des premières détections, en heure de Paris.
+
+    Sert à resserrer la fenêtre de collecte sur les créneaux réellement
+    productifs, une fois quelques jours de relevés accumulés.
+    """
+    from collections import Counter
+    hours = Counter()
+    for offer in offers:
+        stamp = str(offer.get("first_seen") or "")
+        if "T" not in stamp:
+            continue          # ancienne donnée, date seule
+        try:
+            moment = datetime.fromisoformat(stamp)
+        except ValueError:
+            continue
+        # UTC vers Paris : +2 h en été, +1 h en hiver. L'écart d'une heure est
+        # sans conséquence pour un histogramme indicatif.
+        hours[(moment.hour + 2) % 24] += 1
+
+    if not hours:
+        print("Relevé horaire : pas encore de données horodatées.")
+        return
+
+    total = sum(hours.values())
+    print(f"\nRépartition des {total} premières détections (heure de Paris) :")
+    for hour in sorted(hours):
+        barre = "#" * max(1, round(30 * hours[hour] / max(hours.values())))
+        print(f"  {hour:02d}h  {hours[hour]:>4}  {barre}")
+
+
 def main():
     parser = argparse.ArgumentParser(description="Collecte et note les offres V.I.E")
     parser.add_argument("--discover", action="store_true",
@@ -581,7 +667,10 @@ def main():
     except (OSError, ValueError):
         pass
 
-    today = datetime.now(timezone.utc).date().isoformat()
+    # Horodatage complet (et non la seule date) : permet de mesurer à quelles
+    # heures Business France publie réellement, et d'ajuster la fenêtre de
+    # collecte sur des faits plutôt que sur une supposition.
+    now_iso = datetime.now(timezone.utc).isoformat(timespec="seconds")
 
     print("Scoring selon le référentiel ENSICAEN Matériaux & Mécanique…")
     scored = []
@@ -594,11 +683,33 @@ def main():
             continue
         offer["score"] = score
         offer["label"] = label_for(score)
-        offer["first_seen"] = previous_seen.get(offer["id"]) or today
+        offer["first_seen"] = previous_seen.get(offer["id"]) or now_iso
         offer.update(detail)
         scored.append(offer)
 
     scored.sort(key=lambda o: (-o["score"], o["company"] or ""))
+
+    # --- Nouvelles offres et notification ---------------------------------
+    # « Nouvelle » signifie : absente de la collecte précédente. On s'appuie
+    # sur le fichier de données existant, pas sur une date, ce qui reste juste
+    # même si une collecte a été manquée.
+    nouvelles = [o for o in scored
+                 if o["id"] not in previous_seen and o["score"] >= NOTIFY_MIN_SCORE]
+
+    if not previous_seen:
+        # Premier lancement : tout est « nouveau ». Notifier enverrait des
+        # centaines d'alertes d'un coup.
+        print(f"Première collecte : notification désactivée "
+              f"({len(nouvelles)} offres auraient été signalées).")
+    elif nouvelles:
+        print(f"{len(nouvelles)} nouvelle(s) offre(s) au-dessus de "
+              f"{NOTIFY_MIN_SCORE}/100 :")
+        for offer in nouvelles[:MAX_LISTED]:
+            print(f"  {offer['score']:>3} — {offer['title'][:60]} "
+                  f"({offer.get('company', '')})")
+        notify_new_offers(nouvelles)
+    else:
+        print(f"Aucune nouvelle offre au-dessus de {NOTIFY_MIN_SCORE}/100.")
 
     payload = {
         "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
@@ -620,6 +731,8 @@ def main():
 
     print(f"{len(scored)} offres retenues sur {len(raw_offers)} scannées.")
     print(f"Écrit dans {out_path}")
+    report_detection_hours(scored)
+
     if scored:
         print("\nTop 5 :")
         for offer in scored[:5]:
