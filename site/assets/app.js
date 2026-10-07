@@ -15,7 +15,7 @@ const AXIS_LABELS = {
 const AXIS_ORDER = ["rd", "prod", "qual", "calc"];
 let PAGE_STEP = 25;          // ajustable depuis le panneau de filtres
 const PAGE_SIZES = [25, 50, 75, 100];
-const UI_VERSION = "18";   // affiché en pied de page : permet de vérifier
+const UI_VERSION = "22";   // affiché en pied de page : permet de vérifier
                           // quelle version de l'interface est réellement chargée
 const EXPIRY_WINDOW_DAYS = 14;   // seuil de l'onglet « échéances »
 const NEW_WINDOW_HOURS = 24;     // durée pendant laquelle une offre reste « nouvelle »
@@ -437,6 +437,14 @@ function boot() {
   updateTabCounts();
   apply();
 
+  // Un lien de synchronisation ouvert sur cet appareil ?
+  appliquerLienSync();
+
+  // Coller le lien alors que le site est DÉJÀ ouvert ne recharge pas la page :
+  // le navigateur n'y voit qu'un déplacement dans la même page. Sans cette
+  // écoute, l'importation ne se déclencherait pas dans ce cas pourtant courant.
+  window.addEventListener("hashchange", appliquerLienSync);
+
   // Mémoriser la visite pour l'onglet « nouveautés » de la prochaine fois
   // La visite en cours est enregistrée pour la PROCHAINE ouverture. VISIT_REF
   // reste inchangée : l'onglet Nouveautés garde son contenu jusqu'au bout.
@@ -513,6 +521,8 @@ function bindEvents() {
 
   $("#export-csv").addEventListener("click", exportCsv);
   $("#export-prefs").addEventListener("click", exportPrefs);
+  $("#sync-link").addEventListener("click", partagerSync);
+  $("#sync-receive").addEventListener("click", recevoirSync);
   $("#import-prefs").addEventListener("change", importPrefs);
   $("#filter-toggle").addEventListener("click", () => {
     const rail = $("#rail");
@@ -1255,6 +1265,239 @@ function exportCsv() {
   const csv = "\uFEFF" + lines.map((r) =>
     r.map((c) => `"${String(c ?? "").replace(/"/g, '""')}"`).join(";")).join("\n");
   download(new Blob([csv], { type: "text/csv;charset=utf-8" }), "mes-offres-vie.csv");
+}
+
+/* ==================== Synchronisation entre appareils ====================
+
+   Un navigateur cloisonne les données par adresse : le site local, le site en
+   ligne et le téléphone sont trois stockages distincts qui s'ignorent. Aucun
+   serveur ne conserve ta sélection — c'est délibéré, tes candidatures ne
+   regardent personne.
+
+   Le pont est donc un lien : favoris, notes, archives et pondérations y sont
+   compressés puis encodés. L'ouvrir sur un autre appareil y verse le contenu.
+   La fusion est additive : ce qui existe déjà des deux côtés est conservé. */
+
+const SYNC_PREFIX = "#sync=";
+const SYNC_MAX = 30000;      // au-delà, un lien devient impraticable
+
+function b64urlEncode(bytes) {
+  let binaire = "";
+  for (const o of bytes) binaire += String.fromCharCode(o);
+  return btoa(binaire).replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/, "");
+}
+
+function b64urlDecode(texte) {
+  const s = texte.replace(/-/g, "+").replace(/_/g, "/");
+  const complement = "=".repeat((4 - (s.length % 4)) % 4);
+  return Uint8Array.from(atob(s + complement), (c) => c.charCodeAt(0));
+}
+
+async function compresser(texte) {
+  if (typeof CompressionStream === "undefined") return null;
+  const flux = new Blob([texte]).stream()
+    .pipeThrough(new CompressionStream("deflate-raw"));
+  return new Uint8Array(await new Response(flux).arrayBuffer());
+}
+
+async function decompresser(octets) {
+  const flux = new Blob([octets]).stream()
+    .pipeThrough(new DecompressionStream("deflate-raw"));
+  return await new Response(flux).text();
+}
+
+function etatSynchronisable() {
+  return {
+    v: 1,
+    favorites: PREFS.favorites,
+    tracking: PREFS.tracking,
+    archive: PREFS.archive,
+    weights: PREFS.weights,
+  };
+}
+
+async function construireLienSync() {
+  const json = JSON.stringify(etatSynchronisable());
+  const compresse = await compresser(json);
+  const charge = compresse
+    ? "z" + b64urlEncode(compresse)
+    : "p" + b64urlEncode(new TextEncoder().encode(json));
+  return location.origin + location.pathname + SYNC_PREFIX + charge;
+}
+
+async function partagerSync() {
+  const favoris = PREFS.favorites.length;
+  const archives = Object.keys(PREFS.archive).length;
+  const suivies = Object.values(PREFS.tracking).filter((t) => t.status).length;
+
+  if (!favoris && !archives && !suivies) {
+    alert("Rien à synchroniser pour l'instant : aucun favori, aucune archive, "
+      + "aucune candidature suivie.");
+    return;
+  }
+
+  let lien;
+  try {
+    lien = await construireLienSync();
+  } catch (err) {
+    alert("Création du lien impossible : " + err.message);
+    return;
+  }
+
+  if (lien.length > SYNC_MAX) {
+    alert(`Ta sélection est trop volumineuse pour tenir dans un lien `
+      + `(${Math.round(lien.length / 1000)} ko).\n\n`
+      + `Utilise « Sauvegarder mes favoris » et transfère le fichier obtenu.`);
+    return;
+  }
+
+  const resume = `${favoris} favori${favoris > 1 ? "s" : ""}, `
+    + `${archives} archive${archives > 1 ? "s" : ""}, `
+    + `${suivies} candidature${suivies > 1 ? "s" : ""}`;
+
+  try {
+    await navigator.clipboard.writeText(lien);
+    alert(`Lien de synchronisation copié (${resume}).\n\n`
+      + `Sur l'autre appareil : soit tu colles ce lien dans la barre d'adresse, `
+      + `soit — depuis l'application de l'écran d'accueil, qui n'en a pas — tu `
+      + `utilises le bouton « Recevoir une synchronisation ».\n\n`
+      + `Entre un Mac et un iPhone reliés au même compte Apple, le presse-papier `
+      + `est commun : le coller suffit.`);
+  } catch (err) {
+    prompt(`Copie ce lien (${resume}) :`, lien);
+  }
+}
+
+/* Applique un code de synchronisation, d'où qu'il vienne : adresse du site ou
+   collage manuel. Les deux chemins existent parce qu'une application ajoutée à
+   l'écran d'accueil n'a pas de barre d'adresse — et, sur iOS, son stockage est
+   distinct de celui de Safari. Sans collage manuel, elle serait injoignable. */
+async function appliquerCodeSync(charge) {
+  const mode = charge[0];
+  const corps = charge.slice(1);
+
+  let donnees;
+  try {
+    const octets = b64urlDecode(corps);
+    const json = mode === "z"
+      ? await decompresser(octets)
+      : new TextDecoder().decode(octets);
+    donnees = JSON.parse(json);
+    if (!donnees || typeof donnees !== "object") throw new Error("contenu inattendu");
+  } catch (err) {
+    alert("Ce code de synchronisation est illisible ou incomplet.\n\n"
+      + "Vérifie que tu as copié le lien en entier, jusqu'au dernier caractère.");
+    return false;
+  }
+
+  const favoris = (donnees.favorites || []).length;
+  const archives = Object.keys(donnees.archive || {}).length;
+  const suivies = Object.values(donnees.tracking || {})
+    .filter((t) => t && t.status).length;
+
+  const ok = confirm(
+    `Cette synchronisation contient ${favoris} favori(s), ${archives} archive(s) `
+    + `et ${suivies} candidature(s) suivie(s).\n\n`
+    + `Les ajouter à cet appareil ? Rien de ce qui s'y trouve déjà ne sera perdu.`);
+  if (!ok) return false;
+
+  // --- Fusion ----------------------------------------------------------
+  // Principe directeur : ne jamais perdre une information saisie à la main.
+  // En cas de divergence, on garde les deux et c'est l'utilisateur qui
+  // tranche — reconstituer une note effacée coûte plus cher que supprimer
+  // une ligne en trop.
+
+  // Favoris : union, sans doublon possible
+  PREFS.favorites = [...new Set([...PREFS.favorites, ...(donnees.favorites || [])])];
+
+  // Archives : fusion champ à champ, en conservant la PREMIÈRE date
+  // d'archivage. Si le Mac a archivé une offre le 1er et le téléphone le 5,
+  // la fiche reste datée du 1er : c'est ce jour-là qu'elle est entrée dans
+  // ta sélection.
+  for (const [id, recue] of Object.entries(donnees.archive || {})) {
+    const locale = PREFS.archive[id];
+    const fusionnee = { ...locale, ...recue };
+    if (locale && locale.archived_at && recue.archived_at) {
+      fusionnee.archived_at =
+        locale.archived_at < recue.archived_at ? locale.archived_at : recue.archived_at;
+    }
+    PREFS.archive[id] = fusionnee;
+  }
+
+  // Suivi de candidature : deux notes différentes sur une même offre sont
+  // conservées l'une sous l'autre, séparées par un repère visible. Un statut
+  // vide ne chasse jamais un statut renseigné.
+  let notesFusionnees = 0;
+  for (const [id, recu] of Object.entries(donnees.tracking || {})) {
+    const local = PREFS.tracking[id];
+    if (!local) {
+      PREFS.tracking[id] = recu;
+      continue;
+    }
+    const fusionne = { ...local, ...recu };
+    fusionne.status = recu.status || local.status || "";
+
+    const noteLocale = (local.note || "").trim();
+    const noteRecue = (recu.note || "").trim();
+    if (noteLocale && noteRecue && noteLocale !== noteRecue) {
+      fusionne.note = `${noteLocale}\n--- note de l'autre appareil ---\n${noteRecue}`;
+      notesFusionnees += 1;
+    } else {
+      fusionne.note = noteRecue || noteLocale;
+    }
+    PREFS.tracking[id] = fusionne;
+  }
+
+  // Pondérations : simple valeur numérique, la version reçue fait foi
+  PREFS.weights = { ...PREFS.weights, ...(donnees.weights || {}) };
+  savePrefs();
+
+  buildWeightPanel();
+  rescoreAll();
+  refreshArchive();
+  updateTabCounts();
+  apply();
+  let message = `Synchronisation effectuée : ${PREFS.favorites.length} favori(s), `
+    + `${Object.keys(PREFS.archive).length} archive(s) sur cet appareil.`;
+  if (notesFusionnees) {
+    message += `\n\n${notesFusionnees} note(s) différaient entre les deux appareils. `
+      + `Les deux versions ont été conservées, séparées par « note de l'autre `
+      + `appareil » — à relire dans l'onglet Candidatures.`;
+  }
+  alert(message);
+  return true;
+}
+
+/* Lecture d'un code présent dans l'adresse du site (navigateur classique). */
+async function appliquerLienSync() {
+  const fragment = location.hash;
+  if (!fragment.startsWith(SYNC_PREFIX)) return;
+  const charge = fragment.slice(SYNC_PREFIX.length);
+  // L'adresse est nettoyée dans tous les cas : un rechargement ne doit pas
+  // reproposer la même importation.
+  history.replaceState(null, "", location.pathname);
+  await appliquerCodeSync(charge);
+}
+
+/* Collage manuel : seul chemin disponible depuis l'écran d'accueil. Accepte
+   indifféremment le lien complet ou le code seul. */
+async function recevoirSync() {
+  const saisie = prompt(
+    "Colle ici le lien de synchronisation reçu de ton autre appareil "
+    + "(appui long puis « Coller ») :");
+  if (!saisie) return;
+
+  const texte = saisie.trim();
+  const position = texte.indexOf(SYNC_PREFIX);
+  const charge = position >= 0
+    ? texte.slice(position + SYNC_PREFIX.length)
+    : texte;
+
+  if (!charge) {
+    alert("Rien à importer : le texte collé est vide.");
+    return;
+  }
+  await appliquerCodeSync(charge);
 }
 
 function exportPrefs() {

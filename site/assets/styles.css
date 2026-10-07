@@ -1322,3 +1322,15 @@ a { color: var(--oxide); }
   .sort-inline { margin-left: 0; margin-right: 0; width: 100%; }
   .sort-inline select { flex: 1; }
 }
+
+/* Bouton de synchronisation — v19 */
+.reset.sync {
+  border-color: var(--oxide);
+  color: var(--oxide);
+}
+
+.reset.sync:hover {
+  background: var(--oxide);
+  color: var(--paper);
+  border-color: var(--oxide);
+}
