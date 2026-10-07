@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-07T09:06:57+00:00",
+ "generated_at": "2026-10-07T09:32:48+00:00",
  "source": "Business France — mon-vie-via.businessfrance.fr",
- "total_scanned": 795,
- "total_announced": 795,
- "total_kept": 516,
+ "total_scanned": 794,
+ "total_announced": 794,
+ "total_kept": 514,
  "threshold": 25,
  "axes": {
   "rd": {
@@ -12017,7 +12017,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-05T12:06:18Z",
    "sector": "",
-   "specialization": "224",
+   "specialization": "[\"224\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22502,7 +22502,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-12T13:36:38Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -37649,7 +37649,7 @@
    "expiry_date": "",
    "publish_date": "2026-03-03T08:41:49Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -39360,7 +39360,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-05T09:49:11Z",
    "sector": "",
-   "specialization": "63",
+   "specialization": "[\"63\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -39772,98 +39772,6 @@
       "buyer"
      ],
      "points": -22
-    }
-   ]
-  },
-  {
-   "id": "245644",
-   "title": "Treasury Operations Officer (H/F)",
-   "company": "SANOFI WINTHROP INDUSTRIE",
-   "country": "BELGIQUE",
-   "city": "BRUXELLES",
-   "description": "About the job\n\nAs Treasury Operations Officer VIE within our Treasury & Cash Management team, you will primarily support the team on strategic project activities aimed at enhancing operational performance, while also contributing to operational Payment Factory activities.\n\nReady to push the limits of what’s possible? Join Sanofi in one of our corporate functions and you can play a vital part in the performance of our entire business while helping to make an impact on millions around the world.\n\nReady to get started?\n\nAbout Sanofi\n\nWe’re an R&D-driven, AI-powered biopharma company committed to improving people’s lives and delivering compelling growth. Our deep understanding of the immune system – and innovative pipeline – enables us to invent medicines and vaccines that treat and protect millions of people around the world. Together, we chase the miracles of science to improve people’s lives. \n\nMain responsibilities:\n\n- Support the team in the review and optimization of the Payment Factory Rejections & Returns process, identifying inefficiencies and contributing to the design of optimized process.\n- Support the team in the implementation of the new Payment Factory customer service ticketing tool, including testing, stakeholder communication, and user support.\n- Support the team in establishing a robust communication channels on the Payment Factory best practices framework and guidance.\n- Monitor and execute payment flows to third parties initiated by affiliates (Payment On Behalf Of).\n- Follow up on bank inquiries and coordinate with Banks' Customer Services.\n- Analyze returns and rejects related to Payment on Behalf Of payments and communicate findings to the concerned Affiliates, enabling them to take appropriate corrective actions.\n- Ensure timely and accurate resolution of tickets raised by internal stakeholders.\n\nWhy choose us?\n\n- Be part of a pioneering biopharma company where patient insights shape drug development. \n- Work at the forefront of AI-powered science that accelerates discovery and improves outcomes. \n- Collaborate beyond your expertise, sparking new ideas with diverse, multidisciplinary teams. \n- Make your work count by supporting a company that brings life-changing treatments to millions — and is committed to doing right by patients, communities, and the planet.\n- Drive progress from within by helping simplify, scale, and modernize how a global biopharma business delivers smarter, faster, and more sustainably.\n- Support teams across science, medicine, and operations by building better systems, shaping bold strategies, and enabling innovation at speed.\n- Make an impact across borders and functions, collaborating with leaders to turn complex challenges into real-world solutions.\n\niMove is a unique program tailored for European youth interested in challenging themselves with meaningful assignments across the globe. At Sanofi we have a strong ambition to invest in young talents who will drive the success of Sanofi tomorrow. \n\nSanofi’s Work Abroad Program, iMove, offers jobs-assignments with actual responsibilities and a perspective to grow. We provide those opportunities in various functions such as: marketing, finance, regulatory, supply chain, clinical trials, production, etc. and in more than 40 countries. Sanofi unites people who are passionate about solving healthcare needs across the world. Joining our iMove Work Abroad Program is a unique opportunity to make a difference through your work. \n\nPursue Progress. Discover Extraordinary. \n\nProgress doesn’t happen without people – people from different backgrounds, in different locations, doing different roles, all united by one thing: a desire to make miracles happen. You can be one of those people. Chasing change, embracing new ideas and exploring all the opportunities we have to offer. Let’s pursue progress. And let’s discover extraordinary together. \n\nAt Sanofi, we provide equal opportunities to all regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, or gender identity. \n \nWatch our ALL IN video and check out our Diversity Equity and Inclusion actions at sanofi.com!",
-   "mission": "",
-   "profile": "About you\n\nExperience:\n\n- Previous experience within a Treasury Operations or Finance department would be an asset but is not mandatory.\n- Exposure to project environments (testing, data migration, stakeholder coordination) is a plus.\n\nSoft and technical skills:\n\n- Strong project mindset: ability to manage multiple workstreams, meet deadlines, and adapt to a fast-paced transformation environment.\n- Ability to standardize varying data processes and inputs.\n- Strong capabilities in Excel and Word; SAP knowledge is preferred.\n- Intellectual agility, curiosity, and proactive problem-solving attitude.\n- Ability to develop strong working relationships with a broad range of internal and external stakeholders, including banking partners.\n- Attention to detail and rigor, particularly in the context of testing and data migration activities.\n\nEducation:\n\n- Master's Degree in Finance / Economics or similar field.\n\nLanguages:\n\n- Fluent English (written & verbal).\n- French will be an asset but not mandatory.\n\nTo facilitate the examination of your application by our English-speaking managers, thank you for applying in English.",
-   "duration": 24,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2029-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-07T10:41:23Z",
-   "sector": "",
-   "specialization": "8, 17, 86, 259, 318, 320",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-07T10:41:23Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2029-01-01T00:00:00",
-    "startBroadcastDate": "2026-09-08T00:00:00",
-    "endBroadcastDate": "2026-10-08T00:00:00"
-   },
-   "summary": "About the job\n\nAs Treasury Operations Officer VIE within our Treasury & Cash Management team, you will primarily support the team on strategic project activities aimed at enhancing operational performance, while also contributing to operational Payment Factory activities.\n\nReady to push the limits of what’s possible? Join Sanofi in one of our corporate functions and you can play a vital part in the performance of our entire business while helping to make an impact on millions around the world.\n\nReady to get started?\n\nAbout Sanofi\n\nWe’re an R&D-driven, AI-powered biopharma company committed to improving people’s lives and delivering compelling growth. Our deep understanding of the immune system – and innovative pipeline – enables us to invent medicines and vaccines that treat and protect millions of people around the world. Together, we chase the miracles of science to improve people’s lives. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/245644",
-   "score": 33,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:06:55+00:00",
-   "axis_scores": {
-    "rd": 23,
-    "prod": 37,
-    "qual": 19,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod3",
-     "axis": "prod",
-     "source": "Assemblage des matériaux (297-2)",
-     "weight": 9,
-     "terms": [
-      "joining"
-     ]
-    },
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1), Tenue mécanique des outillages (284-3, 292-1)",
-     "weight": 10,
-     "terms": [
-      "usine"
-     ]
-    },
-    {
-     "id": "qual4",
-     "axis": "qual",
-     "source": "Introduction aux techniques expérimentales (267-1)",
-     "weight": 7,
-     "terms": [
-      "testing"
-     ]
-    },
-    {
-     "id": "rd6",
-     "axis": "rd",
-     "source": "Comportement mécanique des matériaux non conventionnels (298-2), Projet de recherche (261-1)",
-     "weight": 8,
-     "terms": [
-      "r&d"
-     ]
-    },
-    {
-     "id": "rd7",
-     "axis": "rd",
-     "source": "Recyclage des matériaux, Éco-conception (842-1), Enjeux DDRS (838-1)",
-     "weight": 6,
-     "terms": [
-      "sustainab"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
     }
    ]
   },
@@ -41054,7 +40962,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T09:27:37Z",
    "sector": "",
-   "specialization": "244",
+   "specialization": "[\"244\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -44969,7 +44877,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-21T10:52:41Z",
    "sector": "",
-   "specialization": "328",
+   "specialization": "[\"328\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -45409,7 +45317,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-30T06:51:46Z",
    "sector": "",
-   "specialization": "6, 7, 9, 17, 21, 91, 93, 98, 101, 109, 126",
+   "specialization": "[\"6\",\"7\",\"9\",\"17\",\"21\",\"91\",\"93\",\"98\",\"101\",\"109\",\"126\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -46819,7 +46727,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T16:12:48Z",
    "sector": "",
-   "specialization": "7, 26, 195",
+   "specialization": "[\"7\",\"26\",\"195\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -47622,80 +47530,6 @@
       "space"
      ],
      "points": 5
-    }
-   ]
-  },
-  {
-   "id": "246324",
-   "title": "Global Medical Affairs Associate (H/F)",
-   "company": "SANOFI WINTHROP INDUSTRIE",
-   "country": "ETATS-UNIS",
-   "city": "CAMBRIDGE       -MA-",
-   "description": "About the job\n\nAs Global Medical Affairs Associate VIE within our Therapeutic area team you will support a launch molecule in Hemophilia. You will gain exposure to medical strategy at different stages of the launch: (1) pre-launch including medical education and market shaping, (2) evolution of medical narratives based on evidence generation, and (3) strategic data dissemination based on clinical management needs.\n\nJoin the engine of Sanofi’s mission — where deep immunoscience meets bold, AI-powered research. In R&D, you’ll drive breakthroughs that could turn the impossible into possible for millions.\n\nReady to get started?\n\nAbout Sanofi\n\nWe’re an R&D-driven, AI-powered biopharma company committed to improving people’s lives and delivering compelling growth. Our deep understanding of the immune system – and innovative pipeline – enables us to invent medicines and vaccines that treat and protect millions of people around the world. Together, we chase the miracles of science to improve people’s lives. \n\nMain responsibilities:\n\n- Support Global Medical Lead (GML) with implementation of the Global Medical Plan, with a key focus on project management and driving implementation of medical narrative across omnichannel initiatives.\n- Partner with scientific communication team in the development and execution of the Global Publication Plan, with emphasis on manuscripts and congress presentations.\n- Assist with trainings for country medical teams, including updating global tools/resources for launches into new markets.\n- Support the development and evolution of Global Medical Affairs (GMA) strategy into 2028.\n- Enhance and coordinate Key Opinion Leader (KOL) engagement strategy within GMA and with cross functional partners.\n- Run monthly meetings for GMA and scientific communication& maintain project tracker.\n- Assist with team projects and ad hoc initiatives based on needs.\n\nWhy choose us?\n\n- Be part of a pioneering biopharma company where patient insights shape drug development.\n- Work at the forefront of AI-powered science that accelerates discovery and improves outcomes.\n- Collaborate beyond your expertise, sparking new ideas with diverse, multidisciplinary teams.\n- Work at the forefront of drug discovery, harnessing cutting-edge AI, data, and digital platforms to push the boundaries of science.\n- Help improve the lives of millions of people globally by making drug development quicker and more effective.\n- Join a workplace where diversity, equity, and inclusion are at the core, with Employee Resource Groups and leadership programs that celebrate every voice.\n\niMove is a unique program tailored for European youth interested in challenging themselves with meaningful assignments across the globe. At Sanofi we have a strong ambition to invest in young talents who will drive the success of Sanofi tomorrow.\n\nSanofi’s Work Abroad Program, iMove, offers jobs-assignments with actual responsibilities and a perspective to grow. We provide those opportunities in various functions such as: marketing, finance, regulatory, supply chain, clinical trials, production, etc. and in more than 40 countries. Sanofi unites people who are passionate about solving healthcare needs across the world. Joining our iMove Work Abroad Program is a unique opportunity to make a difference through your work.\n\nPursue Progress. Discover Extraordinary.\n\nProgress doesn’t happen without people – people from different backgrounds, in different locations, doing different roles, all united by one thing: a desire to make miracles happen. You can be one of those people. Chasing change, embracing new ideas and exploring all the opportunities we have to offer. Let’s pursue progress. And let’s discover extraordinary together.\n\nAt Sanofi, we provide equal opportunities to all regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, or gender identity. \n\nWatch our ALL IN video and check out our Diversity Equity and Inclusion actions at sanofi.com!",
-   "mission": "",
-   "profile": "About you\n\nExperience:\n\n- Experience supporting medical education, scientific writing and medical initiatives.\n\nSoft and technical skills:\n\n- Ideally have worked in the field of orphan diseases; Hematology experience would be advantageous.\n- Ability to plan/organize the work & tasks and to work within tight timelines.\n- Strong sense of responsibility.\n- Demonstrates positive attitude, proactive, embraces team spirit and comfortable with dynamic environment.\n- Demonstrated relationship building at all levels of the organization and across geographies.\n- Exhibits outstanding written and oral communication skills.\n- Quick learner who can synthesize information and come up with creative solutions.\n\nEducation:\n\n- Advanced degree (PhD, PharmD, Masters) preferred.\n\nLanguages:\n\n- Fluent English (verbal and written).\n\nTo facilitate the examination of your application by our English-speaking managers, thank you for applying in English.",
-   "duration": 24,
-   "start_date": "2027-02-01T00:00:00",
-   "end_date": "2029-02-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-23T12:47:12Z",
-   "sector": "",
-   "specialization": "86",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-23T12:47:12Z",
-    "missionStartDate": "2027-02-01T00:00:00",
-    "missionEndDate": "2029-02-01T00:00:00",
-    "startBroadcastDate": "2026-09-23T00:00:00",
-    "endBroadcastDate": "2026-10-23T00:00:00"
-   },
-   "summary": "About the job\n\nAs Global Medical Affairs Associate VIE within our Therapeutic area team you will support a launch molecule in Hemophilia. You will gain exposure to medical strategy at different stages of the launch: (1) pre-launch including medical education and market shaping, (2) evolution of medical narratives based on evidence generation, and (3) strategic data dissemination based on clinical management needs.\n\nJoin the engine of Sanofi’s mission — where deep immunoscience meets bold, AI-powered research. In R&D, you’ll drive breakthroughs that could turn the impossible into possible for millions.\n\nReady to get started?\n\nAbout Sanofi\n\nWe’re an R&D-driven, AI-powered biopharma company committed to improving people’s lives and delivering compelling growth. Our deep understanding of the immune system – and innovative pipeline – enables us to invent medicines and vaccines that treat and protect millions of people around the world. Together, we chase the miracles of science to improve people’s lives. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246324",
-   "score": 25,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:06:55+00:00",
-   "axis_scores": {
-    "rd": 13,
-    "prod": 29,
-    "qual": 0,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod3",
-     "axis": "prod",
-     "source": "Assemblage des matériaux (297-2)",
-     "weight": 9,
-     "terms": [
-      "joining"
-     ]
-    },
-    {
-     "id": "prod6",
-     "axis": "prod",
-     "source": "Usinage / moyens de fabrication (259-1)",
-     "weight": 6,
-     "terms": [
-      "cutting"
-     ]
-    },
-    {
-     "id": "rd6",
-     "axis": "rd",
-     "source": "Comportement mécanique des matériaux non conventionnels (298-2), Projet de recherche (261-1)",
-     "weight": 8,
-     "terms": [
-      "r&d"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
     }
    ]
   },
