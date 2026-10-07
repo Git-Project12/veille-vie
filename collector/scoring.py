@@ -15,7 +15,9 @@ import re
 import unicodedata
 
 from profile import (
+    ANCHORLESS_CAP,
     AXES,
+    INDUSTRIAL_ANCHORS,
     KEYWORD_FAMILIES,
     LEVEL_TERMS,
     SECTOR_BONUS,
@@ -46,11 +48,30 @@ def normalize(text):
     return re.sub(r"\s+", " ", text)
 
 
+# Cache des expressions compilées : le référentiel est parcouru des centaines
+# de fois par collecte.
+_PATTERNS = {}
+
+
 def _contains(haystack, term):
-    """Recherche de terme avec frontières de mots pour les termes courts."""
-    if len(term) <= 4:
-        return re.search(r"\b" + re.escape(term) + r"\b", haystack) is not None
-    return term in haystack
+    """
+    Cherche un terme en exigeant des frontières de mots.
+
+    Sans cette exigence, « usine » se trouvait dans « business », « aging »
+    dans « leveraging », « joining » dans « joining the team » — et une offre
+    de trading informatique déclenchait sept familles industrielles.
+
+    Les frontières s'appliquent à tous les termes, y compris les expressions
+    de plusieurs mots, où les espaces tolèrent aussi un tiret ou une
+    apostrophe (« plan d'experiences », « plan-d-experiences »).
+    """
+    pattern = _PATTERNS.get(term)
+    if pattern is None:
+        morceaux = [re.escape(mot) for mot in re.split(r"[\s'\-]+", term) if mot]
+        corps = r"[\s\-']+".join(morceaux)
+        pattern = re.compile(r"(?<![a-z0-9])" + corps + r"(?![a-z0-9])")
+        _PATTERNS[term] = pattern
+    return pattern.search(haystack) is not None
 
 
 def score_offer(offer):
@@ -133,6 +154,15 @@ def score_offer(offer):
                         "points": TITLE_PENALTIES["weight"]})
 
     score = max(0, min(100, round(score)))
+
+    # Plafonnement en l'absence d'ancrage industriel
+    anchors = [t for t in INDUSTRIAL_ANCHORS if _contains(body_n, t)]
+    if not anchors and score > ANCHORLESS_CAP:
+        bonuses.append({
+            "label": "Aucun terme industriel : score plafonné",
+            "terms": [], "points": ANCHORLESS_CAP - score,
+        })
+        score = ANCHORLESS_CAP
 
     # Axe dominant, pour le tri et les filtres du site
     dominant = max(axis_scores, key=lambda a: axis_scores[a])

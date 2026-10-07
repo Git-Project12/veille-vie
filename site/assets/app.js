@@ -15,10 +15,10 @@ const AXIS_LABELS = {
 const AXIS_ORDER = ["rd", "prod", "qual", "calc"];
 let PAGE_STEP = 25;          // ajustable depuis le panneau de filtres
 const PAGE_SIZES = [25, 50, 75, 100];
-const UI_VERSION = "9";   // affiché en pied de page : permet de vérifier
+const UI_VERSION = "18";   // affiché en pied de page : permet de vérifier
                           // quelle version de l'interface est réellement chargée
 const EXPIRY_WINDOW_DAYS = 14;   // seuil de l'onglet « échéances »
-const NEW_WINDOW_DAYS = 7;       // seuil de l'onglet « nouveautés »
+const NEW_WINDOW_HOURS = 24;     // durée pendant laquelle une offre reste « nouvelle »
 
 const STATUSES = {
   "": "—",
@@ -263,12 +263,47 @@ function daysUntil(date) {
   return Math.ceil((date - new Date()) / 86400000);
 }
 
+/* Une offre reste « nouvelle » pendant 24 heures après sa première détection.
+
+   Règle volontairement indépendante des visites : consulter le site ne vide
+   plus l'onglet, et une offre repérée le matin reste visible le soir. Le
+   critère est le même pour le compteur et pour la liste, ce qui écarte toute
+   divergence entre les deux. */
 function isNewOffer(offer) {
   const seen = parseDate(offer.first_seen);
   if (!seen) return false;
-  const ref = PREFS.lastVisit ? parseDate(PREFS.lastVisit) : null;
-  if (ref) return seen > ref;
-  return (new Date() - seen) / 86400000 <= NEW_WINDOW_DAYS;
+  return (new Date() - seen) / 3600000 <= NEW_WINDOW_HOURS;
+}
+
+/* Ancienneté exprimée en clair : « il y a 3 h » parle davantage qu'une date
+   pour une annonce récente, et l'on repasse à la date au-delà d'une semaine. */
+function timeAgo(value) {
+  const d = parseDate(value);
+  if (!d) return "";
+  const hours = (new Date() - d) / 3600000;
+  if (hours < 1) return "à l'instant";
+  if (hours < 24) return `il y a ${Math.round(hours)} h`;
+  const days = Math.round(hours / 24);
+  if (days <= 7) return `il y a ${days} j`;
+  return formatDate(d, { day: "numeric", month: "short", year: "numeric" });
+}
+
+/* Date de publication si l'annonce en porte une, sinon date de première
+   détection par le collecteur. Les deux sont distinguées explicitement :
+   confondre « publiée » et « repérée » induirait en erreur sur l'ancienneté
+   réelle d'une offre. */
+function publicationLabel(offer) {
+  // Au-delà d'une semaine, timeAgo renvoie une date absolue, qui appelle
+  // l'article : « publiée le 24 mai » et non « publiée 24 mai ».
+  const phrase = (verbe, valeur) => {
+    const quand = timeAgo(valeur);
+    if (!quand) return "";
+    const relatif = quand.startsWith("il y a") || quand === "à l'instant";
+    return `${verbe} ${relatif ? "" : "le "}${quand}`;
+  };
+  if (offer.publish_date) return phrase("publiée", offer.publish_date);
+  if (offer.first_seen) return phrase("repérée", offer.first_seen);
+  return "";
 }
 
 function formatDate(value, opts) {
@@ -403,6 +438,8 @@ function boot() {
   apply();
 
   // Mémoriser la visite pour l'onglet « nouveautés » de la prochaine fois
+  // La visite en cours est enregistrée pour la PROCHAINE ouverture. VISIT_REF
+  // reste inchangée : l'onglet Nouveautés garde son contenu jusqu'au bout.
   setTimeout(() => {
     PREFS.lastVisit = new Date().toISOString();
     savePrefs();
@@ -410,15 +447,24 @@ function boot() {
 }
 
 function bindEvents() {
-  $("#filters").addEventListener("change", () => { shown = PAGE_STEP; apply(); });
+  $("#filters").addEventListener("change", refilter);
   $("#q").addEventListener("input", () => {
     clearTimeout(searchTimer);
-    searchTimer = setTimeout(() => { shown = PAGE_STEP; apply(); }, 140);
+    searchTimer = setTimeout(refilter, 140);
   });
   $("#minscore").addEventListener("input", (e) => {
     $("#minscore-out").textContent = e.target.value;
   });
   $("#reset").addEventListener("click", resetFilters);
+
+  // Le tri est proposé à deux endroits : en tête des résultats, où il est
+  // visible, et dans le panneau de filtres. Les deux restent synchronisés.
+  const syncSort = (from, to) => {
+    $(to).value = $(from).value;
+    refilter();
+  };
+  $("#sort-top").addEventListener("change", () => syncSort("#sort-top", "#sort"));
+  $("#sort").addEventListener("change", () => syncSort("#sort", "#sort-top"));
 
   // Filtrage instantané des listes pays et entreprise
   for (const sel of ["#country", "#company"]) {
@@ -442,8 +488,7 @@ function bindEvents() {
     tab.addEventListener("click", () => {
       currentTab = tab.dataset.tab;
       $$(".tab").forEach((t) => t.setAttribute("aria-selected", String(t === tab)));
-      shown = PAGE_STEP;
-      apply();
+      refilter();
     });
   });
 
@@ -480,7 +525,7 @@ function bindEvents() {
       e.preventDefault(); $("#q").focus(); $("#q").select();
     }
     if (e.key === "Escape" && document.activeElement === $("#q")) {
-      $("#q").value = ""; shown = PAGE_STEP; apply();
+      $("#q").value = ""; refilter();
     }
   });
 }
@@ -665,6 +710,30 @@ function currentFilters() {
   };
 }
 
+/* Changement de filtre : la liste est entièrement renouvelée. Rester au
+   milieu de l'ancienne n'a plus de sens — on ramène l'utilisateur en tête des
+   résultats, sans remonter jusqu'au titre de la page. */
+function scrollToResults() {
+  const head = document.querySelector(".results-head");
+  if (!head) return;
+  const tabs = document.querySelector(".tabs");
+  const marge = (tabs ? tabs.offsetHeight : 0) + 12;
+  const cible = head.getBoundingClientRect().top + window.scrollY - marge;
+
+  // Inutile de bouger si l'on voit déjà le haut de la liste.
+  if (Math.abs(window.scrollY - cible) < 40) return;
+
+  const doux = !window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+  window.scrollTo({ top: Math.max(0, cible), behavior: doux ? "smooth" : "auto" });
+}
+
+/* Applique les filtres depuis le début de la liste. */
+function refilter() {
+  shown = PAGE_STEP;
+  apply();
+  scrollToResults();
+}
+
 function apply() {
   const f = currentFilters();
   PREFS.filters = f;
@@ -707,7 +776,16 @@ function apply() {
     affinity: (a, b) => (b._affinity || 0) - (a._affinity || 0),
     start: byDate("start_date", 1),
     expiry: byDate("expiry", 1),
-    publish: byDate("publish_date", -1),
+    publish: (a, b) => {
+      // Toutes les annonces ne portent pas de date de publication : on se
+      // rabat alors sur la date de première détection, qui l'approche bien.
+      const da = parseDate(a.publish_date) || parseDate(a.first_seen);
+      const db = parseDate(b.publish_date) || parseDate(b.first_seen);
+      if (!da && !db) return 0;
+      if (!da) return 1;
+      if (!db) return -1;
+      return db - da;
+    },
     company: (a, b) => (a.company || "").localeCompare(b.company || "", "fr"),
   };
   const key = currentTab === "reco" && f.sort === "score" ? "affinity" : f.sort;
@@ -743,8 +821,7 @@ function renderChips(f) {
       } else if (key === "q") $("#q").value = "";
       else if (key === "minscore") { $("#minscore").value = 0; $("#minscore-out").textContent = "0"; }
       else $(`#${key}`).value = "";
-      shown = PAGE_STEP;
-      apply();
+      refilter();
     });
   });
 }
@@ -758,11 +835,11 @@ function resetFilters() {
   }
   ["country", "company", "duration", "start-after"].forEach((id) => { $(`#${id}`).value = ""; });
   $("#sort").value = "score";
+  $("#sort-top").value = "score";
   $("#minscore").value = 0;
   $("#minscore-out").textContent = "0";
   $$('input[name="axis"]').forEach((i) => { i.checked = false; });
-  shown = PAGE_STEP;
-  apply();
+  refilter();
 }
 
 function restoreFilters() {
@@ -777,7 +854,10 @@ function restoreFilters() {
   $("#q").value = f.q || "";
   $("#minscore").value = f.min || 0;
   $("#minscore-out").textContent = String(f.min || 0);
-  if (f.sort) $("#sort").value = f.sort;
+  if (f.sort) {
+    $("#sort").value = f.sort;
+    $("#sort-top").value = f.sort;
+  }
   for (const id of ["country", "company", "duration", "start-after"]) {
     const el = $(`#${id}`);
     const val = id === "start-after" ? f.startAfter : f[id];
@@ -814,8 +894,8 @@ function buildWeightPanel() {
     savePrefs();
     rescoreAll();
     updateTabCounts();
-    apply();
-  });
+    apply();          // pas de remontée ici : les curseurs sont dans le rail,
+  });                 // et l'utilisateur suit l'effet de son réglage
 }
 
 /* ============================ Infobulles ============================ */
@@ -934,7 +1014,7 @@ const EMPTY_MESSAGES = {
   soon: ["Aucune échéance proche",
          `Rien n'expire dans les ${EXPIRY_WINDOW_DAYS} prochains jours — ou l'API ne fournit pas de date d'expiration pour ces offres.`],
   new: ["Aucune nouveauté",
-        "Rien de neuf depuis ta dernière visite. Relance le collecteur pour rafraîchir la liste."],
+        `Aucune offre détectée dans les ${NEW_WINDOW_HOURS} dernières heures. Les offres restent ici 24 h après leur apparition.`],
   archive: ["Aucune offre archivée",
             "Chaque offre mise en favori est automatiquement copiée ici : intitulé, entreprise, lieu, score et profil restent consultables même après le retrait de l'annonce."],
   track: ["Aucune candidature suivie",
@@ -1025,6 +1105,7 @@ function card(o) {
     o.company ? `<strong>${escapeHtml(o.company)}</strong>` : "",
     place ? escapeHtml(place) : "",
     o.duration ? `${escapeHtml(String(o.duration))} mois` : "",
+    publicationLabel(o) ? escapeHtml(publicationLabel(o)) : "",
     o.start_date ? `départ ${formatDate(o.start_date)}` : "",
     expiry ? `expire le ${formatDate(expiry, { day: "numeric", month: "short", year: "numeric" })}` : "",
   ].filter(Boolean).join(" &nbsp;·&nbsp; ");

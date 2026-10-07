@@ -658,11 +658,43 @@ def main():
 
     # Historique : conserver la date de première apparition de chaque offre,
     # ce qui permet à la page de signaler les nouveautés.
+    # L'historique des premières détections vit dans un fichier dédié, distinct
+    # du fichier de données. Raison : offers.json est régénéré à chaque
+    # collecte et peut être remplacé lors d'une mise à jour du projet ; perdre
+    # l'historique ferait alors apparaître toutes les offres comme nouvelles.
+    # Deux emplacements, lus tous les deux et écrits tous les deux :
+    #
+    #  - dans le projet : c'est celui qui compte en ligne, où chaque exécution
+    #    repart d'un dossier neuf mais dispose du dépôt.
+    #  - dans le dossier personnel : c'est celui qui compte en local, où le
+    #    dossier du projet est remplacé à chaque mise à jour.
+    #
+    # Sans le second, changer de dossier repartait de zéro et toutes les
+    # offres réapparaissaient comme nouvelles.
+    history_path = os.path.join(os.path.dirname(os.path.abspath(args.out)),
+                                "premieres-detections.json")
+    user_history_path = os.path.join(os.path.expanduser("~"), ".veille-vie",
+                                     "premieres-detections.json")
     previous_seen = {}
+
+    for path in (user_history_path, history_path):
+        try:
+            with open(path, encoding="utf-8") as fh:
+                for offer_id, seen in json.load(fh).items():
+                    # La date la plus ancienne fait foi : une offre repérée
+                    # lundi reste datée de lundi, même si l'autre fichier la
+                    # croit plus récente.
+                    if offer_id not in previous_seen or seen < previous_seen[offer_id]:
+                        previous_seen[offer_id] = seen
+        except (OSError, ValueError):
+            pass
+
+    # Reprise depuis l'ancien emplacement, pour ne rien perdre des collectes
+    # antérieures à cette séparation.
     try:
         with open(os.path.abspath(args.out), encoding="utf-8") as fh:
             for old in json.load(fh).get("offers", []):
-                if old.get("id"):
+                if old.get("id") and old["id"] not in previous_seen:
                     previous_seen[old["id"]] = old.get("first_seen")
     except (OSError, ValueError):
         pass
@@ -723,6 +755,29 @@ def main():
         "scoring": scoring_constants(),
         "offers": scored,
     }
+
+    # Mémoriser les premières détections, y compris pour les offres écartées :
+    # une offre sous le seuil aujourd'hui peut repasser au-dessus si les
+    # pondérations changent, et elle ne doit pas être comptée comme nouvelle.
+    history = dict(previous_seen)
+    for offer in scored:
+        history[offer["id"]] = offer["first_seen"]
+    written = []
+    for path in (history_path, user_history_path):
+        try:
+            os.makedirs(os.path.dirname(path), exist_ok=True)
+            with open(path, "w", encoding="utf-8") as fh:
+                json.dump(history, fh, ensure_ascii=False, indent=0, sort_keys=True)
+            written.append(path)
+        except OSError:
+            pass                      # un emplacement indisponible n'est pas bloquant
+
+    if written:
+        print(f"Historique des détections : {len(history)} offres suivies "
+              f"({len(written)} emplacement(s)).")
+    else:
+        print("::warning::Historique non enregistré : toutes les offres "
+              "réapparaîtront comme nouvelles à la prochaine collecte.")
 
     out_path = os.path.abspath(args.out)
     os.makedirs(os.path.dirname(out_path), exist_ok=True)

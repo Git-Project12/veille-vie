@@ -1,0 +1,45 @@
+CLÉ D'API — MODE D'EMPLOI
+=========================
+
+Le collecteur cherche la clé dans cet ordre :
+
+  1. la variable d'environnement VIE_API_KEY
+     (utilisée en ligne, alimentée par le secret GitHub du même nom)
+
+  2. le fichier « cle-api.txt », à placer ICI, à côté de Lancer.command
+     (utilisé en local)
+
+  3. une valeur intégrée au script, en dernier recours
+
+CE FICHIER N'EST PAS « cle-api.txt ».
+C'est volontaire : les archives de mise à jour ne contiennent jamais
+cle-api.txt, afin de ne pas écraser la vôtre en remplaçant le dossier.
+
+
+CRÉER LE FICHIER
+----------------
+
+Créer un fichier texte nommé exactement « cle-api.txt » dans ce dossier,
+et y coller la clé sur une ligne seule, sans guillemets ni espace.
+
+
+RÉCUPÉRER LA CLÉ SANS FAUTE DE RECOPIE
+--------------------------------------
+
+  1. Ouvrir mon-vie-via.businessfrance.fr, page des offres
+  2. Menu Développement → Afficher l'inspecteur web → onglet Réseau
+  3. Recharger la page (Cmd + R), filtrer sur : search
+  4. CLIC DROIT sur la ligne « search » → « Copier en tant que cURL »
+  5. Coller dans l'app Notes, repérer la ligne  -H 'X-API-KEY: ...'
+  6. Copier uniquement la valeur après « X-API-KEY: »
+
+Ne jamais lire cette clé sur une capture d'écran : en base64, le I
+majuscule et le l minuscule sont impossibles à distinguer à l'œil.
+
+
+EN CAS DE CHANGEMENT DE CLÉ
+---------------------------
+
+Deux endroits à mettre à jour :
+  - le fichier cle-api.txt, pour le lanceur local
+  - le secret VIE_API_KEY sur GitHub, pour la collecte automatique

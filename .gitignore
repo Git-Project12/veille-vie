@@ -8,3 +8,6 @@ __pycache__/
 *.pyc
 _site/
 .DS_Store
+
+# Historique local des premières détections : propre à chaque machine
+data/premieres-detections.json

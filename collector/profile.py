@@ -38,7 +38,7 @@ KEYWORD_FAMILIES = [
     {
         "id": "rd3", "axis": "rd", "weight": 9, "source": "Dégradation des matériaux (300-2), Traitements de surface (306-2)",
         "terms": ["corrosion", "degradation", "oxydation", "oxidation", "vieillissement",
-                  "ageing", "aging", "traitement de surface", "surface treatment",
+                  "traitement de surface", "surface treatment",
                   "revetement", "coating", "galvanisation", "anodisation", "tribologie",
                   "usure", "wear"],
     },
@@ -73,18 +73,18 @@ KEYWORD_FAMILIES = [
         "id": "prod1", "axis": "prod", "weight": 10,
         "source": "Mise en forme par déformation plastique des métaux (281-1), Physique de la mise en forme (290-1)",
         "terms": ["mise en forme", "forming", "metal forming", "emboutissage", "stamping",
-                  "forgeage", "forging", "laminage", "rolling", "extrusion", "estampage",
+                  "forgeage", "forging", "laminage", "extrusion", "estampage",
                   "deformation plastique", "sheet metal"],
     },
     {
         "id": "prod2", "axis": "prod", "weight": 9, "source": "Mise en forme par solidification (288-1), Outils et moyens de fabrication (259-1)",
-        "terms": ["fonderie", "foundry", "casting", "moulage", "solidification",
+        "terms": ["fonderie", "foundry", "moulage", "solidification",
                   "injection", "die casting", "frittage", "sintering"],
     },
     {
         "id": "prod3", "axis": "prod", "weight": 9, "source": "Assemblage des matériaux (297-2)",
         "terms": ["assemblage", "assembly", "soudage", "welding", "weld", "brasage",
-                  "brazing", "collage", "bonding", "rivet", "joining"],
+                  "brazing", "collage", "bonding", "rivet"],
     },
     {
         "id": "prod4", "axis": "prod", "weight": 10, "source": "Outils de production (269-1), Tenue mécanique des outillages (284-3, 292-1)",
@@ -98,6 +98,15 @@ KEYWORD_FAMILIES = [
         "terms": ["lean", "amelioration continue", "continuous improvement", "kaizen",
                   "5s", "smed", "productivite", "productivity", "optimisation des procedes",
                   "process optimization", "industrial engineer", "ingenierie industrielle"],
+    },
+    {
+        "id": "prod7", "axis": "prod", "weight": 7,
+        "source": "Conception mécanique (264-1), Outils et moyens de fabrication (259-1)",
+        "terms": ["fabrication", "suivi de fabrication", "ingenierie",
+                  "engineering", "installations industrielles",
+                  "equipements industriels", "conception d'installations",
+                  "developpement produit", "product development",
+                  "equipement industriel", "machine speciale"],
     },
     {
         "id": "prod6", "axis": "prod", "weight": 6, "source": "Usinage / moyens de fabrication (259-1)",
@@ -201,6 +210,42 @@ TITLE_BONUSES = {
 
 # Bonus si l'offre mentionne un niveau d'études compatible bac+5 ingénieur
 LEVEL_TERMS = ["bac+5", "bac +5", "master", "ingenieur", "engineer", "msc", "grande ecole"]
+
+# --- Ancrage industriel ------------------------------------------------
+# Une offre qui ne contient AUCUN de ces termes ne parle pas de matière, de
+# pièce ou de procédé : quels que soient les mots communs qu'elle partage avec
+# le référentiel (qualité, validation, python, amélioration continue), elle
+# n'est pas un poste de la filière. Son score est alors plafonné.
+#
+# Sans ce garde-fou, une offre de support informatique en salle de marché
+# atteignait 59/100 en déclenchant sept familles sur du vocabulaire partagé.
+INDUSTRIAL_ANCHORS = [
+    # Matière
+    "materiau", "materiaux", "material", "metal", "metallurg", "alliage",
+    "alloy", "acier", "steel", "aluminium", "titane", "titanium", "fonte",
+    "polymere", "polymer", "composite", "ceramique", "ceramic", "verre",
+    "microstructure", "corrosion",
+    # Pièce et conception
+    "piece", "part", "mecanique", "mechanical", "conception mecanique",
+    "cao", "cad", "catia", "solidworks", "creo", "bureau d'etudes",
+    "elements finis", "finite element", "fem", "fea", "abaqus", "ansys",
+    "dimensionnement", "resistance des materiaux", "tolerancement",
+    # Procédé et atelier
+    "usinage", "machining", "fonderie", "foundry", "moulage", "forgeage",
+    "forging", "emboutissage", "stamping", "extrusion", "laminage",
+    "soudage", "welding", "brasage", "assemblage", "mise en forme",
+    "forming", "traitement thermique", "heat treatment", "revetement",
+    "coating", "outillage", "tooling", "usine", "atelier", "plant",
+    "manufacturing", "production line", "ligne de production",
+    "industrialisation", "industrialization", "fabrication",
+    # Contrôle
+    "controle non destructif", "non destructive", "ndt", "cnd", "ultrason",
+    "ultrasonic", "radiographie", "metrologie", "metrology", "essais mecaniques",
+    "mechanical testing", "fatigue", "rupture", "fracture",
+]
+
+# Score maximum d'une offre dépourvue d'ancrage industriel
+ANCHORLESS_CAP = 30
 
 # Seuil sous lequel une offre n'est pas retenue dans le site (0-100)
 DEFAULT_THRESHOLD = 25

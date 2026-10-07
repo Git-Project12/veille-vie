@@ -8,7 +8,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;700;800&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="assets/styles.css?v=9">
+<link rel="stylesheet" href="assets/styles.css?v=18">
 </head>
 <body>
 
@@ -152,6 +152,15 @@
   <section class="results">
     <div class="results-head">
       <h2 id="count">Chargement…</h2>
+      <label class="sort-inline">Trier par
+        <select id="sort-top">
+          <option value="score">Adéquation</option>
+          <option value="publish">Publication</option>
+          <option value="start">Date de départ</option>
+          <option value="expiry">Date d'expiration</option>
+          <option value="company">Entreprise</option>
+        </select>
+      </label>
       <p class="legend mono">
         <span class="key" data-axis="rd"></span>R&amp;D
         <span class="key" data-axis="prod"></span>Prod
@@ -192,6 +201,6 @@
   <p class="version mono" id="ui-version">Interface non chargée</p>
 </footer>
 
-<script src="assets/app.js?v=9"></script>
+<script src="assets/app.js?v=18"></script>
 </body>
 </html>

@@ -1,0 +1,18 @@
+Ce dossier reçoit les fichiers produits par le collecteur :
+
+  offers.json                 les offres collectées et notées
+  premieres-detections.json   la date de première apparition de chaque offre
+
+Aucun des deux n'est fourni dans les archives de mise à jour : les remplacer
+effacerait l'historique, et toutes les offres seraient de nouveau signalées
+comme nouvelles.
+
+L'historique est également conservé hors du projet, dans :
+
+  ~/.veille-vie/premieres-detections.json
+
+C'est cette copie qui permet de changer de dossier, ou de remplacer le projet
+par une nouvelle version, sans que les offres déjà connues réapparaissent
+comme nouvelles.
+
+Les deux fichiers se régénèrent seuls à la prochaine collecte.

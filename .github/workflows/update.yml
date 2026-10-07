@@ -2,17 +2,13 @@ name: Collecte quotidienne des offres V.I.E
 
 on:
   schedule:
-    # Toutes les 30 minutes, en semaine, de 06h à 16h UTC — soit 08h à 18h à
-    # Paris en été, 07h à 17h en hiver. Les entreprises françaises publient
-    # pendant leurs heures ouvrées : inutile de solliciter l'API la nuit.
+    # Trois collectes par jour en semaine, une le week-end.
     #
-    # À savoir : GitHub place les tâches planifiées dans une file d'attente
-    # partagée. Un retard de 15 à 60 minutes est normal et ne signale aucun
-    # dysfonctionnement.
+    # La minute 17 n'est pas un caprice : la plupart des tâches planifiées
+    # partent à l'heure ronde, et s'en écarter réduit l'attente dans la file
+    # partagée de GitHub. Un retard de 15 à 60 minutes y reste normal.
     - cron: "17 6,10,14 * * 1-5"
     - cron: "17 10 * * 6,0"
-    # Un passage le week-end, à midi, au cas où.
-    - cron: "0 10 * * 6,0"
   workflow_dispatch:        # bouton « Run workflow » pour lancer à la demande
   push:
     branches: [main]
