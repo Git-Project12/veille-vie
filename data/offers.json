@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-07T09:56:12+00:00",
+ "generated_at": "2026-10-07T12:24:58+00:00",
  "source": "Business France — mon-vie-via.businessfrance.fr",
- "total_scanned": 796,
- "total_announced": 796,
+ "total_scanned": 797,
+ "total_announced": 797,
  "total_kept": 459,
  "threshold": 25,
  "axes": {
@@ -1997,7 +1997,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-14T12:42:19Z",
    "sector": "",
-   "specialization": "65, 206, 264",
+   "specialization": "[\"65\",\"206\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -2969,7 +2969,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T15:32:41Z",
    "sector": "",
-   "specialization": "70",
+   "specialization": "[\"70\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -3088,7 +3088,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-02T12:48:29Z",
    "sector": "",
-   "specialization": "60",
+   "specialization": "[\"60\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -3597,7 +3597,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-02T12:56:05Z",
    "sector": "",
-   "specialization": "60",
+   "specialization": "[\"60\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6178,7 +6178,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-29T14:04:00Z",
    "sector": "",
-   "specialization": "60, 64, 77, 133, 162, 197, 224, 225",
+   "specialization": "[\"60\",\"64\",\"77\",\"133\",\"162\",\"197\",\"224\",\"225\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8047,7 +8047,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-20T19:24:50Z",
    "sector": "",
-   "specialization": "64, 65, 66, 77, 107, 150, 153, 207",
+   "specialization": "[\"64\",\"65\",\"66\",\"77\",\"107\",\"150\",\"153\",\"207\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8717,7 +8717,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T16:09:45Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9034,117 +9034,6 @@
    ]
   },
   {
-   "id": "245667",
-   "title": "VIE - Ingénieur support technique et développement F/H – Belgique (H/F)",
-   "company": "TOTALENERGIES RAFFINAGE CHIMIE",
-   "country": "BELGIQUE",
-   "city": "FELUY",
-   "description": "Rejoignez la filiale TotalEnergies One Tech Belgium basé à Feluy en Belgique!\n\nLa Business Unit Automotive, Recycled and Compounds (ARC) de TotalEnergies développe et vend des polypropylènes (PP) et compounds à base de PP à l'industrie automobile et a établi une très bonne position auprès de tous les constructeurs automobiles européens comme VW Group, Stellantis, Renault Group, Porsche, Mercedes, BMW et leurs équipementiers de rang 1 (Motherson, OPmobility, Simoldes, Magna, FlexNGate...). Elle est également active dans des marchés hors Automotive (agro, électronique, assainissement...) grâce à ses résines et compounds spéciaux à base de polyéthylène (PE) et polystyrène (PS). Les matériaux Automotive d'ARC sont transformés par ses clients pour en faire des pièces extérieures et intérieures dans les véhicules légers (par exemple pare-chocs, panneau de carrosserie, panneau de porte, console centrale…).\nARC est une activité en forte croissance qui développe ses activités de production et de ventes au niveau mondial, en se focalisant notamment sur le développement d'applications à base de polypropylène recyclé, et en intensifiant son activité en Chine et Amérique du Nord.\n\nEn tant qu’ingénieur support technique et développement, vous serez intégré(é) à l'équipe TSD (Technical Service & Development) en charge du développement et de l'assistance technique aux clients. Les produits sont par exemple des grades extérieurs peints ou non peints , et les requis principaux des clients sont la bonne aptitude à la transformation par injection moulage, la qualité perçue (aspect de surface avec et sans peinture), la stabilité dimensionnelle dans le temps mais aussi la résistance aux vieillissements thermique et climatique. Les grades intérieurs, pour boîtiers d'airbags, ou pour des applications sous capot sont également soumis à des exigences d'odeur, d'émissions, de flammabilité, entre autres. La majorité des développements est effectuée dans une optique de réduction de l'empreinte carbone, par l'intégration voire la substitution par des produits recyclés.\nDans ce contexte, vos missions sont les suivantes : \n- Vous assurerez l'interface avec les laboratoires internes et externes qui travaillent sur le projet, réaliserez la synthèse des résultats et la présenterez lors des revues de suivi.\n- Vous serez le/la garant(e) des documentations techniques et des mises à jour des bases de données techniques des produits en cours de développement.\n- Vous participerez à certaines réunions de formulation et aux instances de planification des essais.\n- En support du technical manager, vous serez également en charge du suivi et de la coordination des réclamations techniques clients, avec le concours des ingénieurs TSD et des usines de production.\n- Dans un second temps au fur et à mesure de votre montée en compétence, vous serez amené(e) à interagir avec des clients sur des projets divers, sous le contrôle du chef de projet.",
-   "mission": "",
-   "profile": "Formation recherchée\n- Ingénieur en science des matériaux \n\nConnaissances et compétences techniques\n- Connaissance académique en matériaux et plus particulièrement polymères.\n- Une connaissance des procédés de transformation des matières plastiques est un plus.\n- Des compétences en formulation, caractérisation et rhéologie des polymères\n\nCompétences informatiques : \n- Microsoft Office\n- La connaissance des données saisies pour Moldflow ou d’autres logiciels de simulation rhéologique est un plus.\n- La connaissance des données saisies pour LS-Dyna ou d’autres logiciels de simulation de crash est un plus.\n\nLangues :\n- Anglais : niveau C1\n- Français : niveau B2\n- Allemand : un plus",
-   "duration": 12,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2027-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-08T08:17:48Z",
-   "sector": "",
-   "specialization": "114",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-08T08:17:48Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-08T00:00:00",
-    "endBroadcastDate": "2026-10-08T00:00:00"
-   },
-   "summary": "Rejoignez la filiale TotalEnergies One Tech Belgium basé à Feluy en Belgique!\n\nLa Business Unit Automotive, Recycled and Compounds (ARC) de TotalEnergies développe et vend des polypropylènes (PP) et compounds à base de PP à l'industrie automobile et a établi une très bonne position auprès de tous les constructeurs automobiles européens comme VW Group, Stellantis, Renault Group, Porsche, Mercedes, BMW et leurs équipementiers de rang 1 (Motherson, OPmobility, Simoldes, Magna, FlexNGate...). Elle est également active dans des marchés hors Automotive (agro, électronique, assainissement...) grâce à ses résines et compounds spéciaux à base de polyéthylène (PE) et polystyrène (PS). […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/245667",
-   "score": 61,
-   "label": "Bonne adéquation",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 17,
-    "prod": 16,
-    "qual": 47,
-    "calc": 30
-   },
-   "dominant_axis": "qual",
-   "matched_families": [
-    {
-     "id": "calc1",
-     "axis": "calc",
-     "source": "Introduction à la méthode des éléments finis (256-1), TP Simulation numérique (272-1, 285-x)",
-     "weight": 9,
-     "terms": [
-      "ls-dyna"
-     ]
-    },
-    {
-     "id": "prod2",
-     "axis": "prod",
-     "source": "Mise en forme par solidification (288-1), Outils et moyens de fabrication (259-1)",
-     "weight": 9,
-     "terms": [
-      "injection",
-      "moulage"
-     ]
-    },
-    {
-     "id": "qual2",
-     "axis": "qual",
-     "source": "Qualité et normes (774-1)",
-     "weight": 10,
-     "terms": [
-      "qualite"
-     ]
-    },
-    {
-     "id": "qual4",
-     "axis": "qual",
-     "source": "Introduction aux techniques expérimentales (267-1)",
-     "weight": 7,
-     "terms": [
-      "essais"
-     ]
-    },
-    {
-     "id": "rd2",
-     "axis": "rd",
-     "source": "Propriétés mécaniques et physique des matériaux (262-1)",
-     "weight": 10,
-     "terms": [
-      "caracterisation",
-      "materiaux",
-      "science des materiaux"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "automobile",
-      "automotive",
-      "chimie"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "245741",
    "title": "SYSTEM ENGINEER (H/F)",
    "company": "ALTEN",
@@ -9159,7 +9048,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-09T12:26:44Z",
    "sector": "",
-   "specialization": "60",
+   "specialization": "[\"60\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9396,7 +9285,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T08:00:24Z",
    "sector": "",
-   "specialization": "114",
+   "specialization": "[\"114\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9840,7 +9729,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-29T08:58:35Z",
    "sector": "",
-   "specialization": "60, 64, 65, 77, 133, 149, 264",
+   "specialization": "[\"60\",\"64\",\"65\",\"77\",\"133\",\"149\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10793,7 +10682,7 @@
    "expiry_date": "",
    "publish_date": "2025-11-19T10:45:12Z",
    "sector": "",
-   "specialization": "71, 73, 224",
+   "specialization": "[\"71\",\"73\",\"224\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -11022,7 +10911,7 @@
    "expiry_date": "",
    "publish_date": "2025-10-08T09:46:46Z",
    "sector": "",
-   "specialization": "71, 73, 224",
+   "specialization": "[\"71\",\"73\",\"224\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12449,6 +12338,114 @@
       "engineer"
      ],
      "points": 14
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
+   "id": "243616",
+   "title": "Digital Transformation & Industrial AI Engineer (H/F)",
+   "company": "CORREGE",
+   "country": "ETATS-UNIS",
+   "city": "WEST CHESTER -PA",
+   "description": "Location & Mobility\r\n\r\n- 2 months onboarding program in France to gain hand-on experience with our products, manufacturing processes, ERP systems and operational teams\r\n- Primary role location: USA – West Chester, PA (Philadelphia region) (12 months)\r\n- Frequent collaboration with teams in France (Engineering, Operations, Sales)\r\n\nAbout Cotemp Sensing\r\n\r\nCotemp Sensing is a specialized provider of temperature measurement and control solutions, serving industrial applications where accuracy, reliability, and durability are critical.\r\nAs part of a growing international group, Cotemp combines engineering expertise, manufacturing capabilities, and customer-focused solutions to support clients across a wide range of industries.\r\nWith operations in France, the United States, India, and the United Kingdom, the company is actively investing in digital transformation and AI-driven process improvement to enhance operational efficiency, data quality, and scalability across all business units.\r\nThe US business unit called Thermo Electric is based in West Chester (Philadelphia area) with 60 employees (2/3 in Production and 1/3 in support function). We develop and manufacture customized temperature sensors for high end customers in various industrial sectors like Semicon, Energy, etc…\r\n\nRole Summary\r\n\r\nWe are looking for a hands-on AI & Process Automation Engineer to support the deployment of AI-driven automation across our operations. The US business unit implemented various IA based tools allowing them to better use the ERP data with the objective to improve the order workflow (from offer to payment stage).\r\n\r\nThe role reports directly to the Director of Operations and Digital Process Improvement (USA), who is leading the group’s AI transformation. The engineer will work in close partnership with this role to design, develop, and deploy automation solutions across all business units, with a strong focus on supporting our French operations. The goal will be to implement similar tools in the French factory.\r\n\r\nThis position sits at the intersection of data, systems, and operations, with frequent interaction across Engineering, Operations, and Sales teams in both the US and France.\r\nThis is not a purely technical role as the objective is to translate business needs into practical, reliable AI-enabled workflows that improve efficiency and decision-making.\r\n\nKey Responsibilities\r\n\r\n- Work closely with the Director of Operations and Digital Process Improvement in driving the group’s AI and digital transformation and automation initiatives\r\n- Identify opportunities to improve business and manufacturing processes through automation and AI\r\n- Connect and optimize business systems, databases, and ERP solutions\r\n- Develop and deploy digital tools that improve productivity and decision-making\r\n- Ensure implementation of AI tools in the French factory to improve internal operational efficiency and business processes\r\n- Work with teams to translate operational needs into scalable solutions\r\n- Test, improve, and validate automation and digital solutions before deployment\r\n- Collaborate with teams in the US and France on digital transformation initiatives\r\n- Improve system performance, data quality, and usability\r\n\r\nWhy Join Cotemp Sensing\r\n\r\n- Work directly with the leader driving AI and digital transformation across the group\r\n- Gain hands-on experience deploying AI and automation solutions in a real industrial environment\r\n- Contribute to high-impact projects across manufacturing, engineering, and business operations\r\n- Develop an international profile through close collaboration between France and the United States\r\n- Take ownership of projects and see the direct impact of your work on operational performance\r\n- Possibility to become permanent employee in USA or France if the job is validated\r\n- Join a growing international company investing in digital transformation and innovation and join a dynamic and motivated US team driven by our core values: Respect, Trust and Empowerment",
+   "mission": "",
+   "profile": "Required Skills\r\n\r\n- Strong analytical and problem-solving skills\r\n- SQL knowledge\r\n- Understanding of APIs\r\n- Basic Python or JavaScript\r\n- AI tools familiarity\r\n- Data structure understanding\r\n- Fluent English\r\n\r\nPreferred Skills\r\n- Azure or cloud exposure\r\n- ERP experience\r\n- Automation project experience\r\n- Debugging skills\r\n\r\nKey Traits\r\n- Process-oriented\r\n- Curious and proactive\r\n- Comfortable in international environments\r\n- Strong communication skills\r\n- Execution-focused\r\n\r\nIdeal Background\r\n\r\n- Degree in Engineering, Computer Science, or similar, with a strong interest in industry, data, AI, automation and digital transformation.\r\n- Or strong hands-on project experience in automation",
+   "duration": 14,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-03-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-06-08T11:09:48Z",
+   "sector": "",
+   "specialization": "[\"149\",\"330\",\"355\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-06-08T11:09:48Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-03-01T00:00:00",
+    "startBroadcastDate": "2026-10-07T00:00:00",
+    "endBroadcastDate": "2026-11-06T00:00:00"
+   },
+   "summary": "Location & Mobility\r\n\r\n- 2 months onboarding program in France to gain hand-on experience with our products, manufacturing processes, ERP systems and operational teams\r\n- Primary role location: USA – West Chester, PA (Philadelphia region) (12 months)\r\n- Frequent collaboration with teams in France (Engineering, Operations, Sales)\r\n\nAbout Cotemp Sensing\r\n\r\nCotemp Sensing is a specialized provider of temperature measurement and control solutions, serving industrial applications where accuracy, reliability, and durability are critical.\r\nAs part of a growing international group, Cotemp combines engineering expertise, manufacturing capabilities, and customer-focused solutions to support clients across a wide range of industries.\r\nWith operations in France, the United States, India, and the United Kingdom, the company is actively investing in digital transformation and AI-driven process improvement to enhance operational efficiency, data quality, and scalability across all business units. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/243616",
+   "score": 56,
+   "label": "Bonne adéquation",
+   "first_seen": "2026-10-07T12:24:42+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 41,
+    "qual": 28,
+    "calc": 17
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "calc4",
+     "axis": "calc",
+     "source": "Outils et méthodes de calcul numérique (258-1), Initiation Excel et macros (266-1), Asservissement (840-1)",
+     "weight": 5,
+     "terms": [
+      "automation",
+      "python"
+     ]
+    },
+    {
+     "id": "prod4",
+     "axis": "prod",
+     "source": "Outils de production (269-1), Tenue mécanique des outillages (284-3, 292-1)",
+     "weight": 10,
+     "terms": [
+      "manufacturing"
+     ]
+    },
+    {
+     "id": "prod5",
+     "axis": "prod",
+     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
+     "weight": 7,
+     "terms": [
+      "productivity"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Conception mécanique (264-1), Outils et moyens de fabrication (259-1)",
+     "weight": 7,
+     "terms": [
+      "engineering"
+     ]
+    },
+    {
+     "id": "qual2",
+     "axis": "qual",
+     "source": "Qualité et normes (774-1)",
+     "weight": 10,
+     "terms": [
+      "quality"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "engineer"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "energy",
+      "industrial"
+     ],
+     "points": 5
     },
     {
      "label": "Niveau bac+5 / ingénieur annoncé",
@@ -17236,7 +17233,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T14:37:51Z",
    "sector": "",
-   "specialization": "51",
+   "specialization": "[\"51\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -17797,7 +17794,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-28T13:10:22Z",
    "sector": "",
-   "specialization": "262",
+   "specialization": "[\"262\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19769,7 +19766,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-29T07:17:31Z",
    "sector": "",
-   "specialization": "70, 76, 77, 365",
+   "specialization": "[\"70\",\"76\",\"77\",\"365\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20487,7 +20484,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-10T09:56:17Z",
    "sector": "",
-   "specialization": "49, 63, 86, 125, 207, 208, 256, 366",
+   "specialization": "[\"49\",\"63\",\"86\",\"125\",\"207\",\"208\",\"256\",\"366\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20759,7 +20756,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T12:15:30Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21330,7 +21327,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-10T12:08:07Z",
    "sector": "",
-   "specialization": "71",
+   "specialization": "[\"71\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21741,7 +21738,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-23T07:15:58Z",
    "sector": "",
-   "specialization": "66",
+   "specialization": "[\"66\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22672,7 +22669,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-28T11:12:32Z",
    "sector": "",
-   "specialization": "60",
+   "specialization": "[\"60\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25746,7 +25743,7 @@
    "expiry_date": "",
    "publish_date": "2026-03-30T10:51:45Z",
    "sector": "",
-   "specialization": "248, 327, 328",
+   "specialization": "[\"248\",\"327\",\"328\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26361,7 +26358,7 @@
    "expiry_date": "",
    "publish_date": "2026-05-12T14:43:27Z",
    "sector": "",
-   "specialization": "5, 21, 49, 86, 125, 144, 150, 155, 208, 209, 244, 256, 262, 264",
+   "specialization": "[\"5\",\"21\",\"49\",\"86\",\"125\",\"144\",\"150\",\"155\",\"208\",\"209\",\"244\",\"256\",\"262\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29176,7 +29173,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T10:55:11Z",
    "sector": "",
-   "specialization": "138, 248, 330, 355",
+   "specialization": "[\"138\",\"248\",\"330\",\"355\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29450,7 +29447,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-15T08:32:04Z",
    "sector": "",
-   "specialization": "330",
+   "specialization": "[\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29537,7 +29534,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-15T08:23:50Z",
    "sector": "",
-   "specialization": "251",
+   "specialization": "[\"251\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30276,15 +30273,15 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T12:21:39Z",
    "sector": "",
-   "specialization": "330",
+   "specialization": "[\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-09-30T12:21:39Z",
     "missionStartDate": "2026-12-01T00:00:00",
     "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-30T00:00:00",
-    "endBroadcastDate": "2026-10-30T00:00:00"
+    "startBroadcastDate": "2026-10-07T00:00:00",
+    "endBroadcastDate": "2026-11-06T00:00:00"
    },
    "summary": "Are you ready to accelerate your career in one of Europe’s most thriving tech hubs? At Extia, our motto is \"First who, then what!\" We believe in nurturing talent and fostering an environment where innovation thrives. We are currently looking for a meticulous and quality-driven QA Engineer / Test Analyst to join our team in Lisbon through a V.I.E contract.\n\nOften referred to as the \"California of Europe\" and proud host of the Web Summit, Lisbon is a booming technological capital. It offers a unique blend of vibrant professional dynamism, cutting-edge startup ecosystems, and an unparalleled quality of life. By joining us here, you won't just be taking a job; you will be immersing yourself in a highly stimulating, fast-paced international tech community that will fast-track your career, all while enjoying the sun, the ocean, and a rich cultural city.\n\nWorking in a hybrid model and operating on highly strategic software projects, you will act as the ultimate gatekeeper for software quality. […]",
    "url": "https://mon-vie-via.businessfrance.fr/offres/246558",
@@ -30380,15 +30377,15 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T10:23:19Z",
    "sector": "",
-   "specialization": "330",
+   "specialization": "[\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-09-30T10:23:19Z",
     "missionStartDate": "2026-12-01T00:00:00",
     "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-30T00:00:00",
-    "endBroadcastDate": "2026-10-30T00:00:00"
+    "startBroadcastDate": "2026-10-07T00:00:00",
+    "endBroadcastDate": "2026-11-06T00:00:00"
    },
    "summary": "Are you ready to accelerate your career in one of Europe’s most thriving tech hubs? At Extia, our motto is \"First who, then what!\" We believe in nurturing talent and fostering an environment where innovation thrives. We are currently looking for a passionate and automation-driven DevOps Engineer to join our team in Lisbon through a V.I.E contract.\n\nOften referred to as the \"California of Europe\" and proud host of the Web Summit, Lisbon is a booming technological capital. It offers a unique blend of vibrant professional dynamism, cutting-edge startup ecosystems, and an unparalleled quality of life. By joining us here, you won't just be taking a job; you will be immersing yourself in a highly stimulating, fast-paced international tech community that will fast-track your career, all while enjoying the sun, the ocean, and a rich cultural city.\n\nWorking in a hybrid model and handling highly strategic environments, you will be the bridge between development and operations, ensuring seamless, scalable, and secure deployments. […]",
    "url": "https://mon-vie-via.businessfrance.fr/offres/246554",
@@ -30476,15 +30473,15 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T10:14:48Z",
    "sector": "",
-   "specialization": "330",
+   "specialization": "[\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-09-30T10:14:48Z",
     "missionStartDate": "2026-12-01T00:00:00",
     "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-30T00:00:00",
-    "endBroadcastDate": "2026-10-30T00:00:00"
+    "startBroadcastDate": "2026-10-07T00:00:00",
+    "endBroadcastDate": "2026-11-06T00:00:00"
    },
    "summary": "Are you ready to accelerate your career in one of Europe’s most thriving tech hubs? At Extia, our motto is \"First who, then what!\" We believe in nurturing talent and fostering an environment where innovation thrives. We are currently looking for a meticulous and quality-driven Test Analyst / QA Engineer to join our team in Bucharest through a V.I.E (Volontariat International en Entreprise) contract.\n\nOften referred to as the \"Silicon Valley of Eastern Europe,\" Bucharest is a booming technological epicenter. It offers a unique blend of vibrant professional dynamism, cutting-edge tech communities, and a high quality of life. By joining us here, you won't just be taking a job; you will be immersing yourself in a highly stimulating, fast-paced international ecosystem that will fast-track your career, all while enjoying a rich cultural city.\n\nWorking in a hybrid model and operating on highly strategic software projects, you will act as the ultimate gatekeeper for software quality. […]",
    "url": "https://mon-vie-via.businessfrance.fr/offres/246552",
@@ -30580,15 +30577,15 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T09:54:46Z",
    "sector": "",
-   "specialization": "330",
+   "specialization": "[\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-09-30T09:54:46Z",
     "missionStartDate": "2026-12-01T00:00:00",
     "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-30T00:00:00",
-    "endBroadcastDate": "2026-10-30T00:00:00"
+    "startBroadcastDate": "2026-10-07T00:00:00",
+    "endBroadcastDate": "2026-11-06T00:00:00"
    },
    "summary": "Are you ready to accelerate your career in one of Europe’s most thriving tech hubs? At Extia, our motto is \"First who, then what!\" We believe in nurturing talent and fostering an environment where innovation thrives. We are currently looking for a passionate and automation-driven DevOps Engineer to join our team in Bucharest through a V.I.E.\n\nOften referred to as the \"Silicon Valley of Eastern Europe,\" Bucharest is a booming technological epicenter. It offers a unique blend of vibrant professional dynamism, cutting-edge tech communities, and a high quality of life. By joining us here, you won't just be taking a job; you will be immersing yourself in a highly stimulating, fast-paced international ecosystem that will fast-track your career, all while enjoying a rich cultural city.\n\nWorking in a hybrid model and handling highly strategic environments, you will be the bridge between development and operations, ensuring seamless, scalable, and secure deployments. […]",
    "url": "https://mon-vie-via.businessfrance.fr/offres/246549",
@@ -30676,15 +30673,15 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T09:43:41Z",
    "sector": "",
-   "specialization": "330",
+   "specialization": "[\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-09-30T09:43:41Z",
     "missionStartDate": "2026-12-01T00:00:00",
     "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-30T00:00:00",
-    "endBroadcastDate": "2026-10-30T00:00:00"
+    "startBroadcastDate": "2026-10-07T00:00:00",
+    "endBroadcastDate": "2026-11-06T00:00:00"
    },
    "summary": "Are you ready to accelerate your career in one of Europe’s most thriving tech hubs? At Extia, our motto is \"First who, then what!\" We believe in nurturing talent and fostering an environment where innovation thrives. We are currently looking for a passionate and business-oriented Data Analyst to join our team in Bucharest through a V.I.E (Volontariat International en Entreprise) contract.\n\nOften referred to as the \"Silicon Valley of Eastern Europe,\" Bucharest is a booming technological epicenter. It offers a unique blend of vibrant professional dynamism, cutting-edge tech communities, and a high quality of life. By joining us here, you won't just be taking a job; you will be immersing yourself in a highly stimulating, fast-paced international ecosystem that will fast-track your career, all while enjoying a rich cultural city.\n\nWorking in a hybrid model and dealing with highly strategic and confidential data, you will bridge the gap between technical data and business strategy. […]",
    "url": "https://mon-vie-via.businessfrance.fr/offres/246545",
@@ -30759,15 +30756,15 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T09:30:50Z",
    "sector": "",
-   "specialization": "330",
+   "specialization": "[\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-09-30T09:30:50Z",
     "missionStartDate": "2026-12-01T00:00:00",
     "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-30T00:00:00",
-    "endBroadcastDate": "2026-10-30T00:00:00"
+    "startBroadcastDate": "2026-10-07T00:00:00",
+    "endBroadcastDate": "2026-11-06T00:00:00"
    },
    "summary": "Are you ready to accelerate your career in one of Europe’s most thriving tech hubs? At Extia, our motto is \"First who, then what!\" We believe in nurturing talent and fostering an environment where innovation thrives. We are currently looking for a passionate Data Engineer to join our team in Bucharest through a V.I.E contract.\n\nOften referred to as the \"Silicon Valley of Eastern Europe,\" Bucharest is a booming technological epicenter. It offers a unique blend of vibrant professional dynamism, cutting-edge tech communities, and a high quality of life. By joining us here, you won't just be taking a job; you will be immersing yourself in a highly stimulating, fast-paced international ecosystem that will fast-track your career, all while enjoying a rich cultural city.\n\nAs a key player in our data initiatives, you will be at the heart of complex and highly confidential data challenges. […]",
    "url": "https://mon-vie-via.businessfrance.fr/offres/246544",
@@ -31024,7 +31021,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-28T16:17:21Z",
    "sector": "",
-   "specialization": "92",
+   "specialization": "[\"92\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32924,7 +32921,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T09:26:33Z",
    "sector": "",
-   "specialization": "259",
+   "specialization": "[\"259\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33342,7 +33339,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-16T10:04:59Z",
    "sector": "",
-   "specialization": "259",
+   "specialization": "[\"259\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33431,7 +33428,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-23T07:37:46Z",
    "sector": "",
-   "specialization": "318",
+   "specialization": "[\"318\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33601,7 +33598,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-14T12:45:10Z",
    "sector": "",
-   "specialization": "206",
+   "specialization": "[\"206\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34623,7 +34620,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T15:35:24Z",
    "sector": "",
-   "specialization": "155",
+   "specialization": "[\"155\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -37882,7 +37879,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-10T07:52:56Z",
    "sector": "",
-   "specialization": "251",
+   "specialization": "[\"251\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -39352,7 +39349,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-23T09:46:51Z",
    "sector": "",
-   "specialization": "68",
+   "specialization": "[\"68\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -39932,7 +39929,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-20T12:27:40Z",
    "sector": "",
-   "specialization": "330",
+   "specialization": "[\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -40190,7 +40187,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-01T09:16:32Z",
    "sector": "",
-   "specialization": "6",
+   "specialization": "[\"6\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -40249,7 +40246,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-01T08:58:25Z",
    "sector": "",
-   "specialization": "21",
+   "specialization": "[\"21\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -40397,7 +40394,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-28T09:57:45Z",
    "sector": "",
-   "specialization": "29",
+   "specialization": "[\"29\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -40555,7 +40552,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-21T14:28:47Z",
    "sector": "",
-   "specialization": "259",
+   "specialization": "[\"259\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -42379,7 +42376,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-09T07:29:30Z",
    "sector": "",
-   "specialization": "49, 63, 86, 123, 208, 256, 366",
+   "specialization": "[\"49\",\"63\",\"86\",\"123\",\"208\",\"256\",\"366\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
