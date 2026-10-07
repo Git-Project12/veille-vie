@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-07T12:24:58+00:00",
+ "generated_at": "2026-10-07T17:26:04+00:00",
  "source": "Business France — mon-vie-via.businessfrance.fr",
- "total_scanned": 797,
- "total_announced": 797,
- "total_kept": 459,
+ "total_scanned": 824,
+ "total_announced": 824,
+ "total_kept": 466,
  "threshold": 25,
  "axes": {
   "rd": {
@@ -360,7 +360,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T12:04:49Z",
    "sector": "",
-   "specialization": "251",
+   "specialization": "[\"251\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -2440,7 +2440,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-21T08:41:15Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -2550,7 +2550,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T13:05:00Z",
    "sector": "",
-   "specialization": "60",
+   "specialization": "[\"60\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -3337,7 +3337,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-10T08:20:34Z",
    "sector": "",
-   "specialization": "63, 77, 109, 114, 125, 207, 262, 264",
+   "specialization": "[\"63\",\"77\",\"109\",\"114\",\"125\",\"207\",\"262\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -4928,7 +4928,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-19T14:31:40Z",
    "sector": "",
-   "specialization": "64, 76, 77, 149, 244, 264",
+   "specialization": "[\"64\",\"76\",\"77\",\"149\",\"244\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -7349,7 +7349,7 @@
    "expiry_date": "",
    "publish_date": "2025-11-19T10:45:12Z",
    "sector": "",
-   "specialization": "77, 149, 207",
+   "specialization": "[\"77\",\"149\",\"207\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9165,7 +9165,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-31T08:19:32Z",
    "sector": "",
-   "specialization": "63, 114, 149, 150, 169, 262, 264",
+   "specialization": "[\"63\",\"114\",\"149\",\"150\",\"169\",\"262\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10561,15 +10561,15 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T14:37:58Z",
    "sector": "",
-   "specialization": "60",
+   "specialization": "[\"60\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-09-24T14:37:58Z",
     "missionStartDate": "2026-12-01T00:00:00",
     "missionEndDate": "2028-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-24T00:00:00",
-    "endBroadcastDate": "2026-10-22T00:00:00"
+    "startBroadcastDate": "2026-10-07T00:00:00",
+    "endBroadcastDate": "2026-11-04T00:00:00"
    },
    "summary": "🌍 À propos de l’opportunité\n\nDans le cadre du développement de nos activités dans le secteur aéronautique et spatial, nous recrutons un(e) Ingénieur Essais afin de participer à la validation et à la qualification de composants et systèmes mécaniques complexes.\n\nVous intégrerez une équipe d’ingénierie spécialisée dans les essais et la validation de produits destinés à l’industrie aérospatiale, sur des projets innovants et à forte valeur ajoutée.\n\n🎯 Vos missions\n\nAu sein du département Essais et Validation, vous serez amené(e) à :\n\nCoordonner et piloter des campagnes d’essais statiques et dynamiques sur des composants et structures mécaniques.\nParticiper à la programmation et à la mise en œuvre des bancs d’essais.\nDéfinir les besoins en moyens d’essais, instrumentation et outillages nécessaires à la réalisation des campagnes.\nAssurer la gestion et le suivi de l’approvisionnement des équipements d’essais.\nRéaliser le post-traitement et l’analyse des résultats obtenus.\nIdentifier les écarts de performance et proposer des actions correctives lorsque nécessaire. […]",
    "url": "https://mon-vie-via.businessfrance.fr/offres/246368",
@@ -12469,7 +12469,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T07:31:41Z",
    "sector": "",
-   "specialization": "206",
+   "specialization": "[\"206\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12545,6 +12545,105 @@
      "label": "Secteur industriel compatible",
      "terms": [
       "mecanique"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
+   "id": "246770",
+   "title": "System Safety Engineer (H/F)",
+   "company": "ALTEN",
+   "country": "ALLEMAGNE",
+   "city": "MANCHING",
+   "description": "ALTEN, a leader in engineering and IT services, brings together nearly 60,000 employees, 88% of whom are engineers. Present in over 30 countries, the Group supports its clients' development strategies in innovation, R&D, and advanced IT systems.\n\nJob Description\n\nYour responsibilities will include:\n\nAnalyzing systems, identifying hazards and risks, and deriving appropriate safety measures.\nEvaluating safety concepts and system architectures in the context of overall requirements.\nDeriving safety requirements from customer specifications and internal analyses for hardware, software, and mechanical components.\nCreating safety-related, approval-based documentation and supporting development projects until safety objectives are secured.\nMonitoring processes to ensure compliance with safety regulations and systematically evaluating verification and validation results.\nConducting impact analyses for product changes and ensuring safety-relevant interface communication.\nActively contributing to the advancement of internal safety methods, processes, and standard implementations.",
+   "mission": "",
+   "profile": "Hold a completed technical degree (bachelor or equivalent) in Mechanical Engineering, Electrical Engineering, or Computer Science.\nBring initial experience in product safety and knowledge of product safety laws.\nAre proficient in SysML/UML and modern development and testing methods.\nHave experience with analysis tools and a foundational understanding of quality and configuration management.\nCommunicate fluently in English (written and spoken) and work in a structured, analytical, and responsible manner.",
+   "duration": 24,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2029-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-07T08:56:58Z",
+   "sector": "",
+   "specialization": "[\"60\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-07T08:56:58Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2029-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-07T00:00:00",
+    "endBroadcastDate": "2026-11-06T00:00:00"
+   },
+   "summary": "ALTEN, a leader in engineering and IT services, brings together nearly 60,000 employees, 88% of whom are engineers. Present in over 30 countries, the Group supports its clients' development strategies in innovation, R&D, and advanced IT systems.\n\nJob Description\n\nYour responsibilities will include:\n\nAnalyzing systems, identifying hazards and risks, and deriving appropriate safety measures.\nEvaluating safety concepts and system architectures in the context of overall requirements.\nDeriving safety requirements from customer specifications and internal analyses for hardware, software, and mechanical components.\nCreating safety-related, approval-based documentation and supporting development projects until safety objectives are secured.\nMonitoring processes to ensure compliance with safety regulations and systematically evaluating verification and validation results.\nConducting impact analyses for product changes and ensuring safety-relevant interface communication.\nActively contributing to the advancement of internal safety methods, processes, and standard implementations.",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/246770",
+   "score": 55,
+   "label": "Bonne adéquation",
+   "first_seen": "2026-10-07T17:25:48+00:00",
+   "axis_scores": {
+    "rd": 13,
+    "prod": 12,
+    "qual": 47,
+    "calc": 0
+   },
+   "dominant_axis": "qual",
+   "matched_families": [
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Conception mécanique (264-1), Outils et moyens de fabrication (259-1)",
+     "weight": 7,
+     "terms": [
+      "engineering"
+     ]
+    },
+    {
+     "id": "qual2",
+     "axis": "qual",
+     "source": "Qualité et normes (774-1)",
+     "weight": 10,
+     "terms": [
+      "compliance",
+      "quality"
+     ]
+    },
+    {
+     "id": "qual4",
+     "axis": "qual",
+     "source": "Introduction aux techniques expérimentales (267-1)",
+     "weight": 7,
+     "terms": [
+      "testing",
+      "validation"
+     ]
+    },
+    {
+     "id": "rd6",
+     "axis": "rd",
+     "source": "Comportement mécanique des matériaux non conventionnels (298-2), Projet de recherche (261-1)",
+     "weight": 8,
+     "terms": [
+      "r&d"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "engineer"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "mechanical"
      ],
      "points": 5
     },
@@ -12668,7 +12767,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-28T14:09:05Z",
    "sector": "",
-   "specialization": "207",
+   "specialization": "[\"207\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -14394,7 +14493,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T13:42:07Z",
    "sector": "",
-   "specialization": "331",
+   "specialization": "[\"331\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -14922,7 +15021,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-14T17:08:48Z",
    "sector": "",
-   "specialization": "149, 169",
+   "specialization": "[\"149\",\"169\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -15023,7 +15122,7 @@
    "expiry_date": "",
    "publish_date": "2025-11-19T10:45:12Z",
    "sector": "",
-   "specialization": "71",
+   "specialization": "[\"71\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -15231,7 +15330,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-21T12:28:26Z",
    "sector": "",
-   "specialization": "73",
+   "specialization": "[\"73\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -15379,117 +15478,6 @@
       "industriel",
       "mecanique",
       "nucleaire"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
-   "id": "246330",
-   "title": "Supply Chain Specialist (H/F)",
-   "company": "SANOFI WINTHROP INDUSTRIE",
-   "country": "BRESIL",
-   "city": "SAO PAULO",
-   "description": "About the job\n\nAs Supply Chain Specialist VIE within our Manufacturing & Supply team, you’ll act as the primary Supply Chain focal point for all products manufactured by CMOs, ensuring seamless integration between internal stakeholders and external manufacturing partners.\n\nJoin a global network that powers how Sanofi delivers — seamlessly, purposefully, and at scale. In Manufacturing & Supply, you’ll help reimagine how life-changing treatments reach people everywhere, faster. \n\nReady to get started?\n\nAbout Sanofi\n\nWe’re an R&D-driven, AI-powered biopharma company committed to improving people’s lives and delivering compelling growth. Our deep understanding of the immune system – and innovative pipeline – enables us to invent medicines and vaccines that treat and protect millions of people around the world. Together, we chase the miracles of science to improve people’s lives. \n\nMain responsibilities:\n\nStrategic Supply Chain Management\n- Design and implement supply strategies that balance service levels, inventory optimization, and cost efficiency in alignment with corporate policies.\n- Lead the development of mid to long-term supply plans, anticipating market trends, demand fluctuations, and capacity constraints.\n- Drive strategic initiatives to enhance supply chain resilience and mitigate risks across the CMO network.\n \nInventory & Service Level Optimization\n- Monitor and ensure optimal stock levels in accordance with current inventory policies, preventing stockouts and excess inventory situations.\n- Establish and maintain target service levels, working proactively to achieve KPIs and minimize business disruption.\n- Develop advanced analytics and forecasting models to improve demand planning accuracy and inventory turnover.\n- Lead cross-functional teams in developing action plans to reduce product destruction and manage materials with short shelf life.\n \nProcurement & Supplier Management\n- Manage the placement and tracking of purchase orders with CMOs, ensuring alignment with supply chain planning tools and business requirements.\n- Monitor delivery fulfillment through systematic supplier performance tracking, ensuring on-time and in-full (OTIF) delivery compliance.\n- Assess and manage risks of contractual penalties related to OTIF performance, implementing corrective actions as needed.\n- Ensure CMO compliance with all contractual clauses, quality standards, and regulatory requirements.\n- Support periodic reviews of Service Level Agreements (SLAs), analyzing demand patterns and optimizing parameters such as MOQ, lead times, and minimum shelf life requirements.\n \nNew Product Introduction & Lifecycle Management\n- Oversee supply chain activities for New Product Launches (NPL), ensuring timely market availability and successful commercialization.\n- Collaborate with R&D, Quality, Regulatory, and Commercial teams to develop robust supply plans for product introductions.\n- Follow artwork changes and updates between CMOs and internal teams, ensuring regulatory compliance and technical accuracy.\n- Support product lifecycle management initiatives, including phase-ins, phase-outs, and portfolio optimization.\n \nPerformance Management & Continuous Improvement\nDevelop, track, and report key performance indicators (KPIs) for CMO performance, including OTIF, lead time compliance, and quality metrics.\nConduct monthly performance reviews with CMOs, identifying gaps, opportunities for improvement, and implementing corrective actions.\nEnsure implementation/participation in Supply Chain Projects as a KU for a period.\nCreate plans for improvement with multifunctional team, when the process is putting the business in risk.\n \nFunctional Leadership & Stakeholder Management (New/Enhanced)\n- Lead functional meetings with Quality Assurance, Quality Control, Logistics, Warehousing, Commercial, and COMEX teams to ensure end-to-end supply chain visibility.\n- Serve as the escalation point for supply chain issues, coordinating rapid response and resolution across internal and external stakeholders.\n- Mentor and provide guidance to junior supply chain analysts, fostering skill development and knowledge sharing.\n- Represent Supply Chain in strategic business reviews, presenting insights, risks, and recommendations to senior leadership.\n- Build and maintain strong relationships with CMO leadership to drive collaboration and strategic alignment.\n\nRisk Management & Business Continuity \n- Proactively identify and assess supply chain risks (capacity constraints, quality issues, geopolitical factors) and develop mitigation strategies.\n- Manage crisis situations and supply disruptions, coordinating with global teams to minimize business impact.\n- Ensure timely communication of quality-related supply issues to global Quality teams for escalation and resolution.\n- Develop contingency plans and alternative sourcing strategies to ensure business continuity.\n \nCompliance, Ethics & Corporate Responsibility\n- Maintain comprehensive knowledge of and ensure compliance with Sanofi's Ethics and Integrity principles, policies, and codes of conduct.\n- Comply with and promote Health, Safety, and Environment (HSE) policies to prevent accidents, mitigate health risks, and reduce environmental impact.\n- Support and champion Sanofi's Diversity and Inclusion initiatives, ensuring respectful treatment and equal opportunities for all employees and partners.\n- Ensure all supply chain activities comply with pharmaceutical industry regulations and quality standards.\n\nWhy choose us?\n\n- Be part of a pioneering biopharma company where patient insights shape drug development.\n- Work at the forefront of AI-powered science that accelerates discovery and improves outcomes.\n- Collaborate beyond your expertise, sparking new ideas with diverse, multidisciplinary teams.\n- Work at the forefront of drug discovery, harnessing cutting-edge AI, data, and digital platforms to push the boundaries of science.\n- Help improve the lives of millions of people globally by making drug development quicker and more effective.\n- Join a workplace where diversity, equity, and inclusion are at the core, with Employee Resource Groups and leadership programs that celebrate every voice.\n\niMove is a unique program tailored for European youth interested in challenging themselves with meaningful assignments across the globe. At Sanofi we have a strong ambition to invest in young talents who will drive the success of Sanofi tomorrow.\n\nSanofi’s Work Abroad Program, iMove, offers jobs-assignments with actual responsibilities and a perspective to grow. We provide those opportunities in various functions such as: marketing, finance, regulatory, supply chain, clinical trials, production, etc. and in more than 40 countries. Sanofi unites people who are passionate about solving healthcare needs across the world. Joining our iMove Work Abroad Program is a unique opportunity to make a difference through your work.\n\nPursue Progress. Discover Extraordinary.\n\nProgress doesn’t happen without people – people from different backgrounds, in different locations, doing different roles, all united by one thing: a desire to make miracles happen. You can be one of those people. Chasing change, embracing new ideas and exploring all the opportunities we have to offer. Let’s pursue progress. And let’s discover extraordinary together.\n\nAt Sanofi, we provide equal opportunities to all regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, or gender identity. \n\nWatch our ALL IN video and check out our Diversity Equity and Inclusion actions at sanofi.com!",
-   "mission": "",
-   "profile": "About you\n\nExperience:\n\n- Previous experience in areas related to Supply Chain and Industrial.\n \nSoft and technical skills:\n\n- Proactive, autonomous person.\n- Focused on results, advanced analytical skills (Excel), advanced interpersonal skills, team player.\n- Ability to manage and support complex and simultaneous projects.\n- Knowledge of forecasting activities, contact with suppliers, process of planning, scheduling and production control, besides GMP (Good Manufacturing Practices) and its application in the distribution chain of pharmaceutical products.\n- Knowledge of the flow of information from the analysis of the demand to the availability of the final production the Distribution Center is preferred.\n\nEducation:\n\n- Master’s Degree in Business Administration, Economics, Accounting, Mathematics, Logistics, Engineering or similar field.\n\nLanguages:\n\n- Advanced English knowledge, Spanish is preferred.\n\nTo facilitate the examination of your application by our English-speaking managers, thank you for applying in English.",
-   "duration": 24,
-   "start_date": "2027-02-01T00:00:00",
-   "end_date": "2029-02-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-23T17:35:28Z",
-   "sector": "",
-   "specialization": "8, 17, 158",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-23T17:35:28Z",
-    "missionStartDate": "2027-02-01T00:00:00",
-    "missionEndDate": "2029-02-01T00:00:00",
-    "startBroadcastDate": "2026-09-24T00:00:00",
-    "endBroadcastDate": "2026-10-24T00:00:00"
-   },
-   "summary": "About the job\n\nAs Supply Chain Specialist VIE within our Manufacturing & Supply team, you’ll act as the primary Supply Chain focal point for all products manufactured by CMOs, ensuring seamless integration between internal stakeholders and external manufacturing partners.\n\nJoin a global network that powers how Sanofi delivers — seamlessly, purposefully, and at scale. In Manufacturing & Supply, you’ll help reimagine how life-changing treatments reach people everywhere, faster. \n\nReady to get started?\n\nAbout Sanofi\n\nWe’re an R&D-driven, AI-powered biopharma company committed to improving people’s lives and delivering compelling growth. Our deep understanding of the immune system – and innovative pipeline – enables us to invent medicines and vaccines that treat and protect millions of people around the world. Together, we chase the miracles of science to improve people’s lives. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246330",
-   "score": 48,
-   "label": "À examiner",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 13,
-    "prod": 52,
-    "qual": 28,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1), Tenue mécanique des outillages (284-3, 292-1)",
-     "weight": 10,
-     "terms": [
-      "manufacturing"
-     ]
-    },
-    {
-     "id": "prod5",
-     "axis": "prod",
-     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
-     "weight": 7,
-     "terms": [
-      "continuous improvement"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Conception mécanique (264-1), Outils et moyens de fabrication (259-1)",
-     "weight": 7,
-     "terms": [
-      "engineering"
-     ]
-    },
-    {
-     "id": "prod6",
-     "axis": "prod",
-     "source": "Usinage / moyens de fabrication (259-1)",
-     "weight": 6,
-     "terms": [
-      "cutting"
-     ]
-    },
-    {
-     "id": "qual2",
-     "axis": "qual",
-     "source": "Qualité et normes (774-1)",
-     "weight": 10,
-     "terms": [
-      "compliance",
-      "quality",
-      "quality assurance",
-      "standards"
-     ]
-    },
-    {
-     "id": "rd6",
-     "axis": "rd",
-     "source": "Comportement mécanique des matériaux non conventionnels (298-2), Projet de recherche (261-1)",
-     "weight": 8,
-     "terms": [
-      "r&d"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "industrial"
      ],
      "points": 5
     },
@@ -16091,7 +16079,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-31T08:20:36Z",
    "sector": "",
-   "specialization": "2, 60, 62, 63, 64, 65, 66, 71, 73, 110, 112, 114, 133, 143, 144, 145, 149, 155, 158, 159, 160, 161, 168, 169, 205, 206, 207, 208, 213, 244, 245, 246, 247, 248, 249, 251, 327, 328, 329, 330, 331, 345, 355, 358",
+   "specialization": "[\"2\",\"60\",\"62\",\"63\",\"64\",\"65\",\"66\",\"71\",\"73\",\"110\",\"112\",\"114\",\"133\",\"143\",\"144\",\"145\",\"149\",\"155\",\"158\",\"159\",\"160\",\"161\",\"168\",\"169\",\"205\",\"206\",\"207\",\"208\",\"213\",\"244\",\"245\",\"246\",\"247\",\"248\",\"249\",\"251\",\"327\",\"328\",\"329\",\"330\",\"331\",\"345\",\"355\",\"358\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -18781,7 +18769,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-29T16:32:01Z",
    "sector": "",
-   "specialization": "63, 113, 256",
+   "specialization": "[\"63\",\"113\",\"256\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19161,7 +19149,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T08:00:08Z",
    "sector": "",
-   "specialization": "238",
+   "specialization": "[\"238\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19602,7 +19590,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-07T08:04:53Z",
    "sector": "",
-   "specialization": "160",
+   "specialization": "[\"160\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21558,7 +21546,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-23T07:33:29Z",
    "sector": "",
-   "specialization": "52, 66, 114, 115, 130, 148, 153",
+   "specialization": "[\"52\",\"66\",\"114\",\"115\",\"130\",\"148\",\"153\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21648,7 +21636,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-23T09:02:41Z",
    "sector": "",
-   "specialization": "52, 66, 114, 115, 143, 148, 153",
+   "specialization": "[\"52\",\"66\",\"114\",\"115\",\"143\",\"148\",\"153\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22293,7 +22281,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-18T08:08:01Z",
    "sector": "",
-   "specialization": "62",
+   "specialization": "[\"62\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22911,6 +22899,83 @@
    ]
   },
   {
+   "id": "246791",
+   "title": "Planificateur de matériaux (H/F)",
+   "company": "FAURECIA CLARION ELECTRONICS EUROPE",
+   "country": "HONGRIE",
+   "city": "NAGYKATA",
+   "description": "Veiller à la disponibilité et au suivi des matériaux afin de soutenir le plan de production dans les délais impartis et d’assurer la gestion des stocks.\nÉlaborer et mettre en œuvre des plans d’approvisionnement en matériaux afin de soutenir les calendriers de production et de répondre aux demandes des clients.\nSurveiller et analyser les niveaux de stock afin d’optimiser les niveaux de stock et de minimiser les excédents.\nAssurer la coordination avec les fournisseurs pour garantir la livraison en temps voulu des matériaux et des composants, tout en évaluant les performances des fournisseurs.\nCollaborer avec des équipes interfonctionnelles, notamment celles de la production, de la logistique et de l’assurance qualité, afin de résoudre les problèmes liés aux matériaux et d’améliorer l’efficacité opérationnelle.\nUtiliser des systèmes et autres outils logiciels pour gérer les stocks, suivre les matériaux et générer des rapports.\nIdentifier en permanence les opportunités d’amélioration des processus et les initiatives de réduction des coûts au sein de la chaîne d’approvisionnement.\nConnaître et respecter les exigences définies par les systèmes de gestion environnementale intégrée (ISO 14001) et de gestion de la santé et de la sécurité au travail (ISO 45001) mis en œuvre par la SARL, et participer à leur amélioration continue.",
+   "mission": "",
+   "profile": "Esprit d'innovation et capacité à formuler des propositions\nCapacité à animer des équipes de travail pluridisciplinaires\nSolides compétences en communication et en négociation\nOrientation client (interne et externe)\nConnaissances en électronique\nCompétences informatiques\nCapacités d'analyse\nCompétences en négociation\nSoif d'apprendre\nOuverture d'esprit, proactivité et autonomie\nCapacité à apporter un regard neuf sur l'organisation actuelle\nEsprit d'équipe et ouverture d'esprit internationale\nConnaissance des produits et des technologies",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-07T13:28:23Z",
+   "sector": "",
+   "specialization": "[\"149\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-07T13:28:23Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-07T00:00:00",
+    "endBroadcastDate": "2026-11-06T00:00:00"
+   },
+   "summary": "Veiller à la disponibilité et au suivi des matériaux afin de soutenir le plan de production dans les délais impartis et d’assurer la gestion des stocks.\nÉlaborer et mettre en œuvre des plans d’approvisionnement en matériaux afin de soutenir les calendriers de production et de répondre aux demandes des clients.\nSurveiller et analyser les niveaux de stock afin d’optimiser les niveaux de stock et de minimiser les excédents.\nAssurer la coordination avec les fournisseurs pour garantir la livraison en temps voulu des matériaux et des composants, tout en évaluant les performances des fournisseurs.\nCollaborer avec des équipes interfonctionnelles, notamment celles de la production, de la logistique et de l’assurance qualité, afin de résoudre les problèmes liés aux matériaux et d’améliorer l’efficacité opérationnelle.\nUtiliser des systèmes et autres outils logiciels pour gérer les stocks, suivre les matériaux et générer des rapports.\nIdentifier en permanence les opportunités d’amélioration des processus et les initiatives de réduction des coûts au sein de la chaîne d’approvisionnement. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/246791",
+   "score": 36,
+   "label": "À examiner",
+   "first_seen": "2026-10-07T17:25:48+00:00",
+   "axis_scores": {
+    "rd": 17,
+    "prod": 12,
+    "qual": 28,
+    "calc": 0
+   },
+   "dominant_axis": "qual",
+   "matched_families": [
+    {
+     "id": "prod5",
+     "axis": "prod",
+     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
+     "weight": 7,
+     "terms": [
+      "amelioration continue"
+     ]
+    },
+    {
+     "id": "qual2",
+     "axis": "qual",
+     "source": "Qualité et normes (774-1)",
+     "weight": 10,
+     "terms": [
+      "assurance qualite",
+      "qualite"
+     ]
+    },
+    {
+     "id": "rd2",
+     "axis": "rd",
+     "source": "Propriétés mécaniques et physique des matériaux (262-1)",
+     "weight": 10,
+     "terms": [
+      "materiaux"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "materiaux"
+     ],
+     "points": 14
+    }
+   ]
+  },
+  {
    "id": "238020",
    "title": "Commodity Buyer (H/F)",
    "company": "FAURECIA INTERIORS HOLDING",
@@ -23110,6 +23175,83 @@
      ],
      "points": 5
     },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
+   "id": "246768",
+   "title": "Qualification & Validation  - Life Sciences (H/F)",
+   "company": "ALTEN",
+   "country": "BELGIQUE",
+   "city": "BRUXELLES",
+   "description": "En tant que consultant en Qualification et Validation, vos compétences permettront de supporter les projets de nos partenaires dont les activités sont établies dans la production de médicaments ou de produits en lien avec le domaine de la santé.\n\nVous occuperez un rôle central dans la coordination et l’exécution du cycle de validation dans le but de finaliser les projets avec succès et dans les délais impartis. Pour ce faire, vous :\n\nReprésentez le département Validation sur les différents projets ;\nConcevez et mettez en œuvre la meilleure stratégie de Validation ;\nCoordonnez la planification du projet avec toutes les parties prenantes (production / AQ / maintenance) ;\nParticipez à l’évaluation des risques à travers la rédaction d’un « Risk assessment » ;\nContribuez à la définition et à la rédaction des Functional Specifications (FS) et Design Specifications (DS) ;\nRédigez les protocoles, coordonnez et assurez le bon déroulement des tests (URS / FAT / SAT / IQ / OQ / PQ) ;\nAnalysez et interprétez les résultats pour rédiger les rapports qui en découlent ;\nDéveloppez des formations et coachez les opérateurs sur le terrain ;\nAssurez la gestion des déviations liées aux runs de validation ainsi que la mise en place des CAPA associées.",
+   "mission": "",
+   "profile": "Vous êtes :\n\nCurieux(se) d’en apprendre plus sur les équipements de production et/ou procédés de fabrication ;\nOrganisé(e) et rigoureux(se) dans la rédaction de vos documents BPF (GMP) ;\nCommunicatif(ve) et appréciez les interactions avec les différents départements tels que : la Production / l’Assurance Qualité / la Maintenance. \n\nVous avez :\n\nUn diplôme en Ingénierie, un Master en Bio-Ingénierie, Pharmacie Industrielle ou domaines connexes ;\nUne expérience en qualification et validation dans un environnement BPF (GMP) ;\nUne connaissance des processus de production dans l’industrie pharmaceutique ;\nLa capacité à travailler en anglais en plus du français.",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-07T08:11:27Z",
+   "sector": "",
+   "specialization": "[\"63\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-07T08:11:27Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-07T00:00:00",
+    "endBroadcastDate": "2026-11-06T00:00:00"
+   },
+   "summary": "En tant que consultant en Qualification et Validation, vos compétences permettront de supporter les projets de nos partenaires dont les activités sont établies dans la production de médicaments ou de produits en lien avec le domaine de la santé.\n\nVous occuperez un rôle central dans la coordination et l’exécution du cycle de validation dans le but de finaliser les projets avec succès et dans les délais impartis. Pour ce faire, vous :\n\nReprésentez le département Validation sur les différents projets ;\nConcevez et mettez en œuvre la meilleure stratégie de Validation ;\nCoordonnez la planification du projet avec toutes les parties prenantes (production / AQ / maintenance) ;\nParticipez à l’évaluation des risques à travers la rédaction d’un « Risk assessment » ;\nContribuez à la définition et à la rédaction des Functional Specifications (FS) et Design Specifications (DS) ;\nRédigez les protocoles, coordonnez et assurez le bon déroulement des tests (URS / FAT / SAT / IQ / OQ / PQ) ;\nAnalysez et interprétez les résultats pour rédiger les rapports qui en découlent ; […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/246768",
+   "score": 35,
+   "label": "À examiner",
+   "first_seen": "2026-10-07T17:25:48+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 12,
+    "qual": 47,
+    "calc": 0
+   },
+   "dominant_axis": "qual",
+   "matched_families": [
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Conception mécanique (264-1), Outils et moyens de fabrication (259-1)",
+     "weight": 7,
+     "terms": [
+      "fabrication",
+      "ingenierie"
+     ]
+    },
+    {
+     "id": "qual2",
+     "axis": "qual",
+     "source": "Qualité et normes (774-1)",
+     "weight": 10,
+     "terms": [
+      "assurance qualite",
+      "qualite"
+     ]
+    },
+    {
+     "id": "qual4",
+     "axis": "qual",
+     "source": "Introduction aux techniques expérimentales (267-1)",
+     "weight": 7,
+     "terms": [
+      "qualification",
+      "validation"
+     ]
+    }
+   ],
+   "bonuses": [
     {
      "label": "Niveau bac+5 / ingénieur annoncé",
      "terms": [],
@@ -23626,7 +23768,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-12T13:45:29Z",
    "sector": "",
-   "specialization": "29",
+   "specialization": "[\"29\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -23698,7 +23840,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-08T08:03:39Z",
    "sector": "",
-   "specialization": "65, 73, 77, 107, 206, 207, 224, 264",
+   "specialization": "[\"65\",\"73\",\"77\",\"107\",\"206\",\"207\",\"224\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -23839,7 +23981,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-18T09:34:18Z",
    "sector": "",
-   "specialization": "207",
+   "specialization": "[\"207\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -24786,15 +24928,15 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T15:09:33Z",
    "sector": "",
-   "specialization": "60",
+   "specialization": "[\"60\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-09-24T15:09:33Z",
     "missionStartDate": "2026-12-01T00:00:00",
     "missionEndDate": "2028-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-24T00:00:00",
-    "endBroadcastDate": "2026-10-22T00:00:00"
+    "startBroadcastDate": "2026-10-07T00:00:00",
+    "endBroadcastDate": "2026-11-04T00:00:00"
    },
    "summary": "🌍 À propos de l’opportunité\n\nDans le cadre du développement de nos activités dans les secteurs aérospatial, automobile, défense et ferroviaire, nous recherchons un(e) Project Manager pour piloter des projets industriels complexes et assurer leur bonne réalisation.\n\nVous interviendrez à l’interface entre les équipes techniques, les clients et les différentes parties prenantes, avec pour objectif de garantir le respect des exigences en matière de qualité, coûts et délais.\n\n🎯 Vos missions\n\nEn tant que Project Manager, vos principales responsabilités seront :\n\nDéfinir, mettre à jour et suivre les plannings projets.\nOrganiser et animer les réunions et comités de pilotage.\nAssurer le suivi des plans d’actions et de l’avancement des projets.\nCoordonner les différentes équipes et parties prenantes impliquées.\nParticiper aux revues qualité.\nMettre en place et suivre les procédures liées aux projets.\nParticiper au déploiement des exigences techniques et de sécurité.\nIdentifier et suivre les risques projets.\nGarantir le respect des objectifs en termes de coûts, qualité et délais. […]",
    "url": "https://mon-vie-via.businessfrance.fr/offres/246370",
@@ -24842,6 +24984,104 @@
      "label": "Niveau bac+5 / ingénieur annoncé",
      "terms": [],
      "points": 4
+    }
+   ]
+  },
+  {
+   "id": "245944",
+   "title": "Gestionnaire Financier Groupe (H/F)",
+   "company": "ALPINEO CONSULTING LYON",
+   "country": "SUISSE",
+   "city": "VERNIER",
+   "description": "Alpineo Consulting est un groupe de conseil IT indépendant d’environ 150 collaborateurs, présent en France (Lyon, Paris), en Suisse (Genève), en Belgique, au Luxembourg, au Portugal et prochainement en Espagne.\r\n\r\nNos consultants accompagnent nos clients sur leurs projets IT les plus stratégiques. En pleine croissance, le groupe structure ses fonctions support et renforce aujourd’hui son équipe RH & Finance Groupe, basée à Genève.\r\n\r\nLe poste\r\n\r\nVous êtes au cœur du pilotage financier du groupe et êtes le garant de la fiabilité, de la qualité et de la disponibilité des données financières.\r\n\r\nVotre rôle couvre l’ensemble des cycles financiers : facturation, encaissements, clôtures, trésorerie, reporting et forecast. Vous produisez les analyses permettant à la direction et aux Business Managers de disposer d’une vision claire de la performance et de prendre leurs décisions sur la base de données fiables.\r\n\r\nIl s’agit d’un poste très opérationnel et autonome, avec une forte dimension de construction. Vous aurez pour mission de structurer les processus financiers du groupe, d’harmoniser les pratiques entre les différents pays et de mettre en place des outils et automatisations permettant de gagner en fiabilité et en efficacité.\r\n\r\nVous travaillez en lien étroit avec la Direction, les Business Managers, les équipes RH et les cabinets comptables externes des différents pays.\r\n\r\nMission 1 — Facturation & encaissement — 30 %\r\n\r\nVous devez veiller au bon fonctionnement du cycle de facturation et du suivi des encaissements.\r\n\r\n- Piloter le cycle de facturation, de la validation des temps prestés jusqu’à l’encaissement.\r\n- Construire et maintenir un calendrier mensuel de facturation par client, entité et pays.\r\n- Contrôler les temps saisis, bons de commande, tarifs et conditions contractuelles avant émission des factures.\r\n- Émettre, déposer et suivre les factures sur les portails clients.\r\n- Identifier et résoudre rapidement les factures rejetées, bloquées ou contestées.\r\n- Organiser et suivre les relances clients jusqu’à l’encaissement.\r\n- Suivre la balance âgée, le DSO et les prestations non facturées.\r\n- Identifier les risques d’impayés ou de retard et les communiquer rapidement à la Direction et aux Business Managers concernés.\r\n- Mettre en place des indicateurs permettant de suivre la qualité et la performance du cycle de facturation.\r\n\r\nObjectif : sécuriser et fluidifier le cycle de facturation et réduire durablement les délais entre prestation, facturation et encaissement.\r\n\r\nMission 2 — Contrôle de gestion & FP&A — 25 %\r\n\r\nVous produisez les analyses financières nécessaires au pilotage de l’activité du groupe.\r\n\r\n- Produire le reporting financier mensuel du groupe et de ses différentes entités.\r\n- Construire et analyser les P&L par entité, Business Manager, client et mission.\r\n- Suivre les principaux indicateurs économiques de l’activité de conseil :\r\nTJM \r\ntaux d’activité \r\nintercontrat \r\nmarge par consultant \r\nrevenu par ETP \r\nbacklog \r\nDSO\r\n- Identifier les écarts entre réalisé, budget et forecast et en analyser les causes.\r\n- Préparer les budgets et forecasts.\r\n- Réaliser des analyses de scénarios et de sensibilité.\r\n- Transformer les données financières en analyses et recommandations concrètes pour la Direction.\r\n- Construire avec l’équipe RH des indicateurs communs : effectifs, masse salariale, coûts chargés, revenu et rentabilité par ETP.\r\n- Fiabiliser progressivement les données et les méthodes de reporting entre les différents pays.\r\n\r\nObjectif : fournir chaque mois une vision financière claire, fiable et exploitable de la performance du groupe.\r\n\r\nMission 3 — Comptabilité, clôtures & trésorerie — 20 %\r\n\r\nVous assurez le suivi et la coordination opérationnelle des principaux cycles comptables et de trésorerie.\r\n\r\n- Construire et maintenir un prévisionnel de trésorerie glissant pour l’ensemble des entités.\r\n- Suivre les encaissements et décaissements prévisionnels.\r\n- Contrôler les factures fournisseurs et préparer les campagnes de paiement.\r\n- Analyser les rapprochements bancaires et identifier les éventuelles anomalies.\r\n- Préparer et suivre les provisions, factures à établir et autres écritures nécessaires aux clôtures.\r\n- Contrôler les opérations intercompagnies et assurer leur cohérence entre les entités.\r\n- Préparer et suivre les clôtures mensuelles et annuelles selon un calendrier groupe.\r\n- Centraliser les éléments nécessaires aux clôtures avec les cabinets comptables externes.\r\n- Suivre les délais et la qualité des travaux comptables réalisés par les partenaires externes.\r\n- Préparer les fichiers nécessaires aux virements de paie des différents pays et effectuer les virements mensuels dans le respect des échéances.\r\n\r\nObjectif : garantir des clôtures fiables et ponctuelles ainsi qu’une visibilité régulière sur la situation de trésorerie du groupe.\r\n\r\nMission 4 — Coordination financière — 15 %\r\n\r\nVous êtes le point de référence opérationnel sur les cycles financiers du groupe.\r\n\r\n- Faire appliquer les calendriers de facturation et de clôture auprès des différents interlocuteurs.\r\n- Collecter et contrôler les informations nécessaires à la production des reportings.\r\n- Suivre les actions nécessaires à la résolution des écarts ou anomalies identifiés.\r\n- Communiquer de manière claire, synthétique et proactive avec la Direction.\r\n- Accompagner les Business Managers dans la compréhension des données financières liées à leur activité.\r\n-Formaliser les processus, règles de gestion et responsabilités de chaque étape des cycles financiers.\r\n- Garantir une information financière homogène entre les différentes entités du groupe.\r\n\r\nObjectif : assurer une circulation fluide et fiable de l’information financière entre les équipes opérationnelles, les fonctions support et la Direction.\r\n\r\nAxe transverse — Transformation, automatisation & IA — 10 %\r\n\r\nDans un contexte de structuration et de croissance, vous êtes force de proposition pour améliorer les processus financiers.\r\n\r\n- Cartographier les principaux processus financiers du groupe.\r\n- Identifier les tâches manuelles, les doublons et les principaux risques d’erreur.\r\n- Proposer et mettre en place des automatisations simples et à forte valeur ajoutée.\r\n- Automatiser progressivement certains contrôles, reportings, rapprochements et processus de relance.\r\n- Identifier des cas d’usage pertinents de l’IA pour améliorer la productivité et la fiabilité de la fonction Finance.\r\n- Tester et déployer les solutions pertinentes.\r\n- Mesurer les gains obtenus : temps gagné, réduction des erreurs, amélioration des délais.\r\n- Documenter les procédures, règles de validation et modes opératoires.\r\n\r\nObjectif : rendre les processus financiers plus fiables, plus simples et moins dépendants des tâches manuelles.\r\n\r\nVos 6 premiers mois\r\n\r\nLes priorités des six premiers mois seront concrètes et mesurables :\r\n\r\n1. Sécuriser les cycles financiers\r\n2. Améliorer la qualité de la facturation\r\n3. Fiabiliser le pilotage financier\r\nMise en place d’un reporting récurrent des principaux KPI du groupe.\r\n4. Structurer le forecast\r\n5. Automatiser\r\n\r\nCe que nous recherchons\r\nFormation supérieure en finance, comptabilité, contrôle de gestion ou équivalent.\r\nExpérience de 3 à 5 ans environ sur un poste en finance d’entreprise, contrôle de gestion, FP&A, comptabilité",
+   "mission": "",
+   "profile": "Bac +5 en finance, audit ou contrôle de gestion : Master CCA, DSCG, école de commerce avec spécialisation finance \r\n4 à 6 ans d’expérience au total, dont 2 à 3 ans post-diplôme très opérationnels en contrôle de gestion, FP&A ou finance opérationnelle, ou un parcours audit suivi d’une fonction interne \r\nUne expérience en ESN, cabinet de conseil, audit ou société de services B2B est un atout majeur : vous comprenez le cycle temps prestés, facturation, encaissement \r\nPremière expérience réussie d’encadrement (alternant, stagiaire, junior) ou de pilotage de prestataires \r\nExcel avancé (Power Query), Power BI ou équivalent, pratique d’un ERP et d’un outil de facturation ou CRM/PSA \r\nAnglais professionnel courant (C1) : réunions, relances et reporting ; le français est indispensable",
+   "duration": 6,
+   "start_date": "2026-12-01T00:00:00",
+   "end_date": "2027-06-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-09-14T17:38:32Z",
+   "sector": "",
+   "specialization": "[\"259\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-09-14T17:38:32Z",
+    "missionStartDate": "2026-12-01T00:00:00",
+    "missionEndDate": "2027-06-01T00:00:00",
+    "startBroadcastDate": "2026-10-07T00:00:00",
+    "endBroadcastDate": "2026-11-06T00:00:00"
+   },
+   "summary": "Alpineo Consulting est un groupe de conseil IT indépendant d’environ 150 collaborateurs, présent en France (Lyon, Paris), en Suisse (Genève), en Belgique, au Luxembourg, au Portugal et prochainement en Espagne.\r\n\r\nNos consultants accompagnent nos clients sur leurs projets IT les plus stratégiques. En pleine croissance, le groupe structure ses fonctions support et renforce aujourd’hui son équipe RH & Finance Groupe, basée à Genève.\r\n\r\nLe poste\r\n\r\nVous êtes au cœur du pilotage financier du groupe et êtes le garant de la fiabilité, de la qualité et de la disponibilité des données financières.\r\n\r\nVotre rôle couvre l’ensemble des cycles financiers : facturation, encaissements, clôtures, trésorerie, reporting et forecast. Vous produisez les analyses permettant à la direction et aux Business Managers de disposer d’une vision claire de la performance et de prendre leurs décisions sur la base de données fiables.\r\n\r\nIl s’agit d’un poste très opérationnel et autonome, avec une forte dimension de construction. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/245944",
+   "score": 30,
+   "label": "Périphérique",
+   "first_seen": "2026-10-07T17:25:48+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 29,
+    "qual": 47,
+    "calc": 17
+   },
+   "dominant_axis": "qual",
+   "matched_families": [
+    {
+     "id": "calc4",
+     "axis": "calc",
+     "source": "Outils et méthodes de calcul numérique (258-1), Initiation Excel et macros (266-1), Asservissement (840-1)",
+     "weight": 5,
+     "terms": [
+      "automatisation"
+     ]
+    },
+    {
+     "id": "prod4",
+     "axis": "prod",
+     "source": "Outils de production (269-1), Tenue mécanique des outillages (284-3, 292-1)",
+     "weight": 10,
+     "terms": [
+      "methodes"
+     ]
+    },
+    {
+     "id": "prod5",
+     "axis": "prod",
+     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
+     "weight": 7,
+     "terms": [
+      "productivite"
+     ]
+    },
+    {
+     "id": "qual2",
+     "axis": "qual",
+     "source": "Qualité et normes (774-1)",
+     "weight": 10,
+     "terms": [
+      "audit",
+      "qualite"
+     ]
+    },
+    {
+     "id": "qual4",
+     "axis": "qual",
+     "source": "Introduction aux techniques expérimentales (267-1)",
+     "weight": 7,
+     "terms": [
+      "validation"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    },
+    {
+     "label": "Aucun terme industriel : score plafonné",
+     "terms": [],
+     "points": -11
     }
    ]
   },
@@ -24928,6 +25168,107 @@
      "label": "Aucun terme industriel : score plafonné",
      "terms": [],
      "points": -7
+    }
+   ]
+  },
+  {
+   "id": "246769",
+   "title": "Buyer Installation Subcontractor (H/F)",
+   "company": "ALSTOM TRANSPORT SA",
+   "country": "THAILANDE",
+   "city": "BANGKOK",
+   "description": "Purpose of the Job\nManage the end-to-end procurement of D&IS subcontracted works and services, from demand clarification and market sourcing through RFQ, negotiation, contract award, execution, claims, and close-out.\nThe role ensures that subcontractors with the right capability, capacity, competitiveness, and local presence are selected and managed to achieve project Quality, Cost, Delivery, Performance, and EHS objectives.\nScope\nThe role may cover installation, construction, testing support, site services, specialist manpower, local engineering, repair or modification, and other project-specific subcontracted work packages across East Asia.\nThe buyer may support multiple projects, countries, and D&IS technical scopes, with priorities assigned by the Hub Procurement Manager.\n\nKey Responsibilities\nSourcing and Supplier Selection\nEngage early with project stakeholders to understand requirements, budget, schedule, interfaces, and risks.\nChallenge and clarify the Scope of Work, BOQ, Share of Responsibility, specifications, schedule, manpower assumptions, and acceptance criteria before RFQ launch.\nIdentify, qualify, and develop competitive local and regional subcontractors.\nPrepare and issue complete RFQ packages.\nCoordinate technical, EHS, quality, commercial, contractual, and financial evaluations.\nLead commercial analysis, negotiations, supplier selection, and Business Award approval.\nMaintain a transparent and auditable sourcing process.\n \nCommercial and Contract Management\nNegotiate the total commercial package, including price, productivity, payment terms, mobilisation, warranty, bonds, insurance, liability, variation mechanisms, and performance remedies.\nPrepare, negotiate, and finalise contracts, purchase contracts, amendments, and other contractual documents with Legal support.\nEnsure all commitments comply with applicable Delegation of Authority, Power of Attorney, and procurement-system requirements.\nSecure clear contractual protection for scope, quantity, access, schedule, delay, performance, EHS, quality, and change risks.\n \nContract Execution and Supplier Performance\nOwn procurement-side contract execution from award through final close-out.\nComplete a structured handover of contractual obligations, assumptions, risks, and open points to the project team.\nMonitor subcontractor mobilisation, progress, productivity, milestones, payment conditions, EHS, quality, NCRs, and commercial exposure.\nLead recovery actions for underperforming subcontractors and prepare alternative sourcing or contractual remedies when required.\nConduct supplier performance reviews based on project criticality, supplier maturity, and risk.\nEscalate issues early with facts, quantified impact, options, and a recommended solution.\n \nVariations, Claims, and Reporting\nMaintain disciplined variation and claims management for assigned packages.\nChallenge unsupported supplier requests and negotiate approved changes.\nLead procurement-owned supplier claims and support key claims with Project Procurement, Legal, and Contract Management.\nMaintain accurate records of savings, risks, claims, supplier performance, and procurement milestones.\nContribute to subcontractor commodity strategy, market intelligence, supplier-panel development, and lessons learned.",
+   "mission": "",
+   "profile": "Qualifications and Experience\nBachelor’s degree in Engineering, Procurement, Supply Chain, Commercial Management, Construction Management, Business, or a related discipline.\nRelevant experience in project procurement, subcontracting, construction purchasing, or contract administration.\nDemonstrated capability in RFQ management, commercial evaluation, negotiation, contracting, and supplier performance management.\nAbility to understand and challenge BOQs, scopes, schedules, responsibility matrices, and technical-commercial interfaces.\nKnowledge of Source-to-Contract, Procure-to-Pay, contract variations, claims, and approval governance.\nProficiency in Excel and procurement or ERP systems. SAP and Ariba experience is preferred.\nExperience in railway, infrastructure, signalling, electrical, telecom, or installation projects is an advantage.\nProfessional working proficiency in English. Additional East Asian language capability is an advantage.\n \nKey Competencies\nCommercial and contractual judgement\nAnalytical and negotiation capability\nConstructive challenge and problem solving\nAbility to manage multiple priorities across countries and projects\nCross-cultural communication and collaboration\n\nAlstom is the leading company in the mobility sector, solving the most interesting challenges for tomorrow’s mobility. That’s why we value inquisitive and innovative people who are passionate about working together to reinvent mobility, making it smarter and more sustainable. Day after day, we are building an agile, inclusive and responsible culture, where a diverse group of people are offered opportunities to learn, grow and advance in their careers, with options across functions and geographic locations. Are you ready to join a truly international community of great people on a challenging journey with a tangible impact and purpose?",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-07T08:26:28Z",
+   "sector": "",
+   "specialization": "[\"2\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-07T08:26:28Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-07T00:00:00",
+    "endBroadcastDate": "2026-10-17T00:00:00"
+   },
+   "summary": "Purpose of the Job\nManage the end-to-end procurement of D&IS subcontracted works and services, from demand clarification and market sourcing through RFQ, negotiation, contract award, execution, claims, and close-out.\nThe role ensures that subcontractors with the right capability, capacity, competitiveness, and local presence are selected and managed to achieve project Quality, Cost, Delivery, Performance, and EHS objectives.\nScope\nThe role may cover installation, construction, testing support, site services, specialist manpower, local engineering, repair or modification, and other project-specific subcontracted work packages across East Asia.\nThe buyer may support multiple projects, countries, and D&IS technical scopes, with priorities assigned by the Hub Procurement Manager.\n\nKey Responsibilities\nSourcing and Supplier Selection\nEngage early with project stakeholders to understand requirements, budget, schedule, interfaces, and risks. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/246769",
+   "score": 30,
+   "label": "Périphérique",
+   "first_seen": "2026-10-07T17:25:48+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 24,
+    "qual": 69,
+    "calc": 0
+   },
+   "dominant_axis": "qual",
+   "matched_families": [
+    {
+     "id": "prod5",
+     "axis": "prod",
+     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
+     "weight": 7,
+     "terms": [
+      "productivity"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Conception mécanique (264-1), Outils et moyens de fabrication (259-1)",
+     "weight": 7,
+     "terms": [
+      "engineering"
+     ]
+    },
+    {
+     "id": "qual2",
+     "axis": "qual",
+     "source": "Qualité et normes (774-1)",
+     "weight": 10,
+     "terms": [
+      "quality"
+     ]
+    },
+    {
+     "id": "qual3",
+     "axis": "qual",
+     "source": "Plans d'expériences (283-1), Outils logiciels mathématiques et statistiques (289-1)",
+     "weight": 8,
+     "terms": [
+      "capability"
+     ]
+    },
+    {
+     "id": "qual4",
+     "axis": "qual",
+     "source": "Introduction aux techniques expérimentales (267-1)",
+     "weight": 7,
+     "terms": [
+      "testing"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "railway"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Intitulé hors formation",
+     "terms": [
+      "buyer"
+     ],
+     "points": -22
     }
    ]
   },
@@ -25155,7 +25496,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-17T16:10:50Z",
    "sector": "",
-   "specialization": "29, 248, 328, 330",
+   "specialization": "[\"29\",\"248\",\"328\",\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25309,7 +25650,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-07T14:48:03Z",
    "sector": "",
-   "specialization": "219",
+   "specialization": "[\"219\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27049,7 +27390,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-17T09:25:07Z",
    "sector": "",
-   "specialization": "180, 259, 318, 320",
+   "specialization": "[\"180\",\"259\",\"318\",\"320\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27519,7 +27860,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-24T16:04:18Z",
    "sector": "",
-   "specialization": "73",
+   "specialization": "[\"73\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27809,7 +28150,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T09:48:23Z",
    "sector": "",
-   "specialization": "8",
+   "specialization": "[\"8\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -28654,7 +28995,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-24T07:55:08Z",
    "sector": "",
-   "specialization": "86, 123, 125, 150, 206, 208, 209, 264",
+   "specialization": "[\"86\",\"123\",\"125\",\"150\",\"206\",\"208\",\"209\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -28742,7 +29083,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-24T07:52:59Z",
    "sector": "",
-   "specialization": "86, 208",
+   "specialization": "[\"86\",\"208\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29087,7 +29428,7 @@
    "expiry_date": "",
    "publish_date": "2025-09-30T14:46:47Z",
    "sector": "",
-   "specialization": "62, 71, 77, 161",
+   "specialization": "[\"62\",\"71\",\"77\",\"161\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29990,7 +30331,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-30T08:26:59Z",
    "sector": "",
-   "specialization": "86, 113, 125, 149, 169",
+   "specialization": "[\"86\",\"113\",\"125\",\"149\",\"169\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31242,7 +31583,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-21T14:44:45Z",
    "sector": "",
-   "specialization": "2, 29, 35, 60, 62, 63, 64, 65, 66, 68, 69, 70, 71, 72, 73, 77, 86, 109, 114, 125, 133, 134, 135, 138, 139, 142, 143, 144, 145, 149, 150, 153, 155, 159, 160, 197, 206, 207, 208, 209, 224, 244, 347, 348",
+   "specialization": "[\"2\",\"29\",\"35\",\"60\",\"62\",\"63\",\"64\",\"65\",\"66\",\"68\",\"69\",\"70\",\"71\",\"72\",\"73\",\"77\",\"86\",\"109\",\"114\",\"125\",\"133\",\"134\",\"135\",\"138\",\"139\",\"142\",\"143\",\"144\",\"145\",\"149\",\"150\",\"153\",\"155\",\"159\",\"160\",\"197\",\"206\",\"207\",\"208\",\"209\",\"224\",\"244\",\"347\",\"348\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33087,7 +33428,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-29T12:47:52Z",
    "sector": "",
-   "specialization": "6, 7",
+   "specialization": "[\"6\",\"7\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33244,7 +33585,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-07T12:43:00Z",
    "sector": "",
-   "specialization": "195",
+   "specialization": "[\"195\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33782,7 +34123,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-09T13:44:09Z",
    "sector": "",
-   "specialization": "35, 144, 245, 246, 248, 249, 251",
+   "specialization": "[\"35\",\"144\",\"245\",\"246\",\"248\",\"249\",\"251\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35152,7 +35493,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T16:05:20Z",
    "sector": "",
-   "specialization": "68, 77, 109, 130, 149, 169",
+   "specialization": "[\"68\",\"77\",\"109\",\"130\",\"149\",\"169\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -36417,92 +36758,6 @@
      "label": "Aucun terme industriel : score plafonné",
      "terms": [],
      "points": -11
-    }
-   ]
-  },
-  {
-   "id": "246117",
-   "title": "Chef de projet - Electricity Planning (H/F)",
-   "company": "SELECTRA",
-   "country": "ESPAGNE",
-   "city": "MADRID",
-   "description": "Nous recherchons un Chef de projet - Electricity Planning pour rejoindre notre équipe ! \r\n\r\nDescription du poste\r\nContexte\r\nVous rejoignez l'équipe qui développe un outil capable de décider, à chaque instant, s'il faut consommer, stocker ou réinjecter l'électricité d'un foyer ou d'une PME, n'importe où dans le monde.\r\nVotre mission ? Concevoir et faire vivre l'API qui orchestre ces arbitrages en fonction des prix à la prise, partout dans le monde.\r\nNous recherchons un ingénieur, autonome, qui aime construire des systèmes propres et performants, et qui a envie de contribuer concrètement à la transition énergétique.\r\nMissions du poste\r\nSelectra recrute un ingénieur pour porter techniquement son projet Electricity Planning : une API d'arbitrage énergétique temps réel destinée aux particuliers et aux PME du monde entier.\r\nConception et architecture\r\nVous concevez l'architecture de l'API : modélisation des contrats énergétiques, des actifs pilotables (batteries, VE, PV, ballons d'eau chaude) et des stratégies d'arbitrage.\r\nVous arbitrez vous-même les choix techniques structurants : base relationnelle ou time-series, file d'attente, caching, déploiement.\r\n\r\nDéveloppement\r\nVous écrivez et maintenez le code Laravel qui calcule les arbitrages et expose l'API aux clients internes et partenaires intégrateurs.\r\nVous intégrez des sources de prix hétérogènes : prix spot, tarifs réglementés, tarifs dynamiques, contrats sur-mesure, dans des dizaines de pays.\r\n\r\nPerformance et fiabilité\r\nVous optimisez les temps de calcul et la scalabilité de l'API (Octane, Horizon, queues, parallélisation).\r\nVous mettez en place les tests, le monitoring et l'observabilité qui garantissent la qualité en production.\r\n\r\nÉvolution du produit\r\nVous documentez l'API et ses concepts métier pour les équipes internes et les intégrateurs.\r\nVous travaillez main dans la main avec l'équipe chargée de la saisie des données de prix, et avec les équipes produit qui définissent les nouveaux cas d'usage.",
-   "mission": "",
-   "profile": "Vous êtes diplômé d’un établissement d’enseignement supérieur reconnu - grande école d’ingénieur, éventuellement avec une formation complémentaire reconnue pour son excellence et orientée business -  et vous vous reconnaissez dans le profil suivant :\n\nVous avez 1 à 3 ans d'expérience d’ingénieur. L’énergie et la programmation sont vos hobbies. Vous connaissez Home Assistant.\nVous savez modéliser un domaine métier proprement. Si on vous demande de représenter un contrat d'électricité avec heures pleines/creuses, tarifs saisonniers et jours d’effacement, vous savez par où commencer.\nVous êtes curieux du secteur de l'énergie. Vous savez pourquoi le prix spot peut devenir négatif et ce qu'est une batterie domestique ou un onduleur.\nVous êtes autonome. Personne ne viendra vérifier ce que vous faites chaque jour : vous savez vous organiser, prioriser, et communiquer à l'écrit clairement, en français et en anglais.",
-   "duration": 12,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-18T09:30:19Z",
-   "sector": "",
-   "specialization": "330",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-18T09:30:19Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-09-18T00:00:00",
-    "endBroadcastDate": "2026-10-18T00:00:00"
-   },
-   "summary": "Nous recherchons un Chef de projet - Electricity Planning pour rejoindre notre équipe ! \r\n\r\nDescription du poste\r\nContexte\r\nVous rejoignez l'équipe qui développe un outil capable de décider, à chaque instant, s'il faut consommer, stocker ou réinjecter l'électricité d'un foyer ou d'une PME, n'importe où dans le monde.\r\nVotre mission ? Concevoir et faire vivre l'API qui orchestre ces arbitrages en fonction des prix à la prise, partout dans le monde.\r\nNous recherchons un ingénieur, autonome, qui aime construire des systèmes propres et performants, et qui a envie de contribuer concrètement à la transition énergétique.\r\nMissions du poste\r\nSelectra recrute un ingénieur pour porter techniquement son projet Electricity Planning : une API d'arbitrage énergétique temps réel destinée aux particuliers et aux PME du monde entier.\r\nConception et architecture\r\nVous concevez l'architecture de l'API : modélisation des contrats énergétiques, des actifs pilotables (batteries, VE, PV, ballons d'eau chaude) et des stratégies d'arbitrage. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246117",
-   "score": 30,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 13,
-    "prod": 0,
-    "qual": 28,
-    "calc": 30
-   },
-   "dominant_axis": "calc",
-   "matched_families": [
-    {
-     "id": "calc1",
-     "axis": "calc",
-     "source": "Introduction à la méthode des éléments finis (256-1), TP Simulation numérique (272-1, 285-x)",
-     "weight": 9,
-     "terms": [
-      "modelisation"
-     ]
-    },
-    {
-     "id": "qual2",
-     "axis": "qual",
-     "source": "Qualité et normes (774-1)",
-     "weight": 10,
-     "terms": [
-      "qualite"
-     ]
-    },
-    {
-     "id": "rd6",
-     "axis": "rd",
-     "source": "Comportement mécanique des matériaux non conventionnels (298-2), Projet de recherche (261-1)",
-     "weight": 8,
-     "terms": [
-      "batterie"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "energie"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Aucun terme industriel : score plafonné",
-     "terms": [],
-     "points": -5
     }
    ]
   },
@@ -38048,85 +38303,6 @@
    ]
   },
   {
-   "id": "246589",
-   "title": "INGENIEUR PROJET (H/F)",
-   "company": "TELCO OI",
-   "country": "MADAGASCAR",
-   "city": "ANTANANARIVO",
-   "description": "PRESENTATION DE LA SOCIETE : \r\nAXIAN Properties, acteur du Groupe AXIAN, développe et valorise des projets immobiliers répondant aux besoins des entreprises, des professionnels et des particuliers. À travers une approche fondée sur la qualité, la proximité et la valorisation durable des actifs immobiliers, AXIAN Properties contribue au développement d’un environnement immobilier moderne et adapté aux nouveaux usages.\r\n\r\nFIRST IMMO, filiale spécialisée dans les services immobiliers, accompagne ses clients dans leurs projets de location, vente, gestion et valorisation de biens immobiliers. Grâce à son expertise du marché local et à son accompagnement personnalisé, FIRST IMMO propose des solutions adaptées aux différents besoins résidentiels et professionnels.\r\n\r\nEnsemble, AXIAN Properties et FIRST IMMO s’appuient sur leur expertise, leur connaissance du marché et leur engagement en matière de qualité de service pour proposer des opportunités immobilières attractives, dans des emplacements stratégiques et avec des prestations adaptées aux attentes de leurs clients.\r\nFIRST IMMO est à la recherche de son futur Ingénieur Projet.\r\n\r\nMISSIONS PRINCIPALES :\r\n\r\nL’ingénieur projet effectue le programme, le planning, les prévisions, gérerez les ressources ainsi que toutes les activités techniques en vue de garantir l’exactitude et la qualité du projet, de sa conception jusqu’à sa mise en œuvre.\r\n\r\n1. Superviser toutes les étapes d’un projet du début jusqu’au produit livrable.\r\n– Préparer, programmer, coordonner et contrôler les projets d’ingénierie assignés\r\n– Contrôler le respect des codes, pratiques, politiques assurance qualité/ contrôle qualité, les normes de performances et les spécifications applicables\r\n2. Répondre à tous les besoins de l’aspect technique, financier et relationnel, liés au projet en cours.\r\n– Coopérer et communiquer efficacement avec le responsable de projet et les autres participants du projet pour fournir une assistance et un soutien technique\r\n– Effectuer le contrôle qualité global du travail (budget, calendrier, plans, performances du personnel) et rédiger régulièrement des rapports sur l’avancement du projet\r\n– Interagir au quotidien avec les clients pour interpréter leurs besoins et exigences et les représenter sur le terrain\r\n3. Assurer la gestion de la logistique et la coordination des équipes.\r\n– L'élaboration des plannings projet dans toutes les phases\r\n– Confier des responsabilités et conseiller l’équipe de projet\r\n4. Prendre en charge la gestion du planning de travail.\r\n– L'organisation et l'animation de réunions de coordination entre les différents acteurs\r\n– L'organisation de la circulation de l'information (CR de réunions, reporting,…)\r\n5. Mettre en place des actions préventives en cas d’imprévu\r\n– Revoir les documents techniques et lancer les mesures correctives correspondantes\r\n– Gestion de contretemps\r\n6. Veiller au respect des contraintes budgétaires et techniques liés à chaque projet\r\n– La mise en place d'indicateurs de suivi : avancement physique, jalons clés…",
-   "mission": "",
-   "profile": "NIVEAU DE FORMATION :\n\n– Niveau Master 2/ Ingénieur en gestion de projet et/ou en bâtiment, génie civil\n\nNIVEAU D’EXPÉRIENCE :\n\n– Au moins 5 années d’expériences réussie dans le domaine du bâtiment\n\nEXIGENCES PARTICULIÈRES :\n– Pratique souhaitée de la langue anglaise\n– Expérience reconnue en tant qu’ingénieur de projet\n– Excellente connaissance des logiciels de conception et de visualisation tels qu’AutoCAD\n– Compétences avancées de MS Office\n– Bonne connaissance des règles, des réglementations, des bonnes pratiques et des normes relatives à la performance\n– Capacité à travailler avec des projets impliquant diverses disciplines\n– Compétence en gestion et supervision de projet\n– Capacité à prendre des décisions et aptitudes à diriger\n– Compétences en gestion de budget \n\nQUALITES EXIGES :\n– Organisé\n– Méthodique\n– Rigoureux\n– Sens de l’analyse\n– Leadership\n– Capacité d’adaptation\n– Personne de terrain\n– Sens de l’écoute\n– Diplomatie",
-   "duration": 24,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2029-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-01T08:32:09Z",
-   "sector": "",
-   "specialization": "[\"62\",\"109\"]",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-01T08:32:09Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2029-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-07T00:00:00",
-    "endBroadcastDate": "2026-10-09T00:00:00"
-   },
-   "summary": "PRESENTATION DE LA SOCIETE : \r\nAXIAN Properties, acteur du Groupe AXIAN, développe et valorise des projets immobiliers répondant aux besoins des entreprises, des professionnels et des particuliers. À travers une approche fondée sur la qualité, la proximité et la valorisation durable des actifs immobiliers, AXIAN Properties contribue au développement d’un environnement immobilier moderne et adapté aux nouveaux usages.\r\n\r\nFIRST IMMO, filiale spécialisée dans les services immobiliers, accompagne ses clients dans leurs projets de location, vente, gestion et valorisation de biens immobiliers. Grâce à son expertise du marché local et à son accompagnement personnalisé, FIRST IMMO propose des solutions adaptées aux différents besoins résidentiels et professionnels.\r\n\r\nEnsemble, AXIAN Properties et FIRST IMMO s’appuient sur leur expertise, leur connaissance du marché et leur engagement en matière de qualité de service pour proposer des opportunités immobilières attractives, dans des emplacements stratégiques et avec des prestations adaptées aux attentes de leurs clients. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246589",
-   "score": 30,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 12,
-    "qual": 28,
-    "calc": 0
-   },
-   "dominant_axis": "qual",
-   "matched_families": [
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Conception mécanique (264-1), Outils et moyens de fabrication (259-1)",
-     "weight": 7,
-     "terms": [
-      "ingenierie"
-     ]
-    },
-    {
-     "id": "qual2",
-     "axis": "qual",
-     "source": "Qualité et normes (774-1)",
-     "weight": 10,
-     "terms": [
-      "assurance qualite",
-      "normes",
-      "qualite"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Aucun terme industriel : score plafonné",
-     "terms": [],
-     "points": -8
-    }
-   ]
-  },
-  {
    "id": "246624",
    "title": "Ingénieur R&D recyclage des plastiques (H/F) – Belgique",
    "company": "TOTALENERGIES ONETECH",
@@ -38228,6 +38404,110 @@
      "label": "Aucun terme industriel : score plafonné",
      "terms": [],
      "points": -12
+    }
+   ]
+  },
+  {
+   "id": "246799",
+   "title": "Ingénieur Méthodes Logistiques (H/F) – Danemark",
+   "company": "TOTALENERGIES SE",
+   "country": "DANEMARK",
+   "city": "ESBJERG",
+   "description": "Rejoignez TotalEnergies EP Danmark, acteur de la production d'énergie en mer du Nord.\nAu sein de l'équipe Logistics & Support to Operations (LSO) basée à Esbjerg et rattaché au Head of Methods, vous contribuez à l'amélioration de la performance logistique de la filiale à travers l'analyse des données, l'optimisation des processus, le développement d'outils digitaux et la mise en œuvre de projets d'amélioration continue au service des opérations offshore.\n\nMerci de candidater en anglais.\nLe logement sera fourni par la filiale.\n\nVos principales missions :\n• Contribuer au suivi des activités quotidiennes de l’équipe.\n• Analyser les données logistiques et les indicateurs de performance.\n• Développer et maintenir des tableaux de bord de pilotage.\n• Participer à l’automatisation du reporting et à l’amélioration de la qualité des données.\n• Réaliser des analyses de coûts et d’efficacité opérationnelle.\n• Cartographier et optimiser les processus de la chaîne logistique.\n• Participer à l’amélioration des outils digitaux et des solutions SAP.\n• Contribuer au développement de projets de digitalisation sous SharePoint.\n• Accompagner le déploiement de nouveaux outils logistiques et analytiques.\n• Mettre à jour les procédures, modes opératoires et documentations métiers.",
+   "mission": "",
+   "profile": "Vous êtes à minima diplômé d’un Master ou d’un diplôme d’ingénieurs dans le domaine de la logistique / supply chain ou du génie industriel.\n\nVous avez une première expérience académique ou professionnelle en analyse de données (data analytics) et management d’indicateurs de performance (KPI).\n\nUne expérience dans le secteur pétrole et gaz constitue un plus.\n\nVous avez une maîtrise avancée d’Excel.\n\nVous avez une bonne connaissance de Power BI et une connaissance ou un intérêt pour SAP.\n\nDes notions en programmation constituent un atout.\n\nUn niveau d'anglais C1 minimum est requis. Un niveau de français B2 minimum est également demandé.",
+   "duration": 24,
+   "start_date": "2026-12-01T00:00:00",
+   "end_date": "2028-12-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-07T14:17:34Z",
+   "sector": "",
+   "specialization": "[\"149\",\"244\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-07T14:17:34Z",
+    "missionStartDate": "2026-12-01T00:00:00",
+    "missionEndDate": "2028-12-01T00:00:00",
+    "startBroadcastDate": "2026-10-07T00:00:00",
+    "endBroadcastDate": "2026-11-06T00:00:00"
+   },
+   "summary": "Rejoignez TotalEnergies EP Danmark, acteur de la production d'énergie en mer du Nord.\nAu sein de l'équipe Logistics & Support to Operations (LSO) basée à Esbjerg et rattaché au Head of Methods, vous contribuez à l'amélioration de la performance logistique de la filiale à travers l'analyse des données, l'optimisation des processus, le développement d'outils digitaux et la mise en œuvre de projets d'amélioration continue au service des opérations offshore.\n\nMerci de candidater en anglais.\nLe logement sera fourni par la filiale.\n\nVos principales missions :\n• Contribuer au suivi des activités quotidiennes de l’équipe.\n• Analyser les données logistiques et les indicateurs de performance.\n• Développer et maintenir des tableaux de bord de pilotage.\n• Participer à l’automatisation du reporting et à l’amélioration de la qualité des données.\n• Réaliser des analyses de coûts et d’efficacité opérationnelle.\n• Cartographier et optimiser les processus de la chaîne logistique.\n• Participer à l’amélioration des outils digitaux et des solutions SAP. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/246799",
+   "score": 30,
+   "label": "Périphérique",
+   "first_seen": "2026-10-07T17:25:48+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 29,
+    "qual": 28,
+    "calc": 17
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "calc4",
+     "axis": "calc",
+     "source": "Outils et méthodes de calcul numérique (258-1), Initiation Excel et macros (266-1), Asservissement (840-1)",
+     "weight": 5,
+     "terms": [
+      "automatisation"
+     ]
+    },
+    {
+     "id": "prod4",
+     "axis": "prod",
+     "source": "Outils de production (269-1), Tenue mécanique des outillages (284-3, 292-1)",
+     "weight": 10,
+     "terms": [
+      "methodes"
+     ]
+    },
+    {
+     "id": "prod5",
+     "axis": "prod",
+     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
+     "weight": 7,
+     "terms": [
+      "amelioration continue"
+     ]
+    },
+    {
+     "id": "qual2",
+     "axis": "qual",
+     "source": "Qualité et normes (774-1)",
+     "weight": 10,
+     "terms": [
+      "qualite"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "ingenieur",
+      "methodes"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "energie",
+      "industriel"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    },
+    {
+     "label": "Aucun terme industriel : score plafonné",
+     "terms": [],
+     "points": -19
     }
    ]
   },
@@ -38609,6 +38889,111 @@
    ]
   },
   {
+   "id": "246801",
+   "title": "VIE/PANGEO - Financial Controller (M/W) (H/F)",
+   "company": "VEOLIA ENERGIE PERFORMANCE",
+   "country": "SUISSE",
+   "city": "BALE",
+   "description": "As a global leader in environmental services, Veolia operates across all 5 continents with nearly 218,000 employees. An expert in water, energy, and waste management, the Group designs and implements innovative solutions for decarbonization, depollution and resource regeneration to support communities and industries in their ecological transformation.\n\nAmbitious graduates and young professionals: Ready to challenge yourself and accelerate your career growth?🚀🌍\nLaunch your international journey with a world leader in ecological transformation!\nThe VIE/PANGEO program offers you:\n• Highly sought-after international expertise\n• Innovative and sustainable projects\n• Multicultural teamwork\n• Worldwide networking\nYour passport to a thrilling career awaits. Join us and make a global impact!\n\nVeolia Industry Building - Switzerland AG is looking for a VIE/PANGEO - Financial Controller (M/W) in Basel, Switzerland.\n\n🎯 THE MISSION\nStep into a pivotal role that bridges local management and corporate leadership. As Financial Controller, you'll be at the heart of our financial operations, managing complex reporting cycles, optimizing financial processes, and leveraging modern digital tools to drive business insights. Work in a trilingual, international environment where your analytical skills and financial acumen will directly impact strategic decisions.\nYour mission:\n✅ Master financial reporting at dual levels—local management and corporate leadership\n✅ Drive digital transformation using Workday, PowerBI, and Google Workspace\n✅ Optimize financial processes through automation and data-driven insights\n✅ Support strategic planning with budgeting, forecasting, and ad-hoc business case analysis\n✅ Collaborate seamlessly with remote teams and operational stakeholders\n✅ Build financial excellence in a growing international organization\n\n💼 YOUR RESPONSIBILITIES\nMonthly Closings & Financial Reporting:\nActively participate in monthly, quarterly, and year-end closing cycles\nPerform detailed variance analyses (Actual vs. Budget / Forecast)\nPrepare, consolidate, and deliver financial reporting packs and management dashboards\nTailor reporting for both Local Management and Corporate Leadership\nInterface daily with remote Shared Service Centre on accounting tasks and reconciliations\nBudgeting, Forecasting & Strategic Planning:\nCo-build annual budgets and periodic reforecasts with operational heads\nMonitor key operational and financial KPIs\nSurface actionable insights and corrective measures for cost optimization\nSupport strategic regional investment decisions\nDigital Transformation & Financial Systems:\nLeverage and optimize Google Workspace (advanced Google Sheets modeling)\nMaster Workday ERP for core accounting and reporting\nDevelop dynamic dashboards using PowerBI\nContribute to digitizing financial processes and automating recurring reports\nUpgrade analytical models and reporting infrastructure\nAd-Hoc Analysis & Operational Controlling:\nConduct special financial studies and profitability reviews\nEvaluate business cases for strategic investments\nProvide financial insights to support operational decision-making\n\n👤 THE IDEAL PROFILE\nEducation:\nMaster's Degree from University, Business School, or Engineering School specializing in:\nFinance\nControlling\nAuditing\nManagement Accounting (e.g., CCA)\nExperience:\nAudit Background (Highly Valued): First professional experience in an external audit firm (Big 4 or tier-1 audit firm)\nControlling Experience: Previous internship or apprenticeship in financial controlling, corporate FP&A, or financial analysis\nKey Skills:\n💻 Financial Toolkit: Hands-on proficiency with Google Sheets and Microsoft Excel\n🔧 ERP & Analytics: Practical experience or strong familiarity with Workday (ERP) and PowerBI\n📊 Analytical Rigor: Strong financial analysis, data modeling, and reconciliation capabilities\n🎯 Autonomy & Agility: Proactive, self-driven professional thriving in a small, agile 2-person team\n🤝 Communication: Clear, concise communicator building strong relationships with operational managers, remote teams, and executives\n🧠 Strategic Mindset: Ability to translate financial data into actionable business insights\nLanguages:\n🇬🇧 English: Fluent (written and spoken) – Mandatory\n🇩🇪 German: Proficiency is a distinct advantage\n🇫🇷 French\n\n🌟 READY TO TRANSFORM FINANCE?\nIf you're passionate about financial excellence, digital innovation, and international business, and you're ready to make an impact in a leading global organization, this is your opportunity!\nWe're waiting for you! 🚀",
+   "mission": "",
+   "profile": "👤 THE IDEAL PROFILE\nEducation:\nMaster's Degree from University, Business School, or Engineering School specializing in:\nFinance\nControlling\nAuditing\nManagement Accounting (e.g., CCA)\nExperience:\nAudit Background (Highly Valued): First professional experience in an external audit firm (Big 4 or tier-1 audit firm)\nControlling Experience: Previous internship or apprenticeship in financial controlling, corporate FP&A, or financial analysis\nKey Skills:\n💻 Financial Toolkit: Hands-on proficiency with Google Sheets and Microsoft Excel\n🔧 ERP & Analytics: Practical experience or strong familiarity with Workday (ERP) and PowerBI\n📊 Analytical Rigor: Strong financial analysis, data modeling, and reconciliation capabilities\n🎯 Autonomy & Agility: Proactive, self-driven professional thriving in a small, agile 2-person team\n🤝 Communication: Clear, concise communicator building strong relationships with operational managers, remote teams, and executives\n🧠 Strategic Mindset: Ability to translate financial data into actionable business insights",
+   "duration": 18,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-07-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-07T14:39:51Z",
+   "sector": "",
+   "specialization": "[\"5\",\"9\",\"205\",\"259\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-07T14:39:51Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-07-01T00:00:00",
+    "startBroadcastDate": "2026-10-07T00:00:00",
+    "endBroadcastDate": "2026-11-06T00:00:00"
+   },
+   "summary": "As a global leader in environmental services, Veolia operates across all 5 continents with nearly 218,000 employees. An expert in water, energy, and waste management, the Group designs and implements innovative solutions for decarbonization, depollution and resource regeneration to support communities and industries in their ecological transformation.\n\nAmbitious graduates and young professionals: Ready to challenge yourself and accelerate your career growth?🚀🌍\nLaunch your international journey with a world leader in ecological transformation!\nThe VIE/PANGEO program offers you:\n• Highly sought-after international expertise\n• Innovative and sustainable projects\n• Multicultural teamwork\n• Worldwide networking\nYour passport to a thrilling career awaits. Join us and make a global impact!\n\nVeolia Industry Building - Switzerland AG is looking for a VIE/PANGEO - Financial Controller (M/W) in Basel, Switzerland.\n\n🎯 THE MISSION\nStep into a pivotal role that bridges local management and corporate leadership. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/246801",
+   "score": 30,
+   "label": "Périphérique",
+   "first_seen": "2026-10-07T17:25:48+00:00",
+   "axis_scores": {
+    "rd": 10,
+    "prod": 12,
+    "qual": 28,
+    "calc": 47
+   },
+   "dominant_axis": "calc",
+   "matched_families": [
+    {
+     "id": "calc1",
+     "axis": "calc",
+     "source": "Introduction à la méthode des éléments finis (256-1), TP Simulation numérique (272-1, 285-x)",
+     "weight": 9,
+     "terms": [
+      "modeling"
+     ]
+    },
+    {
+     "id": "calc4",
+     "axis": "calc",
+     "source": "Outils et méthodes de calcul numérique (258-1), Initiation Excel et macros (266-1), Asservissement (840-1)",
+     "weight": 5,
+     "terms": [
+      "automation"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Conception mécanique (264-1), Outils et moyens de fabrication (259-1)",
+     "weight": 7,
+     "terms": [
+      "engineering"
+     ]
+    },
+    {
+     "id": "qual2",
+     "axis": "qual",
+     "source": "Qualité et normes (774-1)",
+     "weight": 10,
+     "terms": [
+      "audit"
+     ]
+    },
+    {
+     "id": "rd7",
+     "axis": "rd",
+     "source": "Recyclage des matériaux, Éco-conception (842-1), Enjeux DDRS (838-1)",
+     "weight": 6,
+     "terms": [
+      "decarbonization"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "energie",
+      "energy"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    },
+    {
+     "label": "Aucun terme industriel : score plafonné",
+     "terms": [],
+     "points": -16
+    }
+   ]
+  },
+  {
    "id": "246776",
    "title": "VIE/PANGEO - QHSE / HSE Compliance (M/W) (H/F)",
    "company": "VEOLIA ENERGIE PERFORMANCE",
@@ -38831,7 +39216,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-28T13:57:30Z",
    "sector": "",
-   "specialization": "68",
+   "specialization": "[\"68\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -39571,7 +39956,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T09:23:13Z",
    "sector": "",
-   "specialization": "238",
+   "specialization": "[\"238\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -40598,6 +40983,78 @@
    "bonuses": []
   },
   {
+   "id": "246802",
+   "title": "Customer Planning Champion (H/F)",
+   "company": "SEB DEVELOPPEMENT",
+   "country": "ALLEMAGNE",
+   "city": "STUTTGART",
+   "description": "Tefal, T-Fal, Krups, Lagostina, Rowenta, Moulinex, SUPOR, WMF, Arno, Emsa, All-Clad… These brands are part of the daily life of millions of consumers in more than 150 countries. With 32,000 employees and €8,3 billion sales in 2024, Groupe SEB is the leading worldwide manufacturer of small domestic appliances and cookware thanks to the strength of its brands, its drive for innovation, its international growth, and its vision for the future.\r\nGroupe SEB commits to have a socially equitable policy (diversity and inclusion, quality work environment, health & safety...) while developing actions with a positive impact on society and the environment (circular economy, fight against climate change, community engagement…).\r\n\r\nWhat you can expect about the location\r\nGroupe SEB WMF is based in Geislingen, a small town easily accessible from Stuttgart or Ulm in 30-40 min.\r\nStuttgart is a very dynamic city with a strong and active VIE network due to the presence of numerous international groups from the automotive industry. Whereas Ulm is a lively university town (awarded best city to live in Germany!), close to the Alps, and with a significant foreign students network.\r\nWhat you can expect about the team\r\nThe Planning team, it is 20 dynamic and international silo-breakers working hands in hands with all departments, at the center of the organisation. Understanding each other, being proactive and build strong relationships with all employees are the main characteristics of the team.\r\n\r\n What you can expect about the job ?\r\nAs a Customer Planner (m/f/d), you will be responsible for the strategic supply chain planning and coordination of a defined sales channel. In close cooperation with Sales and the international supply chain organisation, you engage the demand plan into concrete customer plans. You are the voice of the customer to anticipate the right product availability, and you are the key supply chain contact to the sales to make the best usage of our available products.\r\nYour role will have a decisive influence on our ability to deliver and therefore on the long-term success of our company.\r\nYour responsibilities will be as follow:\r\n\r\n1. Plan what matters to the customer\r\n• Develop the customer intimacy together with sales to understand what is most important to plan for the customer\r\n• Apply the right focus on sales event management and customer assortment replenishment for your sales channel and your strategic customers\r\n• Ensure and secure product availability for sales events and products important for the customer thanks to a good collaboration with the Supply Planning teams\r\n\r\n2. Collaborate actively with all your Supply Chain stakeholders\r\n• Contribute to cross-customer allocation in collaboration with the Inventory Management\r\n• Give visibility to sales on product availability risks and opportunities\r\n• Check alternatives to sell in case of product unavailability\r\n• Collaborate actively with all stakeholders to share qualitative inputs from the customers: Demand Analysts, Customer Service, Customer Coordinators, Distribution\r\n \r\n3. You aim for operational excellence\r\n• Follow the priorities defined together with your team leader, in line with the channel strategy and the group guidelines\r\n• Use your intrapreneurial spirit, customer orientation and operational efficiency to continuously improve your KPIs: sales event service level and sales planning accuracy",
+   "mission": "",
+   "profile": "• Successfully completed studies (master level), ideally with a focus on supply chain management/ logistics/operations management or successfully completed training with many years of relevant experience\n• Very good Excel skills are needed\n• You are motivated to familiarize yourself with a state-of-the-art planning system\n• Experience on working with SAP R3 and reporting tools like QlikSense is an advantage\n• Strong communication skills and very good assertiveness\n• Process affinity, conceptual and analytical thinking and acting\n• Good written and spoken English skills is required, German is a plus",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-07T14:59:53Z",
+   "sector": "",
+   "specialization": "[\"244\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-07T14:59:53Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-07T00:00:00",
+    "endBroadcastDate": "2026-11-06T00:00:00"
+   },
+   "summary": "Tefal, T-Fal, Krups, Lagostina, Rowenta, Moulinex, SUPOR, WMF, Arno, Emsa, All-Clad… These brands are part of the daily life of millions of consumers in more than 150 countries. With 32,000 employees and €8,3 billion sales in 2024, Groupe SEB is the leading worldwide manufacturer of small domestic appliances and cookware thanks to the strength of its brands, its drive for innovation, its international growth, and its vision for the future.\r\nGroupe SEB commits to have a socially equitable policy (diversity and inclusion, quality work environment, health & safety...) while developing actions with a positive impact on society and the environment (circular economy, fight against climate change, community engagement…).\r\n\r\nWhat you can expect about the location\r\nGroupe SEB WMF is based in Geislingen, a small town easily accessible from Stuttgart or Ulm in 30-40 min.\r\nStuttgart is a very dynamic city with a strong and active VIE network due to the presence of numerous international groups from the automotive industry. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/246802",
+   "score": 28,
+   "label": "Périphérique",
+   "first_seen": "2026-10-07T17:25:48+00:00",
+   "axis_scores": {
+    "rd": 10,
+    "prod": 0,
+    "qual": 28,
+    "calc": 0
+   },
+   "dominant_axis": "qual",
+   "matched_families": [
+    {
+     "id": "qual2",
+     "axis": "qual",
+     "source": "Qualité et normes (774-1)",
+     "weight": 10,
+     "terms": [
+      "quality"
+     ]
+    },
+    {
+     "id": "rd7",
+     "axis": "rd",
+     "source": "Recyclage des matériaux, Éco-conception (842-1), Enjeux DDRS (838-1)",
+     "weight": 6,
+     "terms": [
+      "circular economy"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "automotive"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
    "id": "245852",
    "title": "Support & developpement informatique (H/F)",
    "company": "SIFA",
@@ -41171,6 +41628,98 @@
    ]
   },
   {
+   "id": "246782",
+   "title": "Buyer (H/F)",
+   "company": "ALSTOM TRANSPORT SA",
+   "country": "THAILANDE",
+   "city": "BANGKOK",
+   "description": "Purpose of the role\nThe Service Buyer supports the sourcing and execution of overhaul, repair and other service-related procurement activities across East Asia. The role develops competitive supplier options, manages the procurement process from request for quotation through contract execution, and helps establish effective repair sourcing pathways.\n\nWorking closely with Services, Engineering, Quality, Material and project teams, the Service Buyer helps deliver Quality, Cost, Delivery and Technical (QCDT) objectives while maintaining clear ownership, timely follow-up and reliable procurement records.\n\nKey responsibilities\nSourcing and supplier selection\nWork with internal stakeholders to understand service requirements, technical scope, demand, delivery needs and commercial constraints.\nIdentify and develop qualified suppliers for overhaul, repair and related services, including alternative sources where appropriate.\nPrepare and launch requests for quotation, compare supplier proposals and lead commercial negotiations.\nEvaluate sourcing options on total cost, capability, lead time, quality, contractual conditions and supply risk, not price alone.\nPrepare procurement recommendations and Business Award documentation in accordance with applicable approval processes.\n\nOverhaul and alternative-sourcing strategy\nSupport the development and execution of sourcing plans for overhaul work packages and recurring service needs.\nAssess alternative supplier and make-or-buy options with the relevant technical and project stakeholders.\nHelp build clear business comparisons, including scope, costs, delivery, technical feasibility, quality requirements and commercial risks.\nCoordinate the resolution of open sourcing and contractual points before award, and support the handover from award to execution.\n \nRepair supplier development and case coordination\nIdentify repairable parts or families with the relevant Material and Maintenance teams and engage potential repair suppliers.\nObtain supplier proposals covering repair approach, lead time and commercial terms.\nCoordinate the information needed for Engineering and Quality review before a supplier repair pathway is used operationally.\nMaintain visibility of repair cases, supplier quotations, approvals, progress, outstanding actions and handovers between teams.\nReview the commercial aspects of case-specific repair quotations against the approved sourcing reference and coordinate the handover of agreed information to the responsible operational teams.\nFollow cases through supplier execution and return, helping ensure that records and savings evidence are complete.\n \nContract execution and supplier performance\nSupport the preparation and management of supplier agreements, purchase commitments and contract changes.\nMonitor supplier QCDT performance and work with Supplier Quality and internal stakeholders to address delivery issues, non-conformities and other risks.\nMaintain constructive supplier relationships, escalate significant issues promptly and support corrective-action plans.\nContribute to supplier-panel and commodity strategies by sharing market intelligence, sourcing opportunities and lessons learned.\n\nProcurement governance and improvement\nApply company procurement processes, approval requirements and standards of ethical conduct.\nMaintain accurate sourcing, contract, supplier-performance and repair-case records.\nTrack open actions and process delays, improve handovers between functions and help establish repeatable ways of working.\nSupport the validation and reporting of procurement savings with the relevant Finance and project stakeholders.\n\nKey working relationships\nInternal: Services and project teams; Global and Regional Procurement; Maintenance Engineering; Material and RMA teams; Supplier Quality; Supply Chain and Warehouse; Finance; and Legal.\nExternal: Existing and prospective suppliers, including overhaul and repair providers.",
+   "mission": "",
+   "profile": "Qualifications and experience\n\nRequired\n\nMaster’s degree in Engineering, Business or a related discipline.\nA foundation in sourcing or procurement, with the ability to manage supplier enquiries, commercial comparisons and negotiations.\nAwareness of contract management and commercial risk.\nStrong analytical, organisational and communication skills.\nAbility to work effectively across functions in an international, matrix environment.\nFluent English.",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-07T11:30:53Z",
+   "sector": "",
+   "specialization": "[\"2\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-07T11:30:53Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-07T00:00:00",
+    "endBroadcastDate": "2026-10-12T00:00:00"
+   },
+   "summary": "Purpose of the role\nThe Service Buyer supports the sourcing and execution of overhaul, repair and other service-related procurement activities across East Asia. The role develops competitive supplier options, manages the procurement process from request for quotation through contract execution, and helps establish effective repair sourcing pathways.\n\nWorking closely with Services, Engineering, Quality, Material and project teams, the Service Buyer helps deliver Quality, Cost, Delivery and Technical (QCDT) objectives while maintaining clear ownership, timely follow-up and reliable procurement records.\n\nKey responsibilities\nSourcing and supplier selection\nWork with internal stakeholders to understand service requirements, technical scope, demand, delivery needs and commercial constraints.\nIdentify and develop qualified suppliers for overhaul, repair and related services, including alternative sources where appropriate.\nPrepare and launch requests for quotation, compare supplier proposals and lead commercial negotiations. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/246782",
+   "score": 26,
+   "label": "Périphérique",
+   "first_seen": "2026-10-07T17:25:48+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 12,
+    "qual": 69,
+    "calc": 0
+   },
+   "dominant_axis": "qual",
+   "matched_families": [
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Conception mécanique (264-1), Outils et moyens de fabrication (259-1)",
+     "weight": 7,
+     "terms": [
+      "engineering"
+     ]
+    },
+    {
+     "id": "qual2",
+     "axis": "qual",
+     "source": "Qualité et normes (774-1)",
+     "weight": 10,
+     "terms": [
+      "quality",
+      "standards",
+      "supplier quality"
+     ]
+    },
+    {
+     "id": "qual3",
+     "axis": "qual",
+     "source": "Plans d'expériences (283-1), Outils logiciels mathématiques et statistiques (289-1)",
+     "weight": 8,
+     "terms": [
+      "capability"
+     ]
+    },
+    {
+     "id": "qual4",
+     "axis": "qual",
+     "source": "Introduction aux techniques expérimentales (267-1)",
+     "weight": 7,
+     "terms": [
+      "validation"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    },
+    {
+     "label": "Intitulé hors formation",
+     "terms": [
+      "buyer"
+     ],
+     "points": -22
+    }
+   ]
+  },
+  {
    "id": "245490",
    "title": "SCRUM MASTER (H/F) (M/F)",
    "company": "AUDENSIEL NORD",
@@ -41387,7 +41936,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-21T14:16:53Z",
    "sector": "",
-   "specialization": "126",
+   "specialization": "[\"126\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -41581,7 +42130,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-24T11:55:10Z",
    "sector": "",
-   "specialization": "259, 318",
+   "specialization": "[\"259\",\"318\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -42165,6 +42714,75 @@
    ]
   },
   {
+   "id": "246787",
+   "title": "PMO Aeronautics (H/F)",
+   "company": "ALTEN",
+   "country": "ALLEMAGNE",
+   "city": "MANCHING",
+   "description": "Company Description\r\nWe are the designers of today for the world of tomorrow.\r\n\r\nAs one of the world's leading engineering service providers, we at ALTEN are committed to positively shaping the future of our partners, the careers of our employees and the challenges facing our society and environment. \r\n\r\nNearly 60,000 employees in 30 countries are already working on innovative solutions in various engineering and IT sectors such as aerospace, renewable energy, medical technology, railway technology and automotive.\r\n\r\nFind out more about the V.I.E programme at Voluntary program V.I.E - International career at ALTEN Germany (alten-germany.de)\r\n\r\nJob Description\r\nYOU…\r\n\r\n- plan, coordinate and control projects in the aeronautics environment\r\n- are responsible for the definition of project control variables such as resources, costs, deadlines, quality and technology\r\n- coordinate interfaces to related departments such as development teams or suppliers\r\n- are in charge of the documentation of progress as well as regular preparation of project reports",
+   "mission": "",
+   "profile": "YOU…\r\n\r\n- have a completed studies in aeronautical engineering, industrial engineering or a comparable field of study\r\n- had a first experience in the aeronautics industry\r\n- have a solution and result-oriented approach as well as strong communication and assertiveness skills\r\n- are fluent in English and have a good command of German\r\n\r\nWe value diversity and therefore welcome all applications - regardless of gender, nationality, ethnic and social origin, religion/belief, disability, age and sexual orientation and identity.\r\n\r\nSeverely disabled persons will be given preferential consideration if they are equally qualified.\r\n\r\nApply now using our online application form.\r\n\r\nAdditional Information\r\n- Talent Management – we develop your career\r\n- Language skills – improve your language skills in your daily work or in online language courses\r\n- Work Life Balance – flexible working hours and mobile working possible\r\n- A to Z – Private International Health Care\r\n- Your future – possibility of permanent employment with ALTEN worldwide...\r\n...in addition we offer you corporate benefits and team events.",
+   "duration": 24,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2029-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-07T12:16:49Z",
+   "sector": "",
+   "specialization": "[\"150\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-07T12:16:49Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2029-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-07T00:00:00",
+    "endBroadcastDate": "2026-11-06T00:00:00"
+   },
+   "summary": "Company Description\r\nWe are the designers of today for the world of tomorrow.\r\n\r\nAs one of the world's leading engineering service providers, we at ALTEN are committed to positively shaping the future of our partners, the careers of our employees and the challenges facing our society and environment. \r\n\r\nNearly 60,000 employees in 30 countries are already working on innovative solutions in various engineering and IT sectors such as aerospace, renewable energy, medical technology, railway technology and automotive.\r\n\r\nFind out more about the V.I.E programme at Voluntary program V.I.E - International career at ALTEN Germany (alten-germany.de)\r\n\r\nJob Description\r\nYOU…\r\n\r\n- plan, coordinate and control projects in the aeronautics environment\r\n- are responsible for the definition of project control variables such as resources, costs, deadlines, quality and technology\r\n- coordinate interfaces to related departments such as development teams or suppliers\r\n- are in charge of the documentation of progress as well as regular preparation of project reports",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/246787",
+   "score": 25,
+   "label": "Périphérique",
+   "first_seen": "2026-10-07T17:25:48+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 12,
+    "qual": 28,
+    "calc": 0
+   },
+   "dominant_axis": "qual",
+   "matched_families": [
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Conception mécanique (264-1), Outils et moyens de fabrication (259-1)",
+     "weight": 7,
+     "terms": [
+      "engineering"
+     ]
+    },
+    {
+     "id": "qual2",
+     "axis": "qual",
+     "source": "Qualité et normes (774-1)",
+     "weight": 10,
+     "terms": [
+      "quality"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "aeronautical",
+      "aerospace",
+      "automotive"
+     ],
+     "points": 5
+    }
+   ]
+  },
+  {
    "id": "246030",
    "title": "Software Update Engineer (H/F)",
    "company": "ALTEN",
@@ -42700,7 +43318,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-29T18:23:04Z",
    "sector": "",
-   "specialization": "62, 70, 127, 145",
+   "specialization": "[\"62\",\"70\",\"127\",\"145\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
