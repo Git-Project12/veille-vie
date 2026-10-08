@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-08T13:27:28+00:00",
+ "generated_at": "2026-10-08T19:57:08+00:00",
  "source": "Business France — mon-vie-via.businessfrance.fr",
- "total_scanned": 820,
- "total_announced": 820,
- "total_kept": 461,
+ "total_scanned": 821,
+ "total_announced": 821,
+ "total_kept": 459,
  "threshold": 25,
  "axes": {
   "rd": {
@@ -3984,7 +3984,7 @@
    "expiry_date": "",
    "publish_date": "2026-05-12T08:05:46Z",
    "sector": "",
-   "specialization": "66",
+   "specialization": "[\"66\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -4331,7 +4331,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-17T15:23:20Z",
    "sector": "",
-   "specialization": "110",
+   "specialization": "[\"110\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5384,7 +5384,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-17T09:21:56Z",
    "sector": "",
-   "specialization": "29, 65, 66, 68, 71, 110, 149, 153, 213, 251, 330, 351",
+   "specialization": "[\"29\",\"65\",\"66\",\"68\",\"71\",\"110\",\"149\",\"153\",\"213\",\"251\",\"330\",\"351\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5584,112 +5584,6 @@
      "label": "Niveau bac+5 / ingénieur annoncé",
      "terms": [],
      "points": 4
-    }
-   ]
-  },
-  {
-   "id": "243699",
-   "title": "Spécialiste Qualité Innovation & Développement (H/F)",
-   "company": "ESSILOR INTERNATIONAL",
-   "country": "IRLANDE",
-   "city": "TUAM",
-   "description": "Au sein de l’équipe Innovation Quality, vous accompagnerez l’ensemble du processus d’innovation intégré, notamment le développement de nouveaux produits et procédés, l’évaluation des risques techniques, les validations aval, la documentation des méthodologies stage‑gate ainsi que la supervision qualité de bout en bout.\r\n\r\n• Contribuer à la collecte, l’évaluation et l’analyse des données afin de soutenir les différents livrables qualité tout au long du processus de développement produit en Stage‑Gate.\r\n\r\n• Fournir un support administratif pour la réalisation des analyses de risques, la planification et l’exécution des plans de validation, ainsi que la mise à jour des spécifications, plans de contrôle et procédures opérationnelles.\r\n\r\n• Appliquer les outils Qualité et Lean Manufacturing pour résoudre des problématiques techniques et soutenir les initiatives d’amélioration continue.\r\n\r\n• Participer à l’élaboration, au suivi et à la mise à jour des tableaux de bord et KPI liés à la conformité produit et au contrôle des allégations après lancement.\r\n\r\n• Contribuer aux validations globales et au déploiement des nouveaux produits dans les différentes régions.\r\n\r\n• Apporter un soutien général à la revue et à la mise à jour des documents Qualité Innovation, essentiels au bon fonctionnement du SMQ conformément à l’ISO 13485 et aux autres exigences réglementaires.\r\n\r\n• Aider à la préparation de présentations et à la coordination / au support des réunions de mise à jour technique.\r\n\r\n• Collaborer étroitement avec les parties prenantes des projets et développer un réseau solide au sein des équipes.",
-   "mission": "",
-   "profile": "• Vous êtes diplômé(e) d’un Bac +3 dans le domaine Scientifique ou domaine similaire\n• Vous disposez idéalement de 1 à 2 ans d’expérience post‑diplôme en QMS \n• Vous maîtrisez les outils Microsoft Office (Excel, PowerPoint, Word)\n• Vous avez une bonne compréhension des statistiques ; la maîtrise d’un logiciel associé serait un avantage.\n• Vous êtes reconnu(e) pour votre aisance relationnelle, votre rigueur documentaire, votre communication claire et votre attention au détail\n• Vous faites preuve d’un esprit analytique et d’une bonne capacité de résolution de problèmes\n• Vous êtes motivé(e) par l’atteinte des résultats et appréciez travailler dans un environnement exigeant\n• Vous disposez d’u niveau d’anglais : C1.",
-   "duration": 24,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2028-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-06-10T13:07:46Z",
-   "sector": "",
-   "specialization": "[\"208\"]",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-06-10T13:07:46Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2028-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-28T00:00:00",
-    "endBroadcastDate": "2026-10-28T00:00:00"
-   },
-   "summary": "Au sein de l’équipe Innovation Quality, vous accompagnerez l’ensemble du processus d’innovation intégré, notamment le développement de nouveaux produits et procédés, l’évaluation des risques techniques, les validations aval, la documentation des méthodologies stage‑gate ainsi que la supervision qualité de bout en bout.\r\n\r\n• Contribuer à la collecte, l’évaluation et l’analyse des données afin de soutenir les différents livrables qualité tout au long du processus de développement produit en Stage‑Gate.\r\n\r\n• Fournir un support administratif pour la réalisation des analyses de risques, la planification et l’exécution des plans de validation, ainsi que la mise à jour des spécifications, plans de contrôle et procédures opérationnelles.\r\n\r\n• Appliquer les outils Qualité et Lean Manufacturing pour résoudre des problématiques techniques et soutenir les initiatives d’amélioration continue.\r\n\r\n• Participer à l’élaboration, au suivi et à la mise à jour des tableaux de bord et KPI liés à la conformité produit et au contrôle des allégations après lancement. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/243699",
-   "score": 66,
-   "label": "Bonne adéquation",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 41,
-    "qual": 69,
-    "calc": 0
-   },
-   "dominant_axis": "qual",
-   "matched_families": [
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1), Tenue mécanique des outillages (284-3, 292-1)",
-     "weight": 10,
-     "terms": [
-      "manufacturing"
-     ]
-    },
-    {
-     "id": "prod5",
-     "axis": "prod",
-     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
-     "weight": 7,
-     "terms": [
-      "amelioration continue",
-      "lean"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Conception mécanique (264-1), Outils et moyens de fabrication (259-1)",
-     "weight": 7,
-     "terms": [
-      "developpement produit"
-     ]
-    },
-    {
-     "id": "qual2",
-     "axis": "qual",
-     "source": "Qualité et normes (774-1)",
-     "weight": 10,
-     "terms": [
-      "conformite",
-      "qualite",
-      "quality"
-     ]
-    },
-    {
-     "id": "qual3",
-     "axis": "qual",
-     "source": "Plans d'expériences (283-1), Outils logiciels mathématiques et statistiques (289-1)",
-     "weight": 8,
-     "terms": [
-      "statistiques"
-     ]
-    },
-    {
-     "id": "qual4",
-     "axis": "qual",
-     "source": "Introduction aux techniques expérimentales (267-1)",
-     "weight": 7,
-     "terms": [
-      "validation"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "qualite"
-     ],
-     "points": 14
     }
    ]
   },
@@ -6497,7 +6391,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T07:35:28Z",
    "sector": "",
-   "specialization": "155, 208, 209",
+   "specialization": "[\"155\",\"208\",\"209\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -7792,7 +7686,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-20T19:24:50Z",
    "sector": "",
-   "specialization": "64, 65, 66, 77, 107, 150, 153, 207",
+   "specialization": "[\"64\",\"65\",\"66\",\"77\",\"107\",\"150\",\"153\",\"207\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -13830,6 +13724,117 @@
    ]
   },
   {
+   "id": "246459",
+   "title": "Spécialiste Amélioration Continue (H/F)",
+   "company": "ESSILOR INTERNATIONAL",
+   "country": "CANADA",
+   "city": "MONTREAL -QC",
+   "description": "Votre rôle :\n\nLe/La spécialiste en Amélioration Continue travaille en étroite collaboration avec les responsables de site et les collaborateurs locaux afin d’identifier, mettre en œuvre et pérenniser des améliorations de processus visant à renforcer la performance opérationnelle, la qualité, la productivité, l’efficacité des coûts et le niveau de service. Véritable coach, facilitateur(trice) et conseiller(ère) de confiance, cette personne accompagne les équipes dans l’adoption des méthodologies d’amélioration continue telles que le Lean Manufacturing et les outils de résolution de problèmes.\n\nVos missions :\n\n• Identifier les opportunités d’amélioration et les défis opérationnels.\n• Animer des événements Kaizen, des ateliers de résolution de problèmes et des initiatives d’amélioration des processus.\n• Analyser les données opérationnelles et les indicateurs clés de performance (KPI) afin d’identifier les tendances, les causes profondes et les opportunités d’amélioration.\n• Accompagner les démarches de conduite du changement pour garantir l’adoption réussie des nouveaux processus et pratiques.\n• Former et coacher les équipes terrain aux principes et bonnes pratiques de l’amélioration continue.\n• Promouvoir une culture d’amélioration continue, de responsabilisation et d’engagement des collaborateurs.\n• Suivre les résultats des projets et mesurer les bénéfices réalisés au regard des objectifs de l’entreprise.\n• Collaborer de manière transversale avec les différentes fonctions afin de standardiser les processus et partager les meilleures pratiques.\n\nPrincipales difficultés de la mission : \n\n• Maturité limitée des outils Lean Manufacturing : nécessite des efforts importants pour ancrer durablement les changements et les améliorations dans les pratiques quotidiennes.\n• Influencer sans autorité hiérarchique : demande un fort leadership fonctionnel afin d’obtenir une meilleure adhésion grâce au coaching et au partenariat plutôt qu’à une approche descendante.\n• Langue et terminologie : le vocabulaire professionnel québécois diffère de celui utilisé en France ; il est nécessaire d’être à l’aise dans un environnement de travail bilingue français-anglais.\n• Conduite du changement : nécessité de créer des relations de confiance solides avant de mettre en œuvre et piloter les transformations.",
+   "mission": "",
+   "profile": "Profil : \n\n• Diplôme de niveau Master dans l’un des domaines suivants :\n- Ingénierie (industrielle, mécanique, manufacturière ou des procédés)\n- Production industrielle / Manufacturing\n\nConnaissances spécifiques ou expériences : \n\n• Méthodologies Lean Manufacturing et d’amélioration continue\n• Outils d’analyse des causes racines (Root Cause Analysis) : méthode des 5 Pourquoi, diagramme d’Ishikawa (Fishbone), méthodologie A3\n• Maîtrise avancée de Microsoft Excel\n• Connaissances de base des opérations de production, de distribution, de services ou de laboratoire\n\nCompétences requises pour le poste :\n• Compétences en coaching\n• Expérience en amélioration des processus et en gestion de projet\n• Capacité d’analyse de données et de résolution de problèmes\n• Compétences en conduite du changement\n• Aptitudes à l’animation d’ateliers, à la facilitation et à la formation des équipes.",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-09-28T07:56:10Z",
+   "sector": "",
+   "specialization": "[\"208\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-09-28T07:56:10Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-08T00:00:00",
+    "endBroadcastDate": "2026-11-07T00:00:00"
+   },
+   "summary": "Votre rôle :\n\nLe/La spécialiste en Amélioration Continue travaille en étroite collaboration avec les responsables de site et les collaborateurs locaux afin d’identifier, mettre en œuvre et pérenniser des améliorations de processus visant à renforcer la performance opérationnelle, la qualité, la productivité, l’efficacité des coûts et le niveau de service. Véritable coach, facilitateur(trice) et conseiller(ère) de confiance, cette personne accompagne les équipes dans l’adoption des méthodologies d’amélioration continue telles que le Lean Manufacturing et les outils de résolution de problèmes.\n\nVos missions :\n\n• Identifier les opportunités d’amélioration et les défis opérationnels.\n• Animer des événements Kaizen, des ateliers de résolution de problèmes et des initiatives d’amélioration des processus.\n• Analyser les données opérationnelles et les indicateurs clés de performance (KPI) afin d’identifier les tendances, les causes profondes et les opportunités d’amélioration. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/246459",
+   "score": 50,
+   "label": "Bonne adéquation",
+   "first_seen": "2026-10-08T19:56:56+00:00",
+   "axis_scores": {
+    "rd": 13,
+    "prod": 41,
+    "qual": 50,
+    "calc": 0
+   },
+   "dominant_axis": "qual",
+   "matched_families": [
+    {
+     "id": "prod4",
+     "axis": "prod",
+     "source": "Outils de production (269-1), Tenue mécanique des outillages (284-3, 292-1)",
+     "weight": 10,
+     "terms": [
+      "manufacturing"
+     ]
+    },
+    {
+     "id": "prod5",
+     "axis": "prod",
+     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
+     "weight": 7,
+     "terms": [
+      "amelioration continue",
+      "ingenierie industrielle",
+      "kaizen",
+      "lean"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Conception mécanique (264-1), Outils et moyens de fabrication (259-1)",
+     "weight": 7,
+     "terms": [
+      "ingenierie"
+     ]
+    },
+    {
+     "id": "qual2",
+     "axis": "qual",
+     "source": "Qualité et normes (774-1)",
+     "weight": 10,
+     "terms": [
+      "qualite"
+     ]
+    },
+    {
+     "id": "qual3",
+     "axis": "qual",
+     "source": "Plans d'expériences (283-1), Outils logiciels mathématiques et statistiques (289-1)",
+     "weight": 8,
+     "terms": [
+      "root cause"
+     ]
+    },
+    {
+     "id": "rd6",
+     "axis": "rd",
+     "source": "Comportement mécanique des matériaux non conventionnels (298-2), Projet de recherche (261-1)",
+     "weight": 8,
+     "terms": [
+      "laboratoire"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "mecanique"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
    "id": "246197",
    "title": "INGÉNIEUR(E) CSV (H/F)",
    "company": "FORTIL GROUP",
@@ -14244,7 +14249,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T13:42:07Z",
    "sector": "",
-   "specialization": "331",
+   "specialization": "[\"331\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -14871,7 +14876,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-14T17:08:48Z",
    "sector": "",
-   "specialization": "149, 169",
+   "specialization": "[\"149\",\"169\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -15262,7 +15267,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-03T07:30:34Z",
    "sector": "",
-   "specialization": "206",
+   "specialization": "[\"206\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -15542,7 +15547,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-25T10:40:46Z",
    "sector": "",
-   "specialization": "60",
+   "specialization": "[\"60\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -16669,87 +16674,6 @@
       "energy"
      ],
      "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
-   "id": "244311",
-   "title": "GenAI agentic systems engineer (H/F)",
-   "company": "IKOS CONSULTING",
-   "country": "ROYAUME-UNI",
-   "city": "LONDRES",
-   "description": "We are looking for a highly capable and curious professional to join a fast-moving, strategic programme focused on Generative AI. This role will be responsible for the developing and delivering of GenAI agentic systems. \nThe successful candidate will be part of an international team lead from London - by our GenAI Global lead and IKOS UK CTO - and with other members in Paris and Madrid. Ocassional travel to London might be required\nThe ideal candidate is up to date with the latest developments in GenAI, understands both its potential and limitations, and is comfortable working in an environment that values rapid iteration, cross-functional application and value-driven outputs.\n\nResponsibilities:\n• Design, development, testing, deployment, improvement and support of GenAI tools and agents.",
-   "mission": "",
-   "profile": "• You must hold a relevant degree (bachelor's or master's)\n• Hands-on capability to configure, prototype, test and support GenAI tools and agents quickly and reliably. \n• Experience with enterprise GenAI products and governance, especially M365 Copilot / enterprise chat usage, Copilot Studio / Gemini Agent platform, orchestration, basic RAG and platform tools/connectors. \n• Ability to support software integration, deployment and QA. \n• Comfortable with a fail-fast and rapid iteration approach. \n• Strong practical troubleshooting and willingness to work across product, technology, operations and technical delivery needs. \n• Useful exposure to more capable vendor-hosted PC-controlling agents, with awareness of their governance trade-offs and capabilities. \n• Comfort supporting simple to moderate productization work around restricted, bounded engineering tools.",
-   "duration": 12,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2027-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-07-02T16:24:42Z",
-   "sector": "",
-   "specialization": "246",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-07-02T16:24:42Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-18T00:00:00",
-    "endBroadcastDate": "2026-10-18T00:00:00"
-   },
-   "summary": "We are looking for a highly capable and curious professional to join a fast-moving, strategic programme focused on Generative AI. This role will be responsible for the developing and delivering of GenAI agentic systems. \nThe successful candidate will be part of an international team lead from London - by our GenAI Global lead and IKOS UK CTO - and with other members in Paris and Madrid. Ocassional travel to London might be required\nThe ideal candidate is up to date with the latest developments in GenAI, understands both its potential and limitations, and is comfortable working in an environment that values rapid iteration, cross-functional application and value-driven outputs.\n\nResponsibilities:\n• Design, development, testing, deployment, improvement and support of GenAI tools and agents.",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/244311",
-   "score": 46,
-   "label": "À examiner",
-   "first_seen": "2026-08-24T16:01:18+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 12,
-    "qual": 42,
-    "calc": 0
-   },
-   "dominant_axis": "qual",
-   "matched_families": [
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Conception mécanique (264-1), Outils et moyens de fabrication (259-1)",
-     "weight": 7,
-     "terms": [
-      "engineering"
-     ]
-    },
-    {
-     "id": "qual3",
-     "axis": "qual",
-     "source": "Plans d'expériences (283-1), Outils logiciels mathématiques et statistiques (289-1)",
-     "weight": 8,
-     "terms": [
-      "capability"
-     ]
-    },
-    {
-     "id": "qual4",
-     "axis": "qual",
-     "source": "Introduction aux techniques expérimentales (267-1)",
-     "weight": 7,
-     "terms": [
-      "testing"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineer"
-     ],
-     "points": 14
     },
     {
      "label": "Niveau bac+5 / ingénieur annoncé",
@@ -18167,7 +18091,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-12T13:36:38Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -18827,7 +18751,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T08:10:26Z",
    "sector": "",
-   "specialization": "238",
+   "specialization": "[\"238\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -18913,7 +18837,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T08:06:58Z",
    "sector": "",
-   "specialization": "238",
+   "specialization": "[\"238\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19332,91 +19256,6 @@
       "ingenieur"
      ],
      "points": 14
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
-   "id": "245427",
-   "title": "Electrical and Mechanical Engineer (H/F)",
-   "company": "IKOS CONSULTING",
-   "country": "ITALIE",
-   "city": "MILAN",
-   "description": "Alcapem as part of the IKOS Group is an engineering company based in Rho, (North-West Milan area) and in constant evolution since 1992. Alcapem is engaged in the design of rail transport systems and offers growth opportunities to engineers specializing in electrical and/or mechanical engineering passionate about the railway industry!\r\nAlcapem is looking for a young and dynamic professional who will be involved in electrical and/or mechanical design activities (depending on the studies background, skills, and strengths).",
-   "mission": "",
-   "profile": "Master's Degree in Electrical Engineering and/or Mechanical Engineering\nInitial experience in electrical and/or mechanical design\nKnowledge of electrical design software such as:\n\nAutoCAD\nE3.series (Zuken)\nElCAD\nSPAC\nEPLAN\n\nand/or mechanical design software such as:\n\nCATIA V5\nPTC Creo\nSolidWorks\n\nExcellent communication skills and ability to work both independently and as part of a team\nStrong passion for the railway sector\nExcellent command of the Italian language (the first interview will be conducted in Italian!)\nExcellent command of English",
-   "duration": 24,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2028-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-08-26T10:30:03Z",
-   "sector": "",
-   "specialization": "65",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-08-26T10:30:03Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2028-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-22T00:00:00",
-    "endBroadcastDate": "2026-10-22T00:00:00"
-   },
-   "summary": "Alcapem as part of the IKOS Group is an engineering company based in Rho, (North-West Milan area) and in constant evolution since 1992. Alcapem is engaged in the design of rail transport systems and offers growth opportunities to engineers specializing in electrical and/or mechanical engineering passionate about the railway industry!\r\nAlcapem is looking for a young and dynamic professional who will be involved in electrical and/or mechanical design activities (depending on the studies background, skills, and strengths).",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/245427",
-   "score": 42,
-   "label": "À examiner",
-   "first_seen": "2026-08-27T05:21:30+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 12,
-    "qual": 0,
-    "calc": 27
-   },
-   "dominant_axis": "calc",
-   "matched_families": [
-    {
-     "id": "calc2",
-     "axis": "calc",
-     "source": "CAO (278-1), Conception mécanique (264-1), Critères de choix des matériaux (265-1)",
-     "weight": 8,
-     "terms": [
-      "catia",
-      "creo",
-      "mechanical design",
-      "solidworks"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Conception mécanique (264-1), Outils et moyens de fabrication (259-1)",
-     "weight": 7,
-     "terms": [
-      "engineering"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineer",
-      "mechanical"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "mechanical",
-      "rail",
-      "railway"
-     ],
-     "points": 5
     },
     {
      "label": "Niveau bac+5 / ingénieur annoncé",
@@ -20594,7 +20433,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T12:15:30Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21165,7 +21004,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-10T12:08:07Z",
    "sector": "",
-   "specialization": "71",
+   "specialization": "[\"71\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21486,7 +21325,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-23T09:02:41Z",
    "sector": "",
-   "specialization": "52, 66, 114, 115, 143, 148, 153",
+   "specialization": "[\"52\",\"66\",\"114\",\"115\",\"143\",\"148\",\"153\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21666,7 +21505,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-16T01:03:07Z",
    "sector": "",
-   "specialization": "60, 64, 76, 77, 110, 142",
+   "specialization": "[\"60\",\"64\",\"76\",\"77\",\"110\",\"142\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22685,7 +22524,7 @@
    "expiry_date": "",
    "publish_date": "2026-03-26T16:26:49Z",
    "sector": "",
-   "specialization": "245, 248, 249, 251, 330, 356",
+   "specialization": "[\"245\",\"248\",\"249\",\"251\",\"330\",\"356\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -24078,7 +23917,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-01T16:15:18Z",
    "sector": "",
-   "specialization": "149",
+   "specialization": "[\"149\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -24346,6 +24185,88 @@
       "energie",
       "industriel",
       "mecanique"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
+   "id": "246859",
+   "title": "VIE Credit Risk Analyst (H/F)",
+   "company": "ENGIE GLOBAL MARKETS",
+   "country": "ESPAGNE",
+   "city": "MADRID",
+   "description": "About ENGIE and Supply & Energy Management\n\nENGIE is a leading global group in low-carbon energy and services. Together with our employees, customers, partners and stakeholders, we are committed every day to accelerating the transition towards a carbon-neutral world through more energy-efficient and environmentally friendly solutions.\n\nGuided by our purpose, we combine economic performance with a positive impact on people and the planet, leveraging our core businesses, including gas, renewable energies and services, to provide competitive solutions to our customers.\n\nSupply & Energy Management (S&EM) is ENGIE’s Global Business Unit dedicated to delivering reliable, sustainable and affordable energy solutions. The business unit optimizes both ENGIE’s and its clients’ assets while designing tailor-made energy solutions for more than 200,000 professional clients and 15 million consumers.\n\nOperating in 20 countries and bringing together more than 10,000 experts, S&EM leverages ENGIE’s asset portfolio and market expertise to deliver decarbonized electricity 24/7, supporting customers in their energy transition journey.\n\nJoining Supply & Energy Management means becoming part of an international team of passionate professionals committed to shaping a greener and more efficient energy future.\n\nContext\n\nAs part of the Credit Risk Analysis team, you will play a key role in assessing the creditworthiness of counterparties and ensuring effective management of credit risk exposure across S&EM's activities.\n\nReporting to the Head of Credit Risk Analysis, you will work closely with Front Office, Legal, KYC/AML and Risk stakeholders in a dynamic and international trading environment.\n\nWhat You Will Do\nCurrent Portfolio Management\nMonitor and analyze existing counterparties' credit exposure and risk evolution.\nManage and review credit limits.\nAssess and approve Front Office transactions and contractual agreements from a credit risk perspective.\nEnsure continuous monitoring of portfolio risk and identify mitigation actions where necessary.\nCounterparty Onboarding & Risk Assessment\nSupport business development activities before contract execution.\nAnalyze prospects' financial situation, business model and regulatory environment.\nEvaluate creditworthiness and determine appropriate risk limits.\nPrepare recommendations for Credit Risk Management and Credit Committees.\nCredit Documentation & Negotiation\nNegotiate credit-related documentation and netting agreements with counterparties.\nCollaborate closely with Legal teams to ensure appropriate contractual protections.\nDigitalization & Continuous Improvement\nContribute to the development and enhancement of risk management tools.\nParticipate in digital transformation initiatives in partnership with Credit Reporting and IT teams.\nSupport process optimization and automation projects.\nBusiness Support Activities\nProduce daily risk reports.\nRespond to urgent Front Office requests regarding transaction impacts on exposure levels.\nProvide timely trading approvals based on risk assessments.\nKey Stakeholders\nInternal Interfaces\nFront Office\nCredit Reporting Team\nKYC / AML Team\nLegal Department\nIT Support\nExternal Interfaces\nClients and counterparties\nBusiness development teams\nLegal advisors\nFinancial institutions and lenders",
+   "mission": "",
+   "profile": "Education & Qualifications\nMaster's degree in Finance, Economics, Accounting, Business Administration or a related discipline.\nPrevious experience in Credit Risk Analysis, Corporate Finance, Financial Analysis, Audit or Accounting.\nExperience in trading, commodities, energy markets or banking environments would be highly valued.\nSkills & Experience\nTechnical Skills\nStrong financial analysis capabilities.\nSolid understanding of credit risk assessment methodologies.\nKnowledge of Project Finance structures.\nAdvanced Excel skills, including the ability to review and audit financial models.\nInterest in digital transformation and data-driven risk management tools.\nLanguages\nFluent French (written and spoken).\nProfessional proficiency in English (written and spoken).\nSpanish would be considered a strong asset.\nPersonal Attributes\n\nWe are looking for a professional who demonstrates:\n\nStrong analytical and problem-solving skills.\nExcellent communication and interpersonal abilities.\nAbility to influence and convince stakeholders.\nNegotiation skills.\nTeam spirit and collaborative mindset.\nStrong organizational and planning capabilities.\nResilience in a fast-paced and demanding environment.\nInitiative and continuous improvement mindset.\nCuriosity, adaptability and openness to innovation.\nWhy Join Us?\n\nAt ENGIE, every talent contributes to accelerating the energy transition. Joining S&EM means working in an international environment at the heart of global energy markets while contributing to building sustainable solutions for the future.\n\nYou will have the opportunity to develop your expertise, work alongside recognized professionals and build a career path aligned with your ambitions.\n\nAdditional Information\n\nLocation: S&EM Campus, La Garenne-Colombes, France\n\nContract: Full-time position\n\nRemote Working: Hybrid working arrangements available in accordance with applicable company policies.",
+   "duration": 12,
+   "start_date": "2026-12-01T00:00:00",
+   "end_date": "2027-12-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-08T14:46:26Z",
+   "sector": "",
+   "specialization": "[\"259\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-08T14:46:26Z",
+    "missionStartDate": "2026-12-01T00:00:00",
+    "missionEndDate": "2027-12-01T00:00:00",
+    "startBroadcastDate": "2026-10-08T00:00:00",
+    "endBroadcastDate": "2026-11-07T00:00:00"
+   },
+   "summary": "About ENGIE and Supply & Energy Management\n\nENGIE is a leading global group in low-carbon energy and services. Together with our employees, customers, partners and stakeholders, we are committed every day to accelerating the transition towards a carbon-neutral world through more energy-efficient and environmentally friendly solutions.\n\nGuided by our purpose, we combine economic performance with a positive impact on people and the planet, leveraging our core businesses, including gas, renewable energies and services, to provide competitive solutions to our customers.\n\nSupply & Energy Management (S&EM) is ENGIE’s Global Business Unit dedicated to delivering reliable, sustainable and affordable energy solutions. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/246859",
+   "score": 31,
+   "label": "Périphérique",
+   "first_seen": "2026-10-08T19:56:56+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 12,
+    "qual": 28,
+    "calc": 17
+   },
+   "dominant_axis": "qual",
+   "matched_families": [
+    {
+     "id": "calc4",
+     "axis": "calc",
+     "source": "Outils et méthodes de calcul numérique (258-1), Initiation Excel et macros (266-1), Asservissement (840-1)",
+     "weight": 5,
+     "terms": [
+      "automation"
+     ]
+    },
+    {
+     "id": "prod5",
+     "axis": "prod",
+     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
+     "weight": 7,
+     "terms": [
+      "continuous improvement",
+      "process optimization"
+     ]
+    },
+    {
+     "id": "qual2",
+     "axis": "qual",
+     "source": "Qualité et normes (774-1)",
+     "weight": 10,
+     "terms": [
+      "audit"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "energy"
      ],
      "points": 5
     },
@@ -24667,7 +24588,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-28T11:19:50Z",
    "sector": "",
-   "specialization": "155",
+   "specialization": "[\"155\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26564,7 +26485,7 @@
    "expiry_date": "",
    "publish_date": "2026-05-12T14:43:27Z",
    "sector": "",
-   "specialization": "5, 21, 49, 86, 125, 144, 150, 155, 208, 209, 244, 256, 262, 264",
+   "specialization": "[\"5\",\"21\",\"49\",\"86\",\"125\",\"144\",\"150\",\"155\",\"208\",\"209\",\"244\",\"256\",\"262\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26777,7 +26698,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-05T09:49:11Z",
    "sector": "",
-   "specialization": "63",
+   "specialization": "[\"63\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27172,7 +27093,7 @@
    "expiry_date": "",
    "publish_date": "2026-05-12T14:27:31Z",
    "sector": "",
-   "specialization": "325",
+   "specialization": "[\"325\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27255,7 +27176,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-17T09:25:07Z",
    "sector": "",
-   "specialization": "180, 259, 318, 320",
+   "specialization": "[\"180\",\"259\",\"318\",\"320\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33451,7 +33372,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-23T07:37:46Z",
    "sector": "",
-   "specialization": "318",
+   "specialization": "[\"318\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33900,7 +33821,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-09T13:44:09Z",
    "sector": "",
-   "specialization": "35, 144, 245, 246, 248, 249, 251",
+   "specialization": "[\"35\",\"144\",\"245\",\"246\",\"248\",\"249\",\"251\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35102,7 +35023,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-28T08:24:55Z",
    "sector": "",
-   "specialization": "56",
+   "specialization": "[\"56\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35206,7 +35127,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-01T14:22:18Z",
    "sector": "",
-   "specialization": "155",
+   "specialization": "[\"155\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -38384,7 +38305,7 @@
    "company": "TOTALENERGIES SE",
    "country": "DANEMARK",
    "city": "ESBJERG",
-   "description": "Rejoignez TotalEnergies EP Danmark, acteur de la production d'énergie en mer du Nord.\nAu sein de l'équipe Logistics & Support to Operations (LSO) basée à Esbjerg et rattaché au Head of Methods, vous contribuez à l'amélioration de la performance logistique de la filiale à travers l'analyse des données, l'optimisation des processus, le développement d'outils digitaux et la mise en œuvre de projets d'amélioration continue au service des opérations offshore.\n\nMerci de candidater en anglais.\nLe logement sera fourni par la filiale.\n\nVos principales missions :\n• Contribuer au suivi des activités quotidiennes de l’équipe.\n• Analyser les données logistiques et les indicateurs de performance.\n• Développer et maintenir des tableaux de bord de pilotage.\n• Participer à l’automatisation du reporting et à l’amélioration de la qualité des données.\n• Réaliser des analyses de coûts et d’efficacité opérationnelle.\n• Cartographier et optimiser les processus de la chaîne logistique.\n• Participer à l’amélioration des outils digitaux et des solutions SAP.\n• Contribuer au développement de projets de digitalisation sous SharePoint.\n• Accompagner le déploiement de nouveaux outils logistiques et analytiques.\n• Mettre à jour les procédures, modes opératoires et documentations métiers.",
+   "description": "Rejoignez TotalEnergies EP Danmark, acteur de la production d'énergie en mer du Nord.\r\nAu sein de l'équipe Logistics & Support to Operations (LSO) basée à Esbjerg et rattaché au Head of Methods, vous contribuez à l'amélioration de la performance logistique de la filiale à travers l'analyse des données, l'optimisation des processus, le développement d'outils digitaux et la mise en œuvre de projets d'amélioration continue au service des opérations offshore.\r\n\r\nMerci de candidater en anglais.\r\nLe logement sera fourni par la filiale.\r\n\r\nVos principales missions :\r\n• Contribuer au suivi des activités quotidiennes de l’équipe.\r\n• Analyser les données logistiques et les indicateurs de performance.\r\n• Développer et maintenir des tableaux de bord de pilotage.\r\n• Participer à l’automatisation du reporting et à l’amélioration de la qualité des données.\r\n• Réaliser des analyses de coûts et d’efficacité opérationnelle.\r\n• Cartographier et optimiser les processus de la chaîne logistique.\r\n• Participer à l’amélioration des outils digitaux et des solutions SAP.\r\n• Contribuer au développement de projets de digitalisation sous SharePoint.\r\n• Accompagner le déploiement de nouveaux outils logistiques et analytiques.\r\n• Mettre à jour les procédures, modes opératoires et documentations métiers.\r\n\r\nPourquoi nous rejoindre ?\r\n\r\n. Une opportunité unique de combiner le soutien opérationnel en logistique avec des projets d'amélioration continue et de transformation digitale dans un environnement international lié à l'énergie offshore.\r\n. Une exposition à un large périmètre logistique couvrant les activités maritimes, aériennes, les bases logistiques (Supply Base), le transport de marchandises, les CCU (Cargo Carrying Units) ainsi que la chaîne d'approvisionnement (Supply Chain).\r\n. Une implication active dans des initiatives stratégiques de digitalisation, notamment les projets de Track & Trace, d’Asset Logistics et de la LSO Control Tower.\r\n. Une contribution au développement d’un jumeau numérique (Digital Twin) de la base logistique afin d’optimiser les opérations d’entreposage, les flux de matériels et l’utilisation des espaces.\r\n. Une participation aux projets d’amélioration des processus, d’analyse des données, de développement des indicateurs de performance (KPI) et d’amélioration de la performance opérationnelle.\r\n. L’opportunité de travailler en étroite collaboration avec les équipes opérationnelles et les différentes parties prenantes tout en apportant des améliorations concrètes ayant un impact visible sur les résultats de l’activité.",
    "mission": "",
    "profile": "Vous êtes à minima diplômé d’un Master ou d’un diplôme d’ingénieurs dans le domaine de la logistique / supply chain ou du génie industriel.\n\nVous avez une première expérience académique ou professionnelle en analyse de données (data analytics) et management d’indicateurs de performance (KPI).\n\nUne expérience dans le secteur pétrole et gaz constitue un plus.\n\nVous avez une maîtrise avancée d’Excel.\n\nVous avez une bonne connaissance de Power BI et une connaissance ou un intérêt pour SAP.\n\nDes notions en programmation constituent un atout.\n\nUn niveau d'anglais C1 minimum est requis. Un niveau de français B2 minimum est également demandé.",
    "duration": 24,
@@ -38400,10 +38321,10 @@
     "creationDate": "2026-10-07T14:17:34Z",
     "missionStartDate": "2026-12-01T00:00:00",
     "missionEndDate": "2028-12-01T00:00:00",
-    "startBroadcastDate": "2026-10-07T00:00:00",
-    "endBroadcastDate": "2026-11-06T00:00:00"
+    "startBroadcastDate": "2026-10-08T00:00:00",
+    "endBroadcastDate": "2026-11-07T00:00:00"
    },
-   "summary": "Rejoignez TotalEnergies EP Danmark, acteur de la production d'énergie en mer du Nord.\nAu sein de l'équipe Logistics & Support to Operations (LSO) basée à Esbjerg et rattaché au Head of Methods, vous contribuez à l'amélioration de la performance logistique de la filiale à travers l'analyse des données, l'optimisation des processus, le développement d'outils digitaux et la mise en œuvre de projets d'amélioration continue au service des opérations offshore.\n\nMerci de candidater en anglais.\nLe logement sera fourni par la filiale.\n\nVos principales missions :\n• Contribuer au suivi des activités quotidiennes de l’équipe.\n• Analyser les données logistiques et les indicateurs de performance.\n• Développer et maintenir des tableaux de bord de pilotage.\n• Participer à l’automatisation du reporting et à l’amélioration de la qualité des données.\n• Réaliser des analyses de coûts et d’efficacité opérationnelle.\n• Cartographier et optimiser les processus de la chaîne logistique.\n• Participer à l’amélioration des outils digitaux et des solutions SAP. […]",
+   "summary": "Rejoignez TotalEnergies EP Danmark, acteur de la production d'énergie en mer du Nord.\r\nAu sein de l'équipe Logistics & Support to Operations (LSO) basée à Esbjerg et rattaché au Head of Methods, vous contribuez à l'amélioration de la performance logistique de la filiale à travers l'analyse des données, l'optimisation des processus, le développement d'outils digitaux et la mise en œuvre de projets d'amélioration continue au service des opérations offshore.\r\n\r\nMerci de candidater en anglais.\r\nLe logement sera fourni par la filiale.\r\n\r\nVos principales missions :\r\n• Contribuer au suivi des activités quotidiennes de l’équipe.\r\n• Analyser les données logistiques et les indicateurs de performance.\r\n• Développer et maintenir des tableaux de bord de pilotage.\r\n• Participer à l’automatisation du reporting et à l’amélioration de la qualité des données.\r\n• Réaliser des analyses de coûts et d’efficacité opérationnelle.\r\n• Cartographier et optimiser les processus de la chaîne logistique.\r\n• Participer à l’amélioration des outils digitaux et des solutions SAP. […]",
    "url": "https://mon-vie-via.businessfrance.fr/offres/246799",
    "score": 30,
    "label": "Périphérique",
@@ -39705,7 +39626,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-23T09:46:51Z",
    "sector": "",
-   "specialization": "68",
+   "specialization": "[\"68\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -39864,7 +39785,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-23T09:44:47Z",
    "sector": "",
-   "specialization": "6",
+   "specialization": "[\"6\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -39904,81 +39825,6 @@
       "ingenieur"
      ],
      "points": 14
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
-   "id": "246542",
-   "title": "TALENT ACQUISITION OFFICER / CHARGÉ/E DE RECRUTEMENT (H/F)",
-   "company": "SCALIAN",
-   "country": "BELGIQUE",
-   "city": "BRUXELLES",
-   "description": "À propos du poste :\n\nRattaché·e à au Country Manager, vous serez un·e véritable business partner en aidant à atteindre des objectifs de recrutement ambitieux et en animant cette activité.\nVos missions :\n• Développer une vision stratégique et innovante pour identifier les filières d'excellences des profils hautement qualifiés au niveau international,\n• Proposer des stratégies de sourcing/recrutement différenciantes,\n• Piloter un plan d'embauches correspondant à toutes les fonctions de l'entreprise, \n• Mener les actions de sourcing/chasse des candidats (jobboards et réseaux sociaux…),\n• Piloter l’intégralité du process de recrutement,\n• Mettre à jour les outils de recrutement et tableaux de bord,\n• Définir et piloter la stratégie des relations écoles et job fair à réaliser,\n• Organiser des évènements recrutement.\n\nDescription de l'entreprise\n\nQui sommes-nous ?\n\nDans le TOP10 des Sociétés de Conseil en Ingénierie en France, le Groupe intervient sur des activités de services en management de projets industriels, supply chain, architecture et développement de systèmes numériques embarqués, applicatifs de systèmes d'information et d'Intelligence Artificielle dans des secteurs d’activité aussi variés que l’aéronautique, le spatial, l’automobile, le ferroviaire, les services, le luxe ou le retail…\nCréée en 1989, SCALIAN compte aujourd’hui plus de 5500 collaborateurs répartis dans 11 pays et 15 implantations en France pour un chiffre d’affaires de 550 millions d’euros. SCALIAN travaille pour des grands Groupes du CAC40 sur des projets en AT ou au forfait.\nLabellisée Great Place to Work, SCALIAN connait une croissance de 20% chaque année.\n\nPourquoi nous rejoindre\n\nRejoignez Scalian, où depuis plus de 30 ans, l'innovation et l'expertise se rejoignent. En tant que cabinet de conseil en ingénierie multinational de premier plan, nous comptons plus de 6000 spécialistes hautement qualifiés. Notre concentration sur l'IT et l'OT, comprenant l'informatique, l'ingénierie logicielle et des systèmes, l'assurance qualité, la gestion de la chaîne d'approvisionnement et la gestion de projets, nous distingue dans l'industrie.\nNotre expertise couvre divers secteurs technologiques tels que l'automobile, l'aérospatial, le médical, la défense, le ferroviaire et l'énergie, tout en offrant un soutien distinctif pour leur développement et leurs opérations.\n\nQuelles seront les prochaines étapes ?\n\nProcessus de recrutement adaptable :\n• Echange en visio avec Janice, Talent Acquisition Officer,\n• 1er entretien avec Guillaume, Country Director.",
-   "mission": "",
-   "profile": "Qualifications\n• Titulaire d’un Bac+5 en Ressources Humaines et issu·e d’une école de commerce, vous possédez 1 an d’expérience sur une fonction similaire, \n• Les jobboards courants n’ont pas de secret pour vous, \n• Vous parlez anglais couramment, \n• Vous avez de bonnes capacités rédactionnelles, faites preuve de créativité et êtes force de proposition, \n• Vous avez le goût du challenge et êtes orienté·e résultats, vous êtes autonomes et avez de bonnes capacités d’analyse.",
-   "duration": 12,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2027-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-30T09:23:13Z",
-   "sector": "",
-   "specialization": "[\"238\"]",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-30T09:23:13Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-30T00:00:00",
-    "endBroadcastDate": "2026-10-30T00:00:00"
-   },
-   "summary": "À propos du poste :\n\nRattaché·e à au Country Manager, vous serez un·e véritable business partner en aidant à atteindre des objectifs de recrutement ambitieux et en animant cette activité.\nVos missions :\n• Développer une vision stratégique et innovante pour identifier les filières d'excellences des profils hautement qualifiés au niveau international,\n• Proposer des stratégies de sourcing/recrutement différenciantes,\n• Piloter un plan d'embauches correspondant à toutes les fonctions de l'entreprise, \n• Mener les actions de sourcing/chasse des candidats (jobboards et réseaux sociaux…),\n• Piloter l’intégralité du process de recrutement,\n• Mettre à jour les outils de recrutement et tableaux de bord,\n• Définir et piloter la stratégie des relations écoles et job fair à réaliser,\n• Organiser des évènements recrutement. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246542",
-   "score": 29,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 12,
-    "qual": 28,
-    "calc": 0
-   },
-   "dominant_axis": "qual",
-   "matched_families": [
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Conception mécanique (264-1), Outils et moyens de fabrication (259-1)",
-     "weight": 7,
-     "terms": [
-      "ingenierie"
-     ]
-    },
-    {
-     "id": "qual2",
-     "axis": "qual",
-     "source": "Qualité et normes (774-1)",
-     "weight": 10,
-     "terms": [
-      "assurance qualite",
-      "qualite"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "aeronautique",
-      "automobile",
-      "defense"
-     ],
-     "points": 5
     },
     {
      "label": "Niveau bac+5 / ingénieur annoncé",
@@ -40611,6 +40457,78 @@
    ]
   },
   {
+   "id": "246863",
+   "title": "Chargé(e) de mission numérique (H/F)",
+   "company": "MINISTERE DE L'EUROPE ET DES AFFAIRES ETRANGERES",
+   "country": "SENEGAL",
+   "city": "DAKAR",
+   "description": "ATTENTION : Veillez à postuler via cette plate-forme pendant que l’offre est en ligne, celle-ci disparaîtra de ce site le jour d’expiration mentionné dans l’annonce à 00h01.\n\n*************************************************\n\nSous l’autorité du Conseiller de coopération et d’action culturelle (COCAC) et Directeur de l’Institut français du Sénégal, de son adjoint, et de l’Attaché de coopération « Innovation et Économie numérique », le/la chargé/e de mission soutient la politique de coopération dans les domaines de l’innovation et de l’économie numérique et contribue à la politique de communication, en qualité de référent/e communication du SCAC. Il s’agit en particulier d’accompagner le développement du réseau d’incubateurs de l’Institut français du Sénégal et des Alliances françaises au Sénégal et en Gambie (Réseau Teranga Tech Incub), d’accompagner les différents projets « Innovation et Économie numérique » soutenus dans le cadre de projet Fonds Équipe France « FEF » et de contribuer à la cohésion de la communication du réseau autour de thématiques d’avenir.\n\nLes activités principales du/de la chargé/e de mission seront les suivantes :\n\n- Piloter et animer le réseau Teranga Tech Incub, réseau d’incubateurs porté par l’Ambassade de France et déployé sur l’ensemble du territoire sénégalais et en Gambie (4 pôles d’incubation à Dakar, Saint-Louis, Banjul et Ziguinchor) : soutenir son développement, sa montée en puissance et sa visibilité ; appuyer la montée en compétence des quatre responsables d’incubateurs ; développer le réseau de partenaires de Teranga Tech Incub (entreprises, banques, institutions internationales, autorités sénégalaises et gambiennes, collectivités territoriales françaises/coopération décentralisée) ;\n\n- Accompagner la structuration et le rayonnement de la communauté Jambaar Créa consacrée aux Industries Culturelles et Créatives (ICC), en partenariat avec Euroquity / BPIFrance. Animer cette communauté ; assurer un suivi particulier de l’entrepreneuriat féminin et autres sujets identifiés en lien avec l’Attaché de coopération « Innovation et Économie numérique » (Intelligence artificielle, spatial, etc.) ;\n\n- Soutenir la mise en place de projets du Fonds Equipe France (FEF) ou autre fonds de coopération dans le domaine de l’innovation et l’économie numérique ; soutenir la participation de délégations sénégalaises à des événements internationaux (Vivatech, We Are French Touch, BIG, etc.) ;\n\n- Assurer conjointement avec l’Attaché de coopération « Innovation et Economie numérique » une veille sectorielle selon les priorités du moment.\n\nEn qualité de référent/e communication du SCAC, contribuer à la politique de communication :\n \n- Décliner la stratégie de communication définie et dont la mise en œuvre est coordonnée par le Service presse et communication à l’échelle du service, du réseau (établissements scolaires et alliances françaises), des opérateurs – Institut Français du Sénégal, groupe AFD (dont Expertise France et Proparco), Campus France, France Volontaires, IRD, CIRAD, CNRS – et des ETI ;\n- Veiller à la cohérence des actions de communication et à leur inscription dans l’agenda du renouveau, y compris dans l’utilisation des crédits alloués à la communication dans les projets soutenus par le service ;\n- Participer aux réunions des référents communication, qui préparent le planning éditorial, arbitré par le Service presse et communication, garant de la politique de presse et de communication du poste ;\n- Signaler les interlocuteurs pertinents et leur positionnement, alimenter la cartographie des relais d’influence et contribuer au tableau de bord d’impact tenu par le Service presse et communication.\n\nObservations particulières sur le poste :\n\n- Environnement de travail : le bureau du/de la VIA est situé dans les locaux de l’Ambassade.\n\n- Horaires de travail : disponibilité à prévoir certains soirs et weekends pour des évènements de représentation. Des missions devront également être prévues en région et en Gambie.\n\n- Composition de l’équipe de travail : Le Service de coopération et d’action culturelle (SCAC) est composé d’un Conseiller de coopération et d’action culturel et Directeur de l’Institut français du Sénégal, d’un Conseiller adjoint de coopération et d’action culturelle, de 10 attachés de coopération, de 5 VIA et de 5 agents de droit local. Le/la VIA numérique travaille en lien fonctionnel avec le/la chargé/e de mission communication du Service presse et communication. La stratégie, le porte-parolat et le planning éditorial relèvent du Service presse et communication ; la déclinaison au sein du SCAC, du réseau, des opérateurs et par les ETI relève du/de la référent/e.\n\n- RTT – 11 jours de RTT sur une base de travail Hebdomadaire de 38h30\n\n- Congés : La prise de congés doit se faire en cohérence avec la nécessité de continuité de service (présence d’un binôme), et de la charge de travail planifié. Pas d’autre contrainte. 30 jours de congés.\n\n- Déplacements : Le/la VIA devra prévoir de fréquents déplacements dans différentes régions du Sénégal et en Gambie.\n\n*************************************************\n\nATTENTION : Veillez à postuler via cette plate-forme pendant que l’offre est en ligne. Passé ce délai, il ne sera plus possible de candidater. Les transmissions de candidatures aux conseillers RH ou aux structures d’accueils ne seront pas prises en compte.\nToute candidature à cette offre suppose obligatoirement une inscription préalable sur le site https://monvievia.businessfrance.fr/ Les candidat(e)s non inscrit(e)s ne seront pas retenu(e)s.\n• Les niveaux de langues étrangères devront être OBLIGATOIREMENT précisés selon le cadre européen de référence pour les langues (CECRL) A1, A2, B1, B2, C1, C2.\n• Merci d'adresser ==IMPERATIVEMENT== votre CV et lettre de motivation EN FRANÇAIS, au format PDF en respectant le format de fichiers ci-après :\nNOM Prénom CV.pdf\nNOM Prénom LM.pdf\n• Tout dossier de candidature adressé directement à l’organisme d’affectation et/ou qui serait incomplet ou non conforme NE SERA PAS RETENU.\n• Les lettres de recommandation, prises de contact via les réseaux sociaux (Linkedin, Instagram, etc...) ou autres formes d’intervention auprès des organismes d’affectation (ce qui inclut la DRH) sont proscrites.\n• Si vous ne recevez pas d'information de notre part sous 8 semaines après expiration de l’annonce, vous pourrez considérer que, malgré tout l'intérêt que présente votre profil, il ne correspond pas à nos besoins actuels.\n• Les entretiens auront lieu principalement en visioconférence.\n• Dans le cadre du processus de recrutement, le ministère de l’Europe et des affaires étrangères est susceptible de procéder à une prise de référence auprès des anciens employeurs des candidats, conformément aux articles 1221-8 et 1221-9 du code du travail, en l’absence de disposition dans le code général de la fonction publique ou dans le code du service national.\n• Le/la candidat(e) devra être éligible à l'obtention d'un passeport de service/diplomatique pour le pays de destination.\n• La consultation de la fiche « conseils aux voyageurs » sur le site du MEAE est ==INDISPENSABLE== au moment de postuler : https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/\n\n*************************************************",
+   "mission": "",
+   "profile": "Diplômes demandés : Bac +5 d’une Université, Sciences Po, d’une école de commerce ou d’ingénieurs dans le domaine de l’innovation, de la communication, de la gestion ou de l’entreprenariat.\n\nCompétences attendues :\n• Numérique, innovation, entreprenariat et gestion d’entreprise ;\n• Communication institutionnelle et numérique ;\n• Animation de réseau ;\n• Suivi et gestion de portefeuille de projets ;\n• Très bon niveau d’expression orale et écrite et une capacité à prendre la parole en public ;\n• Une connaissance de l’écosystème d’innovation du Sénégal et de la Gambie serait un plus ;\n• Implication, esprit d’initiative, créativité ;\n• Autonomie ;\n• Esprit d’équipe, discrétion et respect de la confidentialité ;\n• Rigueur et précision ;\n• Sens critique et esprit de synthèse ;\n• Réactivité et rapidité d’exécution.\n\nLangues : Français, Anglais (bon niveau - C1/C2), la maîtrise du Wolof ou de toute autre langue locale parlée au Sénégal sera un atout.\n\nCompétences informatiques : Très bonne maîtrise de la suite Office. La maîtrise des outils de production de contenus (Canva, montage vidéo court) serait un plus.",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-08T15:43:12Z",
+   "sector": "",
+   "specialization": "[\"57\",\"139\",\"171\",\"182\",\"228\"]",
+   "contract": "VIA",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-08T15:43:12Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-08T00:00:00",
+    "endBroadcastDate": "2026-10-12T00:00:00"
+   },
+   "summary": "ATTENTION : Veillez à postuler via cette plate-forme pendant que l’offre est en ligne, celle-ci disparaîtra de ce site le jour d’expiration mentionné dans l’annonce à 00h01.\n\n*************************************************\n\nSous l’autorité du Conseiller de coopération et d’action culturelle (COCAC) et Directeur de l’Institut français du Sénégal, de son adjoint, et de l’Attaché de coopération « Innovation et Économie numérique », le/la chargé/e de mission soutient la politique de coopération dans les domaines de l’innovation et de l’économie numérique et contribue à la politique de communication, en qualité de référent/e communication du SCAC. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/246863",
+   "score": 28,
+   "label": "Périphérique",
+   "first_seen": "2026-10-08T19:56:56+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 10,
+    "qual": 28,
+    "calc": 0
+   },
+   "dominant_axis": "qual",
+   "matched_families": [
+    {
+     "id": "prod6",
+     "axis": "prod",
+     "source": "Usinage / moyens de fabrication (259-1)",
+     "weight": 6,
+     "terms": [
+      "presse"
+     ]
+    },
+    {
+     "id": "qual2",
+     "axis": "qual",
+     "source": "Qualité et normes (774-1)",
+     "weight": 10,
+     "terms": [
+      "qualite"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "spatial"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
    "id": "245475",
    "title": "Business Manager - Industrie & High-Tech (H/F)",
    "company": "MISSION CONSEIL ASSISTANCE INGENIERIE",
@@ -41198,7 +41116,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-21T10:52:41Z",
    "sector": "",
-   "specialization": "328",
+   "specialization": "[\"328\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -41338,7 +41256,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-04T07:27:32Z",
    "sector": "",
-   "specialization": "2",
+   "specialization": "[\"2\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -41821,7 +41739,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-24T11:55:10Z",
    "sector": "",
-   "specialization": "259, 318",
+   "specialization": "[\"259\",\"318\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -43194,73 +43112,6 @@
    ]
   },
   {
-   "id": "246332",
-   "title": "Tax Consultant (H/F)",
-   "company": "ORBISS",
-   "country": "ETATS-UNIS",
-   "city": "AUSTIN       -TX-",
-   "description": "Company overview\r\n\r\nOrbiss Inc. is a tax and accounting firm specializing in business growth in the United States. Launched in 2020, Orbiss has helped hundreds of small and medium-sized international companies scale up and thrive in the dynamic American market.\r\n\r\nWith a focus on personalized solutions, Orbiss offers fully tailored support for our clients’ cross-border tax, accounting, and consulting needs. Our vision is modernity, driving us to adopt an innovative approach that prioritizes process automation and quality assurance, while always keeping people at the heart of our mission.\r\n\r\nAt its core, Orbiss is an innovative, modern, young firm that believes an old industry can still learn new tricks. We prioritize the development of our people and are dedicated to guiding you through the learning process.\r\n\r\nAs a Senior Tax Consultant, you will be responsible for:\r\n\r\nTax Advisory & Planning Support\r\n• Design and lead comprehensive U.S. and international tax planning strategies to High-net worth individuals and business structures.\r\n• Lead cross-border reorganizations analyses and permanent establishment assessments.\r\n• Provide senior-level guidance on tax treaty applications, FATCA, PFIC and CFC/GILTI regimes.\r\n• Conduct detailed tax research and prepare technical memos on U.S. and international tax topics.\r\n• Support the preparation of advisory deliverables related to personal and corporate structuring, and tax optimization.\r\n\nEquity Compensation & Stock Options\r\n• Advise U.S. and foreign clients on the design and tax treatment of equity compensation plans like ISO vs. NSO stock options, RSUs....\r\n• Analyze cross-border stock option taxation, including sourcing issues for global mobility employees and executives, and tax opportunities.\r\n• Support clients in structuring 83(b) elections, AMT exposure and QSBS qualifications.\r\n• Coordinate with legal counsel on equity plan documentation for international founders.\r\n\r\nClient Relationship Management\r\n• Own a portfolio of senior client relationships, serving as the main point of contact for tax matters throughout the fiscal year.\r\n• Deliver clear, actionable advice on complex tax issues to C-suite executives, founders, and general counsel.\r\n• Lead or co-lead client presentations, strategy sessions, and annual tax planning meetings.\r\n• Advise tax strategies for wealth transfer, estate planning, and cross-jurisdictional compliance.\r\n\nCompliance Oversight\r\n• Review and sign off on federal and state income tax returns, and international filings (5471, 5472, 8858, 8865).\r\n• Monitor legislative and regulatory developments (IRS, Treasury Reg.) and translate their impact for clients in practical terms.\r\n\r\nTeam Leadership & Thought Leadership\r\n• Contribute to internal knowledge-sharing initiatives, technical memos, and client-facing educational content.\r\n\r\nBusiness Support\r\n• Drive business development through proposals, speaking engagements, and thought leadership content; collaborate with senior partners on strategic client initiatives.",
-   "mission": "",
-   "profile": "• Law degree with a specialization in tax law (Avocat fiscaliste, Master 2 Fiscalité internationale, LLM in Taxation, JD with tax focus, or equivalent). Bar admission (French, U.S., or other jurisdiction) is a strong plus; \n• 2–5 years of experience in tax advisory, ideally in a law firm, Big 4, or boutique international tax practice.\n• Demonstrated expertise in U.S tax matters, cross-border structures, and international tax frameworks \n• Hands-on experience with equity compensation plans (stock options, RSUs) and their cross-border tax implications.\n• Exceptional written and verbal communication skills — able to translate dense tax analysis into clear client advice.\n• Highly autonomous and comfortable managing multiple complex engagements simultaneously in a fast-paced environment.\n• Proficiency with tax research tools: Bloomberg Tax or CCH.\n• French fluency is a significant advantage given our international client base; Spanish, German, or other European languages are a plus.",
-   "duration": 24,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2028-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-23T19:25:57Z",
-   "sector": "",
-   "specialization": "342",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-23T19:25:57Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2028-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-24T00:00:00",
-    "endBroadcastDate": "2026-10-24T00:00:00"
-   },
-   "summary": "Company overview\r\n\r\nOrbiss Inc. is a tax and accounting firm specializing in business growth in the United States. Launched in 2020, Orbiss has helped hundreds of small and medium-sized international companies scale up and thrive in the dynamic American market.\r\n\r\nWith a focus on personalized solutions, Orbiss offers fully tailored support for our clients’ cross-border tax, accounting, and consulting needs. Our vision is modernity, driving us to adopt an innovative approach that prioritizes process automation and quality assurance, while always keeping people at the heart of our mission.\r\n\r\nAt its core, Orbiss is an innovative, modern, young firm that believes an old industry can still learn new tricks. We prioritize the development of our people and are dedicated to guiding you through the learning process.\r\n\r\nAs a Senior Tax Consultant, you will be responsible for:\r\n\r\nTax Advisory & Planning Support\r\n• Design and lead comprehensive U.S. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246332",
-   "score": 25,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 0,
-    "qual": 28,
-    "calc": 17
-   },
-   "dominant_axis": "qual",
-   "matched_families": [
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1), Initiation Excel et macros (266-1), Asservissement (840-1)",
-     "weight": 5,
-     "terms": [
-      "automation"
-     ]
-    },
-    {
-     "id": "qual2",
-     "axis": "qual",
-     "source": "Qualité et normes (774-1)",
-     "weight": 10,
-     "terms": [
-      "compliance",
-      "quality",
-      "quality assurance"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "245140",
    "title": "Supply Chain Planner (H/F)",
    "company": "PRODUCT DEVELOPMENT EMPLOYENEURSHIP",
@@ -43412,20 +43263,20 @@
    "mission": "",
    "profile": "Ce que nous recherchons chez vous :\n\nUne expérience en tant que chef de projet\nExpérience avec les KPIs\nExpérience dans l'industrie aérospatiale ou toute autre industrie critique\nExpérience avec les fournisseurs et les clients\nBonne connaissance de la planification\nExcellentes compétences en communication en anglais, le français étant un atout important",
    "duration": 24,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2028-12-01T00:00:00",
+   "start_date": "2027-03-01T00:00:00",
+   "end_date": "2029-03-01T00:00:00",
    "expiry_date": "",
    "publish_date": "2026-04-02T15:49:12Z",
    "sector": "",
-   "specialization": "60, 262, 264",
+   "specialization": "[\"60\",\"262\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-04-02T15:49:12Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2028-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-10T00:00:00",
-    "endBroadcastDate": "2026-10-10T00:00:00"
+    "missionStartDate": "2027-03-01T00:00:00",
+    "missionEndDate": "2029-03-01T00:00:00",
+    "startBroadcastDate": "2026-10-08T00:00:00",
+    "endBroadcastDate": "2026-11-07T00:00:00"
    },
    "summary": "Vous êtes PMO en Europe et vous rêvez d'une expérience au Canada !\r\n\r\nSi votre réponse est oui et que vous avez une première expérience dans le secteur aéronautique, c'est votre jour de chance car nous sommes à la recherche de candidats dynamiques et talentueux pour rejoindre notre équipe à Montréal !\r\n\r\nQuel sera votre rôle ?\r\n\r\nLes missions seront variées :\r\n\r\nDévelopper des indicateurs pour soutenir les objectifs du projet (opérationnels et financiers)\r\nGestion de la planification, des risques et du budget\r\nSoutenir le projet dans la mise en œuvre des nouvelles gouvernances\r\nSuivre le succès du projet, s'assurer que les activités ainsi que les livrables sont planifiés et progressent correctement selon le plan\r\nCapacité à assurer régulièrement l'interface et le suivi avec les fournisseurs, les parties prenantes, etc.\r\n\r\nCe que cette expérience va vous apporter :\r\n\r\nNos équipes canadiennes vous accueillent dans un environnement bienveillant et bilingue où vous pourrez vous épanouir et développer vos compétences rapidement.\r\n\r\nPourquoi feriez-vous le grand saut ? […]",
    "url": "https://mon-vie-via.businessfrance.fr/offres/239998",
