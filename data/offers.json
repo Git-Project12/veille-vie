@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-07T17:26:04+00:00",
+ "generated_at": "2026-10-08T07:53:49+00:00",
  "source": "Business France — mon-vie-via.businessfrance.fr",
- "total_scanned": 824,
- "total_announced": 824,
- "total_kept": 466,
+ "total_scanned": 812,
+ "total_announced": 812,
+ "total_kept": 460,
  "threshold": 25,
  "axes": {
   "rd": {
@@ -360,7 +360,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T12:04:49Z",
    "sector": "",
-   "specialization": "[\"251\"]",
+   "specialization": "251",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -1334,7 +1334,7 @@
    "expiry_date": "",
    "publish_date": "2025-10-08T09:46:46Z",
    "sector": "",
-   "specialization": "[\"77\",\"149\"]",
+   "specialization": "77, 149",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -1871,118 +1871,6 @@
    ]
   },
   {
-   "id": "245642",
-   "title": "Ingénieur(e) Conception Mécanique CREO - Mécanique de Précision (H/F)",
-   "company": "ISALYS CONSULTING FRANCE",
-   "country": "BELGIQUE",
-   "city": "LIEGE",
-   "description": "Dans le cadre du développement de projets d'envergure dans les secteurs industriels, Isalys Horizons recherche un(e) Ingénieur(e)/technicien(ne) Conception Mécanique CREO - Mécanique de Précision pour intégrer une équipe d'ingénierie.\r\n\r\n🎯 Vos missions :\r\n\r\n- Analyser les besoins mécaniques et définir les fonctions, exigences et plans de développement associés.\r\n- Gérer et organiser les activités mécaniques, mesurer et reporter l'avancement technique auprès des équipes projet.\r\n- Concevoir et développer des pièces, sous-ensembles et ensembles mécaniques en 3D, de la phase d'avant-projet jusqu'au dossier de définition complet.\r\n- Réaliser des mises en plan détaillées avec cotation fonctionnelle et tolérancement selon les normes ISO.\r\n- Effectuer des analyses de chaînes de cotes pour garantir la faisabilité fonctionnelle et industrielle des assemblages.\r\n- Réaliser des calculs de dimensionnement et des simulations par éléments finis pour valider les choix de conception.\r\n- Analyser les contraintes fonctionnelles, dimensionnelles et de fabrication des produits en cours de développement.\r\n- Participer aux revues de conception et défendre les choix techniques auprès des équipes projet et des clients.\r\n- Produire et maintenir la documentation technique associée (notes de calcul, spécifications, dossiers de définition).\r\n\r\nEt pourquoi rejoindre ISALYS Horizons ?\r\n\r\n🛠️ Évoluez dans un environnement technique, innovant et diversifié\r\n⏩ Bénéficiez d'un management de proximité et à l'écoute\r\n🧠 Développez votre carrière grâce à un plan de formation structuré",
-   "mission": "",
-   "profile": "✅ Profil recherché :\n\n- Diplôme d'Ingénieur en mécanique, génie mécanique ou domaine équivalent.\n- Minimum 3 ans d'expérience en conception mécanique de précision — obligatoire.\n- Maîtrise de Creo (PTC) — obligatoire.\n- Expérience en mécanique de précision, idéalement dans un environnement industriel exigeant (défense, électronique embarquée, aéronautique).\n- Rigueur analytique, esprit d'équipe et orientation client prononcés.\n- Français courant — Anglais technique opérationnel (lu, écrit, parlé).",
-   "duration": 12,
-   "start_date": "2026-11-01T00:00:00",
-   "end_date": "2027-11-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-07T08:47:09Z",
-   "sector": "",
-   "specialization": "77",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-07T08:47:09Z",
-    "missionStartDate": "2026-11-01T00:00:00",
-    "missionEndDate": "2027-11-01T00:00:00",
-    "startBroadcastDate": "2026-09-07T00:00:00",
-    "endBroadcastDate": "2026-10-07T00:00:00"
-   },
-   "summary": "Dans le cadre du développement de projets d'envergure dans les secteurs industriels, Isalys Horizons recherche un(e) Ingénieur(e)/technicien(ne) Conception Mécanique CREO - Mécanique de Précision pour intégrer une équipe d'ingénierie.\r\n\r\n🎯 Vos missions :\r\n\r\n- Analyser les besoins mécaniques et définir les fonctions, exigences et plans de développement associés.\r\n- Gérer et organiser les activités mécaniques, mesurer et reporter l'avancement technique auprès des équipes projet.\r\n- Concevoir et développer des pièces, sous-ensembles et ensembles mécaniques en 3D, de la phase d'avant-projet jusqu'au dossier de définition complet.\r\n- Réaliser des mises en plan détaillées avec cotation fonctionnelle et tolérancement selon les normes ISO.\r\n- Effectuer des analyses de chaînes de cotes pour garantir la faisabilité fonctionnelle et industrielle des assemblages.\r\n- Réaliser des calculs de dimensionnement et des simulations par éléments finis pour valider les choix de conception. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/245642",
-   "score": 81,
-   "label": "Cœur de cible",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 12,
-    "qual": 28,
-    "calc": 83
-   },
-   "dominant_axis": "calc",
-   "matched_families": [
-    {
-     "id": "calc1",
-     "axis": "calc",
-     "source": "Introduction à la méthode des éléments finis (256-1), TP Simulation numérique (272-1, 285-x)",
-     "weight": 9,
-     "terms": [
-      "elements finis"
-     ]
-    },
-    {
-     "id": "calc2",
-     "axis": "calc",
-     "source": "CAO (278-1), Conception mécanique (264-1), Critères de choix des matériaux (265-1)",
-     "weight": 8,
-     "terms": [
-      "conception mecanique",
-      "creo",
-      "tolerancement"
-     ]
-    },
-    {
-     "id": "calc3",
-     "axis": "calc",
-     "source": "Résistance des matériaux 1 & 2 (263-1, 270-1), Élastoplasticité (279-1)",
-     "weight": 8,
-     "terms": [
-      "dimensionnement"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Conception mécanique (264-1), Outils et moyens de fabrication (259-1)",
-     "weight": 7,
-     "terms": [
-      "fabrication",
-      "ingenierie"
-     ]
-    },
-    {
-     "id": "qual2",
-     "axis": "qual",
-     "source": "Qualité et normes (774-1)",
-     "weight": 10,
-     "terms": [
-      "normes"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur",
-      "mecanique"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "aeronautique",
-      "defense",
-      "industriel"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "245263",
    "title": "INGÉNIEUR MÉTHODES INDUSTRIALISATION – PROCÉDÉS MÉCANIQUES (H/F)",
    "company": "MISSION CONSEIL ASSISTANCE INGENIERIE",
@@ -1997,7 +1885,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-14T12:42:19Z",
    "sector": "",
-   "specialization": "[\"65\",\"206\",\"264\"]",
+   "specialization": "65, 206, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -2283,149 +2171,6 @@
    ]
   },
   {
-   "id": "244456",
-   "title": "Quality & Automation Engineer (The Hybrid Engineer) (H/F)",
-   "company": "FREMACH DIEPPE",
-   "country": "BELGIQUE",
-   "city": "IZEGEM",
-   "description": "1. The Quality Expert:\n• Ensure compliance with automotive standards (IATF 16949) and apply \"Core Tools\" such as FMEA, PPAP, SPC, and APQP.\n• Lead 8D working groups to find structural solutions for complex problems.\n• Conduct internal LPA audits, process audits, and product audits to elevate quality standards.\n• Manage supplier quality and review their PPAP documentation.\n\n2. The Automation Innovator:\n• Analyze processes and develop automation plans, including ROI calculations.\n• Provide technical support during the launch of new projects and processes.\n• Take full ownership of project follow-up, from initial specifications and supplier contacts to final validation.\n• Provide technical guidance and oversee the successful start-up of new projects.",
-   "mission": "",
-   "profile": "• Education: Master’s degree in Industrial Sciences, or a Bachelor’s degree with a strong drive to further develop your skills.\n• Automotive Quality Tools: Deep knowledge of APQP, PPAP, FMEA (Reverse & PFMEA), SPC, and MSA.\n• Processes & Techniques: Familiarity with injection molding, tooling, robotics (programming and setup), PLCs, and mechanics.\n• Technical Drawing: Ability to read and interpret 2D and 3D drawings confidently.\n• Problem Solving: Expert in leading 8D working groups and applying techniques like Ishikawa and 5 WHY’s.\n• Auditing: Conduct process, product, and LPA (Layered Process Audit) audits.\n• Standards: Basic knowledge of IATF 16949 and ISO standards.\n• Optimization: Apply 5S, TPM, and SMED principles for an efficient work environment.\n• CAD & IT Skills: Proficient in CATIA for technical design; skilled in Google Mail, Google Drive, and MS Office (Excel, Word, PowerPoint).\n• Communication: Strong presentation skills and ability to motivate and lead cross-functional teams.\n• Negotiation: Customer-focused with the ability to defend company interests externally.\n• Languages: Fluent in English; knowledge of French or Dutch is a strong advantage for international communication.\n• Mindset: A motivator who collaborates well in cross-functional teams but can also take the lead. You are both a thinker and a doer.\n• Hands-on Mentality: Enjoy working both at your laptop (Excel, PowerPoint) and on the shop floor.",
-   "duration": 12,
-   "start_date": "2026-11-01T00:00:00",
-   "end_date": "2027-11-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-07-08T07:31:12Z",
-   "sector": "",
-   "specialization": "117",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-07-08T07:31:12Z",
-    "missionStartDate": "2026-11-01T00:00:00",
-    "missionEndDate": "2027-11-01T00:00:00",
-    "startBroadcastDate": "2026-09-07T00:00:00",
-    "endBroadcastDate": "2026-10-07T00:00:00"
-   },
-   "summary": "1. The Quality Expert:\n• Ensure compliance with automotive standards (IATF 16949) and apply \"Core Tools\" such as FMEA, PPAP, SPC, and APQP.\n• Lead 8D working groups to find structural solutions for complex problems.\n• Conduct internal LPA audits, process audits, and product audits to elevate quality standards.\n• Manage supplier quality and review their PPAP documentation.\n\n2. The Automation Innovator:\n• Analyze processes and develop automation plans, including ROI calculations.\n• Provide technical support during the launch of new projects and processes.\n• Take full ownership of project follow-up, from initial specifications and supplier contacts to final validation.\n• Provide technical guidance and oversee the successful start-up of new projects.",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/244456",
-   "score": 79,
-   "label": "Cœur de cible",
-   "first_seen": "2026-08-24T16:01:18+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 45,
-    "qual": 69,
-    "calc": 43
-   },
-   "dominant_axis": "qual",
-   "matched_families": [
-    {
-     "id": "calc2",
-     "axis": "calc",
-     "source": "CAO (278-1), Conception mécanique (264-1), Critères de choix des matériaux (265-1)",
-     "weight": 8,
-     "terms": [
-      "cad",
-      "catia"
-     ]
-    },
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1), Initiation Excel et macros (266-1), Asservissement (840-1)",
-     "weight": 5,
-     "terms": [
-      "automation"
-     ]
-    },
-    {
-     "id": "prod2",
-     "axis": "prod",
-     "source": "Mise en forme par solidification (288-1), Outils et moyens de fabrication (259-1)",
-     "weight": 9,
-     "terms": [
-      "injection"
-     ]
-    },
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1), Tenue mécanique des outillages (284-3, 292-1)",
-     "weight": 10,
-     "terms": [
-      "shop floor",
-      "tooling"
-     ]
-    },
-    {
-     "id": "prod5",
-     "axis": "prod",
-     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
-     "weight": 7,
-     "terms": [
-      "5s",
-      "smed"
-     ]
-    },
-    {
-     "id": "qual2",
-     "axis": "qual",
-     "source": "Qualité et normes (774-1)",
-     "weight": 10,
-     "terms": [
-      "audit",
-      "compliance",
-      "iatf",
-      "quality"
-     ]
-    },
-    {
-     "id": "qual3",
-     "axis": "qual",
-     "source": "Plans d'expériences (283-1), Outils logiciels mathématiques et statistiques (289-1)",
-     "weight": 8,
-     "terms": [
-      "8d",
-      "fmea",
-      "spc"
-     ]
-    },
-    {
-     "id": "qual4",
-     "axis": "qual",
-     "source": "Introduction aux techniques expérimentales (267-1)",
-     "weight": 7,
-     "terms": [
-      "validation"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineer",
-      "quality"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "automotive",
-      "industrial"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "246205",
    "title": "Site Quality Engineer (H/F)",
    "company": "GE HYDRO FRANCE",
@@ -2440,7 +2185,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-21T08:41:15Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -2550,7 +2295,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T13:05:00Z",
    "sector": "",
-   "specialization": "[\"60\"]",
+   "specialization": "60",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -2969,7 +2714,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T15:32:41Z",
    "sector": "",
-   "specialization": "[\"70\"]",
+   "specialization": "70",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -3088,7 +2833,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-02T12:48:29Z",
    "sector": "",
-   "specialization": "[\"60\"]",
+   "specialization": "60",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -3337,7 +3082,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-10T08:20:34Z",
    "sector": "",
-   "specialization": "[\"63\",\"77\",\"109\",\"114\",\"125\",\"207\",\"262\",\"264\"]",
+   "specialization": "63, 77, 109, 114, 125, 207, 262, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -3597,7 +3342,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-02T12:56:05Z",
    "sector": "",
-   "specialization": "[\"60\"]",
+   "specialization": "60",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -3715,7 +3460,7 @@
    "expiry_date": "",
    "publish_date": "2026-03-03T08:40:40Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -4484,7 +4229,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-02T09:00:25Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -4928,7 +4673,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-19T14:31:40Z",
    "sector": "",
-   "specialization": "[\"64\",\"76\",\"77\",\"149\",\"244\",\"264\"]",
+   "specialization": "64, 76, 77, 149, 244, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6178,7 +5923,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-29T14:04:00Z",
    "sector": "",
-   "specialization": "[\"60\",\"64\",\"77\",\"133\",\"162\",\"197\",\"224\",\"225\"]",
+   "specialization": "60, 64, 77, 133, 162, 197, 224, 225",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -7349,7 +7094,7 @@
    "expiry_date": "",
    "publish_date": "2025-11-19T10:45:12Z",
    "sector": "",
-   "specialization": "[\"77\",\"149\",\"207\"]",
+   "specialization": "77, 149, 207",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8047,7 +7792,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-20T19:24:50Z",
    "sector": "",
-   "specialization": "[\"64\",\"65\",\"66\",\"77\",\"107\",\"150\",\"153\",\"207\"]",
+   "specialization": "64, 65, 66, 77, 107, 150, 153, 207",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8274,7 +8019,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-06T09:16:52Z",
    "sector": "",
-   "specialization": "[\"63\"]",
+   "specialization": "63",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8717,7 +8462,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T16:09:45Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9048,7 +8793,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-09T12:26:44Z",
    "sector": "",
-   "specialization": "[\"60\"]",
+   "specialization": "60",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9165,7 +8910,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-31T08:19:32Z",
    "sector": "",
-   "specialization": "[\"63\",\"114\",\"149\",\"150\",\"169\",\"262\",\"264\"]",
+   "specialization": "63, 114, 149, 150, 169, 262, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9285,7 +9030,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T08:00:24Z",
    "sector": "",
-   "specialization": "[\"114\"]",
+   "specialization": "114",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9729,7 +9474,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-29T08:58:35Z",
    "sector": "",
-   "specialization": "[\"60\",\"64\",\"65\",\"77\",\"133\",\"149\",\"264\"]",
+   "specialization": "60, 64, 65, 77, 133, 149, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9941,7 +9686,7 @@
    "expiry_date": "",
    "publish_date": "2025-11-12T08:45:10Z",
    "sector": "",
-   "specialization": "[\"149\",\"208\",\"209\"]",
+   "specialization": "149, 208, 209",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10458,7 +10203,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-01T07:10:51Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10561,7 +10306,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T14:37:58Z",
    "sector": "",
-   "specialization": "[\"60\"]",
+   "specialization": "60",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10682,7 +10427,7 @@
    "expiry_date": "",
    "publish_date": "2025-11-19T10:45:12Z",
    "sector": "",
-   "specialization": "[\"71\",\"73\",\"224\"]",
+   "specialization": "71, 73, 224",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10791,7 +10536,7 @@
    "expiry_date": "",
    "publish_date": "2025-10-08T10:46:44Z",
    "sector": "",
-   "specialization": "77, 149, 207",
+   "specialization": "[\"77\",\"149\",\"207\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10911,7 +10656,7 @@
    "expiry_date": "",
    "publish_date": "2025-10-08T09:46:46Z",
    "sector": "",
-   "specialization": "[\"71\",\"73\",\"224\"]",
+   "specialization": "71, 73, 224",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -11020,7 +10765,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-05T12:06:18Z",
    "sector": "",
-   "specialization": "[\"224\"]",
+   "specialization": "224",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12469,7 +12214,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T07:31:41Z",
    "sector": "",
-   "specialization": "[\"206\"]",
+   "specialization": "206",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12570,7 +12315,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-07T08:56:58Z",
    "sector": "",
-   "specialization": "[\"60\"]",
+   "specialization": "60",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12767,7 +12512,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-28T14:09:05Z",
    "sector": "",
-   "specialization": "[\"207\"]",
+   "specialization": "207",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -13438,7 +13183,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-09T06:50:12Z",
    "sector": "",
-   "specialization": "[\"86\",\"256\"]",
+   "specialization": "86, 256",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -13503,107 +13248,6 @@
      "label": "Secteur industriel compatible",
      "terms": [
       "industrial"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
-   "id": "245632",
-   "title": "Logistics Project Engineer (H/F)",
-   "company": "DAHER LOGISTICS",
-   "country": "ESPAGNE",
-   "city": "BARCELONE",
-   "description": "Our Logistics Division supports major aerospace and industrial clients by providing warehouse operations, manufacturing support, supply chain support and cutting-edge process and storage solutions .\r\n\r\nTo support our international growth, we are offering a VIE opportunity for a Logistics Project Engineer to work on continuous improvement and warehouse optimisation projects in Spain.\r\n\r\nReporting to the Managing Director, your main tasks could include:\r\n• Working on continuous improvement projects, optimising space and workflows.\r\n• Implementing new storage equipment and overseeing installations.\r\n• Time measurements and productivity calculations of existing and new activities.\r\n• Creating and documenting new operational procedures.\r\n• Training operational staff on new processes and best practices.\r\n• Optimising existing workflows to improve efficiency and reduce costs.\r\n\r\nHOW YOU WILL SUCCEED IN THIS ROLE\r\n\r\nYou will be analytically minded but not rigid:\r\n\r\n• Clearly visualising and explaining findings and future improvements.\r\n• Using data-driven analysis to assess the current state (\"AS-IS\") before implementing changes.\r\n• Presenting findings to internal and external stakeholders, adapting communication to different audiences.\r\n• Collaborating with all levels of the organisation, from senior project engineers to shop floor staff.\r\n• Working closely with customers, requiring strong interpersonal skills.\r\nThis role is an excellent opportunity to gain hands-on experience in logistics project management while working in an international environment.\r\n________________________________________\r\nPROFILE\r\nRecently graduated (or final year) in Logistics, Supply Chain, Industrial Engineering, or a related field. \r\nStrong analytical skills and an interest in process optimisation and continuous improvement. \r\nProficiency in Excel (knowledge of WMS/TMS, SAP/Reflex is a plus). \r\nLanguages: B1 English minimum (due to frequent customer interactions). Fluent Spanish.\r\n ✈️ Willingness to relocate internationally and work in a multicultural environment.\r\n________________________________________\r\nWHY JOIN US?\r\n🌍 Work abroad in an exciting international setting.\r\n📈 Gain hands-on experience in logistics project management and process improvement. \r\n🔹 Interested? Apply now and be part of DAHER’s growing logistics team!",
-   "mission": "",
-   "profile": "Recently graduated (or final year) in Logistics, Supply Chain, Industrial Engineering, or a related field. \r\nStrong analytical skills and an interest in process optimisation and continuous improvement. \r\nProficiency in Excel (knowledge of WMS/TMS, SAP/Reflex is a plus). \r\nLanguages: B1 English minimum (due to frequent customer interactions). Fluent Spanish.\r\nWillingness to relocate internationally and work in a multicultural environment.",
-   "duration": 12,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2027-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-04T22:29:38Z",
-   "sector": "",
-   "specialization": "77, 109, 150, 244, 251, 264",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-04T22:29:38Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-07T00:00:00",
-    "endBroadcastDate": "2026-10-07T00:00:00"
-   },
-   "summary": "Our Logistics Division supports major aerospace and industrial clients by providing warehouse operations, manufacturing support, supply chain support and cutting-edge process and storage solutions .\r\n\r\nTo support our international growth, we are offering a VIE opportunity for a Logistics Project Engineer to work on continuous improvement and warehouse optimisation projects in Spain.\r\n\r\nReporting to the Managing Director, your main tasks could include:\r\n• Working on continuous improvement projects, optimising space and workflows.\r\n• Implementing new storage equipment and overseeing installations.\r\n• Time measurements and productivity calculations of existing and new activities.\r\n• Creating and documenting new operational procedures.\r\n• Training operational staff on new processes and best practices.\r\n• Optimising existing workflows to improve efficiency and reduce costs.\r\n\r\nHOW YOU WILL SUCCEED IN THIS ROLE\r\n\r\nYou will be analytically minded but not rigid:\r\n\r\n• Clearly visualising and explaining findings and future improvements. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/245632",
-   "score": 54,
-   "label": "Bonne adéquation",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 52,
-    "qual": 0,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1), Tenue mécanique des outillages (284-3, 292-1)",
-     "weight": 10,
-     "terms": [
-      "manufacturing",
-      "shop floor"
-     ]
-    },
-    {
-     "id": "prod5",
-     "axis": "prod",
-     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
-     "weight": 7,
-     "terms": [
-      "continuous improvement",
-      "productivity"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Conception mécanique (264-1), Outils et moyens de fabrication (259-1)",
-     "weight": 7,
-     "terms": [
-      "engineering"
-     ]
-    },
-    {
-     "id": "prod6",
-     "axis": "prod",
-     "source": "Usinage / moyens de fabrication (259-1)",
-     "weight": 6,
-     "terms": [
-      "cutting"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineer"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "aerospace",
-      "industrial",
-      "space"
      ],
      "points": 5
     },
@@ -14493,7 +14137,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T13:42:07Z",
    "sector": "",
-   "specialization": "[\"331\"]",
+   "specialization": "331",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -15021,7 +14665,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-14T17:08:48Z",
    "sector": "",
-   "specialization": "[\"149\",\"169\"]",
+   "specialization": "149, 169",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -15122,7 +14766,7 @@
    "expiry_date": "",
    "publish_date": "2025-11-19T10:45:12Z",
    "sector": "",
-   "specialization": "[\"71\"]",
+   "specialization": "71",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -15330,7 +14974,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-21T12:28:26Z",
    "sector": "",
-   "specialization": "[\"73\"]",
+   "specialization": "73",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -15981,20 +15625,20 @@
    "mission": "",
    "profile": "- Diplôme d'Ingénieur en Mécanique, Électromécanique ou équivalent.\n- Minimum 1 an d'expérience en gestion de projets ou en ingénierie mécanique après l'obtention du diplôme.\n- Expérience acquise dans un environnement industriel (agroalimentaire, pharmaceutique, métallurgique, chimique ou de l'industrie lourde)\n- Bonne connaissance des équipements industriels, des processus de fabrication et des contraintes liées aux environnements de production.\n- Goût pour le terrain, esprit d'analyse et capacité à travailler avec des équipes multidisciplinaires.\n- Maîtrise du français et de l'anglais, à l'écrit comme à l'oral.",
    "duration": 12,
-   "start_date": "2026-11-01T00:00:00",
-   "end_date": "2027-11-01T00:00:00",
+   "start_date": "2026-12-01T00:00:00",
+   "end_date": "2027-12-01T00:00:00",
    "expiry_date": "",
    "publish_date": "2026-07-30T08:31:23Z",
    "sector": "",
-   "specialization": "65, 77",
+   "specialization": "[\"65\",\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-07-30T08:31:23Z",
-    "missionStartDate": "2026-11-01T00:00:00",
-    "missionEndDate": "2027-11-01T00:00:00",
-    "startBroadcastDate": "2026-09-14T00:00:00",
-    "endBroadcastDate": "2026-10-14T00:00:00"
+    "missionStartDate": "2026-12-01T00:00:00",
+    "missionEndDate": "2027-12-01T00:00:00",
+    "startBroadcastDate": "2026-10-08T00:00:00",
+    "endBroadcastDate": "2026-11-07T00:00:00"
    },
    "summary": "- Piloter et suivre des projets mécaniques depuis la phase d'étude jusqu'à la mise en service des équipements industriels.\n- Réaliser les études techniques, les calculs de dimensionnement et les analyses de faisabilité des solutions mécaniques.\n- Participer à la rédaction des cahiers des charges et au suivi des consultations fournisseurs.\n- Coordonner les activités des différents intervenants internes et externes tout au long des projets.\n- Assurer le suivi des travaux sur site et veiller au respect des exigences techniques, qualité, coûts et délais.\n- Contribuer aux projets d'amélioration, de modernisation et d'optimisation des installations industrielles.\n- Analyser les problématiques techniques et proposer des solutions adaptées pour améliorer la fiabilité des équipements.\n- Rédiger et mettre à jour la documentation technique liée aux projets.",
    "url": "https://mon-vie-via.businessfrance.fr/offres/245012",
@@ -16079,7 +15723,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-31T08:20:36Z",
    "sector": "",
-   "specialization": "[\"2\",\"60\",\"62\",\"63\",\"64\",\"65\",\"66\",\"71\",\"73\",\"110\",\"112\",\"114\",\"133\",\"143\",\"144\",\"145\",\"149\",\"155\",\"158\",\"159\",\"160\",\"161\",\"168\",\"169\",\"205\",\"206\",\"207\",\"208\",\"213\",\"244\",\"245\",\"246\",\"247\",\"248\",\"249\",\"251\",\"327\",\"328\",\"329\",\"330\",\"331\",\"345\",\"355\",\"358\"]",
+   "specialization": "2, 60, 62, 63, 64, 65, 66, 71, 73, 110, 112, 114, 133, 143, 144, 145, 149, 155, 158, 159, 160, 161, 168, 169, 205, 206, 207, 208, 213, 244, 245, 246, 247, 248, 249, 251, 327, 328, 329, 330, 331, 345, 355, 358",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -17221,7 +16865,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T14:37:51Z",
    "sector": "",
-   "specialization": "[\"51\"]",
+   "specialization": "51",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -17320,7 +16964,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T11:27:28Z",
    "sector": "",
-   "specialization": "259",
+   "specialization": "[\"259\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -17692,7 +17336,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T13:43:34Z",
    "sector": "",
-   "specialization": "[\"64\"]",
+   "specialization": "64",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -18317,7 +17961,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-12T13:36:38Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -18769,7 +18413,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-29T16:32:01Z",
    "sector": "",
-   "specialization": "[\"63\",\"113\",\"256\"]",
+   "specialization": "63, 113, 256",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19063,7 +18707,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T08:06:58Z",
    "sector": "",
-   "specialization": "[\"238\"]",
+   "specialization": "238",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19149,7 +18793,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T08:00:08Z",
    "sector": "",
-   "specialization": "[\"238\"]",
+   "specialization": "238",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19590,7 +19234,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-07T08:04:53Z",
    "sector": "",
-   "specialization": "[\"160\"]",
+   "specialization": "160",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19754,7 +19398,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-29T07:17:31Z",
    "sector": "",
-   "specialization": "[\"70\",\"76\",\"77\",\"365\"]",
+   "specialization": "70, 76, 77, 365",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19911,20 +19555,20 @@
    "mission": "",
    "profile": "- Diplôme d'Ingénieur à dominante nucléaire, énergétique, mécanique, électromécanique ou équivalent.\n- Première expérience sur centrale nucléaire (alternance ou expérience professionnelle d'au moins 1 an).\n- Intérêt marqué pour les sujets de prolongation de durée de vie des installations (LTO), de sûreté nucléaire et de gestion des déchets radioactifs.\n- Goût pour le terrain et capacité à interagir avec les équipes d'exploitation et de maintenance.\n- Bonne capacité d'analyse, rigueur technique et aisance rédactionnelle.\n- Maîtrise du français et bon niveau d'anglais professionnel (écrit et oral).",
    "duration": 12,
-   "start_date": "2026-11-01T00:00:00",
-   "end_date": "2027-11-01T00:00:00",
+   "start_date": "2026-12-01T00:00:00",
+   "end_date": "2027-12-01T00:00:00",
    "expiry_date": "",
    "publish_date": "2026-07-30T07:58:49Z",
    "sector": "",
-   "specialization": "65, 68, 77, 107, 149, 159, 168, 365",
+   "specialization": "[\"65\",\"68\",\"77\",\"107\",\"149\",\"159\",\"168\",\"365\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-07-30T07:58:49Z",
-    "missionStartDate": "2026-11-01T00:00:00",
-    "missionEndDate": "2027-11-01T00:00:00",
-    "startBroadcastDate": "2026-09-14T00:00:00",
-    "endBroadcastDate": "2026-10-14T00:00:00"
+    "missionStartDate": "2026-12-01T00:00:00",
+    "missionEndDate": "2027-12-01T00:00:00",
+    "startBroadcastDate": "2026-10-08T00:00:00",
+    "endBroadcastDate": "2026-11-07T00:00:00"
    },
    "summary": "- Participer aux projets liés à la prolongation de la durée de vie des installations (LTO) et à l'amélioration continue des équipements.\n- Contribuer aux études techniques portant sur la gestion, le conditionnement et le traitement des déchets radioactifs.\n- Réaliser des analyses techniques et assurer le suivi de dossiers en lien avec la sûreté nucléaire et les exigences réglementaires.\n- Collaborer avec les équipes d'exploitation, de maintenance et d'ingénierie pour préparer et suivre les interventions sur le terrain.\n- Participer aux inspections, contrôles et campagnes de surveillance des installations.\n- Analyser les données opérationnelles et proposer des actions d'optimisation des processus et équipements.\n- Rédiger la documentation technique, les rapports d'études et les supports nécessaires aux projets.\n- Assurer l'interface avec les différents acteurs internes et externes impliqués dans les projets nucléaires.",
    "url": "https://mon-vie-via.businessfrance.fr/offres/245007",
@@ -20098,7 +19742,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-06T12:34:53Z",
    "sector": "",
-   "specialization": "[\"86\",\"150\",\"244\"]",
+   "specialization": "86, 150, 244",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20472,7 +20116,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-10T09:56:17Z",
    "sector": "",
-   "specialization": "[\"49\",\"63\",\"86\",\"125\",\"207\",\"208\",\"256\",\"366\"]",
+   "specialization": "49, 63, 86, 125, 207, 208, 256, 366",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20744,7 +20388,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T12:15:30Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21315,7 +20959,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-10T12:08:07Z",
    "sector": "",
-   "specialization": "[\"71\"]",
+   "specialization": "71",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21636,7 +21280,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-23T09:02:41Z",
    "sector": "",
-   "specialization": "[\"52\",\"66\",\"114\",\"115\",\"143\",\"148\",\"153\"]",
+   "specialization": "52, 66, 114, 115, 143, 148, 153",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21726,7 +21370,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-23T07:15:58Z",
    "sector": "",
-   "specialization": "[\"66\"]",
+   "specialization": "66",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22202,7 +21846,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-10T15:03:12Z",
    "sector": "",
-   "specialization": "209",
+   "specialization": "[\"209\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22281,7 +21925,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-18T08:08:01Z",
    "sector": "",
-   "specialization": "[\"62\"]",
+   "specialization": "62",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22353,7 +21997,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-28T07:15:47Z",
    "sector": "",
-   "specialization": "4, 5, 9, 21, 109, 130, 147, 199, 202, 205",
+   "specialization": "[\"4\",\"5\",\"9\",\"21\",\"109\",\"130\",\"147\",\"199\",\"202\",\"205\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22550,7 +22194,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-17T07:38:26Z",
    "sector": "",
-   "specialization": "[\"130\"]",
+   "specialization": "130",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22834,20 +22478,20 @@
    "mission": "",
    "profile": "Profil recherché :\r\nDiplôme BTS MI, MAI ou CRSA (ou équivalent) ou supérieur\r\nMaîtrise de l’anglais (oral et écrit).\r\nDisponibilité pour voyager en Europe (permis de conduire requis).\r\n\r\nQualités requises :\r\nPassion pour la mécanique et l’électricité appliquées aux machines industrielles.\r\nA l'aise en mécanique, électricité, et automatisme même si le poste inclut une formation significative par Durrenberg.\r\nAutonomie et capacité d’adaptation face à des environnements variés.\r\nMotivation à sortir de votre zone de confort pour relever des défis techniques.",
    "duration": 24,
-   "start_date": "2026-11-01T00:00:00",
-   "end_date": "2028-11-01T00:00:00",
+   "start_date": "2026-12-01T00:00:00",
+   "end_date": "2028-12-01T00:00:00",
    "expiry_date": "",
    "publish_date": "2026-05-06T16:27:06Z",
    "sector": "",
-   "specialization": "64, 65, 71, 77, 107, 149, 153, 224",
+   "specialization": "[\"64\",\"65\",\"71\",\"77\",\"107\",\"149\",\"153\",\"224\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-05-06T16:27:06Z",
-    "missionStartDate": "2026-11-01T00:00:00",
-    "missionEndDate": "2028-11-01T00:00:00",
-    "startBroadcastDate": "2026-09-14T00:00:00",
-    "endBroadcastDate": "2026-10-14T00:00:00"
+    "missionStartDate": "2026-12-01T00:00:00",
+    "missionEndDate": "2028-12-01T00:00:00",
+    "startBroadcastDate": "2026-10-08T00:00:00",
+    "endBroadcastDate": "2026-11-07T00:00:00"
    },
    "summary": "Technicien de Maintenance (H/F) – Machines Automatisées\r\nPoste basé à Bruxelles (Belgique) – Déplacements en France et en Europe\r\n\r\nÀ propos de nous :\r\nSociété d’ingénierie dynamique et innovante, nous sommes spécialisés dans les solutions de machines d'emballage automatisées pilotées par automates programmables. Pour renforcer notre équipe, nous recherchons un Technicien de Maintenance (H/F) prêt à relever des défis techniques variés sur les sites de nos clients.\r\n\r\nVos missions :\r\nAssurer la mise en service des machines.\r\nEffectuer des opérations de maintenance préventive et corrective.\r\nDiagnostiquer et résoudre les pannes.\r\nApporter des modifications techniques adaptées aux besoins.\r\nFormer les utilisateurs sur site.\r\nLes déplacements se font en voiture, train ou avion, selon la distance et la destination.\r\n\r\nCe que nous offrons :\r\nFormation complète dès votre intégration, avec un accompagnement sur les premières missions terrain.\r\nOutils mis à disposition : téléphone, ordinateur portable, outillage d’intervention, voiture […]",
    "url": "https://mon-vie-via.businessfrance.fr/offres/242883",
@@ -23197,7 +22841,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-07T08:11:27Z",
    "sector": "",
-   "specialization": "[\"63\"]",
+   "specialization": "63",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -23519,20 +23163,20 @@
    "mission": "",
    "profile": "- Bachelier en Électricité, Électromécanique, Automatisation ou équivalent.\n- Minimum 2 ans d'expérience comme dessinateur/projeteur électrique après l'obtention du diplôme.\n- Maîtrise du logiciel EPLAN pour la conception et la réalisation de schémas électriques industriels.\n- Expérience idéalement acquise au sein d'un bureau d'études intervenant sur des projets industriels ou infrastructurels.\n- Bonne connaissance des normes électriques et des méthodologies de conception de dossiers techniques.\n- Maîtrise du français et de l'anglais, à l'écrit comme à l'oral.",
    "duration": 12,
-   "start_date": "2026-11-01T00:00:00",
-   "end_date": "2027-11-01T00:00:00",
+   "start_date": "2026-12-01T00:00:00",
+   "end_date": "2027-12-01T00:00:00",
    "expiry_date": "",
    "publish_date": "2026-07-30T08:38:53Z",
    "sector": "",
-   "specialization": "64, 65, 68, 71, 73, 153",
+   "specialization": "[\"64\",\"65\",\"68\",\"71\",\"73\",\"153\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-07-30T08:38:53Z",
-    "missionStartDate": "2026-11-01T00:00:00",
-    "missionEndDate": "2027-11-01T00:00:00",
-    "startBroadcastDate": "2026-09-14T00:00:00",
-    "endBroadcastDate": "2026-10-14T00:00:00"
+    "missionStartDate": "2026-12-01T00:00:00",
+    "missionEndDate": "2027-12-01T00:00:00",
+    "startBroadcastDate": "2026-10-08T00:00:00",
+    "endBroadcastDate": "2026-11-07T00:00:00"
    },
    "summary": "- Réaliser les schémas électriques et les dossiers de conception sous EPLAN pour des projets industriels et d'infrastructure.\n- Élaborer et mettre à jour les plans d'implantation, schémas de puissance, de commande et de câblage.\n- Participer à l'analyse des besoins techniques et à la définition des solutions électriques adaptées aux projets.\n- Assurer la cohérence et la conformité des études réalisées avec les normes et standards en vigueur.\n- Collaborer avec les équipes d'ingénierie, d'automatisme, de projet et de mise en service.\n- Réaliser les nomenclatures, listes de matériels et dossiers techniques associés aux études.\n- Apporter un support technique lors des phases de fabrication, d'installation et de mise en service.\n- Contribuer à l'amélioration des méthodes de conception et à la standardisation des documents techniques.",
    "url": "https://mon-vie-via.businessfrance.fr/offres/245013",
@@ -23696,7 +23340,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-28T07:33:59Z",
    "sector": "",
-   "specialization": "[\"73\"]",
+   "specialization": "73",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -23768,7 +23412,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-12T13:45:29Z",
    "sector": "",
-   "specialization": "[\"29\"]",
+   "specialization": "29",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -23840,7 +23484,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-08T08:03:39Z",
    "sector": "",
-   "specialization": "[\"65\",\"73\",\"77\",\"107\",\"206\",\"207\",\"224\",\"264\"]",
+   "specialization": "65, 73, 77, 107, 206, 207, 224, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -23912,7 +23556,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-28T06:17:53Z",
    "sector": "",
-   "specialization": "[\"60\"]",
+   "specialization": "60",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -23981,7 +23625,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-18T09:34:18Z",
    "sector": "",
-   "specialization": "[\"207\"]",
+   "specialization": "207",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -24226,7 +23870,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-11T16:09:31Z",
    "sector": "",
-   "specialization": "138, 144, 245, 246, 251, 330, 354, 355, 356, 358",
+   "specialization": "[\"138\",\"144\",\"245\",\"246\",\"251\",\"330\",\"354\",\"355\",\"356\",\"358\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -24361,7 +24005,7 @@
    "expiry_date": "",
    "publish_date": "2025-11-12T08:45:10Z",
    "sector": "",
-   "specialization": "109, 149",
+   "specialization": "[\"109\",\"149\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -24928,7 +24572,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T15:09:33Z",
    "sector": "",
-   "specialization": "[\"60\"]",
+   "specialization": "60",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25086,92 +24730,6 @@
    ]
   },
   {
-   "id": "246694",
-   "title": "Engineering Management Coordinator (H/F)",
-   "company": "ALSTOM TRANSPORT SA",
-   "country": "CANADA",
-   "city": "ST BRUNO DE MONTARVILLE -QC",
-   "description": "Take on a new challenge and apply your project coordination, performance management and digital reporting expertise in a dynamic engineering environment. You’ll report to the Engineering Management Office Lead and work alongside passionate, motivated and collaborative international teammates.\r\n\r\nYou'll specifically support the Engineering Management Office in driving governance, performance monitoring, resource visibility, continuous improvement and decision-making across engineering activities. Day-to-day, you’ll work closely with teams across the business (Engineering Managers, Project Engineering Managers, PMOs, HR and Finance).\r\n\r\nYou'll be the person the team turns to for coordination, reporting, governance support and performance visibility. No two days are the same, but day-to-day you'll manage dashboards, support management reviews, coordinate action plans and contribute to the continuous improvement of engineering processes and tools.\r\n\r\nYou'll specifically take care of:\r\n\r\nSupport the Engineering Management Office in monitoring engineering performance through KPIs, dashboards and management reporting.\r\nConsolidate and validate engineering data from multiple teams and sites to ensure accurate and timely reporting.\r\nCoordinate management reviews, governance meetings, leadership workshops and operational reviews, including agendas, minutes and action tracking.\r\nSupport workload and capacity planning activities by consolidating resource demand, staffing needs and forecast information.\r\nDevelop, maintain and improve Power BI dashboards, SharePoint sites and reporting tools to enhance visibility and decision-making.\r\nContribute to the implementation and automation of standard engineering reports and performance indicators.\r\nSupport process deployment, continuous improvement initiatives and engineering transformation programs.\r\nCoordinate communication and knowledge sharing activities across engineering teams and communities.\r\nSupport preparation of presentations, business reviews and executive reporting materials.\r\nEnsure engineering documentation, repositories and performance records are maintained and accessible.\r\n\r\nWe'll look to you for:\r\n\r\nActively contribute to Engineering performance and operational excellence.\r\nSupport cross-functional collaboration and alignment between engineering teams and support functions.\r\nCoordinate stakeholders to ensure timely delivery of information and reporting commitments.\r\nSupport data-driven decision-making through reliable reporting and analytical insights.\r\nFacilitate communication and synchronization across multiple sites, functions and engineering métiers.\r\nPromote transparency, accountability and effective governance practices.\r\nMonitor performance trends and identify opportunities for operational efficiency improvements.\r\nSupport management of engineering priorities and strategic initiatives.",
-   "mission": "",
-   "profile": "All about you\n\nWe value passion and attitude over experience. That’s why we don’t expect you to have every single skill. Instead, we've listed some that we think will help you succeed and grow in this role:\n\nBachelor's or Master's Degree in Engineering, Business Management, Project Management or a related field.\nInterest in Engineering Management, PMO and performance management.\nStrong analytical and reporting capabilities.\nAbility to coordinate and collaborate with multi-site and cross-functional teams.\nStrong organizational and project coordination skills.\nAbility to understand engineering processes and business challenges.\nCapable of working independently while escalating issues when appropriate.\nStrong communication and stakeholder management skills.\nAbility to consolidate, analyse and synthesize information from multiple sources.\nCuriosity and willingness to continuously learn and improve.\nProactive and solution-oriented mindset.\nAttention to detail and commitment to data accuracy.\nComfortable working in an international and multicultural environment.\nAbility to manage multiple priorities simultaneously.\nStrong presentation and communication skills in English and French\nKnowledge of data visualization and performance management methodologies is an asset.\nExperience with dashboard development and process automation is a plus.\nProficiency in both French and English is required.\n\nYou don't need to be a train enthusiast to thrive with us. We guarantee that when you step onto one of our trains with your friends or family, you'll be proud. If you're up for the challenge, we'd love to hear from you!\n\nImportant to note\n\nAs a global business, we're an equal-opportunity employer that celebrates diversity across the 70+ countries we operate in. We're committed to creating an inclusive workplace for everyone.",
-   "duration": 24,
-   "start_date": "2027-02-01T00:00:00",
-   "end_date": "2029-02-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-05T09:34:56Z",
-   "sector": "",
-   "specialization": "251",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-05T09:34:56Z",
-    "missionStartDate": "2027-02-01T00:00:00",
-    "missionEndDate": "2029-02-01T00:00:00",
-    "startBroadcastDate": "2026-10-05T00:00:00",
-    "endBroadcastDate": "2026-11-04T00:00:00"
-   },
-   "summary": "Take on a new challenge and apply your project coordination, performance management and digital reporting expertise in a dynamic engineering environment. You’ll report to the Engineering Management Office Lead and work alongside passionate, motivated and collaborative international teammates.\r\n\r\nYou'll specifically support the Engineering Management Office in driving governance, performance monitoring, resource visibility, continuous improvement and decision-making across engineering activities. Day-to-day, you’ll work closely with teams across the business (Engineering Managers, Project Engineering Managers, PMOs, HR and Finance).\r\n\r\nYou'll be the person the team turns to for coordination, reporting, governance support and performance visibility. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246694",
-   "score": 30,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 24,
-    "qual": 0,
-    "calc": 17
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1), Initiation Excel et macros (266-1), Asservissement (840-1)",
-     "weight": 5,
-     "terms": [
-      "automation"
-     ]
-    },
-    {
-     "id": "prod5",
-     "axis": "prod",
-     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
-     "weight": 7,
-     "terms": [
-      "continuous improvement"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Conception mécanique (264-1), Outils et moyens de fabrication (259-1)",
-     "weight": 7,
-     "terms": [
-      "engineering"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineering"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Aucun terme industriel : score plafonné",
-     "terms": [],
-     "points": -7
-    }
-   ]
-  },
-  {
    "id": "246769",
    "title": "Buyer Installation Subcontractor (H/F)",
    "company": "ALSTOM TRANSPORT SA",
@@ -25186,7 +24744,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-07T08:26:28Z",
    "sector": "",
-   "specialization": "[\"2\"]",
+   "specialization": "2",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25269,6 +24827,92 @@
       "buyer"
      ],
      "points": -22
+    }
+   ]
+  },
+  {
+   "id": "246694",
+   "title": "Engineering Management Coordinator (H/F)",
+   "company": "ALSTOM TRANSPORT SA",
+   "country": "CANADA",
+   "city": "ST BRUNO DE MONTARVILLE -QC",
+   "description": "Take on a new challenge and apply your project coordination, performance management and digital reporting expertise in a dynamic engineering environment. You’ll report to the Engineering Management Office Lead and work alongside passionate, motivated and collaborative international teammates.\r\n\r\nYou'll specifically support the Engineering Management Office in driving governance, performance monitoring, resource visibility, continuous improvement and decision-making across engineering activities. Day-to-day, you’ll work closely with teams across the business (Engineering Managers, Project Engineering Managers, PMOs, HR and Finance).\r\n\r\nYou'll be the person the team turns to for coordination, reporting, governance support and performance visibility. No two days are the same, but day-to-day you'll manage dashboards, support management reviews, coordinate action plans and contribute to the continuous improvement of engineering processes and tools.\r\n\r\nYou'll specifically take care of:\r\n\r\nSupport the Engineering Management Office in monitoring engineering performance through KPIs, dashboards and management reporting.\r\nConsolidate and validate engineering data from multiple teams and sites to ensure accurate and timely reporting.\r\nCoordinate management reviews, governance meetings, leadership workshops and operational reviews, including agendas, minutes and action tracking.\r\nSupport workload and capacity planning activities by consolidating resource demand, staffing needs and forecast information.\r\nDevelop, maintain and improve Power BI dashboards, SharePoint sites and reporting tools to enhance visibility and decision-making.\r\nContribute to the implementation and automation of standard engineering reports and performance indicators.\r\nSupport process deployment, continuous improvement initiatives and engineering transformation programs.\r\nCoordinate communication and knowledge sharing activities across engineering teams and communities.\r\nSupport preparation of presentations, business reviews and executive reporting materials.\r\nEnsure engineering documentation, repositories and performance records are maintained and accessible.\r\n\r\nWe'll look to you for:\r\n\r\nActively contribute to Engineering performance and operational excellence.\r\nSupport cross-functional collaboration and alignment between engineering teams and support functions.\r\nCoordinate stakeholders to ensure timely delivery of information and reporting commitments.\r\nSupport data-driven decision-making through reliable reporting and analytical insights.\r\nFacilitate communication and synchronization across multiple sites, functions and engineering métiers.\r\nPromote transparency, accountability and effective governance practices.\r\nMonitor performance trends and identify opportunities for operational efficiency improvements.\r\nSupport management of engineering priorities and strategic initiatives.",
+   "mission": "",
+   "profile": "All about you\n\nWe value passion and attitude over experience. That’s why we don’t expect you to have every single skill. Instead, we've listed some that we think will help you succeed and grow in this role:\n\nBachelor's or Master's Degree in Engineering, Business Management, Project Management or a related field.\nInterest in Engineering Management, PMO and performance management.\nStrong analytical and reporting capabilities.\nAbility to coordinate and collaborate with multi-site and cross-functional teams.\nStrong organizational and project coordination skills.\nAbility to understand engineering processes and business challenges.\nCapable of working independently while escalating issues when appropriate.\nStrong communication and stakeholder management skills.\nAbility to consolidate, analyse and synthesize information from multiple sources.\nCuriosity and willingness to continuously learn and improve.\nProactive and solution-oriented mindset.\nAttention to detail and commitment to data accuracy.\nComfortable working in an international and multicultural environment.\nAbility to manage multiple priorities simultaneously.\nStrong presentation and communication skills in English and French\nKnowledge of data visualization and performance management methodologies is an asset.\nExperience with dashboard development and process automation is a plus.\nProficiency in both French and English is required.\n\nYou don't need to be a train enthusiast to thrive with us. We guarantee that when you step onto one of our trains with your friends or family, you'll be proud. If you're up for the challenge, we'd love to hear from you!\n\nImportant to note\n\nAs a global business, we're an equal-opportunity employer that celebrates diversity across the 70+ countries we operate in. We're committed to creating an inclusive workplace for everyone.",
+   "duration": 24,
+   "start_date": "2027-02-01T00:00:00",
+   "end_date": "2029-02-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-05T09:34:56Z",
+   "sector": "",
+   "specialization": "251",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-05T09:34:56Z",
+    "missionStartDate": "2027-02-01T00:00:00",
+    "missionEndDate": "2029-02-01T00:00:00",
+    "startBroadcastDate": "2026-10-05T00:00:00",
+    "endBroadcastDate": "2026-11-04T00:00:00"
+   },
+   "summary": "Take on a new challenge and apply your project coordination, performance management and digital reporting expertise in a dynamic engineering environment. You’ll report to the Engineering Management Office Lead and work alongside passionate, motivated and collaborative international teammates.\r\n\r\nYou'll specifically support the Engineering Management Office in driving governance, performance monitoring, resource visibility, continuous improvement and decision-making across engineering activities. Day-to-day, you’ll work closely with teams across the business (Engineering Managers, Project Engineering Managers, PMOs, HR and Finance).\r\n\r\nYou'll be the person the team turns to for coordination, reporting, governance support and performance visibility. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/246694",
+   "score": 30,
+   "label": "Périphérique",
+   "first_seen": "2026-10-07T09:55:56+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 24,
+    "qual": 0,
+    "calc": 17
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "calc4",
+     "axis": "calc",
+     "source": "Outils et méthodes de calcul numérique (258-1), Initiation Excel et macros (266-1), Asservissement (840-1)",
+     "weight": 5,
+     "terms": [
+      "automation"
+     ]
+    },
+    {
+     "id": "prod5",
+     "axis": "prod",
+     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
+     "weight": 7,
+     "terms": [
+      "continuous improvement"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Conception mécanique (264-1), Outils et moyens de fabrication (259-1)",
+     "weight": 7,
+     "terms": [
+      "engineering"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "engineering"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    },
+    {
+     "label": "Aucun terme industriel : score plafonné",
+     "terms": [],
+     "points": -7
     }
    ]
   },
@@ -25636,89 +25280,6 @@
    ]
   },
   {
-   "id": "245658",
-   "title": "International Social Media Manager (H/F)",
-   "company": "ALTEN",
-   "country": "ESPAGNE",
-   "city": "MADRID",
-   "description": "ALTEN is a world leader in engineering and technology consulting, with over 57 000 employees in more than 30 countries. We support major companies in their innovation, R&D, and digital transformation projects across sectors such as automotive, aerospace, energy, finance, life sciences, and telecommunications.\n\nOur Marketing & Communications Department is looking for an International Social Media Manager to strengthen ALTEN’s visibility and engagement across our international markets.\nThe function\nWorking within the international communications team, you will define and manage our social media approach across Europe (Benelux, Nordics, South and Switzerland) and LATAM. You will combine strong editorial skills with a clear understanding of audiences, platforms and performance.\nYour main responsibilities will include:\n- Define the perimeter’s social media plan, aligned with local communication priorities, business objectives, and Group guidelines.\n- Create and edit high-quality content, adapting messages, tone and formats to different platforms and audiences.\n- Develop and deliver international campaigns, from the initial concept through to publication and activation.\n- Coordinate with local communications teams, providing clear guidance, shared content and support for local adaptation.\n- Identify relevant trends and new formats, turning them into useful and credible content opportunities for ALTEN.\n- Monitor and improve performance, using KPIs and audience insights to increase reach, engagement and content effectiveness",
-   "mission": "",
-   "profile": "• Master’s degree in Communications, Marketing or a related field\n• At least 3 years’ experience in social media and content management, ideally in an international or B2B environment\n• English (C1 level)\n• Excellent editing skills\n• Strong knowledge of social media platforms, content formats, campaign management and performance indicators\n• Able to combine creativity with a results-driven approach\n• Organised and comfortable coordinating several countries and stakeholders\nWhy join us?\n• Lead social media activity across a broad international scope\n• Work on varied business, technology, employer brand and corporate topics\n• Work closely with communications teams across Europe and LATAM, gaining first-hand insight into different markets, audiences and local priorities.",
-   "duration": 12,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2027-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-07T14:48:03Z",
-   "sector": "",
-   "specialization": "[\"219\"]",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-07T14:48:03Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-07T00:00:00",
-    "endBroadcastDate": "2026-10-07T00:00:00"
-   },
-   "summary": "ALTEN is a world leader in engineering and technology consulting, with over 57 000 employees in more than 30 countries. We support major companies in their innovation, R&D, and digital transformation projects across sectors such as automotive, aerospace, energy, finance, life sciences, and telecommunications.\n\nOur Marketing & Communications Department is looking for an International Social Media Manager to strengthen ALTEN’s visibility and engagement across our international markets.\nThe function\nWorking within the international communications team, you will define and manage our social media approach across Europe (Benelux, Nordics, South and Switzerland) and LATAM. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/245658",
-   "score": 30,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 13,
-    "prod": 12,
-    "qual": 28,
-    "calc": 0
-   },
-   "dominant_axis": "qual",
-   "matched_families": [
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Conception mécanique (264-1), Outils et moyens de fabrication (259-1)",
-     "weight": 7,
-     "terms": [
-      "engineering"
-     ]
-    },
-    {
-     "id": "qual2",
-     "axis": "qual",
-     "source": "Qualité et normes (774-1)",
-     "weight": 10,
-     "terms": [
-      "quality"
-     ]
-    },
-    {
-     "id": "rd6",
-     "axis": "rd",
-     "source": "Comportement mécanique des matériaux non conventionnels (298-2), Projet de recherche (261-1)",
-     "weight": 8,
-     "terms": [
-      "r&d"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "aerospace",
-      "automotive",
-      "energy"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "246588",
    "title": "Supply Chain Process Engineer (H/F)",
    "company": "ALTRAN TECHNOLOGIES",
@@ -25733,7 +25294,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-01T07:59:11Z",
    "sector": "",
-   "specialization": "[\"244\"]",
+   "specialization": "244",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25849,7 +25410,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-06T14:09:33Z",
    "sector": "",
-   "specialization": "[\"178\"]",
+   "specialization": "178",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25930,7 +25491,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-05T06:51:18Z",
    "sector": "",
-   "specialization": "[\"109\",\"149\",\"150\",\"244\",\"264\"]",
+   "specialization": "109, 149, 150, 244, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26000,7 +25561,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-11T16:18:16Z",
    "sector": "",
-   "specialization": "144, 245, 354, 356",
+   "specialization": "[\"144\",\"245\",\"354\",\"356\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26084,7 +25645,7 @@
    "expiry_date": "",
    "publish_date": "2026-03-30T10:51:45Z",
    "sector": "",
-   "specialization": "[\"248\",\"327\",\"328\"]",
+   "specialization": "248, 327, 328",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26332,7 +25893,7 @@
    "expiry_date": "",
    "publish_date": "2026-03-16T17:19:09Z",
    "sector": "",
-   "specialization": "248, 249, 327, 328, 329, 330, 331, 354, 356",
+   "specialization": "[\"248\",\"249\",\"327\",\"328\",\"329\",\"330\",\"331\",\"354\",\"356\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26699,7 +26260,7 @@
    "expiry_date": "",
    "publish_date": "2026-05-12T14:43:27Z",
    "sector": "",
-   "specialization": "[\"5\",\"21\",\"49\",\"86\",\"125\",\"144\",\"150\",\"155\",\"208\",\"209\",\"244\",\"256\",\"262\",\"264\"]",
+   "specialization": "5, 21, 49, 86, 125, 144, 150, 155, 208, 209, 244, 256, 262, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26912,7 +26473,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-05T09:49:11Z",
    "sector": "",
-   "specialization": "[\"63\"]",
+   "specialization": "63",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27151,7 +26712,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-07T06:47:09Z",
    "sector": "",
-   "specialization": "[]",
+   "specialization": "",
    "contract": "VIA",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27307,7 +26868,7 @@
    "expiry_date": "",
    "publish_date": "2026-05-12T14:27:31Z",
    "sector": "",
-   "specialization": "[\"325\"]",
+   "specialization": "325",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27390,7 +26951,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-17T09:25:07Z",
    "sector": "",
-   "specialization": "[\"180\",\"259\",\"318\",\"320\"]",
+   "specialization": "180, 259, 318, 320",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27860,7 +27421,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-24T16:04:18Z",
    "sector": "",
-   "specialization": "[\"73\"]",
+   "specialization": "73",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -28150,7 +27711,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T09:48:23Z",
    "sector": "",
-   "specialization": "[\"8\"]",
+   "specialization": "8",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -28995,7 +28556,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-24T07:55:08Z",
    "sector": "",
-   "specialization": "[\"86\",\"123\",\"125\",\"150\",\"206\",\"208\",\"209\",\"264\"]",
+   "specialization": "86, 123, 125, 150, 206, 208, 209, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29083,7 +28644,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-24T07:52:59Z",
    "sector": "",
-   "specialization": "[\"86\",\"208\"]",
+   "specialization": "86, 208",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29428,7 +28989,7 @@
    "expiry_date": "",
    "publish_date": "2025-09-30T14:46:47Z",
    "sector": "",
-   "specialization": "[\"62\",\"71\",\"77\",\"161\"]",
+   "specialization": "62, 71, 77, 161",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29596,94 +29157,6 @@
    ]
   },
   {
-   "id": "245620",
-   "title": "Project Manager VIE (H/F)",
-   "company": "ELECTRA",
-   "country": "BELGIQUE",
-   "city": "BRUXELLES",
-   "description": "💼 Your Mission\n\nAs a Project Manager, you will be responsible for end-to-end tracking and coordination of the development and implementation of our Electra ultra-fast charging stations. Reporting to the Roll Out Manager Belgium, you will work closely with our partner portfolio and our development team to deliver stations, ensuring quality and speed.\n\n🦸‍♀️🦸‍♂️Your responsibilities\n\n- Organize and oversee the entire installation of an Electra charging station.\n- Assess the deployment concept and project feasibility with the development team and architects.\n- Plan the different project phases: design, cost estimation, development, construction works and commissioning.\n- Coordinate stakeholders: landowner, client, grid operators, engineering consultancies, installation partners, local authorities, etc.\n- Manage several projects in parallel: define each partner’s scope of work, including budget, resources, risks and key deliverables.\n- Operate in compliance with Electra’s quality and safety standards.\n- Work in a continuous improvement mindset and help build processes.",
-   "mission": "",
-   "profile": "- Master’s degree (Bac+5) or equivalent in engineering or electrical engineering.\n- Valid driving license (Permis B).\n- Strong project management, planning and multi-stakeholder coordination skills.\n- Responsive and able to make quick decisions while finding solutions in a fast-paced environment.\n- Team player, able to collaborate while keeping a global view.\n- Rigorous, organized and proactive, with the ability to manage multiple projects simultaneously.\n- Fluency in English and French and/or Dutch\n- Mobility: you will be expected to travel regularly within Belgium, on average once per week.\n\nNice to have\nA first project management experience, preferably in mobility, energy or infrastructure.",
-   "duration": 12,
-   "start_date": "2026-11-01T00:00:00",
-   "end_date": "2027-11-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-04T12:29:35Z",
-   "sector": "",
-   "specialization": "264",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-04T12:29:35Z",
-    "missionStartDate": "2026-11-01T00:00:00",
-    "missionEndDate": "2027-11-01T00:00:00",
-    "startBroadcastDate": "2026-09-07T00:00:00",
-    "endBroadcastDate": "2026-10-07T00:00:00"
-   },
-   "summary": "💼 Your Mission\n\nAs a Project Manager, you will be responsible for end-to-end tracking and coordination of the development and implementation of our Electra ultra-fast charging stations. Reporting to the Roll Out Manager Belgium, you will work closely with our partner portfolio and our development team to deliver stations, ensuring quality and speed.\n\n🦸‍♀️🦸‍♂️Your responsibilities\n\n- Organize and oversee the entire installation of an Electra charging station.\n- Assess the deployment concept and project feasibility with the development team and architects.\n- Plan the different project phases: design, cost estimation, development, construction works and commissioning.\n- Coordinate stakeholders: landowner, client, grid operators, engineering consultancies, installation partners, local authorities, etc.\n- Manage several projects in parallel: define each partner’s scope of work, including budget, resources, risks and key deliverables.\n- Operate in compliance with Electra’s quality and safety standards.\n- Work in a continuous improvement mindset and help build processes.",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/245620",
-   "score": 30,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 24,
-    "qual": 28,
-    "calc": 0
-   },
-   "dominant_axis": "qual",
-   "matched_families": [
-    {
-     "id": "prod5",
-     "axis": "prod",
-     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
-     "weight": 7,
-     "terms": [
-      "continuous improvement"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Conception mécanique (264-1), Outils et moyens de fabrication (259-1)",
-     "weight": 7,
-     "terms": [
-      "engineering"
-     ]
-    },
-    {
-     "id": "qual2",
-     "axis": "qual",
-     "source": "Qualité et normes (774-1)",
-     "weight": 10,
-     "terms": [
-      "compliance",
-      "quality",
-      "standards"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "energy"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Aucun terme industriel : score plafonné",
-     "terms": [],
-     "points": -2
-    }
-   ]
-  },
-  {
    "id": "246507",
    "title": "Machine Learning Scientist (H/F)",
    "company": "ELECTRICITE DE FRANCE",
@@ -29788,7 +29261,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-15T08:32:04Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29875,7 +29348,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-15T08:23:50Z",
    "sector": "",
-   "specialization": "[\"251\"]",
+   "specialization": "251",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30212,6 +29685,96 @@
    ]
   },
   {
+   "id": "245008",
+   "title": "Ingénieur Projet - Electricité & Instrumentation (H/F)",
+   "company": "ENGINEERING & CONSULTING GROUP",
+   "country": "BELGIQUE",
+   "city": "BRUXELLES",
+   "description": "- Participer à la conception, au suivi et à l'exécution de projets en électricité et instrumentation sur des installations industrielles.\n- Réaliser les études techniques (schémas électriques, architectures de contrôle-commande, spécifications instrumentales).\n- Assurer le suivi des activités d'installation, de mise en service et de qualification des équipements sur site.\n- Coordonner les différents intervenants (maintenance, production, fournisseurs, sous-traitants) dans le cadre des projets.\n- Contribuer à l'amélioration des performances, de la fiabilité et de la sécurité des installations.\n- Participer à l'analyse des besoins clients et à la définition des solutions techniques adaptées.\n- Veiller au respect des normes, procédures qualité et exigences HSE applicables aux projets.\n- Rédiger et mettre à jour la documentation technique, les rapports d'avancement et les dossiers de validation.",
+   "mission": "",
+   "profile": "- Diplôme d'Ingénieur en Électricité, Automatisme, Instrumentation, Électromécanique ou équivalent.\n- Première expérience en gestion de projets ou en ingénierie E&I, acquise via une alternance ou un stage significatif complété par au moins 1 an d'expérience professionnelle.\n- Expérience idéalement acquise dans les secteurs agroalimentaire, pharmaceutique, chimique ou métallurgique.\n- Bonne compréhension des systèmes électriques industriels, de l'instrumentation et des environnements de production.\n- Capacité à travailler en interface avec des équipes multidisciplinaires et à suivre des activités terrain.\n- Maîtrise du français et bon niveau d'anglais professionnel, à l'écrit comme à l'oral.",
+   "duration": 12,
+   "start_date": "2026-12-01T00:00:00",
+   "end_date": "2027-12-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-07-30T08:06:03Z",
+   "sector": "",
+   "specialization": "[\"65\",\"68\",\"71\",\"73\",\"149\",\"153\",\"365\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-07-30T08:06:03Z",
+    "missionStartDate": "2026-12-01T00:00:00",
+    "missionEndDate": "2027-12-01T00:00:00",
+    "startBroadcastDate": "2026-10-08T00:00:00",
+    "endBroadcastDate": "2026-11-07T00:00:00"
+   },
+   "summary": "- Participer à la conception, au suivi et à l'exécution de projets en électricité et instrumentation sur des installations industrielles.\n- Réaliser les études techniques (schémas électriques, architectures de contrôle-commande, spécifications instrumentales).\n- Assurer le suivi des activités d'installation, de mise en service et de qualification des équipements sur site.\n- Coordonner les différents intervenants (maintenance, production, fournisseurs, sous-traitants) dans le cadre des projets.\n- Contribuer à l'amélioration des performances, de la fiabilité et de la sécurité des installations.\n- Participer à l'analyse des besoins clients et à la définition des solutions techniques adaptées.\n- Veiller au respect des normes, procédures qualité et exigences HSE applicables aux projets.\n- Rédiger et mettre à jour la documentation technique, les rapports d'avancement et les dossiers de validation.",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/245008",
+   "score": 30,
+   "label": "Périphérique",
+   "first_seen": "2026-08-24T16:01:18+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 12,
+    "qual": 47,
+    "calc": 0
+   },
+   "dominant_axis": "qual",
+   "matched_families": [
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Conception mécanique (264-1), Outils et moyens de fabrication (259-1)",
+     "weight": 7,
+     "terms": [
+      "engineering",
+      "ingenierie",
+      "installations industrielles"
+     ]
+    },
+    {
+     "id": "qual2",
+     "axis": "qual",
+     "source": "Qualité et normes (774-1)",
+     "weight": 10,
+     "terms": [
+      "normes",
+      "qualite"
+     ]
+    },
+    {
+     "id": "qual4",
+     "axis": "qual",
+     "source": "Introduction aux techniques expérimentales (267-1)",
+     "weight": 7,
+     "terms": [
+      "qualification",
+      "validation"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "ingenieur"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    },
+    {
+     "label": "Aucun terme industriel : score plafonné",
+     "terms": [],
+     "points": -19
+    }
+   ]
+  },
+  {
    "id": "245016",
    "title": "Spécialiste Déviations GMP (H/F)",
    "company": "ENGINEERING & CONSULTING GROUP",
@@ -30331,7 +29894,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-30T08:26:59Z",
    "sector": "",
-   "specialization": "[\"86\",\"113\",\"125\",\"149\",\"169\"]",
+   "specialization": "86, 113, 125, 149, 169",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30419,96 +29982,6 @@
      "label": "Aucun terme industriel : score plafonné",
      "terms": [],
      "points": -27
-    }
-   ]
-  },
-  {
-   "id": "245008",
-   "title": "Ingénieur Projet - Electricité & Instrumentation (H/F)",
-   "company": "ENGINEERING & CONSULTING GROUP",
-   "country": "BELGIQUE",
-   "city": "BRUXELLES",
-   "description": "- Participer à la conception, au suivi et à l'exécution de projets en électricité et instrumentation sur des installations industrielles.\n- Réaliser les études techniques (schémas électriques, architectures de contrôle-commande, spécifications instrumentales).\n- Assurer le suivi des activités d'installation, de mise en service et de qualification des équipements sur site.\n- Coordonner les différents intervenants (maintenance, production, fournisseurs, sous-traitants) dans le cadre des projets.\n- Contribuer à l'amélioration des performances, de la fiabilité et de la sécurité des installations.\n- Participer à l'analyse des besoins clients et à la définition des solutions techniques adaptées.\n- Veiller au respect des normes, procédures qualité et exigences HSE applicables aux projets.\n- Rédiger et mettre à jour la documentation technique, les rapports d'avancement et les dossiers de validation.",
-   "mission": "",
-   "profile": "- Diplôme d'Ingénieur en Électricité, Automatisme, Instrumentation, Électromécanique ou équivalent.\n- Première expérience en gestion de projets ou en ingénierie E&I, acquise via une alternance ou un stage significatif complété par au moins 1 an d'expérience professionnelle.\n- Expérience idéalement acquise dans les secteurs agroalimentaire, pharmaceutique, chimique ou métallurgique.\n- Bonne compréhension des systèmes électriques industriels, de l'instrumentation et des environnements de production.\n- Capacité à travailler en interface avec des équipes multidisciplinaires et à suivre des activités terrain.\n- Maîtrise du français et bon niveau d'anglais professionnel, à l'écrit comme à l'oral.",
-   "duration": 12,
-   "start_date": "2026-11-01T00:00:00",
-   "end_date": "2027-11-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-07-30T08:06:03Z",
-   "sector": "",
-   "specialization": "65, 68, 71, 73, 149, 153, 365",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-07-30T08:06:03Z",
-    "missionStartDate": "2026-11-01T00:00:00",
-    "missionEndDate": "2027-11-01T00:00:00",
-    "startBroadcastDate": "2026-09-14T00:00:00",
-    "endBroadcastDate": "2026-10-14T00:00:00"
-   },
-   "summary": "- Participer à la conception, au suivi et à l'exécution de projets en électricité et instrumentation sur des installations industrielles.\n- Réaliser les études techniques (schémas électriques, architectures de contrôle-commande, spécifications instrumentales).\n- Assurer le suivi des activités d'installation, de mise en service et de qualification des équipements sur site.\n- Coordonner les différents intervenants (maintenance, production, fournisseurs, sous-traitants) dans le cadre des projets.\n- Contribuer à l'amélioration des performances, de la fiabilité et de la sécurité des installations.\n- Participer à l'analyse des besoins clients et à la définition des solutions techniques adaptées.\n- Veiller au respect des normes, procédures qualité et exigences HSE applicables aux projets.\n- Rédiger et mettre à jour la documentation technique, les rapports d'avancement et les dossiers de validation.",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/245008",
-   "score": 30,
-   "label": "Périphérique",
-   "first_seen": "2026-08-24T16:01:18+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 12,
-    "qual": 47,
-    "calc": 0
-   },
-   "dominant_axis": "qual",
-   "matched_families": [
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Conception mécanique (264-1), Outils et moyens de fabrication (259-1)",
-     "weight": 7,
-     "terms": [
-      "engineering",
-      "ingenierie",
-      "installations industrielles"
-     ]
-    },
-    {
-     "id": "qual2",
-     "axis": "qual",
-     "source": "Qualité et normes (774-1)",
-     "weight": 10,
-     "terms": [
-      "normes",
-      "qualite"
-     ]
-    },
-    {
-     "id": "qual4",
-     "axis": "qual",
-     "source": "Introduction aux techniques expérimentales (267-1)",
-     "weight": 7,
-     "terms": [
-      "qualification",
-      "validation"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Aucun terme industriel : score plafonné",
-     "terms": [],
-     "points": -19
     }
    ]
   },
@@ -30614,7 +30087,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T12:21:39Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30718,7 +30191,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T10:23:19Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30814,7 +30287,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T10:14:48Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30918,7 +30391,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T09:54:46Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31362,7 +30835,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-28T16:17:21Z",
    "sector": "",
-   "specialization": "[\"92\"]",
+   "specialization": "92",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31583,7 +31056,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-21T14:44:45Z",
    "sector": "",
-   "specialization": "[\"2\",\"29\",\"35\",\"60\",\"62\",\"63\",\"64\",\"65\",\"66\",\"68\",\"69\",\"70\",\"71\",\"72\",\"73\",\"77\",\"86\",\"109\",\"114\",\"125\",\"133\",\"134\",\"135\",\"138\",\"139\",\"142\",\"143\",\"144\",\"145\",\"149\",\"150\",\"153\",\"155\",\"159\",\"160\",\"197\",\"206\",\"207\",\"208\",\"209\",\"224\",\"244\",\"347\",\"348\"]",
+   "specialization": "2, 29, 35, 60, 62, 63, 64, 65, 66, 68, 69, 70, 71, 72, 73, 77, 86, 109, 114, 125, 133, 134, 135, 138, 139, 142, 143, 144, 145, 149, 150, 153, 155, 159, 160, 197, 206, 207, 208, 209, 224, 244, 347, 348",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32168,7 +31641,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-29T16:17:57Z",
    "sector": "",
-   "specialization": "330",
+   "specialization": "[\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32979,7 +32452,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-29T08:17:18Z",
    "sector": "",
-   "specialization": "[\"209\"]",
+   "specialization": "209",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33428,7 +32901,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-29T12:47:52Z",
    "sector": "",
-   "specialization": "[\"6\",\"7\"]",
+   "specialization": "6, 7",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33571,101 +33044,6 @@
    ]
   },
   {
-   "id": "245648",
-   "title": "Chef de Projet Partenariats (H/F)",
-   "company": "KNDS FRANCE",
-   "country": "BELGIQUE",
-   "city": "BRUXELLES",
-   "description": "• Identifier, évaluer et initier des partenariats stratégiques avec des industriels, PME technologiques, centres de recherche et start-ups du secteur de la défense et du dual-use.\n• Piloter la négociation et la structuration d'accords de partenariat, de coopération technologique ou de co-développement (accords-cadres, MoU, joint-ventures).\n• Assurer l'interface avec les instances institutionnelles belges et européennes (SPF Économie, Région wallonne, Agence européenne de défense, mécanismes EDF/EDIP) en coopération avec la Direction des Affaires Publics.\n• Présenter et déposer les dossiers de demande de financement auprès des différents dispositifs existants en Belgique\n• Coordonner les équipes internes (R&D, ingénierie, qualité, juridique) dans le cadre des projets de partenariat, du cadrage jusqu'à la mise en œuvre.\n• Préparer et présenter les dossiers de partenariat aux instances de gouvernance (comité de direction, conseil d'administration).\n• Représenter l'entreprise lors de salons professionnels, forums de défense et rencontres institutionnelles (Eurosatory, DSEI, Sentinel Strike Challenge, etc.).",
-   "mission": "",
-   "profile": "• Master en ingénierie, commerce international, relations internationales ou équivalent par expérience.\n• Une première experience dans la gestion de partenariats, le développement commercial ou la gestion de projets, idéalement dans le secteur de la défense ou de l'aérospatial.\n• Bonne compréhension des enjeux réglementaires liés à l'industrie de défense (ITAR, contrôle des exportations, qualification OTAN, habilitation de sécurité).\n• Excellentes capacités de négociation, de gestion de projet transverse et de communication institutionnelle.\n• Aptitude à évoluer dans un environnement confidentiel et à obtenir une habilitation de sécurité nationale.\n• Français et anglais courants indispensables ; le néerlandais est un atout.\n• Disponibilité pour des déplacements réguliers en Belgique.",
-   "duration": 24,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2028-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-07T12:43:00Z",
-   "sector": "",
-   "specialization": "[\"195\"]",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-07T12:43:00Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2028-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-07T00:00:00",
-    "endBroadcastDate": "2026-10-07T00:00:00"
-   },
-   "summary": "• Identifier, évaluer et initier des partenariats stratégiques avec des industriels, PME technologiques, centres de recherche et start-ups du secteur de la défense et du dual-use.\n• Piloter la négociation et la structuration d'accords de partenariat, de coopération technologique ou de co-développement (accords-cadres, MoU, joint-ventures).\n• Assurer l'interface avec les instances institutionnelles belges et européennes (SPF Économie, Région wallonne, Agence européenne de défense, mécanismes EDF/EDIP) en coopération avec la Direction des Affaires Publics.\n• Présenter et déposer les dossiers de demande de financement auprès des différents dispositifs existants en Belgique\n• Coordonner les équipes internes (R&D, ingénierie, qualité, juridique) dans le cadre des projets de partenariat, du cadrage jusqu'à la mise en œuvre.\n• Préparer et présenter les dossiers de partenariat aux instances de gouvernance (comité de direction, conseil d'administration). […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/245648",
-   "score": 30,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 13,
-    "prod": 12,
-    "qual": 47,
-    "calc": 0
-   },
-   "dominant_axis": "qual",
-   "matched_families": [
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Conception mécanique (264-1), Outils et moyens de fabrication (259-1)",
-     "weight": 7,
-     "terms": [
-      "ingenierie"
-     ]
-    },
-    {
-     "id": "qual2",
-     "axis": "qual",
-     "source": "Qualité et normes (774-1)",
-     "weight": 10,
-     "terms": [
-      "qualite"
-     ]
-    },
-    {
-     "id": "qual4",
-     "axis": "qual",
-     "source": "Introduction aux techniques expérimentales (267-1)",
-     "weight": 7,
-     "terms": [
-      "qualification"
-     ]
-    },
-    {
-     "id": "rd6",
-     "axis": "rd",
-     "source": "Comportement mécanique des matériaux non conventionnels (298-2), Projet de recherche (261-1)",
-     "weight": 8,
-     "terms": [
-      "r&d"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "defense"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Aucun terme industriel : score plafonné",
-     "terms": [],
-     "points": -11
-    }
-   ]
-  },
-  {
    "id": "243858",
    "title": "FP&A Analyst (H/F)",
    "company": "LOUIS DREYFUS COMPANY DISTRIBUTION FRANCE SAS",
@@ -33680,7 +33058,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-16T10:04:59Z",
    "sector": "",
-   "specialization": "[\"259\"]",
+   "specialization": "259",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33769,7 +33147,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-23T07:37:46Z",
    "sector": "",
-   "specialization": "[\"318\"]",
+   "specialization": "318",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33840,6 +33218,101 @@
      "label": "Aucun terme industriel : score plafonné",
      "terms": [],
      "points": -10
+    }
+   ]
+  },
+  {
+   "id": "246647",
+   "title": "Ingénieur projet (H/F)",
+   "company": "MAINTENANCE, TRAVAUX ET CABLAGE",
+   "country": "ROUMANIE",
+   "city": "MEDIAS",
+   "description": "L’ENTREPRISE\r\n\r\nSpécialisée dans les activités de câblage électrique et les services aux entreprises, MTC compte trois sites de production en France (Questembert, Mâcon et Le Creusot) et deux sites de production à l’étranger : TECHNICAM au Maroc et EMC en Roumanie.\r\n\r\nDe l’ingénierie électrique au prototypage et à la tête de série, en passant par la production de petites et moyennes séries jusqu’à l’installation et la mise en service, l’entreprise intervient sur l’ensemble de la chaîne de valeur.\r\n\r\nMTC accompagne ainsi ses clients dans des secteurs industriels très variés : défense, industrie, médical, aéronautique, automobile, transport et ferroviaire.\r\n\r\nDans le cadre du développement de la société EMC, située à Mediaș en Roumanie, nous accueillons depuis plusieurs années un(e) V.I.E au sein de nos équipes.\r\n\r\nFrançois arrivant au terme de sa mission fin décembre, nous recherchons une nouvelle personne pour prendre le relais et accompagner le développement de nos activités et de nos projets industriels, notamment sur les axes Allemagne et France.\r\n\r\nVOTRE MISSION\r\n\r\nEMC compte aujourd’hui 44 salariés. Vous travaillerez au quotidien avec les équipes locales et échangerez notamment avec Flavius, Liviu, Loreta et Diana, ainsi qu’avec les équipes techniques MTC et nos clients en Allemagne et en France.\r\n\r\nVotre mission aura un double objectif :\r\n\r\n• Contribuer au pilotage et au déploiement des projets industriels entre la Roumanie, l’Allemagne et la France, de leur préparation jusqu’à leur mise en œuvre opérationnelle et leur suivi ;\r\n• Participer à la digitalisation de nos processus industriels, notamment par l’automatisation du traitement des données techniques grâce à l’intelligence artificielle.\r\n\r\nDans le détail, votre quotidien consistera notamment à :\r\n• Participer aux échanges avec les clients et les équipes internes ;\r\n• Analyser les besoins et contribuer à la définition des cahiers des charges ;\r\n• Assurer le suivi du bon déroulement de la production ;\r\n• Coordonner les différents interlocuteurs impliqués dans les projets ;\r\n• Participer au suivi des aspects logistiques ;\r\n• Identifier et contribuer à résoudre les problématiques techniques ;\r\n• Assurer le lien entre les équipes en Roumanie, en Allemagne et en France ;\r\n• Analyser les flux de données et documents techniques existants ;\r\n• Identifier les tâches pouvant être automatisées ou optimisées ;\r\n• Participer au développement et au déploiement de solutions utilisant l’IA pour faciliter, fiabiliser et accélérer le traitement des données techniques ;\r\n• Accompagner les équipes dans l’utilisation de ces nouveaux outils et contribuer à leur amélioration continue.\r\n\r\nCette mission vous permettra ainsi d’évoluer à la croisée de la gestion de projet industriel, de l’ingénierie et de la transformation digitale.\r\n\r\nVOTRE ENVIRONNEMENT A MEDIAȘ\r\n\r\nMediaș est une ville à taille humaine qui offre un cadre de vie agréable, entre patrimoine historique, authenticité et proximité avec la nature. \r\n\r\nContrairement aux grandes métropoles internationales, Mediaș accueille peu d'expatriés et de communautés internationales. Cette particularité offre une véritable opportunité d'immersion dans la culture locale, de pratiquer une langue étrangère au quotidien et de créer des liens avec les habitants. Elle demande également une certaine capacité d'adaptation, de l'autonomie et de l'ouverture d'esprit.\r\n\r\nLa région offre de nombreuses possibilités de découvertes, entre villages traditionnels saxons, paysages vallonnés et escapades dans les Carpates. \r\n\r\nLa ville de Sibiu, réputée pour son patrimoine architectural et son dynamisme culturel, est également accessible pour des sorties le temps d'un week-end (à moins d’une heure de Mediaș) tout comme les domaines skiables (à 3 heures de route).\r\n\r\nVivre à Mediaș, c'est faire le choix d'une expérience internationale, au plus près de la vie locale, qui permet de sortir de sa zone de confort, de gagner en autonomie et de vivre une véritable aventure humaine et professionnelle.\r\n\r\nL’équipe à EMC sera disponible pour vous accompagner à votre arrivée et vous donner les bons conseils pour découvrir les spécialités locales. \r\n\r\nLES CONDITIONS DU VIE\r\n• Type de contrat : Volontariat International en Entreprise (VIE)\r\n• Localisation : Mediaș, Roumanie\r\n• Durée : entre 12 et 24 mois\r\n• Date de début : 1er décembre 2026\r\n• Langues : Français, anglais et allemand apprécié\r\n• Indemnité : Selon les conditions réglementaires du VIE et la destination\r\n• Avantages en nature : Logement et voiture de fonction\r\n• Déplacements : selon les besoins des projets, principalement en Allemagne et en France\r\n\nPour postuler, adressez vos candidatures à Marie Le Leslé via l’adresse mail suivante rh.questembert@mtcables.com",
+   "mission": "",
+   "profile": "De formation ingénieur(e), vous serez en contact privilégié avec nos équipes et nos clients, principalement en Allemagne, en France et en Roumanie.\r\n\r\nJeune diplômé(e) d’une école d’ingénieurs, idéalement avec une spécialisation ou un parcours en électricité, électrotechnique, génie industriel ou domaine connexe, vous disposez d’une première expérience industrielle acquise dans le cadre d’un stage ou d’une alternance.\r\n\r\nVous avez un intérêt marqué pour les outils numériques, l’automatisation et les applications concrètes de l’intelligence artificielle dans l’industrie. Une première expérience dans ces domaines serait appréciée, sans être indispensable.\r\n\r\nDes compétences en gestion de projet, en communication et en coordination sont nécessaires afin de travailler efficacement avec les différents services de l’entreprise, de respecter les plannings et de mener les projets à leur terme.\r\n\r\nLes principales qualités recherchées pour cette mission sont :\r\n• Autonomie et capacité d’initiative ;\r\n• Polyvalence et capacité d’adaptation ;\r\n• Curiosité technique et intérêt pour les nouvelles technologies ;\r\n• Aisance rédactionnelle ;\r\n• Bon relationnel ;\r\n• Sens du travail en équipe ;\r\n• Capacité à évoluer dans un environnement international.\r\n\r\nUn anglais courant est exigé. La maîtrise ou des notions d’allemand constitueront un véritable atout pour votre candidature.",
+   "duration": 24,
+   "start_date": "2026-12-01T00:00:00",
+   "end_date": "2028-12-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-02T10:23:33Z",
+   "sector": "",
+   "specialization": "[\"149\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-02T10:23:33Z",
+    "missionStartDate": "2026-12-01T00:00:00",
+    "missionEndDate": "2028-12-01T00:00:00",
+    "startBroadcastDate": "2026-10-08T00:00:00",
+    "endBroadcastDate": "2026-11-07T00:00:00"
+   },
+   "summary": "L’ENTREPRISE\r\n\r\nSpécialisée dans les activités de câblage électrique et les services aux entreprises, MTC compte trois sites de production en France (Questembert, Mâcon et Le Creusot) et deux sites de production à l’étranger : TECHNICAM au Maroc et EMC en Roumanie.\r\n\r\nDe l’ingénierie électrique au prototypage et à la tête de série, en passant par la production de petites et moyennes séries jusqu’à l’installation et la mise en service, l’entreprise intervient sur l’ensemble de la chaîne de valeur.\r\n\r\nMTC accompagne ainsi ses clients dans des secteurs industriels très variés : défense, industrie, médical, aéronautique, automobile, transport et ferroviaire.\r\n\r\nDans le cadre du développement de la société EMC, située à Mediaș en Roumanie, nous accueillons depuis plusieurs années un(e) V.I.E au sein de nos équipes.\r\n\r\nFrançois arrivant au terme de sa mission fin décembre, nous recherchons une nouvelle personne pour prendre le relais et accompagner le développement de nos activités et de nos projets industriels, notamment sur les axes Allemagne et France.\r\n\r\nVOTRE MISSION […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/246647",
+   "score": 30,
+   "label": "Périphérique",
+   "first_seen": "2026-10-08T07:53:37+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 24,
+    "qual": 0,
+    "calc": 17
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "calc4",
+     "axis": "calc",
+     "source": "Outils et méthodes de calcul numérique (258-1), Initiation Excel et macros (266-1), Asservissement (840-1)",
+     "weight": 5,
+     "terms": [
+      "automatisation"
+     ]
+    },
+    {
+     "id": "prod5",
+     "axis": "prod",
+     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
+     "weight": 7,
+     "terms": [
+      "amelioration continue"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Conception mécanique (264-1), Outils et moyens de fabrication (259-1)",
+     "weight": 7,
+     "terms": [
+      "ingenierie"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "ingenieur"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "aeronautique",
+      "automobile",
+      "defense"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    },
+    {
+     "label": "Aucun terme industriel : score plafonné",
+     "terms": [],
+     "points": -12
     }
    ]
   },
@@ -33939,7 +33412,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-14T12:45:10Z",
    "sector": "",
-   "specialization": "[\"206\"]",
+   "specialization": "206",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34035,7 +33508,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-24T13:30:27Z",
    "sector": "",
-   "specialization": "327",
+   "specialization": "[\"327\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34123,7 +33596,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-09T13:44:09Z",
    "sector": "",
-   "specialization": "[\"35\",\"144\",\"245\",\"246\",\"248\",\"249\",\"251\"]",
+   "specialization": "35, 144, 245, 246, 248, 249, 251",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34856,7 +34329,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T14:50:42Z",
    "sector": "",
-   "specialization": "[\"213\"]",
+   "specialization": "213",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34961,7 +34434,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T15:35:24Z",
    "sector": "",
-   "specialization": "[\"155\"]",
+   "specialization": "155",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35493,7 +34966,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T16:05:20Z",
    "sector": "",
-   "specialization": "[\"68\",\"77\",\"109\",\"130\",\"149\",\"169\"]",
+   "specialization": "68, 77, 109, 130, 149, 169",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35553,6 +35026,102 @@
      "label": "Aucun terme industriel : score plafonné",
      "terms": [],
      "points": -8
+    }
+   ]
+  },
+  {
+   "id": "245319",
+   "title": "Junior Financial Analyst (H/F)",
+   "company": "PLANISWARE",
+   "country": "ETATS-UNIS",
+   "city": "SAN FRANCISCO -CA-",
+   "description": "Join Planisware, the editor of the leading software solution for Project and Portfolio Management (PPM) for Product Development. \n\nPlanisware is a global provider of software solutions for project portfolio management. Planisware solutions are specifically designed to support product development, engineering, and IT business processes. For more than 25 years, Planisware has been helping its customers to achieve strategic and innovative excellence, make valid business decisions, and increase portfolio value. Today, over 1,000 companies worldwide rely on Planisware products to manage their projects, resources, and portfolios.\n\nThe role: As a Junior Financial Analyst, you will support Planisware North America's Finance team in financial reporting, forecasting, revenue operations, expense management, and finance systems initiatives. This role is ideal for a candidate who is analytical, detail-oriented, and eager to gain broad exposure to finance, business operations, and process improvement within a growing international software company. You will work closely with teams across Finance, Sales, HR, Revenue Operations, and Operations to support data-driven decision-making and operational excellence.\n\nKey Responsibilities:\n\nFinancial Reporting & Analysis\n• Prepare and maintain financial reports and KPIs.\n• Assist with budgeting, forecasting, and variance analysis.\n• Analyze revenue, expenses, and key business metrics to identify trends and insights.\n• Support management reporting and ad hoc financial analyses.\n• Revenue Operations & Finance Support\n• Support revenue operations and incentive compensation processes through reporting, data validation, and reconciliation activities.\n• Assist in maintaining accurate data across CRM, payroll, and financial systems.\n• Support cross-functional initiatives involving Sales, HR, Finance, and Operations teams.\n• Contribute to process improvement initiatives supporting commercial and finance operations.\n\nExpense Management & Financial Operations\n• Monitor employee travel and business expenses and support compliance with company policies.\n• Analyze spending trends and assist with cost control initiatives.\n• Support month-end, quarter-end, and year-end close activities.\n• Assist with operational reporting and other recurring finance processes.\n\nBusiness Systems & Process Improvement\n• Assist with projects including financial system implementations and enhancements through data validation, testing, and process documentation.\n• Help improve data quality, reporting consistency, and process efficiency.\n• Contribute to reporting automation and continuous improvement initiatives.",
+   "mission": "",
+   "profile": "Qualifications\n• Bachelor's degree in Finance, Accounting, Economics, Business, or a related field.\n• 1-2 years of experience in FP&A, accounting, or a related field.\n• Experience supporting system implementations, system migrations, or business process improvement projects.\n• Strong Excel skills, including pivot tables, lookups, and data analysis.\n• High attention to detail and strong analytical problem-solving abilities.\n• Excellent organizational and communication skills.\n• Ability to manage multiple priorities and meet deadlines.\n• Curious, proactive, and eager to learn.\n\nTo apply: \nBefore applying, be sure to check the eligibility requirements for this destination: http://www.civiweb.com/FR/le-volontariat-international/conditions-du-VIE.aspx . The visa required for such a VIE position is subject to specific conditions of training and/or professional experience. When applying, please make sure to submit the English version of both your resume and cover letter. As all communications will be in English, your application email should be written in English as well.",
+   "duration": 18,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-07-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-08-19T20:33:54Z",
+   "sector": "",
+   "specialization": "[\"17\",\"201\",\"259\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-08-19T20:33:54Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-07-01T00:00:00",
+    "startBroadcastDate": "2026-10-08T00:00:00",
+    "endBroadcastDate": "2026-11-07T00:00:00"
+   },
+   "summary": "Join Planisware, the editor of the leading software solution for Project and Portfolio Management (PPM) for Product Development. \n\nPlanisware is a global provider of software solutions for project portfolio management. Planisware solutions are specifically designed to support product development, engineering, and IT business processes. For more than 25 years, Planisware has been helping its customers to achieve strategic and innovative excellence, make valid business decisions, and increase portfolio value. Today, over 1,000 companies worldwide rely on Planisware products to manage their projects, resources, and portfolios.\n\nThe role: As a Junior Financial Analyst, you will support Planisware North America's Finance team in financial reporting, forecasting, revenue operations, expense management, and finance systems initiatives. This role is ideal for a candidate who is analytical, detail-oriented, and eager to gain broad exposure to finance, business operations, and process improvement within a growing international software company. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/245319",
+   "score": 30,
+   "label": "Périphérique",
+   "first_seen": "2026-08-24T16:01:18+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 24,
+    "qual": 47,
+    "calc": 17
+   },
+   "dominant_axis": "qual",
+   "matched_families": [
+    {
+     "id": "calc4",
+     "axis": "calc",
+     "source": "Outils et méthodes de calcul numérique (258-1), Initiation Excel et macros (266-1), Asservissement (840-1)",
+     "weight": 5,
+     "terms": [
+      "automation",
+      "data analysis"
+     ]
+    },
+    {
+     "id": "prod5",
+     "axis": "prod",
+     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
+     "weight": 7,
+     "terms": [
+      "continuous improvement"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Conception mécanique (264-1), Outils et moyens de fabrication (259-1)",
+     "weight": 7,
+     "terms": [
+      "engineering",
+      "product development"
+     ]
+    },
+    {
+     "id": "qual2",
+     "axis": "qual",
+     "source": "Qualité et normes (774-1)",
+     "weight": 10,
+     "terms": [
+      "compliance",
+      "quality"
+     ]
+    },
+    {
+     "id": "qual4",
+     "axis": "qual",
+     "source": "Introduction aux techniques expérimentales (267-1)",
+     "weight": 7,
+     "terms": [
+      "testing",
+      "validation"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Aucun terme industriel : score plafonné",
+     "terms": [],
+     "points": -5
     }
    ]
   },
@@ -35668,102 +35237,6 @@
    ]
   },
   {
-   "id": "245319",
-   "title": "Junior Financial Analyst (H/F)",
-   "company": "PLANISWARE",
-   "country": "ETATS-UNIS",
-   "city": "SAN FRANCISCO -CA-",
-   "description": "Join Planisware, the editor of the leading software solution for Project and Portfolio Management (PPM) for Product Development. \n\nPlanisware is a global provider of software solutions for project portfolio management. Planisware solutions are specifically designed to support product development, engineering, and IT business processes. For more than 25 years, Planisware has been helping its customers to achieve strategic and innovative excellence, make valid business decisions, and increase portfolio value. Today, over 1,000 companies worldwide rely on Planisware products to manage their projects, resources, and portfolios.\n\nThe role: As a Junior Financial Analyst, you will support Planisware North America's Finance team in financial reporting, forecasting, revenue operations, expense management, and finance systems initiatives. This role is ideal for a candidate who is analytical, detail-oriented, and eager to gain broad exposure to finance, business operations, and process improvement within a growing international software company. You will work closely with teams across Finance, Sales, HR, Revenue Operations, and Operations to support data-driven decision-making and operational excellence.\n\nKey Responsibilities:\n\nFinancial Reporting & Analysis\n• Prepare and maintain financial reports and KPIs.\n• Assist with budgeting, forecasting, and variance analysis.\n• Analyze revenue, expenses, and key business metrics to identify trends and insights.\n• Support management reporting and ad hoc financial analyses.\n• Revenue Operations & Finance Support\n• Support revenue operations and incentive compensation processes through reporting, data validation, and reconciliation activities.\n• Assist in maintaining accurate data across CRM, payroll, and financial systems.\n• Support cross-functional initiatives involving Sales, HR, Finance, and Operations teams.\n• Contribute to process improvement initiatives supporting commercial and finance operations.\n\nExpense Management & Financial Operations\n• Monitor employee travel and business expenses and support compliance with company policies.\n• Analyze spending trends and assist with cost control initiatives.\n• Support month-end, quarter-end, and year-end close activities.\n• Assist with operational reporting and other recurring finance processes.\n\nBusiness Systems & Process Improvement\n• Assist with projects including financial system implementations and enhancements through data validation, testing, and process documentation.\n• Help improve data quality, reporting consistency, and process efficiency.\n• Contribute to reporting automation and continuous improvement initiatives.",
-   "mission": "",
-   "profile": "Qualifications\n• Bachelor's degree in Finance, Accounting, Economics, Business, or a related field.\n• 1-2 years of experience in FP&A, accounting, or a related field.\n• Experience supporting system implementations, system migrations, or business process improvement projects.\n• Strong Excel skills, including pivot tables, lookups, and data analysis.\n• High attention to detail and strong analytical problem-solving abilities.\n• Excellent organizational and communication skills.\n• Ability to manage multiple priorities and meet deadlines.\n• Curious, proactive, and eager to learn.\n\nTo apply: \nBefore applying, be sure to check the eligibility requirements for this destination: http://www.civiweb.com/FR/le-volontariat-international/conditions-du-VIE.aspx . The visa required for such a VIE position is subject to specific conditions of training and/or professional experience. When applying, please make sure to submit the English version of both your resume and cover letter. As all communications will be in English, your application email should be written in English as well.",
-   "duration": 18,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2028-06-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-08-19T20:33:54Z",
-   "sector": "",
-   "specialization": "17, 201, 259",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-08-19T20:33:54Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2028-06-01T00:00:00",
-    "startBroadcastDate": "2026-09-14T00:00:00",
-    "endBroadcastDate": "2026-10-14T00:00:00"
-   },
-   "summary": "Join Planisware, the editor of the leading software solution for Project and Portfolio Management (PPM) for Product Development. \n\nPlanisware is a global provider of software solutions for project portfolio management. Planisware solutions are specifically designed to support product development, engineering, and IT business processes. For more than 25 years, Planisware has been helping its customers to achieve strategic and innovative excellence, make valid business decisions, and increase portfolio value. Today, over 1,000 companies worldwide rely on Planisware products to manage their projects, resources, and portfolios.\n\nThe role: As a Junior Financial Analyst, you will support Planisware North America's Finance team in financial reporting, forecasting, revenue operations, expense management, and finance systems initiatives. This role is ideal for a candidate who is analytical, detail-oriented, and eager to gain broad exposure to finance, business operations, and process improvement within a growing international software company. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/245319",
-   "score": 30,
-   "label": "Périphérique",
-   "first_seen": "2026-08-24T16:01:18+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 24,
-    "qual": 47,
-    "calc": 17
-   },
-   "dominant_axis": "qual",
-   "matched_families": [
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1), Initiation Excel et macros (266-1), Asservissement (840-1)",
-     "weight": 5,
-     "terms": [
-      "automation",
-      "data analysis"
-     ]
-    },
-    {
-     "id": "prod5",
-     "axis": "prod",
-     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
-     "weight": 7,
-     "terms": [
-      "continuous improvement"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Conception mécanique (264-1), Outils et moyens de fabrication (259-1)",
-     "weight": 7,
-     "terms": [
-      "engineering",
-      "product development"
-     ]
-    },
-    {
-     "id": "qual2",
-     "axis": "qual",
-     "source": "Qualité et normes (774-1)",
-     "weight": 10,
-     "terms": [
-      "compliance",
-      "quality"
-     ]
-    },
-    {
-     "id": "qual4",
-     "axis": "qual",
-     "source": "Introduction aux techniques expérimentales (267-1)",
-     "weight": 7,
-     "terms": [
-      "testing",
-      "validation"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Aucun terme industriel : score plafonné",
-     "terms": [],
-     "points": -5
-    }
-   ]
-  },
-  {
    "id": "223079",
    "title": "PROJECT ENGINEER - COST ESTIMATOR HF (H/F)",
    "company": "PONTICELLI FRERES",
@@ -35854,7 +35327,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-09T13:18:14Z",
    "sector": "",
-   "specialization": "[\"6\",\"7\"]",
+   "specialization": "6, 7",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35906,6 +35379,165 @@
      "label": "Aucun terme industriel : score plafonné",
      "terms": [],
      "points": -2
+    }
+   ]
+  },
+  {
+   "id": "246813",
+   "title": "ELECTRICAL PROJECT ENGINEER (H/F)",
+   "company": "PRODUCT DEVELOPMENT EMPLOYENEURSHIP",
+   "country": "BELGIQUE",
+   "city": "BRUXELLES",
+   "description": "As an Electrical/Project Engineer, you work on the electrical and control command studies of the project as well as do the follow-up of the manufacture and the commissioning of electrical and control cabinet in close collaboration with project managers as well as engineering and development teams.\n\nYou draw up the plans and the technical specifications\nYou conduct technical studies and help with drawing up the technical proposal and quotation\nYou monitor budget and planning\nYou provide support to the project team during the realization.\nYou manage the tenders, analyze the offers and proceed with orders\nYou promote energy efficiency in the company.",
+   "mission": "",
+   "profile": "You have a M.Sc. in electrical, electro-mechanical engineering or equivalent through experience.\nYou are a critical, analytical and result-oriented person.\nYou have developed some of these skills: P&ID, General Layout, Piping Layout, Electrical diagram, Power balance, E&I architecture, etc.\nYou also have strong interpersonal and good writing skills\nYou speak French/Dutch and have a good level in English.",
+   "duration": 24,
+   "start_date": "2026-12-01T00:00:00",
+   "end_date": "2028-12-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-07T17:18:27Z",
+   "sector": "",
+   "specialization": "60, 65, 66, 71, 77, 110, 142, 149",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-07T17:18:27Z",
+    "missionStartDate": "2026-12-01T00:00:00",
+    "missionEndDate": "2028-12-01T00:00:00",
+    "startBroadcastDate": "2026-10-07T00:00:00",
+    "endBroadcastDate": "2026-11-06T00:00:00"
+   },
+   "summary": "As an Electrical/Project Engineer, you work on the electrical and control command studies of the project as well as do the follow-up of the manufacture and the commissioning of electrical and control cabinet in close collaboration with project managers as well as engineering and development teams.\n\nYou draw up the plans and the technical specifications\nYou conduct technical studies and help with drawing up the technical proposal and quotation\nYou monitor budget and planning\nYou provide support to the project team during the realization.\nYou manage the tenders, analyze the offers and proceed with orders\nYou promote energy efficiency in the company.",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/246813",
+   "score": 30,
+   "label": "Périphérique",
+   "first_seen": "2026-10-08T07:53:37+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 12,
+    "qual": 0,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Conception mécanique (264-1), Outils et moyens de fabrication (259-1)",
+     "weight": 7,
+     "terms": [
+      "engineering",
+      "product development"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "engineer"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "energy",
+      "mechanical"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
+   "id": "246812",
+   "title": "NUCLEAR PROJECT ENGINEER (H/F)",
+   "company": "PRODUCT DEVELOPMENT EMPLOYENEURSHIP",
+   "country": "BELGIQUE",
+   "city": "BRUXELLES",
+   "description": "As a Nuclear Project Engineer, you will play a key role in advancing our projects and shaping the future of nuclear technology. Your expertise will help us in ensuring that our solutions meet the highest standards.\n\nApply your deep knowledge of treatment and conditioning systems for solid waste, as well as liquid and gaseous effluents, to develop effective solutions.\n\nSpecify and design systems and equipment that meet client requirements, ensuring optimal performance and compliance.\n\nAct as the main contact for equipment suppliers, managing communication and ensuring timely delivery of high-quality components.\n\nWork closely with designers and draftsmen to create precise equipment layout drawings, enhancing operational efficiency.\n\nAccompany contractors during the site commissioning phase to ensure that systems are installed and functioning as planned.\n\nEmploy computer codes to evaluate and project decommissioning costs, providing valuable insights for planning.\n\nDevelop and analyze sensitivity studies",
+   "mission": "",
+   "profile": "Master degree in Engineering / Sciences, preferably in physics or nuclear; \n Language: (French OR Dutch) and English; \n Working experience in the Nuclear sector is required",
+   "duration": 24,
+   "start_date": "2026-12-01T00:00:00",
+   "end_date": "2028-12-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-07T17:17:39Z",
+   "sector": "",
+   "specialization": "52, 63, 118, 125, 168, 225, 256",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-07T17:17:39Z",
+    "missionStartDate": "2026-12-01T00:00:00",
+    "missionEndDate": "2028-12-01T00:00:00",
+    "startBroadcastDate": "2026-10-07T00:00:00",
+    "endBroadcastDate": "2026-11-06T00:00:00"
+   },
+   "summary": "As a Nuclear Project Engineer, you will play a key role in advancing our projects and shaping the future of nuclear technology. Your expertise will help us in ensuring that our solutions meet the highest standards.\n\nApply your deep knowledge of treatment and conditioning systems for solid waste, as well as liquid and gaseous effluents, to develop effective solutions.\n\nSpecify and design systems and equipment that meet client requirements, ensuring optimal performance and compliance.\n\nAct as the main contact for equipment suppliers, managing communication and ensuring timely delivery of high-quality components.\n\nWork closely with designers and draftsmen to create precise equipment layout drawings, enhancing operational efficiency.\n\nAccompany contractors during the site commissioning phase to ensure that systems are installed and functioning as planned.\n\nEmploy computer codes to evaluate and project decommissioning costs, providing valuable insights for planning.\n\nDevelop and analyze sensitivity studies",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/246812",
+   "score": 30,
+   "label": "Périphérique",
+   "first_seen": "2026-10-08T07:53:37+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 12,
+    "qual": 28,
+    "calc": 0
+   },
+   "dominant_axis": "qual",
+   "matched_families": [
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Conception mécanique (264-1), Outils et moyens de fabrication (259-1)",
+     "weight": 7,
+     "terms": [
+      "engineering",
+      "product development"
+     ]
+    },
+    {
+     "id": "qual2",
+     "axis": "qual",
+     "source": "Qualité et normes (774-1)",
+     "weight": 10,
+     "terms": [
+      "compliance",
+      "quality",
+      "standards"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "engineer"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "nuclear"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    },
+    {
+     "label": "Aucun terme industriel : score plafonné",
+     "terms": [],
+     "points": -13
     }
    ]
   },
@@ -38134,7 +37766,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-10T07:52:56Z",
    "sector": "",
-   "specialization": "[\"251\"]",
+   "specialization": "251",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -38903,7 +38535,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-07T14:39:51Z",
    "sector": "",
-   "specialization": "[\"5\",\"9\",\"205\",\"259\"]",
+   "specialization": "5, 9, 205, 259",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -39116,7 +38748,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-18T07:55:37Z",
    "sector": "",
-   "specialization": "[\"155\"]",
+   "specialization": "155",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -39216,7 +38848,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-28T13:57:30Z",
    "sector": "",
-   "specialization": "[\"68\"]",
+   "specialization": "68",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -39646,7 +39278,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T09:27:37Z",
    "sector": "",
-   "specialization": "[\"244\"]",
+   "specialization": "244",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -39734,7 +39366,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-23T09:46:51Z",
    "sector": "",
-   "specialization": "[\"68\"]",
+   "specialization": "68",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -39819,7 +39451,7 @@
    "expiry_date": "",
    "publish_date": "2025-09-24T10:46:46Z",
    "sector": "",
-   "specialization": "4, 5, 8, 9, 199, 200, 201, 202, 203, 259",
+   "specialization": "[\"4\",\"5\",\"8\",\"9\",\"199\",\"200\",\"201\",\"202\",\"203\",\"259\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -39956,7 +39588,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T09:23:13Z",
    "sector": "",
-   "specialization": "[\"238\"]",
+   "specialization": "238",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -40176,7 +39808,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T12:26:47Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -40314,7 +39946,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-20T12:27:40Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -40493,71 +40125,6 @@
    "bonuses": []
   },
   {
-   "id": "245650",
-   "title": "VIE - HR Data & Process Analyst H/F (H/F)",
-   "company": "CA INDOSUEZ",
-   "country": "SUISSE",
-   "city": "GENEVE",
-   "description": "Au sein de la Direction des Ressources Humaines, le/la VIE HR Data & Process Analyst contribue à la simplification, à l’optimisation et à l’automatisation des processus de travail RH. Il/elle joue un rôle déterminant dans la transformation de la fonction RH en intervenant aux côtés des équipes HR Business Partnering, HR Middle Office, Learning & Development, Compensation & Benefits et Payroll, avec pour objectif d’améliorer l’organisation opérationnelle et d’alléger les tâches manuelles et répétitives.\r\n\r\nIl/elle joue un rôle actif dans l’identification de solutions d’optimisations de processus et dans leur mise en production au travers notamment de développements IT et de l’utilisation de solutions d’IA. \r\n\r\nIl/elle sera enfin aussi amené(e) à réaliser certaines tâches administratives et opérationnelles en support des activités RH courantes.\r\n\r\nSes missions principales sont les suivantes :\r\n\r\n- Aider les équipes RH dans la simplification et l’optimisation des processus de travail ;\r\n- Identifier des améliorations de process et procéder à leur mise en production grâce notamment à des développements et automatisations IT ainsi qu’au moyen de solutions d’IA ;\r\n- Participer à la transformation du département RH en soutenant les projets locaux ou fédéraux dans le déploiement de nouveaux outils RH ;\r\n- Participer activement aux diverses initiatives et au bon fonctionnement du département RH en accomplissant notamment des tâches administratives et opérationnelles liées à la fonction RH.\r\n- Développer ou améliorer des reportings de suivi et contribuer à l’analyse des données RH.\r\n\r\nFormation / spécialisation : Master Data Science, Data & IA, Data Analyst, Business Analytics.\r\nUne première expérience dans le domaine de la transformation et de l’automatisation de processus (si possible RH) un atout.\r\nUne excellente maîtrise de Python, Power BI, Excel avancé (macros, VBA) ainsi que des solutions d’IA générative et d’automatisation sont attendues.\r\nLe/la candidat-e idéal-e fait preuve de rigueur, d’esprit analytique et de curiosité. Il/elle sait vulgariser des analyses complexes, challenger les besoins et proposer des solutions concrètes. \r\nMaîtrise du français et de l'anglais",
-   "mission": "",
-   "profile": "Master Data Science, Data & IA, Data Analyst, Business Analytics.",
-   "duration": 12,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-07T12:52:31Z",
-   "sector": "",
-   "specialization": "144",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-07T12:52:31Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-09-07T00:00:00",
-    "endBroadcastDate": "2026-10-07T00:00:00"
-   },
-   "summary": "Au sein de la Direction des Ressources Humaines, le/la VIE HR Data & Process Analyst contribue à la simplification, à l’optimisation et à l’automatisation des processus de travail RH. Il/elle joue un rôle déterminant dans la transformation de la fonction RH en intervenant aux côtés des équipes HR Business Partnering, HR Middle Office, Learning & Development, Compensation & Benefits et Payroll, avec pour objectif d’améliorer l’organisation opérationnelle et d’alléger les tâches manuelles et répétitives.\r\n\r\nIl/elle joue un rôle actif dans l’identification de solutions d’optimisations de processus et dans leur mise en production au travers notamment de développements IT et de l’utilisation de solutions d’IA. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/245650",
-   "score": 28,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 0,
-    "qual": 0,
-    "calc": 17
-   },
-   "dominant_axis": "calc",
-   "matched_families": [
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1), Initiation Excel et macros (266-1), Asservissement (840-1)",
-     "weight": 5,
-     "terms": [
-      "automatisation",
-      "python",
-      "vba"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "process"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "245542",
    "title": "Chargé(e) de Recrutement et de Missions RH (H/F)",
    "company": "DAVIDSON NORD",
@@ -40572,7 +40139,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-01T09:16:32Z",
    "sector": "",
-   "specialization": "[\"6\"]",
+   "specialization": "6",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -40779,7 +40346,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-28T09:57:45Z",
    "sector": "",
-   "specialization": "[\"29\"]",
+   "specialization": "29",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -40997,7 +40564,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-07T14:59:53Z",
    "sector": "",
-   "specialization": "[\"244\"]",
+   "specialization": "244",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -41352,7 +40919,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-21T10:52:41Z",
    "sector": "",
-   "specialization": "[\"328\"]",
+   "specialization": "328",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -41642,7 +41209,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-07T11:30:53Z",
    "sector": "",
-   "specialization": "[\"2\"]",
+   "specialization": "2",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -41936,7 +41503,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-21T14:16:53Z",
    "sector": "",
-   "specialization": "[\"126\"]",
+   "specialization": "126",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -42002,7 +41569,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-17T07:37:26Z",
    "sector": "",
-   "specialization": "327",
+   "specialization": "[\"327\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -42053,69 +41620,6 @@
    ]
   },
   {
-   "id": "246656",
-   "title": "Chargé(e) d'études économiques au SER de Madrid (H/F)",
-   "company": "DIRECTION GENERALE DU TRESOR",
-   "country": "ESPAGNE",
-   "city": "MADRID",
-   "description": "Le Service économique régional (SER) de Madrid est un service extérieur du ministère de l’Economie, des Finances et de l’Industrie (Direction générale du Trésor) auprès de l’ambassade de France en Espagne. Il agit pour le compte des autorités françaises. Il a pour missions :\n\n- d’analyser la conjoncture et les politiques publiques en Espagne en matière économique et financière ; \n- d’informer les pouvoirs publics français sur l’environnement économique et financier espagnol, les enjeux et politiques sectoriels (politique économique, budget, transport, énergie, industrie, agriculture, etc.) de manière à assurer un suivi des relations bilatérales franco-espagnoles dans ces différents domaines et intervenir à leur demande ;\n- de représenter la France et défendre ses positions auprès des autorités espagnoles, développer la coopération économique entre les deux pays, préparer les rencontres franco-espagnoles au niveau administratif et politique.\n\nMISSION ET ATTRIBUTIONS DU/DE LA VIA :\n\nEn fonction de son profil et de ses compétences, le ou la titulaire du poste pourra prendre en charge tout ou partie des sujets suivants :\n\n- financement de l’économie (financement des ménages et des entreprises, secteurs bancaire et des assurances, marchés financiers, régulation, stabilité financière, fintech) ;\n- suivi de la principauté d’Andorre (situation économique et financière, accord d’association avec l’UE) ;\n- égalité femmes-hommes dans l’économie (état des lieux et politiques publiques) ;\n- économie territoriale (situation économique et financière des communautés autonomes, inégalités territoriales) ;\n- secteur de la construction, de l’immobilier et marché du logement (politiques publiques du logement, suivi des marchés immobiliers, évaluations des biens immobiliers des organismes publics français en Espagne : valeur locative et de marché)\n\nSur tous ces thèmes il/elle aura la charge de : \n\n• réaliser une veille permanente ;\n• produire des analyses à court, moyen ou long terme ;\n• répondre aux commandes et interrogations de l’administration centrale en France et d’autres interlocuteurs publics ;\n• contribuer à la qualité du dialogue entre les administrations ;\n• appuyer les actions et évènements du SER et de l’ambassade auprès de l’écosystème local (communauté d’affaires, analystes, administration).\n\nPROFIL :\n\nDiplôme de niveau master 2 (bac+5) avec une bonne connaissance de la micro et de la macroéconomie.\n\nCOMPETENCES REQUISES :\n\n- capacités d’analyse et de synthèse ;\n- qualités rédactionnelles ;\n- compétences en analyse quantitative ;\n- fortes qualités relationnelles, de réactivité et d’adaptation ;\n- sens du travail en équipe ;\n- espagnol courant ; anglais professionnel \n\nDIVERS :\n\nMadrid n’est pas considérée comme une ville dangereuse. Le principal risque auquel il est possible d’être confronté est le vol.\n\nLogement : les sites Internet de référence sont Fotocasa et Idealista. Il est également possible de passer par des agences immobilières (les frais d’agence équivalent en général à 1 mois de loyer). Les contrats de location sont globalement comparables aux contrats français. L’assurance \nd’habitation/locative n’est pas obligatoire en Espagne mais est recommandée\n\nSanté : penser à venir avec la carte européenne d’assurance maladie.",
-   "mission": "",
-   "profile": "Diplôme de niveau master 2 (bac+5) avec une bonne connaissance de la micro et de la macroéconomie\n\nEspagnol courant, anglais professionnel\n\nMerci d'envoyer vos CV UNIUQUEMENT EN FRANCAIS",
-   "duration": 24,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2028-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-02T14:06:02Z",
-   "sector": "",
-   "specialization": "[\"17\",\"320\",\"322\"]",
-   "contract": "VIA",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-02T14:06:02Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2028-12-01T00:00:00",
-    "startBroadcastDate": "2026-10-02T00:00:00",
-    "endBroadcastDate": "2026-10-07T00:00:00"
-   },
-   "summary": "Le Service économique régional (SER) de Madrid est un service extérieur du ministère de l’Economie, des Finances et de l’Industrie (Direction générale du Trésor) auprès de l’ambassade de France en Espagne. Il agit pour le compte des autorités françaises. Il a pour missions :\n\n- d’analyser la conjoncture et les politiques publiques en Espagne en matière économique et financière ; \n- d’informer les pouvoirs publics français sur l’environnement économique et financier espagnol, les enjeux et politiques sectoriels (politique économique, budget, transport, énergie, industrie, agriculture, etc.) de manière à assurer un suivi des relations bilatérales franco-espagnoles dans ces différents domaines et intervenir à leur demande ;\n- de représenter la France et défendre ses positions auprès des autorités espagnoles, développer la coopération économique entre les deux pays, préparer les rencontres franco-espagnoles au niveau administratif et politique. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246656",
-   "score": 26,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 0,
-    "qual": 28,
-    "calc": 0
-   },
-   "dominant_axis": "qual",
-   "matched_families": [
-    {
-     "id": "qual2",
-     "axis": "qual",
-     "source": "Qualité et normes (774-1)",
-     "weight": 10,
-     "terms": [
-      "qualite"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "energie"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "245372",
    "title": "VIE Analyst M&A | Latin America (Portuguese speaking) (H/F)",
    "company": "EURO LATINA FINANCE",
@@ -42130,7 +41634,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-24T11:55:10Z",
    "sector": "",
-   "specialization": "[\"259\",\"318\"]",
+   "specialization": "259, 318",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -42994,7 +42498,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-09T07:29:30Z",
    "sector": "",
-   "specialization": "[\"49\",\"63\",\"86\",\"123\",\"208\",\"256\",\"366\"]",
+   "specialization": "49, 63, 86, 123, 208, 256, 366",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -43318,7 +42822,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-29T18:23:04Z",
    "sector": "",
-   "specialization": "[\"62\",\"70\",\"127\",\"145\"]",
+   "specialization": "62, 70, 127, 145",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -43491,72 +42995,6 @@
      "terms": [
       "audit",
       "quality"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
-   "id": "245268",
-   "title": "GTM & account manager (H/F)",
-   "company": "MUCHBETTER.AI",
-   "country": "ESPAGNE",
-   "city": "MADRID",
-   "description": "L'entreprise\r\n\r\nmuchbetter.ai est une plateforme de formation et de coaching des équipes commerciales et service client. Les collaborateurs se forment, s'entraînent et se certifient à travers des conversations vocales avec des clients fictifs générés par intelligence artificielle, puis reçoivent un retour personnalisé sur leur posture et leur expertise.\r\n\r\nLe contexte de la mission\r\n\r\nAprès un développement solide en France, muchbetter.ai souhaite mieux comprendre et aborder le marché espagnol. La mission consiste à contribuer à l'analyse de ce marché, à l'adaptation de notre approche au contexte local et à l'accompagnement des premières entreprises espagnoles utilisatrices de la plateforme.\r\n\r\nLe volontaire travaille en lien étroit et quotidien avec les équipes commerciales, marketing, produit et Customer Success. Une période d'intégration au siège précède l'installation à Madrid, avec formation au produit, aux méthodes et aux outils internes. Des points de suivi réguliers avec la Direction Générale et des déplacements périodiques à Paris sont prévus tout au long de la mission.\r\n\r\nLes missions\r\n\r\n1. Analyse du marché espagnol\r\nIdentifier les secteurs pertinents (banque, assurance, télécommunications, industrie, santé) et comprendre leurs enjeux opérationnels et réglementaires en Espagne.\r\nAnalyser les pratiques locales : circuits de décision, modalités d'achat, acteurs de la formation en entreprise.\r\nCartographier l'environnement concurrentiel local.\r\nConsolider les enseignements de la mission dans une synthèse de marché à destination des équipes.\r\n\r\n2. Adaptation de l'approche et des supports\r\nContribuer à l'adaptation du positionnement, des messages et des références au contexte espagnol.\r\nProduire et adapter les supports en espagnol : présentations, documents de synthèse, supports d'échange.\r\nIdentifier les besoins d'adaptation linguistique et culturelle de la plateforme.\r\n\r\n3. Prospection et prise de contact\r\nConstruire les listes d'entreprises cibles et de contacts, qualifier les interlocuteurs (directions commerciales, service client, formation, transformation).\r\nPréparer les messages d'approche en espagnol et mener les prises de contact multicanal (courriel, téléphone, réseaux professionnels).\r\nAssurer les relances et participer à la préparation et à l'organisation des rendez-vous.\r\nContribuer à l'animation du réseau de contacts constitué sur le marché.\r\n\r\n4. Participation aux échanges avec les entreprises intéressées\r\nParticiper aux rendez-vous aux côtés de la Direction Générale.\r\nContribuer à la préparation et à l'animation des démonstrations de la plateforme et des ateliers d'analyse des besoins.\r\nParticiper au cadrage des expérimentations : périmètre, déroulé, interlocuteurs, modalités d'évaluation.\r\nContribuer aux dossiers de réponse aux consultations et aux questionnaires techniques, de sécurité et de conformité.\r\n\r\n5. Accompagnement des utilisateurs espagnols\r\nAccompagner le lancement et la prise en main de la plateforme auprès des premières entreprises espagnoles.\r\nParticiper aux comités de suivi et aux points d'étape avec les équipes formation et métiers.\r\nPréparer les retours d'expérience et les bilans d'usage présentés aux interlocuteurs.\r\nRecueillir les besoins complémentaires exprimés et les relayer aux équipes concernées.\r\nContribuer à la qualité de la relation et à la satisfaction des utilisateurs, en lien avec les équipes Customer Success à Paris.\r\n\r\n6. Partenariats et écosystème\r\nIdentifier les partenaires potentiels : cabinets de conseil, intégrateurs, experts métiers, acteurs de la formation professionnelle, associations sectorielles.\r\nPréparer les supports associés et participer aux échanges destinés à structurer des collaborations.\r\nReprésenter muchbetter.ai lors d'événements et de salons professionnels en Espagne.\r\n\r\n7. Retours terrain et contribution produit\r\nFaire remonter les observations de terrain de façon structurée.\r\nIdentifier les usages prioritaires pour les entreprises espagnoles.\r\nTravailler avec les équipes produit pour éclairer leurs choix de priorisation.\r\nRédiger les comptes rendus de rendez-vous, tenir à jour l'outil de gestion de la relation client (HubSpot) et structurer les tableaux de suivi de l'activité sur le marché espagnol.\r\nProfil recherché\r\n\r\nIndispensable\r\n\r\nEspagnol de niveau C1 minimum, à l'écrit comme à l'oral : la mission suppose de mener des échanges professionnels en espagnol avec des interlocuteurs de direction.\r\nFrançais ou anglais de niveau professionnel pour travailler avec les équipes au siège.\r\nÉligibilité au dispositif V.I.E de Business France.\r\nFormation Bac+4 ou Bac+5 (école de commerce, école d'ingénieur ou université).\r\nUne première expérience, y compris en stage ou en alternance, dans le développement commercial, le marketing ou la relation client en environnement B2B.\r\n\r\nApprécié\r\n\r\nIntérêt pour les logiciels professionnels en mode SaaS et pour l'intelligence artificielle.\r\nAisance dans les échanges téléphoniques et dans la prise de contact.\r\nGoût pour l'analyse et la structuration : synthèse de marché, organisation de l'information, tenue rigoureuse des outils.\r\nCapacité à échanger avec des interlocuteurs de direction dans un contexte grand compte.\r\nCuriosité pour les sujets de formation, de montée en compétences et de transformation des métiers.\r\n\r\nCe que la mission apporte\r\n\r\nUne contribution directe à l'ouverture d'un nouveau marché européen, sur un périmètre large et varié.\r\nUn travail au contact quotidien de la Direction Générale et des équipes commerciales, produit et Customer Success.\r\nUne formation aux méthodes de vente et d'accompagnement en environnement grand compte.\r\nUne expérience professionnelle et interculturelle complète en Espagne, dans un secteur en forte évolution.\r\nUn produit reconnu, déjà déployé auprès de références internationales de premier plan.\r\n\r\nModalités\r\n\r\nVolontariat International en Entreprise de 18 mois, basé à Madrid.\r\nIndemnité selon le barème Business France applicable à l'Espagne.\r\nPériode d'intégration initiale au siège à Paris, puis déplacements périodiques.",
-   "mission": "",
-   "profile": "Indispensable\r\n\r\nEspagnol de niveau C1 minimum, à l'écrit comme à l'oral : la mission suppose de mener des échanges professionnels en espagnol avec des interlocuteurs de direction.\r\nFrançais ou anglais de niveau professionnel pour travailler avec les équipes au siège.\r\nÉligibilité au dispositif V.I.E de Business France.\r\nFormation Bac+4 ou Bac+5 (école de commerce, école d'ingénieur ou université).\r\nUne première expérience, y compris en stage ou en alternance, dans le développement commercial, le marketing ou la relation client en environnement B2B.\r\n\r\nApprécié\r\n\r\nIntérêt pour les logiciels professionnels en mode SaaS et pour l'intelligence artificielle.\r\nAisance dans les échanges téléphoniques et dans la prise de contact.\r\nGoût pour l'analyse et la structuration : synthèse de marché, organisation de l'information, tenue rigoureuse des outils.\r\nCapacité à échanger avec des interlocuteurs de direction dans un contexte grand compte.\r\nCuriosité pour les sujets de formation, de montée en compétences et de transformation des métiers.",
-   "duration": 18,
-   "start_date": "2026-11-01T00:00:00",
-   "end_date": "2028-05-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-08-14T13:48:57Z",
-   "sector": "",
-   "specialization": "6",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-08-14T13:48:57Z",
-    "missionStartDate": "2026-11-01T00:00:00",
-    "missionEndDate": "2028-05-01T00:00:00",
-    "startBroadcastDate": "2026-09-08T00:00:00",
-    "endBroadcastDate": "2026-10-07T00:00:00"
-   },
-   "summary": "L'entreprise\r\n\r\nmuchbetter.ai est une plateforme de formation et de coaching des équipes commerciales et service client. Les collaborateurs se forment, s'entraînent et se certifient à travers des conversations vocales avec des clients fictifs générés par intelligence artificielle, puis reçoivent un retour personnalisé sur leur posture et leur expertise.\r\n\r\nLe contexte de la mission\r\n\r\nAprès un développement solide en France, muchbetter.ai souhaite mieux comprendre et aborder le marché espagnol. La mission consiste à contribuer à l'analyse de ce marché, à l'adaptation de notre approche au contexte local et à l'accompagnement des premières entreprises espagnoles utilisatrices de la plateforme.\r\n\r\nLe volontaire travaille en lien étroit et quotidien avec les équipes commerciales, marketing, produit et Customer Success. Une période d'intégration au siège précède l'installation à Madrid, avec formation au produit, aux méthodes et aux outils internes. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/245268",
-   "score": 25,
-   "label": "Périphérique",
-   "first_seen": "2026-08-24T16:01:18+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 17,
-    "qual": 28,
-    "calc": 0
-   },
-   "dominant_axis": "qual",
-   "matched_families": [
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1), Tenue mécanique des outillages (284-3, 292-1)",
-     "weight": 10,
-     "terms": [
-      "methodes"
-     ]
-    },
-    {
-     "id": "qual2",
-     "axis": "qual",
-     "source": "Qualité et normes (774-1)",
-     "weight": 10,
-     "terms": [
-      "conformite",
-      "qualite"
      ]
     }
    ],
