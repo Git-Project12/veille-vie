@@ -15,7 +15,7 @@ const AXIS_LABELS = {
 const AXIS_ORDER = ["rd", "prod", "qual", "calc"];
 let PAGE_STEP = 25;          // ajustable depuis le panneau de filtres
 const PAGE_SIZES = [25, 50, 75, 100];
-const UI_VERSION = "22";   // affiché en pied de page : permet de vérifier
+const UI_VERSION = "23";   // affiché en pied de page : permet de vérifier
                           // quelle version de l'interface est réellement chargée
 const EXPIRY_WINDOW_DAYS = 14;   // seuil de l'onglet « échéances »
 const NEW_WINDOW_HOURS = 24;     // durée pendant laquelle une offre reste « nouvelle »
@@ -59,7 +59,8 @@ const COMPANIES = [
 ];
 
 let DATA = { offers: [], families: [], scoring: {} };
-let PREFS = { weights: {}, favorites: [], tracking: {}, archive: {}, lastVisit: null };
+let PREFS = { weights: {}, favorites: [], tracking: {}, archive: {},
+              hidden: [], excludedCountries: [], lastVisit: null };
 let filtered = [];
 let shown = PAGE_STEP;
 let currentTab = "all";
@@ -79,7 +80,8 @@ function loadPrefs() {
   if (!PREFS.tracking) PREFS.tracking = {};
   if (!PREFS.weights) PREFS.weights = {};
   if (!PREFS.archive) PREFS.archive = {};
-  if (!PREFS.archive) PREFS.archive = {};
+  if (!PREFS.hidden) PREFS.hidden = [];
+  if (!PREFS.excludedCountries) PREFS.excludedCountries = [];
 }
 
 function savePrefs() {
@@ -94,6 +96,30 @@ function weightOf(familyId) {
 }
 
 function isFavorite(id) { return PREFS.favorites.includes(id); }
+
+/* Offres écartées.
+
+   Sur plusieurs centaines d'annonces, beaucoup se rejettent en trois secondes
+   — et réapparaissent chaque jour. Les masquer les range hors de vue sans les
+   détruire : un interrupteur dans le panneau de filtres les fait revenir, et
+   mettre une offre en favori la démasque, puisque l'étoile dit l'inverse. */
+function isHidden(id) { return PREFS.hidden.includes(id); }
+
+function toggleHidden(id) {
+  const i = PREFS.hidden.indexOf(id);
+  if (i === -1) PREFS.hidden.push(id); else PREFS.hidden.splice(i, 1);
+  savePrefs();
+}
+
+function afficherMasquees() {
+  const bascule = $("#show-hidden");
+  return bascule ? bascule.checked : false;
+}
+
+/* Retire les offres écartées, sauf quand on demande à les voir. */
+function sansMasquees(liste) {
+  return afficherMasquees() ? liste : liste.filter((o) => !isHidden(o.id));
+}
 
 /* Une offre retirée de Business France disparaît de la collecte suivante.
    On conserve donc une copie locale autonome de chaque favori : entreprise,
@@ -131,6 +157,10 @@ function toggleFavorite(id) {
   const i = PREFS.favorites.indexOf(id);
   if (i === -1) {
     PREFS.favorites.push(id);
+    // Étoiler une offre masquée la fait réapparaître : les deux gestes
+    // disent le contraire l'un de l'autre.
+    const rang = PREFS.hidden.indexOf(id);
+    if (rang !== -1) PREFS.hidden.splice(rang, 1);
     const offer = DATA.offers.find((o) => o.id === id);
     if (offer) PREFS.archive[id] = archiveSnapshot(offer);
   } else {
@@ -430,6 +460,7 @@ function boot() {
   fillSelect("#company", uniqueValues("company"));
   renderCorpus();
   renderCompanies();
+  renderExcludedCountries();
   restoreFilters();
   bindEvents();
   updateFreshness();
@@ -464,6 +495,8 @@ function bindEvents() {
     $("#minscore-out").textContent = e.target.value;
   });
   $("#reset").addEventListener("click", resetFilters);
+  $("#exclude-country").addEventListener("click", excludeCurrentCountry);
+  $("#show-hidden").addEventListener("change", updateTabCounts);
 
   // Le tri est proposé à deux endroits : en tête des résultats, où il est
   // visible, et dans le panneau de filtres. Les deux restent synchronisés.
@@ -505,7 +538,7 @@ function bindEvents() {
   $("#list").addEventListener("change", onListChange);
   $("#list").addEventListener("keydown", (e) => {
     if (e.key !== "Enter" && e.key !== " ") return;
-    if (e.target.closest(".fav-btn, select, textarea, a, .info")) return;
+    if (e.target.closest(".fav-btn, .hide-btn, select, textarea, a, .info")) return;
     const card = e.target.closest(".offer");
     if (card) { e.preventDefault(); toggleCard(card); }
   });
@@ -570,6 +603,15 @@ function bindInfoButtons(root) {
 function onListClick(e) {
   if (e.target.closest(".info")) { e.stopPropagation(); return; }
 
+  const masquer = e.target.closest(".hide-btn");
+  if (masquer) {
+    e.stopPropagation();
+    toggleHidden(masquer.dataset.id);
+    updateTabCounts();
+    apply();
+    return;
+  }
+
   const drop = e.target.closest(".drop-archive");
   if (drop) {
     e.stopPropagation();
@@ -593,7 +635,7 @@ function onListClick(e) {
     }
     return;
   }
-  if (e.target.closest("a, select, textarea, .track")) return;
+  if (e.target.closest("a, select, textarea, .track, .hide-btn")) return;
   toggleCard(e.target.closest(".offer"));
 }
 
@@ -716,6 +758,7 @@ function currentFilters() {
     duration: $("#duration").value,
     startAfter: $("#start-after").value,
     axes: $$('input[name="axis"]:checked').map((i) => i.value),
+    excluded: PREFS.excludedCountries || [],
     sort: $("#sort").value,
   };
 }
@@ -749,9 +792,15 @@ function apply() {
   PREFS.filters = f;
   savePrefs();
 
-  filtered = tabPool().filter((o) => {
+  filtered = sansMasquees(tabPool()).filter((o) => {
     if (o.score < f.min) return false;
-    if (f.country && o.country !== f.country) return false;
+    // Un pays choisi explicitement l'emporte sur les exclusions : demander la
+    // Belgique alors qu'elle est exclue n'aurait aucun sens autrement.
+    if (f.country) {
+      if (o.country !== f.country) return false;
+    } else if (f.excluded.length && f.excluded.includes(o.country)) {
+      return false;
+    }
     if (f.company && o.company !== f.company) return false;
     if (f.axes.length && !f.axes.includes(o.dominant_axis)) return false;
     if (f.duration) {
@@ -849,6 +898,8 @@ function resetFilters() {
   $("#minscore").value = 0;
   $("#minscore-out").textContent = "0";
   $$('input[name="axis"]').forEach((i) => { i.checked = false; });
+  // Les pays exclus et les offres écartées ne sont pas des filtres de
+  // session : ce sont des choix durables, que « Réinitialiser » respecte.
   refilter();
 }
 
@@ -960,18 +1011,64 @@ function affinityHelp(o) {
        élevée avec un score modeste. Croise toujours les deux chiffres.</p>`;
 }
 
+/* Pays écartés des résultats.
+
+   Le menu « Pays » sert à ne voir qu'un pays ; celui-ci fait l'inverse, et
+   accepte plusieurs entrées. Utile pour retirer durablement une destination
+   qui ne t'intéresse pas — un pays frontalier, par exemple, qui n'a pas
+   grand-chose d'un volontariat international. */
+function renderExcludedCountries() {
+  const boite = $("#excluded-countries");
+  if (!boite) return;
+  const liste = PREFS.excludedCountries || [];
+
+  boite.innerHTML = liste.map((pays) =>
+    `<button type="button" class="chip" data-pays="${escapeHtml(pays)}">
+       ${escapeHtml(pays)}<span aria-hidden="true">×</span>
+     </button>`).join("");
+  boite.hidden = liste.length === 0;
+
+  boite.querySelectorAll(".chip").forEach((puce) => {
+    puce.addEventListener("click", () => {
+      PREFS.excludedCountries = (PREFS.excludedCountries || [])
+        .filter((p) => p !== puce.dataset.pays);
+      savePrefs();
+      renderExcludedCountries();
+      refilter();
+    });
+  });
+}
+
+function excludeCurrentCountry() {
+  const pays = $("#country").value;
+  if (!pays) {
+    alert("Choisis d'abord un pays dans la liste, puis clique sur « Exclure ».");
+    return;
+  }
+  PREFS.excludedCountries = PREFS.excludedCountries || [];
+  if (!PREFS.excludedCountries.includes(pays)) PREFS.excludedCountries.push(pays);
+
+  // Le menu revient sur « Tous » : garder le pays sélectionné ET exclu
+  // afficherait une liste vide, ce qui ressemblerait à une panne.
+  $("#country").value = "";
+  savePrefs();
+  renderExcludedCountries();
+  refilter();
+}
+
 /* ============================ Rendu ============================ */
 
 function updateTabCounts() {
+  const vues = sansMasquees(DATA.offers);
   const counts = {
-    all: DATA.offers.length,
-    fav: favoritePool().length,
-    reco: recommendations().length,
-    soon: DATA.offers.filter((o) => {
+    all: vues.length,
+    fav: sansMasquees(favoritePool()).length,
+    reco: sansMasquees(recommendations()).length,
+    soon: vues.filter((o) => {
       const d = daysUntil(bestExpiry(o));
       return d !== null && d >= 0 && d <= EXPIRY_WINDOW_DAYS;
     }).length,
-    new: DATA.offers.filter(isNewOffer).length,
+    new: vues.filter(isNewOffer).length,
     track: Object.values(PREFS.tracking).filter((t) => t.status).length,
     archive: Object.keys(PREFS.archive).length,
   };
@@ -979,10 +1076,14 @@ function updateTabCounts() {
     const el = $(`.tab[data-tab="${tab}"] .tab-count`);
     if (el) el.textContent = n;
   }
+
+  // Le compteur du panneau de filtres annonce ce qui est mis de côté
+  const compteur = $("#hidden-count");
+  if (compteur) compteur.textContent = PREFS.hidden.length || "";
 }
 
 function updateAxisCounts() {
-  const pool = tabPool();
+  const pool = sansMasquees(tabPool());
   for (const axis of AXIS_ORDER) {
     const el = $(`[data-axis-count="${axis}"]`);
     if (el) el.textContent = pool.filter((o) => o.dominant_axis === axis).length;
@@ -1126,8 +1227,9 @@ function card(o) {
     ? `<p class="because">Proche de ton favori : <b>${escapeHtml(o._because.title)}</b></p>` : "";
 
   return `
-    <article class="offer" data-axis="${o.dominant_axis || ""}" data-id="${escapeHtml(o.id)}"
-             data-status="${escapeHtml(track.status || "")}" tabindex="0" aria-expanded="false">
+    <article class="offer${isHidden(o.id) ? " ecartee" : ""}" data-axis="${o.dominant_axis || ""}"
+             data-id="${escapeHtml(o.id)}" data-status="${escapeHtml(track.status || "")}"
+             tabindex="0" aria-expanded="false">
       <div class="offer-head">
         <div class="offer-id">
           ${badges.length ? `<p class="badges">${badges.join("")}</p>` : ""}
@@ -1135,9 +1237,15 @@ function card(o) {
           <p class="meta">${meta}</p>
         </div>
         <div class="gauge">
-          <button type="button" class="fav-btn ${isFavorite(o.id) ? "on" : ""}"
-                  data-id="${escapeHtml(o.id)}" aria-pressed="${isFavorite(o.id)}"
-                  title="Mettre en favori">★</button>
+          <span class="gauge-actions">
+            <button type="button" class="fav-btn ${isFavorite(o.id) ? "on" : ""}"
+                    data-id="${escapeHtml(o.id)}" aria-pressed="${isFavorite(o.id)}"
+                    title="Mettre en favori">★</button>
+            <button type="button" class="hide-btn" data-id="${escapeHtml(o.id)}"
+                    title="${isHidden(o.id) ? "Remettre dans la liste" : "Écarter cette offre"}"
+                    aria-label="${isHidden(o.id) ? "Remettre dans la liste" : "Écarter cette offre"}"
+            >${isHidden(o.id) ? "↩" : "✕"}</button>
+          </span>
           <b>${o.score}</b>
           <span>${escapeHtml(o.label || "")}${info(scoreHelp(o))}</span>
         </div>
@@ -1313,6 +1421,8 @@ function etatSynchronisable() {
     tracking: PREFS.tracking,
     archive: PREFS.archive,
     weights: PREFS.weights,
+    hidden: PREFS.hidden,
+    excludedCountries: PREFS.excludedCountries,
   };
 }
 
@@ -1448,6 +1558,13 @@ async function appliquerCodeSync(charge) {
     PREFS.tracking[id] = fusionne;
   }
 
+  // Offres écartées et pays exclus : union, comme les favoris. Un choix de
+  // mise à l'écart fait sur un appareil vaut sur l'autre.
+  PREFS.hidden = [...new Set([...(PREFS.hidden || []), ...(donnees.hidden || [])])];
+  PREFS.excludedCountries = [...new Set([
+    ...(PREFS.excludedCountries || []), ...(donnees.excludedCountries || []),
+  ])];
+
   // Pondérations : simple valeur numérique, la version reçue fait foi
   PREFS.weights = { ...PREFS.weights, ...(donnees.weights || {}) };
   savePrefs();
@@ -1455,6 +1572,7 @@ async function appliquerCodeSync(charge) {
   buildWeightPanel();
   rescoreAll();
   refreshArchive();
+  renderExcludedCountries();
   updateTabCounts();
   apply();
   let message = `Synchronisation effectuée : ${PREFS.favorites.length} favori(s), `

@@ -1334,3 +1334,91 @@ a { color: var(--oxide); }
   color: var(--paper);
   border-color: var(--oxide);
 }
+
+/* ===============================================================
+   Offres écartées et pays exclus — v23
+   =============================================================== */
+
+/* Les deux boutons de la jauge cohabitent sans élargir la colonne */
+.gauge-actions {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: .3rem;
+  margin-bottom: .1rem;
+}
+
+.hide-btn {
+  font-size: .82rem;
+  line-height: 1;
+  background: none;
+  border: 0;
+  cursor: pointer;
+  color: var(--zinc-deep);
+  padding: 0 0 .15rem;
+  transition: color .15s ease, transform .15s ease;
+}
+
+.hide-btn:hover { color: var(--steel); transform: scale(1.15); }
+
+/* Une offre écartée reste lisible mais s'efface visuellement : on la voit
+   seulement quand on a demandé à les afficher. */
+.offer.ecartee {
+  opacity: .45;
+  border-left-color: var(--zinc-deep);
+}
+
+.offer.ecartee:hover { opacity: .8; }
+.offer.ecartee .hide-btn { color: var(--oxide); }
+
+/* Interrupteur de réaffichage */
+.show-hidden {
+  display: flex;
+  align-items: center;
+  gap: .5rem;
+  font-size: .82rem;
+  color: var(--steel);
+  margin-bottom: 1rem;
+  cursor: pointer;
+}
+
+.show-hidden input { accent-color: var(--oxide); margin: 0; }
+.show-hidden span:last-child { color: var(--oxide); font-size: .74rem; }
+
+/* Exclusion de pays */
+.exclude-btn {
+  font: inherit;
+  font-size: .76rem;
+  width: 100%;
+  margin-top: .35rem;
+  padding: .4rem .5rem;
+  background: none;
+  border: 1px dashed rgba(18, 23, 28, .25);
+  border-radius: 2px;
+  color: var(--steel);
+  cursor: pointer;
+  transition: color .15s ease, border-color .15s ease;
+}
+
+.exclude-btn:hover {
+  color: var(--oxide);
+  border-color: var(--oxide);
+  border-style: solid;
+}
+
+.chips.excluded {
+  margin-top: .45rem;
+  margin-bottom: 0;
+}
+
+.chips.excluded .chip {
+  font-size: .74rem;
+  border-style: dashed;
+  color: var(--steel);
+}
+
+.chips.excluded .chip:hover {
+  border-style: solid;
+  border-color: var(--oxide);
+  color: var(--oxide);
+}

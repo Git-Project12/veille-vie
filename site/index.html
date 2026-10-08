@@ -8,7 +8,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;700;800&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="assets/styles.css?v=22">
+<link rel="stylesheet" href="assets/styles.css?v=23">
 </head>
 <body>
 
@@ -77,6 +77,10 @@
         <input type="search" id="country-search" class="option-search"
                placeholder="Filtrer les pays…" autocomplete="off">
         <select id="country" size="1"><option value="">Tous</option></select>
+        <button type="button" id="exclude-country" class="exclude-btn">
+          Exclure ce pays des résultats
+        </button>
+        <div id="excluded-countries" class="chips excluded" hidden></div>
       </div>
 
       <div class="field">
@@ -122,6 +126,12 @@
           <option value="0">Toutes</option>
         </select>
       </div>
+
+      <label class="show-hidden">
+        <input type="checkbox" id="show-hidden">
+        <span>Afficher les offres écartées</span>
+        <span id="hidden-count" class="mono"></span>
+      </label>
 
       <button type="button" id="reset" class="reset">Réinitialiser</button>
     </form>
@@ -203,6 +213,6 @@
   <p class="version mono" id="ui-version">Interface non chargée</p>
 </footer>
 
-<script src="assets/app.js?v=22"></script>
+<script src="assets/app.js?v=23"></script>
 </body>
 </html>
