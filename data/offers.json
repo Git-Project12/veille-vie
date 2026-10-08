@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-08T07:53:49+00:00",
+ "generated_at": "2026-10-08T13:27:28+00:00",
  "source": "Business France — mon-vie-via.businessfrance.fr",
- "total_scanned": 812,
- "total_announced": 812,
- "total_kept": 460,
+ "total_scanned": 820,
+ "total_announced": 820,
+ "total_kept": 461,
  "threshold": 25,
  "axes": {
   "rd": {
@@ -360,15 +360,15 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T12:04:49Z",
    "sector": "",
-   "specialization": "251",
+   "specialization": "[\"251\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-09-24T12:04:49Z",
     "missionStartDate": "2026-12-01T00:00:00",
     "missionEndDate": "2028-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-24T00:00:00",
-    "endBroadcastDate": "2026-10-22T00:00:00"
+    "startBroadcastDate": "2026-10-08T00:00:00",
+    "endBroadcastDate": "2026-11-05T00:00:00"
    },
    "summary": "🌍 À propos de l’opportunité\n\nDans le cadre du développement de nos activités dans le secteur aéronautique et spatial, nous recherchons un(e) Ingénieur Aérodynamique pour rejoindre une équipe d'experts intervenant sur des projets innovants à forte valeur ajoutée.\n\nVous participerez à la conception, l'analyse et l'optimisation de systèmes aéronautiques complexes, au sein d'un environnement technique exigeant et stimulant.\n\n🎯 Vos missions\n\nAu sein du département aérodynamique, vous serez amené(e) à :\n\nRéaliser des études de conception aérodynamique pour des prototypes et équipements aéronautiques.\nEffectuer des calculs CFD (Computational Fluid Dynamics) et des simulations numériques 3D.\nContribuer aux phases de pré-dimensionnement et de validation des concepts.\nAnalyser et traiter les non-conformités de production ainsi que les écarts de définition.\nParticiper aux activités de modification et d'amélioration continue des conceptions existantes.\nRéaliser des études aéromécaniques et des analyses de performances. […]",
    "url": "https://mon-vie-via.businessfrance.fr/offres/246355",
@@ -899,15 +899,15 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T13:27:15Z",
    "sector": "",
-   "specialization": "60",
+   "specialization": "[\"60\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-09-24T13:27:15Z",
     "missionStartDate": "2026-12-01T00:00:00",
     "missionEndDate": "2028-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-24T00:00:00",
-    "endBroadcastDate": "2026-10-22T00:00:00"
+    "startBroadcastDate": "2026-10-08T00:00:00",
+    "endBroadcastDate": "2026-11-05T00:00:00"
    },
    "summary": "🌍 À propos de l’opportunité\n\nDans le cadre de projets innovants dans le secteur aéronautique et spatial, nous recherchons un(e) Ingénieur Calcul Mécanique afin de renforcer nos équipes d’ingénierie et d’intervenir sur la conception, l’analyse et la validation de structures et composants mécaniques complexes.\n\nVous participerez à des projets à forte valeur technologique en collaboration avec les équipes Bureau d’Études, Essais et Industrialisation.\n\n🎯 Vos missions\n\nAu sein du département Calcul et Simulation, vous serez amené(e) à :\n\nDéfinir et mettre en place les modèles de calcul adaptés aux problématiques mécaniques étudiées.\nRéaliser des calculs par éléments finis et des simulations numériques sur des structures et composants métalliques ou composites.\nEffectuer des analyses statiques, dynamiques, vibratoires et de fatigue.\nDimensionner et valider les pièces mécaniques conformément aux exigences techniques.\nAnalyser, interpréter et synthétiser les résultats de calculs.\nParticiper à l’optimisation des conceptions afin de réduire les coûts et les délais de développement. […]",
    "url": "https://mon-vie-via.businessfrance.fr/offres/246362",
@@ -1885,7 +1885,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-14T12:42:19Z",
    "sector": "",
-   "specialization": "65, 206, 264",
+   "specialization": "[\"65\",\"206\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -2295,15 +2295,15 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T13:05:00Z",
    "sector": "",
-   "specialization": "60",
+   "specialization": "[\"60\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-09-24T13:05:00Z",
     "missionStartDate": "2026-12-01T00:00:00",
     "missionEndDate": "2028-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-24T00:00:00",
-    "endBroadcastDate": "2026-10-22T00:00:00"
+    "startBroadcastDate": "2026-10-08T00:00:00",
+    "endBroadcastDate": "2026-11-05T00:00:00"
    },
    "summary": "🌍 À propos de l’opportunité\n\nDans le cadre du développement de nos activités dans les secteurs aéronautique et spatial, nous recherchons un(e) Ingénieur Matériaux & Procédés pour accompagner des projets innovants liés à la conception, au développement et à l'optimisation de pièces et systèmes à haute performance.\n\nVous interviendrez au sein d'équipes pluridisciplinaires et serez un acteur clé dans le choix des matériaux, la définition des procédés de fabrication et l'amélioration continue des performances produits.\n\n🎯 Vos missions\n\nAu sein du département matériaux et procédés, vous serez amené(e) à :\n\nTraduire les besoins des bureaux d'études en exigences techniques liées aux propriétés matériaux.\nRéaliser des analyses comparatives afin d'identifier les matériaux et procédés les plus adaptés aux contraintes du projet.\nParticiper aux choix techniques en intégrant les aspects performance, coût, risques et opportunités.\nRédiger et maintenir la documentation technique relative aux matériaux métalliques et composites.\nDéfinir, organiser et piloter des campagnes d'essais matériaux. […]",
    "url": "https://mon-vie-via.businessfrance.fr/offres/246359",
@@ -3460,7 +3460,7 @@
    "expiry_date": "",
    "publish_date": "2026-03-03T08:40:40Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -4229,7 +4229,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-02T09:00:25Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -4673,7 +4673,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-19T14:31:40Z",
    "sector": "",
-   "specialization": "64, 76, 77, 149, 244, 264",
+   "specialization": "[\"64\",\"76\",\"77\",\"149\",\"244\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5485,7 +5485,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-22T08:22:56Z",
    "sector": "",
-   "specialization": "71",
+   "specialization": "[\"71\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5602,7 +5602,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-10T13:07:46Z",
    "sector": "",
-   "specialization": "208",
+   "specialization": "[\"208\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5923,7 +5923,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-29T14:04:00Z",
    "sector": "",
-   "specialization": "60, 64, 77, 133, 162, 197, 224, 225",
+   "specialization": "[\"60\",\"64\",\"77\",\"133\",\"162\",\"197\",\"224\",\"225\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6034,7 +6034,7 @@
    ]
   },
   {
-   "id": "246361",
+   "id": "246360",
    "title": "Ingénieur Méthodes / Industrialisation (H/F)",
    "company": "AKKODIS HIGH TECH SAS",
    "country": "BELGIQUE",
@@ -6046,20 +6046,20 @@
    "start_date": "2026-12-01T00:00:00",
    "end_date": "2028-12-01T00:00:00",
    "expiry_date": "",
-   "publish_date": "2026-09-24T13:20:17Z",
+   "publish_date": "2026-09-24T13:11:32Z",
    "sector": "",
-   "specialization": "60",
+   "specialization": "[\"60\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
-    "creationDate": "2026-09-24T13:20:17Z",
+    "creationDate": "2026-09-24T13:11:32Z",
     "missionStartDate": "2026-12-01T00:00:00",
     "missionEndDate": "2028-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-24T00:00:00",
-    "endBroadcastDate": "2026-10-22T00:00:00"
+    "startBroadcastDate": "2026-10-08T00:00:00",
+    "endBroadcastDate": "2026-11-05T00:00:00"
    },
    "summary": "🌍 À propos de l’opportunité\n\nDans le cadre du développement de nos activités dans les secteurs de l’aéronautique, de l’automobile, de la défense et du ferroviaire, nous recherchons un(e) Ingénieur Méthodes / Industrialisation pour accompagner nos projets industriels stratégiques.\n\nVous interviendrez sur l’industrialisation de produits et systèmes complexes, en assurant le lien entre les équipes conception, production et qualité afin de garantir la performance industrielle et la maîtrise des processus de fabrication.\n\n🎯 Vos missions\n\nAu sein du service Méthodes & Industrialisation, vous serez amené(e) à :\n\nDéfinir et piloter les processus d’industrialisation des produits.\nÉlaborer et mettre à jour les gammes de fabrication et les instructions de travail.\nRédiger la documentation technique et les procédures de production.\nParticiper à la conception et à l’optimisation des moyens de production.\nAnalyser les procédés de fabrication et proposer des améliorations techniques.\nParticiper aux activités d’amélioration continue et d’excellence opérationnelle. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246361",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/246360",
    "score": 64,
    "label": "Bonne adéquation",
    "first_seen": "2026-10-07T09:55:56+00:00",
@@ -6147,7 +6147,7 @@
    ]
   },
   {
-   "id": "246360",
+   "id": "246361",
    "title": "Ingénieur Méthodes / Industrialisation (H/F)",
    "company": "AKKODIS HIGH TECH SAS",
    "country": "BELGIQUE",
@@ -6159,20 +6159,20 @@
    "start_date": "2026-12-01T00:00:00",
    "end_date": "2028-12-01T00:00:00",
    "expiry_date": "",
-   "publish_date": "2026-09-24T13:11:32Z",
+   "publish_date": "2026-09-24T13:20:17Z",
    "sector": "",
    "specialization": "60",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
-    "creationDate": "2026-09-24T13:11:32Z",
+    "creationDate": "2026-09-24T13:20:17Z",
     "missionStartDate": "2026-12-01T00:00:00",
     "missionEndDate": "2028-12-01T00:00:00",
     "startBroadcastDate": "2026-09-24T00:00:00",
     "endBroadcastDate": "2026-10-22T00:00:00"
    },
    "summary": "🌍 À propos de l’opportunité\n\nDans le cadre du développement de nos activités dans les secteurs de l’aéronautique, de l’automobile, de la défense et du ferroviaire, nous recherchons un(e) Ingénieur Méthodes / Industrialisation pour accompagner nos projets industriels stratégiques.\n\nVous interviendrez sur l’industrialisation de produits et systèmes complexes, en assurant le lien entre les équipes conception, production et qualité afin de garantir la performance industrielle et la maîtrise des processus de fabrication.\n\n🎯 Vos missions\n\nAu sein du service Méthodes & Industrialisation, vous serez amené(e) à :\n\nDéfinir et piloter les processus d’industrialisation des produits.\nÉlaborer et mettre à jour les gammes de fabrication et les instructions de travail.\nRédiger la documentation technique et les procédures de production.\nParticiper à la conception et à l’optimisation des moyens de production.\nAnalyser les procédés de fabrication et proposer des améliorations techniques.\nParticiper aux activités d’amélioration continue et d’excellence opérationnelle. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246360",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/246361",
    "score": 64,
    "label": "Bonne adéquation",
    "first_seen": "2026-10-07T09:55:56+00:00",
@@ -8019,7 +8019,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-06T09:16:52Z",
    "sector": "",
-   "specialization": "63",
+   "specialization": "[\"63\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8462,7 +8462,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T16:09:45Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8910,7 +8910,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-31T08:19:32Z",
    "sector": "",
-   "specialization": "63, 114, 149, 150, 169, 262, 264",
+   "specialization": "[\"63\",\"114\",\"149\",\"150\",\"169\",\"262\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9030,7 +9030,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T08:00:24Z",
    "sector": "",
-   "specialization": "114",
+   "specialization": "[\"114\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10007,7 +10007,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-16T09:46:27Z",
    "sector": "",
-   "specialization": "29",
+   "specialization": "[\"29\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10306,15 +10306,15 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T14:37:58Z",
    "sector": "",
-   "specialization": "60",
+   "specialization": "[\"60\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-09-24T14:37:58Z",
     "missionStartDate": "2026-12-01T00:00:00",
     "missionEndDate": "2028-12-01T00:00:00",
-    "startBroadcastDate": "2026-10-07T00:00:00",
-    "endBroadcastDate": "2026-11-04T00:00:00"
+    "startBroadcastDate": "2026-10-08T00:00:00",
+    "endBroadcastDate": "2026-11-05T00:00:00"
    },
    "summary": "🌍 À propos de l’opportunité\n\nDans le cadre du développement de nos activités dans le secteur aéronautique et spatial, nous recrutons un(e) Ingénieur Essais afin de participer à la validation et à la qualification de composants et systèmes mécaniques complexes.\n\nVous intégrerez une équipe d’ingénierie spécialisée dans les essais et la validation de produits destinés à l’industrie aérospatiale, sur des projets innovants et à forte valeur ajoutée.\n\n🎯 Vos missions\n\nAu sein du département Essais et Validation, vous serez amené(e) à :\n\nCoordonner et piloter des campagnes d’essais statiques et dynamiques sur des composants et structures mécaniques.\nParticiper à la programmation et à la mise en œuvre des bancs d’essais.\nDéfinir les besoins en moyens d’essais, instrumentation et outillages nécessaires à la réalisation des campagnes.\nAssurer la gestion et le suivi de l’approvisionnement des équipements d’essais.\nRéaliser le post-traitement et l’analyse des résultats obtenus.\nIdentifier les écarts de performance et proposer des actions correctives lorsque nécessaire. […]",
    "url": "https://mon-vie-via.businessfrance.fr/offres/246368",
@@ -10427,7 +10427,7 @@
    "expiry_date": "",
    "publish_date": "2025-11-19T10:45:12Z",
    "sector": "",
-   "specialization": "71, 73, 224",
+   "specialization": "[\"71\",\"73\",\"224\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10765,7 +10765,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-05T12:06:18Z",
    "sector": "",
-   "specialization": "224",
+   "specialization": "[\"224\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10863,7 +10863,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-12T09:22:53Z",
    "sector": "",
-   "specialization": "66",
+   "specialization": "[\"66\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -11077,7 +11077,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-31T08:22:25Z",
    "sector": "",
-   "specialization": "60, 149, 150, 206, 209, 244, 262, 264",
+   "specialization": "[\"60\",\"149\",\"150\",\"206\",\"209\",\"244\",\"262\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -11480,15 +11480,15 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T12:11:54Z",
    "sector": "",
-   "specialization": "64",
+   "specialization": "[\"64\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-09-24T12:11:54Z",
     "missionStartDate": "2026-12-01T00:00:00",
     "missionEndDate": "2028-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-24T00:00:00",
-    "endBroadcastDate": "2026-10-22T00:00:00"
+    "startBroadcastDate": "2026-10-08T00:00:00",
+    "endBroadcastDate": "2026-11-05T00:00:00"
    },
    "summary": "🌍 À propos de l’opportunité\n\nDans le cadre du développement de nos activités dans l'industrie aéronautique et spatiale, nous recherchons un(e) Ingénieur Conception Mécanique pour intervenir sur des projets innovants liés à la conception et au développement de systèmes et équipements aéronautiques complexes.\n\nVous rejoindrez une équipe multidisciplinaire travaillant sur l'intégralité du cycle de développement produit, de la conception jusqu'à l'industrialisation.\n\n🎯 Vos missions\n\nAu sein du bureau d'études, vous serez en charge de :\n\nConcevoir et développer des modèles et assemblages mécaniques en 3D.\nRéaliser les études préliminaires et les activités de conception détaillée.\nEffectuer les modifications de définition et les évolutions techniques des produits.\nProduire les plans de fabrication et la documentation technique associée.\nMettre à jour les nomenclatures et les dossiers de définition.\nParticiper aux revues de conception et aux réunions techniques.\nAssurer le suivi des évolutions produit en collaboration avec les équipes qualité, calcul, industrialisation et production. […]",
    "url": "https://mon-vie-via.businessfrance.fr/offres/246356",
@@ -12092,6 +12092,113 @@
    ]
   },
   {
+   "id": "246835",
+   "title": "Industrial Digitalization & Sustainability Engineer (H/F)",
+   "company": "CEVA SANTE ANIMALE",
+   "country": "HONGRIE",
+   "city": "BUDAPEST",
+   "description": "Join Ceva Animal Health for a unique two-year journey, under the VIE Program,\ndesigned to develop future engineering and manufacturing leaders through two strategic assignments in\nEurope and North America.\n\nRotation 1 – Hungary | Phylaxia Campus (Budapest) Ceva's largest manufacturing site – 1,400 employees\nYou will contribute to the site's energy digitalization and optimization:\n Mapping of energy and water flows (Sankey diagram)\n Deployment of digital tools and monitoring dashboards\n Establishing consumption baselines\n Analyzing consumption data and identifying optimization opportunities\n Contributing to energy efficiency, HVAC, and water management projects\n Developing business cases for sustainability initiatives\nDefining energy & water KPIs for operational reviews\n\nRotation 2 – Canada | Guelph Site\nYou will support the transformation of manufacturing operations through automation and digital\ntechnologies:\n Identifying automation opportunities in industrial processes\n Analyzing production flows using a lean approach\n Mapping activities and proposing automation solutions\n Evaluating emerging technologies and automation solutions\n Conducting technical and economic feasibility studies\n Supporting pilot implementations and technology deployment\n Collaborating with production, engineering, and quality teams",
+   "mission": "",
+   "profile": " Master's degree in Engineering\n Strong analytical and problem-solving skills\n Passion for manufacturing, sustainability and automation\n International mindset and mobility\n Fluent English",
+   "duration": 24,
+   "start_date": "2026-12-01T00:00:00",
+   "end_date": "2028-12-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-08T07:48:01Z",
+   "sector": "",
+   "specialization": "[\"206\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-08T07:48:01Z",
+    "missionStartDate": "2026-12-01T00:00:00",
+    "missionEndDate": "2028-12-01T00:00:00",
+    "startBroadcastDate": "2026-10-08T00:00:00",
+    "endBroadcastDate": "2026-10-15T00:00:00"
+   },
+   "summary": "Join Ceva Animal Health for a unique two-year journey, under the VIE Program,\ndesigned to develop future engineering and manufacturing leaders through two strategic assignments in\nEurope and North America.\n\nRotation 1 – Hungary | Phylaxia Campus (Budapest) Ceva's largest manufacturing site – 1,400 employees\nYou will contribute to the site's energy digitalization and optimization:\n Mapping of energy and water flows (Sankey diagram)\n Deployment of digital tools and monitoring dashboards\n Establishing consumption baselines\n Analyzing consumption data and identifying optimization opportunities\n Contributing to energy efficiency, HVAC, and water management projects\n Developing business cases for sustainability initiatives\nDefining energy & water KPIs for operational reviews\n\nRotation 2 – Canada | Guelph Site\nYou will support the transformation of manufacturing operations through automation and digital\ntechnologies:\n Identifying automation opportunities in industrial processes\n Analyzing production flows using a lean approach\n Mapping activities and proposing automation solutions […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/246835",
+   "score": 56,
+   "label": "Bonne adéquation",
+   "first_seen": "2026-10-08T13:27:14+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 41,
+    "qual": 28,
+    "calc": 17
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "calc4",
+     "axis": "calc",
+     "source": "Outils et méthodes de calcul numérique (258-1), Initiation Excel et macros (266-1), Asservissement (840-1)",
+     "weight": 5,
+     "terms": [
+      "automation"
+     ]
+    },
+    {
+     "id": "prod4",
+     "axis": "prod",
+     "source": "Outils de production (269-1), Tenue mécanique des outillages (284-3, 292-1)",
+     "weight": 10,
+     "terms": [
+      "manufacturing"
+     ]
+    },
+    {
+     "id": "prod5",
+     "axis": "prod",
+     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
+     "weight": 7,
+     "terms": [
+      "lean"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Conception mécanique (264-1), Outils et moyens de fabrication (259-1)",
+     "weight": 7,
+     "terms": [
+      "engineering"
+     ]
+    },
+    {
+     "id": "qual2",
+     "axis": "qual",
+     "source": "Qualité et normes (774-1)",
+     "weight": 10,
+     "terms": [
+      "quality"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "engineer"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "energy",
+      "industrial"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
    "id": "243616",
    "title": "Digital Transformation & Industrial AI Engineer (H/F)",
    "company": "CORREGE",
@@ -12214,7 +12321,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T07:31:41Z",
    "sector": "",
-   "specialization": "206",
+   "specialization": "[\"206\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12315,7 +12422,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-07T08:56:58Z",
    "sector": "",
-   "specialization": "60",
+   "specialization": "[\"60\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12912,7 +13019,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-14T07:36:46Z",
    "sector": "",
-   "specialization": "365",
+   "specialization": "[\"365\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -14242,6 +14349,105 @@
    ]
   },
   {
+   "id": "246841",
+   "title": "Responsable Pôle Chiffrage (H/F)",
+   "company": "HEWA",
+   "country": "MAURICE",
+   "city": "SAINT-PIERRE",
+   "description": "Basée à lʼîle Maurice, AEKO développe ses activités autour du chiffrage, de lʼénergie,\r\nde la formation et de la gestion de maintenance.\r\nNotre Pôle Chiffrage sʼappuie sur plus de dix ans de pratique pour accompagner les\r\nentreprises dans leurs réponses aux appels dʼoffres, notamment à La Réunion et en\r\nFrance.\r\nNotre objectif : transformer un dossier de consultation en une offre technique et\r\nfinancière compétitive, capable de remporter le marché.\r\nLe Pôle Chiffrage constitue un levier de développement pour AEKO. Son ambition est\r\nde sécuriser les besoins du groupe tout en développant fortement une activité de\r\nchiffrage export auprès de clients extérieurs.\r\nNous recherchons un Responsable Pôle Chiffrage pour piloter cette activité,\r\ndévelopper notre clientèle extérieure au groupe et conduire sa transformation par\r\nlʼintelligence artificielle.\r\n\r\nmission\r\nRattaché au General Manager, vous prenez la responsabilité commerciale et\r\nopérationnelle du Pôle Chiffrage.\r\nÀ partir du budget et des objectifs annuels qui vous sont transmis, vous définissez la\r\nstratégie du pôle, construisez votre plan dʼaction et assurez sa mise en oeuvre.\r\nVous êtes garant de la satisfaction client, de la qualité des dossiers, du respect des\r\ndélais et de lʼatteinte des objectifs.\r\nVotre périmètre couvre trois activités :\r\nChiffrage travaux pour CLIMEO, société du groupe.\r\nChiffrage maintenance et petits travaux pour HEWA, société du groupe.\r\nChiffrage export, auprès de clients extérieurs au groupe, avec un objectif de\r\ndéveloppement significatif.\r\nLe développement de l'activité export constitue un axe stratégique prioritaire de la\r\nmission afin de réduire la dépendance à quelques clients historiques et d'accélérer la\r\ncroissance du pôle.\r\nLe coeur technique de lʼactivité porte sur les lots CVC, désenfumage, plomberie, ECS et\r\nélectricité ainsi que corps dʼétat secondaire à terme.\r\nVos responsabilités\r\nDéfinir et déployer la stratégie commerciale\r\n\r\nTraduire le budget annuel en objectifs et actions commerciales.\r\nIdentifier les marchés prioritaires, prospecter et développer le portefeuille clients.\r\nStructurer les offres de services, préparer les propositions commerciales et\r\nconduire les échanges avec les prospects.\r\nDévelopper des relations récurrentes avec les clients extérieurs au groupe.\r\nSuivre les opportunités, les résultats commerciaux et la rentabilité des prestations.\r\n\r\nloter et réaliser les études de prix\r\nAnalyser les dossiers de consultation : RC, CCAP, CCTP, plans et pièces\r\nfinancières.\r\nOrganiser et réaliser les métrés, quantitatifs et consultations fournisseurs ou soustraitants.\r\nConstruire les chiffrages en intégrant les fournitures, la main-dʼoeuvre et les\r\ncontraintes dʼexécution.\r\nIdentifier les risques, incohérences et besoins de clarification.\r\nProposer des variantes et optimisations technico-économiques.\r\nPréparer les pièces financières, mémoires méthodologiques et dossiers\r\ntechniques.\r\nPour la maintenance, établir les chiffrages, BPU, gammes préventives et\r\npropositions de renouvellement adaptés aux marchés.\r\nGarantir la qualité et la satisfaction client\r\nCadrer les missions et les livrables avec les clients.\r\nPlanifier la charge et arbitrer les priorités entre les trois activités.\r\nContrôler les dossiers avant remise et garantir la traçabilité des hypothèses.\r\nAnticiper les difficultés et assurer une communication régulière avec les clients.\r\nSuivre les offres après remise et capitaliser les retours sur les marchés gagnés ou\r\nperdus.\r\nStructurer et faire progresser le pôle\r\nConsolider les processus, modèles de documents et bibliothèques de prix.\r\nFiabiliser les données fournisseurs et les bases tarifaires.\r\nDévelopper des indicateurs de pilotage permettant d'analyser la charge, les délais,\r\nla qualité, la satisfaction client, le développement commercial et la performance\r\nglobale du pôle.\r\nMobiliser les expertises internes et contribuer à la montée en compétence de\r\nlʼéquipe.\r\nDocumenter les méthodes et organiser la continuité de lʼactivité.\r\nUn pôle au coeur de notre transformation par lʼIA\r\nNous souhaitons faire du Pôle Chiffrage lʼactivité la plus avancée de notre structure\r\ndans lʼintégration de lʼintelligence artificielle.\r\nLes usages de Copilot, ChatGPT ou Claude et les routines de travail déjà engagées\r\nseront complétés par lʼintégration dʼun collaborateur IA dédié au chiffrage, avec\r\nlʼaccompagnement dʼun partenaire spécialisé.\r\nVous piloterez son intégration dans les méthodes de production : analyse des pièces,\r\nextraction des exigences, structuration des données, préparation des dossiers et\r\nassistance au chiffrage.\r\nVous définirez les tâches confiées à lʼIA, les contrôles nécessaires et les indicateurs\r\npermettant de mesurer les gains obtenus. Vous conserverez la responsabilité de la\r\nvalidation finale des livrables.\r\nCette transformation doit dégager du temps pour lʼanalyse technique, la relation client\r\net le développement commercial.",
+   "mission": "",
+   "profile": "De formation ingénieur ou Bac +5 en génie climatique, énergétique, bâtiment ou\ndomaine équivalent, vous disposez dʼune première expérience en études de prix,\nchiffrage ou conduite de travaux, acquise en entreprise, en bureau dʼétudes ou en\nalternance.\nVous possédez :\nDes bases techniques solides, ainsi quʼune compréhension des conditions\ndʼexécution sur chantier.\nUne capacité à analyser un DCE et à construire une offre technique et financière.\nUne bonne maîtrise dʼExcel ; la connaissance dʼOPTIMA ou Quick-Devis, logiciel de\nchiffrage, constitue un atout.\nUn intérêt concret pour les outils de métrés, le BIM, Revit, lʼautomatisation et\nlʼintelligence artificielle.\nUne aisance relationnelle et le goût du développement commercial.\nDe la rigueur, de lʼautonomie et la capacité à organiser votre activité et à tenir vos\nengagements.\n\nPourquoi nous rejoindre ?\nDepuis lʼîle Maurice, prenez les commandes dʼun pôle et participez à la\ntransformation dʼun métier par lʼIA.\nPendant ces 18 mois, vous pourrez développer votre portefeuille clients, faire évoluer\nles méthodes de travail et mesurer directement les résultats de vos initiatives.\nVous travaillerez au contact de la direction et des équipes techniques, avec une réelle\nplace pour vos idées et votre capacité à entreprendre.\nCette mission associe expertise technique, développement commercial et innovation,\ndans un environnement multiculturel ouvert géographiquement.\nUne occasion de franchir un cap professionnel tout en vivant une expérience\ninternationale à Maurice.\nVous bénéficierez d'un accès direct à la direction, de l'appui des experts du groupe et\nd'une réelle capacité d'initiative pour faire évoluer les méthodes, les outils et\nl'organisation du pôle\nVous avez envie de prendre des responsabilités et de construire avec nous la\nprochaine étape du Pôle Chiffrage dʼAEKO ? Rejoignez-nous.",
+   "duration": 18,
+   "start_date": "2027-02-01T00:00:00",
+   "end_date": "2028-08-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-08T10:01:20Z",
+   "sector": "",
+   "specialization": "[\"161\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-08T10:01:20Z",
+    "missionStartDate": "2027-02-01T00:00:00",
+    "missionEndDate": "2028-08-01T00:00:00",
+    "startBroadcastDate": "2026-10-08T00:00:00",
+    "endBroadcastDate": "2026-11-07T00:00:00"
+   },
+   "summary": "Basée à lʼîle Maurice, AEKO développe ses activités autour du chiffrage, de lʼénergie,\r\nde la formation et de la gestion de maintenance.\r\nNotre Pôle Chiffrage sʼappuie sur plus de dix ans de pratique pour accompagner les\r\nentreprises dans leurs réponses aux appels dʼoffres, notamment à La Réunion et en\r\nFrance.\r\nNotre objectif : transformer un dossier de consultation en une offre technique et\r\nfinancière compétitive, capable de remporter le marché.\r\nLe Pôle Chiffrage constitue un levier de développement pour AEKO. Son ambition est\r\nde sécuriser les besoins du groupe tout en développant fortement une activité de\r\nchiffrage export auprès de clients extérieurs.\r\nNous recherchons un Responsable Pôle Chiffrage pour piloter cette activité,\r\ndévelopper notre clientèle extérieure au groupe et conduire sa transformation par\r\nlʼintelligence artificielle.\r\n\r\nmission\r\nRattaché au General Manager, vous prenez la responsabilité commerciale et\r\nopérationnelle du Pôle Chiffrage.\r\nÀ partir du budget et des objectifs annuels qui vous sont transmis, vous définissez la […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/246841",
+   "score": 49,
+   "label": "À examiner",
+   "first_seen": "2026-10-08T13:27:14+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 17,
+    "qual": 47,
+    "calc": 43
+   },
+   "dominant_axis": "qual",
+   "matched_families": [
+    {
+     "id": "calc2",
+     "axis": "calc",
+     "source": "CAO (278-1), Conception mécanique (264-1), Critères de choix des matériaux (265-1)",
+     "weight": 8,
+     "terms": [
+      "bureau d'etudes"
+     ]
+    },
+    {
+     "id": "calc4",
+     "axis": "calc",
+     "source": "Outils et méthodes de calcul numérique (258-1), Initiation Excel et macros (266-1), Asservissement (840-1)",
+     "weight": 5,
+     "terms": [
+      "automatisation"
+     ]
+    },
+    {
+     "id": "prod4",
+     "axis": "prod",
+     "source": "Outils de production (269-1), Tenue mécanique des outillages (284-3, 292-1)",
+     "weight": 10,
+     "terms": [
+      "methodes"
+     ]
+    },
+    {
+     "id": "qual2",
+     "axis": "qual",
+     "source": "Qualité et normes (774-1)",
+     "weight": 10,
+     "terms": [
+      "qualite"
+     ]
+    },
+    {
+     "id": "qual4",
+     "axis": "qual",
+     "source": "Introduction aux techniques expérimentales (267-1)",
+     "weight": 7,
+     "terms": [
+      "validation"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "energie"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
    "id": "246039",
    "title": "MECHANICAL DESIGN ENGINEER (H/F)",
    "company": "SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE",
@@ -14974,7 +15180,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-21T12:28:26Z",
    "sector": "",
-   "specialization": "73",
+   "specialization": "[\"73\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -16865,7 +17071,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T14:37:51Z",
    "sector": "",
-   "specialization": "51",
+   "specialization": "[\"51\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -17336,7 +17542,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T13:43:34Z",
    "sector": "",
-   "specialization": "64",
+   "specialization": "[\"64\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -18051,7 +18257,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-25T15:02:11Z",
    "sector": "",
-   "specialization": "",
+   "specialization": "[]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -18413,7 +18619,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-29T16:32:01Z",
    "sector": "",
-   "specialization": "63, 113, 256",
+   "specialization": "[\"63\",\"113\",\"256\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -18518,7 +18724,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-12T12:25:28Z",
    "sector": "",
-   "specialization": "66",
+   "specialization": "[\"66\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19234,7 +19440,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-07T08:04:53Z",
    "sector": "",
-   "specialization": "160",
+   "specialization": "[\"160\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19742,7 +19948,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-06T12:34:53Z",
    "sector": "",
-   "specialization": "86, 150, 244",
+   "specialization": "[\"86\",\"150\",\"244\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20476,7 +20682,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-21T14:46:23Z",
    "sector": "",
-   "specialization": "2, 60, 63, 64, 65, 66, 68, 69, 70, 71, 72, 73, 77, 80, 109, 113, 114, 117, 123, 125, 133, 137, 138, 139, 142, 143, 144, 145, 146, 147, 149, 150, 153, 155, 158, 159, 160, 161, 168, 169, 175, 197, 206, 207, 208, 209, 213, 224, 225, 226, 228, 244, 245, 246, 247, 248, 251, 256, 264, 311, 351, 354, 355, 356, 357, 358, 361, 365, 366, 367, 368, 369, 370, 371",
+   "specialization": "[\"2\",\"60\",\"63\",\"64\",\"65\",\"66\",\"68\",\"69\",\"70\",\"71\",\"72\",\"73\",\"77\",\"80\",\"109\",\"113\",\"114\",\"117\",\"123\",\"125\",\"133\",\"137\",\"138\",\"139\",\"142\",\"143\",\"144\",\"145\",\"146\",\"147\",\"149\",\"150\",\"153\",\"155\",\"158\",\"159\",\"160\",\"161\",\"168\",\"169\",\"175\",\"197\",\"206\",\"207\",\"208\",\"209\",\"213\",\"224\",\"225\",\"226\",\"228\",\"244\",\"245\",\"246\",\"247\",\"248\",\"251\",\"256\",\"264\",\"311\",\"351\",\"354\",\"355\",\"356\",\"357\",\"358\",\"361\",\"365\",\"366\",\"367\",\"368\",\"369\",\"370\",\"371\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21370,7 +21576,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-23T07:15:58Z",
    "sector": "",
-   "specialization": "66",
+   "specialization": "[\"66\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21832,6 +22038,82 @@
    ]
   },
   {
+   "id": "246814",
+   "title": "Boulanger – Tourier / Production de boulangerie et viennoiserie française   (H/F)",
+   "company": "EFE INTERNATIONAL",
+   "country": "ETATS-UNIS",
+   "city": "CARY         -NC-",
+   "description": "A propos de l'entreprise : \n\nLa Pause Parisienne est une boulangerie-pâtisserie française implantée à Cary, en Caroline du Nord. L’entreprise propose une offre artisanale inspirée du savoir-faire français : pains, baguettes, viennoiseries, pâtisseries et produits de restauration boulangère. \n\nDans le cadre de son développement aux États-Unis, La Pause Parisienne souhaite renforcer son équipe de production afin d’accompagner sa croissance et de maintenir un niveau élevé de qualité et d’authenticité des produits français. \n\nA propos du rôle et des missions :\n\nLe V.I.E. intégrera l’équipe de production de La Pause Parisienne et participera à la fabrication quotidienne des produits de boulangerie et de viennoiserie française. \n\nSes principales missions seront : \n\nfabrication des pains, baguettes et produits de boulangerie ; \n\nréalisation des viennoiseries : croissants, pains au chocolat, pains aux raisins, pains suisses et autres spécialités françaises ; \n\npréparation et tourage des pâtes levées feuilletées ; \n\ngestion des étapes de fermentation, façonnage, pousse et cuisson ; \n\norganisation et planification de la production quotidienne ; \n\ncontrôle de la régularité et de la qualité des produits ; \n\nparticipation à l'optimisation des méthodes et processus de production ; \n\nadaptation du savoir-faire boulanger français aux matières premières, équipements et contraintes de production du marché américain ; \n\nparticipation au développement de nouvelles recettes et de nouveaux produits adaptés à la clientèle américaine tout en préservant l’identité française de la marque ; \n\nrespect des procédures d’hygiène, de sécurité alimentaire et d’organisation de la production.",
+   "mission": "",
+   "profile": "Boulanger/tourier autonome, rigoureux et organisé, disposant d’une bonne maîtrise des techniques françaises de boulangerie et de viennoiserie. Le candidat doit être capable de travailler dans une petite équipe et de participer activement au développement d’une jeune entreprise française aux États-Unis.  \n\nExpérience souhaitée 3 à 5 ans d’expérience professionnelle en boulangerie et/ou viennoiserie artisanale  \n\nSpécialisation : Boulangerie, viennoiserie et tourage – maîtrise de la pâte levée feuilletée  \n\nLangues parlées : Français courant – anglais professionnel souhaité  \n\nNiveau d'étude : Bac \n\nDiplôme : Bac pro",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-08T02:50:12Z",
+   "sector": "",
+   "specialization": "[\"166\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-08T02:50:12Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-08T00:00:00",
+    "endBroadcastDate": "2026-11-07T00:00:00"
+   },
+   "summary": "A propos de l'entreprise : \n\nLa Pause Parisienne est une boulangerie-pâtisserie française implantée à Cary, en Caroline du Nord. L’entreprise propose une offre artisanale inspirée du savoir-faire français : pains, baguettes, viennoiseries, pâtisseries et produits de restauration boulangère. \n\nDans le cadre de son développement aux États-Unis, La Pause Parisienne souhaite renforcer son équipe de production afin d’accompagner sa croissance et de maintenir un niveau élevé de qualité et d’authenticité des produits français. \n\nA propos du rôle et des missions :\n\nLe V.I.E. intégrera l’équipe de production de La Pause Parisienne et participera à la fabrication quotidienne des produits de boulangerie et de viennoiserie française. \n\nSes principales missions seront : \n\nfabrication des pains, baguettes et produits de boulangerie ; \n\nréalisation des viennoiseries : croissants, pains au chocolat, pains aux raisins, pains suisses et autres spécialités françaises ; \n\npréparation et tourage des pâtes levées feuilletées ; \n\ngestion des étapes de fermentation, façonnage, pousse et cuisson ; […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/246814",
+   "score": 38,
+   "label": "À examiner",
+   "first_seen": "2026-10-08T13:27:14+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 29,
+    "qual": 28,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod4",
+     "axis": "prod",
+     "source": "Outils de production (269-1), Tenue mécanique des outillages (284-3, 292-1)",
+     "weight": 10,
+     "terms": [
+      "methodes"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Conception mécanique (264-1), Outils et moyens de fabrication (259-1)",
+     "weight": 7,
+     "terms": [
+      "fabrication"
+     ]
+    },
+    {
+     "id": "qual2",
+     "axis": "qual",
+     "source": "Qualité et normes (774-1)",
+     "weight": 10,
+     "terms": [
+      "qualite"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "production"
+     ],
+     "points": 14
+    }
+   ]
+  },
+  {
    "id": "243713",
    "title": "Analyste Qualité Systèmes (QMS/EQMS/LMS) (H/F)",
    "company": "ESSILOR INTERNATIONAL",
@@ -21925,7 +22207,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-18T08:08:01Z",
    "sector": "",
-   "specialization": "62",
+   "specialization": "[\"62\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22841,7 +23123,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-07T08:11:27Z",
    "sector": "",
-   "specialization": "63",
+   "specialization": "[\"63\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -23412,7 +23694,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-12T13:45:29Z",
    "sector": "",
-   "specialization": "29",
+   "specialization": "[\"29\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -24558,6 +24840,129 @@
    ]
   },
   {
+   "id": "246837",
+   "title": "Ingénieur Systeme - Ferroviaire (H/F)",
+   "company": "AKKODIS HIGH TECH SAS",
+   "country": "BELGIQUE",
+   "city": "CHARLEROI",
+   "description": "🌟 Who we are\nAt Akkodis, we are one of the global leaders in engineering in various sectors such as IT, aeronautics, energy and many others. With 50,000 experts in 30 countries, we develop innovative and sustainable technological solutions for our customers.\n\n🎯 Assignments\n\nWe are looking for a System Engineer to support long-term projects for one of our clients in the railway sector, working on safety-critical signaling systems.\n\nYour main responsibilities include:\nAnalyzing customer requirements and documentation (functional specifications, technical requirements)\nIdentifying gaps between customer needs and existing generic signaling solutions\nDefining system and sub-system specifications, architectures, and interface requirements\nContributing to system adaptation in collaboration with development and software teams\nEnsuring requirement traceability throughout the project lifecycle\nConfiguring onboard signaling equipment to meet project-specific needs\nPreparing and executing integration and design-level tests in laboratory environments\nSupporting system testing activities and technical investigations when required\nParticipating in technical reviews (design, documentation, validation)\nWorking closely with RAM, Safety, Cybersecurity, Software, and V&V teams\n\n🌍 Working environment at Akkodis :\nA direct link with a Business Manager for personalised support.\nTechnical training to develop your skills.\nCareer prospects and a stimulating environment.\nA corporate culture focused on safety, quality and innovation.\n\n🔎 Our recruitment process:\nStage 1: Initial telephone interview (15 min) with @Kenny, Talent Acquisition.\nStep 2: Interview (60 min) with a Business Manager.\nStep 3: Interview (60 min) with the client.",
+   "mission": "",
+   "profile": "👤 The profile\n\nBackground :\nYou hold a Master’s degree in Engineering (Electronics, Automation, Systems, Computer Science or similar) and are interested in complex, regulated environments.\n\nMust Have :\nStrong analytical skills and ability to understand complex technical systems\nExperience or strong interest in railway, aerospace, defense, or safety-critical systems\nAbility to translate customer needs into structured system requirements\nFluency in English and French\nRigorous, reliable, proactive mindset with strong communication skills\n\nNice to Have :\nKnowledge of ERTMS / ETCS principles\nExperience with system modeling methodologies (UML, SysML)\nFamiliarity with requirements and traceability tools (DOORS, ClearQuest or similar)\nExposure to RAMS, Safety, or Cybersecurity engineering",
+   "duration": 24,
+   "start_date": "2026-12-01T00:00:00",
+   "end_date": "2028-12-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-08T09:01:30Z",
+   "sector": "",
+   "specialization": "[\"251\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-08T09:01:30Z",
+    "missionStartDate": "2026-12-01T00:00:00",
+    "missionEndDate": "2028-12-01T00:00:00",
+    "startBroadcastDate": "2026-10-08T00:00:00",
+    "endBroadcastDate": "2026-11-07T00:00:00"
+   },
+   "summary": "🌟 Who we are\nAt Akkodis, we are one of the global leaders in engineering in various sectors such as IT, aeronautics, energy and many others. With 50,000 experts in 30 countries, we develop innovative and sustainable technological solutions for our customers.\n\n🎯 Assignments\n\nWe are looking for a System Engineer to support long-term projects for one of our clients in the railway sector, working on safety-critical signaling systems.\n\nYour main responsibilities include:\nAnalyzing customer requirements and documentation (functional specifications, technical requirements)\nIdentifying gaps between customer needs and existing generic signaling solutions\nDefining system and sub-system specifications, architectures, and interface requirements\nContributing to system adaptation in collaboration with development and software teams\nEnsuring requirement traceability throughout the project lifecycle\nConfiguring onboard signaling equipment to meet project-specific needs\nPreparing and executing integration and design-level tests in laboratory environments […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/246837",
+   "score": 30,
+   "label": "Périphérique",
+   "first_seen": "2026-10-08T13:27:14+00:00",
+   "axis_scores": {
+    "rd": 13,
+    "prod": 12,
+    "qual": 47,
+    "calc": 47
+   },
+   "dominant_axis": "qual",
+   "matched_families": [
+    {
+     "id": "calc1",
+     "axis": "calc",
+     "source": "Introduction à la méthode des éléments finis (256-1), TP Simulation numérique (272-1, 285-x)",
+     "weight": 9,
+     "terms": [
+      "modeling"
+     ]
+    },
+    {
+     "id": "calc4",
+     "axis": "calc",
+     "source": "Outils et méthodes de calcul numérique (258-1), Initiation Excel et macros (266-1), Asservissement (840-1)",
+     "weight": 5,
+     "terms": [
+      "automation"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Conception mécanique (264-1), Outils et moyens de fabrication (259-1)",
+     "weight": 7,
+     "terms": [
+      "engineering"
+     ]
+    },
+    {
+     "id": "qual2",
+     "axis": "qual",
+     "source": "Qualité et normes (774-1)",
+     "weight": 10,
+     "terms": [
+      "quality"
+     ]
+    },
+    {
+     "id": "qual4",
+     "axis": "qual",
+     "source": "Introduction aux techniques expérimentales (267-1)",
+     "weight": 7,
+     "terms": [
+      "testing",
+      "validation"
+     ]
+    },
+    {
+     "id": "rd6",
+     "axis": "rd",
+     "source": "Comportement mécanique des matériaux non conventionnels (298-2), Projet de recherche (261-1)",
+     "weight": 8,
+     "terms": [
+      "laboratory"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "ingenieur"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "aerospace",
+      "defense",
+      "energy"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    },
+    {
+     "label": "Aucun terme industriel : score plafonné",
+     "terms": [],
+     "points": -35
+    }
+   ]
+  },
+  {
    "id": "246370",
    "title": "Project Manager Industrie (Aérospatial / Automobile / Défense / Ferroviaire) (H/F)",
    "company": "AKKODIS HIGH TECH SAS",
@@ -24572,15 +24977,15 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T15:09:33Z",
    "sector": "",
-   "specialization": "60",
+   "specialization": "[\"60\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-09-24T15:09:33Z",
     "missionStartDate": "2026-12-01T00:00:00",
     "missionEndDate": "2028-12-01T00:00:00",
-    "startBroadcastDate": "2026-10-07T00:00:00",
-    "endBroadcastDate": "2026-11-04T00:00:00"
+    "startBroadcastDate": "2026-10-08T00:00:00",
+    "endBroadcastDate": "2026-11-05T00:00:00"
    },
    "summary": "🌍 À propos de l’opportunité\n\nDans le cadre du développement de nos activités dans les secteurs aérospatial, automobile, défense et ferroviaire, nous recherchons un(e) Project Manager pour piloter des projets industriels complexes et assurer leur bonne réalisation.\n\nVous interviendrez à l’interface entre les équipes techniques, les clients et les différentes parties prenantes, avec pour objectif de garantir le respect des exigences en matière de qualité, coûts et délais.\n\n🎯 Vos missions\n\nEn tant que Project Manager, vos principales responsabilités seront :\n\nDéfinir, mettre à jour et suivre les plannings projets.\nOrganiser et animer les réunions et comités de pilotage.\nAssurer le suivi des plans d’actions et de l’avancement des projets.\nCoordonner les différentes équipes et parties prenantes impliquées.\nParticiper aux revues qualité.\nMettre en place et suivre les procédures liées aux projets.\nParticiper au déploiement des exigences techniques et de sécurité.\nIdentifier et suivre les risques projets.\nGarantir le respect des objectifs en termes de coûts, qualité et délais. […]",
    "url": "https://mon-vie-via.businessfrance.fr/offres/246370",
@@ -24726,107 +25131,6 @@
      "label": "Aucun terme industriel : score plafonné",
      "terms": [],
      "points": -11
-    }
-   ]
-  },
-  {
-   "id": "246769",
-   "title": "Buyer Installation Subcontractor (H/F)",
-   "company": "ALSTOM TRANSPORT SA",
-   "country": "THAILANDE",
-   "city": "BANGKOK",
-   "description": "Purpose of the Job\nManage the end-to-end procurement of D&IS subcontracted works and services, from demand clarification and market sourcing through RFQ, negotiation, contract award, execution, claims, and close-out.\nThe role ensures that subcontractors with the right capability, capacity, competitiveness, and local presence are selected and managed to achieve project Quality, Cost, Delivery, Performance, and EHS objectives.\nScope\nThe role may cover installation, construction, testing support, site services, specialist manpower, local engineering, repair or modification, and other project-specific subcontracted work packages across East Asia.\nThe buyer may support multiple projects, countries, and D&IS technical scopes, with priorities assigned by the Hub Procurement Manager.\n\nKey Responsibilities\nSourcing and Supplier Selection\nEngage early with project stakeholders to understand requirements, budget, schedule, interfaces, and risks.\nChallenge and clarify the Scope of Work, BOQ, Share of Responsibility, specifications, schedule, manpower assumptions, and acceptance criteria before RFQ launch.\nIdentify, qualify, and develop competitive local and regional subcontractors.\nPrepare and issue complete RFQ packages.\nCoordinate technical, EHS, quality, commercial, contractual, and financial evaluations.\nLead commercial analysis, negotiations, supplier selection, and Business Award approval.\nMaintain a transparent and auditable sourcing process.\n \nCommercial and Contract Management\nNegotiate the total commercial package, including price, productivity, payment terms, mobilisation, warranty, bonds, insurance, liability, variation mechanisms, and performance remedies.\nPrepare, negotiate, and finalise contracts, purchase contracts, amendments, and other contractual documents with Legal support.\nEnsure all commitments comply with applicable Delegation of Authority, Power of Attorney, and procurement-system requirements.\nSecure clear contractual protection for scope, quantity, access, schedule, delay, performance, EHS, quality, and change risks.\n \nContract Execution and Supplier Performance\nOwn procurement-side contract execution from award through final close-out.\nComplete a structured handover of contractual obligations, assumptions, risks, and open points to the project team.\nMonitor subcontractor mobilisation, progress, productivity, milestones, payment conditions, EHS, quality, NCRs, and commercial exposure.\nLead recovery actions for underperforming subcontractors and prepare alternative sourcing or contractual remedies when required.\nConduct supplier performance reviews based on project criticality, supplier maturity, and risk.\nEscalate issues early with facts, quantified impact, options, and a recommended solution.\n \nVariations, Claims, and Reporting\nMaintain disciplined variation and claims management for assigned packages.\nChallenge unsupported supplier requests and negotiate approved changes.\nLead procurement-owned supplier claims and support key claims with Project Procurement, Legal, and Contract Management.\nMaintain accurate records of savings, risks, claims, supplier performance, and procurement milestones.\nContribute to subcontractor commodity strategy, market intelligence, supplier-panel development, and lessons learned.",
-   "mission": "",
-   "profile": "Qualifications and Experience\nBachelor’s degree in Engineering, Procurement, Supply Chain, Commercial Management, Construction Management, Business, or a related discipline.\nRelevant experience in project procurement, subcontracting, construction purchasing, or contract administration.\nDemonstrated capability in RFQ management, commercial evaluation, negotiation, contracting, and supplier performance management.\nAbility to understand and challenge BOQs, scopes, schedules, responsibility matrices, and technical-commercial interfaces.\nKnowledge of Source-to-Contract, Procure-to-Pay, contract variations, claims, and approval governance.\nProficiency in Excel and procurement or ERP systems. SAP and Ariba experience is preferred.\nExperience in railway, infrastructure, signalling, electrical, telecom, or installation projects is an advantage.\nProfessional working proficiency in English. Additional East Asian language capability is an advantage.\n \nKey Competencies\nCommercial and contractual judgement\nAnalytical and negotiation capability\nConstructive challenge and problem solving\nAbility to manage multiple priorities across countries and projects\nCross-cultural communication and collaboration\n\nAlstom is the leading company in the mobility sector, solving the most interesting challenges for tomorrow’s mobility. That’s why we value inquisitive and innovative people who are passionate about working together to reinvent mobility, making it smarter and more sustainable. Day after day, we are building an agile, inclusive and responsible culture, where a diverse group of people are offered opportunities to learn, grow and advance in their careers, with options across functions and geographic locations. Are you ready to join a truly international community of great people on a challenging journey with a tangible impact and purpose?",
-   "duration": 12,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-07T08:26:28Z",
-   "sector": "",
-   "specialization": "2",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-07T08:26:28Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-07T00:00:00",
-    "endBroadcastDate": "2026-10-17T00:00:00"
-   },
-   "summary": "Purpose of the Job\nManage the end-to-end procurement of D&IS subcontracted works and services, from demand clarification and market sourcing through RFQ, negotiation, contract award, execution, claims, and close-out.\nThe role ensures that subcontractors with the right capability, capacity, competitiveness, and local presence are selected and managed to achieve project Quality, Cost, Delivery, Performance, and EHS objectives.\nScope\nThe role may cover installation, construction, testing support, site services, specialist manpower, local engineering, repair or modification, and other project-specific subcontracted work packages across East Asia.\nThe buyer may support multiple projects, countries, and D&IS technical scopes, with priorities assigned by the Hub Procurement Manager.\n\nKey Responsibilities\nSourcing and Supplier Selection\nEngage early with project stakeholders to understand requirements, budget, schedule, interfaces, and risks. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246769",
-   "score": 30,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T17:25:48+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 24,
-    "qual": 69,
-    "calc": 0
-   },
-   "dominant_axis": "qual",
-   "matched_families": [
-    {
-     "id": "prod5",
-     "axis": "prod",
-     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
-     "weight": 7,
-     "terms": [
-      "productivity"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Conception mécanique (264-1), Outils et moyens de fabrication (259-1)",
-     "weight": 7,
-     "terms": [
-      "engineering"
-     ]
-    },
-    {
-     "id": "qual2",
-     "axis": "qual",
-     "source": "Qualité et normes (774-1)",
-     "weight": 10,
-     "terms": [
-      "quality"
-     ]
-    },
-    {
-     "id": "qual3",
-     "axis": "qual",
-     "source": "Plans d'expériences (283-1), Outils logiciels mathématiques et statistiques (289-1)",
-     "weight": 8,
-     "terms": [
-      "capability"
-     ]
-    },
-    {
-     "id": "qual4",
-     "axis": "qual",
-     "source": "Introduction aux techniques expérimentales (267-1)",
-     "weight": 7,
-     "terms": [
-      "testing"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "railway"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Intitulé hors formation",
-     "terms": [
-      "buyer"
-     ],
-     "points": -22
     }
    ]
   },
@@ -25491,7 +25795,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-05T06:51:18Z",
    "sector": "",
-   "specialization": "109, 149, 150, 244, 264",
+   "specialization": "[\"109\",\"149\",\"150\",\"244\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -28644,7 +28948,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-24T07:52:59Z",
    "sector": "",
-   "specialization": "86, 208",
+   "specialization": "[\"86\",\"208\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29261,7 +29565,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-15T08:32:04Z",
    "sector": "",
-   "specialization": "330",
+   "specialization": "[\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30683,7 +30987,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-29T11:18:49Z",
    "sector": "",
-   "specialization": "245, 251, 330, 354",
+   "specialization": "[\"245\",\"251\",\"330\",\"354\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30835,7 +31139,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-28T16:17:21Z",
    "sector": "",
-   "specialization": "92",
+   "specialization": "[\"92\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31056,7 +31360,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-21T14:44:45Z",
    "sector": "",
-   "specialization": "2, 29, 35, 60, 62, 63, 64, 65, 66, 68, 69, 70, 71, 72, 73, 77, 86, 109, 114, 125, 133, 134, 135, 138, 139, 142, 143, 144, 145, 149, 150, 153, 155, 159, 160, 197, 206, 207, 208, 209, 224, 244, 347, 348",
+   "specialization": "[\"2\",\"29\",\"35\",\"60\",\"62\",\"63\",\"64\",\"65\",\"66\",\"68\",\"69\",\"70\",\"71\",\"72\",\"73\",\"77\",\"86\",\"109\",\"114\",\"125\",\"133\",\"134\",\"135\",\"138\",\"139\",\"142\",\"143\",\"144\",\"145\",\"149\",\"150\",\"153\",\"155\",\"159\",\"160\",\"197\",\"206\",\"207\",\"208\",\"209\",\"224\",\"244\",\"347\",\"348\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31333,7 +31637,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-21T14:42:01Z",
    "sector": "",
-   "specialization": "2, 29, 60, 62, 63, 64, 65, 66, 68, 69, 70, 71, 72, 73, 76, 109, 114, 134, 138, 149, 150, 155, 158, 159, 160, 168, 169, 197, 205, 206, 207, 208, 209, 224, 225, 244, 248, 251, 262, 264, 330, 331, 358, 361",
+   "specialization": "[\"2\",\"29\",\"60\",\"62\",\"63\",\"64\",\"65\",\"66\",\"68\",\"69\",\"70\",\"71\",\"72\",\"73\",\"76\",\"109\",\"114\",\"134\",\"138\",\"149\",\"150\",\"155\",\"158\",\"159\",\"160\",\"168\",\"169\",\"197\",\"205\",\"206\",\"207\",\"208\",\"209\",\"224\",\"225\",\"244\",\"248\",\"251\",\"262\",\"264\",\"330\",\"331\",\"358\",\"361\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31549,7 +31853,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-21T06:53:37Z",
    "sector": "",
-   "specialization": "86, 123, 125, 256",
+   "specialization": "[\"86\",\"123\",\"125\",\"256\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32445,22 +32749,22 @@
    "city": "GRAND RAPIDS    -MI-",
    "description": "The Supplier Quality Engineer (SQE) is responsible for ensuring that all externally sourced materials, components, and services meet the company’s quality, reliability, and performance standards. This role serves as the primary technical interface between the company and its suppliers, driving continuous improvement, resolving quality issues, and supporting supplier development initiatives. The SQE works cross functionally with Procurement, Engineering, Operations, and Quality teams to qualify new suppliers, manage ongoing supplier performance, and ensure compliance with internal and external requirements.\n • Qualify and approve new suppliers through audits and capability assessments.\n • Monitor supplier performance and drive corrective actions when needed.\n • Lead root cause analysis and manage supplier-related nonconformances.\n • Review and validate supplier control plans, PPAPs, and process documentation.\n • Support continuous improvement and risk reduction initiatives at supplier sites.\n • Collaborate with internal teams on sourcing decisions and production support.\n • Maintain documentation, certifications, and compliance records.",
    "mission": "",
-   "profile": "Specialization : Quality Systems, Quality Management, Automotive Quality Standards (IATF 16949), Internal & Supplier Auditing, Document Control, Process Mapping\nLevel of education : Bachelor’s or Master’s degree in Engineering, Quality, Industrial Engineering, or a related technical field\n \nTechnical skills : \n Strong knowledge of IATF 16949 and automotive quality requirements\nExperience conducting internal audits and supplier audits\nAbility to develop and maintain quality procedures, work instructions, and the Quality Manual\nProficiency in creating process maps, flowcharts, and system documentation\nSolid understanding of document control and revision management\nFamiliarity with corrective action tools (8D, root cause analysis, containment, verification)\nStrong analytical and organizational skills\n\nSpoken languages : English \nSoft skills :\n. - Attention to Detail\n- Analytical Thinking\n- Problem‑Solving\n- Communication Skills\n- Collaboration & Teamwork\n- Organizational Skills\n- Adaptability\n- Proactive Mindset\n- Integrity & Objectivity\n- Training & Coaching Ability",
+   "profile": "Specialization : Quality Systems, Quality Management, Automotive Quality Standards (IATF 16949), Internal & Supplier Auditing, Document Control, Process Mapping\r\nLevel of education : Bachelor’s or Master’s degree in Engineering, Quality, Industrial Engineering, or a related technical field\r\n \r\nTechnical skills : \r\nExperience conducting internal audits and supplier audits\r\nAbility to develop and maintain quality procedures, work instructions, and the Quality Manual\r\nProficiency in creating process maps, flowcharts, and system documentation\r\nSolid understanding of document control and revision management\r\nFamiliarity with corrective action tools (8D, root cause analysis, containment, verification)\r\nStrong analytical and organizational skills\r\n\r\nSpoken languages : English \r\nSoft skills :\r\n. - Attention to Detail\r\n- Analytical Thinking\r\n- Problem‑Solving\r\n- Communication Skills\r\n- Collaboration & Teamwork\r\n- Organizational Skills\r\n- Adaptability\r\n- Proactive Mindset\r\n- Integrity & Objectivity\r\n- Training & Coaching Ability",
    "duration": 18,
    "start_date": "2027-01-01T00:00:00",
    "end_date": "2028-07-01T00:00:00",
    "expiry_date": "",
    "publish_date": "2026-06-29T08:17:18Z",
    "sector": "",
-   "specialization": "209",
+   "specialization": "[\"209\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-06-29T08:17:18Z",
     "missionStartDate": "2027-01-01T00:00:00",
     "missionEndDate": "2028-07-01T00:00:00",
-    "startBroadcastDate": "2026-10-05T00:00:00",
-    "endBroadcastDate": "2026-12-04T00:00:00"
+    "startBroadcastDate": "2026-10-08T00:00:00",
+    "endBroadcastDate": "2026-12-07T00:00:00"
    },
    "summary": "The Supplier Quality Engineer (SQE) is responsible for ensuring that all externally sourced materials, components, and services meet the company’s quality, reliability, and performance standards. This role serves as the primary technical interface between the company and its suppliers, driving continuous improvement, resolving quality issues, and supporting supplier development initiatives. The SQE works cross functionally with Procurement, Engineering, Operations, and Quality teams to qualify new suppliers, manage ongoing supplier performance, and ensure compliance with internal and external requirements.\n • Qualify and approve new suppliers through audits and capability assessments.\n • Monitor supplier performance and drive corrective actions when needed.\n • Lead root cause analysis and manage supplier-related nonconformances.\n • Review and validate supplier control plans, PPAPs, and process documentation.\n • Support continuous improvement and risk reduction initiatives at supplier sites.\n • Collaborate with internal teams on sourcing decisions and production support. […]",
    "url": "https://mon-vie-via.businessfrance.fr/offres/244167",
@@ -32821,7 +33125,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-30T08:58:31Z",
    "sector": "",
-   "specialization": "86, 327, 332",
+   "specialization": "[\"86\",\"327\",\"332\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33058,7 +33362,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-16T10:04:59Z",
    "sector": "",
-   "specialization": "259",
+   "specialization": "[\"259\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34434,7 +34738,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T15:35:24Z",
    "sector": "",
-   "specialization": "155",
+   "specialization": "[\"155\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35313,50 +35617,78 @@
    ]
   },
   {
-   "id": "245745",
-   "title": "CONSULTANT VIETNAM (H/F)",
-   "company": "PORT CITIES FRANCE",
-   "country": "VIET NAM",
-   "city": "HO CHI MINH",
-   "description": "Analyze client business processes and requirements to design business solutions with detailed requirements. Produce Functional Specification, UAT plan, and prepare case tests, flowcharts, and diagrams.\r\nAccompany customers in the full delivery cycle from software configuration to Go-live.\r\nInternal testing on configuration/development should be conducted before releasing them for UAT.\r\nCreate a user manual and provide training and support to end-users as per the agreement defined.\r\nTroubleshoot and resolve Odoo-related issues\r\nCollaborate with cross-functional teams for system integration.\r\nStay updated on Odoo developments and suggest improvements.\r\nSupport the sales team during pre-sales by creating and presenting a demo.\r\nPrepare presentation slides in English or other specific language if required.\r\nPrepare MoM in English or other specific language if required.\r\nAble to manage and control budget, timeline, and scope of small-medium sized projects.\r\nDevelop and coach your subordinates.",
+   "id": "246842",
+   "title": "Embedded Software Developer C++  (H/F)",
+   "company": "PRODUCT DEVELOPMENT EMPLOYENEURSHIP",
+   "country": "BELGIQUE",
+   "city": "LIEGE",
+   "description": "As a Software Developer, you will contribute to the design, development, testing, and maintenance of software solutions for advanced defense systems. Working in a multidisciplinary engineering environment, you will develop reliable, high-performance applications using C++ and Python while supporting the full software development lifecycle.\r\n\r\nDesign, develop, and maintain software applications using C++ and Python for advanced defense systems.\r\nTranslate system and software requirements into reliable, scalable solutions, contributing to software design, implementation, integration, and testing.\r\nCollaborate with multidisciplinary teams, including systems, software, and test engineers, to deliver high-quality software solutions.\r\nTroubleshoot, debug, and optimize software while participating in code reviews and following software engineering best practices.\r\nContribute to the full software development lifecycle by supporting technical documentation, testing, and continuous improvement of mission-critical defense applications.",
    "mission": "",
-   "profile": "Experience: Bachelor's degree in Information Systems / Computer Science / Business / Accounting / Management. A master's degree in business management is an advantage.\r\nMinimum of 5 years of relevant experience in ERP Odoo implementation.\r\nGood communication, presentation, and writing skills in English.\r\nStrong knowledge of Odoo ERP system, including configuration and customization.\r\nProven experience as an Odoo Consultant or similar role.\r\nOdoo certification(s) or equivalent industry certifications.\r\nKnowledge of other ERP systems and business applications.\r\nLanguage Skills: Native/Fluent in Vietnamese is required, while proficiency in English is preferred.",
-   "duration": 12,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-01-01T00:00:00",
+   "profile": "• Master's or Bachelor's degree in Electronics/Computer Science who already has experience in the development of safety-critical embedded software. Proficiency in C/C++ language and the mandatory Linux environment as well as V-cycle concepts, management of requirements, problems and changes. The goal of the mission is to develop, integrate and test safety-critical embedded software in a Linux-based environment.\n• Knowledge of model-based design (Scade, Simulink), Python and the ability to develop under microcontrollers are assets.\n• Minimum 2 years of experience.",
+   "duration": 24,
+   "start_date": "2026-12-01T00:00:00",
+   "end_date": "2028-12-01T00:00:00",
    "expiry_date": "",
-   "publish_date": "2026-09-09T13:18:14Z",
+   "publish_date": "2026-10-08T10:28:55Z",
    "sector": "",
-   "specialization": "6, 7",
+   "specialization": "[\"29\",\"35\",\"144\",\"213\",\"245\",\"246\",\"247\",\"248\",\"251\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
-    "creationDate": "2026-09-09T13:18:14Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-05T00:00:00",
-    "endBroadcastDate": "2026-11-04T00:00:00"
+    "creationDate": "2026-10-08T10:28:55Z",
+    "missionStartDate": "2026-12-01T00:00:00",
+    "missionEndDate": "2028-12-01T00:00:00",
+    "startBroadcastDate": "2026-10-08T00:00:00",
+    "endBroadcastDate": "2026-11-07T00:00:00"
    },
-   "summary": "Analyze client business processes and requirements to design business solutions with detailed requirements. Produce Functional Specification, UAT plan, and prepare case tests, flowcharts, and diagrams.\r\nAccompany customers in the full delivery cycle from software configuration to Go-live.\r\nInternal testing on configuration/development should be conducted before releasing them for UAT.\r\nCreate a user manual and provide training and support to end-users as per the agreement defined.\r\nTroubleshoot and resolve Odoo-related issues\r\nCollaborate with cross-functional teams for system integration.\r\nStay updated on Odoo developments and suggest improvements.\r\nSupport the sales team during pre-sales by creating and presenting a demo.\r\nPrepare presentation slides in English or other specific language if required.\r\nPrepare MoM in English or other specific language if required.\r\nAble to manage and control budget, timeline, and scope of small-medium sized projects.\r\nDevelop and coach your subordinates.",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/245745",
+   "summary": "As a Software Developer, you will contribute to the design, development, testing, and maintenance of software solutions for advanced defense systems. Working in a multidisciplinary engineering environment, you will develop reliable, high-performance applications using C++ and Python while supporting the full software development lifecycle.\r\n\r\nDesign, develop, and maintain software applications using C++ and Python for advanced defense systems.\r\nTranslate system and software requirements into reliable, scalable solutions, contributing to software design, implementation, integration, and testing.\r\nCollaborate with multidisciplinary teams, including systems, software, and test engineers, to deliver high-quality software solutions.\r\nTroubleshoot, debug, and optimize software while participating in code reviews and following software engineering best practices.\r\nContribute to the full software development lifecycle by supporting technical documentation, testing, and continuous improvement of mission-critical defense applications.",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/246842",
    "score": 30,
    "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
+   "first_seen": "2026-10-08T13:27:14+00:00",
    "axis_scores": {
     "rd": 0,
-    "prod": 0,
+    "prod": 24,
     "qual": 47,
-    "calc": 0
+    "calc": 17
    },
    "dominant_axis": "qual",
    "matched_families": [
+    {
+     "id": "calc4",
+     "axis": "calc",
+     "source": "Outils et méthodes de calcul numérique (258-1), Initiation Excel et macros (266-1), Asservissement (840-1)",
+     "weight": 5,
+     "terms": [
+      "python"
+     ]
+    },
+    {
+     "id": "prod5",
+     "axis": "prod",
+     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
+     "weight": 7,
+     "terms": [
+      "continuous improvement"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Conception mécanique (264-1), Outils et moyens de fabrication (259-1)",
+     "weight": 7,
+     "terms": [
+      "engineering",
+      "product development"
+     ]
+    },
     {
      "id": "qual2",
      "axis": "qual",
      "source": "Qualité et normes (774-1)",
      "weight": 10,
      "terms": [
-      "certification"
+      "quality"
      ]
     },
     {
@@ -35371,6 +35703,13 @@
    ],
    "bonuses": [
     {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "defense"
+     ],
+     "points": 5
+    },
+    {
      "label": "Niveau bac+5 / ingénieur annoncé",
      "terms": [],
      "points": 4
@@ -35378,7 +35717,7 @@
     {
      "label": "Aucun terme industriel : score plafonné",
      "terms": [],
-     "points": -2
+     "points": -14
     }
    ]
   },
@@ -35397,7 +35736,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-07T17:18:27Z",
    "sector": "",
-   "specialization": "60, 65, 66, 71, 77, 110, 142, 149",
+   "specialization": "[\"60\",\"65\",\"66\",\"71\",\"77\",\"110\",\"142\",\"149\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35469,7 +35808,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-07T17:17:39Z",
    "sector": "",
-   "specialization": "52, 63, 118, 125, 168, 225, 256",
+   "specialization": "[\"52\",\"63\",\"118\",\"125\",\"168\",\"225\",\"256\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -36109,7 +36448,7 @@
    "expiry_date": "",
    "publish_date": "2025-10-28T09:46:40Z",
    "sector": "",
-   "specialization": "248",
+   "specialization": "[\"248\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -38748,7 +39087,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-18T07:55:37Z",
    "sector": "",
-   "specialization": "155",
+   "specialization": "[\"155\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -39278,7 +39617,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T09:27:37Z",
    "sector": "",
-   "specialization": "244",
+   "specialization": "[\"244\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -39588,7 +39927,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T09:23:13Z",
    "sector": "",
-   "specialization": "238",
+   "specialization": "[\"238\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -39808,7 +40147,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T12:26:47Z",
    "sector": "",
-   "specialization": "330",
+   "specialization": "[\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -40059,66 +40398,6 @@
      "weight": 7,
      "terms": [
       "testing"
-     ]
-    }
-   ],
-   "bonuses": []
-  },
-  {
-   "id": "246509",
-   "title": "KYC officer (H/F)",
-   "company": "CA INDOSUEZ",
-   "country": "LUXEMBOURG",
-   "city": "LUXEMBOURG",
-   "description": "Au sein de CA Indosuez Wealth (Europe) et pour le compte de ses succursales, le client data assure la gestion administrative, informatique et physique des dossiers clients dans le respect de la politique de gouvernance de la banque et des règlementations en vigueur.\n\nVous participerez au développement du Hub Client Data. Vous serez positionné au cœur de l’activité entrée en relation et mise à jour de la documentation Client (KYC).\n\nVous aurez des contacts réguliers avec des interlocuteurs de différents niveaux hiérarchiques et services : Front office, Compliance…\n\nVous aurez notamment pour mission la validation des nouveaux dossiers d’entrée en relation (contrôle et tâches administratives), les maintenances liées à la vie du compte, les chantiers liés aux nouvelles règlementations, la revue périodique des dossiers client.\n\nA ce titre vous vous effectuerez notamment les missions ci-dessous, pour le périmètre Italien :\n\nVous vous assurez de la bonne constitution des dossiers clients au moment de l’entrée en relation et vous effectuez un suivi des documents requis en fonction des différents événements impactant le compte du client\nVous veillez au respect des procédures AML-CFT/KYC en vigueur\nVous êtes le garant de la qualité et la complétude de la documentation du dossier client\nVous assurez les tâches administratives liés à ces documents : encodage, vérifications, …",
-   "mission": "",
-   "profile": "Vous êtes diplômé(e) d’un BTS, Licence ou d’un Bachelor en administration, ou en banque.\nUne première expérience dans cette fonction ou dans une fonction similaire serait un atout (stage et alternance acceptés).\nVous êtes reconnu(e) pour votre rigueur, votre esprit d’équipe, vos capacités d’analyse, de synthèse et de rédaction.\nVotre sens de la communication et votre relationnel développé vous assureront une bonne intégration et une collaboration harmonieuse avec vos interlocuteurs.\nMaitrise de l'italien obligatoire.",
-   "duration": 12,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2027-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-29T09:40:34Z",
-   "sector": "",
-   "specialization": "202",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-29T09:40:34Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-29T00:00:00",
-    "endBroadcastDate": "2026-10-29T00:00:00"
-   },
-   "summary": "Au sein de CA Indosuez Wealth (Europe) et pour le compte de ses succursales, le client data assure la gestion administrative, informatique et physique des dossiers clients dans le respect de la politique de gouvernance de la banque et des règlementations en vigueur.\n\nVous participerez au développement du Hub Client Data. Vous serez positionné au cœur de l’activité entrée en relation et mise à jour de la documentation Client (KYC).\n\nVous aurez des contacts réguliers avec des interlocuteurs de différents niveaux hiérarchiques et services : Front office, Compliance…\n\nVous aurez notamment pour mission la validation des nouveaux dossiers d’entrée en relation (contrôle et tâches administratives), les maintenances liées à la vie du compte, les chantiers liés aux nouvelles règlementations, la revue périodique des dossiers client. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246509",
-   "score": 28,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 0,
-    "qual": 47,
-    "calc": 0
-   },
-   "dominant_axis": "qual",
-   "matched_families": [
-    {
-     "id": "qual2",
-     "axis": "qual",
-     "source": "Qualité et normes (774-1)",
-     "weight": 10,
-     "terms": [
-      "compliance",
-      "qualite"
-     ]
-    },
-    {
-     "id": "qual4",
-     "axis": "qual",
-     "source": "Introduction aux techniques expérimentales (267-1)",
-     "weight": 7,
-     "terms": [
-      "validation"
      ]
     }
    ],
@@ -40564,7 +40843,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-07T14:59:53Z",
    "sector": "",
-   "specialization": "244",
+   "specialization": "[\"244\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -41191,98 +41470,6 @@
      "label": "Niveau bac+5 / ingénieur annoncé",
      "terms": [],
      "points": 4
-    }
-   ]
-  },
-  {
-   "id": "246782",
-   "title": "Buyer (H/F)",
-   "company": "ALSTOM TRANSPORT SA",
-   "country": "THAILANDE",
-   "city": "BANGKOK",
-   "description": "Purpose of the role\nThe Service Buyer supports the sourcing and execution of overhaul, repair and other service-related procurement activities across East Asia. The role develops competitive supplier options, manages the procurement process from request for quotation through contract execution, and helps establish effective repair sourcing pathways.\n\nWorking closely with Services, Engineering, Quality, Material and project teams, the Service Buyer helps deliver Quality, Cost, Delivery and Technical (QCDT) objectives while maintaining clear ownership, timely follow-up and reliable procurement records.\n\nKey responsibilities\nSourcing and supplier selection\nWork with internal stakeholders to understand service requirements, technical scope, demand, delivery needs and commercial constraints.\nIdentify and develop qualified suppliers for overhaul, repair and related services, including alternative sources where appropriate.\nPrepare and launch requests for quotation, compare supplier proposals and lead commercial negotiations.\nEvaluate sourcing options on total cost, capability, lead time, quality, contractual conditions and supply risk, not price alone.\nPrepare procurement recommendations and Business Award documentation in accordance with applicable approval processes.\n\nOverhaul and alternative-sourcing strategy\nSupport the development and execution of sourcing plans for overhaul work packages and recurring service needs.\nAssess alternative supplier and make-or-buy options with the relevant technical and project stakeholders.\nHelp build clear business comparisons, including scope, costs, delivery, technical feasibility, quality requirements and commercial risks.\nCoordinate the resolution of open sourcing and contractual points before award, and support the handover from award to execution.\n \nRepair supplier development and case coordination\nIdentify repairable parts or families with the relevant Material and Maintenance teams and engage potential repair suppliers.\nObtain supplier proposals covering repair approach, lead time and commercial terms.\nCoordinate the information needed for Engineering and Quality review before a supplier repair pathway is used operationally.\nMaintain visibility of repair cases, supplier quotations, approvals, progress, outstanding actions and handovers between teams.\nReview the commercial aspects of case-specific repair quotations against the approved sourcing reference and coordinate the handover of agreed information to the responsible operational teams.\nFollow cases through supplier execution and return, helping ensure that records and savings evidence are complete.\n \nContract execution and supplier performance\nSupport the preparation and management of supplier agreements, purchase commitments and contract changes.\nMonitor supplier QCDT performance and work with Supplier Quality and internal stakeholders to address delivery issues, non-conformities and other risks.\nMaintain constructive supplier relationships, escalate significant issues promptly and support corrective-action plans.\nContribute to supplier-panel and commodity strategies by sharing market intelligence, sourcing opportunities and lessons learned.\n\nProcurement governance and improvement\nApply company procurement processes, approval requirements and standards of ethical conduct.\nMaintain accurate sourcing, contract, supplier-performance and repair-case records.\nTrack open actions and process delays, improve handovers between functions and help establish repeatable ways of working.\nSupport the validation and reporting of procurement savings with the relevant Finance and project stakeholders.\n\nKey working relationships\nInternal: Services and project teams; Global and Regional Procurement; Maintenance Engineering; Material and RMA teams; Supplier Quality; Supply Chain and Warehouse; Finance; and Legal.\nExternal: Existing and prospective suppliers, including overhaul and repair providers.",
-   "mission": "",
-   "profile": "Qualifications and experience\n\nRequired\n\nMaster’s degree in Engineering, Business or a related discipline.\nA foundation in sourcing or procurement, with the ability to manage supplier enquiries, commercial comparisons and negotiations.\nAwareness of contract management and commercial risk.\nStrong analytical, organisational and communication skills.\nAbility to work effectively across functions in an international, matrix environment.\nFluent English.",
-   "duration": 12,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-07T11:30:53Z",
-   "sector": "",
-   "specialization": "2",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-07T11:30:53Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-07T00:00:00",
-    "endBroadcastDate": "2026-10-12T00:00:00"
-   },
-   "summary": "Purpose of the role\nThe Service Buyer supports the sourcing and execution of overhaul, repair and other service-related procurement activities across East Asia. The role develops competitive supplier options, manages the procurement process from request for quotation through contract execution, and helps establish effective repair sourcing pathways.\n\nWorking closely with Services, Engineering, Quality, Material and project teams, the Service Buyer helps deliver Quality, Cost, Delivery and Technical (QCDT) objectives while maintaining clear ownership, timely follow-up and reliable procurement records.\n\nKey responsibilities\nSourcing and supplier selection\nWork with internal stakeholders to understand service requirements, technical scope, demand, delivery needs and commercial constraints.\nIdentify and develop qualified suppliers for overhaul, repair and related services, including alternative sources where appropriate.\nPrepare and launch requests for quotation, compare supplier proposals and lead commercial negotiations. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246782",
-   "score": 26,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T17:25:48+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 12,
-    "qual": 69,
-    "calc": 0
-   },
-   "dominant_axis": "qual",
-   "matched_families": [
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Conception mécanique (264-1), Outils et moyens de fabrication (259-1)",
-     "weight": 7,
-     "terms": [
-      "engineering"
-     ]
-    },
-    {
-     "id": "qual2",
-     "axis": "qual",
-     "source": "Qualité et normes (774-1)",
-     "weight": 10,
-     "terms": [
-      "quality",
-      "standards",
-      "supplier quality"
-     ]
-    },
-    {
-     "id": "qual3",
-     "axis": "qual",
-     "source": "Plans d'expériences (283-1), Outils logiciels mathématiques et statistiques (289-1)",
-     "weight": 8,
-     "terms": [
-      "capability"
-     ]
-    },
-    {
-     "id": "qual4",
-     "axis": "qual",
-     "source": "Introduction aux techniques expérimentales (267-1)",
-     "weight": 7,
-     "terms": [
-      "validation"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Intitulé hors formation",
-     "terms": [
-      "buyer"
-     ],
-     "points": -22
     }
    ]
   },
@@ -42364,7 +42551,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T14:36:30Z",
    "sector": "",
-   "specialization": "75",
+   "specialization": "[\"75\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -42498,7 +42685,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-09T07:29:30Z",
    "sector": "",
-   "specialization": "49, 63, 86, 123, 208, 256, 366",
+   "specialization": "[\"49\",\"63\",\"86\",\"123\",\"208\",\"256\",\"366\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
