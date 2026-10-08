@@ -8,7 +8,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;700;800&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="assets/styles.css?v=23">
+<link rel="stylesheet" href="assets/styles.css?v=24">
 </head>
 <body>
 
@@ -73,10 +73,19 @@
       </div>
 
       <div class="field">
-        <label for="country">Pays</label>
-        <input type="search" id="country-search" class="option-search"
-               placeholder="Filtrer les pays…" autocomplete="off">
-        <select id="country" size="1"><option value="">Tous</option></select>
+        <label for="country-search">Pays</label>
+        <div class="combo" data-combo="country">
+          <input type="search" id="country-search" class="combo-input"
+                 placeholder="Tous les pays" autocomplete="off" role="combobox"
+                 aria-expanded="false" aria-autocomplete="list"
+                 aria-controls="country-options">
+          <button type="button" class="combo-clear" hidden
+                  aria-label="Effacer le pays">&times;</button>
+          <ul class="combo-list" id="country-options" role="listbox" hidden></ul>
+        </div>
+        <select id="country" hidden tabindex="-1" aria-hidden="true">
+          <option value="">Tous</option>
+        </select>
         <button type="button" id="exclude-country" class="exclude-btn">
           Exclure ce pays des résultats
         </button>
@@ -84,10 +93,19 @@
       </div>
 
       <div class="field">
-        <label for="company">Entreprise</label>
-        <input type="search" id="company-search" class="option-search"
-               placeholder="Filtrer les entreprises…" autocomplete="off">
-        <select id="company" size="1"><option value="">Toutes</option></select>
+        <label for="company-search">Entreprise</label>
+        <div class="combo" data-combo="company">
+          <input type="search" id="company-search" class="combo-input"
+                 placeholder="Toutes les entreprises" autocomplete="off"
+                 role="combobox" aria-expanded="false" aria-autocomplete="list"
+                 aria-controls="company-options">
+          <button type="button" class="combo-clear" hidden
+                  aria-label="Effacer l'entreprise">&times;</button>
+          <ul class="combo-list" id="company-options" role="listbox" hidden></ul>
+        </div>
+        <select id="company" hidden tabindex="-1" aria-hidden="true">
+          <option value="">Toutes</option>
+        </select>
       </div>
 
       <div class="field">
@@ -213,6 +231,6 @@
   <p class="version mono" id="ui-version">Interface non chargée</p>
 </footer>
 
-<script src="assets/app.js?v=23"></script>
+<script src="assets/app.js?v=24"></script>
 </body>
 </html>

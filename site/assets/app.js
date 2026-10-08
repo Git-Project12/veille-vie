@@ -15,7 +15,7 @@ const AXIS_LABELS = {
 const AXIS_ORDER = ["rd", "prod", "qual", "calc"];
 let PAGE_STEP = 25;          // ajustable depuis le panneau de filtres
 const PAGE_SIZES = [25, 50, 75, 100];
-const UI_VERSION = "23";   // affiché en pied de page : permet de vérifier
+const UI_VERSION = "24";   // affiché en pied de page : permet de vérifier
                           // quelle version de l'interface est réellement chargée
 const EXPIRY_WINDOW_DAYS = 14;   // seuil de l'onglet « échéances »
 const NEW_WINDOW_HOURS = 24;     // durée pendant laquelle une offre reste « nouvelle »
@@ -238,6 +238,14 @@ function computeScore(offer) {
   for (const bonus of offer.bonuses || []) score += bonus.points;
 
   score = Math.max(0, Math.min(100, Math.round(score)));
+
+  /* Certains bonus ne sont pas des points mais des plafonds : offre sans
+     ancrage industriel, intitulé de métier du numérique. On les applique
+     comme un plafond et non comme un retrait fixe, sinon un relèvement des
+     pondérations ici ferait repasser l'offre au-dessus. */
+  for (const bonus of offer.bonuses || []) {
+    if (typeof bonus.cap === "number") score = Math.min(score, bonus.cap);
+  }
 
   let dominant = null, best = 0;
   for (const axis of AXIS_ORDER) {
@@ -507,12 +515,8 @@ function bindEvents() {
   $("#sort-top").addEventListener("change", () => syncSort("#sort-top", "#sort"));
   $("#sort").addEventListener("change", () => syncSort("#sort", "#sort-top"));
 
-  // Filtrage instantané des listes pays et entreprise
-  for (const sel of ["#country", "#company"]) {
-    $(`${sel}-search`)?.addEventListener("input", (e) => {
-      renderSelect(sel, e.target.value);
-    });
-  }
+  // Listes à suggestions pour les pays et les entreprises
+  for (const nom of ["country", "company"]) setupCombo(nom);
 
   // Nombre d'offres affichées par page
   $("#page-size").addEventListener("change", (e) => {
@@ -676,39 +680,193 @@ function uniqueValues(field) {
 
 const OPTION_CACHE = {};
 
-function fillSelect(sel, entries) {
-  OPTION_CACHE[sel] = entries;
-  renderSelect(sel, "");
+/* ============================ Listes à suggestions ============================
+
+   Les champs Pays et Entreprise étaient un champ de recherche posé au-dessus
+   d'une liste déroulante : il fallait taper le nom, puis ouvrir la liste. On
+   écrivait donc dans le vide, sans rien voir venir.
+
+   Ils sont maintenant de vraies listes à suggestions : les propositions
+   s'affichent sous le champ dès la première lettre, se parcourent aux flèches
+   et se valident à Entrée. Le <select> reste dans la page, masqué : c'est lui
+   qui porte la valeur choisie, lu par les filtres et par « Exclure ce pays ».
+   Le champ visible n'est qu'une façade. */
+
+const COMBO_MAX = 10;   // propositions affichées avant « et N autres »
+
+/* Minuscules sans accents : « coree » doit trouver « CORÉE DU SUD », et
+   « espagne » « ESPAGNE » écrit en capitales par Business France. */
+function fold(text) {
+  return String(text || "")
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase();
 }
 
-/* Redessine une liste déroulante en ne gardant que les entrées correspondant
-   au texte saisi. La sélection courante est préservée même si elle ne
-   correspond plus au filtre, pour ne jamais perdre un choix en cours. */
-function renderSelect(sel, query) {
+function fillSelect(sel, entries) {
+  OPTION_CACHE[sel] = entries;
   const el = $(sel);
-  const entries = OPTION_CACHE[sel] || [];
-  const current = el.value;
-  const needle = query.trim().toLowerCase();
   const placeholder = el.options[0]?.textContent || "Tous";
-
-  const kept = entries.filter(([value]) =>
-    !needle || value.toLowerCase().includes(needle));
-
+  const current = el.value;
   el.innerHTML = `<option value="">${escapeHtml(placeholder)}</option>` +
-    kept.map(([value, count]) =>
-      `<option value="${escapeHtml(value)}">${escapeHtml(value)} (${count})</option>`).join("");
-
-  if (current && !kept.some(([v]) => v === current)) {
-    el.insertAdjacentHTML("beforeend",
-      `<option value="${escapeHtml(current)}">${escapeHtml(current)} (sélection actuelle)</option>`);
-  }
+    entries.map(([value]) =>
+      `<option value="${escapeHtml(value)}">${escapeHtml(value)}</option>`).join("");
   el.value = current;
+}
 
-  const hint = $(`${sel}-search`);
-  if (hint) {
-    hint.setAttribute("aria-label",
-      `${kept.length} résultat${kept.length > 1 ? "s" : ""} sur ${entries.length}`);
+/* Classement des propositions : ce qui commence par la saisie d'abord, puis
+   ce qui la contient. À rang égal, le pays qui a le plus d'offres passe
+   devant — taper « a » propose ALLEMAGNE avant AFRIQUE DU SUD. */
+function comboMatches(sel, query) {
+  const entries = OPTION_CACHE[sel] || [];
+  const needle = fold(query.trim());
+  if (!needle) return entries.map(([value, count]) => ({ value, count, at: -1 }));
+
+  const out = [];
+  for (const [value, count] of entries) {
+    const at = fold(value).indexOf(needle);
+    if (at !== -1) out.push({ value, count, at });
   }
+  return out.sort((a, b) => (a.at === 0 ? 0 : 1) - (b.at === 0 ? 0 : 1) ||
+    b.count - a.count || a.value.localeCompare(b.value, "fr"));
+}
+
+/* La portion saisie est soulignée dans la proposition, pour qu'on voie
+   pourquoi elle est là. Les positions viennent du texte sans accents, qui a
+   la même longueur que l'original : les index restent valables. */
+function surligner(value, at, length) {
+  if (at < 0 || !length) return escapeHtml(value);
+  return escapeHtml(value.slice(0, at)) +
+    "<mark>" + escapeHtml(value.slice(at, at + length)) + "</mark>" +
+    escapeHtml(value.slice(at + length));
+}
+
+function setupCombo(nom) {
+  const sel = `#${nom}`;
+  const select = $(sel);
+  const boite = $(`.combo[data-combo="${nom}"]`);
+  if (!select || !boite) return;
+
+  const input = boite.querySelector(".combo-input");
+  const liste = boite.querySelector(".combo-list");
+  const vider = boite.querySelector(".combo-clear");
+  let actif = -1;
+  let visibles = [];
+
+  const fermer = () => {
+    liste.hidden = true;
+    liste.innerHTML = "";
+    input.setAttribute("aria-expanded", "false");
+    input.removeAttribute("aria-activedescendant");
+    actif = -1;
+  };
+
+  const marquerActif = () => {
+    [...liste.children].forEach((li, i) => {
+      const on = i === actif;
+      li.classList.toggle("on", on);
+      li.setAttribute("aria-selected", on ? "true" : "false");
+      if (on) {
+        input.setAttribute("aria-activedescendant", li.id);
+        li.scrollIntoView({ block: "nearest" });
+      }
+    });
+    if (actif < 0) input.removeAttribute("aria-activedescendant");
+  };
+
+  const ouvrir = (query) => {
+    const trouves = comboMatches(sel, query);
+    visibles = trouves.slice(0, COMBO_MAX);
+    const reste = trouves.length - visibles.length;
+    const length = fold(query.trim()).length;
+
+    if (!trouves.length) {
+      liste.innerHTML = `<li class="combo-empty" role="presentation">Aucun
+        ${nom === "country" ? "pays" : "entreprise"} ne correspond</li>`;
+    } else {
+      liste.innerHTML = visibles.map((m, i) =>
+        `<li id="${nom}-opt-${i}" role="option" aria-selected="false"
+             data-value="${escapeHtml(m.value)}">
+           <span>${surligner(m.value, m.at, length)}</span>
+           <span class="combo-count mono">${m.count}</span>
+         </li>`).join("") +
+        (reste > 0
+          ? `<li class="combo-empty" role="presentation">et ${reste} autre${reste > 1 ? "s" : ""}
+               — précise la recherche</li>`
+          : "");
+    }
+
+    liste.hidden = false;
+    input.setAttribute("aria-expanded", "true");
+    actif = trouves.length ? 0 : -1;
+    marquerActif();
+  };
+
+  const choisir = (value) => {
+    select.value = value;
+    if (value && select.value !== value) {
+      // Pays absent du menu (données rechargées depuis) : on l'ajoute.
+      select.insertAdjacentHTML("beforeend",
+        `<option value="${escapeHtml(value)}">${escapeHtml(value)}</option>`);
+      select.value = value;
+    }
+    fermer();
+    syncCombo(nom);
+    select.dispatchEvent(new Event("change", { bubbles: true }));
+  };
+
+  // Au clic dans le champ : toute la liste, et le texte présélectionné pour
+  // que la première lettre tapée remplace la sélection au lieu de s'y coller.
+  input.addEventListener("focus", () => { input.select(); ouvrir(""); });
+  input.addEventListener("input", () => ouvrir(input.value));
+
+  input.addEventListener("keydown", (e) => {
+    if (e.key === "ArrowDown" || e.key === "ArrowUp") {
+      e.preventDefault();
+      if (liste.hidden) return ouvrir(input.value);
+      const n = visibles.length;
+      if (!n) return;
+      actif = (actif + (e.key === "ArrowDown" ? 1 : -1) + n) % n;
+      marquerActif();
+    } else if (e.key === "Enter") {
+      if (!liste.hidden && actif >= 0 && visibles[actif]) {
+        e.preventDefault();
+        choisir(visibles[actif].value);
+      }
+    } else if (e.key === "Escape") {
+      if (!liste.hidden) { e.stopPropagation(); fermer(); }
+      else { choisir(""); }
+    }
+  });
+
+  // pointerdown : le clic doit être pris avant que le champ ne perde le focus,
+  // sinon la liste se referme avant d'avoir reçu le clic.
+  liste.addEventListener("pointerdown", (e) => {
+    const li = e.target.closest("li[data-value]");
+    if (!li) return;
+    e.preventDefault();
+    choisir(li.dataset.value);
+  });
+
+  // En quittant le champ, le texte revient sur la sélection réelle : on ne
+  // laisse jamais une saisie à moitié tapée ressembler à un filtre actif.
+  input.addEventListener("blur", () => {
+    setTimeout(() => { fermer(); syncCombo(nom); }, 80);
+  });
+
+  vider?.addEventListener("click", () => { choisir(""); input.focus(); });
+}
+
+/* Remet le champ visible en accord avec le <select> qui porte la valeur. */
+function syncCombo(nom) {
+  const select = $(`#${nom}`);
+  const boite = $(`.combo[data-combo="${nom}"]`);
+  if (!select || !boite) return;
+  const input = boite.querySelector(".combo-input");
+  const vider = boite.querySelector(".combo-clear");
+  input.value = select.value || "";
+  if (vider) vider.hidden = !select.value;
+  boite.classList.toggle("chosen", Boolean(select.value));
 }
 
 function buildAxisFilters() {
@@ -887,12 +1045,8 @@ function renderChips(f) {
 
 function resetFilters() {
   $("#q").value = "";
-  for (const sel of ["#country", "#company"]) {
-    const search = $(`${sel}-search`);
-    if (search) search.value = "";
-    renderSelect(sel, "");
-  }
   ["country", "company", "duration", "start-after"].forEach((id) => { $(`#${id}`).value = ""; });
+  for (const nom of ["country", "company"]) syncCombo(nom);
   $("#sort").value = "score";
   $("#sort-top").value = "score";
   $("#minscore").value = 0;
@@ -927,6 +1081,7 @@ function restoreFilters() {
     el.value = val;
   }
   $$('input[name="axis"]').forEach((i) => { i.checked = (f.axes || []).includes(i.value); });
+  for (const nom of ["country", "company"]) syncCombo(nom);
 }
 
 /* ============================ Pondération ============================ */
@@ -1051,6 +1206,7 @@ function excludeCurrentCountry() {
   // Le menu revient sur « Tous » : garder le pays sélectionné ET exclu
   // afficherait une liste vide, ce qui ressemblerait à une panne.
   $("#country").value = "";
+  syncCombo("country");
   savePrefs();
   renderExcludedCountries();
   refilter();

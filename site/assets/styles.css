@@ -1263,28 +1263,119 @@ a { color: var(--oxide); }
 
 /* --- Filtrage des listes déroulantes et pagination — v8 --- */
 
-.option-search {
-  width: 100%;
-  padding: .38rem .5rem;
+/* ============ Listes à suggestions — pays, entreprise (v24) ============
+
+   Le champ et ses propositions sont empilés dans un conteneur positionné :
+   la liste flotte au-dessus du reste du panneau de filtres, sans pousser les
+   champs du dessous vers le bas à chaque frappe. */
+.combo {
+  position: relative;
   margin-bottom: .3rem;
-  font: inherit;
-  font-size: .82rem;
-  color: var(--ink);
-  background: var(--zinc);
-  border: 1px dashed rgba(18, 23, 28, .25);
-  border-radius: 2px;
 }
 
-.option-search::placeholder { color: var(--steel); opacity: .8; }
+.combo-input {
+  width: 100%;
+  padding: .42rem 1.7rem .42rem .5rem;
+  font: inherit;
+  font-size: .86rem;
+  color: var(--ink);
+  background: var(--paper);
+  border: 1px solid rgba(18, 23, 28, .25);
+  border-radius: 2px;
+  -webkit-appearance: none;
+  appearance: none;
+}
 
-.option-search:focus-visible {
+/* Safari dessine sa propre croix dans les champs de recherche : elle
+   doublerait la nôtre, qui, elle, vide aussi le filtre. */
+.combo-input::-webkit-search-cancel-button { -webkit-appearance: none; }
+
+.combo-input::placeholder { color: var(--steel); opacity: .85; }
+
+.combo-input:focus-visible {
   outline: 2px solid var(--oxide);
   outline-offset: 1px;
-  background: var(--paper);
-  border-style: solid;
 }
 
-#country, #company { min-height: 2.1rem; }
+/* Un pays retenu se voit au premier coup d'œil, même panneau replié. */
+.combo.chosen .combo-input {
+  font-weight: 600;
+  border-color: var(--oxide);
+  box-shadow: inset 2px 0 0 var(--oxide);
+}
+
+.combo-clear {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 1.7rem;
+  height: 100%;
+  padding: 0;
+  font-size: 1.05rem;
+  line-height: 1;
+  color: var(--steel);
+  background: none;
+  border: 0;
+  cursor: pointer;
+}
+
+.combo-clear:hover { color: var(--oxide); }
+
+.combo-list {
+  position: absolute;
+  z-index: 40;
+  top: calc(100% + 2px);
+  left: 0;
+  right: 0;
+  max-height: 14rem;
+  margin: 0;
+  padding: 0;
+  overflow-y: auto;
+  list-style: none;
+  background: var(--paper);
+  border: 1px solid rgba(18, 23, 28, .28);
+  border-radius: 2px;
+  box-shadow: 0 6px 18px rgba(18, 23, 28, .16);
+}
+
+.combo-list li {
+  display: flex;
+  gap: .5rem;
+  align-items: baseline;
+  justify-content: space-between;
+  padding: .34rem .5rem;
+  font-size: .84rem;
+  cursor: pointer;
+}
+
+.combo-list li + li { border-top: 1px solid rgba(18, 23, 28, .08); }
+
+.combo-list li.on,
+.combo-list li:hover { background: var(--zinc); }
+
+.combo-list li.on { box-shadow: inset 2px 0 0 var(--oxide); }
+
+/* La portion saisie, soulignée dans la proposition. */
+.combo-list mark {
+  color: var(--oxide);
+  font-weight: 600;
+  background: none;
+}
+
+.combo-count {
+  flex: none;
+  font-size: .74rem;
+  color: var(--steel);
+}
+
+.combo-empty {
+  color: var(--steel);
+  font-size: .78rem;
+  font-style: italic;
+  cursor: default;
+}
+
+.combo-empty:hover { background: none; }
 
 /* Contrôle d'exhaustivité de la collecte — v9 */
 .freshness .complete { color: var(--axis-rd); }

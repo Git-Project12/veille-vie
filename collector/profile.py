@@ -247,5 +247,44 @@ INDUSTRIAL_ANCHORS = [
 # Score maximum d'une offre dépourvue d'ancrage industriel
 ANCHORLESS_CAP = 30
 
+# --- Métiers du numérique appliqués à l'industrie ----------------------
+# Cas différent du précédent : l'offre parle bel et bien de matière, de
+# procédés et d'usine — l'ancrage industriel est légitime — mais le POSTE
+# est un poste de données, d'IA ou d'informatique. L'annonce décrit alors
+# l'atelier parce que les données viennent de l'atelier, pas parce qu'on y
+# travaille.
+#
+# Exemple : « Chargé(e) de projets Data, Digital & IA – Ingénierie Avancée
+# de Fabrication » (Faurecia, Hanovre) atteignait 89/100 en déclenchant dix
+# familles sur emboutissage, soudage, outillage, inspection, statistiques —
+# tous présents, tous hors du métier visé, puisque le profil demandé est
+# « Science des données / Informatique / Intelligence artificielle ».
+#
+# On se fie donc à l'INTITULÉ, seul endroit où l'employeur dit quel métier
+# il recrute. Si l'intitulé annonce un métier du numérique, le score est
+# plafonné : l'offre reste visible et consultable, mais elle ne peut plus
+# être présentée comme cœur de cible.
+DIGITAL_TITLE_TERMS = [
+    # Données
+    "data", "donnees", "big data", "dataviz", "business intelligence",
+    # Intelligence artificielle
+    "ia", "intelligence artificielle", "artificial intelligence",
+    "machine learning", "apprentissage automatique", "deep learning",
+    "vision par ordinateur", "computer vision",
+    # Numérique et systèmes d'information
+    "digital", "digitalisation", "transformation numerique",
+    "informatique", "it", "systemes d'information", "information systems",
+    "erp", "sap", "crm", "cloud", "devops", "cybersecurit",
+    # Développement logiciel
+    "developpeur", "developer", "developpement logiciel", "software",
+    "logiciel", "web", "front-end", "back-end", "fullstack",
+    "application support", "support applicatif",
+]
+
+# Score maximum d'une offre dont l'intitulé annonce un métier du numérique.
+# Fixé juste au niveau « À examiner » : l'offre n'est pas écartée, elle est
+# remise à sa place.
+DIGITAL_ROLE_CAP = 35
+
 # Seuil sous lequel une offre n'est pas retenue dans le site (0-100)
 DEFAULT_THRESHOLD = 25

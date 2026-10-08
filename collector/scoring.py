@@ -17,6 +17,8 @@ import unicodedata
 from profile import (
     ANCHORLESS_CAP,
     AXES,
+    DIGITAL_ROLE_CAP,
+    DIGITAL_TITLE_TERMS,
     INDUSTRIAL_ANCHORS,
     KEYWORD_FAMILIES,
     LEVEL_TERMS,
@@ -161,8 +163,20 @@ def score_offer(offer):
         bonuses.append({
             "label": "Aucun terme industriel : score plafonné",
             "terms": [], "points": ANCHORLESS_CAP - score,
+            "cap": ANCHORLESS_CAP,
         })
         score = ANCHORLESS_CAP
+
+    # Plafonnement des métiers du numérique : l'intitulé dit le métier
+    digital_hits = [t for t in DIGITAL_TITLE_TERMS if _contains(title_n, t)]
+    if digital_hits and score > DIGITAL_ROLE_CAP:
+        bonuses.append({
+            "label": "Intitulé de métier du numérique : score plafonné",
+            "terms": sorted(set(digital_hits))[:3],
+            "points": DIGITAL_ROLE_CAP - score,
+            "cap": DIGITAL_ROLE_CAP,
+        })
+        score = DIGITAL_ROLE_CAP
 
     # Axe dominant, pour le tri et les filtres du site
     dominant = max(axis_scores, key=lambda a: axis_scores[a])

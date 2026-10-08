@@ -88,8 +88,41 @@ Tout se règle dans `collector/profile.py` :
   *pourquoi* une offre ressort (« Métallurgie 1 (280-1) · alliage, acier »).
 - `TITLE_PENALTIES` — les intitulés qui écartent une offre (commercial,
   marketing, RH…). À enrichir au fil des faux positifs constatés.
+- `DIGITAL_TITLE_TERMS` — les intitulés de métiers du numérique (data, IA,
+  informatique, développement). Une offre dont l'intitulé en contient un voit
+  son score plafonné à `DIGITAL_ROLE_CAP`.
+- `INDUSTRIAL_ANCHORS` — le vocabulaire de la matière, de la pièce et du
+  procédé. Une offre qui n'en contient aucun est plafonnée à `ANCHORLESS_CAP`.
 - `DEFAULT_THRESHOLD` — score minimum pour qu'une offre entre dans le fichier.
   Le baisser élargit la collecte, au prix de plus de bruit.
+
+### Les deux garde-fous
+
+Le comptage de mots-clés produit deux sortes de faux positifs, traitées
+séparément.
+
+**L'offre ne parle pas d'industrie du tout.** Elle partage seulement du
+vocabulaire commun — qualité, validation, amélioration continue, Python. Un
+poste de support informatique en salle de marché atteignait ainsi 59/100 en
+déclenchant sept familles. S'il manque tout ancrage industriel
+(`INDUSTRIAL_ANCHORS`), le score est plafonné à 30.
+
+**L'offre parle bien d'industrie, mais le poste est ailleurs.** Cas plus
+sournois : l'annonce décrit l'atelier, l'emboutissage, le soudage, l'outillage
+— et tout est exact — mais le métier recruté est un métier de données ou
+d'IA ; l'atelier n'est là que parce que les données en viennent. Une offre
+« Chargé de projets Data, Digital & IA – Ingénierie Avancée de Fabrication »
+atteignait 89/100 sur dix familles toutes légitimement déclenchées. Le seul
+endroit où l'employeur dit quel métier il recrute est l'intitulé : s'il annonce
+un métier du numérique (`DIGITAL_TITLE_TERMS`), le score est plafonné à 35.
+
+Ces deux plafonds n'écartent pas l'offre, ils la remettent à sa place : elle
+reste consultable, et le dépliant indique le plafond appliqué. Pour contrôler
+l'effet d'une modification sur la collecte en cours, sans rappeler l'API :
+
+```bash
+./.venv/bin/python collector/expliquer.py "Data, Digital" --texte
+```
 
 Le calcul lui-même est dans `collector/scoring.py`. Une famille de mots-clés ne
 rapporte ses points qu'une fois, même répétée : une annonce concise et bien
@@ -115,6 +148,27 @@ score_offer({"title": "VIE Ingénieur Qualité Fournisseur",
 
 Le score compte des mots-clés : il ne remplace pas la lecture de l'annonce. Une
 offre bien rédigée mais courte peut être sous-notée ; l'inverse existe aussi.
+
+## Le dossier `data/`
+
+Il est créé à la première collecte et reçoit :
+
+| Fichier | Contenu |
+|---|---|
+| `offers.json` | les offres collectées et notées, lues par le site |
+| `premieres-detections.json` | la date de première apparition de chaque offre |
+
+**Aucune archive de mise à jour ne contient ce dossier.** Remplacer un dossier
+dans le Finder en efface le contenu : une archive qui embarquerait un `data/`
+même vide écraserait l'historique, et toutes les offres seraient de nouveau
+signalées comme nouvelles. Les archives ne contiennent donc que le code.
+
+L'historique est aussi conservé hors du projet, dans
+`~/.veille-vie/premieres-detections.json` : c'est cette copie qui permet de
+changer de dossier, ou de passer à une nouvelle version, sans que les offres
+déjà connues réapparaissent comme nouvelles.
+
+Les deux fichiers se régénèrent seuls à la prochaine collecte.
 
 ## Portails entreprises
 
