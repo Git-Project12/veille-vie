@@ -15,7 +15,7 @@ const AXIS_LABELS = {
 const AXIS_ORDER = ["rd", "prod", "qual", "calc"];
 let PAGE_STEP = 25;          // ajustable depuis le panneau de filtres
 const PAGE_SIZES = [25, 50, 75, 100];
-const UI_VERSION = "25";   // affiché en pied de page : permet de vérifier
+const UI_VERSION = "26";   // affiché en pied de page : permet de vérifier
                           // quelle version de l'interface est réellement chargée
 const EXPIRY_WINDOW_DAYS = 14;   // seuil de l'onglet « échéances »
 const NEW_WINDOW_HOURS = 24;     // durée pendant laquelle une offre reste « nouvelle »
@@ -214,19 +214,36 @@ function archivePool() {
    relancer quoi que ce soit. */
 function computeScore(offer) {
   const points = { rd: 0, prod: 0, qual: 0, calc: 0 };
-  const max = { rd: 0, prod: 0, qual: 0, calc: 0 };
 
-  for (const fam of DATA.families) max[fam.axis] += weightOf(fam.id);
   for (const hit of offer.matched_families || []) {
     points[hit.axis] += weightOf(hit.id);
   }
 
-  const axisScores = {};
+  const k = DATA.scoring || {};
+
+  /* Référence d'un axe : la somme des poids de ses N familles les plus
+     lourdes — trois signaux forts le portent à 100, quel que soit l'axe.
+     Auparavant on divisait par la somme de TOUTES les familles de l'axe,
+     si bien que l'axe qui en comptait le moins saturait le plus vite.
+     Recalculé ici à partir des poids courants : régler un curseur dans
+     « Pondérer les critères » déplace la référence avec lui. */
+  const nTop = k.axis_top_families || 3;
+  const priorite = k.axis_priority || {};
+  const max = { rd: 0, prod: 0, qual: 0, calc: 0 };
   for (const axis of AXIS_ORDER) {
-    axisScores[axis] = max[axis] ? Math.round(100 * points[axis] / max[axis]) : 0;
+    const poids = DATA.families
+      .filter((f) => f.axis === axis)
+      .map((f) => weightOf(f.id))
+      .sort((a, b) => b - a)
+      .slice(0, nTop);
+    max[axis] = poids.reduce((s, v) => s + v, 0) || 1;
   }
 
-  const k = DATA.scoring || {};
+  const axisScores = {};
+  for (const axis of AXIS_ORDER) {
+    axisScores[axis] = Math.min(100, Math.round(
+      100 * points[axis] / max[axis] * (priorite[axis] ?? 1)));
+  }
   const topW = k.top_weights || [0.6, 0.25];
   const restW = k.rest_weight ?? 0.15;
 

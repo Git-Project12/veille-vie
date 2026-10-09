@@ -129,6 +129,60 @@ rapporte ses points qu'une fois, même répétée : une annonce concise et bien
 ciblée l'emporte sur une annonce bavarde. L'axe dominant pèse 60 % du score, ce
 qui favorise les postes vraiment spécialisés.
 
+### D'où viennent les poids
+
+Les poids des familles sont calés sur les **volumes horaires réels du
+programme** (colonnes Cours + TD + TP), puis majorés pour les sujets visés en
+priorité. Chaque famille porte ses heures d'origine dans son champ `source`,
+pour qu'un futur ajustement parte des faits.
+
+| Axe | Heures | Part du technique |
+|---|---:|---:|
+| R&D matériaux / labo | 359 h | 34 % |
+| Calcul / simulation / CAO | 362 h | 34 % |
+| Production / méthodes | 220 h | 21 % |
+| Qualité / contrôle / END | 99 h | 9 % |
+
+Deux constats qui ont motivé la refonte : *Qualité et normes* (774-1) est un
+module de 14 h au coefficient 0,5, alors qu'il portait un poids de 10 — le
+deuxième du référentiel. Et *Dégradation des matériaux* (300-2), 55 h, le plus
+gros module du cursus, en portait 9.
+
+### Référence par axe, et priorités
+
+Chaque axe est ramené sur la somme des poids de ses **trois familles les plus
+lourdes** (`AXIS_TOP_FAMILIES`) : trois signaux forts portent n'importe quel axe
+à 100, et l'exigence de preuve est la même partout.
+
+Auparavant chaque axe était divisé par la somme de *toutes* ses familles. L'axe
+Qualité n'en comptant que quatre contre sept pour la R&D, il saturait deux fois
+plus vite : deux familles déclenchées donnaient 33/100 en R&D mais 56/100 en
+Qualité. Comme l'axe dominant pèse 60 % de la note, la Qualité gagnait par
+construction — elle ressortait dominante sur **283 des 463 offres collectées**,
+contre 15 pour la R&D.
+
+S'ajoute un facteur `priority` par axe (dans `AXES`) : les domaines visés en
+premier gardent toute leur valeur, les autres sont minorés. Une excellente offre
+dans un domaine secondaire ne peut donc pas devancer une bonne offre dans un
+domaine prioritaire.
+
+### Vocabulaire courant
+
+Les termes trop fréquents pour prouver quoi que ce soit sont regroupés dans des
+familles « vocabulaire courant » à poids faible (`prod7`, `qual5`, `rd9`), au
+lieu de gonfler les familles de métier. Le seuil retenu est **8 % des offres
+collectées** : « engineering » apparaît dans 35 % d'entre elles, « qualité »
+dans 36 %, « standards » et « validation » dans 20 %.
+
+### Le troisième garde-fou : la formation exigée
+
+`FIELD_ACCEPTED` et `FIELD_FOREIGN` lisent le **profil recherché**, seul endroit
+où l'employeur nomme lui-même la formation qu'il cherche. Si le profil nomme au
+moins une discipline étrangère **et aucune discipline acceptée**, le score est
+plafonné à `FOREIGN_FIELD_CAP`. Nommer une discipline acceptée suffit à passer :
+une annonce ouverte à plusieurs cursus ne doit pas être écartée parce qu'elle en
+cite un autre à côté.
+
 Après modification, vérifier l'effet sans appeler l'API :
 
 ```python

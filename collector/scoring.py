@@ -11,14 +11,19 @@ Le score final est ramené sur 100, avec le détail par axe (R&D, Production,
 Qualité, Calcul) pour alimenter la barre de composition affichée sur le site.
 """
 
+import math
 import re
 import unicodedata
 
 from profile import (
     ANCHORLESS_CAP,
     AXES,
+    AXIS_TOP_FAMILIES,
     DIGITAL_ROLE_CAP,
     DIGITAL_TITLE_TERMS,
+    FIELD_ACCEPTED,
+    FIELD_FOREIGN,
+    FOREIGN_FIELD_CAP,
     INDUSTRIAL_ANCHORS,
     KEYWORD_FAMILIES,
     LEVEL_TERMS,
@@ -27,10 +32,13 @@ from profile import (
     TITLE_PENALTIES,
 )
 
-# Points cumulables au maximum par axe avant normalisation.
-# Calculé dynamiquement : somme des poids des familles de l'axe.
-AXIS_MAX = {
-    axis: sum(f["weight"] for f in KEYWORD_FAMILIES if f["axis"] == axis)
+# Référence de chaque axe : la somme des poids de ses trois familles les
+# plus lourdes. Trois signaux forts suffisent donc à porter n'importe quel
+# axe à 100 — l'exigence de preuve est identique partout, alors qu'elle
+# dépendait auparavant du nombre de familles que l'axe comptait.
+AXIS_REFERENCE = {
+    axis: sum(sorted((f["weight"] for f in KEYWORD_FAMILIES if f["axis"] == axis),
+                     reverse=True)[:AXIS_TOP_FAMILIES]) or 1
     for axis in AXES
 }
 
@@ -53,6 +61,19 @@ def normalize(text):
 # Cache des expressions compilées : le référentiel est parcouru des centaines
 # de fois par collecte.
 _PATTERNS = {}
+
+
+def _round(valeur):
+    """
+    Arrondi à l'entier le plus proche, les demis vers le haut.
+
+    `round()` de Python arrondit 58,5 vers le pair, soit 58, là où le
+    Math.round() du navigateur donne 59. Le site recalcule les scores pour
+    appliquer les pondérations choisies par l'utilisateur : sans cette
+    fonction, une poignée d'offres affichaient un point d'écart avec le
+    fichier produit par le collecteur.
+    """
+    return math.floor(valeur + 0.5)
 
 
 def _contains(haystack, term):
@@ -105,9 +126,12 @@ def score_offer(offer):
                 "terms": sorted(set(hits))[:4],
             })
 
-    # Normalisation par axe (0-100)
+    # Normalisation par axe (0-100) sur une référence commune, puis
+    # application de la priorité : un axe secondaire ne peut pas atteindre
+    # le même sommet qu'un axe visé en premier, si bonne que soit l'offre.
     axis_scores = {
-        axis: round(100 * axis_points[axis] / AXIS_MAX[axis]) if AXIS_MAX[axis] else 0
+        axis: min(100, _round(100 * axis_points[axis] / AXIS_REFERENCE[axis]
+                              * AXES[axis].get("priority", 1.0)))
         for axis in AXES
     }
 
@@ -155,7 +179,7 @@ def score_offer(offer):
                         "terms": sorted(set(penalty_hits))[:3],
                         "points": TITLE_PENALTIES["weight"]})
 
-    score = max(0, min(100, round(score)))
+    score = max(0, min(100, _round(score)))
 
     # Plafonnement en l'absence d'ancrage industriel
     anchors = [t for t in INDUSTRIAL_ANCHORS if _contains(body_n, t)]
@@ -177,6 +201,20 @@ def score_offer(offer):
             "cap": DIGITAL_ROLE_CAP,
         })
         score = DIGITAL_ROLE_CAP
+
+    # Plafonnement si l'employeur exige une autre discipline
+    profile_n = normalize(offer.get("profile", ""))
+    if profile_n:
+        foreign = [t for t in FIELD_FOREIGN if _contains(profile_n, t)]
+        accepted = [t for t in FIELD_ACCEPTED if _contains(profile_n, t)]
+        if foreign and not accepted and score > FOREIGN_FIELD_CAP:
+            bonuses.append({
+                "label": "Formation exigée hors cursus : score plafonné",
+                "terms": sorted(set(foreign))[:3],
+                "points": FOREIGN_FIELD_CAP - score,
+                "cap": FOREIGN_FIELD_CAP,
+            })
+            score = FOREIGN_FIELD_CAP
 
     # Axe dominant, pour le tri et les filtres du site
     dominant = max(axis_scores, key=lambda a: axis_scores[a])
@@ -224,6 +262,8 @@ def scoring_constants():
     return {
         "top_weights": [0.60, 0.25],
         "rest_weight": 0.15,
+        "axis_top_families": AXIS_TOP_FAMILIES,
+        "axis_priority": {a: AXES[a].get("priority", 1.0) for a in AXES},
         "title_bonus": TITLE_BONUSES["weight"],
         "sector_bonus": SECTOR_BONUS["weight"],
         "level_bonus": 4,
