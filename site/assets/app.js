@@ -15,7 +15,7 @@ const AXIS_LABELS = {
 const AXIS_ORDER = ["rd", "prod", "qual", "calc"];
 let PAGE_STEP = 25;          // ajustable depuis le panneau de filtres
 const PAGE_SIZES = [25, 50, 75, 100];
-const UI_VERSION = "26";   // affiché en pied de page : permet de vérifier
+const UI_VERSION = "27";   // affiché en pied de page : permet de vérifier
                           // quelle version de l'interface est réellement chargée
 const EXPIRY_WINDOW_DAYS = 14;   // seuil de l'onglet « échéances »
 const NEW_WINDOW_HOURS = 24;     // durée pendant laquelle une offre reste « nouvelle »
@@ -118,7 +118,10 @@ function afficherMasquees() {
 
 /* Retire les offres écartées, sauf quand on demande à les voir. */
 function sansMasquees(liste) {
-  return afficherMasquees() ? liste : liste.filter((o) => !isHidden(o.id));
+  // L'onglet Écartées n'existe que pour montrer ces offres : les en retirer
+  // le viderait systématiquement.
+  if (currentTab === "hidden" || afficherMasquees()) return liste;
+  return liste.filter((o) => !isHidden(o.id));
 }
 
 /* Une offre retirée de Business France disparaît de la collecte suivante.
@@ -550,6 +553,9 @@ function bindEvents() {
     tab.addEventListener("click", () => {
       currentTab = tab.dataset.tab;
       $$(".tab").forEach((t) => t.setAttribute("aria-selected", String(t === tab)));
+      // L'onglet courant est publié sur <body> : la feuille de style s'en
+      // sert pour ne pas estomper les offres écartées dans leur propre onglet.
+      document.body.dataset.tab = currentTab;
       refilter();
     });
   });
@@ -658,7 +664,8 @@ function onListClick(e) {
     e.stopPropagation();
     toggleFavorite(fav.dataset.id);
     updateTabCounts();
-    if (currentTab === "fav" || currentTab === "reco" || currentTab === "archive") apply();
+    if (currentTab === "fav" || currentTab === "reco" ||
+        currentTab === "archive" || currentTab === "hidden") apply();
     else {
       fav.classList.toggle("on", isFavorite(fav.dataset.id));
       fav.setAttribute("aria-pressed", String(isFavorite(fav.dataset.id)));
@@ -928,6 +935,8 @@ function tabPool() {
       return DATA.offers.filter(isNewOffer);
     case "archive":
       return archivePool();
+    case "hidden":
+      return DATA.offers.filter((o) => isHidden(o.id));
     case "track":
       return DATA.offers.filter((o) => PREFS.tracking[o.id]?.status);
     case "reco":
@@ -1278,6 +1287,7 @@ function updateTabCounts() {
     new: vues.filter(isNewOffer).length,
     track: Object.values(PREFS.tracking).filter((t) => t.status).length,
     archive: Object.keys(PREFS.archive).length,
+    hidden: PREFS.hidden.length,
   };
   for (const [tab, n] of Object.entries(counts)) {
     const el = $(`.tab[data-tab="${tab}"] .tab-count`);
@@ -1337,6 +1347,8 @@ const EMPTY_MESSAGES = {
             "Chaque offre mise en favori est automatiquement copiée ici : intitulé, entreprise, lieu, score et profil restent consultables même après le retrait de l'annonce."],
   track: ["Aucune candidature suivie",
           "Déplie une offre et choisis un statut : elle apparaîtra ici, avec tes notes."],
+  hidden: ["Aucune offre écartée",
+           "Les offres que tu écartes avec « ✕ Écarter » viennent ici. Rien n'est supprimé : un clic sur « Remettre dans la liste » les ramène où elles étaient, favoris et notes intacts."],
 };
 
 function render() {
@@ -1451,16 +1463,16 @@ function card(o) {
           ${badges.length ? `<p class="badges">${badges.join("")}</p>` : ""}
           <h3>${escapeHtml(o.title)}</h3>
           <p class="meta">${meta}</p>
+          <button type="button" class="hide-btn${isHidden(o.id) ? " on" : ""}"
+                  data-id="${escapeHtml(o.id)}"
+                  title="${isHidden(o.id) ? "Remettre cette offre dans la liste" : "Écarter cette offre des résultats"}"
+          >${isHidden(o.id) ? "↩ Remettre dans la liste" : "✕ Écarter"}</button>
         </div>
         <div class="gauge">
           <span class="gauge-actions">
             <button type="button" class="fav-btn ${isFavorite(o.id) ? "on" : ""}"
                     data-id="${escapeHtml(o.id)}" aria-pressed="${isFavorite(o.id)}"
                     title="Mettre en favori">★</button>
-            <button type="button" class="hide-btn" data-id="${escapeHtml(o.id)}"
-                    title="${isHidden(o.id) ? "Remettre dans la liste" : "Écarter cette offre"}"
-                    aria-label="${isHidden(o.id) ? "Remettre dans la liste" : "Écarter cette offre"}"
-            >${isHidden(o.id) ? "↩" : "✕"}</button>
           </span>
           <b>${o.score}</b>
           <span>${escapeHtml(o.label || "")}${info(scoreHelp(o))}</span>

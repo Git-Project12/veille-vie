@@ -1501,18 +1501,45 @@ a { color: var(--oxide); }
   margin-bottom: .1rem;
 }
 
+/* La croix « écarter » était collée à l'étoile « favori », en haut à droite :
+   deux gestes opposés à quelques pixels l'un de l'autre, et un clic manqué
+   faisait disparaître une offre qu'on voulait garder.
+
+   Elle est donc devenue un bouton nommé, en bas à gauche de l'en-tête —
+   soit le coin diagonalement opposé à l'étoile — et dit ce qu'il fait au
+   lieu de s'en remettre à un symbole. L'onglet Écartées rattrape de toute
+   façon les erreurs. */
 .hide-btn {
-  font-size: .82rem;
+  display: inline-flex;
+  align-items: center;
+  gap: .3rem;
+  margin-top: .5rem;
+  padding: .2rem .5rem;
+  font: inherit;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: .68rem;
+  letter-spacing: .04em;
+  text-transform: uppercase;
   line-height: 1;
+  color: var(--steel);
   background: none;
-  border: 0;
+  border: 1px solid rgba(18, 23, 28, .18);
+  border-radius: 2px;
   cursor: pointer;
-  color: var(--zinc-deep);
-  padding: 0 0 .15rem;
-  transition: color .15s ease, transform .15s ease;
+  transition: color .15s ease, border-color .15s ease, background .15s ease;
 }
 
-.hide-btn:hover { color: var(--steel); transform: scale(1.15); }
+.hide-btn:hover {
+  color: var(--oxide);
+  border-color: var(--oxide);
+  background: var(--zinc);
+}
+
+.hide-btn.on {
+  color: var(--oxide);
+  border-color: var(--oxide);
+  border-style: dashed;
+}
 
 /* Une offre écartée reste lisible mais s'efface visuellement : on la voit
    seulement quand on a demandé à les afficher. */
@@ -1522,7 +1549,10 @@ a { color: var(--oxide); }
 }
 
 .offer.ecartee:hover { opacity: .8; }
-.offer.ecartee .hide-btn { color: var(--oxide); }
+
+/* Dans l'onglet Écartées, ces offres sont le sujet : pas de raison de les
+   estomper comme lorsqu'elles se glissent au milieu des autres. */
+body[data-tab="hidden"] .offer.ecartee { opacity: 1; }
 
 /* Interrupteur de réaffichage */
 .show-hidden {
