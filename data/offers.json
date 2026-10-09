@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-09T13:36:41+00:00",
+ "generated_at": "2026-10-09T14:34:11+00:00",
  "source": "Business France — mon-vie-via.businessfrance.fr",
- "total_scanned": 831,
- "total_announced": 831,
- "total_kept": 368,
+ "total_scanned": 837,
+ "total_announced": 839,
+ "total_kept": 369,
  "threshold": 25,
  "axes": {
   "rd": {
@@ -5049,7 +5049,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-10T08:20:34Z",
    "sector": "",
-   "specialization": "63, 77, 109, 114, 125, 207, 262, 264",
+   "specialization": "[\"63\",\"77\",\"109\",\"114\",\"125\",\"207\",\"262\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6949,7 +6949,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T12:11:54Z",
    "sector": "",
-   "specialization": "64",
+   "specialization": "[\"64\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9886,7 +9886,7 @@
    "expiry_date": "",
    "publish_date": "2025-11-19T10:45:12Z",
    "sector": "",
-   "specialization": "77, 149, 207",
+   "specialization": "[\"77\",\"149\",\"207\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -11933,7 +11933,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-28T13:10:22Z",
    "sector": "",
-   "specialization": "262",
+   "specialization": "[\"262\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20028,7 +20028,7 @@
    "expiry_date": "",
    "publish_date": "2025-11-19T10:45:12Z",
    "sector": "",
-   "specialization": "71, 73, 224",
+   "specialization": "[\"71\",\"73\",\"224\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21638,6 +21638,129 @@
      "label": "Aucun terme industriel : score plafonné",
      "terms": [],
      "points": -18,
+     "cap": 30
+    }
+   ]
+  },
+  {
+   "id": "246891",
+   "title": "Services Quality and Improvement (H/F)",
+   "company": "ALSTOM TRANSPORT SA",
+   "country": "ROYAUME-UNI",
+   "city": "LONDRES",
+   "description": "ake on a new challenge and develop your quality management, supplier and project quality, and continuous improvement expertise in a cutting-edge services environment.\n\nAs a VIE within the Services Quality team, you will support the deployment and continuous improvement of Quality processes across Services activities. You will work in close collaboration with Project Management, Procurement, Supply Chain, Operations, Engineering and cross-functional teams to help ensure compliance with internal standards, customer expectations and external quality requirements.\n\nYou’ll contribute to improving Quality performance by supporting Quality Management System deployment, supplier performance follow-up, non-conformity management, audit preparation, documentation management and problem-solving activities.\n\nWe’ll look to you for:\nDeploy transverse improvement missions (within and outside Quality), animate company-wide initiatives and ensure sound performance management in all métiers in compliance with centrally-defined governance and guidelines\nPromote Quality culture through communication, training, knowledge sharing and capability-building initiatives.\nDevelop and deploy digital solutions, including AI agents, Power Apps, dashboards and automation tools, to enhance Quality process efficiency, data-driven decision-making and knowledge sharing across Services.\nSupport continuous improvement programmes through data analysis, reporting, lessons learned, standardised methodologies and process optimisation.\nContribute to audit preparation and follow-up activities.\nDrive problem-solving, root cause analysis and corrective/preventive action initiatives.\nSupport the management of non-conformities and improvement action plans across Services activities.\nContribute to supplier and subcontractor quality performance improvement.\nAssist in the deployment and standardisation of Quality processes, control plans, inspection requirements and best practices with focus on Special Processes.",
+   "mission": "",
+   "profile": "All about you\nWe value passion and attitude over experience. That’s why we don’t expect you to have every single skill. Instead, we’ve listed some that we think will help you succeed and grow in this role:\n\nPreferred qualifications and skills:\n\nDegree or equivalent in Engineering, (Quality Management, Industrial Management, Operations, , Electromechanical, Materials), Physics or a related field.\nUnderstanding of quality tools, problem-solving methods, audits, KPIs and continuous improvement practices would be appreciated.\nInterest in the railway, transportation, industrial or automotive environment.\nAnalytical and data-driven mindset.\nStrong problem-solving skills.\nGood communication and teamwork abilities.\nCuriosity, autonomy and willingness to learn.\nProficiency with Microsoft Office tools; experience with data mining tools ERP systems or digital reporting tools would be a plus.\nFluent English.\nThings you’ll enjoy\nJoin us on our transformative journey – the rail industry is here to stay, so you can grow and develop new skills and experiences. You’ll also:\n\nDevelop technical and professional skills in a global environment.\nGain hands-on experience in Quality, Supplier and Project Quality and industrial processes.\nContribute to innovative projects that support greener and smarter mobility.\nSteer your career in whatever direction you choose across functions and countries.\n\nYou don’t need to be a train enthusiast to thrive with us. We guarantee that when you step onto one of our trains with your friends or family, you’ll be proud. If you’re up for the challenge, we’d love to hear from you!\n\nImportant to note\n\nAs a global business, we’re an equal-opportunity employer that celebrates diversity across the 63 countries we operate in. We’re committed to creating an inclusive workplace for everyone.",
+   "duration": 12,
+   "start_date": "2027-02-01T00:00:00",
+   "end_date": "2028-02-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-09T11:59:42Z",
+   "sector": "",
+   "specialization": "[\"209\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-09T11:59:42Z",
+    "missionStartDate": "2027-02-01T00:00:00",
+    "missionEndDate": "2028-02-01T00:00:00",
+    "startBroadcastDate": "2026-10-09T00:00:00",
+    "endBroadcastDate": "2026-11-08T00:00:00"
+   },
+   "summary": "ake on a new challenge and develop your quality management, supplier and project quality, and continuous improvement expertise in a cutting-edge services environment.\n\nAs a VIE within the Services Quality team, you will support the deployment and continuous improvement of Quality processes across Services activities. You will work in close collaboration with Project Management, Procurement, Supply Chain, Operations, Engineering and cross-functional teams to help ensure compliance with internal standards, customer expectations and external quality requirements.\n\nYou’ll contribute to improving Quality performance by supporting Quality Management System deployment, supplier performance follow-up, non-conformity management, audit preparation, documentation management and problem-solving activities. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/246891",
+   "score": 30,
+   "label": "Périphérique",
+   "first_seen": "2026-10-09T14:33:54+00:00",
+   "axis_scores": {
+    "rd": 9,
+    "prod": 34,
+    "qual": 34,
+    "calc": 9
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "calc4",
+     "axis": "calc",
+     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
+     "weight": 4,
+     "terms": [
+      "automation",
+      "data analysis"
+     ]
+    },
+    {
+     "id": "prod6",
+     "axis": "prod",
+     "source": "Outils et moyens de fabrication (259-1, 30 h)",
+     "weight": 7,
+     "terms": [
+      "cutting"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "continuous improvement",
+      "engineering"
+     ]
+    },
+    {
+     "id": "qual3",
+     "axis": "qual",
+     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
+     "weight": 7,
+     "terms": [
+      "capability"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "audit",
+      "compliance",
+      "inspection",
+      "quality"
+     ]
+    },
+    {
+     "id": "rd9",
+     "axis": "rd",
+     "source": "Vocabulaire de laboratoire courant",
+     "weight": 3,
+     "terms": [
+      "problem solving"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "quality"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "automotive",
+      "industrial",
+      "rail"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Aucun terme industriel : score plafonné",
+     "terms": [],
+     "points": -19,
      "cap": 30
     }
    ]
@@ -24069,7 +24192,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-21T09:47:43Z",
    "sector": "",
-   "specialization": "66, 71, 143",
+   "specialization": "[\"66\",\"71\",\"143\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25911,6 +26034,93 @@
    ]
   },
   {
+   "id": "246853",
+   "title": "INGENIEUR QUALITE CHANTIER (H/F)",
+   "company": "HITACHI ENERGY FRANCE",
+   "country": "ITALIE",
+   "city": "CODRONGIANOS",
+   "description": "Poste et missions:\n\nNous sommes convaincus que la technologie HVDC (ou CCHT : courant continu à haute tension), qui permet de transférer de l'énergie à l'aide de courant continu à haute tension, est une solution durable à long terme. Cette technologie est utilisée pour le transport d'énergie sur de longues distances et pour connecter les réseaux électriques avec des pertes minimales. Outre le transfert d'énergie, la technologie HVDC atténue également les problèmes de qualité de l'électricité et peut contribuer à la stabilisation des réseaux électriques connectés. Pour l'énergie éolienne offshore ou les transmissions sous marines sur de longues distances, le courant continu est la seule alternative réaliste pour le transport de l'énergie. \n\nLes Ingénieurs Qualité sont un maillon essentiel de l’organisation du site. Ils viennent en support de l’équipe construction et du responsable de chantier. \nL’ingénieur qualité est en interface avec l’ensemble des disciplines sur le chantier. Il s’assure de la correcte définition et implémentation du système qualité durant l’exécution du chantier. \nLes activités associées à la qualité chantier comprennent: La mise en place des plans d’assurance qualité chantier, la revue de contrat, la gestion et le suivi des plans de contrôle qualité associés à l’ensemble des activités de construction, la gestion et le suivi des non-conformités, la gestion et le suivi des listes de réserves, la coordination de la documentation finale, le suivi des inspections clients associés aux plans de contrôle qualité, le suivi des activités de complétion.\n\nPrincipaux domaines de responsabilité : \n \nL'équipe qualité chantier est une équipe mondiale relevant de la division Qualité HVDC. \nL'équipe est composée d'ingénieurs qualités multiculturels et ayant une expertise multidisciplinaire. \nEn tant qu'ingénieur qualité chantier, vous participerez à l’implémentation et au suivi du système qualité sur l’un de nos chantiers. \nVous aurez une interface directe avec nos clients, sous-traitants et partenaires. \nVous aurez l'occasion de développer votre expertise en technologie HVDC, de participer à certains des projets les plus intéressants dans le domaine de l'énergie et de voyager à travers le monde.\n\nLieux : Présence 100% sur le site de Codrongianos - Sardaigne\n\nDurée de la mission VIE : nous sommes flexibles pour une durée de 12 à 24 mois. A convenir avec le candidat sélectionné. \n\nVos responsabilités :\nEn tant qu'ingénieur qualité, vous interviendrez en tant que responsable qualité chantier. \nVous effectuerez les activités de suivi des plans de contrôle qualités de nos sous-traitants et partenaires. \n\nLe rôle comprendra : \n• Suivi des enregistrements de contrôle qualité durant les activités de construction et mise en service. \n• Suivi des certificats de conformités associés aux activités de complétion. \n• Suivi des non-conformités et des listes de réserves. \n• Suivi de la documentation finale de construction. \n• Suivi des inspections clients sur chantier \n• Visite chez nos fournisseurs \n• Suivi des activités de réceptions et stockage et préservation de nos équipements. \n\nUne partie de votre travail quotidien consistera à coordonner vos tâches avec les autres membres de l'équipe, à assurer la liaison avec d'autres départements, des fournisseurs/entrepreneurs externes et des clients. \n\nChez Hitachi Energy, vous disposerez d'un vaste réseau mondial et vous ferez partie d'un environnement de travail stimulant qui offre de nombreuses possibilités d'évolution professionnelle.",
+   "mission": "",
+   "profile": "Vos qualifications et votre parcours professionnel :\n\n• Diplômes requis : diplôme d’ingénieur \nVotre intérêt pour les projets complexes, internationaux en lien avec l’énergie jouera un rôle important dans votre succès à ce poste. \n\n• Qualités requises : \no Excellentes aptitudes au travail en équipe sont indispensables. \no Vous devez être une personne qui apporte beaucoup d'énergie au groupe et qui possède une capacité naturelle à entrer en contact et à interagir avec les gens et qui est enthousiaste à l’idée de travailler sur des sites et de voyager à l’échelle mondiale. \no Vous devez être une personne curieuse et motivée.\n\n• Anglais : courant (obligatoire) \n• Italien : courant (obligatoire) \n• Français : courant (obligatoire) \n\n• Le VIE est un tremplin vers l’emploi au sein d’Hitachi Energy. Le marché de la Transmission d’Energie connait une croissance telle que nous recrutons continuellement des profils très variés d’Ingénieurs de Projets Techniques, Ingénieurs de construction, Ingénieur de mise en service, Ingénieurs pilotes d’interfaces projets, Chefs de Projet…",
+   "duration": 12,
+   "start_date": "2026-12-01T00:00:00",
+   "end_date": "2027-12-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-08T13:35:27Z",
+   "sector": "",
+   "specialization": "[\"65\",\"66\",\"68\",\"71\",\"153\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-08T13:35:27Z",
+    "missionStartDate": "2026-12-01T00:00:00",
+    "missionEndDate": "2027-12-01T00:00:00",
+    "startBroadcastDate": "2026-10-09T00:00:00",
+    "endBroadcastDate": "2026-11-08T00:00:00"
+   },
+   "summary": "Poste et missions:\n\nNous sommes convaincus que la technologie HVDC (ou CCHT : courant continu à haute tension), qui permet de transférer de l'énergie à l'aide de courant continu à haute tension, est une solution durable à long terme. Cette technologie est utilisée pour le transport d'énergie sur de longues distances et pour connecter les réseaux électriques avec des pertes minimales. Outre le transfert d'énergie, la technologie HVDC atténue également les problèmes de qualité de l'électricité et peut contribuer à la stabilisation des réseaux électriques connectés. Pour l'énergie éolienne offshore ou les transmissions sous marines sur de longues distances, le courant continu est la seule alternative réaliste pour le transport de l'énergie. \n\nLes Ingénieurs Qualité sont un maillon essentiel de l’organisation du site. Ils viennent en support de l’équipe construction et du responsable de chantier. \nL’ingénieur qualité est en interface avec l’ensemble des disciplines sur le chantier. Il s’assure de la correcte définition et implémentation du système qualité durant l’exécution du chantier. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/246853",
+   "score": 30,
+   "label": "Périphérique",
+   "first_seen": "2026-10-09T14:33:54+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 0,
+    "qual": 23,
+    "calc": 0
+   },
+   "dominant_axis": "qual",
+   "matched_families": [
+    {
+     "id": "qual2",
+     "axis": "qual",
+     "source": "Qualité et normes (774-1, 14 h, coefficient 0,5)",
+     "weight": 4,
+     "terms": [
+      "assurance qualite"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "qualite"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "ingenieur",
+      "qualite"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "energie",
+      "energy"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    },
+    {
+     "label": "Aucun terme industriel : score plafonné",
+     "terms": [],
+     "points": -7,
+     "cap": 30
+    }
+   ]
+  },
+  {
    "id": "244167",
    "title": "Supplier Quality Engineer (H/F)",
    "company": "HUTCHINSON",
@@ -26494,112 +26704,6 @@
      "label": "Aucun terme industriel : score plafonné",
      "terms": [],
      "points": -2,
-     "cap": 30
-    }
-   ]
-  },
-  {
-   "id": "246284",
-   "title": "Ingénieur(e) en logiciels de simulation R&D (H/F)",
-   "company": "NAVAL GROUP",
-   "country": "AUSTRALIE",
-   "city": "ADELAIDE",
-   "description": "IRL Crossing est un laboratoire international du CNRS en collaboration avec des universités australiennes, IMT atlantique et Naval Group. Il est situé à Adélaïde, à l'intérieur de l'université.\r\nIl étudie les interactions entre systèmes autonomes, facteurs humains et intelligence artificielle.\r\nNaval Group est un leader mondial de la défense navale. Le groupe conçoit, produit et assure le support des sous-marins et des navires de surface. Il fournit également des services pour les chantiers navals et les bases navales. \r\n \r\nÀ propos du projet\r\nLOTUSim est la plateforme de simulation maritime multi-agents open source de Naval Group. Reposant sur Gazebo, ROS2 et l’intégration physique xdyn, elle permet la modélisation de véhicules autonomes de surface et sous-marins (USV, UUV, ROV), de capteurs sonar et de scénarios multi-agents pour des applications de R&D navale.\r\nLOTUSim est activement utilisé par des doctorants et des partenaires en France et en Australie.\r\n \r\nVos missions\r\nAu sein de l’équipe de développement de LOTUSim, vous serez amené(e) à :\r\n-          Servir d’interface locale entre l’équipe de Naval Group France et l’IRL, en veillant à ce que les attentes du chef de projet soient bien prises en compte sur place.\r\n-          Contribuer au développement et à l’intégration de modules de simulation (modélisation de plateformes, plugins de capteurs, scénarios multi-agents) au sein de la pile ROS2/Gazebo/xdyn\r\n-          Implémenter et tester de nouvelles fonctionnalités en Python et C++, en suivant les meilleures pratiques en matière d’ingénierie logicielle open source\r\n-          Rédiger la documentation technique et les tests unitaires pour les fonctionnalités que vous livrez\r\n-          Participer aux revues techniques, à la planification des sprints et aux réunions d’équipe\r\n-          Collaborer avec des doctorants et des contributeurs externes utilisant LOTUSim à des fins de recherche\r\n-          Assurer la liaison avec les autres entités et filiales de Naval Group impliquées dans le projet\r\n\nLes entretiens de recrutement vous permettront d’échanger avec le manager du pôle et ainsi d’en apprendre davantage sur l’ensemble de vos missions.",
-   "mission": "",
-   "profile": "ET VOUS?\n \n- Votre formation :\nVous êtes titulaire d'un diplôme d’ingénieur ou équivalent et disposez idéalement d'une première expérience en informatique, robotique, simulation ou systèmes autonomes.\n \n- Vos compétences :\n-          Solides compétences en programmation en Python et/ou C++\n-          Expérience des environnements Linux/Unix\n-          Maîtrise des systèmes de contrôle de version (Git)\n \n- Vous connaissez / Vous maîtrisez :\n-          Expérience avec ROS et/ou Gazebo\n-          Connaissances en robotique ou en frameworks de simulation\n-          Expérience avec Unreal Engine ou Unity\n \n- Vous êtes à l’aise pour :\n-          Travailler dans un environnement international et pluridisciplinaire\n-          Maîtriser l'anglais à un niveau professionnel (écrit et oral) \n\nRejoignez nos équipes et construisez le naval de demain !\n\nNOTRE PROCESSUS DE RECRUTEMENT\nAprès réception de votre CV, si votre profil retient notre attention, l'un de nos recruteurs vous contactera pour un entretien téléphonique.\nÀ l'issue de ce premier échange, vous pourrez être contacté(e) pour passer un entretien (physique ou visioconférence) avec le manager du service concerné et/ou notre HR Business Partner.\nEnfin, dès que nous aurons fait notre choix final, vous en serez informé(e) dans les plus brefs délais.\n Dans le cadre de ce recrutement, l’accès au site donne lieu à une enquête administrative de sécurité.",
-   "duration": 24,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2029-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-22T14:50:42Z",
-   "sector": "",
-   "specialization": "[\"213\"]",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-22T14:50:42Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2029-01-01T00:00:00",
-    "startBroadcastDate": "2026-09-22T00:00:00",
-    "endBroadcastDate": "2026-10-22T00:00:00"
-   },
-   "summary": "IRL Crossing est un laboratoire international du CNRS en collaboration avec des universités australiennes, IMT atlantique et Naval Group. Il est situé à Adélaïde, à l'intérieur de l'université.\r\nIl étudie les interactions entre systèmes autonomes, facteurs humains et intelligence artificielle.\r\nNaval Group est un leader mondial de la défense navale. Le groupe conçoit, produit et assure le support des sous-marins et des navires de surface. Il fournit également des services pour les chantiers navals et les bases navales. \r\n \r\nÀ propos du projet\r\nLOTUSim est la plateforme de simulation maritime multi-agents open source de Naval Group. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246284",
-   "score": 30,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 10,
-    "qual": 0,
-    "calc": 36
-   },
-   "dominant_axis": "calc",
-   "matched_families": [
-    {
-     "id": "calc1",
-     "axis": "calc",
-     "source": "Éléments finis (256-1, 24 h), TP simulation numérique (272-1, 285-5, 285-4, 63 h), Calculs numériques de mise en forme (277-1, 286-1, 50 h)",
-     "weight": 12,
-     "terms": [
-      "modelisation"
-     ]
-    },
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
-     "weight": 4,
-     "terms": [
-      "python"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "ingenierie"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "laboratoire",
-      "r&d"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur",
-      "r&d"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "defense",
-      "naval"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Aucun terme industriel : score plafonné",
-     "terms": [],
-     "points": -18,
      "cap": 30
     }
    ]
@@ -33513,7 +33617,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-28T15:24:33Z",
    "sector": "",
-   "specialization": "29, 130, 213, 251, 262, 327, 329, 330",
+   "specialization": "[\"29\",\"130\",\"213\",\"251\",\"262\",\"327\",\"329\",\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34202,7 +34306,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-15T08:23:50Z",
    "sector": "",
-   "specialization": "251",
+   "specialization": "[\"251\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35590,7 +35694,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T11:31:02Z",
    "sector": "",
-   "specialization": "259",
+   "specialization": "[\"259\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
