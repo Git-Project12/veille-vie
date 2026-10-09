@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-09T12:17:30+00:00",
+ "generated_at": "2026-10-09T13:15:22+00:00",
  "source": "Business France — mon-vie-via.businessfrance.fr",
- "total_scanned": 830,
- "total_announced": 830,
- "total_kept": 464,
+ "total_scanned": 831,
+ "total_announced": 831,
+ "total_kept": 465,
  "threshold": 25,
  "axes": {
   "rd": {
@@ -4405,7 +4405,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T13:56:59Z",
    "sector": "",
-   "specialization": "256",
+   "specialization": "[\"256\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6357,7 +6357,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T07:35:28Z",
    "sector": "",
-   "specialization": "155, 208, 209",
+   "specialization": "[\"155\",\"208\",\"209\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -16159,7 +16159,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-04T13:32:39Z",
    "sector": "",
-   "specialization": "2, 77, 244",
+   "specialization": "[\"2\",\"77\",\"244\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20901,7 +20901,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-23T07:15:58Z",
    "sector": "",
-   "specialization": "66",
+   "specialization": "[\"66\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -40539,7 +40539,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-29T08:58:54Z",
    "sector": "",
-   "specialization": "70",
+   "specialization": "[\"70\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -43796,6 +43796,80 @@
       "automotive"
      ],
      "points": 5
+    }
+   ]
+  },
+  {
+   "id": "246893",
+   "title": "Chargé.e de mission (scientifique) auprès du Service Scientifique du Consulat général de France à San Francisco (H/F)",
+   "company": "MINISTERE DE L'EUROPE ET DES AFFAIRES ETRANGERES",
+   "country": "ETATS-UNIS",
+   "city": "SAN FRANCISCO -CA-",
+   "description": "Le/la VIA sera, en étroite coopération avec l’attachée scientifique responsable, impliqué.e dans les tâches suivantes :\n• Veille dans les domaines des sciences, de la technologique et des innovations notamment dans le domaine des technologies émergentes – par exemple l’IA (et applications en santé, transports, sécurité, internet des objets, environnement…) \n• Suivi de l’activité de recherche des laboratoires académiques et de R&D et de l’action des acteurs institutionnels dans les domaines des sciences et technologies. Entretenir les liens étroits avec les universités de la circonscription (Berkeley, Stanford, UCSF, UW Seattle, UC Davis, etc.).\n• Administrer un programme d’aide aux jeunes entreprises technologiques françaises en phase d’incubation (NETVA) : coordination du programme NETVA avec les autres pôles ; gestion de l’appel à projet vers les communautés d’innovation et d’entrepreneurs ; gestion de la communication envers tous les acteurs du programme (partenaires, sponsors, formateurs, investisseurs, candidats et lauréats) ; mise en œuvre du programme (organisation de rendez-vous, événements, recherche de partenaires) ; compte-rendu de mission.\n• Administrer un programme de visites et d’échanges entre des doctorants français et américains (FADEx) : gestion de l’appel à projet vers les communautés scientifiques françaises et américaines ; mise en œuvre et éventuellement accompagnement du programme (organisation des visites, recherche de partenaires, sponsors, logistique, etc.) ; compte-rendu de mission.\n• Rédaction d’articles pour la newsletter mensuelle, participation à la réalisation de supports de communication.\n• Préparation de fiches stratégiques et de rapports sur les dernières tendances scientifiques et technologiques locales et les acteurs de l’écosystème.\n• Visites universitaires et industrielles (prises de contact, promotion des outils de coopération, organisation d’événements). \n• Organisation de missions et accueil de délégations (prises de contact, préparation des documents, compte-rendu des visites).\n• Organisation de colloques ou séminaires transatlantiques dans les domaines science, technologie et innovation, en virtuel ou en présentiel.\n\nLes sujets plus particulièrement suivis touchent aux technologies émergentes dans le domaine du numérique (avec un angle majoritaire en intelligence artificielle et robotique) ainsi qu’à leurs applications dans divers domaines de la science et de la technologie. En complément des thématiques évoquées ci-dessus, le poste de San Francisco suit les questions liées à l’innovation et à l’entrepreneuriat deep-tech au sens large : transfert de technologies, essaimages académiques, propriété intellectuelle, incubateurs et accélérateurs de startups, financement privé de l’innovation, etc. Le travail attendu nécessite une bonne connaissance du secteur (scientifique et économique), de bonnes qualités relationnelles, et des capacités de rédaction et de synthèse. Il s’agit plus d’un travail de généraliste que de spécialiste d’une technologie pointue. \n\nObservations particulières sur le poste :\n\nGrande disponibilité demandée, certaines activités peuvent demander une présence en dehors des horaires de bureau ou certains jours fériés (exceptionnel). Déplacements hebdomadaires dans la Baie de San Francisco et occasionnels dans la circonscription (10 Etats du Nord-Ouest Pacifique). Un déplacement par an à Washington, DC. Ecosystème extrêmement dynamique.\n\nTravail au sein d’un consulat d’une trentaine de personnes (3 personnes au scientifique) et en étroite collaboration avec les services consulaire, presse, économique, culturel, éducatif et universitaire. Travail collaboratif et articulé avec les entités françaises présentes à San Francisco (Business France, FACC, French Tech, BPI). \n\nTravail en collaboration étroite avec la Mission pour la Science et la Technologie de l’Ambassade de France aux USA : attachés scientifiques, chargés de mission et experts en poste à Atlanta, Boston, Chicago, Houston, Los Angeles, New York et Washington DC ; bureaux américains des organismes de recherche CNRS, CEA, CNES, INSERM, INRAE.\n\n *********************************************************\nATTENTION : Veillez à postuler via cette plate-forme pendant que l’offre est en ligne, celle-ci disparaîtra de ce site le jour d’expiration mentionné dans l’annonce à 00h01.\n\n• Toute candidature à cette offre suppose obligatoirement une inscription préalable sur le site https://mon-vie-via.businessfrance.fr/ (les informations y figurant doivent être régulièrement mises à jour). Les candidat(e)s non inscrit(e)s ne seront pas retenu(e)s.\n\n• A compter de la sélection finale, les démarches de mise en route s’effectuent en France et nécessitent ==au minimum entre 2 et 4 mois à compter de l’identification du/de la candidat/e retenu/e selon le pays de destination==.\n\n• Merci d'adresser ==IMPERATIVEMENT== votre CV et lettre de motivation en français, au format PDF en respectant le format de fichiers ci-après : \n NOM Prénom CV.pdf\n NOM Prénom LM.pdf\n\n• Merci d'indiquer ==IMPERATIVEMENT== votre numéro d'identifiant donné lors de votre inscription sur le site.\n\n• Les niveaux de langues étrangères doivent être précisés selon le cadre européen de référence pour les langues (CECRL) A1, A2, B1, B2, C1, C2.\n\n• Veillez à sauvegarder le contenu de cette offre lorsque vous postulez (sous format PDF ou via une copie d'écran et non pas sélectionné en favoris sur la plateforme Cf. ci-dessus).\n\n• Tout dossier de candidature adressé directement à l’organisme d’affectation (Institut français, Consulat, Alliance Française, Ambassade), ou qui serait incomplet ou non conforme ne sera pas retenu.\n\n• Les lettres de recommandation, prises de contact ou autres formes d’intervention (LinkedIn Instagram...etc...) auprès des Conseillers RH ou des organismes d’affectation sont proscrites. \n\n• Si vous ne recevez pas d'information de notre part sous 8 semaines après retrait de l’annonce, vous pourrez considérer que, malgré tout l'intérêt que présente votre profil, il ne correspond pas à nos besoins actuels.\n\n• Les entretiens auront lieu principalement en visioconférence (dans l’éventualité où ils se dérouleraient à Paris, aucune prise en charge des frais de transport par le Ministère n’est envisageable).\n\n• Le/la volontaire international(e) devra être éligible à l'obtention d'un passeport de service pour cette destination.\n\n• La consultation de la fiche « conseils aux voyageurs » sur le site du MEAE est ==INDISPENSABLE== au moment de postuler : https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/ \n\nLe ministère de l’Europe et des Affaires étrangères (MEAE) recrute chaque année plusieurs centaines d’agents pour exercer des dizaines de métiers différents sous des statuts très divers. Chacun peut y trouver sa place et y vivre une expérience professionnelle hors du commun.\nLe MEAE s’engage résolument pour la diversité, l’égalité professionnelle entre les femmes et les hommes et la lutte contre les discriminations. \nDécouvrez l’engagement du ministère en faveur de la diversité : https://www.diplomatie.gouv.fr/fr/le-ministere-et-son-reseau/la-diversite-au-ministere/",
+   "mission": "",
+   "profile": "Profil souhaité :\n\nProfil scientifique, intéressé.e autant par la diplomatie scientifique que par la rencontre avec des chercheurs et entrepreneurs. Aptitudes démontrables pour le travail en équipe et la conduite de projets. \n\nDiplômes demandés (niveau et domaine d’études) :Ingénieur/Master en sciences (obligatoire) avec spécialisation dans les technologies du numérique (apprécié). Un double diplôme Sciences Po ou équivalent serait apprécié.\n\nLangues : Très bonne maîtrise de l’anglais (compréhension, lecture, expression) – obligatoire, niveau B2-C1 minimum.\n\nCompétences attendues pour la mission :\nAisance relationnelle, qualité d’écoute et bonne ouverture d’esprit – obligatoire.\nAisance conversationnelle (en sciences et hors sciences) – appréciée. \nFamiliarisation avec l’innovation et l’entrepreneuriat – appréciée.\nExcellentes facultés de synthèse et de rédaction – obligatoire.\nExcellente maîtrise des outils pour la bureautique (obligatoire) et excellente maîtrise des outils pour la création de contenus et de publications sur les principaux réseaux sociaux (appréciée). Utilisation des outils d’IA générative (appréciée).\nExcellentes capacités d’organisation et de fonctionnement en mode projet – obligatoire.\nGoût pour le travail en équipe – obligatoire. \nGoût pour le mentorat (stage) – appréciée, sous l’autorité du supérieur hiérarchique du VIA.\n\nAutres : Permis de conduire – obligatoire.",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-09T12:19:55Z",
+   "sector": "",
+   "specialization": "[\"49\"]",
+   "contract": "VIA",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-09T12:19:55Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-09T00:00:00",
+    "endBroadcastDate": "2026-10-10T00:00:00"
+   },
+   "summary": "Le/la VIA sera, en étroite coopération avec l’attachée scientifique responsable, impliqué.e dans les tâches suivantes :\n• Veille dans les domaines des sciences, de la technologique et des innovations notamment dans le domaine des technologies émergentes – par exemple l’IA (et applications en santé, transports, sécurité, internet des objets, environnement…) \n• Suivi de l’activité de recherche des laboratoires académiques et de R&D et de l’action des acteurs institutionnels dans les domaines des sciences et technologies. Entretenir les liens étroits avec les universités de la circonscription (Berkeley, Stanford, UCSF, UW Seattle, UC Davis, etc.). […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/246893",
+   "score": 25,
+   "label": "Périphérique",
+   "first_seen": "2026-10-09T13:15:07+00:00",
+   "axis_scores": {
+    "rd": 13,
+    "prod": 10,
+    "qual": 28,
+    "calc": 0
+   },
+   "dominant_axis": "qual",
+   "matched_families": [
+    {
+     "id": "prod6",
+     "axis": "prod",
+     "source": "Usinage / moyens de fabrication (259-1)",
+     "weight": 6,
+     "terms": [
+      "presse"
+     ]
+    },
+    {
+     "id": "qual2",
+     "axis": "qual",
+     "source": "Qualité et normes (774-1)",
+     "weight": 10,
+     "terms": [
+      "qualite"
+     ]
+    },
+    {
+     "id": "rd6",
+     "axis": "rd",
+     "source": "Comportement mécanique des matériaux non conventionnels (298-2), Projet de recherche (261-1)",
+     "weight": 8,
+     "terms": [
+      "r&d"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
     }
    ]
   },
