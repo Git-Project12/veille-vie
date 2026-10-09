@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-09T11:52:49+00:00",
+ "generated_at": "2026-10-09T12:17:30+00:00",
  "source": "Business France — mon-vie-via.businessfrance.fr",
- "total_scanned": 829,
- "total_announced": 829,
- "total_kept": 463,
+ "total_scanned": 830,
+ "total_announced": 830,
+ "total_kept": 464,
  "threshold": 25,
  "axes": {
   "rd": {
@@ -7753,7 +7753,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-06T09:16:52Z",
    "sector": "",
-   "specialization": "63",
+   "specialization": "[\"63\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19559,7 +19559,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-10T09:56:17Z",
    "sector": "",
-   "specialization": "49, 63, 86, 125, 207, 208, 256, 366",
+   "specialization": "[\"49\",\"63\",\"86\",\"125\",\"207\",\"208\",\"256\",\"366\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21532,7 +21532,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-18T08:08:01Z",
    "sector": "",
-   "specialization": "62",
+   "specialization": "[\"62\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27362,7 +27362,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-14T11:26:55Z",
    "sector": "",
-   "specialization": "70",
+   "specialization": "[\"70\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -38097,7 +38097,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-03T16:37:44Z",
    "sector": "",
-   "specialization": "155",
+   "specialization": "[\"155\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -43468,6 +43468,73 @@
    "bonuses": []
   },
   {
+   "id": "246854",
+   "title": "CUSTOMER SUCCESS COORDINATOR (M/F) (H/F)",
+   "company": "DECOR WORLD SERVICES",
+   "country": "ETATS-UNIS",
+   "city": "NEW YORK  -NY-",
+   "description": "Présentation de la société :\nDWS is an innovative company revolutionizing the luxury retail industry through in-store and e-commerce product personalization solutions. We help luxury brands create a customer experience with our engraving machines. Headquartered in France, we have expanded globally and established our US entity in NYC in 2023. With a growing base of US customers, DWS Inc. offers exciting career opportunities in a dynamic environment at the forefront of innovation.\n\n- Top notch product: Leveraging its expertise in laser-matter interaction, DWS has developed high-tech laser engraving machines that cater to the personalization needs of major luxury brands.\n- Industries we work with: Luxury; Retail; Tech; Perfume & Cosmetics; Wine & Spirits; Leather goods; Jewelry; Hospitality; etc.\n- Team: Great team spirit and connection between the different services, dynamic & supportive.\n- Values: Excellence, innovation, service, sustainability.\n\nPoste et missions :\nWe are looking for a Customer Success Coordinator for our New York subsidiary, to provide excellent technical support and customer service to our clients. In a very dynamic and innovative environment, you will be able to work with the latest technologies, learn and propose ideas to improve the customer service quality of the company. You will coordinate the US customer success team with the French team.\n• Handle client queries and provide solutions to clients according to company protocol\n• Perform basic IT troubleshooting\n• Report and keep records of all customer service activities\n• Produce customer service related to process and materials\n• Conduct regular surveys to monitor client satisfaction\n• Collaborate with the General Manager to achieve client satisfaction KPIs\n• Occasional field service at clients’ shops (possibly everywhere in the Americas) \n• Provide reports on the machine’s parks performance \n• Coordinate logistics\nYou will also have the opportunity to contribute to various aspects of our operations such as event planning.",
+   "mission": "",
+   "profile": "Profile required\n• University degree in Engineering, Computer Science, Information Systems, or Industrial Maintenance.\n• Be able to prove >12 months of work experience (for visa purposes)\n• 1-2 years of experience in customer service or client-facing roles will be appreciated.\n• Team player and open attitude to learn new things\n• Fluent in both written and spoken English. Knowledge of Spanish or Portuguese will be an advantage\n• Position based in New York : , Work in the office 2 days a week and remote work allowed for the rest of the week.\n• Strong Communication Skills and a good sense of customer relations.\n• Rigor, a sense of aesthetics, and a commitment to perfection are essential to deliver an exceptional experience to our luxury clients.\n• Adaptability: Being a start-up, we value individuals who can adapt quickly to changing priorities and handle multiple tasks with ease.",
+   "duration": 18,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-07-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-08T13:41:45Z",
+   "sector": "",
+   "specialization": "[\"6\",\"7\",\"109\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-08T13:41:45Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-07-01T00:00:00",
+    "startBroadcastDate": "2026-10-09T00:00:00",
+    "endBroadcastDate": "2026-10-10T00:00:00"
+   },
+   "summary": "Présentation de la société :\nDWS is an innovative company revolutionizing the luxury retail industry through in-store and e-commerce product personalization solutions. We help luxury brands create a customer experience with our engraving machines. Headquartered in France, we have expanded globally and established our US entity in NYC in 2023. With a growing base of US customers, DWS Inc. offers exciting career opportunities in a dynamic environment at the forefront of innovation.\n\n- Top notch product: Leveraging its expertise in laser-matter interaction, DWS has developed high-tech laser engraving machines that cater to the personalization needs of major luxury brands.\n- Industries we work with: Luxury; Retail; Tech; Perfume & Cosmetics; Wine & Spirits; Leather goods; Jewelry; Hospitality; etc.\n- Team: Great team spirit and connection between the different services, dynamic & supportive.\n- Values: Excellence, innovation, service, sustainability. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/246854",
+   "score": 25,
+   "label": "Périphérique",
+   "first_seen": "2026-10-09T12:17:15+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 12,
+    "qual": 28,
+    "calc": 0
+   },
+   "dominant_axis": "qual",
+   "matched_families": [
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Conception mécanique (264-1), Outils et moyens de fabrication (259-1)",
+     "weight": 7,
+     "terms": [
+      "engineering"
+     ]
+    },
+    {
+     "id": "qual2",
+     "axis": "qual",
+     "source": "Qualité et normes (774-1)",
+     "weight": 10,
+     "terms": [
+      "quality"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "industrial"
+     ],
+     "points": 5
+    }
+   ]
+  },
+  {
    "id": "246325",
    "title": "VIE Achats Indirects - F/H (H/F)",
    "company": "ERAMET",
@@ -43679,7 +43746,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-15T08:36:20Z",
    "sector": "",
-   "specialization": "2, 109",
+   "specialization": "[\"2\",\"109\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
