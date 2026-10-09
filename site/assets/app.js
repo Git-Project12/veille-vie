@@ -15,7 +15,7 @@ const AXIS_LABELS = {
 const AXIS_ORDER = ["rd", "prod", "qual", "calc"];
 let PAGE_STEP = 25;          // ajustable depuis le panneau de filtres
 const PAGE_SIZES = [25, 50, 75, 100];
-const UI_VERSION = "24";   // affiché en pied de page : permet de vérifier
+const UI_VERSION = "25";   // affiché en pied de page : permet de vérifier
                           // quelle version de l'interface est réellement chargée
 const EXPIRY_WINDOW_DAYS = 14;   // seuil de l'onglet « échéances »
 const NEW_WINDOW_HOURS = 24;     // durée pendant laquelle une offre reste « nouvelle »
@@ -563,7 +563,16 @@ function bindEvents() {
   $("#import-prefs").addEventListener("change", importPrefs);
   $("#filter-toggle").addEventListener("click", () => {
     const rail = $("#rail");
-    $("#filter-toggle").setAttribute("aria-expanded", String(rail.classList.toggle("open")));
+    const ouvert = rail.classList.toggle("open");
+    $("#filter-toggle").setAttribute("aria-expanded", String(ouvert));
+    // Le bouton se colle sous la barre d'onglets quand les filtres sont
+    // dépliés : il lui faut la hauteur réelle de cette barre.
+    const tabs = document.querySelector(".tabs");
+    if (tabs) {
+      document.documentElement.style.setProperty("--tabs-h", `${tabs.offsetHeight}px`);
+    }
+    // En repliant depuis le milieu de la liste, on remonte à son début.
+    if (!ouvert) scrollToResults();
   });
 
   document.addEventListener("keydown", (e) => {
@@ -768,7 +777,16 @@ function setupCombo(nom) {
       li.setAttribute("aria-selected", on ? "true" : "false");
       if (on) {
         input.setAttribute("aria-activedescendant", li.id);
-        li.scrollIntoView({ block: "nearest" });
+        // On fait défiler la liste elle-même, pas la page : scrollIntoView
+        // remonte au premier parent défilable, et quand la liste tient tout
+        // entière c'est la page qui bougeait — le champ se dérobait sous le
+        // doigt sur téléphone.
+        const haut = li.offsetTop;
+        const bas = haut + li.offsetHeight;
+        if (haut < liste.scrollTop) liste.scrollTop = haut;
+        else if (bas > liste.scrollTop + liste.clientHeight) {
+          liste.scrollTop = bas - liste.clientHeight;
+        }
       }
     });
     if (actif < 0) input.removeAttribute("aria-activedescendant");
@@ -924,18 +942,34 @@ function currentFilters() {
 /* Changement de filtre : la liste est entièrement renouvelée. Rester au
    milieu de l'ancienne n'a plus de sens — on ramène l'utilisateur en tête des
    résultats, sans remonter jusqu'au titre de la page. */
+/* Après un changement de filtre, on remonte en haut de la liste — mais
+   JAMAIS on ne descend.
+
+   Le problème que cette fonction résout au départ : être au milieu d'une
+   longue liste, retirer un filtre, et se retrouver dans le vide bien en
+   dessous de la nouvelle liste, plus courte.
+
+   Le problème qu'elle créait sur téléphone : là, les filtres ne sont pas
+   dans une colonne à gauche mais dépliés AU-DESSUS de la liste. Descendre
+   jusqu'aux résultats les faisait donc sortir de l'écran à chaque clic — on
+   ne pouvait pas choisir un pays puis une durée sans remonter entre les
+   deux.
+
+   D'où la règle : on ne bouge que si la liste a défilé sous nos pieds. Si
+   l'on est déjà au-dessus — c'est-à-dire en train de régler les filtres —
+   on ne touche à rien. */
 function scrollToResults() {
   const head = document.querySelector(".results-head");
   if (!head) return;
   const tabs = document.querySelector(".tabs");
   const marge = (tabs ? tabs.offsetHeight : 0) + 12;
-  const cible = head.getBoundingClientRect().top + window.scrollY - marge;
+  const cible = Math.max(0, head.getBoundingClientRect().top + window.scrollY - marge);
 
-  // Inutile de bouger si l'on voit déjà le haut de la liste.
-  if (Math.abs(window.scrollY - cible) < 40) return;
+  // Au-dessus du haut de la liste, ou tout près : on reste où l'on est.
+  if (window.scrollY <= cible + 40) return;
 
   const doux = !window.matchMedia("(prefers-reduced-motion: reduce)").matches;
-  window.scrollTo({ top: Math.max(0, cible), behavior: doux ? "smooth" : "auto" });
+  window.scrollTo({ top: cible, behavior: doux ? "smooth" : "auto" });
 }
 
 /* Applique les filtres depuis le début de la liste. */
@@ -1296,6 +1330,15 @@ function render() {
     ? "Aucune offre"
     : `<strong>${n}</strong> offre${n > 1 ? "s" : ""}` +
       (n < pool ? ` <span class="of-total">sur ${pool}</span>` : "");
+
+  // Sur téléphone, la liste est hors de l'écran pendant qu'on règle les
+  // filtres : sans cela, cocher un pays ne produirait aucun retour visible.
+  // Le décompte est donc répété sur le bouton qui déplie les filtres.
+  const bascule = $("#filter-toggle");
+  if (bascule) {
+    bascule.innerHTML = `Filtrer les offres <span class="toggle-count">` +
+      (n === 0 ? "aucune offre" : `${n} offre${n > 1 ? "s" : ""}`) + `</span>`;
+  }
 
   if (n === 0) {
     let title, body;

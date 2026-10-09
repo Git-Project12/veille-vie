@@ -741,8 +741,36 @@ a { color: var(--oxide); }
     margin-bottom: .9rem;
   }
 
-  .filter-toggle::after { content: " ▾"; color: var(--steel); }
-  .rail.open .filter-toggle::after { content: " ▴"; }
+  .filter-toggle::after { content: "▾"; color: var(--steel); margin-left: .4rem; }
+  .rail.open .filter-toggle::after { content: "▴"; }
+
+  /* Le décompte vit sur le bouton : en réglant les filtres, la liste est
+     sous l'écran, et c'est le seul retour visible de ce qu'on vient de
+     faire. */
+  .filter-toggle {
+    display: flex;
+    align-items: baseline;
+    justify-content: flex-start;
+    gap: .5rem;
+    text-align: left;
+  }
+
+  .toggle-count {
+    margin-left: auto;
+    font-family: "IBM Plex Mono", monospace;
+    font-size: .78rem;
+    color: var(--oxide);
+    font-weight: 600;
+  }
+
+  /* Pendant qu'on règle les filtres, le bouton reste visible en haut : le
+     décompte se met à jour sous les yeux, et on replie sans remonter. */
+  .rail.open .filter-toggle {
+    position: sticky;
+    top: var(--tabs-h, 3rem);
+    z-index: 9;
+    box-shadow: 0 2px 6px rgba(18, 23, 28, .12);
+  }
 
   #filters, .freshness { display: none; }
 
@@ -756,6 +784,40 @@ a { color: var(--oxide); }
 
   .offer-head { gap: .7rem; }
   .modules { max-height: 2.6rem; }
+
+  /* --- Les bulles d'aide ne doivent pas élargir la page ---
+
+     Chaque pastille « i » porte une bulle de 310 px, positionnée par rapport
+     à la pastille. Sur un écran de 390 px, celles des colonnes de droite
+     débordaient : la page devenait large de 560 px, et Safari répondait à
+     cela en dézoomant tout. Le texte devenait minuscule et la page partait
+     de travers dès qu'on dépliait les filtres.
+
+     Sur téléphone, la bulle s'étale donc sur toute la largeur du panneau au
+     lieu de s'accrocher à sa pastille : elle est plus lisible, et ne peut
+     plus rien déborder. */
+  #filters { position: relative; }
+  #filters .info { position: static; }
+
+  #filters .info-bubble {
+    left: 0;
+    right: 0;
+    top: auto;
+    width: auto;
+    max-width: none;
+    margin-top: .4rem;
+  }
+
+  /* Ailleurs (en-tête des résultats, aide), la bulle reste accrochée à sa
+     pastille mais ne dépasse plus la largeur de l'écran. */
+  .info-bubble { max-width: calc(100vw - 2.5rem); }
+}
+
+/* Dernier garde-fou : rien, sur cette page, n'a de raison de défiler
+   latéralement. « clip » plutôt que « hidden » — hidden ferait de <body> un
+   conteneur de défilement et casserait la barre d'onglets collante. */
+@media (max-width: 820px) {
+  body { overflow-x: clip; }
 }
 
 /* ===============================================================
