@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-09T19:32:49+00:00",
+ "generated_at": "2026-10-10T15:53:17+00:00",
  "source": "Business France — mon-vie-via.businessfrance.fr",
- "total_scanned": 839,
- "total_announced": 839,
- "total_kept": 369,
+ "total_scanned": 823,
+ "total_announced": 823,
+ "total_kept": 363,
  "threshold": 25,
  "axes": {
   "rd": {
@@ -834,7 +834,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T13:27:15Z",
    "sector": "",
-   "specialization": "[\"60\"]",
+   "specialization": "60",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -1253,7 +1253,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-02T06:59:08Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -1364,7 +1364,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-29T14:04:00Z",
    "sector": "",
-   "specialization": "60, 64, 77, 133, 162, 197, 224, 225",
+   "specialization": "[\"60\",\"64\",\"77\",\"133\",\"162\",\"197\",\"224\",\"225\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -1610,7 +1610,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T12:04:49Z",
    "sector": "",
-   "specialization": "[\"251\"]",
+   "specialization": "251",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -2303,7 +2303,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T13:11:32Z",
    "sector": "",
-   "specialization": "[\"60\"]",
+   "specialization": "60",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -2547,7 +2547,7 @@
    "expiry_date": "",
    "publish_date": "2025-11-19T10:45:12Z",
    "sector": "",
-   "specialization": "[\"77\",\"149\"]",
+   "specialization": "77, 149",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -2671,7 +2671,7 @@
    "expiry_date": "",
    "publish_date": "2025-10-08T09:46:46Z",
    "sector": "",
-   "specialization": "[\"77\",\"149\"]",
+   "specialization": "77, 149",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -2796,7 +2796,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-31T08:21:32Z",
    "sector": "",
-   "specialization": "[\"60\",\"64\",\"65\",\"77\"]",
+   "specialization": "60, 64, 65, 77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -2918,7 +2918,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T14:37:58Z",
    "sector": "",
-   "specialization": "60",
+   "specialization": "[\"60\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -3521,7 +3521,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T15:32:41Z",
    "sector": "",
-   "specialization": "[\"70\"]",
+   "specialization": "70",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -4101,7 +4101,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-06T12:38:47Z",
    "sector": "",
-   "specialization": "[\"150\"]",
+   "specialization": "150",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -4720,7 +4720,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T07:35:28Z",
    "sector": "",
-   "specialization": "[\"155\",\"208\",\"209\"]",
+   "specialization": "155, 208, 209",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5049,7 +5049,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-10T08:20:34Z",
    "sector": "",
-   "specialization": "[\"63\",\"77\",\"109\",\"114\",\"125\",\"207\",\"262\",\"264\"]",
+   "specialization": "63, 77, 109, 114, 125, 207, 262, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5392,7 +5392,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-06T09:16:52Z",
    "sector": "",
-   "specialization": "[\"63\"]",
+   "specialization": "63",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5709,7 +5709,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-01T15:30:48Z",
    "sector": "",
-   "specialization": "[\"63\",\"114\"]",
+   "specialization": "63, 114",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5910,108 +5910,6 @@
    ]
   },
   {
-   "id": "245734",
-   "title": "Lean Manufacturing (H/F)",
-   "company": "FAURECIA SYSTEMES D'ECHAPPEMENT",
-   "country": "TCHEQUIE / REPUBLIQUE TCHEQUE",
-   "city": "MLADA BOLESLAV",
-   "description": "L'ingénieur Lean Manufacturing VIE contribue à la performance et à la rentabilité de l'usine en mettant l'accent sur la main-d'œuvre directe (MOD) et en appliquant les principes opérationnels du Faurecia Excellence System (FES). \n\nAu sein d'une équipe FES&P solide, vous serez amené(e) à :\n\n• Assurer le suivi du plan de déploiement du FES, afin de soutenir la mise en œuvre du programme d'amélioration de l'usine (PIP).\n\n• Transmettre, en fonction des besoins, les connaissances et compétences relatives au FES à l’équipe de l’usine par le biais de formations, d’accompagnement et de sensibilisation.\n\n• Participer à la mise en œuvre des principes FES dans les programmes dès la phase de conception (conception de processus Lean, MFD, validation de la conception des équipements, ateliers de maquettes en carton, travail standardisé, OHP, agencement des processus, emballage, etc.).\n\n• Veiller à ce que la méthodologie de gestion des données de routage et des coefficients soit correctement appliquée et respectée, afin de garantir la précision des coûts de main-d’œuvre directe standard et réels.\n\n• Veiller au processus de suivi DLE/DLP lié aux résultats en pourcentage des coûts DL.\n\n• Soutenir la mise en place et le respect du travail standardisé (SW), ainsi que le développement des procédures opérationnelles (OHP) (principalement les rôles et routines des responsables de ligne [GL] et des superviseurs), en tant que fondements essentiels pour atteindre des niveaux élevés de performance opérationnelle.\n\n• Soutenir la mise en œuvre des outils d’amélioration FES pour la fiabilité de la production, les normes de changement de série (flexibilité), la réduction des arrêts de ligne, l’équilibrage des lignes et l’efficacité globale des MOD.\n\n• Veiller à l’identification du « potentiel de productivité » des MOD.\n• Contribuer à la réduction des délais de production grâce à la mise en œuvre d'un flux continu, à l'optimisation de l'agencement, au système « pull » et à des mesures visant à accélérer les flux.\n\n• Déploiement d’outils de numérisation et formation/accompagnement des autres collaborateurs de l’usine\n\n• Déploiement du questionnaire et du manuel FES 4.0 à tous les niveaux hiérarchiques et dans tous les services de l’usine\n\n• Mise en œuvre de la méthode 5S et collaboration avec les autres services\n\n• Analyse comparative avec d’autres usines et apport d’idées nouvelles et d’inspiration pour l’excellence opérationnelle",
-   "mission": "",
-   "profile": "Master en ingénierie (par exemple : génie industriel, génie mécanique ou domaine connexe) \nBonnes compétences relationnelles et aptitudes à la présentation et à la formation, associées à un haut niveau d’autonomie\nOuverture d’esprit internationale \nMaîtrise de l’informatique (MS Office, Excel, PowerPoint, Access, AutoCAD ou équivalent)\nMaîtrise parfaite de l’anglais \nEngagement à respecter les normes éthiques les plus strictes et volonté de se conformer au Code d’éthique et au Code de gestion de Faurecia",
-   "duration": 12,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2027-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-09T08:40:45Z",
-   "sector": "",
-   "specialization": "149",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-09T08:40:45Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-09T00:00:00",
-    "endBroadcastDate": "2026-10-09T00:00:00"
-   },
-   "summary": "L'ingénieur Lean Manufacturing VIE contribue à la performance et à la rentabilité de l'usine en mettant l'accent sur la main-d'œuvre directe (MOD) et en appliquant les principes opérationnels du Faurecia Excellence System (FES). \n\nAu sein d'une équipe FES&P solide, vous serez amené(e) à :\n\n• Assurer le suivi du plan de déploiement du FES, afin de soutenir la mise en œuvre du programme d'amélioration de l'usine (PIP).\n\n• Transmettre, en fonction des besoins, les connaissances et compétences relatives au FES à l’équipe de l’usine par le biais de formations, d’accompagnement et de sensibilisation.\n\n• Participer à la mise en œuvre des principes FES dans les programmes dès la phase de conception (conception de processus Lean, MFD, validation de la conception des équipements, ateliers de maquettes en carton, travail standardisé, OHP, agencement des processus, emballage, etc.).\n\n• Veiller à ce que la méthodologie de gestion des données de routage et des coefficients soit correctement appliquée et respectée, afin de garantir la précision des coûts de main-d’œuvre directe standard et réels. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/245734",
-   "score": 60,
-   "label": "Bonne adéquation",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 59,
-    "qual": 8,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
-     "weight": 10,
-     "terms": [
-      "usine"
-     ]
-    },
-    {
-     "id": "prod5",
-     "axis": "prod",
-     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
-     "weight": 4,
-     "terms": [
-      "5s",
-      "lean",
-      "productivite"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "ingenierie",
-      "manufacturing"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "normes",
-      "validation"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "manufacturing"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "industriel",
-      "mecanique"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "246290",
    "title": "INGENIEUR PROCESS ET MAINTENANCE H/F (H/F)",
    "company": "JOUBERT FRANCE",
@@ -6026,7 +5924,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T16:09:45Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6534,7 +6432,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-20T19:24:50Z",
    "sector": "",
-   "specialization": "64, 65, 66, 77, 107, 150, 153, 207",
+   "specialization": "[\"64\",\"65\",\"66\",\"77\",\"107\",\"150\",\"153\",\"207\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6949,7 +6847,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T12:11:54Z",
    "sector": "",
-   "specialization": "[\"64\"]",
+   "specialization": "64",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -7152,108 +7050,6 @@
    ]
   },
   {
-   "id": "245752",
-   "title": "Ingénieur mécanique (H/F)",
-   "company": "MOONGY",
-   "country": "BELGIQUE",
-   "city": "BRUXELLES",
-   "description": "- Garantir la conception, l’amélioration continue et la validation des ensembles et systèmes mécaniques.\n- Assurer le bon déroulement des projets techniques, de la phase de conception jusqu’à l’industrialisation.\n- Apporter un support technique efficace aux équipes internes, aux fournisseurs et aux clients tout au long du cycle de vie du projet.\n- Optimiser les performances, la fiabilité et la robustesse des solutions mécaniques dans une logique de coût, qualité et délais.\n- Contribuer à la qualité et à la conformité des livrables techniques et documentaires (plans, nomenclatures, notes de calcul, procédures).\n- Collaborer étroitement avec les équipes pluridisciplinaires (électrique, automatisme, process, qualité, production, achats).\n- Concevoir, développer et optimiser des sous-ensembles mécaniques, de l’avant-projet à la validation finale.\n- Évaluer les performances des solutions, réaliser des essais, analyser les résultats et proposer des actions d’amélioration.\n- Réaliser, tester, documenter et maintenir les systèmes mécaniques et les processus associés.\n- Garantir le respect des normes, des exigences réglementaires et des règles de sécurité machine.\n- Participer à l’analyse des risques techniques et à la résolution de problématiques complexes.",
-   "mission": "",
-   "profile": "- Master en ingénierie mécanique, électromécanique ou dans un domaine technique similaire.\n- Vous disposez d’une bonne compréhension des principes mécaniques, une première expérience en conception mécanique est un plus\n- Vous êtes adaptable, autonome et proactif afin de relever les différents défis liés à nos missions.\n- Vous assurez une communication claire et une collaboration efficace avec l’ensemble des parties prenantes.\n- Maîtrise du français et de l'anglais",
-   "duration": 12,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2027-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-09T14:23:35Z",
-   "sector": "",
-   "specialization": "77",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-09T14:23:35Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-09T00:00:00",
-    "endBroadcastDate": "2026-10-09T00:00:00"
-   },
-   "summary": "- Garantir la conception, l’amélioration continue et la validation des ensembles et systèmes mécaniques.\n- Assurer le bon déroulement des projets techniques, de la phase de conception jusqu’à l’industrialisation.\n- Apporter un support technique efficace aux équipes internes, aux fournisseurs et aux clients tout au long du cycle de vie du projet.\n- Optimiser les performances, la fiabilité et la robustesse des solutions mécaniques dans une logique de coût, qualité et délais.\n- Contribuer à la qualité et à la conformité des livrables techniques et documentaires (plans, nomenclatures, notes de calcul, procédures).\n- Collaborer étroitement avec les équipes pluridisciplinaires (électrique, automatisme, process, qualité, production, achats).\n- Concevoir, développer et optimiser des sous-ensembles mécaniques, de l’avant-projet à la validation finale.\n- Évaluer les performances des solutions, réaliser des essais, analyser les résultats et proposer des actions d’amélioration.\n- Réaliser, tester, documenter et maintenir les systèmes mécaniques et les processus associés. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/245752",
-   "score": 56,
-   "label": "Bonne adéquation",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 45,
-    "qual": 8,
-    "calc": 20
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "calc2",
-     "axis": "calc",
-     "source": "CAO (278-1, 30 h), Conception mécanique (264-1, 43 h)",
-     "weight": 9,
-     "terms": [
-      "conception mecanique"
-     ]
-    },
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
-     "weight": 10,
-     "terms": [
-      "industrialisation"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "amelioration continue",
-      "ingenierie"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "conformite",
-      "essais",
-      "normes",
-      "qualite"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur",
-      "mecanique"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "mecanique"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "245765",
    "title": "Mechanical Engineer | Aerospace&Defense (H/F)",
    "company": "ALTRAN TECHNOLOGIES",
@@ -7358,6 +7154,107 @@
       "aerospace",
       "defence",
       "defense"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
+   "id": "246905",
+   "title": "Chargé(e) de Qualité avancée des fournisseurs (H/F)",
+   "company": "FAURECIA SYSTEMES D'ECHAPPEMENT",
+   "country": "TCHEQUIE / REPUBLIQUE TCHEQUE",
+   "city": "MLADA BOLESLAV",
+   "description": "Les responsabilités du Charge(é) de qualité ( ASQ) sont les suivantes : \n\nGestion de l'APQP pendant les phases de développement : \n\n• Mettre en œuvre l'APQP relatif à la phase de développement des pièces achetées. \n\n• Définir les risques et les fournisseurs à suivre.\n\n• S'assurer que les fournisseurs sélectionnés respectent les règles obligatoires et les critères d'audit. \n\n• Obtenir la validation de l'engagement de faisabilité pour l'approvisionnement et la mise en œuvre des changements. \n\n• Définir le plan APQP du fournisseur comprenant les objectifs, l’évaluation des risques, les fournisseurs critiques, les pièces critiques, les jalons clés, les livrables, la planification R@R et PPAP, ainsi que les besoins en ressources et en soutien.\n\n• Mettre à jour chaque mois le plan APQP du fournisseur. \n\n• Participer aux réunions de revue de conception et aux réunions ECR.\n\n• Faciliter les échanges entre les fonctions et les fournisseurs pour parvenir à un accord sur le gel de la conception. \n\n• Transmettre les alertes au programme et à la direction. Accompagner les fournisseurs dans la réalisation du rapport 8D. \n\n• Former les fournisseurs et s’assurer que les normes définies sont correctement appliquées (éléments APQP), \n\n• Suivre l’avancement de l’APQP à l’aide d’un rapport d’état d’avancement. \n\n• Exploiter les enseignements tirés des programmes précédents pour alimenter la mise en place du Run @ Rate de SNC, l’audit de processus et la construction du PPAP Transition vers la production en série",
+   "mission": "",
+   "profile": "Quelles sont les conditions requises pour nous rejoindre ? \n\n- Master en ingénierie. De préférence en génie mécanique, industriel, chimique, etc. \n- Faire preuve de solides compétences en communication et d’une grande autonomie \n- Maîtrise de l’anglais (C1 minimum) \n- Disponibilité pour voyager dans le cadre de missions de courte durée (en France et à l’international)\n\nQuel profil recherchons-nous ? Le candidat idéal devra posséder les qualités suivantes : \n- Une forte volonté d’apprendre sur le terrain et une ouverture d’esprit multiculturelle. \n- Une expérience dans le développement des fournisseurs \n- Des connaissances et/ou une certification en ISO 9001, ISO/TS 16949, VDA 6.3",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-09T14:31:35Z",
+   "sector": "",
+   "specialization": "[\"149\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-09T14:31:35Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-09T00:00:00",
+    "endBroadcastDate": "2026-11-08T00:00:00"
+   },
+   "summary": "Les responsabilités du Charge(é) de qualité ( ASQ) sont les suivantes : \n\nGestion de l'APQP pendant les phases de développement : \n\n• Mettre en œuvre l'APQP relatif à la phase de développement des pièces achetées. \n\n• Définir les risques et les fournisseurs à suivre.\n\n• S'assurer que les fournisseurs sélectionnés respectent les règles obligatoires et les critères d'audit. \n\n• Obtenir la validation de l'engagement de faisabilité pour l'approvisionnement et la mise en œuvre des changements. \n\n• Définir le plan APQP du fournisseur comprenant les objectifs, l’évaluation des risques, les fournisseurs critiques, les pièces critiques, les jalons clés, les livrables, la planification R@R et PPAP, ainsi que les besoins en ressources et en soutien.\n\n• Mettre à jour chaque mois le plan APQP du fournisseur. \n\n• Participer aux réunions de revue de conception et aux réunions ECR.\n\n• Faciliter les échanges entre les fonctions et les fournisseurs pour parvenir à un accord sur le gel de la conception. \n\n• Transmettre les alertes au programme et à la direction. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/246905",
+   "score": 55,
+   "label": "Bonne adéquation",
+   "first_seen": "2026-10-10T15:53:08+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 10,
+    "qual": 49,
+    "calc": 0
+   },
+   "dominant_axis": "qual",
+   "matched_families": [
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "ingenierie"
+     ]
+    },
+    {
+     "id": "qual3",
+     "axis": "qual",
+     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
+     "weight": 7,
+     "terms": [
+      "8d"
+     ]
+    },
+    {
+     "id": "qual2",
+     "axis": "qual",
+     "source": "Qualité et normes (774-1, 14 h, coefficient 0,5)",
+     "weight": 4,
+     "terms": [
+      "iso 9001"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "audit",
+      "certification",
+      "normes",
+      "qualite"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "qualite"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "industriel",
+      "mecanique"
      ],
      "points": 5
     },
@@ -7600,7 +7497,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-13T15:23:11Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8015,7 +7912,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-04T13:32:39Z",
    "sector": "",
-   "specialization": "[\"2\",\"77\",\"244\"]",
+   "specialization": "2, 77, 244",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8908,103 +8805,6 @@
    ]
   },
   {
-   "id": "245751",
-   "title": "Dessinateur mécanique (H/F)",
-   "company": "MOONGY",
-   "country": "BELGIQUE",
-   "city": "BRUXELLES",
-   "description": "agap2 est une société de conseil européenne spécialisée dans l'ingénierie. Nous accompagnons nos partenaires dans tous les grands secteurs industriels : énergie, infrastructures, process, agroalimentaire, défense et mobilité.\n\nVos missions principales\n─────────────────────────────\n\n- Réaliser les modélisations 3D et les mises en plan détaillées d’outillages mécaniques, dans le respect des normes en vigueur.\n- Participer à l’élaboration des dossiers techniques (plans, nomenclatures, notices, fiches techniques).\n- Adapter les conceptions en fonction des retours projet, des contraintes mécaniques ou d’usinabilité.\n- Collaborer avec les équipes production (conception, calculs, industrialisation) pour assurer la cohérence technique.\n- Garantir la traçabilité documentaire et le suivi des versions.\n- Assurer la qualité et la robustesse des livrables attendus dans le cadre de projets à fort enjeu technologique.",
-   "mission": "",
-   "profile": "Votre profil\r\n─────────────────────────────\r\n- Vous êtes titulaire d’un bachelier professionnel en électromécanique orientation en conception mécanique, ou équivalent.\r\n- Vous justifiez d’une première expérience dans un environnement industriel, idéalement dans les domaines de la défense, de l’aéronautique ou de l’énergie.\r\n- Vous maîtrisez un logiciel de CAO 3D – la connaissance de SolidWorks est un vrai atout.\r\n- Français - anglais technique requis\r\n- Rigueur, esprit d'analyse, adaptabilité \r\n\r\nPourquoi nous rejoindre ? \r\n\r\n• Accompagnement de proximité, double suivi un côté RH et l’autre côté Business Manager.\r\n• Une formation continue à la carte, adaptée aux besoins de chacun.\r\n• Un véritable catalyseur de carrière offrant de multiples opportunités d’évolution.\r\n• Une culture d’entreprise forte : avant d’être consultant, vous faites avant tout partie de la communauté agap2, nous créons des moments de convivialité.",
-   "duration": 12,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2027-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-09T14:12:07Z",
-   "sector": "",
-   "specialization": "64",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-09T14:12:07Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-09T00:00:00",
-    "endBroadcastDate": "2026-10-09T00:00:00"
-   },
-   "summary": "agap2 est une société de conseil européenne spécialisée dans l'ingénierie. Nous accompagnons nos partenaires dans tous les grands secteurs industriels : énergie, infrastructures, process, agroalimentaire, défense et mobilité.\n\nVos missions principales\n─────────────────────────────\n\n- Réaliser les modélisations 3D et les mises en plan détaillées d’outillages mécaniques, dans le respect des normes en vigueur.\n- Participer à l’élaboration des dossiers techniques (plans, nomenclatures, notices, fiches techniques).\n- Adapter les conceptions en fonction des retours projet, des contraintes mécaniques ou d’usinabilité.\n- Collaborer avec les équipes production (conception, calculs, industrialisation) pour assurer la cohérence technique.\n- Garantir la traçabilité documentaire et le suivi des versions.\n- Assurer la qualité et la robustesse des livrables attendus dans le cadre de projets à fort enjeu technologique.",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/245751",
-   "score": 52,
-   "label": "Bonne adéquation",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 45,
-    "qual": 8,
-    "calc": 20
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "calc2",
-     "axis": "calc",
-     "source": "CAO (278-1, 30 h), Conception mécanique (264-1, 43 h)",
-     "weight": 9,
-     "terms": [
-      "cao",
-      "conception mecanique",
-      "solidworks"
-     ]
-    },
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
-     "weight": 10,
-     "terms": [
-      "industrialisation"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "ingenierie"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "normes",
-      "qualite"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "mecanique"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "aeronautique",
-      "defense",
-      "energie"
-     ],
-     "points": 5
-    }
-   ]
-  },
-  {
    "id": "242952",
    "title": "Ingénieur Qualification & Validation (H/F)",
    "company": "QUALIFY LIFE SCIENCES",
@@ -9400,7 +9200,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T15:29:09Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9503,7 +9303,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-23T07:33:29Z",
    "sector": "",
-   "specialization": "[\"52\",\"66\",\"114\",\"115\",\"130\",\"148\",\"153\"]",
+   "specialization": "52, 66, 114, 115, 130, 148, 153",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9593,7 +9393,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-23T09:02:41Z",
    "sector": "",
-   "specialization": "[\"52\",\"66\",\"114\",\"115\",\"143\",\"148\",\"153\"]",
+   "specialization": "52, 66, 114, 115, 143, 148, 153",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9886,7 +9686,7 @@
    "expiry_date": "",
    "publish_date": "2025-11-19T10:45:12Z",
    "sector": "",
-   "specialization": "[\"77\",\"149\",\"207\"]",
+   "specialization": "77, 149, 207",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10128,7 +9928,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-08T06:05:15Z",
    "sector": "",
-   "specialization": "[\"192\"]",
+   "specialization": "192",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10500,7 +10300,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-25T15:02:11Z",
    "sector": "",
-   "specialization": "[]",
+   "specialization": "",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10594,7 +10394,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-28T13:08:22Z",
    "sector": "",
-   "specialization": "[\"225\"]",
+   "specialization": "225",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10805,7 +10605,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T11:34:20Z",
    "sector": "",
-   "specialization": "[\"130\"]",
+   "specialization": "130",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10970,7 +10770,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T08:00:24Z",
    "sector": "",
-   "specialization": "[\"114\"]",
+   "specialization": "114",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -11538,7 +11338,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T13:43:34Z",
    "sector": "",
-   "specialization": "[\"64\"]",
+   "specialization": "64",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -11933,7 +11733,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-28T13:10:22Z",
    "sector": "",
-   "specialization": "[\"262\"]",
+   "specialization": "262",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12106,7 +11906,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-21T14:45:41Z",
    "sector": "",
-   "specialization": "60, 149, 150, 206, 207, 264",
+   "specialization": "[\"60\",\"149\",\"150\",\"206\",\"207\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12872,7 +12672,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-30T08:31:23Z",
    "sector": "",
-   "specialization": "65, 77",
+   "specialization": "[\"65\",\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -13422,7 +13222,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-10T12:08:07Z",
    "sector": "",
-   "specialization": "[\"71\"]",
+   "specialization": "71",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -13856,107 +13656,6 @@
    ]
   },
   {
-   "id": "245741",
-   "title": "SYSTEM ENGINEER (H/F)",
-   "company": "ALTEN",
-   "country": "ALLEMAGNE",
-   "city": "MANCHING",
-   "description": "Présentation de la société :\nLeader in Engineering and Enterprise IT Services, ALTEN has around 60,000 employees, 88% of whom are engineers. The group operates in 30 countries and supports its clients' development strategies in the fields of innovation, R&D, and technological information systems. \n\nJoining ALTEN means tackling the greatest technological challenges in the aeronautics sector, working on future-oriented projects such as: \n\nDecarbonization and the transition to the aircraft of the future, which is more environmentally friendly, with reduced fuel consumption and improved acoustic performance. \n\nBeing a key player in the digital revolution, developing and using more efficient digital tools to transform industrial processes. \n\nParticipating in the optimization of supply chains through Industry 4.0 advancements, enabling more agile, connected, and intelligent manufacturing. \n\nPoste et missions :\nWe are looking for a talented and motivated systems engineer to join our team in the aeronautics sector. You will be responsible for the design, development, and integration of complex systems for our aeronautical projects. Your main responsibilities will include: \n\nSystem Design and Development: Participate in the design and development of innovative aeronautical systems, in compliance with current standards and regulations. \n\nSystem Integration: Ensure the integration of various subsystems to guarantee compatibility and optimal performance. \n\nProblem Analysis and Resolution: Identify and resolve technical issues encountered during system development and integration. \n\nValidation and Verification: Conduct validation and verification tests to ensure systems meet technical and functional requirements. \n\nTechnical Documentation: Write and maintain technical documentation for systems, including specifications, test plans, and analysis reports. \n\nInterdisciplinary Collaboration: Work closely with design, production, and maintenance teams to ensure project success.",
-   "mission": "",
-   "profile": "We are looking for a candidate with the following qualifications: \n\nEducation: Engineering degree or Master’s in aeronautical engineering, systems, electronics, or a related field. \n\nExperience: Previous experience in systems engineering, preferably in the aeronautics sector. \n\nTechnical Skills: Knowledge of system development tools and methodologies (MBSE, SysML, IBM DOORS, etc.). \n\nAnalytical Skills: Ability to analyze complex systems and effectively solve technical problems. \n\nCommunication Skills: Excellent written and verbal communication skills in English. \n\nPersonal Qualities: Team spirit, rigor, autonomy, and the ability to manage multiple projects simultaneously.",
-   "duration": 12,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2027-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-09T12:26:44Z",
-   "sector": "",
-   "specialization": "60",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-09T12:26:44Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-09T00:00:00",
-    "endBroadcastDate": "2026-10-09T00:00:00"
-   },
-   "summary": "Présentation de la société :\nLeader in Engineering and Enterprise IT Services, ALTEN has around 60,000 employees, 88% of whom are engineers. The group operates in 30 countries and supports its clients' development strategies in the fields of innovation, R&D, and technological information systems. \n\nJoining ALTEN means tackling the greatest technological challenges in the aeronautics sector, working on future-oriented projects such as: \n\nDecarbonization and the transition to the aircraft of the future, which is more environmentally friendly, with reduced fuel consumption and improved acoustic performance. \n\nBeing a key player in the digital revolution, developing and using more efficient digital tools to transform industrial processes. \n\nParticipating in the optimization of supply chains through Industry 4.0 advancements, enabling more agile, connected, and intelligent manufacturing. \n\nPoste et missions :\nWe are looking for a talented and motivated systems engineer to join our team in the aeronautics sector. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/245741",
-   "score": 38,
-   "label": "À examiner",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 20,
-    "prod": 10,
-    "qual": 8,
-    "calc": 0
-   },
-   "dominant_axis": "rd",
-   "matched_families": [
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "engineering",
-      "manufacturing"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "compliance",
-      "standards",
-      "validation"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "r&d"
-     ]
-    },
-    {
-     "id": "rd7",
-     "axis": "rd",
-     "source": "Recyclage des matériaux (8 h), Éco-conception (842-1, 8 h), Enjeux DDRS (838-1, 20 h)",
-     "weight": 4,
-     "terms": [
-      "decarbonization"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineer"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "aeronautical",
-      "industrial"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "245234",
    "title": "INGENIEUR MECANIQUE - INGENIERIE H/F (H/F)",
    "company": "CLEEVEN ND",
@@ -14149,7 +13848,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T13:25:14Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -14503,7 +14202,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-02T07:42:54Z",
    "sector": "",
-   "specialization": "[\"6\"]",
+   "specialization": "6",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -14623,7 +14322,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T13:56:59Z",
    "sector": "",
-   "specialization": "[\"256\"]",
+   "specialization": "256",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -15468,7 +15167,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-09T10:30:17Z",
    "sector": "",
-   "specialization": "[\"66\"]",
+   "specialization": "66",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -15821,7 +15520,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-08T11:09:48Z",
    "sector": "",
-   "specialization": "[\"149\",\"330\",\"355\"]",
+   "specialization": "149, 330, 355",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -16130,103 +15829,6 @@
       "genie industriel"
      ],
      "points": -20,
-     "cap": 35
-    }
-   ]
-  },
-  {
-   "id": "244970",
-   "title": "Ingénieur(e) généraliste (H/F)",
-   "company": "EKIUM",
-   "country": "BELGIQUE",
-   "city": "JUMET",
-   "description": "Ekium Belgium fournit des services de définition de projets, d’ingénierie tous corps d’Etat et de qualification (GMP) pour les industries pharmaceutiques, biotechnologiques et le domaine hospitalier.\nDans le cadre du renfort de nos équipes belges, nous recherchons pour notre agence située à Jumet un/une Ingénieur(e) Généraliste H/F en VIE.\nPoste et missions:\nEn tant qu’Ingénieur(e) Projet, vous êtes en étroite collaboration avec l’équipe projet et en fonction de votre degré d’autonomie, vous assurez :\n• la conception des projets dans le respect de la qualité, du budget et des délais,\n• la gestion de projet de A à Z pour votre discipline : conception, cahiers des charges, plans, supervision de l’exécution, contrôle et mise en service (commissioning et qualification),\n• la proposition de solutions innovantes, efficientes et rigoureuses aux besoins opérationnels de vos clients.\nNous vous offrons l’opportunité de construire votre avenir professionnel dans une entreprise en évolution constante dans des secteurs de pointe.\nVenez rejoindre notre Ekip !",
-   "mission": "",
-   "profile": "• Diplômé(e) ingénieur(e) généraliste ou spécialisé en Procédés et/ou Génie Chimique, Energie, Architecture ou Electricité, vous bénéficiez d’une première expérience réussie dans l’industrie, de préférence pharmaceutique ou biotechnologie, ou au sein d’un bureau d’études.\n• Votre êtes curieux(se) d’esprit, proactif(ve) et développez votre expertise et vos outils de conception de manière permanente.",
-   "duration": 12,
-   "start_date": "2026-11-01T00:00:00",
-   "end_date": "2027-11-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-07-29T08:09:09Z",
-   "sector": "",
-   "specialization": "149",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-07-29T08:09:09Z",
-    "missionStartDate": "2026-11-01T00:00:00",
-    "missionEndDate": "2027-11-01T00:00:00",
-    "startBroadcastDate": "2026-09-09T00:00:00",
-    "endBroadcastDate": "2026-10-09T00:00:00"
-   },
-   "summary": "Ekium Belgium fournit des services de définition de projets, d’ingénierie tous corps d’Etat et de qualification (GMP) pour les industries pharmaceutiques, biotechnologiques et le domaine hospitalier.\nDans le cadre du renfort de nos équipes belges, nous recherchons pour notre agence située à Jumet un/une Ingénieur(e) Généraliste H/F en VIE.\nPoste et missions:\nEn tant qu’Ingénieur(e) Projet, vous êtes en étroite collaboration avec l’équipe projet et en fonction de votre degré d’autonomie, vous assurez :\n• la conception des projets dans le respect de la qualité, du budget et des délais,\n• la gestion de projet de A à Z pour votre discipline : conception, cahiers des charges, plans, supervision de l’exécution, contrôle et mise en service (commissioning et qualification),\n• la proposition de solutions innovantes, efficientes et rigoureuses aux besoins opérationnels de vos clients.\nNous vous offrons l’opportunité de construire votre avenir professionnel dans une entreprise en évolution constante dans des secteurs de pointe.\nVenez rejoindre notre Ekip !",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/244970",
-   "score": 35,
-   "label": "À examiner",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 10,
-    "qual": 8,
-    "calc": 20
-   },
-   "dominant_axis": "calc",
-   "matched_families": [
-    {
-     "id": "calc2",
-     "axis": "calc",
-     "source": "CAO (278-1, 30 h), Conception mécanique (264-1, 43 h)",
-     "weight": 9,
-     "terms": [
-      "bureau d'etudes"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "ingenierie"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "qualification",
-      "qualite"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "energie"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Formation exigée hors cursus : score plafonné",
-     "terms": [
-      "biotechnologie"
-     ],
-     "points": -3,
      "cap": 35
     }
    ]
@@ -16777,127 +16379,6 @@
    ]
   },
   {
-   "id": "245732",
-   "title": "Deputy Program (H/F)",
-   "company": "FAURECIA SIEGES D'AUTOMOBILE",
-   "country": "TCHEQUIE / REPUBLIQUE TCHEQUE",
-   "city": "PISEK",
-   "description": "Assurer la liaison entre l'équipe centrale et l'usine tout au long des différentes phases du projet et participer régulièrement aux réunions de l'équipe centrale,\nSoutenir la gestion et le suivi de la production en collaboration avec le PPTL (Program Plant Team Leader) et l'IPL (Industrial Program Leader) (phase d'industrialisation, gestion, mise en œuvre, organisation de la production à plein régime),\nParticiper activement aux audits et aux visites des clients à l'usine et garantir le soutien de l'organisation,\nÉtablir le calendrier du programme et assurer son suivi avec le responsable de programme,\nCollecter et mettre à jour régulièrement la documentation du programme (tableau de bord du programme, PLR – Rapport de lancement du programme, rapports de suivi des performances de lancement et indicateurs KPI, plan d’affaires, analyse des risques et des opportunités) pour le responsable de programme, et animer des réunions de revue sur ces sujets, si nécessaire,\nGérer la documentation relative aux lots de travail afin de garantir les livrables du programme et de contribuer à la réussite des objectifs du programme,\nSoutenir les procédures et la mise en œuvre des demandes de modification technique (ECR),\nAssurer la coordination entre toutes les fonctions, telles que la qualité pour la validation, la logistique pour la gestion de la production, etc.,\nAssister le contrôleur de programme dans l’élaboration du plan d’affaires,\nSoutenir les activités d’industrialisation lors de la réception de la nouvelle machine et de l’outillage, y compris la collecte des documents pertinents (tels que le protocole de réception et la documentation relative à la machine)",
-   "mission": "",
-   "profile": "Le candidat idéal devra posséder les qualités suivantes :\n\nNiveau d’études minimum : master en ingénierie, économie ou gestion.\n\nCompétences et aptitudes :\n\nDynamique de groupe et gestion des relations : bonne compréhension de la dynamique d’équipe et capacité à gérer efficacement les relations, en particulier au sein d’équipes de grande taille. \nCompétences en communication et en organisation : excellentes aptitudes à la communication orale et écrite, ainsi qu’un sens aigu de l’organisation, de l’efficacité et de la hiérarchisation des tâches. Capacité à préparer des présentations destinées à la direction. \nPlanification et résolution de problèmes : capacité à définir des objectifs clairs et mesurables et à résoudre efficacement les problèmes. \nSolide connaissance des processus de gestion de programme dans l’industrie automobile. \nMaîtrise de la méthodologie 8D et, de préférence, d’outils plus détaillés (5W2H, Ishikawa, etc.). \nGestion du temps et assurance qualité : capacité à gérer efficacement son temps sans compromettre la qualité.\nNégociation et diplomatie : Solides compétences en négociation et capacité à gérer les problèmes avec diplomatie et tact.\nSouci du détail et analyse des données : Sens aigu du détail et capacité à analyser les données avec précision. \nOutils : Outils de gestion de programme et MS Office (Excel et PowerPoint). \nAnglais : Maîtrise de l’anglais et capacité à comprendre et à s’exprimer dans un anglais des affaires de bon niveau.",
-   "duration": 12,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2027-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-09T08:23:29Z",
-   "sector": "",
-   "specialization": "149",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-09T08:23:29Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-09T00:00:00",
-    "endBroadcastDate": "2026-10-09T00:00:00"
-   },
-   "summary": "Assurer la liaison entre l'équipe centrale et l'usine tout au long des différentes phases du projet et participer régulièrement aux réunions de l'équipe centrale,\nSoutenir la gestion et le suivi de la production en collaboration avec le PPTL (Program Plant Team Leader) et l'IPL (Industrial Program Leader) (phase d'industrialisation, gestion, mise en œuvre, organisation de la production à plein régime),\nParticiper activement aux audits et aux visites des clients à l'usine et garantir le soutien de l'organisation,\nÉtablir le calendrier du programme et assurer son suivi avec le responsable de programme,\nCollecter et mettre à jour régulièrement la documentation du programme (tableau de bord du programme, PLR – Rapport de lancement du programme, rapports de suivi des performances de lancement et indicateurs KPI, plan d’affaires, analyse des risques et des opportunités) pour le responsable de programme, et animer des réunions de revue sur ces sujets, si nécessaire, […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/245732",
-   "score": 35,
-   "label": "À examiner",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 45,
-    "qual": 49,
-    "calc": 0
-   },
-   "dominant_axis": "qual",
-   "matched_families": [
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
-     "weight": 10,
-     "terms": [
-      "industrialisation",
-      "outillage",
-      "plant",
-      "usine"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "ingenierie"
-     ]
-    },
-    {
-     "id": "qual3",
-     "axis": "qual",
-     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
-     "weight": 7,
-     "terms": [
-      "8d"
-     ]
-    },
-    {
-     "id": "qual2",
-     "axis": "qual",
-     "source": "Qualité et normes (774-1, 14 h, coefficient 0,5)",
-     "weight": 4,
-     "terms": [
-      "assurance qualite"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "qualite",
-      "validation"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "resolution de problemes"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "automobile",
-      "industrial"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Formation exigée hors cursus : score plafonné",
-     "terms": [
-      "gestion"
-     ],
-     "points": -15,
-     "cap": 35
-    }
-   ]
-  },
-  {
    "id": "245643",
    "title": "Concepteur en IA et expérience numérique (H/F)",
    "company": "FAURECIA SIEGES D'AUTOMOBILE",
@@ -17313,7 +16794,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-07T15:09:37Z",
    "sector": "",
-   "specialization": "[\"79\",\"150\",\"206\",\"207\",\"208\"]",
+   "specialization": "79, 150, 206, 207, 208",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -18200,116 +17681,6 @@
    ]
   },
   {
-   "id": "244296",
-   "title": "VIE - Junior Plant Procurement Manager - Naples (H/F)",
-   "company": "SCHNEIDER ELECTRIC INDUSTRIES SAS",
-   "country": "ITALIE",
-   "city": "NAPLES",
-   "description": "Rejoignez-nous dans le cadre d’un VIE passionnant en tant que Junior Plant Procurement Manager, basé à Naples, en Italie.\nVous assisterez le Senior Plant Procurement Manager dans le pilotage de la performance achats, la gestion des fournisseurs et les initiatives d’amélioration continue, tout en jouant un rôle clé de support auprès de l’usine.\n\nPrincipales missions\n\nPerformance et productivité achats\n• Accompagner le Senior Plant Procurement Manager dans le suivi de la productivité des matières premières et de l’évolution des coûts (CSC).\n• Contribuer au suivi du pipeline d’économies et à la mise en œuvre des actions de productivité.\n• Participer à la collecte, l’analyse et au reporting des données de performance achats.\n• Aider à la préparation des revues de performance (QBR et réunions mensuelles).\n\nPerformance fournisseurs et continuité d’activité\n• Contribuer aux activités de gestion de la performance fournisseurs (qualité, délais de livraison et niveau de service).\n• Participer à l’organisation et à la préparation des réunions de performance fournisseurs (SUPMAN).\n• Assurer le suivi des problématiques fournisseurs et des escalades associées.\n• Contribuer au suivi des risques et à la mise en place d’actions de mitigation liées à la qualité et à la logistique.\n\nProcessus achats usine\n• Participer au déploiement de la stratégie Achats et du plan d’actions Achats de l’usine (APOP).\n• Contribuer à la consolidation des données et au reporting des outils Achats (notamment les outils de suivi des économies).\n• Participer à la mise à jour des bases de données fournisseurs et au respect des exigences documentaires.\n\nSupport transverse\n• Travailler en étroite collaboration avec les équipes Supply Chain, Qualité, Production et Finance.\n• Assister le Senior Plant Procurement Manager dans la coordination avec les Category Managers et les autres parties prenantes.\n• Contribuer au reporting au niveau du cluster et au suivi des KPI.\n• Participer à l’harmonisation des pratiques achats entre les différentes usines.\n• Prendre part à des projets transverses liés à la digitalisation, à l’amélioration continue et à la durabilité.\n• Partager les bonnes pratiques et les retours d’expérience au sein du cluster.\n\nDurabilité et conformité\n• Soutenir le déploiement des initiatives d’achats durables.\n• Aider à garantir le respect des processus, outils et audits liés aux achats.",
-   "mission": "",
-   "profile": "Formation : Diplôme de niveau Master en Supply Chain, Achats (Procurement), Génie Industriel, Administration des Affaires (Business Administration) ou dans un domaine connexe.\n\nExpérience : 1 à 2 ans d'expérience en Supply Chain, Achats ou dans un domaine similaire (les stages et les alternances sont pleinement pris en compte).\n\nCompétences et état d’esprit : \n- Maîtrise courante de l’anglais, à l’écrit comme à l’oral.\n- Bonne compréhension des processus d’achats et de Supply Chain.\n- Expérience ou connaissance de la définition et du suivi des KPI.\n- Excellentes capacités d’analyse et de traitement des données.\n- Solides compétences en communication et en gestion des parties prenantes (stakeholders).\n- Personne proactive, autonome et désireuse d’apprendre.\n- Esprit collaboratif, orienté résolution de problèmes et travail en équipe.\n- Intérêt pour l’amélioration continue des processus et la gestion de projet.\n- Capacité à évoluer dans un environnement industriel dynamique et international.\n- Maîtrise d’Excel et des outils d’analyse et de visualisation de données, notamment Power BI.",
-   "duration": 12,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-07-02T09:54:01Z",
-   "sector": "",
-   "specialization": "2",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-07-02T09:54:01Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-09-09T00:00:00",
-    "endBroadcastDate": "2026-10-09T00:00:00"
-   },
-   "summary": "Rejoignez-nous dans le cadre d’un VIE passionnant en tant que Junior Plant Procurement Manager, basé à Naples, en Italie.\nVous assisterez le Senior Plant Procurement Manager dans le pilotage de la performance achats, la gestion des fournisseurs et les initiatives d’amélioration continue, tout en jouant un rôle clé de support auprès de l’usine.\n\nPrincipales missions\n\nPerformance et productivité achats\n• Accompagner le Senior Plant Procurement Manager dans le suivi de la productivité des matières premières et de l’évolution des coûts (CSC).\n• Contribuer au suivi du pipeline d’économies et à la mise en œuvre des actions de productivité.\n• Participer à la collecte, l’analyse et au reporting des données de performance achats.\n• Aider à la préparation des revues de performance (QBR et réunions mensuelles).\n\nPerformance fournisseurs et continuité d’activité\n• Contribuer aux activités de gestion de la performance fournisseurs (qualité, délais de livraison et niveau de service).\n• Participer à l’organisation et à la préparation des réunions de performance fournisseurs (SUPMAN). […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/244296",
-   "score": 35,
-   "label": "À examiner",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 59,
-    "qual": 8,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
-     "weight": 10,
-     "terms": [
-      "plant",
-      "usine"
-     ]
-    },
-    {
-     "id": "prod5",
-     "axis": "prod",
-     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
-     "weight": 4,
-     "terms": [
-      "productivite"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "amelioration continue"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "conformite",
-      "qualite"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "resolution de problemes"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "industriel"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Formation exigée hors cursus : score plafonné",
-     "terms": [
-      "genie industriel",
-      "gestion"
-     ],
-     "points": -12,
-     "cap": 35
-    }
-   ]
-  },
-  {
    "id": "244629",
    "title": "Ingénieur Projet Automatisme H/F (H/F)",
    "company": "SEGITEC FRANCE",
@@ -19107,7 +18478,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T11:27:28Z",
    "sector": "",
-   "specialization": "259",
+   "specialization": "[\"259\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19936,7 +19307,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T15:08:09Z",
    "sector": "",
-   "specialization": "[\"149\"]",
+   "specialization": "149",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20116,7 +19487,7 @@
    "expiry_date": "",
    "publish_date": "2025-11-19T10:45:12Z",
    "sector": "",
-   "specialization": "[\"71\",\"73\",\"224\"]",
+   "specialization": "71, 73, 224",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20468,7 +19839,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-19T14:44:15Z",
    "sector": "",
-   "specialization": "[\"149\"]",
+   "specialization": "149",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20715,7 +20086,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T15:40:33Z",
    "sector": "",
-   "specialization": "[\"304\"]",
+   "specialization": "304",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21055,7 +20426,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-05T12:06:18Z",
    "sector": "",
-   "specialization": "[\"224\"]",
+   "specialization": "224",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21292,7 +20663,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-21T12:18:30Z",
    "sector": "",
-   "specialization": "[\"60\"]",
+   "specialization": "60",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21629,7 +21000,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T09:01:30Z",
    "sector": "",
-   "specialization": "[\"251\"]",
+   "specialization": "251",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22080,7 +21451,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-01T07:59:11Z",
    "sector": "",
-   "specialization": "[\"244\"]",
+   "specialization": "244",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22778,7 +22149,7 @@
    "expiry_date": "",
    "publish_date": "2026-05-12T14:27:31Z",
    "sector": "",
-   "specialization": "325",
+   "specialization": "[\"325\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22943,6 +22314,93 @@
    ]
   },
   {
+   "id": "246894",
+   "title": "AI Software Engineer (Java/.NET) (H/F)",
+   "company": "CAPGEMINI TECHNOLOGY SERVICES",
+   "country": "ROUMANIE",
+   "city": "BUCAREST",
+   "description": "Ready to take your career international?\nJoin Capgemini in Bucharest as an AI Software Engineer and contribute to the development of innovative digital solutions combining software engineering and Artificial Intelligence. You will work in an international environment and collaborate with multidisciplinary teams to design, develop, and deploy next-generation applications for major clients.\nThis V.I.E. assignment offers a unique opportunity to strengthen your technical expertise while gaining valuable international experience in one of Capgemini's growing delivery centers in Eastern Europe.\n\nYour role\nAs an AI Software Engineer, you will:\n• Develop and maintain applications using Java and/or .NET technologies\n• Integrate AI and Generative AI capabilities into business solutions\n• Design and develop APIs and microservices\n• Collaborate with international Agile teams\n• Participate in testing, deployment, and production support\n• Translate business needs into technical solutions\n• Contribute to innovation and AI-driven initiatives\n\nWHAT YOU’LL LOVE ABOUT WORKING HERE\n• A challenging international experience within a global technology leader\n• Exposure to cutting-edge AI and software engineering projects\n• Collaboration with multicultural and highly skilled teams\n• Opportunities to develop both technical and business skills\n• A strong accelerator for your international career",
+   "mission": "",
+   "profile": "Your profile\n• Master's degree in Computer Science, Software Engineering, or a related field \n• First experience (internship, apprenticeship, or graduate project) in Java and/or .NET development \n• Interest in Artificial Intelligence and Generative AI technologies \n• Knowledge of Agile methodologies and software development best practices \n• Analytical, proactive, and team-oriented mindset \n• Knowledge of Azure, AWS, or Google Cloud is a plus\nLanguages\n• French: Fluent\n• Romanian: Fluent or professional proficiency\n• English: Professional proficiency",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-09T12:35:56Z",
+   "sector": "",
+   "specialization": "[\"328\",\"330\",\"355\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-09T12:35:56Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-09T00:00:00",
+    "endBroadcastDate": "2026-11-08T00:00:00"
+   },
+   "summary": "Ready to take your career international?\nJoin Capgemini in Bucharest as an AI Software Engineer and contribute to the development of innovative digital solutions combining software engineering and Artificial Intelligence. You will work in an international environment and collaborate with multidisciplinary teams to design, develop, and deploy next-generation applications for major clients.\nThis V.I.E. assignment offers a unique opportunity to strengthen your technical expertise while gaining valuable international experience in one of Capgemini's growing delivery centers in Eastern Europe.\n\nYour role\nAs an AI Software Engineer, you will:\n• Develop and maintain applications using Java and/or .NET technologies\n• Integrate AI and Generative AI capabilities into business solutions\n• Design and develop APIs and microservices\n• Collaborate with international Agile teams\n• Participate in testing, deployment, and production support\n• Translate business needs into technical solutions\n• Contribute to innovation and AI-driven initiatives\n\nWHAT YOU’LL LOVE ABOUT WORKING HERE […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/246894",
+   "score": 30,
+   "label": "Périphérique",
+   "first_seen": "2026-10-10T15:53:08+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 34,
+    "qual": 8,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod6",
+     "axis": "prod",
+     "source": "Outils et moyens de fabrication (259-1, 30 h)",
+     "weight": 7,
+     "terms": [
+      "cutting"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "engineering"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "testing"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "engineer"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    },
+    {
+     "label": "Aucun terme industriel : score plafonné",
+     "terms": [],
+     "points": -10,
+     "cap": 30
+    }
+   ]
+  },
+  {
    "id": "246887",
    "title": "High Voltage (HV) Engineer – Substation Commissioning (H/F)",
    "company": "CLEEVEN ND",
@@ -22957,7 +22415,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-09T09:05:20Z",
    "sector": "",
-   "specialization": "[\"71\"]",
+   "specialization": "71",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -23126,7 +22584,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-12T13:41:19Z",
    "sector": "",
-   "specialization": "[\"351\"]",
+   "specialization": "351",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -24280,7 +23738,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-21T09:47:43Z",
    "sector": "",
-   "specialization": "[\"66\",\"71\",\"143\"]",
+   "specialization": "66, 71, 143",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -24458,7 +23916,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-09T13:20:04Z",
    "sector": "",
-   "specialization": "[\"327\"]",
+   "specialization": "327",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -24943,7 +24401,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T09:30:50Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25030,6 +24488,113 @@
      "label": "Aucun terme industriel : score plafonné",
      "terms": [],
      "points": -19,
+     "cap": 30
+    }
+   ]
+  },
+  {
+   "id": "246907",
+   "title": "Responsable adjoint de programme (H/F)",
+   "company": "FAURECIA SIEGES D'AUTOMOBILE",
+   "country": "PORTUGAL",
+   "city": "SAO JOAO DA MADEIRA",
+   "description": "Mettre en place le calendrier du programme et assurer son suivi\nRassembler la documentation relative au programme (plan d’affaires, analyse des risques et des opportunités, tableau de bord du programme, rapport de lancement du programme (PLR), rapport de suivi des performances au lancement et indicateurs KPI) à l’intention du responsable de programme, et organiser des réunions d’examen sur ces sujets lorsque cela s’avère nécessaire\nVeiller à la mise à jour régulière de cette documentation\nGérer des dossiers internes spécifiques à la demande du responsable de programme (tels que le développement et la livraison de prototypes)\nVeiller à ce que les processus définis dans le système de gestion de programmes (PMS) de Faurecia soient appliqués à toutes les étapes\nOrganiser la documentation afin d’assurer la continuité du programme et de contribuer à la gestion des connaissances\nVeiller à la conformité des programmes avec les systèmes qualité des clients, ainsi qu’avec les normes HSE, de sécurité et réglementaires\nParticiper aux réunions de revue du programme (quotidiennes ou hebdomadaires)\nSoutenir les routines et la documentation ECM\nParticiper activement aux réunions avec les clients\nFaciliter la communication avec les clients concernant les livraisons, les performances qualité, les modifications techniques et les retards de production\nContribuer au maintien d’une relation client positive et professionnelle",
+   "mission": "",
+   "profile": "Le candidat idéal devra posséder les qualités suivantes :\n\nNiveau d’études minimum : master en ingénierie, économie ou gestion.\n\nCompétences et aptitudes \n\nDynamique de groupe et gestion des relations : bonne compréhension de la dynamique d’équipe et capacité à gérer efficacement les relations, en particulier au sein d’équipes de grande taille. \nCompétences en communication et en organisation : excellentes aptitudes à la communication orale et écrite, ainsi qu’un sens aigu de l’organisation, de l’efficacité et de la hiérarchisation des tâches. Capacité à préparer des présentations destinées à la direction. \nPlanification et résolution de problèmes : capacité à définir des objectifs clairs et mesurables et à résoudre efficacement les problèmes. \nSolide connaissance des processus de gestion de programmes dans l’industrie automobile. \nMéthodologie 8D et, de préférence, maîtrise d’outils plus détaillés (5W2H, Ishikawa, etc.). \nGestion du temps et assurance qualité : capacité à gérer efficacement son temps sans compromettre la qualité.\nNégociation et diplomatie : Solides compétences en négociation et capacité à gérer les problèmes avec diplomatie et tact.\nSouci du détail et analyse des données : Sens aigu du détail et capacité à analyser les données avec précision. \nOutils : Outils de gestion de programme et MS Office (Excel et PowerPoint). \nAnglais : Maîtrise parfaite de l’anglais et capacité à comprendre et à s’exprimer dans un anglais des affaires de bon niveau.",
+   "duration": 12,
+   "start_date": "2026-12-01T00:00:00",
+   "end_date": "2027-12-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-09T14:40:36Z",
+   "sector": "",
+   "specialization": "[\"21\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-09T14:40:36Z",
+    "missionStartDate": "2026-12-01T00:00:00",
+    "missionEndDate": "2027-12-01T00:00:00",
+    "startBroadcastDate": "2026-10-09T00:00:00",
+    "endBroadcastDate": "2026-11-08T00:00:00"
+   },
+   "summary": "Mettre en place le calendrier du programme et assurer son suivi\nRassembler la documentation relative au programme (plan d’affaires, analyse des risques et des opportunités, tableau de bord du programme, rapport de lancement du programme (PLR), rapport de suivi des performances au lancement et indicateurs KPI) à l’intention du responsable de programme, et organiser des réunions d’examen sur ces sujets lorsque cela s’avère nécessaire\nVeiller à la mise à jour régulière de cette documentation\nGérer des dossiers internes spécifiques à la demande du responsable de programme (tels que le développement et la livraison de prototypes)\nVeiller à ce que les processus définis dans le système de gestion de programmes (PMS) de Faurecia soient appliqués à toutes les étapes\nOrganiser la documentation afin d’assurer la continuité du programme et de contribuer à la gestion des connaissances\nVeiller à la conformité des programmes avec les systèmes qualité des clients, ainsi qu’avec les normes HSE, de sécurité et réglementaires […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/246907",
+   "score": 30,
+   "label": "Périphérique",
+   "first_seen": "2026-10-10T15:53:08+00:00",
+   "axis_scores": {
+    "rd": 9,
+    "prod": 10,
+    "qual": 49,
+    "calc": 0
+   },
+   "dominant_axis": "qual",
+   "matched_families": [
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "ingenierie"
+     ]
+    },
+    {
+     "id": "qual3",
+     "axis": "qual",
+     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
+     "weight": 7,
+     "terms": [
+      "8d"
+     ]
+    },
+    {
+     "id": "qual2",
+     "axis": "qual",
+     "source": "Qualité et normes (774-1, 14 h, coefficient 0,5)",
+     "weight": 4,
+     "terms": [
+      "assurance qualite"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "conformite",
+      "normes",
+      "qualite"
+     ]
+    },
+    {
+     "id": "rd9",
+     "axis": "rd",
+     "source": "Vocabulaire de laboratoire courant",
+     "weight": 3,
+     "terms": [
+      "resolution de problemes"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "automobile"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    },
+    {
+     "label": "Aucun terme industriel : score plafonné",
+     "terms": [],
+     "points": -12,
      "cap": 30
     }
    ]
@@ -25659,7 +25224,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-29T16:17:57Z",
    "sector": "",
-   "specialization": "330",
+   "specialization": "[\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26136,7 +25701,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T13:35:27Z",
    "sector": "",
-   "specialization": "[\"65\",\"66\",\"68\",\"71\",\"153\"]",
+   "specialization": "65, 66, 68, 71, 153",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26535,7 +26100,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-02T10:23:33Z",
    "sector": "",
-   "specialization": "[\"149\"]",
+   "specialization": "149",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27479,7 +27044,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-27T13:31:01Z",
    "sector": "",
-   "specialization": "[\"251\"]",
+   "specialization": "251",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27692,7 +27257,7 @@
    "expiry_date": "",
    "publish_date": "2025-10-28T09:46:40Z",
    "sector": "",
-   "specialization": "[\"248\"]",
+   "specialization": "248",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -28260,7 +27825,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-03T16:37:44Z",
    "sector": "",
-   "specialization": "[\"155\"]",
+   "specialization": "155",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29733,6 +29298,71 @@
    ]
   },
   {
+   "id": "246904",
+   "title": "HR Specialist VIE (H/F)",
+   "company": "FAURECIA SIEGES D'AUTOMOBILE",
+   "country": "TCHEQUIE / REPUBLIQUE TCHEQUE",
+   "city": "MLADA BOLESLAV",
+   "description": "Your position and environment?\nWe are looking for an HR Specialist VIE who will provide support to the Faurecia Automotive Systems Pilsen plant , and who will be based in Czech Republic - Pilsen.  \n\nThe Main Missions Of The Role Are:\nThe role of the Human Resources VIE is to support the HR Manager in the day-to-day HR management, in accordance with the Group's human resources policies and procedures. The main missions of the role are to:\n\nSupport HR Department with focus on Employee Empowerment topics – especially audits of Supervisor Role, GAP Leader Role and Mastery of Workstations\nAdministrative and Reporting tasks\nSupport of the Training Centre with Onboarding our newcomers\nParticipate in training or Health Safety & Environment (HSE) issues if necessary.",
+   "mission": "",
+   "profile": "The ideal candidate will have/be:\n\nMaster's 2 Degree with a specialisation in HR\nA first experience in the HR function within a industrial environment\nFamiliar with HR Information systems as well as MS office\nInternational mind set\nGood interpersonal skills\nMinimum bi-lingual (English required)",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-09T14:28:29Z",
+   "sector": "",
+   "specialization": "[\"238\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-09T14:28:29Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-09T00:00:00",
+    "endBroadcastDate": "2026-11-08T00:00:00"
+   },
+   "summary": "Your position and environment?\nWe are looking for an HR Specialist VIE who will provide support to the Faurecia Automotive Systems Pilsen plant , and who will be based in Czech Republic - Pilsen.  \n\nThe Main Missions Of The Role Are:\nThe role of the Human Resources VIE is to support the HR Manager in the day-to-day HR management, in accordance with the Group's human resources policies and procedures. The main missions of the role are to:\n\nSupport HR Department with focus on Employee Empowerment topics – especially audits of Supervisor Role, GAP Leader Role and Mastery of Workstations\nAdministrative and Reporting tasks\nSupport of the Training Centre with Onboarding our newcomers\nParticipate in training or Health Safety & Environment (HSE) issues if necessary.",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/246904",
+   "score": 29,
+   "label": "Périphérique",
+   "first_seen": "2026-10-10T15:53:08+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 34,
+    "qual": 0,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod4",
+     "axis": "prod",
+     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
+     "weight": 10,
+     "terms": [
+      "plant"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "automobile",
+      "automotive",
+      "industrial"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
    "id": "245353",
    "title": "PROJECT ENGINEER (H/F)",
    "company": "FORTIL GROUP",
@@ -30055,7 +29685,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-23T07:37:46Z",
    "sector": "",
-   "specialization": "[\"318\"]",
+   "specialization": "318",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30892,89 +30522,6 @@
    ]
   },
   {
-   "id": "245749",
-   "title": "VIE - Project Management Officer (H/F)",
-   "company": "CACEIS",
-   "country": "ALLEMAGNE",
-   "city": "MUNICH",
-   "description": "The VIE contract in short: According Business France's eligibility conditions, the Volontariat International en Entreprise (VIE) is an assignment in a French company operating overseas for professionals between the age of 18 and 28 who are European Economic Area (EU + Norway, Iceland und Liechtenstein - except Germany) nationals.. \r\n\r\nFor further information about the eligibility conditions, we invite you to go to Business France website: https://mon-vie-via.businessfrance.fr/. \r\n\r\nPLEASE NOTE: your application must be submitted in English (CV + cover letter) to be considered by our non-French speaking teams.\r\n\r\nAt the crossroads of business, technological, and organizational challenges, the CACEIS Consulting team plays a transversal role: we structure initiatives, strengthen strategic coherence, and mobilize the resources that drive each project’s success.\r\n\r\nOur mission: to ensure consistency, performance and success of the initiatives shaping the future. Whether driving or launching a project, exploring new career opportunities, or simply interested in discovering our activities, dive into our world!\r\n\r\nAs required, we contribute to or lead projects of CACEIS Bank, Germany Branch or the group. The unit reports directly to the Country Managing Director of CACEIS Bank, Germany Branch.\r\n\r\nIn this context, your main missions as Project Manager Officer in alignment with the Project Lead will be: \r\n\r\nProject management:\r\n-Translate the sponsor's requirements to define the budget, resources and project schedule with the sponsor\r\n-Implement oversight indicators\r\n-Define and ratify the project's deliverables\r\n-Communicate upwards and downwards about the project\r\n-Involve and coordinate the parties that interface with the project\r\n-Write operational procedures relating to the project\r\n-Identify risks that could affect the critical path or cause budget overruns and propose any remedial measures\r\n\r\nCoordination of project team and skills development:\r\n-Contribute to setting the project objectives with the sponsor\r\n-Organize and lead working meetings (coordination, workshops, etc.) and produce the associated minutes\r\n-Organize regular monitoring meetings with teams and sponsors to collect feedback and provide an update on project progress\r\n-Participate in internal and external networks (feedback, research, forums, etc.)\r\n-Coach and participate in the appraisal of his/her project team\r\n\r\nChange management:\r\n-Participate in the implementation of new activities within his/her entity/function\r\n-Recommend changes to processes and suggest improvements\r\n-Identify, propose and implement change management actions\r\n\r\nCACEIS Bank Germany offers to its VIEs the following benefits:\r\n-German courses\r\n-6 weeks of vacation per year\r\n-Flexible working hours\r\n-International work environment",
-   "mission": "",
-   "profile": "Minimal education level:\n-Postgraduate degree – MA/MSc/PhD/Doctorate or equivalent\n\nAcademic qualification / Speciality:\n-Master's Degree (University, Business or Engineering School) in Project Management, Business Administration, Finance or other related field.\n\nLevel of minimal experience:\n-0-2 years\n\nExperience:\n-First experience (internship, apprenticeship or first job) in Project Management or Consulting.\n\nRequired skills:\n-Planning Skills\n-Data analysis Skill\n-Experience in financial procedures and products\n-Teamwork\n-Structured work\n-Capacity to analyze complex issues\n-Result and deadline orientation through analytical capability\n-Methodological and presentation skills\n \nTechnical skills required:\n-MS-Office suite (Word, Excel, Powerpoint): proficient\n-MS PowerBI: proficient\n-AI prompting: proficient\n\nLanguages:\nEnglish : fluent ; German : basic",
-   "duration": 24,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2029-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-09T13:55:04Z",
-   "sector": "",
-   "specialization": "109",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-09T13:55:04Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2029-01-01T00:00:00",
-    "startBroadcastDate": "2026-09-09T00:00:00",
-    "endBroadcastDate": "2026-10-09T00:00:00"
-   },
-   "summary": "The VIE contract in short: According Business France's eligibility conditions, the Volontariat International en Entreprise (VIE) is an assignment in a French company operating overseas for professionals between the age of 18 and 28 who are European Economic Area (EU + Norway, Iceland und Liechtenstein - except Germany) nationals.. \r\n\r\nFor further information about the eligibility conditions, we invite you to go to Business France website: https://mon-vie-via.businessfrance.fr/. \r\n\r\nPLEASE NOTE: your application must be submitted in English (CV + cover letter) to be considered by our non-French speaking teams.\r\n\r\nAt the crossroads of business, technological, and organizational challenges, the CACEIS Consulting team plays a transversal role: we structure initiatives, strengthen strategic coherence, and mobilize the resources that drive each project’s success.\r\n\r\nOur mission: to ensure consistency, performance and success of the initiatives shaping the future. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/245749",
-   "score": 28,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 10,
-    "qual": 34,
-    "calc": 9
-   },
-   "dominant_axis": "qual",
-   "matched_families": [
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
-     "weight": 4,
-     "terms": [
-      "data analysis"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "engineering"
-     ]
-    },
-    {
-     "id": "qual3",
-     "axis": "qual",
-     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
-     "weight": 7,
-     "terms": [
-      "capability"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "qualification"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "244933",
    "title": "Ingénieur automaticien (H/F)",
    "company": "CLEEVEN ND",
@@ -31133,7 +30680,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-28T07:15:47Z",
    "sector": "",
-   "specialization": "[\"4\",\"5\",\"9\",\"21\",\"109\",\"130\",\"147\",\"199\",\"202\",\"205\"]",
+   "specialization": "4, 5, 9, 21, 109, 130, 147, 199, 202, 205",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31248,7 +30795,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T10:55:11Z",
    "sector": "",
-   "specialization": "[\"138\",\"248\",\"330\",\"355\"]",
+   "specialization": "138, 248, 330, 355",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31339,7 +30886,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T09:43:41Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33168,7 +32715,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T16:05:20Z",
    "sector": "",
-   "specialization": "[\"68\",\"77\",\"109\",\"130\",\"149\",\"169\"]",
+   "specialization": "68, 77, 109, 130, 149, 169",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33310,113 +32857,6 @@
    ]
   },
   {
-   "id": "245750",
-   "title": "VIE - Junior Category Buyer (Industrial Supplies) - Budapest (H/F)",
-   "company": "SCHNEIDER ELECTRIC INDUSTRIES SAS",
-   "country": "HONGRIE",
-   "city": "BUDAPEST",
-   "description": "Join Schneider Electric's Global Procurement organization and contribute to the sourcing and category management of Industrial Supplies, including Maintenance, Repair & Operations (MRO), Metrology, Calibration, and Personal Protective Equipment (PPE).\n\nWorking in an international environment, you will support procurement projects across Europe and globally, drive process improvements, collaborate with multiple stakeholders, and contribute to supplier performance and category strategies.\n\nYour Responsibilities\nSupport the deployment of global procurement projects and category initiatives.\nContribute to the rollout of e-catalogues and digital procurement solutions.\nParticipate in process optimization and standardization projects for industrial supplies.\nCoordinate actions with factories, industrialization teams, safety teams, and procurement stakeholders.\nSupport supplier performance monitoring and supplier panel rationalization initiatives.\nParticipate in sourcing activities, supplier evaluations, and market analysis.\nAssist in the implementation of procurement agreements and purchasing strategies.\nSupport data management, reporting, and procurement performance tracking.\nCollaborate with local buyers and global category managers on continuous improvement initiatives.",
-   "mission": "",
-   "profile": "Education\n\nMaster's degree in Procurement, Supply Chain, Business, Engineering, or a related field.\nExperience\n\nInternship, apprenticeship, or initial experience in Procurement, Purchasing, Supply Chain, or Operations.\nSkills\n\nStrong interest in procurement and supplier management.\nGood analytical and data management capabilities.\nProject management and stakeholder coordination skills.\nDigital mindset and continuous improvement orientation.\nStrong communication and teamwork skills.\nAutonomous, proactive, and results-oriented.\nTechnical Knowledge\n\nAdvanced Excel skills.\nKnowledge of SAP, Coupa, or other procurement tools is a plus.\nFamiliarity with data analysis and reporting tools.\nLanguages\nFluent English.\nFrench is a strong advantage.",
-   "duration": 24,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2028-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-09T13:57:43Z",
-   "sector": "",
-   "specialization": "2",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-09T13:57:43Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2028-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-09T00:00:00",
-    "endBroadcastDate": "2026-10-09T00:00:00"
-   },
-   "summary": "Join Schneider Electric's Global Procurement organization and contribute to the sourcing and category management of Industrial Supplies, including Maintenance, Repair & Operations (MRO), Metrology, Calibration, and Personal Protective Equipment (PPE).\n\nWorking in an international environment, you will support procurement projects across Europe and globally, drive process improvements, collaborate with multiple stakeholders, and contribute to supplier performance and category strategies.\n\nYour Responsibilities\nSupport the deployment of global procurement projects and category initiatives.\nContribute to the rollout of e-catalogues and digital procurement solutions.\nParticipate in process optimization and standardization projects for industrial supplies.\nCoordinate actions with factories, industrialization teams, safety teams, and procurement stakeholders.\nSupport supplier performance monitoring and supplier panel rationalization initiatives.\nParticipate in sourcing activities, supplier evaluations, and market analysis. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/245750",
-   "score": 27,
-   "label": "Périphérique",
-   "first_seen": "2026-10-09T13:36:23+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 59,
-    "qual": 15,
-    "calc": 9
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
-     "weight": 4,
-     "terms": [
-      "data analysis"
-     ]
-    },
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
-     "weight": 10,
-     "terms": [
-      "industrialization"
-     ]
-    },
-    {
-     "id": "prod5",
-     "axis": "prod",
-     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
-     "weight": 4,
-     "terms": [
-      "process optimization"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "continuous improvement",
-      "engineering"
-     ]
-    },
-    {
-     "id": "qual4",
-     "axis": "qual",
-     "source": "Introduction aux techniques expérimentales (267-1, 15 h)",
-     "weight": 4,
-     "terms": [
-      "metrology"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "industrial"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Intitulé hors formation",
-     "terms": [
-      "buyer"
-     ],
-     "points": -22
-    }
-   ]
-  },
-  {
    "id": "245764",
    "title": "INGÉNIEUR DÉVELOPPEMENT LABVIEW (H/F)",
    "company": "T&S TECHNOLOGY &STRATEGY ENGINEERING",
@@ -33431,7 +32871,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-10T07:52:56Z",
    "sector": "",
-   "specialization": "[\"251\"]",
+   "specialization": "251",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33513,7 +32953,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-28T13:57:30Z",
    "sector": "",
-   "specialization": "[\"68\"]",
+   "specialization": "68",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33599,7 +33039,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-28T15:24:33Z",
    "sector": "",
-   "specialization": "[\"29\",\"130\",\"213\",\"251\",\"262\",\"327\",\"329\",\"330\"]",
+   "specialization": "29, 130, 213, 251, 262, 327, 329, 330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33990,7 +33430,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-14T11:26:55Z",
    "sector": "",
-   "specialization": "[\"70\"]",
+   "specialization": "70",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34065,7 +33505,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T07:43:54Z",
    "sector": "",
-   "specialization": "[\"70\"]",
+   "specialization": "70",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34712,7 +34152,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-29T11:18:49Z",
    "sector": "",
-   "specialization": "[\"245\",\"251\",\"330\",\"354\"]",
+   "specialization": "245, 251, 330, 354",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34908,99 +34348,6 @@
       "ingenieur"
      ],
      "points": 14
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
-   "id": "245720",
-   "title": "VIE - Procurement & Supply Chain specialist - Horgen (H/F)",
-   "company": "SCHNEIDER ELECTRIC INDUSTRIES SAS",
-   "country": "SUISSE",
-   "city": "HORGEN",
-   "description": "Join Schneider Electric and gain hands-on experience in Procurement and Supply Chain within an international industrial environment.\n\nAs a VIE, you will support strategic procurement and supply chain projects aimed at improving supplier performance, operational efficiency, digitalization, sustainability, and readiness for the future SAP S/4HANA transformation. Working closely with procurement, supply chain, manufacturing, and supplier partners, you will contribute to projects that directly impact business performance.\n\nYour Key Responsibilities\nSupport procurement and supply chain improvement initiatives focusing on cost competitiveness, supplier resilience, and operational efficiency.\nAssist in supplier digitalization projects, including the deployment of digital supply chain tools and processes.\nContribute to supplier contract management activities and support preparation for the SAP S/4HANA migration.\nAnalyze procurement and supply chain data to identify improvement opportunities in inventory, lead times, and supplier performance.\nParticipate in supplier capacity and sourcing projects to strengthen supply continuity and flexibility.\nSupport supply chain simplification initiatives and process optimization projects.\nContribute to sustainability and compliance activities related to supplier and product regulations (REACH, RoHS, ESG requirements, etc.).\nPrepare reports, dashboards, presentations, and project follow-up materials for key stakeholders.\nCollaborate with cross-functional teams across Procurement, Supply Chain, Manufacturing, Quality, and Finance.",
-   "mission": "",
-   "profile": "Education\nMaster's degree in Supply Chain Manageme, Procurement, Industrial Engineering, or a related field.\nSkills & Experience\nFirst experience (internship, apprenticeship) in procurement, supply chain, operations, logistics, or project management.\nStrong analytical mindset and ability to work with data.\nInterest in digital transformation and continuous improvement.\nComfortable working in an international and cross-functional environment.\nKnowledge of SAP or ERP systems is a plus.\nLanguages\nEnglish: C1 (mandatory)\nGerman: C1 (mandatory)\nFrench is a plus\nKey Competencies\nAnalytical and problem-solving skills\nProject coordination\nSupply chain and procurement fundamentals\nStakeholder collaboration\nContinuous improvement mindset\nData-driven decision making\nAdaptability and learning agility\nEffective communication and presentation skills",
-   "duration": 18,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2028-06-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-08T15:51:35Z",
-   "sector": "",
-   "specialization": "150",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-08T15:51:35Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2028-06-01T00:00:00",
-    "startBroadcastDate": "2026-09-09T00:00:00",
-    "endBroadcastDate": "2026-10-09T00:00:00"
-   },
-   "summary": "Join Schneider Electric and gain hands-on experience in Procurement and Supply Chain within an international industrial environment.\n\nAs a VIE, you will support strategic procurement and supply chain projects aimed at improving supplier performance, operational efficiency, digitalization, sustainability, and readiness for the future SAP S/4HANA transformation. Working closely with procurement, supply chain, manufacturing, and supplier partners, you will contribute to projects that directly impact business performance.\n\nYour Key Responsibilities\nSupport procurement and supply chain improvement initiatives focusing on cost competitiveness, supplier resilience, and operational efficiency.\nAssist in supplier digitalization projects, including the deployment of digital supply chain tools and processes.\nContribute to supplier contract management activities and support preparation for the SAP S/4HANA migration.\nAnalyze procurement and supply chain data to identify improvement opportunities in inventory, lead times, and supplier performance. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/245720",
-   "score": 26,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 24,
-    "qual": 8,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod5",
-     "axis": "prod",
-     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
-     "weight": 4,
-     "terms": [
-      "process optimization"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "continuous improvement",
-      "engineering",
-      "manufacturing"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "compliance",
-      "quality"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "problem solving"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "industrial"
-     ],
-     "points": 5
     },
     {
      "label": "Niveau bac+5 / ingénieur annoncé",
@@ -35531,7 +34878,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-18T08:08:01Z",
    "sector": "",
-   "specialization": "[\"62\"]",
+   "specialization": "62",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
