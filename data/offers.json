@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-10T15:53:17+00:00",
+ "generated_at": "2026-10-11T16:20:22+00:00",
  "source": "Business France — mon-vie-via.businessfrance.fr",
- "total_scanned": 823,
- "total_announced": 823,
- "total_kept": 363,
+ "total_scanned": 807,
+ "total_announced": 807,
+ "total_kept": 356,
  "threshold": 25,
  "axes": {
   "rd": {
@@ -413,7 +413,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T13:05:00Z",
    "sector": "",
-   "specialization": "[\"60\"]",
+   "specialization": "60",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -1128,7 +1128,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-14T12:42:19Z",
    "sector": "",
-   "specialization": "65, 206, 264",
+   "specialization": "[\"65\",\"206\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -1364,7 +1364,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-29T14:04:00Z",
    "sector": "",
-   "specialization": "[\"60\",\"64\",\"77\",\"133\",\"162\",\"197\",\"224\",\"225\"]",
+   "specialization": "60, 64, 77, 133, 162, 197, 224, 225",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -2547,7 +2547,7 @@
    "expiry_date": "",
    "publish_date": "2025-11-19T10:45:12Z",
    "sector": "",
-   "specialization": "77, 149",
+   "specialization": "[\"77\",\"149\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -3039,7 +3039,7 @@
    "expiry_date": "",
    "publish_date": "2026-03-03T08:40:40Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -4720,7 +4720,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T07:35:28Z",
    "sector": "",
-   "specialization": "155, 208, 209",
+   "specialization": "[\"155\",\"208\",\"209\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5035,125 +5035,6 @@
    ]
   },
   {
-   "id": "245766",
-   "title": "PROCESS DEVELOPMENT ENGINEER - (H/F)",
-   "company": "BAXTER S.A.S",
-   "country": "BELGIQUE",
-   "city": "BRUXELLES",
-   "description": "Your daily missions:\nAs a container process engineer, you will be joining an existing, growing team on site in Belgium. You will directly support the process development of parenteral (intravenous) nutrition flexible bags within the R&D Baxter’s Medical Products and Therapies business unit with the mission of bridging manufacturing sites with product development and deliver relevant best in class technologies while optimizing Safety, Quality, Delivery & Cost.\n\nThe main tasks are to:\n• Collaborate to the process development by interacting with the design, quality and manufacturing teams\n• Be responsible for the organization and completion of whole studies or projects under the guidance of the senior engineering staff or project leader:\no Design study layouts and design of experiments related to new products production process development\no Supervise samples production process and overview logistic aspects,\no Statistically analyze data generated\no Summarize and report results (oral and written formats)\n• Identify opportunities to utilize Process Analytical Technology (PAT) to improve existing processes or create new processes or products\n• Perform Risk Analysis on manufacturing processes and directly support the validation teams in the plants (pFMEA, Control Plans)\n• Communicate continuously to the team and management any progress/status of test study & risk analysis documentation.\n\nMore than a position, an impactful experience!\nAs soon as you arrive, you will be integrated into our teams and learn every day alongside our experts who will support you in your missions. Gradually, you will gain autonomy on your projects to make this experience a real career accelerator. \nAt the end of your VIE, various opportunities may be available to you, either at Baxter in Belgium or abroad, or, depending on your choice within a third-party company. \nIn any case, your VIE at Baxter will remain an excellent and profitable experience.\n \nWhy joining Baxter?\nBaxter is more than a company. It is a community of committed professionals. Every year, our products reach more than 60 million patients worldwide.\nBaxter has a diverse group of employees in more than 100 countries who share a passion for saving and sustaining lives.\nWhether you join us for few years or your entire career, we are united to advancing modern healthcare. Fostering collaborative innovation, continuous learning and diversity are part of our DNA.\nIf you eager to grow in a stimulating, caring environment and look for a daily basis purpose, we are the place to be!\nDuring your assignment with us, you will benefit from :\n• A real community of VIE (about 400 people have done a VIE at Baxter so far)\n• A VIE Ambassador who will guide you in your first steps within the company and the host country\n• A direct contact with a local HR responsible of the VIE program at Baxter who will follow you during your mission. \n• A possibility to join an “Early Career Professional” group where you can attend events related to professional development, networking, sustainability, environment, sports… \n• A flexible workplace and a nice working environment",
-   "mission": "",
-   "profile": "What if it was you?\nDo you have a master’s degree in Mechanical or Materials Engineering? Do you have experience in Plastic Materials Characterization and Processing? \nYou are a team player and demonstrate great autonomy and leadership.\nYou are fluent in English.\nThis VIE mission is based in Braine-l’Alleud (Belgium, 15 minutes from Brussels) and you might be required to work onsite in one of Baxter’s manufacturing plants up to 50% of the time. Its duration is 12 months + 12 months.",
-   "duration": 24,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2028-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-10T08:20:34Z",
-   "sector": "",
-   "specialization": "63, 77, 109, 114, 125, 207, 262, 264",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-10T08:20:34Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2028-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-10T00:00:00",
-    "endBroadcastDate": "2026-10-10T00:00:00"
-   },
-   "summary": "Your daily missions:\nAs a container process engineer, you will be joining an existing, growing team on site in Belgium. You will directly support the process development of parenteral (intravenous) nutrition flexible bags within the R&D Baxter’s Medical Products and Therapies business unit with the mission of bridging manufacturing sites with product development and deliver relevant best in class technologies while optimizing Safety, Quality, Delivery & Cost.\n\nThe main tasks are to:\n• Collaborate to the process development by interacting with the design, quality and manufacturing teams\n• Be responsible for the organization and completion of whole studies or projects under the guidance of the senior engineering staff or project leader:\no Design study layouts and design of experiments related to new products production process development\no Supervise samples production process and overview logistic aspects,\no Statistically analyze data generated\no Summarize and report results (oral and written formats) […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/245766",
-   "score": 61,
-   "label": "Bonne adéquation",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 34,
-    "prod": 45,
-    "qual": 34,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
-     "weight": 10,
-     "terms": [
-      "process engineer"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "engineering",
-      "manufacturing",
-      "product development"
-     ]
-    },
-    {
-     "id": "qual3",
-     "axis": "qual",
-     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
-     "weight": 7,
-     "terms": [
-      "design of experiments"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "quality",
-      "validation"
-     ]
-    },
-    {
-     "id": "rd2",
-     "axis": "rd",
-     "source": "Propriétés mécaniques et physique des matériaux (262-1, 30 h), Critères de choix des matériaux (265-1, 15 h)",
-     "weight": 9,
-     "terms": [
-      "characterization"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "r&d"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineer",
-      "process"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "mechanical"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "245836",
    "title": "VIE Topographe Junior (H/F)",
    "company": "BOUYGUES TRAVAUX PUBLICS",
@@ -5392,7 +5273,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-06T09:16:52Z",
    "sector": "",
-   "specialization": "63",
+   "specialization": "[\"63\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5607,7 +5488,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T07:31:41Z",
    "sector": "",
-   "specialization": "[\"206\"]",
+   "specialization": "206",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6432,7 +6313,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-20T19:24:50Z",
    "sector": "",
-   "specialization": "[\"64\",\"65\",\"66\",\"77\",\"107\",\"150\",\"153\",\"207\"]",
+   "specialization": "64, 65, 66, 77, 107, 150, 153, 207",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -7050,121 +6931,6 @@
    ]
   },
   {
-   "id": "245765",
-   "title": "Mechanical Engineer | Aerospace&Defense (H/F)",
-   "company": "ALTRAN TECHNOLOGIES",
-   "country": "BELGIQUE",
-   "city": "BRUXELLES",
-   "description": "In this role you will play a key role in:\n\n- Designing and developing mechanical components and assemblies using CATIA and/or CREO, ensuring compliance with aerospace and defence standards and specifications\n- Performing fluid dynamics and aerodynamics analyses to support the design and optimisation of mechanical systems, contributing to the overall performance and reliability of the products\n- Collaborating with cross-functional teams including systems, electronics, and manufacturing engineers to ensure seamless integration of mechanical solutions within complex product architectures\n- Supporting the preparation and review of technical documentation, including design reports, specifications, and test plans, ensuring accuracy and traceability throughout the product development lifecycle\n- Participating in design reviews and technical meetings, bringing your analytical mindset and engineering judgment to contribute to continuous improvement of products and processes",
-   "mission": "",
-   "profile": "- You have 1-2 years of experience in mechanical engineering \n- You hold an engineering degree in Mechanical Engineering or a related discipline, and are looking to build your career in aerospace and defence, ideally with a first experience or academic exposure to mechanical design projects\n- You have hands-on experience or strong academic knowledge of CATIA and/or CREO, and are comfortable working with 3D modelling and design tools in a professional engineering environment\n- You have a solid understanding of fluid dynamics and aerodynamics, with the ability to apply these principles to the design and analysis of mechanical systems and components\n- You are rigorous, analytical, and detail-oriented, with strong problem-solving skills and the ability to work both autonomously and collaboratively within multidisciplinary teams\n- You are professionally proficient in both French and English (mandatory), with strong written and verbal communication skills, and bring a proactive and enthusiastic attitude to your work",
-   "duration": 24,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2028-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-10T08:16:01Z",
-   "sector": "",
-   "specialization": "112",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-10T08:16:01Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2028-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-10T00:00:00",
-    "endBroadcastDate": "2026-10-10T00:00:00"
-   },
-   "summary": "In this role you will play a key role in:\n\n- Designing and developing mechanical components and assemblies using CATIA and/or CREO, ensuring compliance with aerospace and defence standards and specifications\n- Performing fluid dynamics and aerodynamics analyses to support the design and optimisation of mechanical systems, contributing to the overall performance and reliability of the products\n- Collaborating with cross-functional teams including systems, electronics, and manufacturing engineers to ensure seamless integration of mechanical solutions within complex product architectures\n- Supporting the preparation and review of technical documentation, including design reports, specifications, and test plans, ensuring accuracy and traceability throughout the product development lifecycle\n- Participating in design reviews and technical meetings, bringing your analytical mindset and engineering judgment to contribute to continuous improvement of products and processes",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/245765",
-   "score": 55,
-   "label": "Bonne adéquation",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 10,
-    "qual": 8,
-    "calc": 47
-   },
-   "dominant_axis": "calc",
-   "matched_families": [
-    {
-     "id": "calc1",
-     "axis": "calc",
-     "source": "Éléments finis (256-1, 24 h), TP simulation numérique (272-1, 285-5, 285-4, 63 h), Calculs numériques de mise en forme (277-1, 286-1, 50 h)",
-     "weight": 12,
-     "terms": [
-      "modelling"
-     ]
-    },
-    {
-     "id": "calc2",
-     "axis": "calc",
-     "source": "CAO (278-1, 30 h), Conception mécanique (264-1, 43 h)",
-     "weight": 9,
-     "terms": [
-      "catia",
-      "creo",
-      "mechanical design"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "continuous improvement",
-      "engineering",
-      "manufacturing",
-      "product development"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "compliance",
-      "standards"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "problem solving"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineer",
-      "mechanical"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "aerospace",
-      "defence",
-      "defense"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "246905",
    "title": "Chargé(e) de Qualité avancée des fournisseurs (H/F)",
    "company": "FAURECIA SYSTEMES D'ECHAPPEMENT",
@@ -7179,7 +6945,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-09T14:31:35Z",
    "sector": "",
-   "specialization": "[\"149\"]",
+   "specialization": "149",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8518,7 +8284,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T13:42:07Z",
    "sector": "",
-   "specialization": "331",
+   "specialization": "[\"331\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9200,7 +8966,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T15:29:09Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9303,7 +9069,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-23T07:33:29Z",
    "sector": "",
-   "specialization": "52, 66, 114, 115, 130, 148, 153",
+   "specialization": "[\"52\",\"66\",\"114\",\"115\",\"130\",\"148\",\"153\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9393,7 +9159,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-23T09:02:41Z",
    "sector": "",
-   "specialization": "52, 66, 114, 115, 143, 148, 153",
+   "specialization": "[\"52\",\"66\",\"114\",\"115\",\"143\",\"148\",\"153\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9686,7 +9452,7 @@
    "expiry_date": "",
    "publish_date": "2025-11-19T10:45:12Z",
    "sector": "",
-   "specialization": "77, 149, 207",
+   "specialization": "[\"77\",\"149\",\"207\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10300,7 +10066,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-25T15:02:11Z",
    "sector": "",
-   "specialization": "",
+   "specialization": "[]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10770,7 +10536,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T08:00:24Z",
    "sector": "",
-   "specialization": "114",
+   "specialization": "[\"114\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -11121,7 +10887,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T14:37:51Z",
    "sector": "",
-   "specialization": "[\"51\"]",
+   "specialization": "51",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -11824,7 +11590,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-30T07:58:49Z",
    "sector": "",
-   "specialization": "65, 68, 77, 107, 149, 159, 168, 365",
+   "specialization": "[\"65\",\"68\",\"77\",\"107\",\"149\",\"159\",\"168\",\"365\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -11906,7 +11672,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-21T14:45:41Z",
    "sector": "",
-   "specialization": "[\"60\",\"149\",\"150\",\"206\",\"207\",\"264\"]",
+   "specialization": "60, 149, 150, 206, 207, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12672,7 +12438,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-30T08:31:23Z",
    "sector": "",
-   "specialization": "[\"65\",\"77\"]",
+   "specialization": "65, 77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -13222,7 +12988,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-10T12:08:07Z",
    "sector": "",
-   "specialization": "71",
+   "specialization": "[\"71\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -13670,7 +13436,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-12T13:36:38Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -14011,7 +13777,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-09T13:20:34Z",
    "sector": "",
-   "specialization": "[\"60\"]",
+   "specialization": "60",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -14099,7 +13865,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-28T11:12:32Z",
    "sector": "",
-   "specialization": "[\"60\"]",
+   "specialization": "60",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -14709,115 +14475,6 @@
      "label": "Niveau bac+5 / ingénieur annoncé",
      "terms": [],
      "points": 4
-    }
-   ]
-  },
-  {
-   "id": "245199",
-   "title": "Junior Project Manager Industrialisation (H/F)",
-   "company": "AUMOVIO FRANCE",
-   "country": "CHINE",
-   "city": "CHANGCHUN",
-   "description": "Dans le cadre d'un VIE de 24 mois basé à Changchun (Chine), vous intégrerez l'équipe de production et logistique d'AUMOVIO Automotive Changchun, tout en collaborant étroitement avec l'équipe Projet & R&D basée en France.\r\nVous évoluerez au cœur de projets stratégiques liés aux systèmes d'accès pour des clients majeurs tels que Nissan, Mitsubishi et potentiellement Renault.\r\n\r\nÀ ce titre, vos missions seront les suivantes :\r\n\r\nCoordination de l'industrialisation produit :\r\n• Piloter la planification et l'exécution de l'industrialisation des produits : gestion des prototypes, suivi de l'approvisionnement des composants, préparation des lignes de production et validation produit.\r\n• Assurer le suivi du démarrage de production (Start Of Production - SOP) en garantissant le respect des jalons et la qualité attendue.\r\n\r\nSupport aux Project Managers :\r\n• Accompagner les Project Managers dans la mise en place et le maintien d'une organisation projet efficace : structuration des réunions, partage d'informations, capitalisation des connaissances et archivage documentaire.\r\n• Contribuer à la fluidité de la communication entre les équipes France et Chine.\r\n\r\nGestion professionnelle du changement : \r\n• Mettre en œuvre et suivre les processus de gestion du changement selon les méthodes de l'entreprise : identification des évolutions produit, implémentation des modifications en production, suivi des plans d'action.\r\n\r\nAmélioration continue et gestion des risques : \r\n• Participer à l'amélioration continue sur les sujets de production : évaluation des risques, analyse des problèmes qualité, suivi de la mise en œuvre des mesures correctives.\r\n• Escalader les problématiques aux bons interlocuteurs avec les canaux de communication appropriés.\r\n\r\nCulture collaborative et confidentialité : \r\n• Protéger la confidentialité des données projet.\r\n• Contribuer à bâtir une culture de coopération et d'esprit d'équipe au sein des projets.",
-   "mission": "",
-   "profile": "Formation et expérience\r\n• Diplômé(e) d'un Master ou diplôme d'ingénieur (génie industriel, supply chain, management de projet, ou équivalent).\r\n• Une première expérience de 2 ans (idéalement hors stage ou alternance) en gestion de projet, industrialisation, achats, supply chain ou environnement industriel, est souhaitée.\r\n\r\nCompétences linguistiques\r\n• Anglais courant (environnement de travail international).\r\n• Chinois niveau intermédiaire requis pour faciliter les échanges avec les équipes locales et les clients.\r\n\r\nCompétences techniques et personnelles\r\n• Orientation client et qualité.\r\n• Excellentes capacités de communication et de collaboration avec des équipes à distance et multiculturelles.\r\n• Capacité à travailler de manière autonome et à gérer plusieurs sujets en parallèle.\r\n• Rigueur, organisation et esprit d'initiative.\r\n• Aisance avec les outils de gestion de projet et de reporting.\r\n________________________________________\r\n\r\nInformations pratiques\r\nDate de début souhaitée : 1er octobre 2026\r\nDurée du contrat : 24 mois (VIE)\r\nLocalisation : Changchun, Chine (site de production d'environ 1 800 collaborateurs)\r\nEnvironnement : Site à forte qualité de vie, environnement international et dynamique\r\n\r\nChez AUMOVIO, nous favorisons la flexibilité et permettons de collaborer plus facilement à distance, dès lors que cela est possible.\r\nNous nous engageons à créer une culture inclusive où chacune des parties prenantes se sent valorisée quels que soient son âge, son sexe, son identité de genre, son orientation sexuelle, sa nationalité, ses origines culturelles, sociales et ethniques, sa religion, sa vision du monde ou encore son handicap.\r\nPour nous, il importe qui vous êtes. Nous croyons en l'unicité de chaque individu et en la différence que vous pouvez faire et apporter.\r\nEnvie de propulser votre carrière ? L'avenir de la mobilité appartient à celles et ceux qui le façonnent. Et si c'était vous ? Rejoignez AUMOVIO. Own What's Next.",
-   "duration": 24,
-   "start_date": "2027-02-01T00:00:00",
-   "end_date": "2029-02-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-08-10T13:19:23Z",
-   "sector": "",
-   "specialization": "109, 149, 244, 251, 264",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-08-10T13:19:23Z",
-    "missionStartDate": "2027-02-01T00:00:00",
-    "missionEndDate": "2029-02-01T00:00:00",
-    "startBroadcastDate": "2026-09-10T00:00:00",
-    "endBroadcastDate": "2026-10-10T00:00:00"
-   },
-   "summary": "Dans le cadre d'un VIE de 24 mois basé à Changchun (Chine), vous intégrerez l'équipe de production et logistique d'AUMOVIO Automotive Changchun, tout en collaborant étroitement avec l'équipe Projet & R&D basée en France.\r\nVous évoluerez au cœur de projets stratégiques liés aux systèmes d'accès pour des clients majeurs tels que Nissan, Mitsubishi et potentiellement Renault.\r\n\r\nÀ ce titre, vos missions seront les suivantes :\r\n\r\nCoordination de l'industrialisation produit :\r\n• Piloter la planification et l'exécution de l'industrialisation des produits : gestion des prototypes, suivi de l'approvisionnement des composants, préparation des lignes de production et validation produit.\r\n• Assurer le suivi du démarrage de production (Start Of Production - SOP) en garantissant le respect des jalons et la qualité attendue.\r\n\r\nSupport aux Project Managers :\r\n• Accompagner les Project Managers dans la mise en place et le maintien d'une organisation projet efficace : structuration des réunions, partage d'informations, capitalisation des connaissances et archivage documentaire. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/245199",
-   "score": 35,
-   "label": "À examiner",
-   "first_seen": "2026-08-24T16:01:18+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 45,
-    "qual": 8,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
-     "weight": 10,
-     "terms": [
-      "industrialisation"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "amelioration continue",
-      "methodes"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "qualite",
-      "validation"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "r&d"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "industrialisation"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "automotive",
-      "industriel"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Formation exigée hors cursus : score plafonné",
-     "terms": [
-      "genie industriel",
-      "gestion"
-     ],
-     "points": -18,
-     "cap": 35
     }
    ]
   },
@@ -15520,7 +15177,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-08T11:09:48Z",
    "sector": "",
-   "specialization": "149, 330, 355",
+   "specialization": "[\"149\",\"330\",\"355\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -15735,7 +15392,7 @@
    "expiry_date": "",
    "publish_date": "2025-11-12T08:45:10Z",
    "sector": "",
-   "specialization": "149, 208, 209",
+   "specialization": "[\"149\",\"208\",\"209\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -17017,7 +16674,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-28T09:57:45Z",
    "sector": "",
-   "specialization": "29",
+   "specialization": "[\"29\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -17361,113 +17018,6 @@
       "gestion"
      ],
      "points": -11,
-     "cap": 35
-    }
-   ]
-  },
-  {
-   "id": "245755",
-   "title": "INGÉNIEUR MÉTHODE MAINTENANCE INDUSTRIELLE HF (H/F)",
-   "company": "PERENCO",
-   "country": "CAMEROUN",
-   "city": "DOUALA",
-   "description": "Fondé il y a plus de trente ans, Perenco est un producteur indépendant d'hydrocarbures qui intervient sur l'ensemble du cycle de vie des projets, de l'exploration au démantèlement. Sa production brute est de l’ordre de 500 000 BOEPD. La force du Groupe réside dans l'ingéniosité technique et la polyvalence de ses plus de 8 500 collaborateurs, qui apportent des solutions sûres et respectueuses de l'environnement aux champs pétroliers et gaziers du monde entier. En valorisant et en développant les ressources locales, Perenco est fier de soutenir la croissance économique et le développement social partout où il opère.\n\nPerenco, basé au Royaume-Uni, est présent dans 12 pays partenaires.\n\nwww.perenco.com\n\nSous la responsabilité du Technical Manager du Cameroun et du Maintenance Project Manager Paris, vos principales missions seront les suivantes :\n• Déploiement d’une GMAO (Gestion de la Maintenance Assistée par Ordinateur) : DIMO Maint\n• Formation des équipes maintenance à la GMAO et Méthodes Maintenance\n• Planification, suivi et optimisation de la maintenance préventive\n• Rédaction et mise en place des gammes de maintenance préventive\n• Réduction de la maintenance corrective au profit d’une maintenance préventive conditionnelle et prédictive\n• Optimisation des stocks de pièces de rechange\n• Fiabilisation des moyens\n• Réalisation des AMDEC\n• Amélioration du reporting maintenance sous DIMO Maint (outil GMAO)\n• Homogénéisation, rédaction et mise en place de l’ensemble des gammes et procédure de maintenance (Filiale, Zone Afrique)\n• Homogénéisation, rédaction et mise en place de l’ensemble des rapports d’intervention (Filiale, Zone Afrique)\n• Homogénéisation du plan de maintenance (Filiale, Zone Afrique)\n• Lien de l’outil de maintenance et le suivi des équipements critiques sécurité\n• Gestion des données Techniques d'entrée (Programmes de maintenance, Pièce de rechange, Plans, Schémas de dépannage, diverses notes Techniques)\n• Participation au développement d’un outil de gestion de maintenance digital Digiops (IOT, machine learning)\n• Optimisation des stocks de pièce de rechange, identification des pièces critique, définition de la stratégie de réapprovisionnement.",
-   "mission": "",
-   "profile": "• Diplôme d'ingénieur généraliste ou spécialisé (génie industriel, maintenance qualité)\n• Autonomie, rigueur, sens de l’organisation et du travail en équipe\n• Ouverture d'esprit\n• Connaissances techniques polyvalentes\n• Capacité à raisonner avec méthode et à détecter une situation anormale\n• Esprit d'analyse et de synthèse\n• Capacité d'adaptation et veille technologique\n• Maîtrise de l'anglais technique\n• Maîtrise les logiciels de Gestion de Maintenance Assistée par Ordinateur GMAO\n• Maîtrise les logiciels de Conception et Dessin Assistés par Ordinateur (CAO/DAO)\n• Maîtrise les logiciels de bureautique et Business Intelligence Microsoft.",
-   "duration": 12,
-   "start_date": "2026-11-01T00:00:00",
-   "end_date": "2027-11-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-09T16:34:19Z",
-   "sector": "",
-   "specialization": "149",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-09T16:34:19Z",
-    "missionStartDate": "2026-11-01T00:00:00",
-    "missionEndDate": "2027-11-01T00:00:00",
-    "startBroadcastDate": "2026-09-10T00:00:00",
-    "endBroadcastDate": "2026-10-10T00:00:00"
-   },
-   "summary": "Fondé il y a plus de trente ans, Perenco est un producteur indépendant d'hydrocarbures qui intervient sur l'ensemble du cycle de vie des projets, de l'exploration au démantèlement. Sa production brute est de l’ordre de 500 000 BOEPD. La force du Groupe réside dans l'ingéniosité technique et la polyvalence de ses plus de 8 500 collaborateurs, qui apportent des solutions sûres et respectueuses de l'environnement aux champs pétroliers et gaziers du monde entier. En valorisant et en développant les ressources locales, Perenco est fier de soutenir la croissance économique et le développement social partout où il opère.\n\nPerenco, basé au Royaume-Uni, est présent dans 12 pays partenaires. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/245755",
-   "score": 35,
-   "label": "À examiner",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 10,
-    "qual": 34,
-    "calc": 20
-   },
-   "dominant_axis": "qual",
-   "matched_families": [
-    {
-     "id": "calc2",
-     "axis": "calc",
-     "source": "CAO (278-1, 30 h), Conception mécanique (264-1, 43 h)",
-     "weight": 9,
-     "terms": [
-      "cao"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "methodes"
-     ]
-    },
-    {
-     "id": "qual3",
-     "axis": "qual",
-     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
-     "weight": 7,
-     "terms": [
-      "amdec"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "qualite"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur",
-      "maintenance"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "industriel"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Formation exigée hors cursus : score plafonné",
-     "terms": [
-      "genie industriel",
-      "gestion"
-     ],
-     "points": -14,
      "cap": 35
     }
    ]
@@ -18478,7 +18028,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T11:27:28Z",
    "sector": "",
-   "specialization": "[\"259\"]",
+   "specialization": "259",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -18570,7 +18120,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-21T06:54:21Z",
    "sector": "",
-   "specialization": "63, 86, 106, 123, 192",
+   "specialization": "[\"63\",\"86\",\"106\",\"123\",\"192\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -18737,7 +18287,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-29T16:32:01Z",
    "sector": "",
-   "specialization": "63, 113, 256",
+   "specialization": "[\"63\",\"113\",\"256\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -18929,7 +18479,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T08:07:40Z",
    "sector": "",
-   "specialization": "251",
+   "specialization": "[\"251\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19120,7 +18670,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-02T12:56:05Z",
    "sector": "",
-   "specialization": "60",
+   "specialization": "[\"60\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19307,7 +18857,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T15:08:09Z",
    "sector": "",
-   "specialization": "149",
+   "specialization": "[\"149\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19673,7 +19223,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-09T07:57:33Z",
    "sector": "",
-   "specialization": "[\"65\"]",
+   "specialization": "65",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20426,7 +19976,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-05T12:06:18Z",
    "sector": "",
-   "specialization": "224",
+   "specialization": "[\"224\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21116,7 +20666,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-09T11:59:42Z",
    "sector": "",
-   "specialization": "[\"209\"]",
+   "specialization": "209",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21451,7 +21001,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-01T07:59:11Z",
    "sector": "",
-   "specialization": "244",
+   "specialization": "[\"244\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21934,7 +21484,7 @@
    "expiry_date": "",
    "publish_date": "2026-05-12T14:43:27Z",
    "sector": "",
-   "specialization": "[\"5\",\"21\",\"49\",\"86\",\"125\",\"144\",\"150\",\"155\",\"208\",\"209\",\"244\",\"256\",\"262\",\"264\"]",
+   "specialization": "5, 21, 49, 86, 125, 144, 150, 155, 208, 209, 244, 256, 262, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22149,7 +21699,7 @@
    "expiry_date": "",
    "publish_date": "2026-05-12T14:27:31Z",
    "sector": "",
-   "specialization": "[\"325\"]",
+   "specialization": "325",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22328,7 +21878,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-09T12:35:56Z",
    "sector": "",
-   "specialization": "[\"328\",\"330\",\"355\"]",
+   "specialization": "328, 330, 355",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -23356,94 +22906,6 @@
      "label": "Aucun terme industriel : score plafonné",
      "terms": [],
      "points": -12,
-     "cap": 30
-    }
-   ]
-  },
-  {
-   "id": "246398",
-   "title": "ingénieur géomètre  topographe (H/F)",
-   "company": "DEMATHIEU BARD GENIE CIVIL",
-   "country": "CANADA",
-   "city": "TORONTO",
-   "description": "- Analyses et Calculs préparatoires – Déterminer des choix techniques\n- Réaliser et contrôler les implantations topographiques sur site\n- Numérisation (station totale, scanner laser, GNSS) et analyse 3D, traitement des données dans des logiciels spécialisés (Trimble Business Center, Leica Infinity, AutoCAD, Excel).\n- Surveillance documentaire - Contrôler la conformité des travaux par rapport aux plans d’exécution et notes de calculs\n- Collaborer étroitement avec les équipes projet (ingénierie, travaux, qualité).\n- Participer à la digitalisation et à l’intégration de solutions IA et nouvelles technologies afin d’améliorer l’efficience de la topographie de la construction.",
-   "mission": "",
-   "profile": "- Diplôme d’ingénieur (ou équivalent Master 2) en Géomatique - Topographie\n- Maîtrise des outils de mesure topographique : stations totales, GNSS, scanners 3D.\n- Connaissance des logiciels métiers classiques et de références (Autocad- Covadis et Excel).\n- Une expérience en scan 3D serait un plus\n- Intérêt marqué pour l’innovation, la modélisation 3D, le BIM et l’IA appliquée à la construction.\n- Bon niveau d’anglais (écrit et oral) ; la maîtrise d’une autre langue est un atout.\n- Goût du terrain, rigueur, autonomie et esprit d’équipe.",
-   "duration": 24,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2029-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-25T14:37:31Z",
-   "sector": "",
-   "specialization": "152",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-25T14:37:31Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2029-01-01T00:00:00",
-    "startBroadcastDate": "2026-09-25T00:00:00",
-    "endBroadcastDate": "2026-10-10T00:00:00"
-   },
-   "summary": "- Analyses et Calculs préparatoires – Déterminer des choix techniques\n- Réaliser et contrôler les implantations topographiques sur site\n- Numérisation (station totale, scanner laser, GNSS) et analyse 3D, traitement des données dans des logiciels spécialisés (Trimble Business Center, Leica Infinity, AutoCAD, Excel).\n- Surveillance documentaire - Contrôler la conformité des travaux par rapport aux plans d’exécution et notes de calculs\n- Collaborer étroitement avec les équipes projet (ingénierie, travaux, qualité).\n- Participer à la digitalisation et à l’intégration de solutions IA et nouvelles technologies afin d’améliorer l’efficience de la topographie de la construction.",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246398",
-   "score": 30,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 10,
-    "qual": 8,
-    "calc": 27
-   },
-   "dominant_axis": "calc",
-   "matched_families": [
-    {
-     "id": "calc1",
-     "axis": "calc",
-     "source": "Éléments finis (256-1, 24 h), TP simulation numérique (272-1, 285-5, 285-4, 63 h), Calculs numériques de mise en forme (277-1, 286-1, 50 h)",
-     "weight": 12,
-     "terms": [
-      "modelisation"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "ingenierie"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "conformite",
-      "qualite"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Aucun terme industriel : score plafonné",
-     "terms": [],
-     "points": -7,
      "cap": 30
     }
    ]
@@ -24507,7 +23969,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-09T14:40:36Z",
    "sector": "",
-   "specialization": "[\"21\"]",
+   "specialization": "21",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -24937,7 +24399,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-21T14:42:01Z",
    "sector": "",
-   "specialization": "[\"2\",\"29\",\"60\",\"62\",\"63\",\"64\",\"65\",\"66\",\"68\",\"69\",\"70\",\"71\",\"72\",\"73\",\"76\",\"109\",\"114\",\"134\",\"138\",\"149\",\"150\",\"155\",\"158\",\"159\",\"160\",\"168\",\"169\",\"197\",\"205\",\"206\",\"207\",\"208\",\"209\",\"224\",\"225\",\"244\",\"248\",\"251\",\"262\",\"264\",\"330\",\"331\",\"358\",\"361\"]",
+   "specialization": "2, 29, 60, 62, 63, 64, 65, 66, 68, 69, 70, 71, 72, 73, 76, 109, 114, 134, 138, 149, 150, 155, 158, 159, 160, 168, 169, 197, 205, 206, 207, 208, 209, 224, 225, 244, 248, 251, 262, 264, 330, 331, 358, 361",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25224,7 +24686,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-29T16:17:57Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25610,7 +25072,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T10:01:20Z",
    "sector": "",
-   "specialization": "161",
+   "specialization": "[\"161\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25701,7 +25163,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T13:35:27Z",
    "sector": "",
-   "specialization": "65, 66, 68, 71, 153",
+   "specialization": "[\"65\",\"66\",\"68\",\"71\",\"153\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25994,93 +25456,6 @@
      "label": "Aucun terme industriel : score plafonné",
      "terms": [],
      "points": -16,
-     "cap": 30
-    }
-   ]
-  },
-  {
-   "id": "245857",
-   "title": "ASSET MANAGEMENT ANALYST -  (H/F)",
-   "company": "KLEPIERRE MANAGEMENT",
-   "country": "DANEMARK",
-   "city": "COPENHAGUE",
-   "description": "Your key responsibilities will include:\n\n1) Portfolio strategy and value creation\nSupport the implementation of asset strategies and business plans\nIdentify value creation opportunities across leasing, ancillary income, retail media, services and customer experience\nMonitor asset performance, market trends, catchment areas and competitive positioning\n\n2) Business planning and performance analysis\nContribute to annual budgets, forecasts and five-year business plans\nPrepare financial analyses, dashboards and management reporting\nTrack the performance and delivery of approved CAPEX and strategic initiatives\n\n3) Investment and valuation\nCoordinate the preparation of data and assumptions for external valuations\nReview valuation reports and challenge key assumptions\nSupport the analysis of acquisition and disposal opportunities\nContribute to financial modelling and investment committee materials\n\n4) Governance and strategic projects\nPrepare decision-making materials for internal committees, shareholders and co-owners\nContribute to quarterly asset reviews and ad hoc strategic analyses\nSupport sustainability and operational projects such as solar energy, EV charging and parking optimization",
-   "mission": "",
-   "profile": "- Master’s degree in finance, real estate, business or engineering\n- Strong analytical skills and a solid understanding of financial concepts\n- Advanced proficiency in Excel, PowerPoint and AI-powered productivity tools\n- Fluency in both French and English is required\n- Curious, proactive and comfortable working in an international environment\n- Previous experience in real estate, investment, consulting or corporate finance is an advantage but not required",
-   "duration": 12,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2027-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-11T13:06:38Z",
-   "sector": "",
-   "specialization": "5, 9, 200, 259, 320, 324",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-11T13:06:38Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-11T00:00:00",
-    "endBroadcastDate": "2026-10-10T00:00:00"
-   },
-   "summary": "Your key responsibilities will include:\n\n1) Portfolio strategy and value creation\nSupport the implementation of asset strategies and business plans\nIdentify value creation opportunities across leasing, ancillary income, retail media, services and customer experience\nMonitor asset performance, market trends, catchment areas and competitive positioning\n\n2) Business planning and performance analysis\nContribute to annual budgets, forecasts and five-year business plans\nPrepare financial analyses, dashboards and management reporting\nTrack the performance and delivery of approved CAPEX and strategic initiatives\n\n3) Investment and valuation\nCoordinate the preparation of data and assumptions for external valuations\nReview valuation reports and challenge key assumptions\nSupport the analysis of acquisition and disposal opportunities\nContribute to financial modelling and investment committee materials\n\n4) Governance and strategic projects\nPrepare decision-making materials for internal committees, shareholders and co-owners\nContribute to quarterly asset reviews and ad hoc strategic analyses […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/245857",
-   "score": 30,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 24,
-    "qual": 0,
-    "calc": 27
-   },
-   "dominant_axis": "calc",
-   "matched_families": [
-    {
-     "id": "calc1",
-     "axis": "calc",
-     "source": "Éléments finis (256-1, 24 h), TP simulation numérique (272-1, 285-5, 285-4, 63 h), Calculs numériques de mise en forme (277-1, 286-1, 50 h)",
-     "weight": 12,
-     "terms": [
-      "modelling"
-     ]
-    },
-    {
-     "id": "prod5",
-     "axis": "prod",
-     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
-     "weight": 4,
-     "terms": [
-      "productivity"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "engineering"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "energy"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Aucun terme industriel : score plafonné",
-     "terms": [],
-     "points": -1,
      "cap": 30
     }
    ]
@@ -27257,7 +26632,7 @@
    "expiry_date": "",
    "publish_date": "2025-10-28T09:46:40Z",
    "sector": "",
-   "specialization": "248",
+   "specialization": "[\"248\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -28007,7 +27382,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-05T16:40:38Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29167,7 +28542,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-29T16:14:17Z",
    "sector": "",
-   "specialization": "107",
+   "specialization": "[\"107\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29312,7 +28687,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-09T14:28:29Z",
    "sector": "",
-   "specialization": "[\"238\"]",
+   "specialization": "238",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30795,7 +30170,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T10:55:11Z",
    "sector": "",
-   "specialization": "138, 248, 330, 355",
+   "specialization": "[\"138\",\"248\",\"330\",\"355\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32202,7 +31577,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-17T15:23:20Z",
    "sector": "",
-   "specialization": "[\"110\"]",
+   "specialization": "110",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32470,7 +31845,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T12:15:30Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32849,88 +32224,6 @@
     }
    ],
    "bonuses": [
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
-   "id": "245764",
-   "title": "INGÉNIEUR DÉVELOPPEMENT LABVIEW (H/F)",
-   "company": "T&S TECHNOLOGY &STRATEGY ENGINEERING",
-   "country": "ALLEMAGNE",
-   "city": "MUNICH",
-   "description": "Présentation de la société : Technology & Strategy est une société de conseil présente en France et à l’international. La société est spécialisée dans trois grands domaines d’expertise (Transformation Digitale, Conseil en performance opérationnelle et Systèmes Embarqués). Évoluer au sein de T&S Groupe, c’est entrer dans une structure en pleine expansion, au sein d’un contexte challengeant, et toujours en mouvement. Nos forces : - Une aventure humaine permettant à ses collaborateurs de se développer et de s’épanouir au travail - Une expertise métier forte et reconnue - Un travail d’équipe favorisant l’échange - Plus de 30 nationalités différentes ! Au-delà de vos compétences, c’est votre goût du challenge, votre dynamisme et votre sens de l’écoute qui fera la différence ! \n\nPoste et missions :\n\nDans le cadre d’un projet à forte valeur ajoutée dans le secteur instrumentation et test en laboratoire, vous interviendrez sur le développement de solutions de test automatisées avec les outils LabVIEW et TestStand de National Instruments (NI).\n\nEncadré(e) par des experts, vous serez formé(e) et accompagné(e) pour monter en compétences sur :\n\nLe développement LabVIEW (niveau développeur, pas simple utilisateur)\nL’intégration de systèmes de mesure et d’instrumentation\nLa mise en place de bancs de test automatisés\nL’environnement TestStand pour la gestion des séquences de test",
-   "mission": "",
-   "profile": "Diplômé(e) d’une école d’ingénieur ou d’un Master en électronique, informatique industrielle ou systèmes embarqués\nPremière expérience ou stage en développement logiciel (LabVIEW, C, C++, Python…)\nIntérêt pour les environnements de test, instrumentation et automatisation\nBon niveau d’anglais (écrit et oral)\nL'allemand est un atout\nEnvie de s’investir dans un projet technique et international",
-   "duration": 24,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2028-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-10T07:52:56Z",
-   "sector": "",
-   "specialization": "251",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-10T07:52:56Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2028-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-10T00:00:00",
-    "endBroadcastDate": "2026-10-10T00:00:00"
-   },
-   "summary": "Présentation de la société : Technology & Strategy est une société de conseil présente en France et à l’international. La société est spécialisée dans trois grands domaines d’expertise (Transformation Digitale, Conseil en performance opérationnelle et Systèmes Embarqués). Évoluer au sein de T&S Groupe, c’est entrer dans une structure en pleine expansion, au sein d’un contexte challengeant, et toujours en mouvement. Nos forces : - Une aventure humaine permettant à ses collaborateurs de se développer et de s’épanouir au travail - Une expertise métier forte et reconnue - Un travail d’équipe favorisant l’échange - Plus de 30 nationalités différentes ! Au-delà de vos compétences, c’est votre goût du challenge, votre dynamisme et votre sens de l’écoute qui fera la différence ! \n\nPoste et missions :\n\nDans le cadre d’un projet à forte valeur ajoutée dans le secteur instrumentation et test en laboratoire, vous interviendrez sur le développement de solutions de test automatisées avec les outils LabVIEW et TestStand de National Instruments (NI). […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/245764",
-   "score": 27,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 10,
-    "qual": 0,
-    "calc": 9
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
-     "weight": 4,
-     "terms": [
-      "automatisation",
-      "python"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "engineering"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "laboratoire"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur"
-     ],
-     "points": 14
-    },
     {
      "label": "Niveau bac+5 / ingénieur annoncé",
      "terms": [],
@@ -33653,7 +32946,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-24T07:52:59Z",
    "sector": "",
-   "specialization": "86, 208",
+   "specialization": "[\"86\",\"208\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33728,7 +33021,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-15T08:23:50Z",
    "sector": "",
-   "specialization": "[\"251\"]",
+   "specialization": "251",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
