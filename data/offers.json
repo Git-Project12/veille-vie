@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-12T15:22:08+00:00",
+ "generated_at": "2026-10-13T14:10:08+00:00",
  "source": "Business France — mon-vie-via.businessfrance.fr",
- "total_scanned": 825,
- "total_announced": 825,
- "total_kept": 362,
+ "total_scanned": 827,
+ "total_announced": 827,
+ "total_kept": 359,
  "threshold": 25,
  "axes": {
   "rd": {
@@ -413,7 +413,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T13:05:00Z",
    "sector": "",
-   "specialization": "60",
+   "specialization": "[\"60\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -558,7 +558,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T12:33:47Z",
    "sector": "",
-   "specialization": "149",
+   "specialization": "[\"149\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -1610,7 +1610,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T12:04:49Z",
    "sector": "",
-   "specialization": "251",
+   "specialization": "[\"251\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -2303,7 +2303,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T13:11:32Z",
    "sector": "",
-   "specialization": "60",
+   "specialization": "[\"60\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -2547,7 +2547,7 @@
    "expiry_date": "",
    "publish_date": "2025-11-19T10:45:12Z",
    "sector": "",
-   "specialization": "77, 149",
+   "specialization": "[\"77\",\"149\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -2918,7 +2918,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T14:37:58Z",
    "sector": "",
-   "specialization": "60",
+   "specialization": "[\"60\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -3526,7 +3526,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-09T12:47:59Z",
    "sector": "",
-   "specialization": "[\"65\",\"66\",\"73\",\"110\",\"153\",\"160\"]",
+   "specialization": "65, 66, 73, 110, 153, 160",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -4695,7 +4695,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T07:35:28Z",
    "sector": "",
-   "specialization": "155, 208, 209",
+   "specialization": "[\"155\",\"208\",\"209\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5024,7 +5024,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-07T11:48:46Z",
    "sector": "",
-   "specialization": "[\"149\"]",
+   "specialization": "149",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5586,7 +5586,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T07:31:41Z",
    "sector": "",
-   "specialization": "206",
+   "specialization": "[\"206\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -7130,113 +7130,6 @@
    ]
   },
   {
-   "id": "245450",
-   "title": "Field Engineer (H/F)",
-   "company": "NORCAN",
-   "country": "ALLEMAGNE",
-   "city": "HANOVRE",
-   "description": "Depuis plus de 35 ans, NORCAN conçoit des solutions sur mesure pour l’industrie et la logistique, en s’appuyant sur une expertise reconnue en aménagement de postes de travail et en optimisation des flux.\r\nAu cœur de cette offre, le robot SHERPA℗ incarne une nouvelle génération de solutions intralogistiques. Modulaire et entièrement personnalisable grâce à nos profilés en aluminium, il s’adapte précisément à vos processus métiers. Ses capacités avancées de navigation et de cartographie lui permettent d’évoluer de manière autonome, sécurisée et intelligente, tout en collectant des données utiles à l’amélioration continue de vos opérations.\r\nEn combinant robotique mobile et équipements sur mesure, NORCAN propose des solutions clés en main pour automatiser, fiabiliser et optimiser vos flux internes. \r\n\nRejoins NORCAN pour une mission VIE passionnante !\r\n\r\nBasé(e) à Hannovre, tu interviendras chez nos clients industriels dans toute la région pour déployer et optimiser nos solutions robotiques.\r\nTu seras un acteur clé du succès de nos projets terrain :\r\n• Installer et mettre en service nos solutions robotiques chez les clients (Grande région autour de Hanovre, env.100 km) \r\n• Assurer la maintenance, le diagnostic et la résolution de problèmes\r\n• Expliquer le fonctionnement des équipements aux équipes du client\r\n• Conseiller les ingénieurs et responsables de production\r\n• Optimiser l’usage de nos produits dans des environnements industriels variés\r\n\r\nChaque mission est différente : tu verras du concret, du terrain et de la technologie en action.",
-   "mission": "",
-   "profile": "Tu es curieux(se), débrouillard(e) et tu aimes être au cœur de l’action ? Ce poste est fait pour toi si :\n• Tu as une formation technique : ingénierie industrielle, mécanique, robotique, automatisme, BTS/technicien supérieur ou équivalent\n• Tu as le permis de conduire et es à l’aise avec les déplacements (véhicule de fonction non fourni)\n• Tu parles couramment allemand ou a un très bon niveau d’anglais\n• Tu as le sens du service, une bonne communication et un esprit proactif\n• Une première expérience en robotique ou automatisation est un vrai plus",
-   "duration": 12,
-   "start_date": "2026-11-01T00:00:00",
-   "end_date": "2027-11-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-08-27T09:17:46Z",
-   "sector": "",
-   "specialization": "73, 107, 224, 251, 330, 331",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-08-27T09:17:46Z",
-    "missionStartDate": "2026-11-01T00:00:00",
-    "missionEndDate": "2027-11-01T00:00:00",
-    "startBroadcastDate": "2026-09-17T00:00:00",
-    "endBroadcastDate": "2026-10-17T00:00:00"
-   },
-   "summary": "Depuis plus de 35 ans, NORCAN conçoit des solutions sur mesure pour l’industrie et la logistique, en s’appuyant sur une expertise reconnue en aménagement de postes de travail et en optimisation des flux.\r\nAu cœur de cette offre, le robot SHERPA℗ incarne une nouvelle génération de solutions intralogistiques. Modulaire et entièrement personnalisable grâce à nos profilés en aluminium, il s’adapte précisément à vos processus métiers. Ses capacités avancées de navigation et de cartographie lui permettent d’évoluer de manière autonome, sécurisée et intelligente, tout en collectant des données utiles à l’amélioration continue de vos opérations.\r\nEn combinant robotique mobile et équipements sur mesure, NORCAN propose des solutions clés en main pour automatiser, fiabiliser et optimiser vos flux internes. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/245450",
-   "score": 55,
-   "label": "Bonne adéquation",
-   "first_seen": "2026-08-28T14:08:58+00:00",
-   "axis_scores": {
-    "rd": 43,
-    "prod": 24,
-    "qual": 0,
-    "calc": 9
-   },
-   "dominant_axis": "rd",
-   "matched_families": [
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
-     "weight": 4,
-     "terms": [
-      "automatisation"
-     ]
-    },
-    {
-     "id": "prod5",
-     "axis": "prod",
-     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
-     "weight": 4,
-     "terms": [
-      "ingenierie industrielle"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "amelioration continue",
-      "ingenierie"
-     ]
-    },
-    {
-     "id": "rd1",
-     "axis": "rd",
-     "source": "Métallurgie 1 (280-1, 34 h), Métallurgie 2 (287-1, 45 h)",
-     "weight": 12,
-     "terms": [
-      "aluminium"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "resolution de problemes"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineer"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "mecanique"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "243768",
    "title": "Analog Mixed-Signal (AMS) Verification Engineer (H/F)",
    "company": "ELSYS DESIGN",
@@ -7875,7 +7768,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-01T07:10:51Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8196,7 +8089,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-30T08:22:15Z",
    "sector": "",
-   "specialization": "63, 86, 113, 123, 125, 155, 169, 366",
+   "specialization": "[\"63\",\"86\",\"113\",\"123\",\"125\",\"155\",\"169\",\"366\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8590,7 +8483,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-15T12:17:14Z",
    "sector": "",
-   "specialization": "[\"361\"]",
+   "specialization": "361",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8885,7 +8778,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-19T12:40:33Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9160,7 +9053,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-23T09:02:41Z",
    "sector": "",
-   "specialization": "52, 66, 114, 115, 143, 148, 153",
+   "specialization": "[\"52\",\"66\",\"114\",\"115\",\"143\",\"148\",\"153\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9340,7 +9233,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T13:42:47Z",
    "sector": "",
-   "specialization": "207",
+   "specialization": "[\"207\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9453,7 +9346,7 @@
    "expiry_date": "",
    "publish_date": "2025-11-19T10:45:12Z",
    "sector": "",
-   "specialization": "77, 149, 207",
+   "specialization": "[\"77\",\"149\",\"207\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9841,7 +9734,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-10T15:03:12Z",
    "sector": "",
-   "specialization": "209",
+   "specialization": "[\"209\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10586,7 +10479,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-16T13:34:08Z",
    "sector": "",
-   "specialization": "[\"63\",\"169\"]",
+   "specialization": "63, 169",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10676,7 +10569,7 @@
    "expiry_date": "",
    "publish_date": "2026-05-06T16:27:06Z",
    "sector": "",
-   "specialization": "[\"64\",\"65\",\"71\",\"77\",\"107\",\"149\",\"153\",\"224\"]",
+   "specialization": "64, 65, 71, 77, 107, 149, 153, 224",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10750,7 +10643,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T14:37:51Z",
    "sector": "",
-   "specialization": "[\"51\"]",
+   "specialization": "51",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -11158,7 +11051,7 @@
    "expiry_date": "",
    "publish_date": "2026-02-18T16:34:08Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -11463,7 +11356,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-28T13:10:22Z",
    "sector": "",
-   "specialization": "262",
+   "specialization": "[\"262\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -11554,7 +11447,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-30T07:58:49Z",
    "sector": "",
-   "specialization": "[\"65\",\"68\",\"77\",\"107\",\"149\",\"159\",\"168\",\"365\"]",
+   "specialization": "65, 68, 77, 107, 149, 159, 168, 365",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -11636,7 +11529,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-21T14:45:41Z",
    "sector": "",
-   "specialization": "60, 149, 150, 206, 207, 264",
+   "specialization": "[\"60\",\"149\",\"150\",\"206\",\"207\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -11740,7 +11633,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-02T09:00:25Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12098,7 +11991,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T07:48:01Z",
    "sector": "",
-   "specialization": "[\"206\"]",
+   "specialization": "206",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12495,7 +12388,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-01T14:00:39Z",
    "sector": "",
-   "specialization": "71",
+   "specialization": "[\"71\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -13213,7 +13106,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-31T08:22:25Z",
    "sector": "",
-   "specialization": "[\"60\",\"149\",\"150\",\"206\",\"209\",\"244\",\"262\",\"264\"]",
+   "specialization": "60, 149, 150, 206, 209, 244, 262, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -13490,15 +13383,15 @@
    "expiry_date": "",
    "publish_date": "2026-09-18T13:15:17Z",
    "sector": "",
-   "specialization": "63, 72, 225",
+   "specialization": "[\"63\",\"72\",\"225\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-09-18T13:15:17Z",
     "missionStartDate": "2026-12-01T00:00:00",
     "missionEndDate": "2028-06-01T00:00:00",
-    "startBroadcastDate": "2026-09-18T00:00:00",
-    "endBroadcastDate": "2026-10-18T00:00:00"
+    "startBroadcastDate": "2026-10-13T00:00:00",
+    "endBroadcastDate": "2026-11-12T00:00:00"
    },
    "summary": "Rejoignez les équipes R&D Flow Assurance de la branche Exploration-Production de TotalEnergies à Stavanger, en Norvège.  \n\nVous contribuez à l’évaluation et à l’amélioration de modèles de simulation d’écoulements multiphasiques. Vous intervenez dans un environnement international dédié au transport de CO₂, aux technologies subsea et à la décarbonation des installations offshore.    \n\nMerci de candidater en anglais.   \nLe logement sera fourni par la filiale.    \n\nEn tant qu’Ingénieur Flow Assurance, vos principales responsabilités seront :   \n- Utiliser des logiciels de simulation d’écoulements multiphasiques ;    \n- Analyser des données de production provenant des champs opérés ;   \n- Comparer les résultats des simulations aux données de terrain ;   \n- Valider la précision des modèles de calcul ;   \n- Tester de nouveaux modules et fonctionnalités de simulation ;   \n- Évaluer l’impact de nouveaux schémas numériques sur les performances des modèles ;    \n- Contribuer à l’amélioration des outils de simulation utilisés par les équipes R&D ; […]",
    "url": "https://mon-vie-via.businessfrance.fr/offres/246130",
@@ -13932,7 +13825,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-02T07:42:54Z",
    "sector": "",
-   "specialization": "[\"6\"]",
+   "specialization": "6",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -14896,7 +14789,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-09T10:30:17Z",
    "sector": "",
-   "specialization": "66",
+   "specialization": "[\"66\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -15249,7 +15142,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-08T11:09:48Z",
    "sector": "",
-   "specialization": "[\"149\",\"330\",\"355\"]",
+   "specialization": "149, 330, 355",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -16946,7 +16839,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-21T11:54:30Z",
    "sector": "",
-   "specialization": "68",
+   "specialization": "[\"68\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -17552,7 +17445,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-12T09:41:40Z",
    "sector": "",
-   "specialization": "[\"327\"]",
+   "specialization": "327",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -18346,6 +18239,114 @@
    ]
   },
   {
+   "id": "247001",
+   "title": "Scientific Data Analyst (H/F)",
+   "company": "UCB PHARMA",
+   "country": "BELGIQUE",
+   "city": "BRAINE L ALLEUD",
+   "description": "UCB cherchant à développer son pôle biopharmaceutique en Belgique a besoin de ressources humaines aux compétences spécifiques afin de gérer depuis ce pôle la production de ses produits actifs dans le traitement des maladies auto-immunes. UCB France cherche dès lors à renforcer les compétences locales par des ressources en VIE, dans un but de maîtrise et d'optimisation de la compétitivité de ses productions, distribuées à l'échelle mondiale.\n\nVous êtes passionné(e) par la transformation des données scientifiques complexes en informations exploitables ? Vous souhaitez jouer un rôle clé dans la digitalisation du développement pharmaceutique ? Rejoignez UCB et contribuez, grâce à la science et à la technologie, à améliorer la vie des patients.\n\nLe poste\n\nAu sein de l’équipe CMC Development Digital Sciences, vous soutiendrez le développement de procédés de fabrication robustes et performants en valorisant pleinement les données générées en laboratoire. Vous serez l’interlocuteur privilégié des scientifiques pour concevoir et mettre en œuvre des solutions de visualisation et d’analyse des données.\n\nVos principales missions\n🔹 Compréhension des besoins scientifiques\n\n- Collaborer avec des équipes pluridisciplinaires pour cerner leurs besoins en visualisation de données, analyses et génération automatisée de rapports.\n\n- Veiller à ce que ces besoins contribuent à une meilleure compréhension des produits et procédés, et à l’accélération des projets.\n\n🔹 Conception et mise en œuvre de solutions\n\n- Définir des solutions adaptées en exploitant les plateformes digitales déjà en place chez UCB.\n\n- Promouvoir des approches harmonisées et standardisées.\n\n- Développer des prototypes pour valider certaines hypothèses ou faciliter la communication avec les utilisateurs.\n\n🔹 Validation, déploiement et accompagnement\n\n- Coordonner les activités de validation pour garantir la fiabilité des solutions mises en place.\n\n- Assurer leur déploiement et former les utilisateurs afin d’intégrer pleinement ces outils dans leur quotidien.\n\nLe(la) volontaire sera chargé(e) de :\n- Collaborer avec les scientifiques pour définir leurs besoins en termes d'analyse et de visualisation de données\n- Déterminer les solutions les plus appropriées pour répondre à ces besoins\n- Mettre en oeuvre ces solutions, depuis leur prototypage jusqu'à leur validation et industrialisation\n- Coordonner les activités de partenaires externes lorsque nécessaire\n- Accompagner le changement pour assurer une utilisation optimale des solutions en place",
+   "mission": "",
+   "profile": "Votre profil\n🔹 Compétences personnelles et attitude:\n\n- Une véritable passion pour la visualisation et l’analyse de données, à la fois sur le plan théorique et pratique.\n- Une forte capacité à comprendre les besoins des scientifiques et à fédérer les parties prenantes autour d’objectifs communs.\n- D’excellentes aptitudes en communication, y compris la capacité à vulgariser des sujets complexes.\n- Une grande autonomie dans l’organisation de votre travail ainsi qu’une capacité à coordonner les activités de partenaires internes ou externes.\n- Une exigence élevée en matière de qualité : vous ne transigez jamais sur la rigueur et la fiabilité des solutions livrées.\n- Et surtout : une curiosité naturelle, l’envie de tester, d’innover et d’apprendre de vos expériences.\n🔹 Compétences techniques:\n- Maîtrise pratique d’au moins un langage de programmation : Python et/ou R.\n- Bonnes connaissances des bases de données et du langage SQL.\n- Capacité à choisir et concevoir des visualisations de données pertinentes selon le type d’analyse.\n- Connaissances théoriques en analyse multivariée (ex. : analyse en composantes principales).\n- Une expérience avec des outils de visualisation comme Power BI, Spotfire ou Qlik Sense est un atout.\n- Maîtrise professionnelle du français et de l’anglais, à l’écrit comme à l’oral.\n🔹 Formation & expérience\n- Diplôme de niveau Master (ou équivalent) dans un domaine pertinent.\n- Une première expérience d’au moins 24 mois, en contexte académique ou industriel, dans une fonction similaire ou connexe.",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-13T09:28:11Z",
+   "sector": "",
+   "specialization": "[\"86\",\"113\",\"123\",\"138\",\"144\",\"248\",\"256\",\"327\",\"332\",\"335\",\"367\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-13T09:28:11Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-13T00:00:00",
+    "endBroadcastDate": "2026-11-12T00:00:00"
+   },
+   "summary": "UCB cherchant à développer son pôle biopharmaceutique en Belgique a besoin de ressources humaines aux compétences spécifiques afin de gérer depuis ce pôle la production de ses produits actifs dans le traitement des maladies auto-immunes. UCB France cherche dès lors à renforcer les compétences locales par des ressources en VIE, dans un but de maîtrise et d'optimisation de la compétitivité de ses productions, distribuées à l'échelle mondiale.\n\nVous êtes passionné(e) par la transformation des données scientifiques complexes en informations exploitables ? Vous souhaitez jouer un rôle clé dans la digitalisation du développement pharmaceutique ? Rejoignez UCB et contribuez, grâce à la science et à la technologie, à améliorer la vie des patients.\n\nLe poste\n\nAu sein de l’équipe CMC Development Digital Sciences, vous soutiendrez le développement de procédés de fabrication robustes et performants en valorisant pleinement les données générées en laboratoire. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247001",
+   "score": 35,
+   "label": "À examiner",
+   "first_seen": "2026-10-13T14:09:52+00:00",
+   "axis_scores": {
+    "rd": 9,
+    "prod": 45,
+    "qual": 8,
+    "calc": 9
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "calc4",
+     "axis": "calc",
+     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
+     "weight": 4,
+     "terms": [
+      "python"
+     ]
+    },
+    {
+     "id": "prod4",
+     "axis": "prod",
+     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
+     "weight": 10,
+     "terms": [
+      "industrialisation"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "fabrication"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "qualite",
+      "validation"
+     ]
+    },
+    {
+     "id": "rd9",
+     "axis": "rd",
+     "source": "Vocabulaire de laboratoire courant",
+     "weight": 3,
+     "terms": [
+      "laboratoire"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "industriel"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    },
+    {
+     "label": "Intitulé de métier du numérique : score plafonné",
+     "terms": [
+      "data"
+     ],
+     "points": -5,
+     "cap": 35
+    }
+   ]
+  },
+  {
    "id": "246259",
    "title": "V.I.E. Settlement Officer (H/F)",
    "company": "ENGIE GLOBAL MARKETS",
@@ -18360,7 +18361,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T11:27:28Z",
    "sector": "",
-   "specialization": "[\"259\"]",
+   "specialization": "259",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19002,7 +19003,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-02T12:56:05Z",
    "sector": "",
-   "specialization": "[\"60\"]",
+   "specialization": "60",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19555,7 +19556,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-09T07:57:33Z",
    "sector": "",
-   "specialization": "[\"65\"]",
+   "specialization": "65",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20209,88 +20210,6 @@
    ]
   },
   {
-   "id": "246708",
-   "title": "Ingénieur Chef de Projet  (H/F)",
-   "company": "EGG-CHICK AUTOMATED TECHNOLOGIES",
-   "country": "ETATS-UNIS",
-   "city": "LENEXA       -KS-",
-   "description": "Dans le cadre de ce VIE, une première affectation de 18 mois est prévue aux Etats Unis puis une deuxième affection de 6 mois, dans un autre pays. \r\nVous serez intégré(e) aux équipes Smart Solutions, spécialistes de la conception de solutions technologiques pour la santé animale. Vous serez en charge de coordonner la bonne réalisation des affaires clients pour nos lignes automatisées, aux Etats-Unis, et plus largement sur le continent américain , depuis la signature du contrat jusqu’à la signature du PV de réception. Vous serez l’interface privilégié du client. \r\n\r\nVos missions : \r\n\r\nPlanifier les différents jalons du projet\r\nVisiter les clients pour validation d‘éléments techniques si besoin\r\nParticiper aux réunions de passation, et organiser les revues de conception \r\nOrganiser et animer la réunion de lancement du projet\r\n    - Organiser et animer le kick-off client\r\n    - Être l'interlocuteur du client pour tous les aspects du projet, l’informer de l’avancée du projet\r\n    - Valider chaque étape du process dans le respect du cahier des charges client (garantir le respect de toutes les spécificités données par le client)\r\n    - Assurer le suivi et le respect des plannings, du niveau de qualité, et des budgets\r\nAnalyser les écarts et anticiper les conséquences en termes de délais, coûts, qualité\r\nSuivre les étapes d'études, production, expédition, installation. Relever les éventuels points de blocage et élaborer les plans de résolution des problèmes en collaboration avec les équipes concernées.\r\nAssurer le reporting auprès du client et en interne sur les affaires en cours.\r\nS’assurer du retour d’expérience sur chaque projet et faire le bilan financier\r\n - Veiller à l’amélioration continue des process du service",
-   "mission": "",
-   "profile": "Nous recherchons un(e) ingénieur(e) de formation généraliste ou spécialisé(e) en mécanique/mécatronique, avec une première expérience en milieu industriel (stage ou alternance), idéalement dans un contexte de gestion de projet. Le profil idéal dispose d’une solide maîtrise technique ainsi que d'excellentes compétences relationnelles et de communication.\n\nCompétences requises :\n\n- Anglais courant indispensable (pour les échanges avec clients et fournisseurs ainsi qu’avec nos équipes en France). \n- Lecture de plans et de schémas électriques.\n- Connaissances approfondies en mécanique, électricité et/ou automatisme.\n- Connaissances en méthodes de gestion de projet.\n- Capacité à communiquer de manière claire et efficace dans un environnement international et multiculturel, et à s'adapter aux différents interlocuteurs (clients, fournisseurs, équipes internes).\n\nNous recherchons une personne dynamique, autonome, et dotée d'un bon esprit d'analyse, prête à s'investir dans une expérience stimulante à l'international.",
-   "duration": 18,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-07-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-05T12:06:18Z",
-   "sector": "",
-   "specialization": "224",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-05T12:06:18Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-07-01T00:00:00",
-    "startBroadcastDate": "2026-10-05T00:00:00",
-    "endBroadcastDate": "2026-10-12T00:00:00"
-   },
-   "summary": "Dans le cadre de ce VIE, une première affectation de 18 mois est prévue aux Etats Unis puis une deuxième affection de 6 mois, dans un autre pays. \r\nVous serez intégré(e) aux équipes Smart Solutions, spécialistes de la conception de solutions technologiques pour la santé animale. Vous serez en charge de coordonner la bonne réalisation des affaires clients pour nos lignes automatisées, aux Etats-Unis, et plus largement sur le continent américain , depuis la signature du contrat jusqu’à la signature du PV de réception. Vous serez l’interface privilégié du client. \r\n\r\nVos missions : \r\n\r\nPlanifier les différents jalons du projet\r\nVisiter les clients pour validation d‘éléments techniques si besoin\r\nParticiper aux réunions de passation, et organiser les revues de conception \r\nOrganiser et animer la réunion de lancement du projet\r\n    - Organiser et animer le kick-off client\r\n    - Être l'interlocuteur du client pour tous les aspects du projet, l’informer de l’avancée du projet […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246708",
-   "score": 31,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 10,
-    "qual": 8,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "amelioration continue",
-      "methodes"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "qualite",
-      "validation"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "industriel",
-      "mecanique"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "246604",
    "title": "Responsable des achats de programmes (H/F)",
    "company": "FAURECIA SYSTEMES D'ECHAPPEMENT",
@@ -20797,7 +20716,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T09:01:30Z",
    "sector": "",
-   "specialization": "[\"251\"]",
+   "specialization": "251",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20913,7 +20832,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-11T11:54:58Z",
    "sector": "",
-   "specialization": "[\"109\"]",
+   "specialization": "109",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21124,111 +21043,6 @@
      "label": "Aucun terme industriel : score plafonné",
      "terms": [],
      "points": -19,
-     "cap": 30
-    }
-   ]
-  },
-  {
-   "id": "246351",
-   "title": "Field Engineer Miami Metromover (H/F)",
-   "company": "ALSTOM TRANSPORT SA",
-   "country": "ETATS-UNIS",
-   "city": "MIAMI        -FL-",
-   "description": "Could you be the full-time VIE Field Engineer in Miami we’re looking for?\n\nYour future role\nTake on a new challenge and apply your engineering expertise in a cutting-edge field. You’ll work alongside dynamic, collaborative, and supportive teammates.\nYou'll play a pivotal role in delivering Automated People Mover (APM) solutions that enhance transportation experiences for communities through Alstom's state-of-the-art technology. Day-to-day, you’ll work closely with teams across the business (Project Management, Installation, and Test & Commissioning), rotate through key functions every six months, and contribute to the successful execution of projects, all while being mentored by experienced managers.\n \nYou’ll specifically take care of project governance, installation supervision, and test & commissioning activities, but also contribute to process improvements and knowledge sharing.\nWe’ll look to you for:\n• Deploying Project Management processes and supporting internal and external interfaces.\n• Planning project activities, resources, and schedules while ensuring compliance with EHS standards.\n• Supervising installation contractors and ensuring quality execution of scope and standards.\n• Preparing and executing tests, troubleshooting, and validating system compliance.\n• Providing detailed reports, identifying risks, and proposing solutions for enhanced delivery.\n• Contributing to lessons learned and process optimizations for future projects.",
-   "mission": "",
-   "profile": "All about you\nWe value passion and attitude over experience. That’s why we don’t expect you to have every single skill. Instead, we’ve listed some that we think will help you succeed and grow in this role:\n• Bachelor’s degree in engineering or a related field (or equivalent experience).\n• Experience or understanding of project management, installation, or test & commissioning processes.\n• Knowledge of Earned Value Management (EVM) concepts like EAC, ETC, and AC.\n• Familiarity with EHS compliance and quality standards in engineering projects.\n• A proactive and collaborative mindset with strong problem-solving skills.\n• Excellent communication and reporting skills.\n• Ability to adapt to new challenges and deliver results in a structured manner.\n\nThings you’ll enjoy Join us on a life-long transformative journey – the rail industry is here to stay, so you can grow and develop new skills and experiences throughout your career. You’ll also:\n• Enjoy stability, challenges, and a long-term career free from boring daily routines.\n• Work with new security standards for rail signalling.\n• Collaborate with transverse teams and helpful colleagues.\n• Contribute to innovative projects that shape the future of mobility.\n \nYou don’t need to be a train enthusiast to thrive with us. We guarantee that when you step onto one of our trains with your friends or family, you’ll be proud. If you’re up for the challenge, we’d love to hear from you!\n\nImportant to note\nAs a global business, we’re an equal-opportunity employer that celebrates diversity across the 63 countries we operate in. We’re committed to creating an inclusive workplace for everyone.",
-   "duration": 18,
-   "start_date": "2027-02-01T00:00:00",
-   "end_date": "2028-08-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-24T08:03:51Z",
-   "sector": "",
-   "specialization": "251",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-24T08:03:51Z",
-    "missionStartDate": "2027-02-01T00:00:00",
-    "missionEndDate": "2028-08-01T00:00:00",
-    "startBroadcastDate": "2026-09-24T00:00:00",
-    "endBroadcastDate": "2026-10-24T00:00:00"
-   },
-   "summary": "Could you be the full-time VIE Field Engineer in Miami we’re looking for?\n\nYour future role\nTake on a new challenge and apply your engineering expertise in a cutting-edge field. You’ll work alongside dynamic, collaborative, and supportive teammates.\nYou'll play a pivotal role in delivering Automated People Mover (APM) solutions that enhance transportation experiences for communities through Alstom's state-of-the-art technology. Day-to-day, you’ll work closely with teams across the business (Project Management, Installation, and Test & Commissioning), rotate through key functions every six months, and contribute to the successful execution of projects, all while being mentored by experienced managers.\n \nYou’ll specifically take care of project governance, installation supervision, and test & commissioning activities, but also contribute to process improvements and knowledge sharing.\nWe’ll look to you for:\n• Deploying Project Management processes and supporting internal and external interfaces. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246351",
-   "score": 30,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 34,
-    "qual": 8,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod6",
-     "axis": "prod",
-     "source": "Outils et moyens de fabrication (259-1, 30 h)",
-     "weight": 7,
-     "terms": [
-      "cutting"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "engineering"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "compliance",
-      "quality",
-      "standards"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "problem solving"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineer"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "rail"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Aucun terme industriel : score plafonné",
-     "terms": [],
-     "points": -16,
      "cap": 30
     }
    ]
@@ -22436,7 +22250,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-09T09:05:20Z",
    "sector": "",
-   "specialization": "71",
+   "specialization": "[\"71\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22524,7 +22338,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-24T16:04:18Z",
    "sector": "",
-   "specialization": "[\"73\"]",
+   "specialization": "73",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -23946,7 +23760,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T12:21:39Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -24959,7 +24773,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-21T06:56:59Z",
    "sector": "",
-   "specialization": "[\"86\",\"123\",\"125\",\"150\",\"256\",\"264\"]",
+   "specialization": "86, 123, 125, 150, 256, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25157,7 +24971,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-29T16:17:57Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25634,7 +25448,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T13:35:27Z",
    "sector": "",
-   "specialization": "[\"65\",\"66\",\"68\",\"71\",\"153\"]",
+   "specialization": "65, 66, 68, 71, 153",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25721,7 +25535,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-29T08:17:18Z",
    "sector": "",
-   "specialization": "[\"209\"]",
+   "specialization": "209",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26025,7 +25839,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-02T10:23:33Z",
    "sector": "",
-   "specialization": "149",
+   "specialization": "[\"149\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26608,7 +26422,7 @@
    "expiry_date": "",
    "publish_date": "2026-03-30T16:06:48Z",
    "sector": "",
-   "specialization": "[\"49\",\"52\",\"63\",\"114\",\"148\",\"245\",\"256\"]",
+   "specialization": "49, 52, 63, 114, 148, 245, 256",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26687,85 +26501,6 @@
      "terms": [],
      "points": -16,
      "cap": 30
-    }
-   ]
-  },
-  {
-   "id": "245649",
-   "title": "Software Engineer (H/F)",
-   "company": "SAGEMCOM BROADBAND SAS",
-   "country": "ETATS-UNIS",
-   "city": "DALLAS          -TX-",
-   "description": "Software development team located in Dallas, TX.\nThis role is embedded in our US development team and working with remote Sagemcom development teams.\nThis team also provides onsite support to our customers\n\nResponsibilities: \no Specify together with our Marketing team and our customers the features of the products designed for our NAM customers\no Define the architecture of new software functions in the product\no Development of specified network applications and services\no Embedded middleware & software developments based on Linux and associated services.\no Related software & system validation.\no Integration of open source components and interfacing with the gateway middleware.\no Support the customers for any issues raised (on-site and remote investigation, bug fixing)",
-   "mission": "",
-   "profile": "· Bachelor degree in computer science. A master’s degree is a plus.\n· Experience in embedded software development using C, C++ languages.\n· Deep understanding of TCP/IP(v4, v6) networks and related protocols (IPv4, IPv6, routing/bridging, ethernet, WiFi, VLAN, IPtables, NAT, DHCP, ARP, DNS, TR069, HTTP, MQTT, PPP, IGMP, SIP, QoS, Openflow …\n· Deep understanding of linux system calls\n· Linux embedded developments and associated tools (user space - kernel space as a plus).\n· Experience with OpenWRT, RDK-B or Prpl\n· Understanding of 5G/LTE\n· Docker\n· SW development tools: GIT, Jira.\n· Ability to understand complex software architectures.\n· Continuous integration and Agile Software development methods.\n· Good communication skills, both verbal and written, including the ability clearly communicate at several levels",
-   "duration": 18,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-07-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-07T12:47:59Z",
-   "sector": "",
-   "specialization": "248",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-07T12:47:59Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-07-01T00:00:00",
-    "startBroadcastDate": "2026-09-21T00:00:00",
-    "endBroadcastDate": "2026-10-21T00:00:00"
-   },
-   "summary": "Software development team located in Dallas, TX.\nThis role is embedded in our US development team and working with remote Sagemcom development teams.\nThis team also provides onsite support to our customers\n\nResponsibilities: \no Specify together with our Marketing team and our customers the features of the products designed for our NAM customers\no Define the architecture of new software functions in the product\no Development of specified network applications and services\no Embedded middleware & software developments based on Linux and associated services.\no Related software & system validation.\no Integration of open source components and interfacing with the gateway middleware.\no Support the customers for any issues raised (on-site and remote investigation, bug fixing)",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/245649",
-   "score": 30,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 0,
-    "qual": 8,
-    "calc": 0
-   },
-   "dominant_axis": "rd",
-   "matched_families": [
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "validation"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "investigation"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineer"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "space"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
     }
    ]
   },
@@ -27081,7 +26816,7 @@
    "expiry_date": "",
    "publish_date": "2025-10-28T09:46:40Z",
    "sector": "",
-   "specialization": "[\"248\"]",
+   "specialization": "248",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27370,7 +27105,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-21T13:27:37Z",
    "sector": "",
-   "specialization": "[\"73\"]",
+   "specialization": "73",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27544,32 +27279,123 @@
    ]
   },
   {
-   "id": "245607",
-   "title": "International Quality & Improvement Engineer – UK (H/F)",
+   "id": "247004",
+   "title": "International Quality & Improvement Engineer (H/F)",
    "company": "SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE",
-   "country": "ROYAUME-UNI",
-   "city": "LONDRES",
-   "description": "Envie de lancer votre carrière dans un environnement international et stimulant ?\nRejoignez SII et vivez une expérience humaine et technologique unique !\n\n🚀 VOS MISSIONS : \nEn tant qu’International Quality & Improvement Engineer vous serez rattaché fonctionnellement au Coordinateur International RSE et Performance de la Zone internationale basé à Bucarest, Roumanie. \nVous rejoindrez une équipe opérationnelle internationale comprenant des personnes du monde entier, basées au Canada, États-Unis, Royaume-Uni, Allemagne, Inde et Roumanie.\nVous travaillerez en étroite collaboration avec le coordinateur de la zone internationale, les responsables de processus, les équipes Performance du groupe ainsi que les fonctions support. À ce titre, vous devrez faire preuve d'excellentes capacités de communication et de pédagogie.\n\n Vous serez chargé de : \n• Définir, de déployer, de contrôler et d'améliorer le système de gestion de SII.\n• Vous planifierez, préparerez et piloterez les certifications requises par SII. Vous assurerez l'interface avec le management local et global pour communiquer et garantir la conformité aux exigences légales et normatives. Vous vous assurerez de l'efficacité du système et mesurerez sa valeur ajoutée.\n• Participer à la planification des activités du système de gestion en fonction du champ d'application défini.\n• Contribuer à la construction et à la mise à jour du système de management intégré de SII avec l'équipe de la Zone Internationale du Groupe.\n• Aider à former les équipes SII au système de management et à soutenir les responsables de processus.\n• Participer à l'organisation et à l'animation des instances de pilotage liées à la fonction (comité de performance, pilotage des KPI système).\n• Participer à la réalisation des revues de processus et contribuer à la revue de direction de SII.\n• Auditer, contrôler et analyser l'application du système de gestion, et à assurer le suivi des actions y afférentes.\n• Participer à la préparation des certifications ISO9001, EN9100, ISO14001, ISO 45001 et ISO27001, avec un apport principal sur l'ISO 9001, l'EN 9100 et l'ISO 14001.\n• Consolider et analyser la satisfaction des clients.\n• Contribuer à la définition des outils de soutien au système de gestion.\n• Aider à déployer la gestion électronique des documents (GED) et gérer la documentation du système de gestion.\n• Participer aux comités de performance.\n• Collecter les demandes d'évolution et améliorer le système.",
+   "country": "TCHEQUIE / REPUBLIQUE TCHEQUE",
+   "city": "PRAGUE",
+   "description": "Envie de lancer votre carrière dans un environnement international et stimulant ?\nRejoignez SII et vivez une expérience humaine et technologique unique !\n\n🚀 VOS MISSIONS :\nEn tant qu’International Quality & Improvement Engineer vous serez rattaché fonctionnellement au Coordinateur International RSE et Performance de la Zone internationale basé à Bucarest, Roumanie.\nVous rejoindrez une équipe opérationnelle internationale comprenant des personnes du monde entier, basées au Canada, États-Unis, Royaume-Uni, Allemagne, Inde et Roumanie.\n\nVous travaillerez en étroite collaboration avec le coordinateur de la zone internationale, les responsables de processus, les équipes Performance du groupe ainsi que les fonctions support. À ce titre, vous devrez faire preuve d'excellentes capacités de communication et de pédagogie.\n\nVous serez chargé de :\n• Définir, de déployer, de contrôler et d'améliorer le système de gestion de SII.\n• Vous planifierez, préparerez et piloterez les certifications requises par SII. Vous assurerez l'interface avec le management local et global pour communiquer et garantir la conformité aux exigences légales et normatives. Vous vous assurerez de l'efficacité du système et mesurerez sa valeur ajoutée.\n• Participer à la planification des activités du système de gestion en fonction du champ d'application défini.\n• Contribuer à la construction et à la mise à jour du système de management intégré de SII avec l'équipe de la Zone Internationale du Groupe.\n• Aider à former les équipes SII au système de management et à soutenir les responsables de processus.\n• Participer à l'organisation et à l'animation des instances de pilotage liées à la fonction (comité de performance, pilotage des KPI système).\n• Participer à la réalisation des revues de processus et contribuer à la revue de direction de SII.\n• Auditer, contrôler et analyser l'application du système de gestion, et à assurer le suivi des actions y afférentes.\n• Participer à la préparation des certifications ISO9001, EN9100, ISO14001, ISO 45001 et ISO27001, avec un apport principal sur l'ISO 9001, l'EN 9100 et l'ISO 14001.\n• Consolider et analyser la satisfaction des clients.\n• Contribuer à la définition des outils de soutien au système de gestion.\n• Aider à déployer la gestion électronique des documents (GED) et gérer la documentation du système de gestion.\n• Participer aux comités de performance.\n• Collecter les demandes d'évolution et améliorer le système",
    "mission": "",
-   "profile": "👤 VOTRE PROFIL\n• Une formation Bac+5 en école d’ingénieurs, idéalement avec une spécialisation en qualité. \n• Une excellente maîtrise de l’anglais, à l’oral comme à l’écrit : niveau C1 requis\n• De l’engagement, du dynamisme, de l’organisation, de l’ambition et de la réactivité\n• Un bon esprit d’équipe, une bonne communication \n\n 🌍 POURQUOI NOUS REJOINDRE ?\n• Un environnement de travail attractif, alliant qualité de vie et développement professionnel.\n• L’intégration au sein d’une équipe dynamique, collaborative et à dimension internationale.\n• Un accompagnement et une formation continue, personnalisés selon votre profil et vos besoins professionnels.\n\nPrêt(e) à relever de nouveaux défis dans un environnement stimulant ? Rejoignez l’aventure !\n\n🔎 LA SUITE, ON EN PARLE AVEC NOTRE TALENT ACQUISITION PARTNER !\nSi votre CV est retenu, Juliane vous contactera pour discuter de votre parcours et de vos ambitions. Et ça nous préférons le faire de vive voix !\n\n🏢 QUI SOMMES-NOUS ?\nLe groupe SII est au cœur de l’innovation technologique, accompagnant de grands comptes dans des secteurs d’ingénierie variés.\nRejoindre SII, c’est s’engager dans une aventure collective : Let’s Tech Together !\nCette promesse incarne notre ambition commune : construire ensemble le futur technologique, dans un cadre où autonomie, innovation et épanouissement professionnel vont de pair.\nAlors si ces valeurs vous parlent, rejoignez-nous !",
+   "profile": "👤 VOTRE PROFIL\n• Une formation Bac+5 en école d’ingénieurs, idéalement avec une spécialisation en qualité.\n• Une excellente maîtrise de l’anglais, à l’oral comme à l’écrit : niveau C1 requis\n• De l’engagement, du dynamisme, de l’organisation, de l’ambition et de la réactivité\n• Un bon esprit d’équipe, une bonne communication\n\n🌍 POURQUOI NOUS REJOINDRE ?\n• Un environnement de travail attractif, alliant qualité de vie et développement professionnel.\n• L’intégration au sein d’une équipe dynamique, collaborative et à dimension internationale.\n• Un accompagnement et une formation continue, personnalisés selon votre profil et vos besoins professionnels.\n\nPrêt(e) à relever de nouveaux défis dans un environnement stimulant ? Rejoignez l’aventure !\n\n🔎 LA SUITE, ON EN PARLE AVEC NOTRE TALENT ACQUISITION PARTNER !\nSi votre CV est retenu, Juliane vous contactera pour discuter de votre parcours et de vos ambitions. Et ça nous préférons le faire de vive voix !\n\n🏢 QUI SOMMES-NOUS ?\nLe groupe SII est au cœur de l’innovation technologique, accompagnant de grands comptes dans des secteurs d’ingénierie variés.\nRejoindre SII, c’est s’engager dans une aventure collective : Let’s Tech Together !\nCette promesse incarne notre ambition commune : construire ensemble le futur technologique, dans un cadre où autonomie, innovation et épanouissement professionnel vont de pair.\nAlors si ces valeurs vous parlent, rejoignez-nous !",
    "duration": 12,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2027-12-01T00:00:00",
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
    "expiry_date": "",
-   "publish_date": "2026-09-03T16:44:25Z",
+   "publish_date": "2026-10-13T10:05:29Z",
    "sector": "",
-   "specialization": "155",
+   "specialization": "[\"155\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
-    "creationDate": "2026-09-03T16:44:25Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-21T00:00:00",
-    "endBroadcastDate": "2026-10-21T00:00:00"
+    "creationDate": "2026-10-13T10:05:29Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-13T00:00:00",
+    "endBroadcastDate": "2026-11-12T00:00:00"
    },
-   "summary": "Envie de lancer votre carrière dans un environnement international et stimulant ?\nRejoignez SII et vivez une expérience humaine et technologique unique !\n\n🚀 VOS MISSIONS : \nEn tant qu’International Quality & Improvement Engineer vous serez rattaché fonctionnellement au Coordinateur International RSE et Performance de la Zone internationale basé à Bucarest, Roumanie. \nVous rejoindrez une équipe opérationnelle internationale comprenant des personnes du monde entier, basées au Canada, États-Unis, Royaume-Uni, Allemagne, Inde et Roumanie.\nVous travaillerez en étroite collaboration avec le coordinateur de la zone internationale, les responsables de processus, les équipes Performance du groupe ainsi que les fonctions support. À ce titre, vous devrez faire preuve d'excellentes capacités de communication et de pédagogie.\n\n Vous serez chargé de : \n• Définir, de déployer, de contrôler et d'améliorer le système de gestion de SII.\n• Vous planifierez, préparerez et piloterez les certifications requises par SII. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/245607",
+   "summary": "Envie de lancer votre carrière dans un environnement international et stimulant ?\nRejoignez SII et vivez une expérience humaine et technologique unique !\n\n🚀 VOS MISSIONS :\nEn tant qu’International Quality & Improvement Engineer vous serez rattaché fonctionnellement au Coordinateur International RSE et Performance de la Zone internationale basé à Bucarest, Roumanie.\nVous rejoindrez une équipe opérationnelle internationale comprenant des personnes du monde entier, basées au Canada, États-Unis, Royaume-Uni, Allemagne, Inde et Roumanie.\n\nVous travaillerez en étroite collaboration avec le coordinateur de la zone internationale, les responsables de processus, les équipes Performance du groupe ainsi que les fonctions support. À ce titre, vous devrez faire preuve d'excellentes capacités de communication et de pédagogie.\n\nVous serez chargé de :\n• Définir, de déployer, de contrôler et d'améliorer le système de gestion de SII.\n• Vous planifierez, préparerez et piloterez les certifications requises par SII. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247004",
+   "score": 30,
+   "label": "Périphérique",
+   "first_seen": "2026-10-13T14:09:52+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 10,
+    "qual": 23,
+    "calc": 0
+   },
+   "dominant_axis": "qual",
+   "matched_families": [
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "ingenierie"
+     ]
+    },
+    {
+     "id": "qual2",
+     "axis": "qual",
+     "source": "Qualité et normes (774-1, 14 h, coefficient 0,5)",
+     "weight": 4,
+     "terms": [
+      "en 9100",
+      "iso 9001"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "conformite",
+      "qualite",
+      "quality"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "engineer",
+      "quality"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    },
+    {
+     "label": "Aucun terme industriel : score plafonné",
+     "terms": [],
+     "points": -4,
+     "cap": 30
+    }
+   ]
+  },
+  {
+   "id": "245661",
+   "title": "International Quality & Improvement Engineer – Canada (H/F)",
+   "company": "SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE",
+   "country": "CANADA",
+   "city": "MONTREAL -QC",
+   "description": "Envie de lancer votre carrière dans un environnement international et stimulant ?\nRejoignez SII et vivez une expérience humaine et technologique unique !\n\n🚀 VOS MISSIONS :\nEn tant qu’International Quality & Improvement Engineer vous serez rattaché fonctionnellement au Coordinateur International RSE et Performance de la Zone internationale basé à Bucarest, Roumanie.\nVous rejoindrez une équipe opérationnelle internationale comprenant des personnes du monde entier, basées au Canada, États-Unis, Royaume-Uni, Allemagne, Inde et Roumanie.\n\nVous travaillerez en étroite collaboration avec le coordinateur de la zone internationale, les responsables de processus, les équipes Performance du groupe ainsi que les fonctions support. À ce titre, vous devrez faire preuve d'excellentes capacités de communication et de pédagogie.\n\nVous serez chargé de :\n• Définir, de déployer, de contrôler et d'améliorer le système de gestion de SII.\n• Vous planifierez, préparerez et piloterez les certifications requises par SII. Vous assurerez l'interface avec le management local et global pour communiquer et garantir la conformité aux exigences légales et normatives. Vous vous assurerez de l'efficacité du système et mesurerez sa valeur ajoutée.\n• Participer à la planification des activités du système de gestion en fonction du champ d'application défini.\n• Contribuer à la construction et à la mise à jour du système de management intégré de SII avec l'équipe de la Zone Internationale du Groupe.\n• Aider à former les équipes SII au système de management et à soutenir les responsables de processus.\n• Participer à l'organisation et à l'animation des instances de pilotage liées à la fonction (comité de performance, pilotage des KPI système).\n• Participer à la réalisation des revues de processus et contribuer à la revue de direction de SII.\n• Auditer, contrôler et analyser l'application du système de gestion, et à assurer le suivi des actions y afférentes.\n• Participer à la préparation des certifications ISO9001, EN9100, ISO14001, ISO 45001 et ISO27001, avec un apport principal sur l'ISO 9001, l'EN 9100 et l'ISO 14001.\n• Consolider et analyser la satisfaction des clients.\n• Contribuer à la définition des outils de soutien au système de gestion.\n• Aider à déployer la gestion électronique des documents (GED) et gérer la documentation du système de gestion.\n• Participer aux comités de performance.\n• Collecter les demandes d'évolution et améliorer le système.",
+   "mission": "",
+   "profile": "👤 VOTRE PROFIL\n• Une formation Bac+5 en école d’ingénieurs, idéalement avec une spécialisation en qualité. \n• Une excellente maîtrise de l’anglais, à l’oral comme à l’écrit : niveau C1 requis\n• De l’engagement, du dynamisme, de l’organisation, de l’ambition et de la réactivité\n• Un bon esprit d’équipe, une bonne communication \n\n 🌍 POURQUOI NOUS REJOINDRE ?\n• Un environnement de travail attractif, alliant qualité de vie et développement professionnel.\n• L’intégration au sein d’une équipe dynamique, collaborative et à dimension internationale.\n• Un accompagnement et une formation continue, personnalisés selon votre profil et vos besoins professionnels.\n\nPrêt(e) à relever de nouveaux défis dans un environnement stimulant ? Rejoignez l’aventure !\n\n🔎 LA SUITE, ON EN PARLE AVEC NOTRE TALENT ACQUISITION PARTNER !\nSi votre CV est retenu, Juliane vous contactera pour discuter de votre parcours et de vos ambitions. Et ça nous préférons le faire de vive voix !\n\n🏢 QUI SOMMES-NOUS ?\nLe groupe SII est au cœur de l’innovation technologique, accompagnant de grands comptes dans des secteurs d’ingénierie variés.\nRejoindre SII, c’est s’engager dans une aventure collective : Let’s Tech Together !\nCette promesse incarne notre ambition commune : construire ensemble le futur technologique, dans un cadre où autonomie, innovation et épanouissement professionnel vont de pair.\nAlors si ces valeurs vous parlent, rejoignez-nous !",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-09-07T16:10:14Z",
+   "sector": "",
+   "specialization": "[\"155\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-09-07T16:10:14Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-13T00:00:00",
+    "endBroadcastDate": "2026-11-12T00:00:00"
+   },
+   "summary": "Envie de lancer votre carrière dans un environnement international et stimulant ?\nRejoignez SII et vivez une expérience humaine et technologique unique !\n\n🚀 VOS MISSIONS :\nEn tant qu’International Quality & Improvement Engineer vous serez rattaché fonctionnellement au Coordinateur International RSE et Performance de la Zone internationale basé à Bucarest, Roumanie.\nVous rejoindrez une équipe opérationnelle internationale comprenant des personnes du monde entier, basées au Canada, États-Unis, Royaume-Uni, Allemagne, Inde et Roumanie.\n\nVous travaillerez en étroite collaboration avec le coordinateur de la zone internationale, les responsables de processus, les équipes Performance du groupe ainsi que les fonctions support. À ce titre, vous devrez faire preuve d'excellentes capacités de communication et de pédagogie.\n\nVous serez chargé de :\n• Définir, de déployer, de contrôler et d'améliorer le système de gestion de SII.\n• Vous planifierez, préparerez et piloterez les certifications requises par SII. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/245661",
    "score": 30,
    "label": "Périphérique",
    "first_seen": "2026-10-07T09:55:56+00:00",
@@ -27649,109 +27475,18 @@
    "expiry_date": "",
    "publish_date": "2026-09-03T16:37:44Z",
    "sector": "",
-   "specialization": "155",
+   "specialization": "[\"155\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-09-03T16:37:44Z",
     "missionStartDate": "2026-12-01T00:00:00",
     "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-21T00:00:00",
-    "endBroadcastDate": "2026-10-21T00:00:00"
+    "startBroadcastDate": "2026-10-13T00:00:00",
+    "endBroadcastDate": "2026-11-12T00:00:00"
    },
    "summary": "Envie de lancer votre carrière dans un environnement international et stimulant ?\nRejoignez SII et vivez une expérience humaine et technologique unique !\n\n🚀 VOS MISSIONS : \nEn tant qu’International Quality & Improvement Engineer vous serez rattaché fonctionnellement au Coordinateur International RSE et Performance de la Zone internationale basé à Bucarest, Roumanie. \nVous rejoindrez une équipe opérationnelle internationale comprenant des personnes du monde entier, basées au Canada, États-Unis, Royaume-Uni, Allemagne, Inde et Roumanie.\nVous travaillerez en étroite collaboration avec le coordinateur de la zone internationale, les responsables de processus, les équipes Performance du groupe ainsi que les fonctions support. À ce titre, vous devrez faire preuve d'excellentes capacités de communication et de pédagogie.\n\n Vous serez chargé de : \n• Définir, de déployer, de contrôler et d'améliorer le système de gestion de SII.\n• Vous planifierez, préparerez et piloterez les certifications requises par SII. […]",
    "url": "https://mon-vie-via.businessfrance.fr/offres/245605",
-   "score": 30,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 10,
-    "qual": 23,
-    "calc": 0
-   },
-   "dominant_axis": "qual",
-   "matched_families": [
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "ingenierie"
-     ]
-    },
-    {
-     "id": "qual2",
-     "axis": "qual",
-     "source": "Qualité et normes (774-1, 14 h, coefficient 0,5)",
-     "weight": 4,
-     "terms": [
-      "en 9100",
-      "iso 9001"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "conformite",
-      "qualite",
-      "quality"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineer",
-      "quality"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Aucun terme industriel : score plafonné",
-     "terms": [],
-     "points": -4,
-     "cap": 30
-    }
-   ]
-  },
-  {
-   "id": "245661",
-   "title": "International Quality & Improvement Engineer – Canada (H/F)",
-   "company": "SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE",
-   "country": "CANADA",
-   "city": "MONTREAL -QC",
-   "description": "Envie de lancer votre carrière dans un environnement international et stimulant ?\nRejoignez SII et vivez une expérience humaine et technologique unique !\n\n🚀 VOS MISSIONS :\nEn tant qu’International Quality & Improvement Engineer vous serez rattaché fonctionnellement au Coordinateur International RSE et Performance de la Zone internationale basé à Bucarest, Roumanie.\nVous rejoindrez une équipe opérationnelle internationale comprenant des personnes du monde entier, basées au Canada, États-Unis, Royaume-Uni, Allemagne, Inde et Roumanie.\n\nVous travaillerez en étroite collaboration avec le coordinateur de la zone internationale, les responsables de processus, les équipes Performance du groupe ainsi que les fonctions support. À ce titre, vous devrez faire preuve d'excellentes capacités de communication et de pédagogie.\n\nVous serez chargé de :\n• Définir, de déployer, de contrôler et d'améliorer le système de gestion de SII.\n• Vous planifierez, préparerez et piloterez les certifications requises par SII. Vous assurerez l'interface avec le management local et global pour communiquer et garantir la conformité aux exigences légales et normatives. Vous vous assurerez de l'efficacité du système et mesurerez sa valeur ajoutée.\n• Participer à la planification des activités du système de gestion en fonction du champ d'application défini.\n• Contribuer à la construction et à la mise à jour du système de management intégré de SII avec l'équipe de la Zone Internationale du Groupe.\n• Aider à former les équipes SII au système de management et à soutenir les responsables de processus.\n• Participer à l'organisation et à l'animation des instances de pilotage liées à la fonction (comité de performance, pilotage des KPI système).\n• Participer à la réalisation des revues de processus et contribuer à la revue de direction de SII.\n• Auditer, contrôler et analyser l'application du système de gestion, et à assurer le suivi des actions y afférentes.\n• Participer à la préparation des certifications ISO9001, EN9100, ISO14001, ISO 45001 et ISO27001, avec un apport principal sur l'ISO 9001, l'EN 9100 et l'ISO 14001.\n• Consolider et analyser la satisfaction des clients.\n• Contribuer à la définition des outils de soutien au système de gestion.\n• Aider à déployer la gestion électronique des documents (GED) et gérer la documentation du système de gestion.\n• Participer aux comités de performance.\n• Collecter les demandes d'évolution et améliorer le système.",
-   "mission": "",
-   "profile": "👤 VOTRE PROFIL\n• Une formation Bac+5 en école d’ingénieurs, idéalement avec une spécialisation en qualité. \n• Une excellente maîtrise de l’anglais, à l’oral comme à l’écrit : niveau C1 requis\n• De l’engagement, du dynamisme, de l’organisation, de l’ambition et de la réactivité\n• Un bon esprit d’équipe, une bonne communication \n\n 🌍 POURQUOI NOUS REJOINDRE ?\n• Un environnement de travail attractif, alliant qualité de vie et développement professionnel.\n• L’intégration au sein d’une équipe dynamique, collaborative et à dimension internationale.\n• Un accompagnement et une formation continue, personnalisés selon votre profil et vos besoins professionnels.\n\nPrêt(e) à relever de nouveaux défis dans un environnement stimulant ? Rejoignez l’aventure !\n\n🔎 LA SUITE, ON EN PARLE AVEC NOTRE TALENT ACQUISITION PARTNER !\nSi votre CV est retenu, Juliane vous contactera pour discuter de votre parcours et de vos ambitions. Et ça nous préférons le faire de vive voix !\n\n🏢 QUI SOMMES-NOUS ?\nLe groupe SII est au cœur de l’innovation technologique, accompagnant de grands comptes dans des secteurs d’ingénierie variés.\nRejoindre SII, c’est s’engager dans une aventure collective : Let’s Tech Together !\nCette promesse incarne notre ambition commune : construire ensemble le futur technologique, dans un cadre où autonomie, innovation et épanouissement professionnel vont de pair.\nAlors si ces valeurs vous parlent, rejoignez-nous !",
-   "duration": 12,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-07T16:10:14Z",
-   "sector": "",
-   "specialization": "155",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-07T16:10:14Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-09-16T00:00:00",
-    "endBroadcastDate": "2026-10-16T00:00:00"
-   },
-   "summary": "Envie de lancer votre carrière dans un environnement international et stimulant ?\nRejoignez SII et vivez une expérience humaine et technologique unique !\n\n🚀 VOS MISSIONS :\nEn tant qu’International Quality & Improvement Engineer vous serez rattaché fonctionnellement au Coordinateur International RSE et Performance de la Zone internationale basé à Bucarest, Roumanie.\nVous rejoindrez une équipe opérationnelle internationale comprenant des personnes du monde entier, basées au Canada, États-Unis, Royaume-Uni, Allemagne, Inde et Roumanie.\n\nVous travaillerez en étroite collaboration avec le coordinateur de la zone internationale, les responsables de processus, les équipes Performance du groupe ainsi que les fonctions support. À ce titre, vous devrez faire preuve d'excellentes capacités de communication et de pédagogie.\n\nVous serez chargé de :\n• Définir, de déployer, de contrôler et d'améliorer le système de gestion de SII.\n• Vous planifierez, préparerez et piloterez les certifications requises par SII. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/245661",
    "score": 30,
    "label": "Périphérique",
    "first_seen": "2026-10-07T09:55:56+00:00",
@@ -27831,7 +27566,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-05T16:40:38Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -28841,7 +28576,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-17T09:25:07Z",
    "sector": "",
-   "specialization": "180, 259, 318, 320",
+   "specialization": "[\"180\",\"259\",\"318\",\"320\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29031,20 +28766,20 @@
    "mission": "",
    "profile": "What you will need to be successful\r\n\nExcellent communication skills and fluency in English \r\n2–3 years of experience in a similar analytics role; experience in AdTech is a plus \r\nBachelor’s degree or higher in a quantitative field such as Mathematics, Computer Science, Engineering, Economics, or Business \r\nHands-on experience with SQL for data extraction and manipulation, strong Python skills for data analysis, and experience with visualization tools such as Tableau and/or Power BI \r\nCuriosity and experience in using Generative AI solutions to enhance data exploration, automate insight generation, and craft compelling analytical narratives \r\nStrong intellectual curiosity and analytical mindset, with the ability to structure and solve complex problems and a solid understanding of statistical modeling \r\nStrong business acumen, a genuine interest in the AdTech industry, and the ability to act as a trusted advisor to commercial stakeholders \r\nStrong presentation skills, including PowerPoint proficiency, and the ability to translate data into clear business insights and actionable recommendations \r\nA proactive and autonomous mindset, with the ability to manage multiple projects, set milestones, coordinate with cross-functional teams, and drive initiatives forward",
    "duration": 12,
-   "start_date": "2026-11-01T00:00:00",
-   "end_date": "2027-11-01T00:00:00",
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
    "expiry_date": "",
    "publish_date": "2026-09-16T08:28:57Z",
    "sector": "",
-   "specialization": "5",
+   "specialization": "[\"5\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-09-16T08:28:57Z",
-    "missionStartDate": "2026-11-01T00:00:00",
-    "missionEndDate": "2027-11-01T00:00:00",
-    "startBroadcastDate": "2026-09-16T00:00:00",
-    "endBroadcastDate": "2026-10-16T00:00:00"
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-13T00:00:00",
+    "endBroadcastDate": "2026-11-12T00:00:00"
    },
    "summary": "As part of the Revenue and Market Analytics team within Revenue Operations, your mission will be to deliver robust and intuitive business insights that empower Criteo’s global leaders to shape commercial strategy and strengthen market positioning.\n\nYou will use a data-driven approach to analyse business performance and market trends, uncover actionable insights, and translate complex findings into clear narratives that inform decision-making. This role requires comfort working with large, complex datasets and the curiosity to explore data creatively.\n\nYour Mission\n\nProvide analytical insights on Criteo’s global performance, market dynamics, and competitive landscape \nIdentify growth opportunities and risks, and translate findings into actionable recommendations for C-level stakeholders \nLeverage internal and external data to assess the potential of clients and prospects across existing and new business opportunities \nAnalyze first-party and market data, consumer behavior and intent signals, and industry trends to contextualize Criteo’s performance",
    "url": "https://mon-vie-via.businessfrance.fr/offres/246022",
@@ -29114,7 +28849,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-29T16:14:17Z",
    "sector": "",
-   "specialization": "107",
+   "specialization": "[\"107\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29324,7 +29059,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-21T14:46:23Z",
    "sector": "",
-   "specialization": "[\"2\",\"60\",\"63\",\"64\",\"65\",\"66\",\"68\",\"69\",\"70\",\"71\",\"72\",\"73\",\"77\",\"80\",\"109\",\"113\",\"114\",\"117\",\"123\",\"125\",\"133\",\"137\",\"138\",\"139\",\"142\",\"143\",\"144\",\"145\",\"146\",\"147\",\"149\",\"150\",\"153\",\"155\",\"158\",\"159\",\"160\",\"161\",\"168\",\"169\",\"175\",\"197\",\"206\",\"207\",\"208\",\"209\",\"213\",\"224\",\"225\",\"226\",\"228\",\"244\",\"245\",\"246\",\"247\",\"248\",\"251\",\"256\",\"264\",\"311\",\"351\",\"354\",\"355\",\"356\",\"357\",\"358\",\"361\",\"365\",\"366\",\"367\",\"368\",\"369\",\"370\",\"371\"]",
+   "specialization": "2, 60, 63, 64, 65, 66, 68, 69, 70, 71, 72, 73, 77, 80, 109, 113, 114, 117, 123, 125, 133, 137, 138, 139, 142, 143, 144, 145, 146, 147, 149, 150, 153, 155, 158, 159, 160, 161, 168, 169, 175, 197, 206, 207, 208, 209, 213, 224, 225, 226, 228, 244, 245, 246, 247, 248, 251, 256, 264, 311, 351, 354, 355, 356, 357, 358, 361, 365, 366, 367, 368, 369, 370, 371",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29632,7 +29367,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-23T07:37:46Z",
    "sector": "",
-   "specialization": "[\"318\"]",
+   "specialization": "318",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29716,7 +29451,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-15T13:57:57Z",
    "sector": "",
-   "specialization": "[\"73\"]",
+   "specialization": "73",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29790,7 +29525,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-15T11:00:53Z",
    "sector": "",
-   "specialization": "[\"247\"]",
+   "specialization": "247",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30154,7 +29889,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-26T15:21:54Z",
    "sector": "",
-   "specialization": "6, 7, 21, 78, 130, 158, 195, 207, 244, 264",
+   "specialization": "[\"6\",\"7\",\"21\",\"78\",\"130\",\"158\",\"195\",\"207\",\"244\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30483,7 +30218,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-28T07:33:59Z",
    "sector": "",
-   "specialization": "[\"73\"]",
+   "specialization": "73",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30555,7 +30290,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-12T13:45:29Z",
    "sector": "",
-   "specialization": "[\"29\"]",
+   "specialization": "29",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30627,7 +30362,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-28T07:15:47Z",
    "sector": "",
-   "specialization": "4, 5, 9, 21, 109, 130, 147, 199, 202, 205",
+   "specialization": "[\"4\",\"5\",\"9\",\"21\",\"109\",\"130\",\"147\",\"199\",\"202\",\"205\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30742,7 +30477,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T10:55:11Z",
    "sector": "",
-   "specialization": "138, 248, 330, 355",
+   "specialization": "[\"138\",\"248\",\"330\",\"355\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31144,7 +30879,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T07:57:00Z",
    "sector": "",
-   "specialization": "238",
+   "specialization": "[\"238\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31222,7 +30957,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T08:20:52Z",
    "sector": "",
-   "specialization": "64",
+   "specialization": "[\"64\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32074,7 +31809,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-14T15:44:07Z",
    "sector": "",
-   "specialization": "[\"144\"]",
+   "specialization": "144",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32573,6 +32308,81 @@
      ],
      "points": 14
     },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
+   "id": "246973",
+   "title": "Chargé/e de mission pédagogique (H/F)",
+   "company": "MINISTERE DE L'EUROPE ET DES AFFAIRES ETRANGERES",
+   "country": "MADAGASCAR",
+   "city": "ANTANANARIVO",
+   "description": "Sous l’autorité hiérarchique du Conseiller de la Coopération et d’Action Culturelle de l’Ambassade de France à Madagascar et de la Coordinatrice du réseau des Alliances Françaises de Madagascar, le/la volontaire international/e participera, en lien avec la Coordinatrice nationale, à la mise en œuvre de la stratégie et au suivi des activités relevant du réseau des Alliances Françaises. \nLe/la volontaire international/e sera amené/e à dialoguer avec des équipes aux statuts divers : personnels, expatriés, agents recrutés locaux, enseignants vacataires ou bénévoles membres des conseils d’administration des Alliances.\nLe/la VIA exercera les missions suivantes : \n • Assister la coordination nationale du réseau en appuyant et soutenant régulièrement les associations du réseau : accompagnement et conseil dans le cadre de la Démarche qualité, notamment en termes de gouvernance, veille sur les opportunités de financement. \n • Assister la coordination sur la gestion des projets nationaux en apportant un appui à la fois technique, logistique et organisationnel (francophonie, montée en compétences des enseignants du ou en dehors du réseau, médias et radios, projets de formation du réseau, suivi du développement de la plateforme e-learning et intranet du réseau, séminaires nationaux, tournées culturelles nationales, levée de fonds).\n • Suivre les subventions du SCAC allouées aux Alliances Françaises de Madagascar et analyser les demandes et les rapports d’exécution des subventions lors des réunions d’arbitrage avec la coordination nationale du réseau ; \n • Recueillir, suivre et diffuser en interne les statistiques d’activité des 28 Alliances du réseau et du bilan annuel de l’activité des Alliances à Madagascar ; \n • Assister la coordination nationale au niveau de la Gestion centrale des examens (bureau des examens) où il/elle assurera l’intérim et le support aux équipes de ce domaine d’activité stratégique.\n • Rédiger des notes, des éléments de langage et participer aux différents évènements de coopération linguistique et culturelle à la demande du SCAC ;\n • Assister la coordination nationale sur le développement et le renforcement de la communication transversale interne (mise en place de réunions régulières, transmission d’information à portée nationale ou régionale etc.) et la communication externe vers une plus forte visibilité régionale et mondiale des Alliances françaises du réseau et de la gestion centrale des examens : développer un plan marketing et de communication du réseau, mise à jour du site Internet, de la page Facebook du réseau, IntrAlliance, etc.).\n • identification, rédaction et mise à disposition de documents de travail, mutualisation des ressources et bonnes pratiques, amélioration des supports papiers :\n • visites et mission d’audit ou d’appui sur le terrain. \n\n ***************************************************************************\n\nCompétences attendues pour les missions (profil, connaissance du pays / de la zone géographique, savoir-faire, savoir-être) : \n\nLes fonctions exercées par le/la volontaire international supposent que le candidat dispose d’une connaissance du fonctionnement d’une association ;\nDes qualités rédactionnelles et une aisance relationnelle sont attendues ;\nIl/elle devra faire preuve de capacités d’écoute, d’analyse et de dialogue ;\nUne appétence pour les données chiffrées est sollicitée (suivi des subventions, conception de budgets, levée de fonds…) ;\nUne appétence pour la communication sur les réseaux sociaux serait également recommandée.\nLa connaissance du continent africain et de la zone Océan Indien constitue un atout. Le candidat devra avoir un forte capacité d’adaptation et faire preuve de dynamisme, de curiosité et de disponibilité.\n\n- Environnement professionnel, horaires de travail, disponibilité soirs/weekends :\nCe poste a un très fort potentiel qualifiant, constituant une expérience professionnelle exigeante, cela suppose en conséquence un investissement personnel et des capacités d’adaptation au contexte multiculturel.\n\n- Règlement intérieur appliqué et droit ou non aux RTT :\nRèglement intérieur appliqué et droit aux RTT.\n\n- Spécificités concernant les congés (dates obligatoires, fermeture de la structure, binômat etc.) :\nBinômat de la coordinatrice nationale du réseau des Alliances Françaises du Réseau des Alliances Françaises à Madagascar.\n\n- Déplacements / missions fréquentes :\nCe poste pourra impliquer, occasionnellement, pour le ou la VI des déplacements dans le pays, dans le cadre de suivi de projets.\n\n- Composition de l’équipe de travail :\n1 COCAC/ 1 COCAC adjointe/ 1 Attaché de coopération / 1 Coordonnatrice du réseau des AF/ 3 ADL de la Gestion centrale des examens\nTravail en relation étroite avec la coordinatrice nationale du réseau des Alliances françaises et plus largement avec l’équipe du SCAC et de l’ensemble de l’équipe France.\n\n *****************************************************************\n\nATTENTION : Veillez à postuler via cette plate-forme pendant que l’offre est en ligne, celle-ci disparaîtra de ce site le jour d’expiration mentionné dans l’annonce à 00h01.\n\n• Toute candidature à cette offre suppose obligatoirement une inscription préalable sur le site https://mon-vie-via.businessfrance.fr/ (les informations y figurant doivent être régulièrement mises à jour). Les candidat(e)s non inscrit(e)s ne seront pas retenu(e)s.\n• A compter de la sélection finale, les démarches de mise en route s’effectuent en France et nécessitent ==au minimum entre 2 et 4 mois à compter de l’identification du/de la candidat/e retenu/e selon le pays de destination==.\n• Merci d'adresser ==IMPERATIVEMENT== votre CV et lettre de motivation en français, au format PDF en respectant le format de fichiers ci-après : \n NOM Prénom CV.pdf\n NOM Prénom LM.pdf\n• Merci d'indiquer ==IMPERATIVEMENT== votre numéro d'identifiant donné lors de votre inscription sur le site.\n• Les niveaux de langues étrangères doivent être précisés selon le cadre européen de référence pour les langues (CECRL) A1, A2, B1, B2, C1, C2.\n• Veillez à sauvegarder le contenu de cette offre lorsque vous postulez (sous format PDF ou via une copie d'écran et non pas sélectionné en favoris sur la plateforme Cf. ci-dessus).\n• Tout dossier de candidature adressé directement à l’organisme d’affectation (Institut français, Consulat, Alliance Française, Ambassade), ou qui serait incomplet ou non conforme ne sera pas retenu.\n• Les lettres de recommandation, prises de contact ou autres formes d’intervention (LinkedIn Instagram...etc...) auprès des Conseillers RH ou des organismes d’affectation sont proscrites. \n• Si vous ne recevez pas d'information de notre part sous 8 semaines après retrait de l’annonce, vous pourrez considérer que, malgré tout l'intérêt que présente votre profil, il ne correspond pas à nos besoins actuels.\n• Les entretiens auront lieu principalement en visioconférence (dans l’éventualité où ils se dérouleraient à Paris, aucune prise en charge des frais de transport par le Ministère n’est envisageable).\n• Le/la volontaire international(e) devra être éligible à l'obtention d'un passeport de service pour cette destination.\n• La consultation de la fiche « conseils aux voyageurs » sur le site du MEAE est ==INDISPENSABLE== au moment de postuler : https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/",
+   "mission": "",
+   "profile": "Diplômes demandés (niveau et domaine d’études) :\r\n1- niveau Master : gestion de projets, coopération linguistique, relations internationales, développement international, FLE et/ou ingénierie du FLE\r\net/ou\r\n2- diplôme de gestion : IAE, ESC ou équivalent.\r\nLangues : \r\nFrançais. \r\nCompétences informatiques :\r\nBonne maîtrise des logiciels courants (Word, PowerPoint, Excel, Outlook) et des réseaux sociaux (forte utilisation de Facebook par les partenaires locaux).",
+   "duration": 12,
+   "start_date": "2027-03-01T00:00:00",
+   "end_date": "2028-03-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-12T13:35:45Z",
+   "sector": "",
+   "specialization": "[\"171\"]",
+   "contract": "VIA",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-12T13:35:45Z",
+    "missionStartDate": "2027-03-01T00:00:00",
+    "missionEndDate": "2028-03-01T00:00:00",
+    "startBroadcastDate": "2026-10-13T00:00:00",
+    "endBroadcastDate": "2026-10-18T00:00:00"
+   },
+   "summary": "Sous l’autorité hiérarchique du Conseiller de la Coopération et d’Action Culturelle de l’Ambassade de France à Madagascar et de la Coordinatrice du réseau des Alliances Françaises de Madagascar, le/la volontaire international/e participera, en lien avec la Coordinatrice nationale, à la mise en œuvre de la stratégie et au suivi des activités relevant du réseau des Alliances Françaises. \nLe/la volontaire international/e sera amené/e à dialoguer avec des équipes aux statuts divers : personnels, expatriés, agents recrutés locaux, enseignants vacataires ou bénévoles membres des conseils d’administration des Alliances.\nLe/la VIA exercera les missions suivantes : \n • Assister la coordination nationale du réseau en appuyant et soutenant régulièrement les associations du réseau : accompagnement et conseil dans le cadre de la Démarche qualité, notamment en termes de gouvernance, veille sur les opportunités de financement. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/246973",
+   "score": 27,
+   "label": "Périphérique",
+   "first_seen": "2026-10-13T14:09:52+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 10,
+    "qual": 34,
+    "calc": 0
+   },
+   "dominant_axis": "qual",
+   "matched_families": [
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "ingenierie"
+     ]
+    },
+    {
+     "id": "qual3",
+     "axis": "qual",
+     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
+     "weight": 7,
+     "terms": [
+      "statistiques"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "audit",
+      "qualite"
+     ]
+    }
+   ],
+   "bonuses": [
     {
      "label": "Niveau bac+5 / ingénieur annoncé",
      "terms": [],
@@ -33459,7 +33269,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-24T07:55:08Z",
    "sector": "",
-   "specialization": "[\"86\",\"123\",\"125\",\"150\",\"206\",\"208\",\"209\",\"264\"]",
+   "specialization": "86, 123, 125, 150, 206, 208, 209, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33534,7 +33344,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-24T07:52:59Z",
    "sector": "",
-   "specialization": "86, 208",
+   "specialization": "[\"86\",\"208\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34324,7 +34134,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-06T08:54:04Z",
    "sector": "",
-   "specialization": "[\"327\"]",
+   "specialization": "327",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34759,7 +34569,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-18T08:08:01Z",
    "sector": "",
-   "specialization": "62",
+   "specialization": "[\"62\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34942,78 +34752,6 @@
      "label": "Secteur industriel compatible",
      "terms": [
       "energie"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
-   "id": "246863",
-   "title": "Chargé(e) de mission numérique (H/F)",
-   "company": "MINISTERE DE L'EUROPE ET DES AFFAIRES ETRANGERES",
-   "country": "SENEGAL",
-   "city": "DAKAR",
-   "description": "ATTENTION : Veillez à postuler via cette plate-forme pendant que l’offre est en ligne, celle-ci disparaîtra de ce site le jour d’expiration mentionné dans l’annonce à 00h01.\n\n*************************************************\n\nSous l’autorité du Conseiller de coopération et d’action culturelle (COCAC) et Directeur de l’Institut français du Sénégal, de son adjoint, et de l’Attaché de coopération « Innovation et Économie numérique », le/la chargé/e de mission soutient la politique de coopération dans les domaines de l’innovation et de l’économie numérique et contribue à la politique de communication, en qualité de référent/e communication du SCAC. Il s’agit en particulier d’accompagner le développement du réseau d’incubateurs de l’Institut français du Sénégal et des Alliances françaises au Sénégal et en Gambie (Réseau Teranga Tech Incub), d’accompagner les différents projets « Innovation et Économie numérique » soutenus dans le cadre de projet Fonds Équipe France « FEF » et de contribuer à la cohésion de la communication du réseau autour de thématiques d’avenir.\n\nLes activités principales du/de la chargé/e de mission seront les suivantes :\n\n- Piloter et animer le réseau Teranga Tech Incub, réseau d’incubateurs porté par l’Ambassade de France et déployé sur l’ensemble du territoire sénégalais et en Gambie (4 pôles d’incubation à Dakar, Saint-Louis, Banjul et Ziguinchor) : soutenir son développement, sa montée en puissance et sa visibilité ; appuyer la montée en compétence des quatre responsables d’incubateurs ; développer le réseau de partenaires de Teranga Tech Incub (entreprises, banques, institutions internationales, autorités sénégalaises et gambiennes, collectivités territoriales françaises/coopération décentralisée) ;\n\n- Accompagner la structuration et le rayonnement de la communauté Jambaar Créa consacrée aux Industries Culturelles et Créatives (ICC), en partenariat avec Euroquity / BPIFrance. Animer cette communauté ; assurer un suivi particulier de l’entrepreneuriat féminin et autres sujets identifiés en lien avec l’Attaché de coopération « Innovation et Économie numérique » (Intelligence artificielle, spatial, etc.) ;\n\n- Soutenir la mise en place de projets du Fonds Equipe France (FEF) ou autre fonds de coopération dans le domaine de l’innovation et l’économie numérique ; soutenir la participation de délégations sénégalaises à des événements internationaux (Vivatech, We Are French Touch, BIG, etc.) ;\n\n- Assurer conjointement avec l’Attaché de coopération « Innovation et Economie numérique » une veille sectorielle selon les priorités du moment.\n\nEn qualité de référent/e communication du SCAC, contribuer à la politique de communication :\n \n- Décliner la stratégie de communication définie et dont la mise en œuvre est coordonnée par le Service presse et communication à l’échelle du service, du réseau (établissements scolaires et alliances françaises), des opérateurs – Institut Français du Sénégal, groupe AFD (dont Expertise France et Proparco), Campus France, France Volontaires, IRD, CIRAD, CNRS – et des ETI ;\n- Veiller à la cohérence des actions de communication et à leur inscription dans l’agenda du renouveau, y compris dans l’utilisation des crédits alloués à la communication dans les projets soutenus par le service ;\n- Participer aux réunions des référents communication, qui préparent le planning éditorial, arbitré par le Service presse et communication, garant de la politique de presse et de communication du poste ;\n- Signaler les interlocuteurs pertinents et leur positionnement, alimenter la cartographie des relais d’influence et contribuer au tableau de bord d’impact tenu par le Service presse et communication.\n\nObservations particulières sur le poste :\n\n- Environnement de travail : le bureau du/de la VIA est situé dans les locaux de l’Ambassade.\n\n- Horaires de travail : disponibilité à prévoir certains soirs et weekends pour des évènements de représentation. Des missions devront également être prévues en région et en Gambie.\n\n- Composition de l’équipe de travail : Le Service de coopération et d’action culturelle (SCAC) est composé d’un Conseiller de coopération et d’action culturel et Directeur de l’Institut français du Sénégal, d’un Conseiller adjoint de coopération et d’action culturelle, de 10 attachés de coopération, de 5 VIA et de 5 agents de droit local. Le/la VIA numérique travaille en lien fonctionnel avec le/la chargé/e de mission communication du Service presse et communication. La stratégie, le porte-parolat et le planning éditorial relèvent du Service presse et communication ; la déclinaison au sein du SCAC, du réseau, des opérateurs et par les ETI relève du/de la référent/e.\n\n- RTT – 11 jours de RTT sur une base de travail Hebdomadaire de 38h30\n\n- Congés : La prise de congés doit se faire en cohérence avec la nécessité de continuité de service (présence d’un binôme), et de la charge de travail planifié. Pas d’autre contrainte. 30 jours de congés.\n\n- Déplacements : Le/la VIA devra prévoir de fréquents déplacements dans différentes régions du Sénégal et en Gambie.\n\n*************************************************\n\nATTENTION : Veillez à postuler via cette plate-forme pendant que l’offre est en ligne. Passé ce délai, il ne sera plus possible de candidater. Les transmissions de candidatures aux conseillers RH ou aux structures d’accueils ne seront pas prises en compte.\nToute candidature à cette offre suppose obligatoirement une inscription préalable sur le site https://monvievia.businessfrance.fr/ Les candidat(e)s non inscrit(e)s ne seront pas retenu(e)s.\n• Les niveaux de langues étrangères devront être OBLIGATOIREMENT précisés selon le cadre européen de référence pour les langues (CECRL) A1, A2, B1, B2, C1, C2.\n• Merci d'adresser ==IMPERATIVEMENT== votre CV et lettre de motivation EN FRANÇAIS, au format PDF en respectant le format de fichiers ci-après :\nNOM Prénom CV.pdf\nNOM Prénom LM.pdf\n• Tout dossier de candidature adressé directement à l’organisme d’affectation et/ou qui serait incomplet ou non conforme NE SERA PAS RETENU.\n• Les lettres de recommandation, prises de contact via les réseaux sociaux (Linkedin, Instagram, etc...) ou autres formes d’intervention auprès des organismes d’affectation (ce qui inclut la DRH) sont proscrites.\n• Si vous ne recevez pas d'information de notre part sous 8 semaines après expiration de l’annonce, vous pourrez considérer que, malgré tout l'intérêt que présente votre profil, il ne correspond pas à nos besoins actuels.\n• Les entretiens auront lieu principalement en visioconférence.\n• Dans le cadre du processus de recrutement, le ministère de l’Europe et des affaires étrangères est susceptible de procéder à une prise de référence auprès des anciens employeurs des candidats, conformément aux articles 1221-8 et 1221-9 du code du travail, en l’absence de disposition dans le code général de la fonction publique ou dans le code du service national.\n• Le/la candidat(e) devra être éligible à l'obtention d'un passeport de service/diplomatique pour le pays de destination.\n• La consultation de la fiche « conseils aux voyageurs » sur le site du MEAE est ==INDISPENSABLE== au moment de postuler : https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/\n\n*************************************************",
-   "mission": "",
-   "profile": "Diplômes demandés : Bac +5 d’une Université, Sciences Po, d’une école de commerce ou d’ingénieurs dans le domaine de l’innovation, de la communication, de la gestion ou de l’entreprenariat.\n\nCompétences attendues :\n• Numérique, innovation, entreprenariat et gestion d’entreprise ;\n• Communication institutionnelle et numérique ;\n• Animation de réseau ;\n• Suivi et gestion de portefeuille de projets ;\n• Très bon niveau d’expression orale et écrite et une capacité à prendre la parole en public ;\n• Une connaissance de l’écosystème d’innovation du Sénégal et de la Gambie serait un plus ;\n• Implication, esprit d’initiative, créativité ;\n• Autonomie ;\n• Esprit d’équipe, discrétion et respect de la confidentialité ;\n• Rigueur et précision ;\n• Sens critique et esprit de synthèse ;\n• Réactivité et rapidité d’exécution.\n\nLangues : Français, Anglais (bon niveau - C1/C2), la maîtrise du Wolof ou de toute autre langue locale parlée au Sénégal sera un atout.\n\nCompétences informatiques : Très bonne maîtrise de la suite Office. La maîtrise des outils de production de contenus (Canva, montage vidéo court) serait un plus.",
-   "duration": 12,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-08T15:43:12Z",
-   "sector": "",
-   "specialization": "[\"57\",\"139\",\"171\",\"182\",\"228\"]",
-   "contract": "VIA",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-08T15:43:12Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-08T00:00:00",
-    "endBroadcastDate": "2026-10-12T00:00:00"
-   },
-   "summary": "ATTENTION : Veillez à postuler via cette plate-forme pendant que l’offre est en ligne, celle-ci disparaîtra de ce site le jour d’expiration mentionné dans l’annonce à 00h01.\n\n*************************************************\n\nSous l’autorité du Conseiller de coopération et d’action culturelle (COCAC) et Directeur de l’Institut français du Sénégal, de son adjoint, et de l’Attaché de coopération « Innovation et Économie numérique », le/la chargé/e de mission soutient la politique de coopération dans les domaines de l’innovation et de l’économie numérique et contribue à la politique de communication, en qualité de référent/e communication du SCAC. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246863",
-   "score": 25,
-   "label": "Périphérique",
-   "first_seen": "2026-10-08T19:56:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 24,
-    "qual": 8,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod6",
-     "axis": "prod",
-     "source": "Outils et moyens de fabrication (259-1, 30 h)",
-     "weight": 7,
-     "terms": [
-      "presse"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "qualite"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "spatial"
      ],
      "points": 5
     },
