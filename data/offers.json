@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-13T14:10:08+00:00",
+ "generated_at": "2026-10-13T20:15:22+00:00",
  "source": "Business France — mon-vie-via.businessfrance.fr",
- "total_scanned": 827,
- "total_announced": 827,
- "total_kept": 359,
+ "total_scanned": 828,
+ "total_announced": 828,
+ "total_kept": 361,
  "threshold": 25,
  "axes": {
   "rd": {
@@ -1364,7 +1364,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-29T14:04:00Z",
    "sector": "",
-   "specialization": "60, 64, 77, 133, 162, 197, 224, 225",
+   "specialization": "[\"60\",\"64\",\"77\",\"133\",\"162\",\"197\",\"224\",\"225\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -3267,7 +3267,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-16T13:20:47Z",
    "sector": "",
-   "specialization": "64, 77, 149, 175, 264",
+   "specialization": "[\"64\",\"77\",\"149\",\"175\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -3526,7 +3526,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-09T12:47:59Z",
    "sector": "",
-   "specialization": "65, 66, 73, 110, 153, 160",
+   "specialization": "[\"65\",\"66\",\"73\",\"110\",\"153\",\"160\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5133,6 +5133,125 @@
    ]
   },
   {
+   "id": "245766",
+   "title": "PROCESS DEVELOPMENT ENGINEER - (H/F)",
+   "company": "BAXTER S.A.S",
+   "country": "BELGIQUE",
+   "city": "BRUXELLES",
+   "description": "Your daily missions:\nAs a container process engineer, you will be joining an existing, growing team on site in Belgium. You will directly support the process development of parenteral (intravenous) nutrition flexible bags within the R&D Baxter’s Medical Products and Therapies business unit with the mission of bridging manufacturing sites with product development and deliver relevant best in class technologies while optimizing Safety, Quality, Delivery & Cost.\n\nThe main tasks are to:\n• Collaborate to the process development by interacting with the design, quality and manufacturing teams\n• Be responsible for the organization and completion of whole studies or projects under the guidance of the senior engineering staff or project leader:\no Design study layouts and design of experiments related to new products production process development\no Supervise samples production process and overview logistic aspects,\no Statistically analyze data generated\no Summarize and report results (oral and written formats)\n• Identify opportunities to utilize Process Analytical Technology (PAT) to improve existing processes or create new processes or products\n• Perform Risk Analysis on manufacturing processes and directly support the validation teams in the plants (pFMEA, Control Plans)\n• Communicate continuously to the team and management any progress/status of test study & risk analysis documentation.\n\nMore than a position, an impactful experience!\nAs soon as you arrive, you will be integrated into our teams and learn every day alongside our experts who will support you in your missions. Gradually, you will gain autonomy on your projects to make this experience a real career accelerator. \nAt the end of your VIE, various opportunities may be available to you, either at Baxter in Belgium or abroad, or, depending on your choice within a third-party company. \nIn any case, your VIE at Baxter will remain an excellent and profitable experience.\n \nWhy joining Baxter?\nBaxter is more than a company. It is a community of committed professionals. Every year, our products reach more than 60 million patients worldwide.\nBaxter has a diverse group of employees in more than 100 countries who share a passion for saving and sustaining lives.\nWhether you join us for few years or your entire career, we are united to advancing modern healthcare. Fostering collaborative innovation, continuous learning and diversity are part of our DNA.\nIf you eager to grow in a stimulating, caring environment and look for a daily basis purpose, we are the place to be!\nDuring your assignment with us, you will benefit from :\n• A real community of VIE (about 400 people have done a VIE at Baxter so far)\n• A VIE Ambassador who will guide you in your first steps within the company and the host country\n• A direct contact with a local HR responsible of the VIE program at Baxter who will follow you during your mission. \n• A possibility to join an “Early Career Professional” group where you can attend events related to professional development, networking, sustainability, environment, sports… \n• A flexible workplace and a nice working environment",
+   "mission": "",
+   "profile": "What if it was you?\nDo you have a master’s degree in Mechanical or Materials Engineering? Do you have experience in Plastic Materials Characterization and Processing? \nYou are a team player and demonstrate great autonomy and leadership.\nYou are fluent in English.\nThis VIE mission is based in Braine-l’Alleud (Belgium, 15 minutes from Brussels) and you might be required to work onsite in one of Baxter’s manufacturing plants up to 50% of the time. Its duration is 12 months + 12 months.",
+   "duration": 24,
+   "start_date": "2026-12-01T00:00:00",
+   "end_date": "2028-12-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-09-10T08:20:34Z",
+   "sector": "",
+   "specialization": "[\"63\",\"77\",\"109\",\"114\",\"125\",\"207\",\"262\",\"264\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-09-10T08:20:34Z",
+    "missionStartDate": "2026-12-01T00:00:00",
+    "missionEndDate": "2028-12-01T00:00:00",
+    "startBroadcastDate": "2026-10-13T00:00:00",
+    "endBroadcastDate": "2026-11-12T00:00:00"
+   },
+   "summary": "Your daily missions:\nAs a container process engineer, you will be joining an existing, growing team on site in Belgium. You will directly support the process development of parenteral (intravenous) nutrition flexible bags within the R&D Baxter’s Medical Products and Therapies business unit with the mission of bridging manufacturing sites with product development and deliver relevant best in class technologies while optimizing Safety, Quality, Delivery & Cost.\n\nThe main tasks are to:\n• Collaborate to the process development by interacting with the design, quality and manufacturing teams\n• Be responsible for the organization and completion of whole studies or projects under the guidance of the senior engineering staff or project leader:\no Design study layouts and design of experiments related to new products production process development\no Supervise samples production process and overview logistic aspects,\no Statistically analyze data generated\no Summarize and report results (oral and written formats) […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/245766",
+   "score": 61,
+   "label": "Bonne adéquation",
+   "first_seen": "2026-10-13T20:15:05+00:00",
+   "axis_scores": {
+    "rd": 34,
+    "prod": 45,
+    "qual": 34,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod4",
+     "axis": "prod",
+     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
+     "weight": 10,
+     "terms": [
+      "process engineer"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "engineering",
+      "manufacturing",
+      "product development"
+     ]
+    },
+    {
+     "id": "qual3",
+     "axis": "qual",
+     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
+     "weight": 7,
+     "terms": [
+      "design of experiments"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "quality",
+      "validation"
+     ]
+    },
+    {
+     "id": "rd2",
+     "axis": "rd",
+     "source": "Propriétés mécaniques et physique des matériaux (262-1, 30 h), Critères de choix des matériaux (265-1, 15 h)",
+     "weight": 9,
+     "terms": [
+      "characterization"
+     ]
+    },
+    {
+     "id": "rd9",
+     "axis": "rd",
+     "source": "Vocabulaire de laboratoire courant",
+     "weight": 3,
+     "terms": [
+      "r&d"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "engineer",
+      "process"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "mechanical"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
    "id": "245836",
    "title": "VIE Topographe Junior (H/F)",
    "company": "BOUYGUES TRAVAUX PUBLICS",
@@ -5371,7 +5490,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-06T09:16:52Z",
    "sector": "",
-   "specialization": "63",
+   "specialization": "[\"63\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6165,108 +6284,6 @@
      "terms": [
       "industriel",
       "mecanique"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
-   "id": "246519",
-   "title": "Ingénieur Qualité Fournisseurs (H/F)",
-   "company": "ASTEK FRANCE",
-   "country": "BELGIQUE",
-   "city": "BRUXELLES",
-   "description": "Mission principale :\nGarantir la conformité et la performance qualité des fournisseurs, depuis leur qualification jusqu’à la production série. Le poste consiste à piloter les activités qualité fournisseurs, réaliser des audits, traiter les non-conformités et accompagner les fournisseurs dans une démarche d’amélioration continue.\n\nPrincipales responsabilités :\n- Qualification et évaluation des fournisseurs : analyser leur capacité à répondre aux exigences qualité et industrielles.\n- Réalisation d’audits qualité fournisseurs et suivi des plans d’actions associés.\n- Analyse et traitement des non-conformités fournisseurs à l’aide d’outils tels que 8D et Root Cause Analysis (RCA).\n- Suivi de la performance qualité fournisseurs à travers les indicateurs et KPIs.\n- Participation aux revues de conception et d’industrialisation afin d’anticiper les risques qualité.\n- Identification et gestion des risques fournisseurs tout au long du cycle de vie du produit.\n- Accompagnement des fournisseurs dans l’amélioration de leurs processus, de leur performance et de leur système qualité.\n- Collaboration avec les équipes internes : Achats, Industrialisation, Production et Qualité.",
-   "mission": "",
-   "profile": "- Diplôme d'ingénieur en qualité, production ou équivalent,\n- Au moins une expérience dans le domaine de la qualité,\n- Expérience dans l'aéronautique souhaitée,\n- Maitrise des méthodologies (APQP, PPAP, 8D, AMDEC)\n- Maitrise de l'anglais",
-   "duration": 12,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2027-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-29T14:06:33Z",
-   "sector": "",
-   "specialization": "60",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-29T14:06:33Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-29T00:00:00",
-    "endBroadcastDate": "2026-10-29T00:00:00"
-   },
-   "summary": "Mission principale :\nGarantir la conformité et la performance qualité des fournisseurs, depuis leur qualification jusqu’à la production série. Le poste consiste à piloter les activités qualité fournisseurs, réaliser des audits, traiter les non-conformités et accompagner les fournisseurs dans une démarche d’amélioration continue.\n\nPrincipales responsabilités :\n- Qualification et évaluation des fournisseurs : analyser leur capacité à répondre aux exigences qualité et industrielles.\n- Réalisation d’audits qualité fournisseurs et suivi des plans d’actions associés.\n- Analyse et traitement des non-conformités fournisseurs à l’aide d’outils tels que 8D et Root Cause Analysis (RCA).\n- Suivi de la performance qualité fournisseurs à travers les indicateurs et KPIs.\n- Participation aux revues de conception et d’industrialisation afin d’anticiper les risques qualité.\n- Identification et gestion des risques fournisseurs tout au long du cycle de vie du produit.\n- Accompagnement des fournisseurs dans l’amélioration de leurs processus, de leur performance et de leur système qualité. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246519",
-   "score": 59,
-   "label": "Bonne adéquation",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 45,
-    "qual": 34,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
-     "weight": 10,
-     "terms": [
-      "industrialisation"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "amelioration continue"
-     ]
-    },
-    {
-     "id": "qual3",
-     "axis": "qual",
-     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
-     "weight": 7,
-     "terms": [
-      "8d",
-      "amdec"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "conformite",
-      "qualification",
-      "qualite",
-      "root cause"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur",
-      "qualite"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "aeronautique"
      ],
      "points": 5
     },
@@ -7254,7 +7271,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-13T15:23:11Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8275,7 +8292,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T13:42:07Z",
    "sector": "",
-   "specialization": "331",
+   "specialization": "[\"331\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8483,7 +8500,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-15T12:17:14Z",
    "sector": "",
-   "specialization": "361",
+   "specialization": "[\"361\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9822,7 +9839,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-25T15:02:11Z",
    "sector": "",
-   "specialization": "",
+   "specialization": "[]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10292,7 +10309,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T08:00:24Z",
    "sector": "",
-   "specialization": "114",
+   "specialization": "[\"114\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10643,7 +10660,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T14:37:51Z",
    "sector": "",
-   "specialization": "51",
+   "specialization": "[\"51\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10961,7 +10978,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T13:43:34Z",
    "sector": "",
-   "specialization": "64",
+   "specialization": "[\"64\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -11701,6 +11718,105 @@
       "mecanique"
      ],
      "points": 5
+    }
+   ]
+  },
+  {
+   "id": "247017",
+   "title": "Quality Engineer H/F (H/F)",
+   "company": "HUTCHINSON",
+   "country": "MALTE",
+   "city": "IX-XEWKIJA",
+   "description": "Hutchinson Gozo (Malta) is one of the 100 plants of the group, which specialises in the production of bonded seals (metallic insert with a vulcanized rubber compound profile). The Operational Excellence is one of the most important focus to help us achieve our targets: satisfy our customer’s needs, improve our employee’s safety, sustain our quality, improve our performance and delivery. In order to meet our customer’s needs and improve our performance (from raw materials to customer delivery), we must rethink our internal supply chain and challenge our process flow management. \n\nMain target is to analyse and improve the manufacturing and purchasing flows to optimise the ERP calculation and improve data reliability. The second objective is to work on the monitoring system, to deploy supervision and management KPI with a lean mentality.\n\nYour main missions are : \n-Review of control plans and related documents\n-Updating of control plans to reflect the actual steps being undertaken in the manfuacturing processes\n-Calibration of instruments and maintenance of calibration database\n-Support in internal quality issues (trials, data collection, analysis) etc. \n-Support other Quality Engineers in their daily tasks",
+   "mission": "",
+   "profile": "Specialisation : Mechanical Engineering\nLevel of education : Bachelor Degree\nTechnical skills : Understanding of Quality aspects, Knowledge on ISO Certifications\nSpoken languages : English\nSoft skills : Communication, Team player, Organised",
+   "duration": 24,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2029-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-13T12:55:07Z",
+   "sector": "",
+   "specialization": "[\"77\",\"209\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-13T12:55:07Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2029-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-13T00:00:00",
+    "endBroadcastDate": "2026-11-12T00:00:00"
+   },
+   "summary": "Hutchinson Gozo (Malta) is one of the 100 plants of the group, which specialises in the production of bonded seals (metallic insert with a vulcanized rubber compound profile). The Operational Excellence is one of the most important focus to help us achieve our targets: satisfy our customer’s needs, improve our employee’s safety, sustain our quality, improve our performance and delivery. In order to meet our customer’s needs and improve our performance (from raw materials to customer delivery), we must rethink our internal supply chain and challenge our process flow management. \n\nMain target is to analyse and improve the manufacturing and purchasing flows to optimise the ERP calculation and improve data reliability. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247017",
+   "score": 43,
+   "label": "À examiner",
+   "first_seen": "2026-10-13T20:15:05+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 24,
+    "qual": 23,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod5",
+     "axis": "prod",
+     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
+     "weight": 4,
+     "terms": [
+      "lean"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "engineering",
+      "manufacturing"
+     ]
+    },
+    {
+     "id": "qual2",
+     "axis": "qual",
+     "source": "Qualité et normes (774-1, 14 h, coefficient 0,5)",
+     "weight": 4,
+     "terms": [
+      "quality engineer"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "quality"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "engineer",
+      "quality"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "mechanical"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
     }
    ]
   },
@@ -12639,98 +12755,6 @@
    ]
   },
   {
-   "id": "246471",
-   "title": "Supplier Performance Engineer (H/F)",
-   "company": "ASTEK FRANCE",
-   "country": "BELGIQUE",
-   "city": "BRUXELLES",
-   "description": "Astek is growing and thus welcoming new Supplier Performance Engineer in our Automotive team.\n\nAs a Supplier Performance Engineer, you are responsible for developing and maintaining stable, long-term relationships with our suppliers.\n\nResponsibilities :\n\n- You serve as the liaison between the company and its suppliers responsible for developing new products for vehicles in Europe.\n- You are responsible for the entire process, from product development through pre-production to production.\n- You lead the preparation team, composed of staff from the Design, Quality, and Logistics department, to oversee the planning and development activities of a group of suppliers.\n- You ensure that preparation is completed on time to guarantee the successful launch of parts into mass production.\n- You collaborate with suppliers to improve and enhance their mass production performance in terms of quality, delivery, and productivity.",
-   "mission": "",
-   "profile": "You have a Master degree in Engineering - Mechanical / Production / Manufacturing.\nYou have more than 1 year of work experience.\nYou have an interest in, or previous internship experience within, Quality, Production, Industrial Engineering, or Logistics, ideally in an automotive or high-volume manufacturing environment.\nYou are willing to travel frequently (up to 60% of time)\nYou are fluent in English.",
-   "duration": 12,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2027-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-28T14:09:05Z",
-   "sector": "",
-   "specialization": "207",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-28T14:09:05Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-28T00:00:00",
-    "endBroadcastDate": "2026-10-28T00:00:00"
-   },
-   "summary": "Astek is growing and thus welcoming new Supplier Performance Engineer in our Automotive team.\n\nAs a Supplier Performance Engineer, you are responsible for developing and maintaining stable, long-term relationships with our suppliers.\n\nResponsibilities :\n\n- You serve as the liaison between the company and its suppliers responsible for developing new products for vehicles in Europe.\n- You are responsible for the entire process, from product development through pre-production to production.\n- You lead the preparation team, composed of staff from the Design, Quality, and Logistics department, to oversee the planning and development activities of a group of suppliers.\n- You ensure that preparation is completed on time to guarantee the successful launch of parts into mass production.\n- You collaborate with suppliers to improve and enhance their mass production performance in terms of quality, delivery, and productivity.",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246471",
-   "score": 39,
-   "label": "À examiner",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 24,
-    "qual": 8,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod5",
-     "axis": "prod",
-     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
-     "weight": 4,
-     "terms": [
-      "productivity"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "engineering",
-      "manufacturing",
-      "product development"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "quality"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineer"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "automotive",
-      "industrial",
-      "mechanical"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "245401",
    "title": "Aerospace Engineer (H/F)",
    "company": "AYES SUD-OUEST",
@@ -13198,7 +13222,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-29T08:58:35Z",
    "sector": "",
-   "specialization": "60, 64, 65, 77, 133, 149, 264",
+   "specialization": "[\"60\",\"64\",\"65\",\"77\",\"133\",\"149\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -13358,6 +13382,92 @@
      "terms": [
       "energie",
       "mecanique"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
+   "id": "247020",
+   "title": "Projets Supply Chain H/F (H/F)",
+   "company": "RENAULT SAS",
+   "country": "BRESIL",
+   "city": "SAO JOSE DOS PINHAIS",
+   "description": "Mission Principale\n\nRejoignez l’équipe Projet Supply Chain de Renault Group au Brésil et contribuez au développement ainsi qu’au lancement de nouveaux projets véhicules en partenariat avec Geely. Cette mission VIE offre une immersion concrète dans un environnement industriel automobile international, où vous contribuerez à sécuriser l’approvisionnement des pièces, les capacités des fournisseurs et les flux logistiques conformément aux jalons projet, aux standards qualité et aux objectifs de production. À l’interface des Achats, de l’Ingénierie, de la Fabrication, de la Logistique et des fournisseurs, vous jouerez un rôle actif dans la performance projet, l’anticipation des risques et les initiatives d’amélioration continue. \n\nDescription des activités \n\nContribuer à la coordination des livrables Supply Chain pour les projets de développement et de lancement de nouveaux véhicules.\n\nSuivre la préparation des fournisseurs, la disponibilité des pièces et la préparation logistique au regard des principaux jalons projet\n\nContribuer à l’identification, à l’analyse et à la mitigation des risques Supply Chain afin de sécuriser la réussite des lancements véhicules.\n\nParticiper à des réunions transversales avec les équipes Ingénierie, Achats, Fabrication, Qualité et Logistique, afin d’acquérir une vision globale du pilotage de projets industriels.\n\nSuivre les indicateurs projet et préparer des rapports, tableaux de bord et présentations de management clairs pour faciliter la prise de décision.\n\nContribuer à des études logistiques portant sur les flux de transport, la stratégie de stocks, les solutions d’emballage et l’efficacité opérationnelle.\n\nAppuyer l’analyse des coûts logistiques des nouveaux projets véhicules, incluant les impacts liés au transport, à l’emballage, à l’entreposage et aux stocks.\n\nIdentifier des opportunités d’optimisation des coûts en comparant différents scénarios Supply Chain et logistiques.\n\nContribuer au suivi de la nomenclature produit (BOM – Bill of Materials) et évaluer les impacts Supply Chain liés aux modifications d’ingénierie.\n\nParticiper à la préparation des phases présérie et industrialisation en étroite coopération avec l’usine et les parties prenantes projet.\n\nParticiper aux initiatives d’amélioration continue axées sur les coûts, la qualité, la performance de livraison et l’efficacité.\n\nCollaborer avec des équipes et fournisseurs internationaux dans un environnement multiculturel impliquant des parties prenantes au Brésil, en Chine, en Corée et en France",
+   "mission": "",
+   "profile": "Bac+5 (master 2) en Supply Chain\r\nAnglais et français courants, le portugais serait un plus.",
+   "duration": 18,
+   "start_date": "2027-02-01T00:00:00",
+   "end_date": "2028-08-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-13T14:01:22Z",
+   "sector": "",
+   "specialization": "[\"244\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-13T14:01:22Z",
+    "missionStartDate": "2027-02-01T00:00:00",
+    "missionEndDate": "2028-08-01T00:00:00",
+    "startBroadcastDate": "2026-10-13T00:00:00",
+    "endBroadcastDate": "2026-11-12T00:00:00"
+   },
+   "summary": "Mission Principale\n\nRejoignez l’équipe Projet Supply Chain de Renault Group au Brésil et contribuez au développement ainsi qu’au lancement de nouveaux projets véhicules en partenariat avec Geely. Cette mission VIE offre une immersion concrète dans un environnement industriel automobile international, où vous contribuerez à sécuriser l’approvisionnement des pièces, les capacités des fournisseurs et les flux logistiques conformément aux jalons projet, aux standards qualité et aux objectifs de production. À l’interface des Achats, de l’Ingénierie, de la Fabrication, de la Logistique et des fournisseurs, vous jouerez un rôle actif dans la performance projet, l’anticipation des risques et les initiatives d’amélioration continue. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247020",
+   "score": 38,
+   "label": "À examiner",
+   "first_seen": "2026-10-13T20:15:05+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 45,
+    "qual": 8,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod4",
+     "axis": "prod",
+     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
+     "weight": 10,
+     "terms": [
+      "industrialisation",
+      "usine"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "amelioration continue",
+      "fabrication",
+      "ingenierie"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "qualite",
+      "standards"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "automobile",
+      "industriel"
      ],
      "points": 5
     },
@@ -13806,126 +13916,6 @@
       "gestion"
      ],
      "points": -15,
-     "cap": 35
-    }
-   ]
-  },
-  {
-   "id": "246623",
-   "title": "Business Developer (H/F)",
-   "company": "AIM MANAGEMENT",
-   "country": "MAROC",
-   "city": "CASABLANCA",
-   "description": "Etre le relais local permanent du Directeur du Développement Commercial, basé(e) au Maroc. Votre priorité : le marché marocain, avec une ouverture sur l'Espagne, le Portugal, l'Afrique du Nord et de l'Ouest. Vous représentez ADELMA et le Groupe auprès des clients, prospects et partenaires.",
-   "mission": "",
-   "profile": "Vous avez 3 à 5 ans d'expérience en technico-commercial ou business development dans l'industrie (usinage, plasturgie, emboutissage…), idéalement dans l'automobile ou l'aéronautique, et un BAC +3 en génie mécanique, industriel ou productique ?\n\nVous avez une culture technique des procédés (découpage, injection, usinage, frappe à froid), vous lisez des plans et maîtrisez la métrologie et les matériaux ?\n\nVous maîtrisez le chiffrage, l'analyse de risques et la rédaction d'offres, et vous échangez facilement avec bureaux d'études et acheteurs ?\n\nVous savez prospecter et négocier en B2B, et piloter votre activité avec un CRM et des KPI ?\n\nVous parlez français, anglais et arabe, et vous êtes mobile ?\n\nOn dit de vous que vous êtes autonome, tenace et rigoureux(se) ?",
-   "duration": 12,
-   "start_date": "2027-03-01T00:00:00",
-   "end_date": "2028-03-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-02T07:42:54Z",
-   "sector": "",
-   "specialization": "6",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-02T07:42:54Z",
-    "missionStartDate": "2027-03-01T00:00:00",
-    "missionEndDate": "2028-03-01T00:00:00",
-    "startBroadcastDate": "2026-10-02T00:00:00",
-    "endBroadcastDate": "2026-11-01T00:00:00"
-   },
-   "summary": "Etre le relais local permanent du Directeur du Développement Commercial, basé(e) au Maroc. Votre priorité : le marché marocain, avec une ouverture sur l'Espagne, le Portugal, l'Afrique du Nord et de l'Ouest. Vous représentez ADELMA et le Groupe auprès des clients, prospects et partenaires.",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246623",
-   "score": 35,
-   "label": "À examiner",
-   "first_seen": "2026-10-09T13:36:23+00:00",
-   "axis_scores": {
-    "rd": 43,
-    "prod": 90,
-    "qual": 15,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod1",
-     "axis": "prod",
-     "source": "Mise en forme par déformation plastique des métaux (281-1, 45 h), Physique de la mise en forme (290-1, 30 h)",
-     "weight": 12,
-     "terms": [
-      "emboutissage"
-     ]
-    },
-    {
-     "id": "prod2",
-     "axis": "prod",
-     "source": "Mise en forme par solidification (288-1, 20 h)",
-     "weight": 7,
-     "terms": [
-      "injection"
-     ]
-    },
-    {
-     "id": "prod6",
-     "axis": "prod",
-     "source": "Outils et moyens de fabrication (259-1, 30 h)",
-     "weight": 7,
-     "terms": [
-      "usinage"
-     ]
-    },
-    {
-     "id": "qual4",
-     "axis": "qual",
-     "source": "Introduction aux techniques expérimentales (267-1, 15 h)",
-     "weight": 4,
-     "terms": [
-      "metrologie"
-     ]
-    },
-    {
-     "id": "rd2",
-     "axis": "rd",
-     "source": "Propriétés mécaniques et physique des matériaux (262-1, 30 h), Critères de choix des matériaux (265-1, 15 h)",
-     "weight": 9,
-     "terms": [
-      "materiaux"
-     ]
-    },
-    {
-     "id": "rd5",
-     "axis": "rd",
-     "source": "Mise en forme des polymères et composites (304-2, 30 h), Céramiques et verre (303-2, 27 h)",
-     "weight": 6,
-     "terms": [
-      "plasturgie"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "aeronautique",
-      "automobile",
-      "industriel"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Intitulé hors formation",
-     "terms": [
-      "business developer"
-     ],
-     "points": -22
-    },
-    {
-     "label": "Intitulé de métier du numérique : score plafonné",
-     "terms": [
-      "developer"
-     ],
-     "points": -14,
      "cap": 35
     }
    ]
@@ -14439,6 +14429,116 @@
       "data"
      ],
      "points": -4,
+     "cap": 35
+    }
+   ]
+  },
+  {
+   "id": "246726",
+   "title": "VIE Methods Engineer (H/F)",
+   "company": "BOUYGUES TRAVAUX PUBLICS",
+   "country": "CANADA",
+   "city": "TORONTO",
+   "description": "Job Purpose :\r\nResponsible for the development, coordination, and implementation of construction methods, temporary works, and execution strategies for infrastructure and specialized construction projects across VSL Canada. \r\n\r\nMain responsibilities \r\n\\ Preparation of construction methods, temporary works designs, lifting plans, and sequencing documents. \r\n\\ Provides technical support for tender, planning, execution, and close-out phases. \r\n\\ Support technical and operational strategies in coordination with project management, considering safety, constructability, schedule, cost, and risk. \r\n\\ Prepare method statements, work procedures, and technical submissions. \r\n\\ Supports site teams by resolving technical issues and proposing optimized execution solutions. \r\n\\ Ensures compliance with VSL standards, quality requirements, OHSA regulations, and applicable codes. \r\n\\ Participates in risk assessments and constructability reviews. \r\n\\ Coordinates with internal engineering teams, external consultants, and subcontractors as required.\r\n\\ Participates client interactions on technical matters related to construction methods and execution.\r\n\\ Contributes to contractual documentation, technical clarifications, and claims support where required. \r\n\\ Participates in continuous improvement initiatives, lessons learned, and development of standard methods and templates. \r\n\\ Promotes the application of sustainable and safe construction practices.",
+   "mission": "",
+   "profile": "Profile\r\n\\ Degree in Civil Engineering or related field \r\n\\ 0-5 years of experience in construction, infrastructure, or engineering, with a strong focus on construction methods and temporary works\r\n\\ Proven experience in design and review of temporary works, lifting operations, erection sequences, and construction logistics. \r\n\\ Proficiency in AutoCAD; SolidWorks is a strong asset\r\n\\ Demonstrates analytical judgement, autonomy, and decision-making capability.\r\n\\ Fluent in english\r\n\\ Eligible for the VIE programme",
+   "duration": 24,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2029-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-06T07:53:55Z",
+   "sector": "",
+   "specialization": "[\"70\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-06T07:53:55Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2029-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-13T00:00:00",
+    "endBroadcastDate": "2026-11-12T00:00:00"
+   },
+   "summary": "Job Purpose :\r\nResponsible for the development, coordination, and implementation of construction methods, temporary works, and execution strategies for infrastructure and specialized construction projects across VSL Canada. \r\n\r\nMain responsibilities \r\n\\ Preparation of construction methods, temporary works designs, lifting plans, and sequencing documents. \r\n\\ Provides technical support for tender, planning, execution, and close-out phases. \r\n\\ Support technical and operational strategies in coordination with project management, considering safety, constructability, schedule, cost, and risk. \r\n\\ Prepare method statements, work procedures, and technical submissions. \r\n\\ Supports site teams by resolving technical issues and proposing optimized execution solutions. \r\n\\ Ensures compliance with VSL standards, quality requirements, OHSA regulations, and applicable codes. \r\n\\ Participates in risk assessments and constructability reviews. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/246726",
+   "score": 35,
+   "label": "À examiner",
+   "first_seen": "2026-10-13T20:15:05+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 45,
+    "qual": 34,
+    "calc": 20
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "calc2",
+     "axis": "calc",
+     "source": "CAO (278-1, 30 h), Conception mécanique (264-1, 43 h)",
+     "weight": 9,
+     "terms": [
+      "solidworks"
+     ]
+    },
+    {
+     "id": "prod4",
+     "axis": "prod",
+     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
+     "weight": 10,
+     "terms": [
+      "methods engineer"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "continuous improvement",
+      "engineering"
+     ]
+    },
+    {
+     "id": "qual3",
+     "axis": "qual",
+     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
+     "weight": 7,
+     "terms": [
+      "capability"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "compliance",
+      "quality",
+      "standards"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "engineer"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    },
+    {
+     "label": "Formation exigée hors cursus : score plafonné",
+     "terms": [
+      "civil engineering"
+     ],
+     "points": -20,
      "cap": 35
     }
    ]
@@ -15142,7 +15242,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-08T11:09:48Z",
    "sector": "",
-   "specialization": "149, 330, 355",
+   "specialization": "[\"149\",\"330\",\"355\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -15357,7 +15457,7 @@
    "expiry_date": "",
    "publish_date": "2025-11-12T08:45:10Z",
    "sector": "",
-   "specialization": "149, 208, 209",
+   "specialization": "[\"149\",\"208\",\"209\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -18538,7 +18638,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-22T13:27:06Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19542,6 +19642,98 @@
    ]
   },
   {
+   "id": "247018",
+   "title": "Analyst - Transaction Services (H/F)",
+   "company": "JOLT CAPITAL",
+   "country": "CANADA",
+   "city": "MONTREAL -QC",
+   "description": "Jolt Capital is an independent European private equity platform dedicated to scaling responsible deeptech companies. Founded in 2011, the firm invests in technology-rich B2B growth companies with strong intellectual property, sound fundamentals and global ambitions. Beyond capital, Jolt provides hands-on strategic and operational support to help its portfolio companies become international leaders. Its investment approach combines sector expertise, rigorous transaction execution and data-driven capabilities, including its proprietary AI platform, Jolt.Ninja. With teams across Europe, North America and Asia, Jolt offers an entrepreneurial, international and demanding environment at the intersection of finance, technology and industrial transformation.\r\nJoin Jolt Capital in Montreal\r\n\r\nAs part of our international development, we are looking for a VIE Transaction Services Analyst to join our Montreal office. You will be fully integrated into the Canadian team and work closely with colleagues across Jolt’s international platform. For all Transaction Services assignments, methodologies and deliverables, you will work under the functional and technical supervision of the Director of Transaction Services.\r\n\r\nYour Mission\r\nAs a VIE Transaction Services Analyst, you will support the analysis and execution of investments, add-on acquisitions and selected exit processes. You will work on live transactions and portfolio projects, turning complex financial information into clear insights for investment decisions. This is a hands-on role offering early responsibility, direct exposure to senior professionals and a unique opportunity to understand how deeptech companies scale internationally.\r\n\r\nWhat You Will Do\r\n• Support financial due diligence on potential investments, add-on acquisitions and selected exit processes.\r\n• Analyse historical and forecast financial performance, including revenue quality, margins, working capital, cash conversion and key operating drivers.\r\n• Review financial models, business plans, accounting data and management information, and identify the principal risks, sensitivities and value drivers.\r\n• Contribute to quality of earnings, net debt and working-capital analyses, adapting standard approaches to the specific economics of deeptech and high-growth businesses.\r\n• Prepare clear, decision-oriented analyses and materials for deal teams, partners and Investment Committees.\r\n• Coordinate selected workstreams with portfolio company management teams, external advisers, accountants and other due diligence providers.\r\n• Support portfolio companies on ad hoc finance and transaction-related projects, including KPI structuring, reporting, financing, bolt-on acquisitions and exit readiness.\r\n• Develop transaction benchmarks, analytical tools and repeatable methodologies for the Transaction Services team.\r\n• Use Jolt.Ninja and other data sources to enrich financial analysis, market understanding and investment decision-making.\r\n• Contribute actively to the firm’s international platform by working across teams, geographies and areas of expertise.\r\n\r\nWhy Join Us?\r\nAt Jolt, you will join a lean, entrepreneurial and international team where high standards go hand in hand with collaboration. We value people who ask the right questions, take ownership and are willing to go beyond the numbers to understand a technology, a market and a business model. You will be trusted with meaningful work from the outset and encouraged to contribute your point of view.\r\n\r\nWhat This VIE Will Offer You\r\n• Hands-on exposure to live growth private equity transactions and strategic portfolio projects.\r\n• Close collaboration with Jolt’s Transaction Services leadership, investment professionals and senior operating experts.\r\n• A distinctive learning environment combining financial analysis, deeptech, international growth and value creation.\r\n• Meaningful responsibility in a lean team, with direct visibility on how analytical work informs investment decisions.\r\n• An international experience in Montreal, connected to Jolt’s teams and portfolio across Europe, North America and Asia.\r\n\r\n• Team: Integrated into the Canadian team, with a functional and technical reporting line to the Director of Transaction Services for all Transaction Services matters.",
+   "mission": "",
+   "profile": "What We Are Looking For\r\n• Master’s degree from a leading business school, engineering school or university, with strong exposure to finance, accounting or corporate finance.\r\n• A first significant experience in Transaction Services, audit, M&A, private equity, leveraged finance or corporate finance; experience within a Big Four or recognised advisory firm would be particularly relevant.\r\n• Strong accounting and financial analysis skills, with the ability to understand the operational story behind the numbers.\r\n• Excellent analytical and modelling capabilities, advanced proficiency in Excel and the ability to prepare concise, high-quality presentations.\r\n• Fluent English is required; French is strongly preferred for collaboration across the Montreal and Paris teams.\r\n• A genuine interest in technology, industrial innovation and high-growth B2B companies.\r\n• A rigorous, curious and pragmatic mindset, with strong attention to detail and a collaborative approach.",
+   "duration": 18,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-07-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-13T13:27:32Z",
+   "sector": "",
+   "specialization": "[\"259\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-13T13:27:32Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-07-01T00:00:00",
+    "startBroadcastDate": "2026-10-13T00:00:00",
+    "endBroadcastDate": "2026-11-12T00:00:00"
+   },
+   "summary": "Jolt Capital is an independent European private equity platform dedicated to scaling responsible deeptech companies. Founded in 2011, the firm invests in technology-rich B2B growth companies with strong intellectual property, sound fundamentals and global ambitions. Beyond capital, Jolt provides hands-on strategic and operational support to help its portfolio companies become international leaders. Its investment approach combines sector expertise, rigorous transaction execution and data-driven capabilities, including its proprietary AI platform, Jolt.Ninja. With teams across Europe, North America and Asia, Jolt offers an entrepreneurial, international and demanding environment at the intersection of finance, technology and industrial transformation.\r\nJoin Jolt Capital in Montreal\r\n\r\nAs part of our international development, we are looking for a VIE Transaction Services Analyst to join our Montreal office. You will be fully integrated into the Canadian team and work closely with colleagues across Jolt’s international platform. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247018",
+   "score": 32,
+   "label": "Périphérique",
+   "first_seen": "2026-10-13T20:15:05+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 24,
+    "qual": 8,
+    "calc": 27
+   },
+   "dominant_axis": "calc",
+   "matched_families": [
+    {
+     "id": "calc1",
+     "axis": "calc",
+     "source": "Éléments finis (256-1, 24 h), TP simulation numérique (272-1, 285-5, 285-4, 63 h), Calculs numériques de mise en forme (277-1, 286-1, 50 h)",
+     "weight": 12,
+     "terms": [
+      "modelling"
+     ]
+    },
+    {
+     "id": "prod5",
+     "axis": "prod",
+     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
+     "weight": 4,
+     "terms": [
+      "lean"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "engineering"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "audit",
+      "quality",
+      "standards"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "industrial"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
    "id": "246882",
    "title": "INGENIEUR AUTOMATICIEN (H/F)",
    "company": "NGEN LILLE",
@@ -20379,7 +20571,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-21T12:18:30Z",
    "sector": "",
-   "specialization": "60",
+   "specialization": "[\"60\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -23210,7 +23402,7 @@
    "expiry_date": "",
    "publish_date": "2025-09-30T14:46:47Z",
    "sector": "",
-   "specialization": "62, 71, 77, 161",
+   "specialization": "[\"62\",\"71\",\"77\",\"161\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -23954,7 +24146,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T10:14:48Z",
    "sector": "",
-   "specialization": "330",
+   "specialization": "[\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -24684,7 +24876,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-21T14:42:01Z",
    "sector": "",
-   "specialization": "2, 29, 60, 62, 63, 64, 65, 66, 68, 69, 70, 71, 72, 73, 76, 109, 114, 134, 138, 149, 150, 155, 158, 159, 160, 168, 169, 197, 205, 206, 207, 208, 209, 224, 225, 244, 248, 251, 262, 264, 330, 331, 358, 361",
+   "specialization": "[\"2\",\"29\",\"60\",\"62\",\"63\",\"64\",\"65\",\"66\",\"68\",\"69\",\"70\",\"71\",\"72\",\"73\",\"76\",\"109\",\"114\",\"134\",\"138\",\"149\",\"150\",\"155\",\"158\",\"159\",\"160\",\"168\",\"169\",\"197\",\"205\",\"206\",\"207\",\"208\",\"209\",\"224\",\"225\",\"244\",\"248\",\"251\",\"262\",\"264\",\"330\",\"331\",\"358\",\"361\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -24773,7 +24965,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-21T06:56:59Z",
    "sector": "",
-   "specialization": "86, 123, 125, 150, 256, 264",
+   "specialization": "[\"86\",\"123\",\"125\",\"150\",\"256\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -24971,7 +25163,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-29T16:17:57Z",
    "sector": "",
-   "specialization": "330",
+   "specialization": "[\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25152,7 +25344,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-21T12:23:26Z",
    "sector": "",
-   "specialization": "208",
+   "specialization": "[\"208\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25535,7 +25727,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-29T08:17:18Z",
    "sector": "",
-   "specialization": "209",
+   "specialization": "[\"209\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26505,90 +26697,6 @@
    ]
   },
   {
-   "id": "246475",
-   "title": "People and Culture Trainee (H/F)",
-   "company": "SANOFI WINTHROP INDUSTRIE",
-   "country": "AUTRICHE",
-   "city": "VIENNE",
-   "description": "About the job\n\nAs People and Culture Trainee VIE within our P&C Europe GSA team, you’ll support the Country Head and P&C Team, and support and own different projects. \n\nReady to push the limits of what’s possible? Join Sanofi in one of our corporate functions and you can play a vital part in the performance of our entire business while helping to make an impact on millions around the world. \n\nReady to get started?\n\nAbout Sanofi\n\nWe’re an R&D-driven, AI-powered biopharma company committed to improving people’s lives and delivering compelling growth. Our deep understanding of the immune system – and innovative pipeline – enables us to invent medicines and vaccines that treat and protect millions of people around the world. Together, we chase the miracles of science to improve people’s lives. \n\nMain responsibilities:\n\n Support Country Head and P&C Team:\n\n- Support of the HR Business Partner in all HR-related activities and global Sanofi processes (personnel administration, personnel development, etc.).\n- Support HR Business Partnering across the full employee lifecycle\n(talent, performance, development, engagement).\n- Being the contact person for employees for all HR-related topics.\n- Active cooperation with HR Services.\n- Owning Workday tasks including maintenance of data and workday, creating new positions, support in time tracking.\n- Implementing global projects at the local level in Austria.\n- Talent management.\n- All Well, Action, Benchmarking.\n \nProject support/owner:\n\n- Analysing people analytics on engagement surveys; generated insights to\ndrive employee experience and culture initiatives.\n- Owning global project implementation at the local level.\n- Benchmarking and total compensation reports.\n- Assisting in the Talent management cycle.\n- Organizing E-health webinars.\n- Aided in delivering change management initiatives in a global environment.\n- Focus group: Sportsgroup, Early Talent.\n- Managing full-cycle recruitment, partnering with hiring managers and\nimproving hiring processes.\n- Designing and delivering onboarding and employee experience initiatives.\n- Presenting data-driven insights and HR initiatives to stakeholders\nand teams.\n- Contributing to process optimization and scalable HR practices,\nincorporating automation workflows to streamline HR tasks.\n\nWhy choose us?\n\n- Be part of a pioneering biopharma company where patient insights shape drug development.\n- Work at the forefront of AI-powered science that accelerates discovery and improves outcomes.\n- Collaborate beyond your expertise, sparking new ideas with diverse, multidisciplinary teams.\n- Work at the forefront of drug discovery, harnessing cutting-edge AI, data, and digital platforms to push the boundaries of science.\n- Help improve the lives of millions of people globally by making drug development quicker and more effective.\n- Join a workplace where diversity, equity, and inclusion are at the core, with Employee Resource Groups and leadership programs that celebrate every voice.\n\niMove is a unique program tailored for European youth interested in challenging themselves with meaningful assignments across the globe. At Sanofi we have a strong ambition to invest in young talents who will drive the success of Sanofi tomorrow.\n\nSanofi’s Work Abroad Program, iMove, offers jobs-assignments with actual responsibilities and a perspective to grow. We provide those opportunities in various functions such as: marketing, finance, regulatory, supply chain, clinical trials, production, etc. and in more than 40 countries. Sanofi unites people who are passionate about solving healthcare needs across the world. Joining our iMove Work Abroad Program is a unique opportunity to make a difference through your work.\n\nPursue Progress. Discover Extraordinary.\n\nProgress doesn’t happen without people – people from different backgrounds, in different locations, doing different roles, all united by one thing: a desire to make miracles happen. You can be one of those people. Chasing change, embracing new ideas and exploring all the opportunities we have to offer. Let’s pursue progress. And let’s discover extraordinary together.\n\nAt Sanofi, we provide equal opportunities to all regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, or gender identity. \n\nWatch our ALL IN video and check out our Diversity Equity and Inclusion actions at sanofi.com!",
-   "mission": "",
-   "profile": "About you\n\nExperience:\n\nPreferable experience in HR field.\n\nSoft and technical skills:\n\n- Advanced communication & presentation skills.\n- Capable and interested in working in diverse teams and projects.\n- Results oriented.\n- Good organisation and structural skills.\n- Project management skills.\n- Strong analytical and problem-solving skills, with the ability to make data-driven decisions.\n- Demonstrated commitment to diversity, equity, and inclusion.\n \nEducation:\n\n- Master’s degree in Human Resources, Business, Communications, Psychology or other relevant areas.\n\nLanguages:\n\n- Advanced knowledge of English, German knowledge is highly preferred.\n\nTo facilitate the examination of your application by our English-speaking managers, thank you for applying in English.",
-   "duration": 24,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2029-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-28T15:30:27Z",
-   "sector": "",
-   "specialization": "26",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-28T15:30:27Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2029-01-01T00:00:00",
-    "startBroadcastDate": "2026-09-29T00:00:00",
-    "endBroadcastDate": "2026-10-29T00:00:00"
-   },
-   "summary": "About the job\n\nAs People and Culture Trainee VIE within our P&C Europe GSA team, you’ll support the Country Head and P&C Team, and support and own different projects. \n\nReady to push the limits of what’s possible? Join Sanofi in one of our corporate functions and you can play a vital part in the performance of our entire business while helping to make an impact on millions around the world. \n\nReady to get started?\n\nAbout Sanofi\n\nWe’re an R&D-driven, AI-powered biopharma company committed to improving people’s lives and delivering compelling growth. Our deep understanding of the immune system – and innovative pipeline – enables us to invent medicines and vaccines that treat and protect millions of people around the world. Together, we chase the miracles of science to improve people’s lives. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246475",
-   "score": 30,
-   "label": "Périphérique",
-   "first_seen": "2026-10-09T13:36:23+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 38,
-    "qual": 0,
-    "calc": 9
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
-     "weight": 4,
-     "terms": [
-      "automation"
-     ]
-    },
-    {
-     "id": "prod6",
-     "axis": "prod",
-     "source": "Outils et moyens de fabrication (259-1, 30 h)",
-     "weight": 7,
-     "terms": [
-      "cutting"
-     ]
-    },
-    {
-     "id": "prod5",
-     "axis": "prod",
-     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
-     "weight": 4,
-     "terms": [
-      "process optimization"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "problem solving",
-      "r&d"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "242637",
    "title": "INGENIEUR IVVQ (H/F)",
    "company": "SCALIAN",
@@ -26702,7 +26810,7 @@
    "expiry_date": "",
    "publish_date": "2026-03-05T13:22:50Z",
    "sector": "",
-   "specialization": "251",
+   "specialization": "[\"251\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27105,7 +27213,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-21T13:27:37Z",
    "sector": "",
-   "specialization": "73",
+   "specialization": "[\"73\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29740,7 +29848,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-14T12:45:10Z",
    "sector": "",
-   "specialization": "206",
+   "specialization": "[\"206\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30568,7 +30676,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T09:43:41Z",
    "sector": "",
-   "specialization": "330",
+   "specialization": "[\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31116,7 +31224,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-13T14:31:50Z",
    "sector": "",
-   "specialization": "70",
+   "specialization": "[\"70\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32316,6 +32424,90 @@
    ]
   },
   {
+   "id": "246850",
+   "title": "Data Quality & Japan Deployment Engineer (H/F)",
+   "company": "JOLT CAPITAL",
+   "country": "JAPON",
+   "city": "TOKYO",
+   "description": "We are looking for a hands-on data profile with engineering discipline, high standards and real professional maturity. The ideal candidate should be able to understand both the technical and business purpose of the data: improving Jolt.Ninja’s ability to identify, organise and interpret relevant information in Japan and in Japanese. This role is particularly suited to someone who is still young enough to be eligible for the VIE programme but has already demonstrated professional reliability, ownership and resilience in a demanding work environment.\n\nKey Responsibilities\n• Clean, structure and enrich Japanese-language data used by Jolt.Ninja, ensuring accuracy, consistency and usability across internal workflows.\n• Review and improve the quality of company, market, investor and ecosystem data related to Japan and the broader Asian market.\n• Work on LP-related data, including data cleansing, categorisation, validation and enrichment, in coordination with the relevant internal teams.\n• Identify recurring data quality issues, propose improvements and help build more robust processes for Japanese data integration.\n• Support the adaptation of Jolt.Ninja to Japanese-language content, including naming conventions, search relevance, entity recognition, translation nuances and local business terminology.\n• Collaborate closely with the Jolt.Ninja team in France to test, document and improve data pipelines, quality checks and user feedback loops.\n• Help map relevant Japanese data sources, ecosystems, investors, companies and strategic partners that may support Jolt Capital’s local development.\n• Contribute to the creation of structured datasets and documentation to improve the platform’s understanding of the Japanese market.\n• Support ad hoc analytical projects involving market intelligence, portfolio monitoring, sourcing or investor data.\n• Maintain strict confidentiality and data integrity standards when handling strategic, investor-related or proprietary information.",
+   "mission": "",
+   "profile": "Profile\n• Engineering degree or Master’s degree in data science, computer science, applied mathematics, statistics, information systems, finance engineering or a related quantitative field.\n• Not a purely junior profile: the candidate should have already completed at least one meaningful professional experience, ideally a first full-time role, a demanding internship, a graduate programme or substantial project work involving data.\n• Strong experience with data cleaning, data quality, data structuring, databases, Excel or Python-based data workflows.\n• Ability to handle messy, multilingual or unstructured datasets and turn them into reliable, usable and documented information.\n• Excellent command of Japanese and English is required; French would be a strong advantage given the reporting line to the Jolt.Ninja team in France.\n• Good understanding of Japanese business culture, company information sources, market practices and local terminology.\n• Interest in AI, data platforms, private equity, deeptech, market intelligence and international expansion.\n• Strong analytical mindset, attention to detail, autonomy and ability to question data rather than simply process it.\n• Comfortable working remotely with a France-based technical and investment team, across time zones and cultures.\n• Eligible for the VIE programme.",
+   "duration": 18,
+   "start_date": "2027-02-01T00:00:00",
+   "end_date": "2028-08-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-08T13:20:38Z",
+   "sector": "",
+   "specialization": "[\"330\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-08T13:20:38Z",
+    "missionStartDate": "2027-02-01T00:00:00",
+    "missionEndDate": "2028-08-01T00:00:00",
+    "startBroadcastDate": "2026-10-13T00:00:00",
+    "endBroadcastDate": "2026-11-12T00:00:00"
+   },
+   "summary": "We are looking for a hands-on data profile with engineering discipline, high standards and real professional maturity. The ideal candidate should be able to understand both the technical and business purpose of the data: improving Jolt.Ninja’s ability to identify, organise and interpret relevant information in Japan and in Japanese. This role is particularly suited to someone who is still young enough to be eligible for the VIE programme but has already demonstrated professional reliability, ownership and resilience in a demanding work environment.\n\nKey Responsibilities\n• Clean, structure and enrich Japanese-language data used by Jolt.Ninja, ensuring accuracy, consistency and usability across internal workflows.\n• Review and improve the quality of company, market, investor and ecosystem data related to Japan and the broader Asian market.\n• Work on LP-related data, including data cleansing, categorisation, validation and enrichment, in coordination with the relevant internal teams. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/246850",
+   "score": 27,
+   "label": "Périphérique",
+   "first_seen": "2026-10-13T20:15:05+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 10,
+    "qual": 8,
+    "calc": 9
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "calc4",
+     "axis": "calc",
+     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
+     "weight": 4,
+     "terms": [
+      "python"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "engineering"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "quality",
+      "standards",
+      "validation"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "engineer",
+      "quality"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
    "id": "246973",
    "title": "Chargé/e de mission pédagogique (H/F)",
    "company": "MINISTERE DE L'EUROPE ET DES AFFAIRES ETRANGERES",
@@ -33419,7 +33611,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-15T08:23:50Z",
    "sector": "",
-   "specialization": "251",
+   "specialization": "[\"251\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34134,7 +34326,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-06T08:54:04Z",
    "sector": "",
-   "specialization": "327",
+   "specialization": "[\"327\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
