@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-14T11:50:25+00:00",
+ "generated_at": "2026-10-14T18:38:09+00:00",
  "source": "Business France — mon-vie-via.businessfrance.fr",
- "total_scanned": 842,
- "total_announced": 842,
- "total_kept": 365,
+ "total_scanned": 852,
+ "total_announced": 852,
+ "total_kept": 366,
  "threshold": 25,
  "axes": {
   "rd": {
@@ -413,7 +413,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T13:05:00Z",
    "sector": "",
-   "specialization": "60",
+   "specialization": "[\"60\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -2024,7 +2024,7 @@
    "expiry_date": "",
    "publish_date": "2026-05-04T16:17:32Z",
    "sector": "",
-   "specialization": "66",
+   "specialization": "[\"66\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -2303,7 +2303,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T13:11:32Z",
    "sector": "",
-   "specialization": "60",
+   "specialization": "[\"60\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -3526,7 +3526,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-09T12:47:59Z",
    "sector": "",
-   "specialization": "65, 66, 73, 110, 153, 160",
+   "specialization": "[\"65\",\"66\",\"73\",\"110\",\"153\",\"160\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5490,7 +5490,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-29T13:51:25Z",
    "sector": "",
-   "specialization": "60, 64, 77, 133, 224, 225",
+   "specialization": "[\"60\",\"64\",\"77\",\"133\",\"224\",\"225\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5593,7 +5593,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T07:31:41Z",
    "sector": "",
-   "specialization": "206",
+   "specialization": "[\"206\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6008,7 +6008,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T16:09:45Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6181,106 +6181,6 @@
    ]
   },
   {
-   "id": "246113",
-   "title": "Ingénieur méthodes maintenance et optimisation (H/F)",
-   "company": "TOTALENERGIES SE",
-   "country": "CONGO",
-   "city": "POINTE NOIRE",
-   "description": "Rejoignez notre filiale TotalEnergies EP Congo à Pointe-Noire !\n\nTotalEnergies E&P Congo dispose de trois (3) sites de production en Offshore (PNGF Nord, ALIMA, LIKOUF) et d'un terminal pétrolier en en Onshore (Terminal de Djeno). La position est basée à Pointe-Noire avec des visites occasionnelles sur site.\n\nEn tant qu'Ingénieur méthodes maintenance et optimisation, les missions principales proposée pour cette mission VIE seront les suivantes :\n- Mise à jour de Règles Métiers (RM) sur le périmètre de la Maintenance et création de logigrammes pour les processus internes. \n\n- Recensement des sujets pouvant contribuer à la réduction des GHG et focal point pour la Maintenance (interface avec le Dpt. CFR). \n\n- Appropriation des outils OneCBM, MasterMaint, MyCFR, OneSynergi, SCEF et support au site. \n\n- Mise en place de l’outil Qualios pour la gestion des RTAAA et transfert au Centre Opérationnel : \n\n • Implémentation du backlog des RTAAA depuis Word vers Qualios. \n\n • Génération des KPI hebdomadaires RTAAA et mensuels pour la disponibilité des équipements.\n\n- Implémentation de l’outil TIM dans la filiale et support aux utilisateurs finaux pour les rondes de maintenance sur les sites : \n\n • Création des formulaires pour les équipements suivis \n\n • Rédaction des procédures d’utilisation \n\n • Formations aux utilisateurs pour une meilleure prise en mains\n\n- Assistance pendant l'installation de l’imprimante 3D au SAS en relation avec le siège : \n\n • Choix des pièces de rechange éligibles pour l’impression 3D et élaboration d’une base de données (nomenclatures, plans, site, équipements, etc.) \n\n • Mise en place des procédures d’impression en relation avec le siège \n\n • Choix et approvisionnement des matériaux (matière première utilisée pour l’impression) \n\n • Communication et vulgarisation auprès des sites opérationnels \n\n- Étude des équipements qui sont les gros contributeurs de Manque à Produire (MAP) et propositions de solutions de fiabilisation \n\n- Support et force de propositions dans le cadre de l’optimisation du suivit de l’efficacité des équipements.\n\nUn logement en COLOCATION sera fourni par la filiale.",
-   "mission": "",
-   "profile": "Formation recherchée:\n- Diplôme d'ingénieur dans un ou plusieurs des domaines suivants : mécanique, électricité, instrumentation, process, génie industriel\n\nCompétences techniques:\n- De solides compétences techniques en mécanique, électricité ou instrumentation\n- Une 1e expérience ou des stages longs en maintenance seraient un plus\n- Conception et exploitation de bases de données, analyses de données, Big Data\n- Construction de tableaux de bord complexes et dynamiques\n\nCompétences informatiques:\n- Très à l'aise avec les outils informatiques : traitement de texte, bases de données, statistiques et informatique décisionnelle\n\nLangues :\n- Anglais : niveau B2\n- Français : niveau C1",
-   "duration": 18,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-07-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-18T07:56:44Z",
-   "sector": "",
-   "specialization": "71, 73, 77, 149",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-18T07:56:44Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-07-01T00:00:00",
-    "startBroadcastDate": "2026-09-18T00:00:00",
-    "endBroadcastDate": "2026-10-18T00:00:00"
-   },
-   "summary": "Rejoignez notre filiale TotalEnergies EP Congo à Pointe-Noire !\n\nTotalEnergies E&P Congo dispose de trois (3) sites de production en Offshore (PNGF Nord, ALIMA, LIKOUF) et d'un terminal pétrolier en en Onshore (Terminal de Djeno). La position est basée à Pointe-Noire avec des visites occasionnelles sur site.\n\nEn tant qu'Ingénieur méthodes maintenance et optimisation, les missions principales proposée pour cette mission VIE seront les suivantes :\n- Mise à jour de Règles Métiers (RM) sur le périmètre de la Maintenance et création de logigrammes pour les processus internes. \n\n- Recensement des sujets pouvant contribuer à la réduction des GHG et focal point pour la Maintenance (interface avec le Dpt. CFR). \n\n- Appropriation des outils OneCBM, MasterMaint, MyCFR, OneSynergi, SCEF et support au site. \n\n- Mise en place de l’outil Qualios pour la gestion des RTAAA et transfert au Centre Opérationnel : \n\n • Implémentation du backlog des RTAAA depuis Word vers Qualios. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246113",
-   "score": 60,
-   "label": "Bonne adéquation",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 49,
-    "prod": 10,
-    "qual": 27,
-    "calc": 0
-   },
-   "dominant_axis": "rd",
-   "matched_families": [
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "methodes"
-     ]
-    },
-    {
-     "id": "qual3",
-     "axis": "qual",
-     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
-     "weight": 7,
-     "terms": [
-      "statistiques"
-     ]
-    },
-    {
-     "id": "rd2",
-     "axis": "rd",
-     "source": "Propriétés mécaniques et physique des matériaux (262-1, 30 h), Critères de choix des matériaux (265-1, 15 h)",
-     "weight": 9,
-     "terms": [
-      "materiaux"
-     ]
-    },
-    {
-     "id": "rd6",
-     "axis": "rd",
-     "source": "Comportement mécanique des matériaux non conventionnels (298-2, 30 h), Projet de recherche (261-1, 10 h)",
-     "weight": 8,
-     "terms": [
-      "impression 3d"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur",
-      "maintenance",
-      "methodes"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "industriel",
-      "mecanique"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "246000",
    "title": "PROGRAMMEUR(SE) CNC (H/F)",
    "company": "TWYCE",
@@ -6295,7 +6195,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-16T01:06:57Z",
    "sector": "",
-   "specialization": "60, 64, 76, 77, 110, 142, 224",
+   "specialization": "[\"60\",\"64\",\"76\",\"77\",\"110\",\"142\",\"224\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6414,7 +6314,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-20T19:24:50Z",
    "sector": "",
-   "specialization": "64, 65, 66, 77, 107, 150, 153, 207",
+   "specialization": "[\"64\",\"65\",\"66\",\"77\",\"107\",\"150\",\"153\",\"207\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -7672,7 +7572,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-04T13:32:39Z",
    "sector": "",
-   "specialization": "2, 77, 244",
+   "specialization": "[\"2\",\"77\",\"244\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -7866,7 +7766,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-19T14:31:40Z",
    "sector": "",
-   "specialization": "64, 76, 77, 149, 244, 264",
+   "specialization": "[\"64\",\"76\",\"77\",\"149\",\"244\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8278,7 +8178,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T13:42:07Z",
    "sector": "",
-   "specialization": "331",
+   "specialization": "[\"331\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8966,7 +8866,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-23T07:33:29Z",
    "sector": "",
-   "specialization": "52, 66, 114, 115, 130, 148, 153",
+   "specialization": "[\"52\",\"66\",\"114\",\"115\",\"130\",\"148\",\"153\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9056,7 +8956,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-23T09:02:41Z",
    "sector": "",
-   "specialization": "52, 66, 114, 115, 143, 148, 153",
+   "specialization": "[\"52\",\"66\",\"114\",\"115\",\"143\",\"148\",\"153\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9349,7 +9249,7 @@
    "expiry_date": "",
    "publish_date": "2025-11-19T10:45:12Z",
    "sector": "",
-   "specialization": "77, 149, 207",
+   "specialization": "[\"77\",\"149\",\"207\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10400,7 +10300,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T08:00:24Z",
    "sector": "",
-   "specialization": "114",
+   "specialization": "[\"114\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12093,7 +11993,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T07:48:01Z",
    "sector": "",
-   "specialization": "206",
+   "specialization": "[\"206\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12201,7 +12101,7 @@
    "expiry_date": "",
    "publish_date": "2025-11-19T10:45:12Z",
    "sector": "",
-   "specialization": "71",
+   "specialization": "[\"71\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -13818,7 +13718,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-28T11:12:32Z",
    "sector": "",
-   "specialization": "60",
+   "specialization": "[\"60\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -13921,7 +13821,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T13:56:59Z",
    "sector": "",
-   "specialization": "256",
+   "specialization": "[\"256\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -14985,7 +14885,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-28T07:30:04Z",
    "sector": "",
-   "specialization": "71",
+   "specialization": "[\"71\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -15556,7 +15456,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-12T12:25:28Z",
    "sector": "",
-   "specialization": "66",
+   "specialization": "[\"66\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -17528,7 +17428,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-06T12:34:53Z",
    "sector": "",
-   "specialization": "86, 150, 244",
+   "specialization": "[\"86\",\"150\",\"244\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19852,7 +19752,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-09T07:57:33Z",
    "sector": "",
-   "specialization": "65",
+   "specialization": "[\"65\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20593,7 +20493,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-31T08:20:36Z",
    "sector": "",
-   "specialization": "2, 60, 62, 63, 64, 65, 66, 71, 73, 110, 112, 114, 133, 143, 144, 145, 149, 155, 158, 159, 160, 161, 168, 169, 205, 206, 207, 208, 213, 244, 245, 246, 247, 248, 249, 251, 327, 328, 329, 330, 331, 345, 355, 358",
+   "specialization": "[\"2\",\"60\",\"62\",\"63\",\"64\",\"65\",\"66\",\"71\",\"73\",\"110\",\"112\",\"114\",\"133\",\"143\",\"144\",\"145\",\"149\",\"155\",\"158\",\"159\",\"160\",\"161\",\"168\",\"169\",\"205\",\"206\",\"207\",\"208\",\"213\",\"244\",\"245\",\"246\",\"247\",\"248\",\"249\",\"251\",\"327\",\"328\",\"329\",\"330\",\"331\",\"345\",\"355\",\"358\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20923,7 +20823,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T09:27:37Z",
    "sector": "",
-   "specialization": "244",
+   "specialization": "[\"244\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21012,7 +20912,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T09:01:30Z",
    "sector": "",
-   "specialization": "251",
+   "specialization": "[\"251\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21564,7 +21464,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-01T07:59:11Z",
    "sector": "",
-   "specialization": "244",
+   "specialization": "[\"244\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22733,7 +22633,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-24T16:04:18Z",
    "sector": "",
-   "specialization": "73",
+   "specialization": "[\"73\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -23605,7 +23505,7 @@
    "expiry_date": "",
    "publish_date": "2025-09-30T14:46:47Z",
    "sector": "",
-   "specialization": "62, 71, 77, 161",
+   "specialization": "[\"62\",\"71\",\"77\",\"161\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25265,7 +25165,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-21T06:53:37Z",
    "sector": "",
-   "specialization": "86, 123, 125, 256",
+   "specialization": "[\"86\",\"123\",\"125\",\"256\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25752,7 +25652,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T10:01:20Z",
    "sector": "",
-   "specialization": "161",
+   "specialization": "[\"161\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26419,7 +26319,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-15T12:00:46Z",
    "sector": "",
-   "specialization": "168",
+   "specialization": "[\"168\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27110,7 +27010,7 @@
    "expiry_date": "",
    "publish_date": "2026-03-05T13:22:50Z",
    "sector": "",
-   "specialization": "251",
+   "specialization": "[\"251\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -28147,6 +28047,112 @@
    ]
   },
   {
+   "id": "247080",
+   "title": "Process & Digital Officer (M/F/X) (H/F)",
+   "company": "SYNGENIA",
+   "country": "BELGIQUE",
+   "city": "BRUXELLES",
+   "description": "Process & Digital Officer\r\n\r\n📍 Location: Brussels, Belgium\r\n \r\nAbout Syngenia\r\n\r\nAt Syngenia, we are accelerating our digital transformation to become a more efficient, automated, and truly data-driven organization. To support and structure this evolution, we are looking for a Process & Digital Officer who will play a key role in optimizing our internal operations, digitalizing processes, and driving continuous improvement initiatives across the company.\r\n\r\nThis is a strategic and hands-on position offering significant autonomy, direct exposure to management, and the opportunity to shape the way we work.\r\n\r\nYour Mission\r\nAs Process & Digital Officer, you will be responsible for digitalizing, automating, and optimizing internal processes while ensuring data quality and supporting business performance through reliable reporting and continuous improvement.\r\n\r\nKey Responsibilities\r\n🚀 Digitalization & Automation\r\n- Analyze existing processes and identify opportunities for digitalization and automation.\r\n- Design and implement digital workflows to streamline operations and reduce manual effort.\r\n- Configure and optimize internal tools, including workflows, forms, templates, permissions, business rules, and dashboards.\r\n- Develop simple scripts, automations, queries, and low-code solutions to address operational needs.\r\n- Troubleshoot functional issues, investigate root causes, and implement sustainable solutions.\r\n- Collaborate with IT and external support teams when necessary.\r\n- Drive the integration and adoption of AI-powered solutions across the business.\r\n- Promote innovative use cases such as AI-assisted writing, reporting, analysis, recruitment, and operational support.\r\n\r\n📊 Data Management & Business Steering\r\n- Establish and promote data governance best practices to ensure accuracy, consistency, security, and reliability.\r\n- Structure and maintain business data related to recruitment, sales activity, staffing, and operational performance.\r\n- Design and enhance management dashboards and reporting tools.\r\n- Monitor and validate key business metrics used for decision-making.\r\n- Ensure data integrity and reliability for management committees and performance reviews.\r\n\r\n⚙️ Process Optimization & Standardization\r\n- Map and analyze current workflows to identify bottlenecks, inefficiencies, and areas for improvement.\r\n- Simplify and standardize processes with a strong \"digital-first\" mindset.\r\n- Create and maintain clear process documentation, including procedures, guides, diagrams, and checklists.\r\n- Track and measure the impact of implemented improvements through KPIs and performance metrics.\r\n- Promote operational excellence throughout the organization.\r\n\r\n✅ Quality & Continuous Improvement\r\n- Implement a pragmatic quality framework adapted to a growing and agile organization.\r\n- Define and monitor process quality indicators such as lead times, error rates, rework levels, and data completeness.\r\n- Facilitate continuous improvement initiatives and workshops across teams.\r\n- Raise awareness of quality standards, process discipline, and data accuracy.\r\n- Drive a culture of continuous learning, efficiency, and accountability.\r\n\r\nProfile We're Looking For\r\nTechnical Skills\r\n- Strong knowledge of the Microsoft 365 ecosystem (Microsoft Teams, SharePoint, Power Automate, Excel, Forms, etc.).\r\n- Experience in process digitalization, automation, and continuous improvement.\r\n- Ability to configure digital tools, workflows, permissions, forms, and business rules.\r\n- Experience developing simple scripts and automation solutions.\r\n- Solid understanding of data management, reporting, and business intelligence concepts.\r\n- Experience with Python and/or VBA is considered a strong asset.\r\n- Exposure to low-code/no-code platforms (Process Street, Power Platform, etc.) is a plus.\r\n- Familiarity with AI-based business tools and practical AI use cases.\r\n\r\nSoft Skills\r\n- Entrepreneurial mindset with a strong sense of ownership.\r\n- Proactive and solution-oriented approach.\r\n- Ability to challenge existing ways of working and propose pragmatic improvements.\r\n- Strong analytical and problem-solving skills.\r\n- Excellent communication and stakeholder management abilities.\r\n- Comfortable working across departments and translating business needs into digital solutions.\r\n- Organized, structured, and results-driven.\r\n\r\nWhy Join Syngenia?\r\n🌟 Play a strategic role in shaping our digital transformation journey.\r\n🚀 Enjoy a broad scope combining strategy, innovation, and hands-on implementation.\r\n🤝 Join a dynamic, human-sized, and fast-growing company.\r\n📈 Work closely with senior management and key decision-makers.\r\n🔄 Benefit from high autonomy and real impact on the organization.\r\n\r\nHow to Apply\r\nIf you are passionate about digital transformation, process optimization, automation, and continuous improvement, we'd love to hear from you.",
+   "mission": "",
+   "profile": "Nous recherchons un professionnel de la transformation digitale capable d'optimiser, digitaliser et automatiser les processus internes afin d'améliorer l'efficacité opérationnelle et la qualité des données.\n\nVos compétences et expériences :\n\nExpérience confirmée dans la digitalisation de processus, l'amélioration continue ou la transformation des organisations.\nExcellente maîtrise de l'environnement Microsoft 365 (Excel, SharePoint, Teams, Power Automate, Forms, etc.).\nCapacité à analyser les besoins métiers et à les traduire en solutions digitales concrètes.\nExpérience dans la configuration d'outils, workflows, formulaires, règles de gestion et automatisations.\nBonne compréhension des problématiques liées à la qualité, à la gouvernance et à l'exploitation des données.\nConnaissances en VBA, Python ou outils low-code/no-code constituant un atout.\nIntérêt marqué pour les usages professionnels de l'intelligence artificielle.\n\nVos qualités personnelles :\n\nEsprit entrepreneurial et forte autonomie.\nForce de proposition et capacité à challenger les pratiques existantes.\nExcellentes capacités d'analyse et de résolution de problèmes.\nApproche pragmatique, structurée et orientée résultats.\nCapacité à collaborer avec différents départements et à fédérer autour du changement.\nExcellentes compétences en communication et accompagnement des utilisateurs.",
+   "duration": 12,
+   "start_date": "2026-12-01T00:00:00",
+   "end_date": "2027-12-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-14T14:24:32Z",
+   "sector": "",
+   "specialization": "[\"328\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-14T14:24:32Z",
+    "missionStartDate": "2026-12-01T00:00:00",
+    "missionEndDate": "2027-12-01T00:00:00",
+    "startBroadcastDate": "2026-10-14T00:00:00",
+    "endBroadcastDate": "2026-11-13T00:00:00"
+   },
+   "summary": "Process & Digital Officer\r\n\r\n📍 Location: Brussels, Belgium\r\n \r\nAbout Syngenia\r\n\r\nAt Syngenia, we are accelerating our digital transformation to become a more efficient, automated, and truly data-driven organization. To support and structure this evolution, we are looking for a Process & Digital Officer who will play a key role in optimizing our internal operations, digitalizing processes, and driving continuous improvement initiatives across the company.\r\n\r\nThis is a strategic and hands-on position offering significant autonomy, direct exposure to management, and the opportunity to shape the way we work.\r\n\r\nYour Mission\r\nAs Process & Digital Officer, you will be responsible for digitalizing, automating, and optimizing internal processes while ensuring data quality and supporting business performance through reliable reporting and continuous improvement.\r\n\r\nKey Responsibilities\r\n🚀 Digitalization & Automation\r\n- Analyze existing processes and identify opportunities for digitalization and automation. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247080",
+   "score": 30,
+   "label": "Périphérique",
+   "first_seen": "2026-10-14T18:37:51+00:00",
+   "axis_scores": {
+    "rd": 9,
+    "prod": 24,
+    "qual": 8,
+    "calc": 9
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "calc4",
+     "axis": "calc",
+     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
+     "weight": 4,
+     "terms": [
+      "automation",
+      "python",
+      "vba"
+     ]
+    },
+    {
+     "id": "prod5",
+     "axis": "prod",
+     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
+     "weight": 4,
+     "terms": [
+      "process optimization"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "amelioration continue",
+      "continuous improvement"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "qualite",
+      "quality",
+      "standards"
+     ]
+    },
+    {
+     "id": "rd9",
+     "axis": "rd",
+     "source": "Vocabulaire de laboratoire courant",
+     "weight": 3,
+     "terms": [
+      "problem solving",
+      "resolution de problemes"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "process"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Aucun terme industriel : score plafonné",
+     "terms": [],
+     "points": -2,
+     "cap": 30
+    }
+   ]
+  },
+  {
    "id": "246208",
    "title": "V.I.E - Coordinateur Commissioning Instrumentation (H/F)",
    "company": "TECHNIP ENERGIES FRANCE",
@@ -28798,7 +28804,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-18T07:55:37Z",
    "sector": "",
-   "specialization": "155",
+   "specialization": "[\"155\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29257,7 +29263,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-29T16:14:17Z",
    "sector": "",
-   "specialization": "107",
+   "specialization": "[\"107\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29467,7 +29473,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-21T14:46:23Z",
    "sector": "",
-   "specialization": "2, 60, 63, 64, 65, 66, 68, 69, 70, 71, 72, 73, 77, 80, 109, 113, 114, 117, 123, 125, 133, 137, 138, 139, 142, 143, 144, 145, 146, 147, 149, 150, 153, 155, 158, 159, 160, 161, 168, 169, 175, 197, 206, 207, 208, 209, 213, 224, 225, 226, 228, 244, 245, 246, 247, 248, 251, 256, 264, 311, 351, 354, 355, 356, 357, 358, 361, 365, 366, 367, 368, 369, 370, 371",
+   "specialization": "[\"2\",\"60\",\"63\",\"64\",\"65\",\"66\",\"68\",\"69\",\"70\",\"71\",\"72\",\"73\",\"77\",\"80\",\"109\",\"113\",\"114\",\"117\",\"123\",\"125\",\"133\",\"137\",\"138\",\"139\",\"142\",\"143\",\"144\",\"145\",\"146\",\"147\",\"149\",\"150\",\"153\",\"155\",\"158\",\"159\",\"160\",\"161\",\"168\",\"169\",\"175\",\"197\",\"206\",\"207\",\"208\",\"209\",\"213\",\"224\",\"225\",\"226\",\"228\",\"244\",\"245\",\"246\",\"247\",\"248\",\"251\",\"256\",\"264\",\"311\",\"351\",\"354\",\"355\",\"356\",\"357\",\"358\",\"361\",\"365\",\"366\",\"367\",\"368\",\"369\",\"370\",\"371\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29611,7 +29617,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-29T12:47:52Z",
    "sector": "",
-   "specialization": "6, 7",
+   "specialization": "[\"6\",\"7\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29682,7 +29688,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-16T10:04:59Z",
    "sector": "",
-   "specialization": "259",
+   "specialization": "[\"259\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29845,6 +29851,71 @@
    ]
   },
   {
+   "id": "247077",
+   "title": "Chargé(e) de mission (numérique) (H/F)",
+   "company": "MINISTERE DE L'EUROPE ET DES AFFAIRES ETRANGERES",
+   "country": "ESPAGNE",
+   "city": "MADRID",
+   "description": "Descriptif détaillé des missions proposées : \n\nSous l’autorité hiérarchique de Sarah Trin, responsable communication et relations presse au sein de l’Institut français d’Espagne (IFE) à Madrid, le/la VIA exercera les missions suivantes : \n\n1) Gérer le site internet de l’IFE :\n• Mettre à jour le site internet www.institutfrancais.es\n• Rédiger tout texte utile (article, rubrique, message court, etc.)\n• Assurer le suivi technique et la mise à jour des contenus, en lien avec les prestataires,\n• Veiller à la cohérence éditoriale du site, en lien avec les antennes de l’IFE.\n2) Gérer les réseaux sociaux de l’IFE :\n• Participer à l’élaboration d’une stratégie de communication adaptée sur les réseaux sociaux,\n• Participer à l’animation des réseaux sociaux de l’IFE antenne de Madrid (Facebook, LinkedIn, Instagram, Youtube …),\n• Rédiger et mettre en ligne les messages appropriés et participer à la réalisation de contenus visuels (images et vidéos) attractifs,\n• Assurer une veille sur les réseaux sociaux et la modération des contenus,\n• Assurer le respect des plannings\n• Analyser les actions portées.\n3) Participer à la promotion de la programmation culturelle de l’IFE-MADRID et à la vie de l’établissement, notamment en assurant la couverture des évènements.\n\n- Environnement professionnel, horaires de travail, disponibilité soirs/weekends :\n• Travail en réseau avec les responsables de la communication des différentes antennes de l’IFE Espagne (à distance)\n• La/Le titulaire du poste sera régulièrement mobilisé(e) en soirée pour couvrir les évènements organisés par l’établissement. Il est impératif d’être disponible en soirée.\n\n- Règlement intérieur appliqué et droit ou non aux RTT : 11 jours de RTT et 30 jours de congés annuels\n\n- Spécificités concernant les congés : Il est demandé de poser ses congés pendant les périodes de fermeture de l’IF (fêtes de fin d’année, Semana santa, fin juillet-août).\n\n- Déplacements / missions fréquentes : Pas ou peu de déplacements hors de Madrid.\n\n- Composition de l’équipe de travail : Un responsable du Pôle communication et relations presse, 1 VIA (poste à pourvoir), 1 service civique, 1 stagiaire sur certaines périodes.\n\nATTENTION : Veillez à postuler via cette plate-forme pendant que l’offre est en ligne. Passé ce délai, il ne sera plus possible de candidater. Les transmissions de candidatures aux conseillers RH ou aux structures d’accueils ne seront pas prises en compte.\nToute candidature à cette offre suppose obligatoirement une inscription préalable sur le site https://monvievia.businessfrance.fr/ Les candidat(e)s non inscrit(e)s ne seront pas retenu(e)s.\n• Les niveaux de langues étrangères devront être OBLIGATOIREMENT précisés selon le cadre européen de référence pour les langues (CECRL) A1, A2, B1, B2, C1, C2.\n• Merci d'adresser ==IMPERATIVEMENT== votre CV et lettre de motivation EN FRANÇAIS, au format PDF en respectant le format de fichiers ci-après :\nNOM Prénom CV.pdf\nNOM Prénom LM.pdf\n• Tout dossier de candidature adressé directement à l’organisme d’affectation et/ou qui serait incomplet ou non conforme NE SERA PAS RETENU.\n• Les lettres de recommandation, prises de contact via les réseaux sociaux (Linkedin, Instagram, etc...) ou autres formes d’intervention auprès des organismes d’affectation (ce qui inclut la DRH) sont proscrites.\n• Si vous ne recevez pas d'information de notre part sous 8 semaines après expiration de l’annonce, vous pourrez considérer que, malgré tout l'intérêt que présente votre profil, il ne correspond pas à nos besoins actuels.\n• Les entretiens auront lieu principalement en visioconférence.\n• Dans le cadre du processus de recrutement, le ministère de l’Europe et des affaires étrangères est susceptible de procéder à une prise de référence auprès des anciens employeurs des candidats, conformément aux articles 1221-8 et 1221-9 du code du travail, en l’absence de disposition dans le code général de la fonction publique ou dans le code du service national.\n• Le/la candidat(e) devra être éligible à l'obtention d'un passeport de service/diplomatique pour le pays de destination.\n• La consultation de la fiche « conseils aux voyageurs » sur le site du MEAE est ==INDISPENSABLE== au moment de postuler : https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/",
+   "mission": "",
+   "profile": "Profil souhaité : \nDiplômes demandés :\nTitulaire d’un master en communication avec option digitale ou tout autre diplôme équivalent permettant d’être en charge du numérique.\n\nLangues : La maîtrise de l’espagnol écrit et parlé est indispensable (niveau minimum C1 requis)\n\nCompétences informatiques : \n• Très bonne maîtrise de WordPress (développement de plugins & thèmes)\n• Bonnes pratiques du Web, maîtrise des logiciels de traitement graphique (Photoshop / Indesign/ Canva) pour la création de supports de communication et de visuels, des logiciels de montage vidéo (Premiere Pro/ Capcut). \n• Connaissance du marketing digital (SEO / SEM) appréciée.\n\nCompétences attendues pour les missions : (profil, connaissance du pays / de la zone géographique, savoir-faire, savoir-être)\n• Aisance rédactionnelle et relationnelle \n• Méthodologie d'analyse stratégique (KPI)\n• Capacité à travailler en réseau avec les responsables de la communication des différentes antennes de l’IF Espagne\n• Esprit d’initiative et d’autonomie\n• Dynamisme et disponibilité\n• Animer un réseau, une communauté\n• Maîtriser les délais\n• Organiser \n\nAutres : Intérêt marqué pour la culture et la programmation culturelle de l’Institut français.\n\nObservations particulières sur le poste : \nPoste intégré à l’équipe de communication de l’Institut français d’Espagne à Madrid. Le/la titulaire contribue à la visibilité de l’établissement, au rayonnement de la France en Espagne et à la promotion de la programmation culturelle, notamment par la couverture des événements.\nLe/la VIA participe également à la promotion de la programmation culturelle de l’IFE-Madrid et à la vie de l’établissement, notamment par la couverture des événements. Il/elle contribue au suivi des performances de communication, rend compte régulièrement des indicateurs et formule des recommandations pour améliorer la politique de communication.",
+   "duration": 12,
+   "start_date": "2027-02-01T00:00:00",
+   "end_date": "2028-02-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-14T14:03:12Z",
+   "sector": "",
+   "specialization": "[\"26\",\"139\"]",
+   "contract": "VIA",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-14T14:03:12Z",
+    "missionStartDate": "2027-02-01T00:00:00",
+    "missionEndDate": "2028-02-01T00:00:00",
+    "startBroadcastDate": "2026-10-14T00:00:00",
+    "endBroadcastDate": "2026-10-18T00:00:00"
+   },
+   "summary": "Descriptif détaillé des missions proposées : \n\nSous l’autorité hiérarchique de Sarah Trin, responsable communication et relations presse au sein de l’Institut français d’Espagne (IFE) à Madrid, le/la VIA exercera les missions suivantes : \n\n1) Gérer le site internet de l’IFE :\n• Mettre à jour le site internet www.institutfrancais.es\n• Rédiger tout texte utile (article, rubrique, message court, etc.)\n• Assurer le suivi technique et la mise à jour des contenus, en lien avec les prestataires,\n• Veiller à la cohérence éditoriale du site, en lien avec les antennes de l’IFE.\n2) Gérer les réseaux sociaux de l’IFE :\n• Participer à l’élaboration d’une stratégie de communication adaptée sur les réseaux sociaux,\n• Participer à l’animation des réseaux sociaux de l’IFE antenne de Madrid (Facebook, LinkedIn, Instagram, Youtube …),\n• Rédiger et mettre en ligne les messages appropriés et participer à la réalisation de contenus visuels (images et vidéos) attractifs,\n• Assurer une veille sur les réseaux sociaux et la modération des contenus,\n• Assurer le respect des plannings […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247077",
+   "score": 29,
+   "label": "Périphérique",
+   "first_seen": "2026-10-14T18:37:51+00:00",
+   "axis_scores": {
+    "rd": 31,
+    "prod": 24,
+    "qual": 0,
+    "calc": 0
+   },
+   "dominant_axis": "rd",
+   "matched_families": [
+    {
+     "id": "prod6",
+     "axis": "prod",
+     "source": "Outils et moyens de fabrication (259-1, 30 h)",
+     "weight": 7,
+     "terms": [
+      "presse"
+     ]
+    },
+    {
+     "id": "rd8",
+     "axis": "rd",
+     "source": "Alternance : investigation & problem solving, analyse microstructurale",
+     "weight": 11,
+     "terms": [
+      "sem"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
    "id": "245986",
    "title": "Ingénieur Projet EIC – Électricité / Instrumentation / Contrôle-Commande (H/F)",
    "company": "MISSION CONSEIL ASSISTANCE INGENIERIE",
@@ -29933,7 +30004,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-15T11:00:53Z",
    "sector": "",
-   "specialization": "247",
+   "specialization": "[\"247\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30075,7 +30146,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-08T13:39:09Z",
    "sector": "",
-   "specialization": "66, 73, 77, 225, 261",
+   "specialization": "[\"66\",\"73\",\"77\",\"225\",\"261\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30626,7 +30697,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-28T07:33:59Z",
    "sector": "",
-   "specialization": "73",
+   "specialization": "[\"73\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31053,7 +31124,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T08:10:26Z",
    "sector": "",
-   "specialization": "238",
+   "specialization": "[\"238\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31287,7 +31358,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T07:57:00Z",
    "sector": "",
-   "specialization": "238",
+   "specialization": "[\"238\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31452,7 +31523,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-08T08:03:39Z",
    "sector": "",
-   "specialization": "65, 73, 77, 107, 206, 207, 224, 264",
+   "specialization": "[\"65\",\"73\",\"77\",\"107\",\"206\",\"207\",\"224\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31524,7 +31595,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-13T14:31:50Z",
    "sector": "",
-   "specialization": "70",
+   "specialization": "[\"70\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32039,77 +32110,6 @@
      "terms": [
       "industrial",
       "mechanical"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
-   "id": "223079",
-   "title": "PROJECT ENGINEER - COST ESTIMATOR HF (H/F)",
-   "company": "PONTICELLI FRERES",
-   "country": "ANGOLA",
-   "city": "LUANDA",
-   "description": "Présentation de la société :\n\nPonticelli Frères, groupe industriel présent à l'international au service des entreprises du secteur de l'energie.\n recherche dans le cadre d'un VIE, un contrôleur de gestion dont la mission est d’aider au pilotage des projets de la Filiale. Il analyse les performances économiques et financières. Il est en charge de faire des rapports à sa hiérarchie en lui préconisant des actions correctives à réaliser en vue d’optimiser la rentabilité. Il établit également les procédures de gestion.",
-   "mission": "",
-   "profile": "o BAC +5 avec une spécialisation en contrôle de gestion, comptabilité/audit ;\no Expérience d’au moins une année dans une fonction de contrôle de gestion ;\no Capacité à communiquer en Anglais ;\no Maitrise du Pack office ;\no Personne autonome et réactive ;\no Personne rigoureuse, organisé et dynamique.",
-   "duration": 12,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2027-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2025-02-05T16:45:25Z",
-   "sector": "",
-   "specialization": "9",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2025-02-05T16:45:25Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-24T00:00:00",
-    "endBroadcastDate": "2026-12-23T00:00:00"
-   },
-   "summary": "Présentation de la société :\n\nPonticelli Frères, groupe industriel présent à l'international au service des entreprises du secteur de l'energie.\n recherche dans le cadre d'un VIE, un contrôleur de gestion dont la mission est d’aider au pilotage des projets de la Filiale. Il analyse les performances économiques et financières. Il est en charge de faire des rapports à sa hiérarchie en lui préconisant des actions correctives à réaliser en vue d’optimiser la rentabilité. Il établit également les procédures de gestion.",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/223079",
-   "score": 28,
-   "label": "Périphérique",
-   "first_seen": "2026-08-24T16:01:18+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 0,
-    "qual": 8,
-    "calc": 0
-   },
-   "dominant_axis": "qual",
-   "matched_families": [
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "audit"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineer"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "energie",
-      "industriel"
      ],
      "points": 5
     },
@@ -33227,7 +33227,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-09T08:32:06Z",
    "sector": "",
-   "specialization": "244",
+   "specialization": "[\"244\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33853,7 +33853,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T07:43:54Z",
    "sector": "",
-   "specialization": "70",
+   "specialization": "[\"70\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34403,7 +34403,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-28T07:56:10Z",
    "sector": "",
-   "specialization": "208",
+   "specialization": "[\"208\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34694,6 +34694,80 @@
      "label": "Intitulé technique ciblé",
      "terms": [
       "ingenieur"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
+   "id": "246508",
+   "title": "Cybersecurity Governance & Compliance Engineer (H/F)",
+   "company": "PONTICELLI FRERES",
+   "country": "ROYAUME-UNI",
+   "city": "ABERDEEN",
+   "description": "Titre de poste : Cybersecurity Governance & Compliance Engineer\r\nAu sein de Ponticelli UK, vous contribuerez à la mise en place et à l'amélioration continue du système de management de la sécurité de l'information (SMSI) dans le cadre de la démarche ISO/IEC 27001, en lien avec les équipes locales et le Groupe Ponticelli.\r\nVos missions principales seront de :\r\n• Participer à la rédaction des politiques, procédures et documents du SMSI.\r\n• Contribuer aux analyses de risques, aux analyses d'écarts et au suivi des plans d'action.\r\n• Coordonner la collecte des preuves de conformité et la préparation des audits internes et externes.\r\n• Suivre les actions de cybersécurité avec les équipes IT et le Groupe, sans assurer leur déploiement technique.\r\n• Contribuer à la sensibilisation des collaborateurs et au suivi des exigences de protection des données applicables au Royaume-Uni, notamment le UK GDPR.\r\n• Participer au maintien et à l'amélioration continue de la conformité ISO/IEC 27001.\r\nLe profil idéal\r\nDiplômé(e) en cybersécurité, informatique ou gestion des risques, vous disposez d'une expérience démontrée en gouvernance de la sécurité de l'information et en mise en œuvre d'un SMSI conforme à la norme ISO/IEC 27001.\r\nLa certification ISO/IEC 27001 Lead Implementer est obligatoire.\r\nVous devez également justifier d'une expérience pratique de la norme ISO/IEC 27001, incluant la participation à au moins un projet ayant conduit avec succès à la certification d'une organisation.\r\nVous êtes rigoureux(se), autonome, à l'aise dans la rédaction documentaire et capable d'évoluer dans un environnement international en français et en anglais.",
+   "mission": "",
+   "profile": "Le profil idéal\r\nDiplômé(e) en cybersécurité, informatique ou gestion des risques, vous disposez d'une expérience démontrée en gouvernance de la sécurité de l'information et en mise en œuvre d'un SMSI conforme à la norme ISO/IEC 27001.\r\nLa certification ISO/IEC 27001 Lead Implementer est obligatoire.\r\nVous devez également justifier d'une expérience pratique de la norme ISO/IEC 27001, incluant la participation à au moins un projet ayant conduit avec succès à la certification d'une organisation.\r\nVous êtes rigoureux(se), autonome, à l'aise dans la rédaction documentaire et capable d'évoluer dans un environnement international en français et en anglais.",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-09-29T09:14:24Z",
+   "sector": "",
+   "specialization": "[\"246\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-09-29T09:14:24Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-14T00:00:00",
+    "endBroadcastDate": "2026-11-08T00:00:00"
+   },
+   "summary": "Titre de poste : Cybersecurity Governance & Compliance Engineer\r\nAu sein de Ponticelli UK, vous contribuerez à la mise en place et à l'amélioration continue du système de management de la sécurité de l'information (SMSI) dans le cadre de la démarche ISO/IEC 27001, en lien avec les équipes locales et le Groupe Ponticelli.\r\nVos missions principales seront de :\r\n• Participer à la rédaction des politiques, procédures et documents du SMSI.\r\n• Contribuer aux analyses de risques, aux analyses d'écarts et au suivi des plans d'action.\r\n• Coordonner la collecte des preuves de conformité et la préparation des audits internes et externes.\r\n• Suivre les actions de cybersécurité avec les équipes IT et le Groupe, sans assurer leur déploiement technique.\r\n• Contribuer à la sensibilisation des collaborateurs et au suivi des exigences de protection des données applicables au Royaume-Uni, notamment le UK GDPR.\r\n• Participer au maintien et à l'amélioration continue de la conformité ISO/IEC 27001.",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/246508",
+   "score": 26,
+   "label": "Périphérique",
+   "first_seen": "2026-10-14T18:37:51+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 10,
+    "qual": 8,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "amelioration continue"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "certification",
+      "compliance",
+      "conformite"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "engineer"
      ],
      "points": 14
     },
@@ -35371,7 +35445,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T11:31:02Z",
    "sector": "",
-   "specialization": "259",
+   "specialization": "[\"259\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35429,20 +35503,20 @@
    "mission": "",
    "profile": "Formation technique, minimum Bac+2.\nMaîtrise courante de l'Allemand, l'Anglais est un plus.\nQualités relationnelles, permettant une bonne communication avec les clients et les services internes avec lesquels vous serez amené à travailler. \n\nExpérience(s) professionnelle(s) appréciée(s).\nPoste ouvert dès maintenant sous réserve des démarches administratives.",
    "duration": 24,
-   "start_date": "2026-07-01T00:00:00",
-   "end_date": "2028-07-01T00:00:00",
+   "start_date": "2026-12-01T00:00:00",
+   "end_date": "2028-12-01T00:00:00",
    "expiry_date": "",
    "publish_date": "2025-06-26T14:45:12Z",
    "sector": "",
-   "specialization": "107",
+   "specialization": "[\"107\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2025-06-26T14:45:12Z",
-    "missionStartDate": "2026-07-01T00:00:00",
-    "missionEndDate": "2028-07-01T00:00:00",
-    "startBroadcastDate": "2026-04-16T00:00:00",
-    "endBroadcastDate": "2026-10-16T00:00:00"
+    "missionStartDate": "2026-12-01T00:00:00",
+    "missionEndDate": "2028-12-01T00:00:00",
+    "startBroadcastDate": "2026-10-14T00:00:00",
+    "endBroadcastDate": "2026-11-13T00:00:00"
    },
    "summary": "Présentation de la société: Entreprise de renommée internationale pour la fabrication de machines dédiées à la déformation du fil, du tube et du méplat, NUMALLIANCE est une ETI dynamique et innovante. Nos machines et nos cellules de production automatisées sont vendues à travers le monde, dans de nombreux secteurs d’activités (automobile, agriculture, médical, bâtiment…). Le groupe Numalliance est présent en France (6 sites de conception et d'assemblage), et à travers le monde (9 filiales et antennes technico-commerciales ; de plus, le groupe a repris une activité de production de machines et d’outillages dédiés au travail du tube, aux Etats-Unis et au Mexique). Nous sommes une équipe de 400 personnes, dont le tiers est dédié à l’ingénierie.\n\nPoste et missions :\nLe V.I.E renforcera notre pôle Maintenance / Service Client en Allemagne par un support technique avant et après-vente, un support technique sur les machines des clients (installations, mise en route, maintenance et interventions SAV) - la formation des clients à l'utilisation des machines.",
    "url": "https://mon-vie-via.businessfrance.fr/offres/228714",
