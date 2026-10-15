@@ -511,6 +511,12 @@ a { color: var(--oxide); }
   overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap;
 }
 
+/* Chrome « ancre » le défilement : quand un bloc situé au-dessus de l'écran
+   change de hauteur, il décale la page pour que l'on ne bouge pas. Replier
+   une offre fait exactement cela, et cette compensation défaisait le
+   repositionnement sur le haut de la carte. On la désactive pour la liste. */
+#list { overflow-anchor: none; }
+
 /* --- Filtres : bouton mobile, raccourci clavier, compteurs --- */
 
 .filter-toggle { display: none; }

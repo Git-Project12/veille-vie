@@ -15,7 +15,7 @@ const AXIS_LABELS = {
 const AXIS_ORDER = ["rd", "prod", "qual", "calc"];
 let PAGE_STEP = 25;          // ajustable depuis le panneau de filtres
 const PAGE_SIZES = [25, 50, 75, 100];
-const UI_VERSION = "27";   // affiché en pied de page : permet de vérifier
+const UI_VERSION = "28";   // affiché en pied de page : permet de vérifier
                           // quelle version de l'interface est réellement chargée
 const EXPIRY_WINDOW_DAYS = 14;   // seuil de l'onglet « échéances »
 const NEW_WINDOW_HOURS = 24;     // durée pendant laquelle une offre reste « nouvelle »
@@ -697,7 +697,40 @@ function onListChange(e) {
 
 function toggleCard(card) {
   if (!card || card.classList.contains("skeleton")) return;
-  card.setAttribute("aria-expanded", String(card.classList.toggle("open")));
+  const ouvert = card.classList.toggle("open");
+  card.setAttribute("aria-expanded", String(ouvert));
+  if (!ouvert) ramenerLaCarteEnVue(card);
+}
+
+/* Replier une offre laissait dans le vide.
+
+   Une annonce dépliée fait plusieurs écrans de haut. On la lit jusqu'au bas,
+   on clique « Replier » — et la carte se rétracte d'un coup sous le point où
+   l'on se trouve. Son titre se retrouve loin au-dessus de l'écran, et il
+   faut remonter à la main pour savoir où l'on en était.
+
+   On ramène donc le haut de la carte juste sous la barre d'onglets. Comme
+   pour les filtres, on ne déplace la page que vers le HAUT : si la carte est
+   déjà visible — on l'a repliée sans avoir défilé — rien ne bouge. */
+function ramenerLaCarteEnVue(card) {
+  const tabs = document.querySelector(".tabs");
+  const marge = (tabs ? tabs.offsetHeight : 0) + 12;
+  if (card.getBoundingClientRect().top >= marge) return;
+
+  // Position de la carte dans le document, et non dans l'écran : elle ne
+  // bouge pas quand la carte se rétracte, puisque rien ne change au-dessus
+  // d'elle. C'est le seul repère stable pendant que la page se réorganise.
+  const place = card.getBoundingClientRect().top + window.scrollY;
+
+  // Déplacement sec, et répété à la frame suivante. Deux raisons :
+  // la hauteur de la carte continue de se stabiliser après le clic, et
+  // Chrome « ancre » le défilement — il corrige de lui-même la position
+  // quand du contenu situé au-dessus change de taille, ce qui défaisait le
+  // repositionnement une seconde après l'avoir fait.
+  const aller = () => window.scrollTo({ top: Math.max(0, place - marge), behavior: "auto" });
+  aller();
+  requestAnimationFrame(aller);
+  setTimeout(aller, 120);
 }
 
 /* ============================ Filtres et onglets ============================ */
