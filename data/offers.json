@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-15T11:27:13+00:00",
+ "generated_at": "2026-10-15T12:11:42+00:00",
  "source": "Business France — mon-vie-via.businessfrance.fr",
- "total_scanned": 857,
- "total_announced": 857,
+ "total_scanned": 858,
+ "total_announced": 858,
  "total_kept": 369,
  "threshold": 25,
  "axes": {
@@ -5244,129 +5244,6 @@
      "label": "Secteur industriel compatible",
      "terms": [
       "mecanique"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
-   "id": "246784",
-   "title": "VIE - Methods Engineer -Vienna (H/F)",
-   "company": "SCHNEIDER ELECTRIC INDUSTRIES SAS",
-   "country": "AUTRICHE",
-   "city": "VIENNE",
-   "description": "Are you passionate about manufacturing excellence, digital transformation, and innovation? Join our team as a Methods Engineer and contribute to improving shop floor performance through industrial engineering, data analytics, digital tools, and Artificial Intelligence.\n \nThis VIE opportunity will allow you to work in an international manufacturing environment, lead improvement initiatives, and actively support the deployment of digital and AI-driven solutions that enhance productivity, quality, safety, and operational efficiency.\nMain Missions\nAs a Methods Engineer, you will support the continuous improvement and digital transformation of manufacturing operations.\nYour main responsibilities will include:\nAnalyzing direct labor productivity and identifying improvement opportunities.\nConducting time studies, work measurements, and process analyses.\nLeading continuous improvement initiatives using Lean Manufacturing methodologies such as 5S, Kaizen, and Standard Work.\nDriving manufacturing digitalization projects and supporting the implementation of digital solutions.\nDeveloping and maintaining performance dashboards and reporting tools.\nIdentifying and implementing AI use cases in manufacturing, including productivity analysis, predictive analytics, process optimization, and automated reporting.\nLeveraging data analytics and AI tools to support decision-making and improve operational performance.\nOptimizing manufacturing processes, material flows, workplace ergonomics, and shop floor layouts.\nSupporting industrialization, capacity planning, and cost reduction initiatives.\nCollaborating with Production, Quality, Supply Chain, Engineering, and IT teams to deliver sustainable improvements.",
-   "mission": "",
-   "profile": "Education\nDegree in Industrial Engineering, Manufacturing Engineering, Mechanical Engineering, or a related field.\nPrevious Experience\nExperience in manufacturing, industrial engineering, continuous improvement, or manufacturing excellence.\nExperience working on productivity improvement initiatives in an industrial environment.\nExposure to manufacturing digitalization, data analytics, or process optimization projects is a strong advantage.\nKnowledge of Artificial Intelligence, machine learning applications, or process automation is highly desirable.\nSkills\nTechnical Skills\nStrong knowledge of Lean Manufacturing principles and productivity improvement techniques.\nExperience with time studies, work measurement, and process analysis.\nStrong analytical and problem-solving capabilities.\nProject management skills.\nAbility to work independently and take ownership of initiatives.\nDigital Skills\nExperience with digital tools such as:\nPower BI\nPower Apps\nMES\nSAP\nSQL\nOr equivalent solutions\nPersonal Skills\nHands-on mindset with a strong presence on the shop floor.\nSelf-driven and proactive approach.\nAbility to challenge the status quo and drive change.\nExcellent communication and stakeholder management skills.\nPassion for continuous improvement, digital transformation, and innovation.\nLanguages\nEnglish: Professional working proficiency.\nGerman: Considered a plus.",
-   "duration": 12,
-   "start_date": "2027-02-01T00:00:00",
-   "end_date": "2028-02-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-07T11:48:46Z",
-   "sector": "",
-   "specialization": "149",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-07T11:48:46Z",
-    "missionStartDate": "2027-02-01T00:00:00",
-    "missionEndDate": "2028-02-01T00:00:00",
-    "startBroadcastDate": "2026-10-12T00:00:00",
-    "endBroadcastDate": "2026-11-11T00:00:00"
-   },
-   "summary": "Are you passionate about manufacturing excellence, digital transformation, and innovation? Join our team as a Methods Engineer and contribute to improving shop floor performance through industrial engineering, data analytics, digital tools, and Artificial Intelligence.\n \nThis VIE opportunity will allow you to work in an international manufacturing environment, lead improvement initiatives, and actively support the deployment of digital and AI-driven solutions that enhance productivity, quality, safety, and operational efficiency.\nMain Missions\nAs a Methods Engineer, you will support the continuous improvement and digital transformation of manufacturing operations.\nYour main responsibilities will include:\nAnalyzing direct labor productivity and identifying improvement opportunities.\nConducting time studies, work measurements, and process analyses.\nLeading continuous improvement initiatives using Lean Manufacturing methodologies such as 5S, Kaizen, and Standard Work.\nDriving manufacturing digitalization projects and supporting the implementation of digital solutions. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246784",
-   "score": 62,
-   "label": "Bonne adéquation",
-   "first_seen": "2026-10-12T15:21:50+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 59,
-    "qual": 8,
-    "calc": 9
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
-     "weight": 4,
-     "terms": [
-      "automation"
-     ]
-    },
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
-     "weight": 10,
-     "terms": [
-      "industrialization",
-      "methods engineer",
-      "shop floor"
-     ]
-    },
-    {
-     "id": "prod5",
-     "axis": "prod",
-     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
-     "weight": 4,
-     "terms": [
-      "5s",
-      "kaizen",
-      "lean",
-      "process optimization"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "continuous improvement",
-      "engineering",
-      "manufacturing"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "quality"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "problem solving"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineer"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "industrial",
-      "mechanical"
      ],
      "points": 5
     },
@@ -15118,7 +14995,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-28T07:30:04Z",
    "sector": "",
-   "specialization": "71",
+   "specialization": "[\"71\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -17425,6 +17302,116 @@
       "electronique"
      ],
      "points": -17,
+     "cap": 35
+    }
+   ]
+  },
+  {
+   "id": "245583",
+   "title": "VIE - Quality Engineer - Zalaegerszeg (Hungary) (H/F)",
+   "company": "SCHNEIDER ELECTRIC INDUSTRIES SAS",
+   "country": "HONGRIE",
+   "city": "ZALAEGERSZEG",
+   "description": "We are looking for a motivated and structured VIE to join our Quality Engineering team. In this role, you will contribute to daily quality management activities and act as a key point of contact within the site. You will work in an international environment, interacting with teams around the world and supporting customer‑related quality topics across the Quality Engineering function. This position provides strong exposure to both customer interfaces and local operational teams.\n\nAbout the Role\nAs a Quality Engineer, you will support ongoing quality performance activities, problem‑solving processes, and compliance initiatives. You will participate in the analysis of production data, support root cause investigations, and help follow up on corrective and preventive actions. This position offers an opportunity to grow your expertise within a global industrial environment while collaborating with suppliers, customers, and internal teams.\n\nYour Main Responsibilities\nYou will support day‑to‑day quality activities, including:\n\nAssisting in monitoring and analyzing production quality data.\nParticipating in root cause analysis and problem‑solving activities.\nSupporting the follow-up of corrective and preventive actions.\nHelping ensure compliance with Schneider Electric quality standards and procedures.\nTaking part in daily Gemba walks and quality meetings.\nAssisting in investigating and documenting customer complaints.\nHelping track and follow up on customer-related quality issues.\nSupporting the collection and organization of supplier quality data.\nAssisting in updating supplier performance dashboards.\nHelping follow up on open supplier non-conformities.\nAssisting with supplier communication to obtain missing documents.",
+   "mission": "",
+   "profile": "What We Are Looking For\nWe welcome candidates eager to learn, proactive, and committed to contributing to quality improvement.\n\nEducation\nMaster’s degree in Quality or Industrial Engineering Degree.\n\nExperience\nIdeally a minimum of 1 year of experience in Quality Engineering through an internship, apprenticeship, or full-time role in Idustry.\n\nLanguages\nFluent English is required.\n\nPersonal Skills\n\nAbility to interact effectively with people at all levels and across diverse cultures.\nStrong verbal and written communication skills.\nWell-organized, structured, and able to summarize information clearly.\nCurious, collaborative, and motivated to contribute to operational excellence.",
+   "duration": 24,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2029-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-09-03T09:59:37Z",
+   "sector": "",
+   "specialization": "[\"149\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-09-03T09:59:37Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2029-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-15T00:00:00",
+    "endBroadcastDate": "2026-11-14T00:00:00"
+   },
+   "summary": "We are looking for a motivated and structured VIE to join our Quality Engineering team. In this role, you will contribute to daily quality management activities and act as a key point of contact within the site. You will work in an international environment, interacting with teams around the world and supporting customer‑related quality topics across the Quality Engineering function. This position provides strong exposure to both customer interfaces and local operational teams.\n\nAbout the Role\nAs a Quality Engineer, you will support ongoing quality performance activities, problem‑solving processes, and compliance initiatives. You will participate in the analysis of production data, support root cause investigations, and help follow up on corrective and preventive actions. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/245583",
+   "score": 35,
+   "label": "À examiner",
+   "first_seen": "2026-10-15T12:11:25+00:00",
+   "axis_scores": {
+    "rd": 9,
+    "prod": 10,
+    "qual": 23,
+    "calc": 0
+   },
+   "dominant_axis": "qual",
+   "matched_families": [
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "engineering"
+     ]
+    },
+    {
+     "id": "qual2",
+     "axis": "qual",
+     "source": "Qualité et normes (774-1, 14 h, coefficient 0,5)",
+     "weight": 4,
+     "terms": [
+      "quality engineer",
+      "supplier quality"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "compliance",
+      "quality",
+      "root cause",
+      "standards"
+     ]
+    },
+    {
+     "id": "rd9",
+     "axis": "rd",
+     "source": "Vocabulaire de laboratoire courant",
+     "weight": 3,
+     "terms": [
+      "problem solving"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "engineer",
+      "quality"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "industrial"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    },
+    {
+     "label": "Formation exigée hors cursus : score plafonné",
+     "terms": [
+      "industrial engineering"
+     ],
+     "points": -5,
      "cap": 35
     }
    ]
@@ -20315,15 +20302,15 @@
    "expiry_date": "",
    "publish_date": "2026-09-17T15:48:49Z",
    "sector": "",
-   "specialization": "29, 60, 65, 66, 71, 133, 149, 224",
+   "specialization": "[\"29\",\"60\",\"65\",\"66\",\"71\",\"133\",\"149\",\"224\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-09-17T15:48:49Z",
     "missionStartDate": "2026-12-01T00:00:00",
     "missionEndDate": "2028-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-20T00:00:00",
-    "endBroadcastDate": "2026-10-20T00:00:00"
+    "startBroadcastDate": "2026-10-15T00:00:00",
+    "endBroadcastDate": "2026-11-14T00:00:00"
    },
    "summary": "You will perform different tasks : \n\n- prepare and execute tests for electrical, mechanical and RF subsystems in an AIT environment\n- set up EGSE, test equipment, tools and test configurations\n- perform hands-on testing and monitor complex hardware during test campaigns\n- develop and update test procedures and validation steps\n- analyze test results and support root-cause investigations\n- document all test activities according to project and quality standards\n- collaborate closely with mechanical, electrical and system engineering colleagues",
    "url": "https://mon-vie-via.businessfrance.fr/offres/246085",
@@ -22022,7 +22009,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-05T06:51:18Z",
    "sector": "",
-   "specialization": "109, 149, 150, 244, 264",
+   "specialization": "[\"109\",\"149\",\"150\",\"244\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26609,7 +26596,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-12T07:40:30Z",
    "sector": "",
-   "specialization": "330",
+   "specialization": "[\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30126,7 +30113,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-21T14:46:23Z",
    "sector": "",
-   "specialization": "2, 60, 63, 64, 65, 66, 68, 69, 70, 71, 72, 73, 77, 80, 109, 113, 114, 117, 123, 125, 133, 137, 138, 139, 142, 143, 144, 145, 146, 147, 149, 150, 153, 155, 158, 159, 160, 161, 168, 169, 175, 197, 206, 207, 208, 209, 213, 224, 225, 226, 228, 244, 245, 246, 247, 248, 251, 256, 264, 311, 351, 354, 355, 356, 357, 358, 361, 365, 366, 367, 368, 369, 370, 371",
+   "specialization": "[\"2\",\"60\",\"63\",\"64\",\"65\",\"66\",\"68\",\"69\",\"70\",\"71\",\"72\",\"73\",\"77\",\"80\",\"109\",\"113\",\"114\",\"117\",\"123\",\"125\",\"133\",\"137\",\"138\",\"139\",\"142\",\"143\",\"144\",\"145\",\"146\",\"147\",\"149\",\"150\",\"153\",\"155\",\"158\",\"159\",\"160\",\"161\",\"168\",\"169\",\"175\",\"197\",\"206\",\"207\",\"208\",\"209\",\"213\",\"224\",\"225\",\"226\",\"228\",\"244\",\"245\",\"246\",\"247\",\"248\",\"251\",\"256\",\"264\",\"311\",\"351\",\"354\",\"355\",\"356\",\"357\",\"358\",\"361\",\"365\",\"366\",\"367\",\"368\",\"369\",\"370\",\"371\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30434,7 +30421,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-23T07:37:46Z",
    "sector": "",
-   "specialization": "318",
+   "specialization": "[\"318\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35205,7 +35192,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-06T08:57:05Z",
    "sector": "",
-   "specialization": "327",
+   "specialization": "[\"327\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
