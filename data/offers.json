@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-15T18:17:33+00:00",
+ "generated_at": "2026-10-16T11:22:05+00:00",
  "source": "Business France — mon-vie-via.businessfrance.fr",
- "total_scanned": 868,
- "total_announced": 868,
- "total_kept": 376,
+ "total_scanned": 864,
+ "total_announced": 864,
+ "total_kept": 378,
  "threshold": 25,
  "axes": {
   "rd": {
@@ -1100,7 +1100,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-02T06:59:08Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -1211,7 +1211,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-29T14:04:00Z",
    "sector": "",
-   "specialization": "[\"60\",\"64\",\"77\",\"133\",\"162\",\"197\",\"224\",\"225\"]",
+   "specialization": "60, 64, 77, 133, 162, 197, 224, 225",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -1563,144 +1563,6 @@
       "aeronautique",
       "defense",
       "industriel"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
-   "id": "245913",
-   "title": "INGÉNIEUR MÉTHODES & AMÉLIORATION CONTINUE (H/F)",
-   "company": "BAUD INDUSTRIES",
-   "country": "POLOGNE",
-   "city": "ZABKOWICE SLASKIE",
-   "description": "VIE – INGÉNIEUR AMÉLIORATION CONTINUE\nPOSTE ET MISSIONS\nBAUD POLSKA, filiale du groupe familial français BAUD INDUSTRIES, est spécialisée dans la fabrication de composants métalliques de haute précision par décolletage et usinage.\nDans le cadre du développement et de la modernisation de notre site industriel en Pologne, nous recherchons un(e) Ingénieur Amélioration Continue & Digitalisation (H/F) en VIE.\nAu contact direct des équipes de production et en collaboration avec les équipes techniques du Groupe, vos principales missions seront :\nPiloter des projets de productivité et d'amélioration continue sur les différents process du site.\nDévelopper des solutions d'automatisation permettant d'améliorer la productivité, la qualité et les conditions de travail.\nOptimiser les procédés d'usinage : temps de cycle, paramètres, outils, réduction des rebuts et amélioration de la capabilité.\nParticiper à la digitalisation de la production et des contrôles : collecte des données, suivi des mesures, connexion des moyens de contrôle et correction automatique des machines CNC.\nDéployer sur le site la politique R&D et Innovation du Groupe, notamment en développant des applications concrètes de l'intelligence artificielle dans l'industrie.\nParticiper à la mise en place du nouvel ERP Groupe sur le site polonais.\nPROFIL RECHERCHÉ\nDe formation Ingénieur ou Master en génie industriel, mécanique, productique, automatisation ou amélioration continue, vous avez idéalement une première expérience en environnement industriel (stage ou alternance compris).\nVous êtes attiré(e) par la technique, l'usinage, l'automatisation, la digitalisation et l'IA et appréciez le travail de terrain.\nVous êtes autonome, curieux(se), pragmatique et aimez transformer une problématique industrielle en solution concrète.\nAnglais professionnel obligatoire.\nPolonais : un vrai plus, mais non obligatoire.\nCe VIE vous permettra de piloter des projets concrets de transformation industrielle, de leur conception jusqu'à leur déploiement directement dans l'usine.",
-   "mission": "",
-   "profile": "De formation Ingénieur ou Master en génie industriel, mécanique, productique, automatisation ou amélioration continue, vous avez idéalement une première expérience en environnement industriel (stage ou alternance compris).\n\nVous êtes attiré(e) par la technique, l'usinage, l'automatisation, la digitalisation et l'IA et appréciez le travail de terrain.\n\nVous êtes autonome, curieux(se), pragmatique et aimez transformer une problématique industrielle en solution concrète.\nAnglais professionnel obligatoire.\nPolonais : un vrai plus, mais non obligatoire.",
-   "duration": 24,
-   "start_date": "2026-11-01T00:00:00",
-   "end_date": "2028-11-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-14T06:27:07Z",
-   "sector": "",
-   "specialization": "142",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-14T06:27:07Z",
-    "missionStartDate": "2026-11-01T00:00:00",
-    "missionEndDate": "2028-11-01T00:00:00",
-    "startBroadcastDate": "2026-09-15T00:00:00",
-    "endBroadcastDate": "2026-10-15T00:00:00"
-   },
-   "summary": "VIE – INGÉNIEUR AMÉLIORATION CONTINUE\nPOSTE ET MISSIONS\nBAUD POLSKA, filiale du groupe familial français BAUD INDUSTRIES, est spécialisée dans la fabrication de composants métalliques de haute précision par décolletage et usinage.\nDans le cadre du développement et de la modernisation de notre site industriel en Pologne, nous recherchons un(e) Ingénieur Amélioration Continue & Digitalisation (H/F) en VIE.\nAu contact direct des équipes de production et en collaboration avec les équipes techniques du Groupe, vos principales missions seront :\nPiloter des projets de productivité et d'amélioration continue sur les différents process du site.\nDévelopper des solutions d'automatisation permettant d'améliorer la productivité, la qualité et les conditions de travail.\nOptimiser les procédés d'usinage : temps de cycle, paramètres, outils, réduction des rebuts et amélioration de la capabilité.\nParticiper à la digitalisation de la production et des contrôles : collecte des données, suivi des mesures, connexion des moyens de contrôle et correction automatique des machines CNC. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/245913",
-   "score": 83,
-   "label": "Cœur de cible",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 83,
-    "qual": 34,
-    "calc": 9
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
-     "weight": 4,
-     "terms": [
-      "automatisation"
-     ]
-    },
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
-     "weight": 10,
-     "terms": [
-      "usine"
-     ]
-    },
-    {
-     "id": "prod6",
-     "axis": "prod",
-     "source": "Outils et moyens de fabrication (259-1, 30 h)",
-     "weight": 7,
-     "terms": [
-      "cnc",
-      "usinage"
-     ]
-    },
-    {
-     "id": "prod5",
-     "axis": "prod",
-     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
-     "weight": 4,
-     "terms": [
-      "productivite"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "amelioration continue",
-      "fabrication",
-      "methodes"
-     ]
-    },
-    {
-     "id": "qual3",
-     "axis": "qual",
-     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
-     "weight": 7,
-     "terms": [
-      "capabilite"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "qualite"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "r&d"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur",
-      "methodes"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "industriel",
-      "mecanique"
      ],
      "points": 5
     },
@@ -2643,7 +2505,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-31T08:21:32Z",
    "sector": "",
-   "specialization": "60, 64, 65, 77",
+   "specialization": "[\"60\",\"64\",\"65\",\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -3114,7 +2976,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-16T13:20:47Z",
    "sector": "",
-   "specialization": "[\"64\",\"77\",\"149\",\"175\",\"264\"]",
+   "specialization": "64, 77, 149, 175, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -3373,7 +3235,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-09T12:47:59Z",
    "sector": "",
-   "specialization": "[\"65\",\"66\",\"73\",\"110\",\"153\",\"160\"]",
+   "specialization": "65, 66, 73, 110, 153, 160",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -4542,7 +4404,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-14T19:47:43Z",
    "sector": "",
-   "specialization": "[\"149\"]",
+   "specialization": "149",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -4790,7 +4652,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-10T09:56:17Z",
    "sector": "",
-   "specialization": "49, 63, 86, 125, 207, 208, 256, 366",
+   "specialization": "[\"49\",\"63\",\"86\",\"125\",\"207\",\"208\",\"256\",\"366\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -4878,6 +4740,109 @@
     }
    ],
    "bonuses": []
+  },
+  {
+   "id": "247126",
+   "title": "Ingénieur Méthodes & Énergie (H/F)",
+   "company": "COMPAGNIE DE SAINT-GOBAIN",
+   "country": "SUISSE",
+   "city": "LUCENS",
+   "description": "Rejoignez l'usine Isover de Lucens, site industriel majeur spécialisé dans la fabrication de solutions d'isolation en laine de verre, et participez à des projets stratégiques au cœur de la performance industrielle et énergétique.\n\nDans un contexte où l'amélioration continue, la réduction des consommations énergétiques et l'excellence opérationnelle sont des priorités fortes pour le Groupe Saint-Gobain, vous contribuerez activement à la mise en œuvre de la feuille de route énergétique et à l'optimisation des méthodes de maintenance du site.\n\nRattaché(e) au Maintenance, Design & Energy Manager, vous travaillerez en étroite collaboration avec les équipes Maintenance, Production, Automatisme, Informatique Industrielle et Ingénierie.\n\nÀ ce titre, vos principales missions seront les suivantes :\n\n🔋 Piloter la feuille de route énergétique du site\n\nSuivre et analyser les consommations énergétiques réelles ;\nConcevoir et faire évoluer des tableaux de bord de suivi de la performance énergétique ;\nIdentifier des opportunités d'économies d'énergie ;\nParticiper au déploiement et au suivi des projets d'amélioration énergétique.\n⚙️ Contribuer à l'optimisation de la maintenance préventive\n\nDévelopper des indicateurs de suivi de la maintenance préventive ;\nAnalyser les écarts de performance et identifier les axes d'amélioration ;\nParticiper à l'optimisation des plans de maintenance et de leur planification.\n🔧 Mener des projets d'amélioration des équipements industriels\n\nPiloter des projets d'amélioration de la maintenance mécanique ;\nContribuer à la réduction des temps d'arrêt et des temps de réparation des équipements ;\nParticiper à l'amélioration de la fiabilité des installations.\n📊 Accompagner la digitalisation des activités\n\nDévelopper des outils de pilotage et d'aide à la décision ;\nParticiper à des projets Industrie 4.0 et à la digitalisation des processus de maintenance ;\nContribuer à l'utilisation d'outils tels que Power BI ou Power Apps.\nCette mission vous permettra d'intervenir sur des sujets variés, combinant terrain, analyse de données, gestion de projet et collaboration avec de nombreux métiers de l'usine.\n\n📍 Le poste est basé à Lucens (Suisse) et nécessite une présence régulière sur le terrain. L'usine est facilement accessible en train depuis Lausanne.",
+   "mission": "",
+   "profile": "Vous êtes diplômé(e) d'une école d'ingénieur ou d'un Master 2 avec une spécialisation en génie industriel, mécanique, maintenance, méthodes ou amélioration continue.\n\nVous disposez idéalement d'une première expérience en industrie (stage, alternance ou premier emploi).\n\nNous serons particulièrement attentifs aux compétences suivantes :\n\n✅ Optimisation de processus industriels\n✅ Maintenance industrielle ou méthodes\n✅ Gestion de projet\n✅ Lean Manufacturing et amélioration continue\n✅ Analyse de données et maîtrise d'Excel\n✅ Sensibilité aux enjeux énergétiques et de développement durable\n\nUne connaissance de Power BI, Power Apps ou d'autres outils digitaux sera appréciée.\n\nNous recherchons également une personne :\n\nCurieuse et orientée terrain ;\nAutonome et proactive ;\nDotée d'un bon esprit d'analyse et de synthèse ;\nÀ l'aise dans les environnements collaboratifs ;\nCapable de conduire le changement et de fédérer différents interlocuteurs ;\nForce de proposition et orientée solutions.\nLa maîtrise du français et de l'anglais est nécessaire pour évoluer dans cet environnement international.\n\nImportant : conformément à la réglementation suisse applicable au programme V.I.E., seules les personnes de nationalité française pourront être éligibles à cette mission.",
+   "duration": 12,
+   "start_date": "2027-02-01T00:00:00",
+   "end_date": "2028-02-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-15T15:56:46Z",
+   "sector": "",
+   "specialization": "[\"77\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-15T15:56:46Z",
+    "missionStartDate": "2027-02-01T00:00:00",
+    "missionEndDate": "2028-02-01T00:00:00",
+    "startBroadcastDate": "2026-10-16T00:00:00",
+    "endBroadcastDate": "2026-11-15T00:00:00"
+   },
+   "summary": "Rejoignez l'usine Isover de Lucens, site industriel majeur spécialisé dans la fabrication de solutions d'isolation en laine de verre, et participez à des projets stratégiques au cœur de la performance industrielle et énergétique.\n\nDans un contexte où l'amélioration continue, la réduction des consommations énergétiques et l'excellence opérationnelle sont des priorités fortes pour le Groupe Saint-Gobain, vous contribuerez activement à la mise en œuvre de la feuille de route énergétique et à l'optimisation des méthodes de maintenance du site.\n\nRattaché(e) au Maintenance, Design & Energy Manager, vous travaillerez en étroite collaboration avec les équipes Maintenance, Production, Automatisme, Informatique Industrielle et Ingénierie. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247126",
+   "score": 63,
+   "label": "Bonne adéquation",
+   "first_seen": "2026-10-16T11:21:47+00:00",
+   "axis_scores": {
+    "rd": 17,
+    "prod": 59,
+    "qual": 0,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod4",
+     "axis": "prod",
+     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
+     "weight": 10,
+     "terms": [
+      "usine"
+     ]
+    },
+    {
+     "id": "prod5",
+     "axis": "prod",
+     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
+     "weight": 4,
+     "terms": [
+      "lean"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "amelioration continue",
+      "equipements industriels",
+      "fabrication",
+      "ingenierie"
+     ]
+    },
+    {
+     "id": "rd5",
+     "axis": "rd",
+     "source": "Mise en forme des polymères et composites (304-2, 30 h), Céramiques et verre (303-2, 27 h)",
+     "weight": 6,
+     "terms": [
+      "verre"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "ingenieur",
+      "methodes"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "energie",
+      "energy",
+      "industriel"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
   },
   {
    "id": "245506",
@@ -5116,7 +5081,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-10T08:20:34Z",
    "sector": "",
-   "specialization": "63, 77, 109, 114, 125, 207, 262, 264",
+   "specialization": "[\"63\",\"77\",\"109\",\"114\",\"125\",\"207\",\"262\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5338,7 +5303,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T07:31:41Z",
    "sector": "",
-   "specialization": "[\"206\"]",
+   "specialization": "206",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5440,7 +5405,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-14T12:35:46Z",
    "sector": "",
-   "specialization": "[\"153\",\"224\"]",
+   "specialization": "153, 224",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5862,7 +5827,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T16:09:45Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6168,7 +6133,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-20T19:24:50Z",
    "sector": "",
-   "specialization": "[\"64\",\"65\",\"66\",\"77\",\"107\",\"150\",\"153\",\"207\"]",
+   "specialization": "64, 65, 66, 77, 107, 150, 153, 207",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6460,6 +6425,95 @@
    ]
   },
   {
+   "id": "246603",
+   "title": "Ingénieur chef de projet industriel (H/F)",
+   "company": "STELLAGROUP",
+   "country": "ALLEMAGNE",
+   "city": "BURTENBACH",
+   "description": "Partie prenante des équipes d'opérations industrielles, tu seras immergé(e) dans la gestion de projets industriels avec un maximum d'autonomie. Dans une démarche d'amélioration continue, tu seras amené à effectuer les tâches suivantes\n\n- Réaliser un plan de transfert industriel pour implanter une ligne de laquage poudre\n- Effectuer un diagnostic de la production des screen et intégration à moyen terme de la confection des toiles dans le processus d'industrialisation et de production.\n- Gérer un projet de A à Z sur tout type de problématiques liées à la productivité et aux enjeux industriels de nos sociétés : états des lieux, diagnostics, études de faisabilité, documentations, chiffrages de solutions, déploiement opérationnel du plan d'action retenu",
+   "mission": "",
+   "profile": "- Tu es étudiant(e) en école d’ingénieur généraliste, spécialité Génie Industriel, mécanique, électronique, ou équivalent universitaire, et tu recherches un stage de fin d'études\n- Tu as un niveau d'anglais professionnel (B2/C1 attendu)\n- Tu aimes la gestion de projets et tu as une véritable sensibilité pour les environnements industriels\n- Tu as déjà développé un certain esprit d’initiative\n- Tu as le sens des responsabilités\n- Tu es capable de travailler en autonomie",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-01T14:34:14Z",
+   "sector": "",
+   "specialization": "[\"149\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-01T14:34:14Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-16T00:00:00",
+    "endBroadcastDate": "2026-10-31T00:00:00"
+   },
+   "summary": "Partie prenante des équipes d'opérations industrielles, tu seras immergé(e) dans la gestion de projets industriels avec un maximum d'autonomie. Dans une démarche d'amélioration continue, tu seras amené à effectuer les tâches suivantes\n\n- Réaliser un plan de transfert industriel pour implanter une ligne de laquage poudre\n- Effectuer un diagnostic de la production des screen et intégration à moyen terme de la confection des toiles dans le processus d'industrialisation et de production.\n- Gérer un projet de A à Z sur tout type de problématiques liées à la productivité et aux enjeux industriels de nos sociétés : états des lieux, diagnostics, études de faisabilité, documentations, chiffrages de solutions, déploiement opérationnel du plan d'action retenu",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/246603",
+   "score": 58,
+   "label": "Bonne adéquation",
+   "first_seen": "2026-10-16T11:21:47+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 59,
+    "qual": 0,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod4",
+     "axis": "prod",
+     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
+     "weight": 10,
+     "terms": [
+      "industrialisation"
+     ]
+    },
+    {
+     "id": "prod5",
+     "axis": "prod",
+     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
+     "weight": 4,
+     "terms": [
+      "productivite"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "amelioration continue"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "ingenieur"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "industriel",
+      "mecanique"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
    "id": "245943",
    "title": "Ingénieur Usinage (H/F)",
    "company": "DECAYEUX S.T.I.",
@@ -6583,7 +6637,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T12:11:54Z",
    "sector": "",
-   "specialization": "64",
+   "specialization": "[\"64\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -7426,7 +7480,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-04T13:32:39Z",
    "sector": "",
-   "specialization": "[\"2\",\"77\",\"244\"]",
+   "specialization": "2, 77, 244",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -7620,7 +7674,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-19T14:31:40Z",
    "sector": "",
-   "specialization": "64, 76, 77, 149, 244, 264",
+   "specialization": "[\"64\",\"76\",\"77\",\"149\",\"244\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -7846,15 +7900,15 @@
    "expiry_date": "",
    "publish_date": "2026-07-30T08:22:15Z",
    "sector": "",
-   "specialization": "63, 86, 113, 123, 125, 155, 169, 366",
+   "specialization": "[\"63\",\"86\",\"113\",\"123\",\"125\",\"155\",\"169\",\"366\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-07-30T08:22:15Z",
     "missionStartDate": "2026-12-01T00:00:00",
     "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-22T00:00:00",
-    "endBroadcastDate": "2026-10-22T00:00:00"
+    "startBroadcastDate": "2026-10-16T00:00:00",
+    "endBroadcastDate": "2026-11-15T00:00:00"
    },
    "summary": "- Piloter et optimiser les procédés de fabrication pharmaceutique dans le respect des exigences qualité, sécurité et performance.\n- Analyser les performances des procédés et identifier les opportunités d'amélioration continue afin d'augmenter la robustesse des opérations.\n- Participer aux transferts de procédés, à l'industrialisation de nouveaux produits et aux montées en échelle.\n- Assurer le suivi des déviations, investigations, CAPA et actions d'amélioration associées.\n- Contribuer aux activités de qualification, validation et vérification continue des procédés.\n- Collaborer étroitement avec les équipes Production, Qualité, Validation, Maintenance et Supply Chain.\n- Rédiger et mettre à jour la documentation technique et qualité liée aux procédés de fabrication.\n- Veiller à la conformité des activités avec les exigences GMP et les standards réglementaires applicables.",
    "url": "https://mon-vie-via.businessfrance.fr/offres/245010",
@@ -7939,7 +7993,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-10T14:13:50Z",
    "sector": "",
-   "specialization": "[\"107\"]",
+   "specialization": "107",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8032,7 +8086,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T13:42:07Z",
    "sector": "",
-   "specialization": "331",
+   "specialization": "[\"331\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8810,7 +8864,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-23T09:02:41Z",
    "sector": "",
-   "specialization": "[\"52\",\"66\",\"114\",\"115\",\"143\",\"148\",\"153\"]",
+   "specialization": "52, 66, 114, 115, 143, 148, 153",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8900,7 +8954,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-23T07:15:58Z",
    "sector": "",
-   "specialization": "[\"66\"]",
+   "specialization": "66",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8990,7 +9044,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T13:42:47Z",
    "sector": "",
-   "specialization": "[\"207\"]",
+   "specialization": "207",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9103,7 +9157,7 @@
    "expiry_date": "",
    "publish_date": "2025-11-19T10:45:12Z",
    "sector": "",
-   "specialization": "[\"77\",\"149\",\"207\"]",
+   "specialization": "77, 149, 207",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9596,7 +9650,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-10T15:03:12Z",
    "sector": "",
-   "specialization": "209",
+   "specialization": "[\"209\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9684,7 +9738,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-25T15:02:11Z",
    "sector": "",
-   "specialization": "",
+   "specialization": "[]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9778,15 +9832,15 @@
    "expiry_date": "",
    "publish_date": "2026-08-28T13:08:22Z",
    "sector": "",
-   "specialization": "225",
+   "specialization": "[\"225\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-08-28T13:08:22Z",
     "missionStartDate": "2026-12-01T00:00:00",
     "missionEndDate": "2028-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-22T00:00:00",
-    "endBroadcastDate": "2026-10-22T00:00:00"
+    "startBroadcastDate": "2026-10-16T00:00:00",
+    "endBroadcastDate": "2026-11-15T00:00:00"
    },
    "summary": "- Préparer et piloter des campagnes d’essais aérodynamiques\n - Définir l’instrumentation et garantir la qualité des mesures\n - Analyser les résultats et assurer leur interprétation physique\n- Participer à la mise en place d'essais aérodynamiques (conception, calcul des performances d'un composant avant essais, instrumentation, programme d'essais, pilotage et suivi)\n- Mettre en place des scripts de dépouillement de données d'essais\n- Participer à l'analyse des données d'essais (dépouillement, corrélations calculs/essais) en interaction avec des spécialistes et d'autres bureaux d'études (méca, instrumentation, banc)\n- Rédiger de la documentation technique (notes de dépouillement, rapports d'analyses, manuels d'utilisation, etc.)",
    "url": "https://mon-vie-via.businessfrance.fr/offres/245486",
@@ -10926,7 +10980,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T13:43:34Z",
    "sector": "",
-   "specialization": "64",
+   "specialization": "[\"64\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -11016,7 +11070,7 @@
    "expiry_date": "",
    "publish_date": "2026-02-18T16:34:08Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -11389,7 +11443,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-21T14:45:41Z",
    "sector": "",
-   "specialization": "[\"60\",\"149\",\"150\",\"206\",\"207\",\"264\"]",
+   "specialization": "60, 149, 150, 206, 207, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -11493,7 +11547,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-02T09:00:25Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -11579,7 +11633,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-13T12:55:07Z",
    "sector": "",
-   "specialization": "[\"77\",\"209\"]",
+   "specialization": "77, 209",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -11726,6 +11780,95 @@
      "label": "Secteur industriel compatible",
      "terms": [
       "industriel",
+      "mecanique"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
+   "id": "244718",
+   "title": "INGENIEUR EN AUTOMATISME (H/F)",
+   "company": "ALSTEF AUTOMATION SA",
+   "country": "NOUVELLE-ZELANDE",
+   "city": "AUCKLAND",
+   "description": "Présentation de la société :\n\nAlstef Group conçoit, intègre et fournit des solutions automatisées clés en main pour les marchés de l'aéroport, de l'intralogistique et du tri colis. Sa mission est de créer des solutions intelligentes qui, au delà de répondre aux besoins de ses clients, leur font bénéficier durablement d'un système automatisé sur mesure, éco-conçu, performant, évolutif et innovant. \n \nPrésent dans 18 pays et avec une large gamme de systèmes installés sur les cinq continents, Alstef Group est un acteur majeur sur le marché des systèmes de manutention. Nous offrons une promesse d'excellence à nos 1000 employés et une volonté de dépasser les besoins en constante évolution de nos clients.\n\nDans le cadre d’un projet en Nouvelle Zélande, vous intervenez au sein de l’équipe projet en qualité d’Ingénieur Automatisme dans la phase de conception puis en phase de réalisation sur site.\n\nA ce titre, après une période de formation en France au sein du Bureau d’Etudes Automatismes,  vous intégrez l'équipe automatisme en NZ, ou vous êtes amené à :\n\n- Participer au développement des programmes automates\n\n- Réaliser les essais sur table via nos outils d’émulation 3D\n\n- Assurer la mise en service automatisme sur site\n\n- Participer aux essais d’ensemble et de réception du système\n\n- Réaliser la formation des opérateurs locaux\n\n- Participer aux réunions techniques avec le client",
+   "mission": "",
+   "profile": "De formation Ingénieur ou équivalent avec une spécialisation en automatisme, mécatronique ou informatique industrielle.\n\nVous avez des connaissances techniques en électricité et une bonne culture technique (mécanique, informatique, réseau) pour appréhender au mieux le fonctionnement des systèmes installés.\n\nVous parlez anglais couramment\n\nLa connaissance des automates Siemens et du logiciel de programmation associé serait un plus.",
+   "duration": 12,
+   "start_date": "2027-02-01T00:00:00",
+   "end_date": "2028-02-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-07-20T15:03:01Z",
+   "sector": "",
+   "specialization": "[\"73\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-07-20T15:03:01Z",
+    "missionStartDate": "2027-02-01T00:00:00",
+    "missionEndDate": "2028-02-01T00:00:00",
+    "startBroadcastDate": "2026-10-16T00:00:00",
+    "endBroadcastDate": "2026-11-15T00:00:00"
+   },
+   "summary": "Présentation de la société :\n\nAlstef Group conçoit, intègre et fournit des solutions automatisées clés en main pour les marchés de l'aéroport, de l'intralogistique et du tri colis. Sa mission est de créer des solutions intelligentes qui, au delà de répondre aux besoins de ses clients, leur font bénéficier durablement d'un système automatisé sur mesure, éco-conçu, performant, évolutif et innovant. \n \nPrésent dans 18 pays et avec une large gamme de systèmes installés sur les cinq continents, Alstef Group est un acteur majeur sur le marché des systèmes de manutention. Nous offrons une promesse d'excellence à nos 1000 employés et une volonté de dépasser les besoins en constante évolution de nos clients.\n\nDans le cadre d’un projet en Nouvelle Zélande, vous intervenez au sein de l’équipe projet en qualité d’Ingénieur Automatisme dans la phase de conception puis en phase de réalisation sur site. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/244718",
+   "score": 42,
+   "label": "À examiner",
+   "first_seen": "2026-10-16T11:21:47+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 0,
+    "qual": 8,
+    "calc": 29
+   },
+   "dominant_axis": "calc",
+   "matched_families": [
+    {
+     "id": "calc2",
+     "axis": "calc",
+     "source": "CAO (278-1, 30 h), Conception mécanique (264-1, 43 h)",
+     "weight": 9,
+     "terms": [
+      "bureau d'etudes"
+     ]
+    },
+    {
+     "id": "calc4",
+     "axis": "calc",
+     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
+     "weight": 4,
+     "terms": [
+      "automation"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "essais",
+      "qualite"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "ingenieur"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
       "mecanique"
      ],
      "points": 5
@@ -11936,114 +12079,6 @@
    ]
   },
   {
-   "id": "246835",
-   "title": "Industrial Digitalization & Sustainability Engineer (H/F)",
-   "company": "CEVA SANTE ANIMALE",
-   "country": "HONGRIE",
-   "city": "BUDAPEST",
-   "description": "Join Ceva Animal Health for a unique two-year journey, under the VIE Program,\ndesigned to develop future engineering and manufacturing leaders through two strategic assignments in\nEurope and North America.\n\nRotation 1 – Hungary | Phylaxia Campus (Budapest) Ceva's largest manufacturing site – 1,400 employees\nYou will contribute to the site's energy digitalization and optimization:\n Mapping of energy and water flows (Sankey diagram)\n Deployment of digital tools and monitoring dashboards\n Establishing consumption baselines\n Analyzing consumption data and identifying optimization opportunities\n Contributing to energy efficiency, HVAC, and water management projects\n Developing business cases for sustainability initiatives\nDefining energy & water KPIs for operational reviews\n\nRotation 2 – Canada | Guelph Site\nYou will support the transformation of manufacturing operations through automation and digital\ntechnologies:\n Identifying automation opportunities in industrial processes\n Analyzing production flows using a lean approach\n Mapping activities and proposing automation solutions\n Evaluating emerging technologies and automation solutions\n Conducting technical and economic feasibility studies\n Supporting pilot implementations and technology deployment\n Collaborating with production, engineering, and quality teams",
-   "mission": "",
-   "profile": " Master's degree in Engineering\n Strong analytical and problem-solving skills\n Passion for manufacturing, sustainability and automation\n International mindset and mobility\n Fluent English",
-   "duration": 24,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2028-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-08T07:48:01Z",
-   "sector": "",
-   "specialization": "[\"206\"]",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-08T07:48:01Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2028-12-01T00:00:00",
-    "startBroadcastDate": "2026-10-08T00:00:00",
-    "endBroadcastDate": "2026-10-15T00:00:00"
-   },
-   "summary": "Join Ceva Animal Health for a unique two-year journey, under the VIE Program,\ndesigned to develop future engineering and manufacturing leaders through two strategic assignments in\nEurope and North America.\n\nRotation 1 – Hungary | Phylaxia Campus (Budapest) Ceva's largest manufacturing site – 1,400 employees\nYou will contribute to the site's energy digitalization and optimization:\n Mapping of energy and water flows (Sankey diagram)\n Deployment of digital tools and monitoring dashboards\n Establishing consumption baselines\n Analyzing consumption data and identifying optimization opportunities\n Contributing to energy efficiency, HVAC, and water management projects\n Developing business cases for sustainability initiatives\nDefining energy & water KPIs for operational reviews\n\nRotation 2 – Canada | Guelph Site\nYou will support the transformation of manufacturing operations through automation and digital\ntechnologies:\n Identifying automation opportunities in industrial processes\n Analyzing production flows using a lean approach\n Mapping activities and proposing automation solutions […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246835",
-   "score": 41,
-   "label": "À examiner",
-   "first_seen": "2026-10-08T13:27:14+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 24,
-    "qual": 8,
-    "calc": 9
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
-     "weight": 4,
-     "terms": [
-      "automation"
-     ]
-    },
-    {
-     "id": "prod5",
-     "axis": "prod",
-     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
-     "weight": 4,
-     "terms": [
-      "lean"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "engineering",
-      "manufacturing"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "quality"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "problem solving"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineer"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "energy",
-      "industrial"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "233038",
    "title": "INGENIEUR ELECTRIQUE H/F (H/F)",
    "company": "EFE INTERNATIONAL",
@@ -12150,7 +12185,7 @@
    "expiry_date": "",
    "publish_date": "2025-10-08T10:46:44Z",
    "sector": "",
-   "specialization": "77, 149, 207",
+   "specialization": "[\"77\",\"149\",\"207\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12254,7 +12289,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-30T08:31:23Z",
    "sector": "",
-   "specialization": "[\"65\",\"77\"]",
+   "specialization": "65, 77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12612,7 +12647,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-25T10:40:46Z",
    "sector": "",
-   "specialization": "[\"60\"]",
+   "specialization": "60",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12712,7 +12747,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-10T12:08:07Z",
    "sector": "",
-   "specialization": "71",
+   "specialization": "[\"71\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -13065,7 +13100,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-29T08:58:35Z",
    "sector": "",
-   "specialization": "[\"60\",\"64\",\"65\",\"77\",\"133\",\"149\",\"264\"]",
+   "specialization": "60, 64, 65, 77, 133, 149, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -14183,7 +14218,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-09T14:58:34Z",
    "sector": "",
-   "specialization": "[\"327\"]",
+   "specialization": "327",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -14624,7 +14659,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-05T14:50:45Z",
    "sector": "",
-   "specialization": "[\"144\"]",
+   "specialization": "144",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -14732,7 +14767,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-09T10:30:17Z",
    "sector": "",
-   "specialization": "[\"66\"]",
+   "specialization": "66",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -14842,7 +14877,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-28T07:30:04Z",
    "sector": "",
-   "specialization": "[\"71\"]",
+   "specialization": "71",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -15300,7 +15335,7 @@
    "expiry_date": "",
    "publish_date": "2025-11-12T08:45:10Z",
    "sector": "",
-   "specialization": "[\"149\",\"208\",\"209\"]",
+   "specialization": "149, 208, 209",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -15532,7 +15567,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-14T14:50:54Z",
    "sector": "",
-   "specialization": "[\"149\"]",
+   "specialization": "149",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -16173,7 +16208,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-21T06:56:06Z",
    "sector": "",
-   "specialization": "[\"63\",\"86\",\"106\",\"113\",\"123\",\"134\",\"149\",\"169\",\"192\",\"256\"]",
+   "specialization": "63, 86, 106, 113, 123, 134, 149, 169, 192, 256",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -16472,7 +16507,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-07T15:09:37Z",
    "sector": "",
-   "specialization": "[\"79\",\"150\",\"206\",\"207\",\"208\"]",
+   "specialization": "79, 150, 206, 207, 208",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -17166,7 +17201,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T12:58:25Z",
    "sector": "",
-   "specialization": "[\"66\"]",
+   "specialization": "66",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -17281,7 +17316,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-03T09:59:37Z",
    "sector": "",
-   "specialization": "[\"149\"]",
+   "specialization": "149",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -17608,7 +17643,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-06T12:34:53Z",
    "sector": "",
-   "specialization": "[\"86\",\"150\",\"244\"]",
+   "specialization": "86, 150, 244",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -18737,7 +18772,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T11:27:28Z",
    "sector": "",
-   "specialization": "259",
+   "specialization": "[\"259\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -18829,7 +18864,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-21T06:54:21Z",
    "sector": "",
-   "specialization": "[\"63\",\"86\",\"106\",\"123\",\"192\"]",
+   "specialization": "63, 86, 106, 123, 192",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -18914,7 +18949,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-22T13:27:06Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -18996,7 +19031,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-29T16:32:01Z",
    "sector": "",
-   "specialization": "[\"63\",\"113\",\"256\"]",
+   "specialization": "63, 113, 256",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19292,7 +19327,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T08:07:40Z",
    "sector": "",
-   "specialization": "251",
+   "specialization": "[\"251\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19392,7 +19427,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-15T08:25:53Z",
    "sector": "",
-   "specialization": "[\"60\"]",
+   "specialization": "60",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19667,7 +19702,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-17T09:21:56Z",
    "sector": "",
-   "specialization": "[\"29\",\"65\",\"66\",\"68\",\"71\",\"110\",\"149\",\"153\",\"213\",\"251\",\"330\",\"351\"]",
+   "specialization": "29, 65, 66, 68, 71, 110, 149, 153, 213, 251, 330, 351",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19761,7 +19796,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T15:08:09Z",
    "sector": "",
-   "specialization": "149",
+   "specialization": "[\"149\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20384,7 +20419,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T09:12:56Z",
    "sector": "",
-   "specialization": "[\"259\"]",
+   "specialization": "259",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20457,7 +20492,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-15T08:11:05Z",
    "sector": "",
-   "specialization": "[\"153\"]",
+   "specialization": "153",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20547,7 +20582,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-17T15:48:49Z",
    "sector": "",
-   "specialization": "[\"29\",\"60\",\"65\",\"66\",\"71\",\"133\",\"149\",\"224\"]",
+   "specialization": "29, 60, 65, 66, 71, 133, 149, 224",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20958,7 +20993,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-31T08:20:36Z",
    "sector": "",
-   "specialization": "[\"2\",\"60\",\"62\",\"63\",\"64\",\"65\",\"66\",\"71\",\"73\",\"110\",\"112\",\"114\",\"133\",\"143\",\"144\",\"145\",\"149\",\"155\",\"158\",\"159\",\"160\",\"161\",\"168\",\"169\",\"205\",\"206\",\"207\",\"208\",\"213\",\"244\",\"245\",\"246\",\"247\",\"248\",\"249\",\"251\",\"327\",\"328\",\"329\",\"330\",\"331\",\"345\",\"355\",\"358\"]",
+   "specialization": "2, 60, 62, 63, 64, 65, 66, 71, 73, 110, 112, 114, 133, 143, 144, 145, 149, 155, 158, 159, 160, 161, 168, 169, 205, 206, 207, 208, 213, 244, 245, 246, 247, 248, 249, 251, 327, 328, 329, 330, 331, 345, 355, 358",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21040,7 +21075,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-21T12:18:30Z",
    "sector": "",
-   "specialization": "[\"60\"]",
+   "specialization": "60",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21124,15 +21159,15 @@
    "expiry_date": "",
    "publish_date": "2026-08-03T10:02:21Z",
    "sector": "",
-   "specialization": "65",
+   "specialization": "[\"65\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-08-03T10:02:21Z",
     "missionStartDate": "2026-12-01T00:00:00",
     "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-22T00:00:00",
-    "endBroadcastDate": "2026-10-22T00:00:00"
+    "startBroadcastDate": "2026-10-16T00:00:00",
+    "endBroadcastDate": "2026-11-15T00:00:00"
    },
    "summary": "Ready to kick-start your international engineering career?\r\nJoin IKOS, the European leader in railway and energy engineering consultancy, and contribute to projects that are shaping the future of sustainable mobility and energy infrastructure.\r\n\r\nYour mission\r\nTake part in challenging engineering projects in Belgium\r\nSupport project coordination and delivery\r\nAnalyze technical challenges and help define solutions\r\nWork alongside multidisciplinary teams and key stakeholders\r\nTrack project progress and contribute to achieving project objectives\r\nPromote quality, safety and innovation",
    "url": "https://mon-vie-via.businessfrance.fr/offres/245096",
@@ -21377,7 +21412,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T09:01:30Z",
    "sector": "",
-   "specialization": "[\"251\"]",
+   "specialization": "251",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21493,7 +21528,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-14T06:33:49Z",
    "sector": "",
-   "specialization": "[\"251\"]",
+   "specialization": "251",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21929,7 +21964,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-01T07:59:11Z",
    "sector": "",
-   "specialization": "244",
+   "specialization": "[\"244\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22055,7 +22090,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-12T08:39:45Z",
    "sector": "",
-   "specialization": "[\"327\"]",
+   "specialization": "327",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22254,7 +22289,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-05T06:51:18Z",
    "sector": "",
-   "specialization": "[\"109\",\"149\",\"150\",\"244\",\"264\"]",
+   "specialization": "109, 149, 150, 244, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22850,7 +22885,7 @@
    "expiry_date": "",
    "publish_date": "2026-05-12T14:43:27Z",
    "sector": "",
-   "specialization": "5, 21, 49, 86, 125, 144, 150, 155, 208, 209, 244, 256, 262, 264",
+   "specialization": "[\"5\",\"21\",\"49\",\"86\",\"125\",\"144\",\"150\",\"155\",\"208\",\"209\",\"244\",\"256\",\"262\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22969,7 +23004,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-21T14:12:25Z",
    "sector": "",
-   "specialization": "330",
+   "specialization": "[\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -23065,7 +23100,7 @@
    "expiry_date": "",
    "publish_date": "2026-05-12T14:27:31Z",
    "sector": "",
-   "specialization": "[\"325\"]",
+   "specialization": "325",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -23331,7 +23366,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-09T09:05:20Z",
    "sector": "",
-   "specialization": "[\"71\"]",
+   "specialization": "71",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -23500,7 +23535,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-12T13:41:19Z",
    "sector": "",
-   "specialization": "[\"351\"]",
+   "specialization": "351",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -24654,15 +24689,15 @@
    "expiry_date": "",
    "publish_date": "2026-07-30T08:26:59Z",
    "sector": "",
-   "specialization": "86, 113, 125, 149, 169",
+   "specialization": "[\"86\",\"113\",\"125\",\"149\",\"169\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-07-30T08:26:59Z",
     "missionStartDate": "2026-12-01T00:00:00",
     "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-22T00:00:00",
-    "endBroadcastDate": "2026-10-22T00:00:00"
+    "startBroadcastDate": "2026-10-16T00:00:00",
+    "endBroadcastDate": "2026-11-15T00:00:00"
    },
    "summary": "- Participer à la stratégie et à l'exécution des activités de qualification et validation des équipements, utilités et systèmes de production pharmaceutique.\n- Rédiger et exécuter les protocoles de qualification (IQ, OQ, PQ) dans le respect des exigences GMP.\n- Coordonner et suivre les essais de réception fournisseurs (FAT) et les essais de réception sur site (SAT).\n- Assurer le suivi des écarts, investigations et plans d'actions associés lors des phases de qualification et validation.\n- Collaborer avec les équipes Ingénierie, Production, Qualité et Maintenance afin de garantir la conformité des installations.\n- Participer aux projets d'installation de nouveaux équipements ou de modification d'installations existantes.\n- Vérifier et approuver la documentation technique liée aux activités de qualification et validation.\n- Contribuer aux inspections, audits et initiatives d'amélioration continue en lien avec la conformité réglementaire.",
    "url": "https://mon-vie-via.businessfrance.fr/offres/245011",
@@ -25963,7 +25998,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-21T14:42:01Z",
    "sector": "",
-   "specialization": "[\"2\",\"29\",\"60\",\"62\",\"63\",\"64\",\"65\",\"66\",\"68\",\"69\",\"70\",\"71\",\"72\",\"73\",\"76\",\"109\",\"114\",\"134\",\"138\",\"149\",\"150\",\"155\",\"158\",\"159\",\"160\",\"168\",\"169\",\"197\",\"205\",\"206\",\"207\",\"208\",\"209\",\"224\",\"225\",\"244\",\"248\",\"251\",\"262\",\"264\",\"330\",\"331\",\"358\",\"361\"]",
+   "specialization": "2, 29, 60, 62, 63, 64, 65, 66, 68, 69, 70, 71, 72, 73, 76, 109, 114, 134, 138, 149, 150, 155, 158, 159, 160, 168, 169, 197, 205, 206, 207, 208, 209, 224, 225, 244, 248, 251, 262, 264, 330, 331, 358, 361",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26233,7 +26268,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-21T12:23:26Z",
    "sector": "",
-   "specialization": "[\"208\"]",
+   "specialization": "208",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26342,7 +26377,7 @@
    "expiry_date": "",
    "publish_date": "2026-03-17T15:45:44Z",
    "sector": "",
-   "specialization": "144",
+   "specialization": "[\"144\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26529,7 +26564,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T13:35:27Z",
    "sector": "",
-   "specialization": "[\"65\",\"66\",\"68\",\"71\",\"153\"]",
+   "specialization": "65, 66, 68, 71, 153",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26616,7 +26651,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-29T08:17:18Z",
    "sector": "",
-   "specialization": "[\"209\"]",
+   "specialization": "209",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26841,7 +26876,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-12T07:40:30Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26920,7 +26955,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-14T08:35:35Z",
    "sector": "",
-   "specialization": "[\"304\"]",
+   "specialization": "304",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27017,7 +27052,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-02T10:23:33Z",
    "sector": "",
-   "specialization": "[\"149\"]",
+   "specialization": "149",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27105,7 +27140,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-15T12:00:46Z",
    "sector": "",
-   "specialization": "168",
+   "specialization": "[\"168\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27203,7 +27238,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-09T09:43:27Z",
    "sector": "",
-   "specialization": "[\"206\"]",
+   "specialization": "206",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27512,7 +27547,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-07T17:17:39Z",
    "sector": "",
-   "specialization": "52, 63, 118, 125, 168, 225, 256",
+   "specialization": "[\"52\",\"63\",\"118\",\"125\",\"168\",\"225\",\"256\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27910,7 +27945,7 @@
    "expiry_date": "",
    "publish_date": "2025-10-28T09:46:40Z",
    "sector": "",
-   "specialization": "[\"248\"]",
+   "specialization": "248",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -28008,91 +28043,6 @@
      "label": "Aucun terme industriel : score plafonné",
      "terms": [],
      "points": -11,
-     "cap": 30
-    }
-   ]
-  },
-  {
-   "id": "243218",
-   "title": "Ingénieur Intégration Electronique (H/F)",
-   "company": "SEVEN PORTAGE",
-   "country": "BELGIQUE",
-   "city": "LOUVAIN LA NEUVE",
-   "description": "Le département d'ingénierie électronique - équipe d'architecture et intégration recherche un Ingénieur Intégrateur\nélectronique (H/F).\nDans le cadre du développement de nos systèmes électroniques, nous proposons de participer à l'analyse, la\nconception, l'intégration et la validation de systèmes électroniques.\nLes domaines couverts sont,\no Intégration d'équipements électroniques\no Définition du schéma de connectique au niveau système global et design du câblage\no Intégration de systèmes sur véhicule (potentiel lien avec le client)\no Réalisation des tests d'intégration électronique en développement\no Rédaction de documentation technique associée à l'architecture, au design, à la conception et à la validation\nd'intégration de systèmes électroniques\nResponsabilities :\no court/moyen terme, définition et design du câblage pour les systèmes\no À court/moyen terme, intégration de systèmes sur véhicules\no À moyen/long terme, montée en compétence et prise de position sur un rôle d'architecte système :\no Définition des spécifications systèmes\no Design d'architecture logique et physique\no Déclinaison des exigences systèmes en sous-systèmes\no Analyse et validation du designs des sous-systèmes (en particulier pour ce qui concerne l'allocation fonctionnelle\net des interfaces vers le système)\no Participation aux offres commerciales (via conseil technique dans son domaine d'expertise)",
-   "mission": "",
-   "profile": "Master ingénieur électronique\no Expression orale et écrite aisée en français et anglais\no Travailler avec rigueur, proactivité et autonomie\no Être capable de travailler en équipe\no Travailler en respectant un plan projet (le planning, les échéances et le budget)\no Avoir de bonnes capacités d'analyse, un esprit critique et un bon jugement\no Être disponible occasionnellement pour des missions de courtes durées à l'étranger et en Belgique\n\nAssets :\no Avoir une première expérience dans l'intégration d'équipements électroniques\no Avoir une première expérience dans le secteur de la défense ou équivalent\no Expérience pratique avec les outils de conception électronique\no Maitrise des logiciels SPlan et ALTIUM",
-   "duration": 12,
-   "start_date": "2026-11-01T00:00:00",
-   "end_date": "2027-11-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-05-21T12:50:37Z",
-   "sector": "",
-   "specialization": "66",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-05-21T12:50:37Z",
-    "missionStartDate": "2026-11-01T00:00:00",
-    "missionEndDate": "2027-11-01T00:00:00",
-    "startBroadcastDate": "2026-09-15T00:00:00",
-    "endBroadcastDate": "2026-10-15T00:00:00"
-   },
-   "summary": "Le département d'ingénierie électronique - équipe d'architecture et intégration recherche un Ingénieur Intégrateur\nélectronique (H/F).\nDans le cadre du développement de nos systèmes électroniques, nous proposons de participer à l'analyse, la\nconception, l'intégration et la validation de systèmes électroniques.\nLes domaines couverts sont,\no Intégration d'équipements électroniques\no Définition du schéma de connectique au niveau système global et design du câblage\no Intégration de systèmes sur véhicule (potentiel lien avec le client)\no Réalisation des tests d'intégration électronique en développement\no Rédaction de documentation technique associée à l'architecture, au design, à la conception et à la validation\nd'intégration de systèmes électroniques\nResponsabilities :\no court/moyen terme, définition et design du câblage pour les systèmes\no À court/moyen terme, intégration de systèmes sur véhicules\no À moyen/long terme, montée en compétence et prise de position sur un rôle d'architecte système :\no Définition des spécifications systèmes\no Design d'architecture logique et physique […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/243218",
-   "score": 30,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 10,
-    "qual": 8,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "ingenierie"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "validation"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "defense"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Aucun terme industriel : score plafonné",
-     "terms": [],
-     "points": -1,
      "cap": 30
     }
    ]
@@ -28199,7 +28149,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-21T13:27:37Z",
    "sector": "",
-   "specialization": "[\"73\"]",
+   "specialization": "73",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -28569,7 +28519,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-03T16:37:44Z",
    "sector": "",
-   "specialization": "[\"155\"]",
+   "specialization": "155",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -28847,7 +28797,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-14T14:24:32Z",
    "sector": "",
-   "specialization": "[\"328\"]",
+   "specialization": "328",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29352,7 +29302,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-14T08:28:03Z",
    "sector": "",
-   "specialization": "[\"113\",\"123\",\"125\",\"256\"]",
+   "specialization": "113, 123, 125, 256",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29875,7 +29825,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-17T09:25:07Z",
    "sector": "",
-   "specialization": "[\"180\",\"259\",\"318\",\"320\"]",
+   "specialization": "180, 259, 318, 320",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30358,7 +30308,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-21T14:46:23Z",
    "sector": "",
-   "specialization": "[\"2\",\"60\",\"63\",\"64\",\"65\",\"66\",\"68\",\"69\",\"70\",\"71\",\"72\",\"73\",\"77\",\"80\",\"109\",\"113\",\"114\",\"117\",\"123\",\"125\",\"133\",\"137\",\"138\",\"139\",\"142\",\"143\",\"144\",\"145\",\"146\",\"147\",\"149\",\"150\",\"153\",\"155\",\"158\",\"159\",\"160\",\"161\",\"168\",\"169\",\"175\",\"197\",\"206\",\"207\",\"208\",\"209\",\"213\",\"224\",\"225\",\"226\",\"228\",\"244\",\"245\",\"246\",\"247\",\"248\",\"251\",\"256\",\"264\",\"311\",\"351\",\"354\",\"355\",\"356\",\"357\",\"358\",\"361\",\"365\",\"366\",\"367\",\"368\",\"369\",\"370\",\"371\"]",
+   "specialization": "2, 60, 63, 64, 65, 66, 68, 69, 70, 71, 72, 73, 77, 80, 109, 113, 114, 117, 123, 125, 133, 137, 138, 139, 142, 143, 144, 145, 146, 147, 149, 150, 153, 155, 158, 159, 160, 161, 168, 169, 175, 197, 206, 207, 208, 209, 213, 224, 225, 226, 228, 244, 245, 246, 247, 248, 251, 256, 264, 311, 351, 354, 355, 356, 357, 358, 361, 365, 366, 367, 368, 369, 370, 371",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30431,7 +30381,7 @@
    "expiry_date": "",
    "publish_date": "2026-01-12T10:58:19Z",
    "sector": "",
-   "specialization": "[\"65\"]",
+   "specialization": "65",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30502,7 +30452,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-29T12:47:52Z",
    "sector": "",
-   "specialization": "6, 7",
+   "specialization": "[\"6\",\"7\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30666,7 +30616,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-23T07:37:46Z",
    "sector": "",
-   "specialization": "[\"318\"]",
+   "specialization": "318",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30801,6 +30751,80 @@
    ]
   },
   {
+   "id": "243661",
+   "title": "INGÉNIEUR MAINTENANCE (H/F)",
+   "company": "MISSION CONSEIL ASSISTANCE INGENIERIE",
+   "country": "BELGIQUE",
+   "city": "BRUXELLES",
+   "description": "MCA Belgium, filiale belge de MCA GROUPE, société de Conseil et d'Etudes en Hautes Technologies, s'engage à accompagner les Grands Comptes de l'Industrie et des Services depuis plus de 15 ans. L'expertise de nos équipes, reconnue au niveau national et européen, nous permet de proposer des solutions techniques dans différents secteurs d’activités : Energy, Life Sciences, Mobility et Data Solutions. Envie de rejoindre une entreprise en plein essor et qui vous donnera toutes les clés pour faire évoluer votre carrière ? Postulez !\nDans le cadre du développement de l’activité MCA, nous recherchons plusieurs ingénieurs maintenance dont les missions seront d’optimiser la disponibilité et le bon fonctionnement des équipements mécaniques et/ou électriques de production de leurs secteurs. Grâce à vos compétences, vous serez en charge de :\nGestion des travaux\nMaintenir les installations en bon état et au besoin les faire réparer \nRéaliser, planifier et coordonner les ordres de travail de maintenance \nProposer des plans de maintenance préventive – prédictive \nSuperviser la bonne application des procédures, modes opératoires, …\nGérer la sous-traitance et l’équipe \nGérer et respecter le budget alloué \nManagement d’équipe de la zone\nParticiper activement aux réunions techniques \nGérer la charge de travail en fonction des besoins et compétences \nParticiper à la formation du personnel\nOperations de contrôle\nAmélioration continue\nIndicateurs de performance : veiller au suivi des résultats et prendre les mesures nécessaires en cas de déviation par rapport aux objectifs en accord avec son responsable hiérarchique.",
+   "mission": "",
+   "profile": "De formation Ingénieur Civil ou Industriel (ou équivalent) avec une spécialité mécanique/hydraulique, électrique/automatique/électromécanique ou fiabilité, vous justifiez d’une expérience significative dans un poste maintenance similaire. La maitrise de l'anglais est un plus. Rejoindre MCA, c’est bénéficier d’un suivi de carrière personnalisé corrélé à votre projet professionnel : développer une expertise, progresser dans un autre secteur, devenir chef de projet, manager une équipe sont les perspectives d’évolution associées au métier de consultant au sein du groupe MCA.",
+   "duration": 6,
+   "start_date": "2026-12-01T00:00:00",
+   "end_date": "2027-06-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-06-09T13:29:13Z",
+   "sector": "",
+   "specialization": "[\"107\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-06-09T13:29:13Z",
+    "missionStartDate": "2026-12-01T00:00:00",
+    "missionEndDate": "2027-06-01T00:00:00",
+    "startBroadcastDate": "2026-10-16T00:00:00",
+    "endBroadcastDate": "2026-11-15T00:00:00"
+   },
+   "summary": "MCA Belgium, filiale belge de MCA GROUPE, société de Conseil et d'Etudes en Hautes Technologies, s'engage à accompagner les Grands Comptes de l'Industrie et des Services depuis plus de 15 ans. L'expertise de nos équipes, reconnue au niveau national et européen, nous permet de proposer des solutions techniques dans différents secteurs d’activités : Energy, Life Sciences, Mobility et Data Solutions. Envie de rejoindre une entreprise en plein essor et qui vous donnera toutes les clés pour faire évoluer votre carrière ? Postulez !\nDans le cadre du développement de l’activité MCA, nous recherchons plusieurs ingénieurs maintenance dont les missions seront d’optimiser la disponibilité et le bon fonctionnement des équipements mécaniques et/ou électriques de production de leurs secteurs. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/243661",
+   "score": 29,
+   "label": "Périphérique",
+   "first_seen": "2026-08-24T16:01:18+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 10,
+    "qual": 0,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "amelioration continue",
+      "ingenierie"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "ingenieur",
+      "maintenance"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "energy",
+      "industriel",
+      "mecanique"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
    "id": "245986",
    "title": "Ingénieur Projet EIC – Électricité / Instrumentation / Contrôle-Commande (H/F)",
    "company": "MISSION CONSEIL ASSISTANCE INGENIERIE",
@@ -30815,7 +30839,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-15T13:57:57Z",
    "sector": "",
-   "specialization": "[\"73\"]",
+   "specialization": "73",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30959,7 +30983,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-09T13:01:31Z",
    "sector": "",
-   "specialization": "65, 66, 71, 77, 153, 225",
+   "specialization": "[\"65\",\"66\",\"71\",\"77\",\"153\",\"225\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31031,7 +31055,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-08T13:39:09Z",
    "sector": "",
-   "specialization": "[\"66\",\"73\",\"77\",\"225\",\"261\"]",
+   "specialization": "66, 73, 77, 225, 261",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31165,80 +31189,6 @@
    ]
   },
   {
-   "id": "243661",
-   "title": "INGÉNIEUR MAINTENANCE (H/F)",
-   "company": "MISSION CONSEIL ASSISTANCE INGENIERIE",
-   "country": "BELGIQUE",
-   "city": "BRUXELLES",
-   "description": "MCA Belgium, filiale belge de MCA GROUPE, société de Conseil et d'Etudes en Hautes Technologies, s'engage à accompagner les Grands Comptes de l'Industrie et des Services depuis plus de 15 ans. L'expertise de nos équipes, reconnue au niveau national et européen, nous permet de proposer des solutions techniques dans différents secteurs d’activités : Energy, Life Sciences, Mobility et Data Solutions. Envie de rejoindre une entreprise en plein essor et qui vous donnera toutes les clés pour faire évoluer votre carrière ? Postulez !\nDans le cadre du développement de l’activité MCA, nous recherchons plusieurs ingénieurs maintenance dont les missions seront d’optimiser la disponibilité et le bon fonctionnement des équipements mécaniques et/ou électriques de production de leurs secteurs. Grâce à vos compétences, vous serez en charge de :\nGestion des travaux\nMaintenir les installations en bon état et au besoin les faire réparer \nRéaliser, planifier et coordonner les ordres de travail de maintenance \nProposer des plans de maintenance préventive – prédictive \nSuperviser la bonne application des procédures, modes opératoires, …\nGérer la sous-traitance et l’équipe \nGérer et respecter le budget alloué \nManagement d’équipe de la zone\nParticiper activement aux réunions techniques \nGérer la charge de travail en fonction des besoins et compétences \nParticiper à la formation du personnel\nOperations de contrôle\nAmélioration continue\nIndicateurs de performance : veiller au suivi des résultats et prendre les mesures nécessaires en cas de déviation par rapport aux objectifs en accord avec son responsable hiérarchique.",
-   "mission": "",
-   "profile": "De formation Ingénieur Civil ou Industriel (ou équivalent) avec une spécialité mécanique/hydraulique, électrique/automatique/électromécanique ou fiabilité, vous justifiez d’une expérience significative dans un poste maintenance similaire. La maitrise de l'anglais est un plus. Rejoindre MCA, c’est bénéficier d’un suivi de carrière personnalisé corrélé à votre projet professionnel : développer une expertise, progresser dans un autre secteur, devenir chef de projet, manager une équipe sont les perspectives d’évolution associées au métier de consultant au sein du groupe MCA.",
-   "duration": 6,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2027-06-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-06-09T13:29:13Z",
-   "sector": "",
-   "specialization": "107",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-06-09T13:29:13Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2027-06-01T00:00:00",
-    "startBroadcastDate": "2026-09-22T00:00:00",
-    "endBroadcastDate": "2026-10-22T00:00:00"
-   },
-   "summary": "MCA Belgium, filiale belge de MCA GROUPE, société de Conseil et d'Etudes en Hautes Technologies, s'engage à accompagner les Grands Comptes de l'Industrie et des Services depuis plus de 15 ans. L'expertise de nos équipes, reconnue au niveau national et européen, nous permet de proposer des solutions techniques dans différents secteurs d’activités : Energy, Life Sciences, Mobility et Data Solutions. Envie de rejoindre une entreprise en plein essor et qui vous donnera toutes les clés pour faire évoluer votre carrière ? Postulez !\nDans le cadre du développement de l’activité MCA, nous recherchons plusieurs ingénieurs maintenance dont les missions seront d’optimiser la disponibilité et le bon fonctionnement des équipements mécaniques et/ou électriques de production de leurs secteurs. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/243661",
-   "score": 29,
-   "label": "Périphérique",
-   "first_seen": "2026-08-24T16:01:18+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 10,
-    "qual": 0,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "amelioration continue",
-      "ingenierie"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur",
-      "maintenance"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "energy",
-      "industriel",
-      "mecanique"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "245438",
    "title": "INGENIEUR D'AFFAIRES H/F (H/F)",
    "company": "NGEN LILLE",
@@ -31253,7 +31203,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-26T15:21:54Z",
    "sector": "",
-   "specialization": "[\"6\",\"7\",\"21\",\"78\",\"130\",\"158\",\"195\",\"207\",\"244\",\"264\"]",
+   "specialization": "6, 7, 21, 78, 130, 158, 195, 207, 244, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31323,7 +31273,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-07T17:18:27Z",
    "sector": "",
-   "specialization": "60, 65, 66, 71, 77, 110, 142, 149",
+   "specialization": "[\"60\",\"65\",\"66\",\"71\",\"77\",\"110\",\"142\",\"149\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31476,6 +31426,78 @@
    ]
   },
   {
+   "id": "247121",
+   "title": "Consultant.e Senior Qualité Opérationnelle (H/F)",
+   "company": "ATRYON",
+   "country": "BELGIQUE",
+   "city": "BRUXELLES",
+   "description": "Intervenir en tant que consultant atryon auprès de nos clients \no Réaliser un ou des projets dans le respect du Qualité, Coûts, Délais et des \nengagements pris avec le client \no Organiser efficacement son champ d’action en l’intégrant dans le collectif et \nanimant ce même collectif \no Identifier les attentes des parties prenantes, adapter sa posture en conséquence \net s’exprimer de manière impactante à l’oral \no Structurer et produire des livrables de façon autonome, selon les standards \natryon et dans le respect des délais annoncés \no Adapter les méthodologies et outils atryon à chaque situation et les utiliser avec \nle bon niveau de granularité \no Contribuer à la vente et s’engager dans les actions de développement \ncommercial du cabinet (conception de propositions commerciales techniques) \no Contribuer à la capitalisation et au développement des compétences du cabinet \n \n• Assurer une posture d'expert métier sur les projets \no Mettre sous contrôle les processus qualité (Déviations, CAPA, Change Control, \nLibération, RQP…) \no Cadrer & déployer des systèmes qualité efficients, répondant aux exigences \nréglementaires, \no Accompagner l’amélioration du référentiel documentaire, \no Participer à la préparation des audits & inspections, \no Maîtriser & transposer sur le terrain les exigences GMP, ISO13485, BPF",
+   "mission": "",
+   "profile": "Diplômé•e d’un Bac+5, Master ou équivalent dans le domaine des Life Sciences et/ou \r\nIngénieur•e ou Pharmacien•ne Industriel•le, vous justifiez d’une expérience réussie dans un \r\nenvironnement Pharma, Biotech, Medtech ou Chimie. \r\nVous avez minimum 3 ans d’expérience en maîtrise de la Qualité & de la donnée (data integrity) \r\net vous connaissez bien les référentiels réglementaires (BPF, GMP, BPL…). \r\nL'usage de l'anglais est obligatoire. \r\n\nVotre « Mindset » ? \r\nVous êtes curieux•se, et vous cherchez à vous challenger régulièrement ? Vous êtes reconnu•e \r\npour votre prise d'initiative, votre autonomie, votre flexibilité à travailler en mode collaboratif \r\net en multi-projets ? Vous faites preuve de capacité d’analyse et de synthèse pour mener à bien \r\nvos projets. Vous êtes force de proposition et vous avez un certain impact auprès des clients.",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-15T14:49:18Z",
+   "sector": "",
+   "specialization": "[\"208\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-15T14:49:18Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-16T00:00:00",
+    "endBroadcastDate": "2026-11-15T00:00:00"
+   },
+   "summary": "Intervenir en tant que consultant atryon auprès de nos clients \no Réaliser un ou des projets dans le respect du Qualité, Coûts, Délais et des \nengagements pris avec le client \no Organiser efficacement son champ d’action en l’intégrant dans le collectif et \nanimant ce même collectif \no Identifier les attentes des parties prenantes, adapter sa posture en conséquence \net s’exprimer de manière impactante à l’oral \no Structurer et produire des livrables de façon autonome, selon les standards \natryon et dans le respect des délais annoncés \no Adapter les méthodologies et outils atryon à chaque situation et les utiliser avec \nle bon niveau de granularité \no Contribuer à la vente et s’engager dans les actions de développement \ncommercial du cabinet (conception de propositions commerciales techniques) \no Contribuer à la capitalisation et au développement des compétences du cabinet \n \n• Assurer une posture d'expert métier sur les projets \no Mettre sous contrôle les processus qualité (Déviations, CAPA, Change Control, \nLibération, RQP…) […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247121",
+   "score": 28,
+   "label": "Périphérique",
+   "first_seen": "2026-10-16T11:21:47+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 0,
+    "qual": 8,
+    "calc": 0
+   },
+   "dominant_axis": "qual",
+   "matched_families": [
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "qualite",
+      "standards"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "qualite"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "chimie",
+      "industriel"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
    "id": "245295",
    "title": "Data Specialist – Customer Analytics (H/F)",
    "company": "CA CONSUMER FINANCE",
@@ -31564,6 +31586,121 @@
      "label": "Niveau bac+5 / ingénieur annoncé",
      "terms": [],
      "points": 4
+    }
+   ]
+  },
+  {
+   "id": "245470",
+   "title": "DATA ANALYST - DATA SCIENTIST - DATA ENGINEER H/F (H/F)",
+   "company": "CLEEVEN ND",
+   "country": "BELGIQUE",
+   "city": "BRUXELLES",
+   "description": "! Join a Dynamic and Exciting Team at Cleeven!\n\nAre you prepared to join a dynamic, youthful company with an exceptional atmosphere? Are you eager to dive into meaningful work and advance your career? \nJoin us at Cleeven and be a part of a team that values your growth and development while contributing to groundbreaking projects. Apply now to start your journey with us!\n\nWHO WE ARE\n\nCleeven is an international engineering consulting firm built on two fundamental principles:\n\nOUR MISSION: \n\nTo enhance self-awareness and the awareness of those around us.\nOUR BELIEF: The excellence of European engineers should drive Europe’s leadership in technological innovation and R&D. As engineers, we work closely with our clients to ensure their global competitiveness.\n\nYOUR ROLE AS DATA ANALYST :\n\nAnalysis and synthesis of functional and technical requirements\nData asset analysis\nDefinition of statistical modeling to meet requirements\nSourcing and gathering all necessary structured and unstructured data sources for analysis\nStudy and comparison of statistical methods (PCA, logistic regression, random forest)\nImplementation and utilization of methods and models (R, SAS, Python, SPSS)\nOptimization of algorithm performance\nAnalysis and synthesis of information and results\nTechnological monitoring in Big Data, machine learning, and decisional statistics\nParticipation in solution qualification\n\nWHAT’S HAPPENING AT CLEEVEN?\n\nWe value the potential of our employees through various support programs:\nCleeven Coaching Program: A voluntary individual coaching program to contribute to your personal development.\nProject Follow-ups: Monthly reviews with your project manager to discuss project progress.\nBoost Your Skills: Bi-monthly events focusing on the expertise areas of Cleeven consultants.\nSocial Events: Regular gatherings throughout the year to strengthen team cohesion and sharing among Cleeven consultants.\n\"With Cleeven, become who you are!\"",
+   "mission": "",
+   "profile": "THE PERFECT CONSULTANT :\n\nMaster’s degree.\nEN + FR/NL - speaking all three languages is a strong asset.\nExperience with data analytics tools and programming languages (e.g., Java, Python, SQL, Power BI, Tableau,...)\nAdaptable, autonomous, proactive and a real team player\nAnalytical minded\nSolution oriented\nA first experience in the financial sector is a +",
+   "duration": 12,
+   "start_date": "2026-12-01T00:00:00",
+   "end_date": "2027-12-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-08-28T07:15:47Z",
+   "sector": "",
+   "specialization": "[\"4\",\"5\",\"9\",\"21\",\"109\",\"130\",\"147\",\"199\",\"202\",\"205\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-08-28T07:15:47Z",
+    "missionStartDate": "2026-12-01T00:00:00",
+    "missionEndDate": "2027-12-01T00:00:00",
+    "startBroadcastDate": "2026-10-16T00:00:00",
+    "endBroadcastDate": "2026-11-15T00:00:00"
+   },
+   "summary": "! Join a Dynamic and Exciting Team at Cleeven!\n\nAre you prepared to join a dynamic, youthful company with an exceptional atmosphere? Are you eager to dive into meaningful work and advance your career? \nJoin us at Cleeven and be a part of a team that values your growth and development while contributing to groundbreaking projects. Apply now to start your journey with us!\n\nWHO WE ARE\n\nCleeven is an international engineering consulting firm built on two fundamental principles:\n\nOUR MISSION: \n\nTo enhance self-awareness and the awareness of those around us.\nOUR BELIEF: The excellence of European engineers should drive Europe’s leadership in technological innovation and R&D. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/245470",
+   "score": 28,
+   "label": "Périphérique",
+   "first_seen": "2026-08-28T14:08:58+00:00",
+   "axis_scores": {
+    "rd": 9,
+    "prod": 10,
+    "qual": 34,
+    "calc": 36
+   },
+   "dominant_axis": "calc",
+   "matched_families": [
+    {
+     "id": "calc1",
+     "axis": "calc",
+     "source": "Éléments finis (256-1, 24 h), TP simulation numérique (272-1, 285-5, 285-4, 63 h), Calculs numériques de mise en forme (277-1, 286-1, 50 h)",
+     "weight": 12,
+     "terms": [
+      "modeling"
+     ]
+    },
+    {
+     "id": "calc4",
+     "axis": "calc",
+     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
+     "weight": 4,
+     "terms": [
+      "python"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "engineering"
+     ]
+    },
+    {
+     "id": "qual3",
+     "axis": "qual",
+     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
+     "weight": 7,
+     "terms": [
+      "statistical"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "qualification"
+     ]
+    },
+    {
+     "id": "rd9",
+     "axis": "rd",
+     "source": "Vocabulaire de laboratoire courant",
+     "weight": 3,
+     "terms": [
+      "r&d"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "engineer"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    },
+    {
+     "label": "Intitulé hors formation",
+     "terms": [
+      "data scientist"
+     ],
+     "points": -22
     }
    ]
   },
@@ -31708,121 +31845,6 @@
      "label": "Niveau bac+5 / ingénieur annoncé",
      "terms": [],
      "points": 4
-    }
-   ]
-  },
-  {
-   "id": "245470",
-   "title": "DATA ANALYST - DATA SCIENTIST - DATA ENGINEER H/F (H/F)",
-   "company": "CLEEVEN ND",
-   "country": "BELGIQUE",
-   "city": "BRUXELLES",
-   "description": "! Join a Dynamic and Exciting Team at Cleeven!\n\nAre you prepared to join a dynamic, youthful company with an exceptional atmosphere? Are you eager to dive into meaningful work and advance your career? \nJoin us at Cleeven and be a part of a team that values your growth and development while contributing to groundbreaking projects. Apply now to start your journey with us!\n\nWHO WE ARE\n\nCleeven is an international engineering consulting firm built on two fundamental principles:\n\nOUR MISSION: \n\nTo enhance self-awareness and the awareness of those around us.\nOUR BELIEF: The excellence of European engineers should drive Europe’s leadership in technological innovation and R&D. As engineers, we work closely with our clients to ensure their global competitiveness.\n\nYOUR ROLE AS DATA ANALYST :\n\nAnalysis and synthesis of functional and technical requirements\nData asset analysis\nDefinition of statistical modeling to meet requirements\nSourcing and gathering all necessary structured and unstructured data sources for analysis\nStudy and comparison of statistical methods (PCA, logistic regression, random forest)\nImplementation and utilization of methods and models (R, SAS, Python, SPSS)\nOptimization of algorithm performance\nAnalysis and synthesis of information and results\nTechnological monitoring in Big Data, machine learning, and decisional statistics\nParticipation in solution qualification\n\nWHAT’S HAPPENING AT CLEEVEN?\n\nWe value the potential of our employees through various support programs:\nCleeven Coaching Program: A voluntary individual coaching program to contribute to your personal development.\nProject Follow-ups: Monthly reviews with your project manager to discuss project progress.\nBoost Your Skills: Bi-monthly events focusing on the expertise areas of Cleeven consultants.\nSocial Events: Regular gatherings throughout the year to strengthen team cohesion and sharing among Cleeven consultants.\n\"With Cleeven, become who you are!\"",
-   "mission": "",
-   "profile": "THE PERFECT CONSULTANT :\n\nMaster’s degree.\nEN + FR/NL - speaking all three languages is a strong asset.\nExperience with data analytics tools and programming languages (e.g., Java, Python, SQL, Power BI, Tableau,...)\nAdaptable, autonomous, proactive and a real team player\nAnalytical minded\nSolution oriented\nA first experience in the financial sector is a +",
-   "duration": 12,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2027-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-08-28T07:15:47Z",
-   "sector": "",
-   "specialization": "4, 5, 9, 21, 109, 130, 147, 199, 202, 205",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-08-28T07:15:47Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-22T00:00:00",
-    "endBroadcastDate": "2026-10-22T00:00:00"
-   },
-   "summary": "! Join a Dynamic and Exciting Team at Cleeven!\n\nAre you prepared to join a dynamic, youthful company with an exceptional atmosphere? Are you eager to dive into meaningful work and advance your career? \nJoin us at Cleeven and be a part of a team that values your growth and development while contributing to groundbreaking projects. Apply now to start your journey with us!\n\nWHO WE ARE\n\nCleeven is an international engineering consulting firm built on two fundamental principles:\n\nOUR MISSION: \n\nTo enhance self-awareness and the awareness of those around us.\nOUR BELIEF: The excellence of European engineers should drive Europe’s leadership in technological innovation and R&D. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/245470",
-   "score": 28,
-   "label": "Périphérique",
-   "first_seen": "2026-08-28T14:08:58+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 10,
-    "qual": 34,
-    "calc": 36
-   },
-   "dominant_axis": "calc",
-   "matched_families": [
-    {
-     "id": "calc1",
-     "axis": "calc",
-     "source": "Éléments finis (256-1, 24 h), TP simulation numérique (272-1, 285-5, 285-4, 63 h), Calculs numériques de mise en forme (277-1, 286-1, 50 h)",
-     "weight": 12,
-     "terms": [
-      "modeling"
-     ]
-    },
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
-     "weight": 4,
-     "terms": [
-      "python"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "engineering"
-     ]
-    },
-    {
-     "id": "qual3",
-     "axis": "qual",
-     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
-     "weight": 7,
-     "terms": [
-      "statistical"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "qualification"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "r&d"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineer"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Intitulé hors formation",
-     "terms": [
-      "data scientist"
-     ],
-     "points": -22
     }
    ]
   },
@@ -32243,7 +32265,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T07:57:00Z",
    "sector": "",
-   "specialization": "[\"238\"]",
+   "specialization": "238",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32321,7 +32343,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T08:20:52Z",
    "sector": "",
-   "specialization": "64",
+   "specialization": "[\"64\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32408,7 +32430,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-08T08:03:39Z",
    "sector": "",
-   "specialization": "[\"65\",\"73\",\"77\",\"107\",\"206\",\"207\",\"224\",\"264\"]",
+   "specialization": "65, 73, 77, 107, 206, 207, 224, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32552,7 +32574,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-13T14:00:13Z",
    "sector": "",
-   "specialization": "[\"109\"]",
+   "specialization": "109",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32699,7 +32721,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-13T12:34:38Z",
    "sector": "",
-   "specialization": "[\"65\",\"66\",\"68\",\"153\",\"155\"]",
+   "specialization": "65, 66, 68, 153, 155",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33020,7 +33042,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-12T10:16:24Z",
    "sector": "",
-   "specialization": "[\"144\"]",
+   "specialization": "144",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33185,7 +33207,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-14T07:37:40Z",
    "sector": "",
-   "specialization": "[\"248\"]",
+   "specialization": "248",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33523,7 +33545,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-17T15:23:20Z",
    "sector": "",
-   "specialization": "[\"110\"]",
+   "specialization": "110",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33863,7 +33885,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T12:15:30Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34408,6 +34430,90 @@
    ]
   },
   {
+   "id": "247145",
+   "title": "Bioprocess Engineer Junior (H/F)",
+   "company": "UCB PHARMA",
+   "country": "BELGIQUE",
+   "city": "BRAINE L ALLEUD",
+   "description": "UCB cherchant à développer son pôle biopharmaceutique en Belgique a besoin de ressources humaines aux compétences spécifiques afin de gérer depuis ce pôle la production de ses produits actifs dans le traitement des maladies auto-immunes. UCB France cherche dès lors à renforcer les compétences locales par des ressources en VIE, dans un but de maîtrise et d'optimisation de la compétitivité de ses productions, distribuées à l'échelle mondiale.\n\nVotre mission consistera en...\n-Être responsable du suivi de projets liés aux procédés, aux équipements et aux systèmes, en intégrant les aspects produit, ingénierie, digitalisation et automatisation.\n-Prendre en charge les investigations mineures et majeures dans les domaines du produit, de l’ingénierie et de l’automatisation.\n-Jouer un rôle clé dans la bonne exécution d’initiatives majeures au sein de notre site de bioproduction de pointe.\n\nProjets :\n-Exécuter des projets liés aux procédés et aux équipements, en intégrant les aspects produit, ingénierie, digitalisation et automatisation.\n-Faciliter l’élaboration de plans de projet complets, incluant les budgets, les délais et l’allocation des ressources.\n-Animer les réunions de lancement des projets et accompagner les équipes projet tout au long de leur réalisation.\n-Suivre l’avancement des projets, identifier les risques et mettre en place des stratégies d’atténuation si nécessaire.\n-Être le principal point de contact avec les équipes internes et les fournisseurs externes.\n-Garantir une communication et une collaboration efficaces.\n-Challenger les propositions et solutions existantes en s’appuyant sur son expertise afin de favoriser l’innovation et l’optimisation.\n\nLe(la) volontaire sera chargé(e) de :\n- Trouble shooting: \n- Investigate major issues spanning product, engineering, and automation domains while adhering to quality requirements. \n- Manage the deviation process, including tracking deviations and coordinating escalation \nprocedures. \n- Conduct root cause analyses and develop corrective and preventive action plans as necessary. \n- Collaborate with cross-functional teams to address technical challenges and ensure timely \nresolution",
+   "mission": "",
+   "profile": "Votre profil :\r\n- Diplome : Master\r\n- Langues : Francais et Anglais est un plus\r\n- Affinité avec l'automatisation et la digitalisation\r\n-Une première expérience en environnement réglementée est un plus",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-16T08:33:49Z",
+   "sector": "",
+   "specialization": "[\"49\",\"65\",\"107\",\"109\",\"150\",\"169\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-16T08:33:49Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-16T00:00:00",
+    "endBroadcastDate": "2026-11-15T00:00:00"
+   },
+   "summary": "UCB cherchant à développer son pôle biopharmaceutique en Belgique a besoin de ressources humaines aux compétences spécifiques afin de gérer depuis ce pôle la production de ses produits actifs dans le traitement des maladies auto-immunes. UCB France cherche dès lors à renforcer les compétences locales par des ressources en VIE, dans un but de maîtrise et d'optimisation de la compétitivité de ses productions, distribuées à l'échelle mondiale.\n\nVotre mission consistera en...\n-Être responsable du suivi de projets liés aux procédés, aux équipements et aux systèmes, en intégrant les aspects produit, ingénierie, digitalisation et automatisation.\n-Prendre en charge les investigations mineures et majeures dans les domaines du produit, de l’ingénierie et de l’automatisation.\n-Jouer un rôle clé dans la bonne exécution d’initiatives majeures au sein de notre site de bioproduction de pointe.\n\nProjets :\n-Exécuter des projets liés aux procédés et aux équipements, en intégrant les aspects produit, ingénierie, digitalisation et automatisation. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247145",
+   "score": 27,
+   "label": "Périphérique",
+   "first_seen": "2026-10-16T11:21:47+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 10,
+    "qual": 8,
+    "calc": 9
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "calc4",
+     "axis": "calc",
+     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
+     "weight": 4,
+     "terms": [
+      "automation",
+      "automatisation"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "engineering",
+      "ingenierie"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "quality",
+      "root cause"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "engineer"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
    "id": "245492",
    "title": "PROJECT MANAGER (M/F) (H/F)",
    "company": "VOLTA INVESTISSEMENTS",
@@ -34508,7 +34614,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-28T15:24:33Z",
    "sector": "",
-   "specialization": "[\"29\",\"130\",\"213\",\"251\",\"262\",\"327\",\"329\",\"330\"]",
+   "specialization": "29, 130, 213, 251, 262, 327, 329, 330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35046,83 +35152,6 @@
    ]
   },
   {
-   "id": "245008",
-   "title": "Ingénieur Projet - Electricité & Instrumentation (H/F)",
-   "company": "ENGINEERING & CONSULTING GROUP",
-   "country": "BELGIQUE",
-   "city": "BRUXELLES",
-   "description": "- Participer à la conception, au suivi et à l'exécution de projets en électricité et instrumentation sur des installations industrielles.\n- Réaliser les études techniques (schémas électriques, architectures de contrôle-commande, spécifications instrumentales).\n- Assurer le suivi des activités d'installation, de mise en service et de qualification des équipements sur site.\n- Coordonner les différents intervenants (maintenance, production, fournisseurs, sous-traitants) dans le cadre des projets.\n- Contribuer à l'amélioration des performances, de la fiabilité et de la sécurité des installations.\n- Participer à l'analyse des besoins clients et à la définition des solutions techniques adaptées.\n- Veiller au respect des normes, procédures qualité et exigences HSE applicables aux projets.\n- Rédiger et mettre à jour la documentation technique, les rapports d'avancement et les dossiers de validation.",
-   "mission": "",
-   "profile": "- Diplôme d'Ingénieur en Électricité, Automatisme, Instrumentation, Électromécanique ou équivalent.\n- Première expérience en gestion de projets ou en ingénierie E&I, acquise via une alternance ou un stage significatif complété par au moins 1 an d'expérience professionnelle.\n- Expérience idéalement acquise dans les secteurs agroalimentaire, pharmaceutique, chimique ou métallurgique.\n- Bonne compréhension des systèmes électriques industriels, de l'instrumentation et des environnements de production.\n- Capacité à travailler en interface avec des équipes multidisciplinaires et à suivre des activités terrain.\n- Maîtrise du français et bon niveau d'anglais professionnel, à l'écrit comme à l'oral.",
-   "duration": 12,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2027-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-07-30T08:06:03Z",
-   "sector": "",
-   "specialization": "[\"65\",\"68\",\"71\",\"73\",\"149\",\"153\",\"365\"]",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-07-30T08:06:03Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-10-08T00:00:00",
-    "endBroadcastDate": "2026-11-07T00:00:00"
-   },
-   "summary": "- Participer à la conception, au suivi et à l'exécution de projets en électricité et instrumentation sur des installations industrielles.\n- Réaliser les études techniques (schémas électriques, architectures de contrôle-commande, spécifications instrumentales).\n- Assurer le suivi des activités d'installation, de mise en service et de qualification des équipements sur site.\n- Coordonner les différents intervenants (maintenance, production, fournisseurs, sous-traitants) dans le cadre des projets.\n- Contribuer à l'amélioration des performances, de la fiabilité et de la sécurité des installations.\n- Participer à l'analyse des besoins clients et à la définition des solutions techniques adaptées.\n- Veiller au respect des normes, procédures qualité et exigences HSE applicables aux projets.\n- Rédiger et mettre à jour la documentation technique, les rapports d'avancement et les dossiers de validation.",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/245008",
-   "score": 26,
-   "label": "Périphérique",
-   "first_seen": "2026-08-24T16:01:18+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 10,
-    "qual": 8,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "engineering",
-      "ingenierie",
-      "installations industrielles"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "normes",
-      "qualification",
-      "qualite",
-      "validation"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "245016",
    "title": "Spécialiste Déviations GMP (H/F)",
    "company": "ENGINEERING & CONSULTING GROUP",
@@ -35137,15 +35166,15 @@
    "expiry_date": "",
    "publish_date": "2026-07-30T08:55:36Z",
    "sector": "",
-   "specialization": "63, 86, 113, 123, 125, 149, 155, 169, 366",
+   "specialization": "[\"63\",\"86\",\"113\",\"123\",\"125\",\"149\",\"155\",\"169\",\"366\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-07-30T08:55:36Z",
     "missionStartDate": "2026-12-01T00:00:00",
     "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-22T00:00:00",
-    "endBroadcastDate": "2026-10-22T00:00:00"
+    "startBroadcastDate": "2026-10-16T00:00:00",
+    "endBroadcastDate": "2026-11-15T00:00:00"
    },
    "summary": "- Assurer la gestion des déviations qualité en environnement GMP, aussi bien en laboratoire qu'en production.\n- Mener les investigations afin d'identifier les causes racines des écarts et non-conformités observés.\n- Coordonner les parties prenantes impliquées dans les investigations (Production, Contrôle Qualité, Assurance Qualité, Validation, etc.).\n- Évaluer l'impact qualité et réglementaire des déviations sur les produits et les procédés.\n- Définir, suivre et vérifier l'efficacité des actions correctives et préventives (CAPA).\n- Rédiger et revoir la documentation associée aux déviations dans le respect des exigences GMP.\n- Participer aux audits internes, inspections réglementaires et initiatives d'amélioration continue du système qualité.\n- Contribuer au renforcement de la culture qualité et à l'optimisation des processus de gestion des écarts.",
    "url": "https://mon-vie-via.businessfrance.fr/offres/245016",
@@ -35206,6 +35235,83 @@
       "chimie"
      ],
      "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
+   "id": "245008",
+   "title": "Ingénieur Projet - Electricité & Instrumentation (H/F)",
+   "company": "ENGINEERING & CONSULTING GROUP",
+   "country": "BELGIQUE",
+   "city": "BRUXELLES",
+   "description": "- Participer à la conception, au suivi et à l'exécution de projets en électricité et instrumentation sur des installations industrielles.\n- Réaliser les études techniques (schémas électriques, architectures de contrôle-commande, spécifications instrumentales).\n- Assurer le suivi des activités d'installation, de mise en service et de qualification des équipements sur site.\n- Coordonner les différents intervenants (maintenance, production, fournisseurs, sous-traitants) dans le cadre des projets.\n- Contribuer à l'amélioration des performances, de la fiabilité et de la sécurité des installations.\n- Participer à l'analyse des besoins clients et à la définition des solutions techniques adaptées.\n- Veiller au respect des normes, procédures qualité et exigences HSE applicables aux projets.\n- Rédiger et mettre à jour la documentation technique, les rapports d'avancement et les dossiers de validation.",
+   "mission": "",
+   "profile": "- Diplôme d'Ingénieur en Électricité, Automatisme, Instrumentation, Électromécanique ou équivalent.\n- Première expérience en gestion de projets ou en ingénierie E&I, acquise via une alternance ou un stage significatif complété par au moins 1 an d'expérience professionnelle.\n- Expérience idéalement acquise dans les secteurs agroalimentaire, pharmaceutique, chimique ou métallurgique.\n- Bonne compréhension des systèmes électriques industriels, de l'instrumentation et des environnements de production.\n- Capacité à travailler en interface avec des équipes multidisciplinaires et à suivre des activités terrain.\n- Maîtrise du français et bon niveau d'anglais professionnel, à l'écrit comme à l'oral.",
+   "duration": 12,
+   "start_date": "2026-12-01T00:00:00",
+   "end_date": "2027-12-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-07-30T08:06:03Z",
+   "sector": "",
+   "specialization": "65, 68, 71, 73, 149, 153, 365",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-07-30T08:06:03Z",
+    "missionStartDate": "2026-12-01T00:00:00",
+    "missionEndDate": "2027-12-01T00:00:00",
+    "startBroadcastDate": "2026-10-08T00:00:00",
+    "endBroadcastDate": "2026-11-07T00:00:00"
+   },
+   "summary": "- Participer à la conception, au suivi et à l'exécution de projets en électricité et instrumentation sur des installations industrielles.\n- Réaliser les études techniques (schémas électriques, architectures de contrôle-commande, spécifications instrumentales).\n- Assurer le suivi des activités d'installation, de mise en service et de qualification des équipements sur site.\n- Coordonner les différents intervenants (maintenance, production, fournisseurs, sous-traitants) dans le cadre des projets.\n- Contribuer à l'amélioration des performances, de la fiabilité et de la sécurité des installations.\n- Participer à l'analyse des besoins clients et à la définition des solutions techniques adaptées.\n- Veiller au respect des normes, procédures qualité et exigences HSE applicables aux projets.\n- Rédiger et mettre à jour la documentation technique, les rapports d'avancement et les dossiers de validation.",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/245008",
+   "score": 26,
+   "label": "Périphérique",
+   "first_seen": "2026-08-24T16:01:18+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 10,
+    "qual": 8,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "engineering",
+      "ingenierie",
+      "installations industrielles"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "normes",
+      "qualification",
+      "qualite",
+      "validation"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "ingenieur"
+     ],
+     "points": 14
     },
     {
      "label": "Niveau bac+5 / ingénieur annoncé",
@@ -35465,15 +35571,15 @@
    "expiry_date": "",
    "publish_date": "2026-06-09T13:44:09Z",
    "sector": "",
-   "specialization": "35, 144, 245, 246, 248, 249, 251",
+   "specialization": "[\"35\",\"144\",\"245\",\"246\",\"248\",\"249\",\"251\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-06-09T13:44:09Z",
     "missionStartDate": "2026-12-01T00:00:00",
     "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-22T00:00:00",
-    "endBroadcastDate": "2026-10-22T00:00:00"
+    "startBroadcastDate": "2026-10-16T00:00:00",
+    "endBroadcastDate": "2026-11-15T00:00:00"
    },
    "summary": "Vous voulez avoir un impact réel sur la réussite des entreprises et de leurs salariés ? Vous souhaitez vous impliquer dans la gestion de projets dans des secteurs innovants ? Vous êtes intéressé par le développement de l'efficacité des outils et de la sécurité des organisations ? Alors cette opportunité est peut-être pour vous ! Nous recherchons un nouveau ingénieur(e) projets en VIE. \nResponsabilités :\nL'ingénieur(e) projets est responsable de la gestion de projets techniques \n- suivre, coordonner et communiquer avec les parties prenantes du projet (clients, fournisseurs, partenaires)\n- Installer, tester et intégrer des solutions automatisées sur le terrain (IOQ, FAT, SAT, ...)\n- Coordonner les sujets EHS\n- Établir et suivre le calendrier du projet\n- Fournir des conseils et des propositions pour obtenir le niveau de qualité requis \n- Suivi des FAT et SAT des fournisseurs ainsi que de la vérification de la qualité des fournisseurs\n- Gérer le changement dans le respect des bonnes pratiques",
    "url": "https://mon-vie-via.businessfrance.fr/offres/243663",
@@ -35756,7 +35862,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-06T08:54:04Z",
    "sector": "",
-   "specialization": "[\"327\"]",
+   "specialization": "327",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -36483,7 +36589,7 @@
    "expiry_date": "",
    "publish_date": "2025-06-26T14:45:12Z",
    "sector": "",
-   "specialization": "[\"107\"]",
+   "specialization": "107",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
