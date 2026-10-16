@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-16T11:22:05+00:00",
+ "generated_at": "2026-10-16T18:03:26+00:00",
  "source": "Business France — mon-vie-via.businessfrance.fr",
- "total_scanned": 864,
- "total_announced": 864,
- "total_kept": 378,
+ "total_scanned": 860,
+ "total_announced": 860,
+ "total_kept": 377,
  "threshold": 25,
  "axes": {
   "rd": {
@@ -413,7 +413,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T13:05:00Z",
    "sector": "",
-   "specialization": "60",
+   "specialization": "[\"60\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -1211,7 +1211,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-29T14:04:00Z",
    "sector": "",
-   "specialization": "60, 64, 77, 133, 162, 197, 224, 225",
+   "specialization": "[\"60\",\"64\",\"77\",\"133\",\"162\",\"197\",\"224\",\"225\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -2012,7 +2012,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T13:11:32Z",
    "sector": "",
-   "specialization": "60",
+   "specialization": "[\"60\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -2256,7 +2256,7 @@
    "expiry_date": "",
    "publish_date": "2025-11-19T10:45:12Z",
    "sector": "",
-   "specialization": "77, 149",
+   "specialization": "[\"77\",\"149\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -2380,7 +2380,7 @@
    "expiry_date": "",
    "publish_date": "2025-10-08T09:46:46Z",
    "sector": "",
-   "specialization": "77, 149",
+   "specialization": "[\"77\",\"149\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5303,7 +5303,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T07:31:41Z",
    "sector": "",
-   "specialization": "206",
+   "specialization": "[\"206\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5827,7 +5827,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T16:09:45Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6014,7 +6014,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-16T01:06:57Z",
    "sector": "",
-   "specialization": "60, 64, 76, 77, 110, 142, 224",
+   "specialization": "[\"60\",\"64\",\"76\",\"77\",\"110\",\"142\",\"224\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6133,7 +6133,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-20T19:24:50Z",
    "sector": "",
-   "specialization": "64, 65, 66, 77, 107, 150, 153, 207",
+   "specialization": "[\"64\",\"65\",\"66\",\"77\",\"107\",\"150\",\"153\",\"207\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6244,7 +6244,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-04T13:11:01Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6752,7 +6752,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-21T08:41:15Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6955,7 +6955,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-12T09:22:53Z",
    "sector": "",
-   "specialization": "66",
+   "specialization": "[\"66\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -7065,7 +7065,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-13T15:23:11Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -7378,7 +7378,7 @@
    "expiry_date": "",
    "publish_date": "2026-05-12T08:05:46Z",
    "sector": "",
-   "specialization": "66",
+   "specialization": "[\"66\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8387,7 +8387,7 @@
    "expiry_date": "",
    "publish_date": "2026-05-11T14:34:37Z",
    "sector": "",
-   "specialization": "123",
+   "specialization": "[\"123\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8589,7 +8589,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-19T12:40:33Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8671,7 +8671,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T15:29:09Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10311,7 +10311,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T08:00:24Z",
    "sector": "",
-   "specialization": "114",
+   "specialization": "[\"114\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10416,7 +10416,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-21T12:28:26Z",
    "sector": "",
-   "specialization": "73",
+   "specialization": "[\"73\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -11547,7 +11547,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-02T09:00:25Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -11732,7 +11732,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-01T16:15:18Z",
    "sector": "",
-   "specialization": "149",
+   "specialization": "[\"149\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12918,7 +12918,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-21T12:02:10Z",
    "sector": "",
-   "specialization": "66",
+   "specialization": "[\"66\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -13100,7 +13100,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-29T08:58:35Z",
    "sector": "",
-   "specialization": "60, 64, 65, 77, 133, 149, 264",
+   "specialization": "[\"60\",\"64\",\"65\",\"77\",\"133\",\"149\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -14030,7 +14030,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T13:49:58Z",
    "sector": "",
-   "specialization": "256",
+   "specialization": "[\"256\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -14124,7 +14124,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T13:45:25Z",
    "sector": "",
-   "specialization": "256",
+   "specialization": "[\"256\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -14659,7 +14659,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-05T14:50:45Z",
    "sector": "",
-   "specialization": "144",
+   "specialization": "[\"144\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -16208,7 +16208,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-21T06:56:06Z",
    "sector": "",
-   "specialization": "63, 86, 106, 113, 123, 134, 149, 169, 192, 256",
+   "specialization": "[\"63\",\"86\",\"106\",\"113\",\"123\",\"134\",\"149\",\"169\",\"192\",\"256\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -16493,6 +16493,114 @@
    ]
   },
   {
+   "id": "247146",
+   "title": "Chargé(e) de Développement Business Biochar / Région LATAM (H/F)",
+   "company": "HOLCIM INNOVATION CENTER",
+   "country": "MEXIQUE",
+   "city": "MEXICO",
+   "description": "Contextualisation et enjeux de la mission :\r\nLe biochar (charbon végétal issu de la pyrolyse de résidus de biomasse) constitue l’une des solutions les plus matures et performantes de Séquestration Durable du Carbone (CDR – Carbon Dioxide Removal), reconnu par le GIEC.\r\n\r\nEn transformant la biomasse résiduelle (déchets agricoles, résidus de transformation du café, etc) qui se décomposerait normalement en émettant du CO2 et du méthane, la technologie du biochar permet de :\r\n- Décarboner durablement : piéger le carbone capté par les plantes sous une forme stable pendant des milliers d’années et l’intégrer dans des matériaux de construction pour assurer son stockage\r\n- Créer de la valeur économique circulaire : valoriser des sous-produits agricoles inutilisés, générer de l’énergie renouvelable lors du procédé de pyrolyse et valoriser des crédits carbone de haute qualité\r\n\r\nMission proposée :\r\nRattaché(e) à l’équipe « Biochar Initiative » du Holcim Innovation Center (HIC) de Lyon, France et basé(e) au Mexique, vous aurez pour mission principale d’ancrer et de déployer nos activités de valorisation des déchets de biomasse et de fabrication de biochar sur la zone Amérique Latine. Vos responsabilités principales seront :\r\n1. Ancrage d’un projet pilote : suivre et déployer une opportunité partenariale avec un grand Groupe local (étude d’opportunité, coordination des discussions techniques et commerciales, montage du business plan et présentation du dossier d’investissement)\r\n2. Screening et cartographie : identifier plus largement les gisements de biomasse disponibles à travers la région LATAM en synergie avec les opérations du Groupe et évaluer les partenaires potentiels\r\n3. Développements de Business Cases : étudier, structurer et valider de nouveaux modèles d’affaires régionaux pour la valorisation des déchets organiques\r\n4. Reporting et Coordination : assurer le lien opérationnel entre la maison mère en France (HIC), les filiales locales et les partenaires stratégiques régionaux\r\nDéplacements possibles durant la mission dans les pays suivants : Pérou, Colombie, Argentine.",
+   "mission": "",
+   "profile": "Diplômé(e) d’une grande école de commerce avec une forte sensibilité business / développement durable. Vous êtes autonome, entrepreneur(se), proactif(ve), doté(e) de solides capacités d’analyse stratégique et d’une aisance relationnelle pour interagir avec des décideurs locaux et internationaux\n1 à 3 ans d’expérience (stages/alternance inclus) en développement business, gestion de projet, conseil stratégique, idéalement dans le secteur de l’environnement/énergie\nSpécialisation Développement business, économie circulaire, stratégie, gestion de projets internationaux\nLangues parlées Espagnol : courant / bilingue (impératif pour les négociations locales), Anglais : courant (environnement de travail international)",
+   "duration": 24,
+   "start_date": "2027-02-01T00:00:00",
+   "end_date": "2029-02-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-16T09:06:06Z",
+   "sector": "",
+   "specialization": "[\"195\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-16T09:06:06Z",
+    "missionStartDate": "2027-02-01T00:00:00",
+    "missionEndDate": "2029-02-01T00:00:00",
+    "startBroadcastDate": "2026-10-16T00:00:00",
+    "endBroadcastDate": "2026-11-15T00:00:00"
+   },
+   "summary": "Contextualisation et enjeux de la mission :\r\nLe biochar (charbon végétal issu de la pyrolyse de résidus de biomasse) constitue l’une des solutions les plus matures et performantes de Séquestration Durable du Carbone (CDR – Carbon Dioxide Removal), reconnu par le GIEC.\r\n\r\nEn transformant la biomasse résiduelle (déchets agricoles, résidus de transformation du café, etc) qui se décomposerait normalement en émettant du CO2 et du méthane, la technologie du biochar permet de :\r\n- Décarboner durablement : piéger le carbone capté par les plantes sous une forme stable pendant des milliers d’années et l’intégrer dans des matériaux de construction pour assurer son stockage\r\n- Créer de la valeur économique circulaire : valoriser des sous-produits agricoles inutilisés, générer de l’énergie renouvelable lors du procédé de pyrolyse et valoriser des crédits carbone de haute qualité\r\n\r\nMission proposée : […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247146",
+   "score": 35,
+   "label": "À examiner",
+   "first_seen": "2026-10-16T18:03:16+00:00",
+   "axis_scores": {
+    "rd": 37,
+    "prod": 45,
+    "qual": 8,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod4",
+     "axis": "prod",
+     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
+     "weight": 10,
+     "terms": [
+      "procede"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "fabrication"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "qualite"
+     ]
+    },
+    {
+     "id": "rd2",
+     "axis": "rd",
+     "source": "Propriétés mécaniques et physique des matériaux (262-1, 30 h), Critères de choix des matériaux (265-1, 15 h)",
+     "weight": 9,
+     "terms": [
+      "materiaux"
+     ]
+    },
+    {
+     "id": "rd7",
+     "axis": "rd",
+     "source": "Recyclage des matériaux (8 h), Éco-conception (842-1, 8 h), Enjeux DDRS (838-1, 20 h)",
+     "weight": 4,
+     "terms": [
+      "economie circulaire"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "energie"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    },
+    {
+     "label": "Formation exigée hors cursus : score plafonné",
+     "terms": [
+      "commerce",
+      "gestion"
+     ],
+     "points": -11,
+     "cap": 35
+    }
+   ]
+  },
+  {
    "id": "246804",
    "title": "CHARGÉ DE SUIVI OPÉRATIONNEL ET LEAN MANUFACTURING (H/F)",
    "company": "HUMEAU BEAUPREAU",
@@ -16730,7 +16838,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-28T09:57:45Z",
    "sector": "",
-   "specialization": "29",
+   "specialization": "[\"29\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -17625,98 +17733,6 @@
      ],
      "points": -14,
      "cap": 35
-    }
-   ]
-  },
-  {
-   "id": "246733",
-   "title": "Continuous Improvement Engineer (H/F)",
-   "company": "SERVIER INTERNATIONAL",
-   "country": "IRLANDE",
-   "city": "ARKLOW",
-   "description": "Leading French independent pharmaceutical Company, specialised in ethical medicinal products. 92% of Servier’s sales are achieved internationally, with several subsidiary companies abroad. We are looking for V.I.E’s, for our subsidiary in Arklow, Co. Wicklow, Ireland.\nDescription of the mission: \n\nReporting to the Operational Excellence (OpEx) Lead and working with other employees as appropriate, the CI Engineer will be responsible for the following tasks: \n \n• Support teams in using LEAN tools \n• Assist with the deployment of the visual performance program\n• Facilitate and guide employees in root cause problem-solving investigations\n• Help teams to analyse OEE losses, identify opportunities and with follow up action plans\n• Support SMED and changeover reduction projects by coaching teams to identify waste and establishing improved ways of working",
-   "mission": "",
-   "profile": "Educational background: University/Technical College\n\nSpecialization: Science/Production/LEAN\n\nField of study: Pharmaceutical, Manufacturing or Lean Management\n\nLanguages: English \n\nComputer skills: MS Office, MS Project, MS Power BI",
-   "duration": 12,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-06T12:34:53Z",
-   "sector": "",
-   "specialization": "86, 150, 244",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-06T12:34:53Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-06T00:00:00",
-    "endBroadcastDate": "2026-11-05T00:00:00"
-   },
-   "summary": "Leading French independent pharmaceutical Company, specialised in ethical medicinal products. 92% of Servier’s sales are achieved internationally, with several subsidiary companies abroad. We are looking for V.I.E’s, for our subsidiary in Arklow, Co. Wicklow, Ireland.\nDescription of the mission: \n\nReporting to the Operational Excellence (OpEx) Lead and working with other employees as appropriate, the CI Engineer will be responsible for the following tasks: \n \n• Support teams in using LEAN tools \n• Assist with the deployment of the visual performance program\n• Facilitate and guide employees in root cause problem-solving investigations\n• Help teams to analyse OEE losses, identify opportunities and with follow up action plans\n• Support SMED and changeover reduction projects by coaching teams to identify waste and establishing improved ways of working",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246733",
-   "score": 35,
-   "label": "À examiner",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 24,
-    "qual": 8,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod5",
-     "axis": "prod",
-     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
-     "weight": 4,
-     "terms": [
-      "lean",
-      "smed"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "continuous improvement",
-      "manufacturing"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "root cause"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "problem solving"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineer"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
     }
    ]
   },
@@ -18864,7 +18880,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-21T06:54:21Z",
    "sector": "",
-   "specialization": "63, 86, 106, 123, 192",
+   "specialization": "[\"63\",\"86\",\"106\",\"123\",\"192\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19427,7 +19443,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-15T08:25:53Z",
    "sector": "",
-   "specialization": "60",
+   "specialization": "[\"60\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19518,7 +19534,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-07T08:56:58Z",
    "sector": "",
-   "specialization": "60",
+   "specialization": "[\"60\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19609,7 +19625,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-02T12:56:05Z",
    "sector": "",
-   "specialization": "60",
+   "specialization": "[\"60\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20162,7 +20178,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-09T07:57:33Z",
    "sector": "",
-   "specialization": "65",
+   "specialization": "[\"65\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20419,7 +20435,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T09:12:56Z",
    "sector": "",
-   "specialization": "259",
+   "specialization": "[\"259\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20492,7 +20508,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-15T08:11:05Z",
    "sector": "",
-   "specialization": "153",
+   "specialization": "[\"153\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20838,7 +20854,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-09T06:50:12Z",
    "sector": "",
-   "specialization": "86, 256",
+   "specialization": "[\"86\",\"256\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21412,7 +21428,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T09:01:30Z",
    "sector": "",
-   "specialization": "251",
+   "specialization": "[\"251\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22090,7 +22106,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-12T08:39:45Z",
    "sector": "",
-   "specialization": "327",
+   "specialization": "[\"327\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22289,7 +22305,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-05T06:51:18Z",
    "sector": "",
-   "specialization": "109, 149, 150, 244, 264",
+   "specialization": "[\"109\",\"149\",\"150\",\"244\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -23535,7 +23551,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-12T13:41:19Z",
    "sector": "",
-   "specialization": "351",
+   "specialization": "[\"351\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25998,7 +26014,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-21T14:42:01Z",
    "sector": "",
-   "specialization": "2, 29, 60, 62, 63, 64, 65, 66, 68, 69, 70, 71, 72, 73, 76, 109, 114, 134, 138, 149, 150, 155, 158, 159, 160, 168, 169, 197, 205, 206, 207, 208, 209, 224, 225, 244, 248, 251, 262, 264, 330, 331, 358, 361",
+   "specialization": "[\"2\",\"29\",\"60\",\"62\",\"63\",\"64\",\"65\",\"66\",\"68\",\"69\",\"70\",\"71\",\"72\",\"73\",\"76\",\"109\",\"114\",\"134\",\"138\",\"149\",\"150\",\"155\",\"158\",\"159\",\"160\",\"168\",\"169\",\"197\",\"205\",\"206\",\"207\",\"208\",\"209\",\"224\",\"225\",\"244\",\"248\",\"251\",\"262\",\"264\",\"330\",\"331\",\"358\",\"361\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26473,7 +26489,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T10:01:20Z",
    "sector": "",
-   "specialization": "161",
+   "specialization": "[\"161\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26651,7 +26667,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-29T08:17:18Z",
    "sector": "",
-   "specialization": "209",
+   "specialization": "[\"209\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26876,7 +26892,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-12T07:40:30Z",
    "sector": "",
-   "specialization": "330",
+   "specialization": "[\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -28149,7 +28165,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-21T13:27:37Z",
    "sector": "",
-   "specialization": "73",
+   "specialization": "[\"73\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -28797,7 +28813,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-14T14:24:32Z",
    "sector": "",
-   "specialization": "328",
+   "specialization": "[\"328\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -28982,6 +28998,85 @@
      "terms": [],
      "points": -3,
      "cap": 30
+    }
+   ]
+  },
+  {
+   "id": "247153",
+   "title": "Ingénieur Chimiste – Biocarburants – Catalyse Hétérogène (H/F) – Belgique",
+   "company": "TOTALENERGIES ONETECH",
+   "country": "BELGIQUE",
+   "city": "FELUY",
+   "description": "Rejoignez les activités Recherche & Innovation de la branche OneTech au sein de notre filiale en Belgique à Feluy et contribuez au développement de carburants durables issus de la biomasse. \n\nMerci de candidater en anglais.\nVeuillez noter que le site de Feluy n'est pas accessible en transports en commun.\n\nVos principales missions :\n• Coordonner la préparation des campagnes d’essais de conversion de la lignine.\n• Superviser le déroulement des essais réalisés sur l’unité pilote.\n• Accompagner les équipes techniques lors des opérations expérimentales.\n• Assurer le suivi des paramètres opératoires dans le respect des règles HSE.\n• Analyser les résultats expérimentaux et évaluer les performances des catalyseurs.\n• Réaliser les bilans matières et proposer des pistes d’optimisation.\n• Présenter les résultats et collaborer avec les équipes projet ainsi que les partenaires externes.",
+   "mission": "",
+   "profile": "Vous êtes diplômé d’un Bac+5 minimum (école d’ingénieurs ou formation universitaire) avec une spécialisation en chimie ou génie chimique.\n\nUne première expérience en laboratoire acquise lors d'un projet académique, d’un stage, d'une alternance ou d’une expérience professionnelle constitue un atout. \n\nDes connaissances en conversion catalytique et catalyse hétérogène sont un plus.\n\nVous avez une bonne maîtrise du Pack Office, notamment Excel et PowerPoint.\n\nLa connaissance d'Aspen Plus ou d'outils similaires constitue un atout.\n\nUn niveau de français C1 minimum est requis. Un niveau d’anglais B2/C1 minimum est également demandé.",
+   "duration": 12,
+   "start_date": "2027-02-01T00:00:00",
+   "end_date": "2028-02-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-16T13:19:20Z",
+   "sector": "",
+   "specialization": "[\"63\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-16T13:19:20Z",
+    "missionStartDate": "2027-02-01T00:00:00",
+    "missionEndDate": "2028-02-01T00:00:00",
+    "startBroadcastDate": "2026-10-16T00:00:00",
+    "endBroadcastDate": "2026-11-15T00:00:00"
+   },
+   "summary": "Rejoignez les activités Recherche & Innovation de la branche OneTech au sein de notre filiale en Belgique à Feluy et contribuez au développement de carburants durables issus de la biomasse. \n\nMerci de candidater en anglais.\nVeuillez noter que le site de Feluy n'est pas accessible en transports en commun.\n\nVos principales missions :\n• Coordonner la préparation des campagnes d’essais de conversion de la lignine.\n• Superviser le déroulement des essais réalisés sur l’unité pilote.\n• Accompagner les équipes techniques lors des opérations expérimentales.\n• Assurer le suivi des paramètres opératoires dans le respect des règles HSE.\n• Analyser les résultats expérimentaux et évaluer les performances des catalyseurs.\n• Réaliser les bilans matières et proposer des pistes d’optimisation.\n• Présenter les résultats et collaborer avec les équipes projet ainsi que les partenaires externes.",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247153",
+   "score": 30,
+   "label": "Périphérique",
+   "first_seen": "2026-10-16T18:03:16+00:00",
+   "axis_scores": {
+    "rd": 9,
+    "prod": 0,
+    "qual": 8,
+    "calc": 0
+   },
+   "dominant_axis": "rd",
+   "matched_families": [
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "essais"
+     ]
+    },
+    {
+     "id": "rd9",
+     "axis": "rd",
+     "source": "Vocabulaire de laboratoire courant",
+     "weight": 3,
+     "terms": [
+      "laboratoire"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "ingenieur"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "chimie"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
     }
    ]
   },
@@ -29639,7 +29734,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-18T07:55:37Z",
    "sector": "",
-   "specialization": "155",
+   "specialization": "[\"155\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30308,7 +30403,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-21T14:46:23Z",
    "sector": "",
-   "specialization": "2, 60, 63, 64, 65, 66, 68, 69, 70, 71, 72, 73, 77, 80, 109, 113, 114, 117, 123, 125, 133, 137, 138, 139, 142, 143, 144, 145, 146, 147, 149, 150, 153, 155, 158, 159, 160, 161, 168, 169, 175, 197, 206, 207, 208, 209, 213, 224, 225, 226, 228, 244, 245, 246, 247, 248, 251, 256, 264, 311, 351, 354, 355, 356, 357, 358, 361, 365, 366, 367, 368, 369, 370, 371",
+   "specialization": "[\"2\",\"60\",\"63\",\"64\",\"65\",\"66\",\"68\",\"69\",\"70\",\"71\",\"72\",\"73\",\"77\",\"80\",\"109\",\"113\",\"114\",\"117\",\"123\",\"125\",\"133\",\"137\",\"138\",\"139\",\"142\",\"143\",\"144\",\"145\",\"146\",\"147\",\"149\",\"150\",\"153\",\"155\",\"158\",\"159\",\"160\",\"161\",\"168\",\"169\",\"175\",\"197\",\"206\",\"207\",\"208\",\"209\",\"213\",\"224\",\"225\",\"226\",\"228\",\"244\",\"245\",\"246\",\"247\",\"248\",\"251\",\"256\",\"264\",\"311\",\"351\",\"354\",\"355\",\"356\",\"357\",\"358\",\"361\",\"365\",\"366\",\"367\",\"368\",\"369\",\"370\",\"371\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30381,7 +30476,7 @@
    "expiry_date": "",
    "publish_date": "2026-01-12T10:58:19Z",
    "sector": "",
-   "specialization": "65",
+   "specialization": "[\"65\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31203,7 +31298,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-26T15:21:54Z",
    "sector": "",
-   "specialization": "6, 7, 21, 78, 130, 158, 195, 207, 244, 264",
+   "specialization": "[\"6\",\"7\",\"21\",\"78\",\"130\",\"158\",\"195\",\"207\",\"244\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33028,99 +33123,6 @@
    ]
   },
   {
-   "id": "246962",
-   "title": "HR Generalist (H/F)",
-   "company": "OPMOBILITY EXTERIOR SERVICES",
-   "country": "TCHEQUIE / REPUBLIQUE TCHEQUE",
-   "city": "NOVY JICIN",
-   "description": "VIE HR Development & People Analytics\n\nAs a VIE HR Development & People Analytics Specialist, you will support the implementation of talent development, learning, and workforce capability initiatives. You will play an active role in developing skill management processes, analyzing HR data, and supporting strategic workforce planning to ensure organizational readiness for future business needs.\nThis position offers a unique opportunity to combine HR analytics with employee development in an international manufacturing environment.\n\nMain Responsibilities\n\nPeople Analytics & HR Data\n- Analyze and consolidate HR data to support decision-making and workforce planning.\n- Prepare dashboards, reports, and KPIs related to learning, competencies, talent, and organizational capability.\n- Monitor trends and identify opportunities for improvement in employee development and workforce effectiveness.\n- Support HR digitalization and process optimization initiatives.\n- Skills Management & Competency Development\n- Support the deployment and maintenance of skill matrices across the organization.\n- Participate in competency mapping and workforce capability assessments.\n- Collaborate with managers to identify critical skills and future capability needs.\n- Contribute to succession planning and workforce development initiatives.\n\nLearning & Development\n- Coordinate learning and development activities\n- Monitor training effectiveness and learning KPIs.\n- Assist in promoting a learning culture and continuous development mindset.\n\nHR Projects & Continuous Improvement\n- Participate in international HR projects related to workforce transformation, skills development, and talent management.\n- Benchmark best practices and propose innovative solutions.\n- Support change management and communication activities linked to HR initiatives.\n- Collaborate with cross-functional teams and HR colleagues across different countries.",
-   "mission": "",
-   "profile": "You are a highly motivated young graduate from a business school or university with a strong interest for HR\n- Master's degree in Human Resources, Business Administration, Data Analytics, Psychology, Economics, or a related field\n- Technical Skills\n- Advanced Excel skills (Power Query, Pivot Tables, Data Analysis)\n- Knowledge of Power BI or other reporting tools is highly desirable\n- Strong interest in HR Analytics, Talent Management, and Learning & Development\n- Experience with HRIS systems is an advantage\n\nCompetencies\n- Strong analytical and problem-solving skills\n- Data-driven mindset with attention to detail\n- Ability to transform data into actionable insights\n- Excellent communication and stakeholder management skills\n- Curiosity, proactivity, and willingness to learn\n- Ability to work in an international and multicultural environment\n\nExpected Outcomes\n- Reliable HR dashboards and analytics supporting business decisions\n- Well-maintained skill matrices and competency frameworks\n- Increased visibility of workforce capabilities and development needs\n- Contribution to organizational capability building and future workforce readiness",
-   "duration": 24,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2029-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-12T10:16:24Z",
-   "sector": "",
-   "specialization": "144",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-12T10:16:24Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2029-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-15T00:00:00",
-    "endBroadcastDate": "2026-11-14T00:00:00"
-   },
-   "summary": "VIE HR Development & People Analytics\n\nAs a VIE HR Development & People Analytics Specialist, you will support the implementation of talent development, learning, and workforce capability initiatives. You will play an active role in developing skill management processes, analyzing HR data, and supporting strategic workforce planning to ensure organizational readiness for future business needs.\nThis position offers a unique opportunity to combine HR analytics with employee development in an international manufacturing environment.\n\nMain Responsibilities\n\nPeople Analytics & HR Data\n- Analyze and consolidate HR data to support decision-making and workforce planning.\n- Prepare dashboards, reports, and KPIs related to learning, competencies, talent, and organizational capability.\n- Monitor trends and identify opportunities for improvement in employee development and workforce effectiveness.\n- Support HR digitalization and process optimization initiatives.\n- Skills Management & Competency Development\n- Support the deployment and maintenance of skill matrices across the organization. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246962",
-   "score": 28,
-   "label": "Périphérique",
-   "first_seen": "2026-10-15T18:17:19+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 24,
-    "qual": 27,
-    "calc": 9
-   },
-   "dominant_axis": "qual",
-   "matched_families": [
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
-     "weight": 4,
-     "terms": [
-      "data analysis"
-     ]
-    },
-    {
-     "id": "prod5",
-     "axis": "prod",
-     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
-     "weight": 4,
-     "terms": [
-      "process optimization"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "continuous improvement",
-      "manufacturing"
-     ]
-    },
-    {
-     "id": "qual3",
-     "axis": "qual",
-     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
-     "weight": 7,
-     "terms": [
-      "capability"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "problem solving"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "247113",
    "title": "INGENIEUR LOGICIEL (H/F)",
    "company": "P.G.A ELECTRONIC",
@@ -33885,7 +33887,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T12:15:30Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34528,7 +34530,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-28T13:57:30Z",
    "sector": "",
-   "specialization": "68",
+   "specialization": "[\"68\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34923,7 +34925,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-24T07:55:08Z",
    "sector": "",
-   "specialization": "86, 123, 125, 150, 206, 208, 209, 264",
+   "specialization": "[\"86\",\"123\",\"125\",\"150\",\"206\",\"208\",\"209\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34998,7 +35000,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-24T07:52:59Z",
    "sector": "",
-   "specialization": "86, 208",
+   "specialization": "[\"86\",\"208\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -36274,90 +36276,6 @@
       "engineer"
      ],
      "points": 14
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
-   "id": "247058",
-   "title": "Supply Chain & Logistics Coordinator (H/F)",
-   "company": "VALEO ELECTRIFICATION",
-   "country": "MEXIQUE",
-   "city": "SAN LUIS POTOSI",
-   "description": "PLEASE NOTE: Your application must be submitted in English to be considered by our non-French speaking teams partners at Valeo worldwide. \r\n\r\n***\r\n\r\nJoin our teams mobilized to meet the challenge of accelerating electrification!\r\n\r\nAt the heart of electric mobility, Valeo Power brings together expertise in thermal management systems and propulsion systems. This division develops innovations that contribute to the mobility of tomorrow by reducing pollutant emissions and maximizing vehicle autonomy.\r\n\r\nThe site of San Luis Potosi based in Mexico belongs to the POWER Division. We are looking for a VIE Supply Chain & Logistics Coordinator for 12 months within the team.\r\n\r\nYour challenges?\r\n\r\n- You will analyze and draft AI prompts to optimize the Request for Proposal (RFQ) tool.\r\n- You will track key performance indicators (KPIs)—including EDI adoption, consignment rates, and SCCL—and develop action plans in collaboration with Supply Chain PTMs.\r\n- You will identify and implement automation solutions to streamline the workload for Supply Chain PTMs.\r\n- You will build a centralized packaging summary and database by product line in collaboration with packaging engineers and Supply Chain PTMs.\r\n- You will create and deliver training presentations on core supply chain topics, including customer demand integration, MPS/SIOP processes, and supplier EDI integration.",
-   "mission": "",
-   "profile": "Let’s talk about you…\n\n- You are graduated from a Master’s degree in Industrial Engineer/Supply Chain Engineering/Business Administration\n- You already have experience in Supply Chain & Logistics, Lean Manufacturing or Projects Management\n- You have a fluent level of English. Spanish is a plus\n- You have good communication skills, have an international mindset and are open-minded to new cultures and new ways of working and thinking\n- You are humble, listening, positive attitude oriented, professional, and have the sense of diplomacy \n- AI tools usage and knowledge of SAP is a plus\n\nPlease, don't forget to apply in English to facilitate the process with our managers. \n\nWhy Valeo?\n\nTo join a competitive group, a French pioneer in automotive innovation\nFor a dynamic career with possibilities for national or international mobility, adapted to your aspirations\nTo contribute to the development of greener mobility\n\nValeo places great importance on recruiting diverse profiles: we are open to all talents and we promote an inclusive and multicultural environment.",
-   "duration": 12,
-   "start_date": "2027-02-01T00:00:00",
-   "end_date": "2028-02-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-14T09:47:45Z",
-   "sector": "",
-   "specialization": "[\"244\"]",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-14T09:47:45Z",
-    "missionStartDate": "2027-02-01T00:00:00",
-    "missionEndDate": "2028-02-01T00:00:00",
-    "startBroadcastDate": "2026-10-15T00:00:00",
-    "endBroadcastDate": "2026-11-14T00:00:00"
-   },
-   "summary": "PLEASE NOTE: Your application must be submitted in English to be considered by our non-French speaking teams partners at Valeo worldwide. \r\n\r\n***\r\n\r\nJoin our teams mobilized to meet the challenge of accelerating electrification!\r\n\r\nAt the heart of electric mobility, Valeo Power brings together expertise in thermal management systems and propulsion systems. This division develops innovations that contribute to the mobility of tomorrow by reducing pollutant emissions and maximizing vehicle autonomy.\r\n\r\nThe site of San Luis Potosi based in Mexico belongs to the POWER Division. We are looking for a VIE Supply Chain & Logistics Coordinator for 12 months within the team.\r\n\r\nYour challenges?\r\n\r\n- You will analyze and draft AI prompts to optimize the Request for Proposal (RFQ) tool.\r\n- You will track key performance indicators (KPIs)—including EDI adoption, consignment rates, and SCCL—and develop action plans in collaboration with Supply Chain PTMs.\r\n- You will identify and implement automation solutions to streamline the workload for Supply Chain PTMs. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/247058",
-   "score": 26,
-   "label": "Périphérique",
-   "first_seen": "2026-10-15T18:17:19+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 24,
-    "qual": 0,
-    "calc": 9
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
-     "weight": 4,
-     "terms": [
-      "automation"
-     ]
-    },
-    {
-     "id": "prod5",
-     "axis": "prod",
-     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
-     "weight": 4,
-     "terms": [
-      "industrial engineer",
-      "lean"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "engineering",
-      "manufacturing"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "automotive",
-      "industrial"
-     ],
-     "points": 5
     },
     {
      "label": "Niveau bac+5 / ingénieur annoncé",
