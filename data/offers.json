@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-16T18:03:26+00:00",
+ "generated_at": "2026-10-17T13:45:00+00:00",
  "source": "Business France — mon-vie-via.businessfrance.fr",
- "total_scanned": 860,
- "total_announced": 860,
- "total_kept": 377,
+ "total_scanned": 850,
+ "total_announced": 850,
+ "total_kept": 374,
  "threshold": 25,
  "axes": {
   "rd": {
@@ -413,7 +413,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T13:05:00Z",
    "sector": "",
-   "specialization": "[\"60\"]",
+   "specialization": "60",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -681,7 +681,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T13:27:15Z",
    "sector": "",
-   "specialization": "[\"60\"]",
+   "specialization": "60",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -1100,7 +1100,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-02T06:59:08Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -1211,7 +1211,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-29T14:04:00Z",
    "sector": "",
-   "specialization": "[\"60\",\"64\",\"77\",\"133\",\"162\",\"197\",\"224\",\"225\"]",
+   "specialization": "60, 64, 77, 133, 162, 197, 224, 225",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -2012,7 +2012,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T13:11:32Z",
    "sector": "",
-   "specialization": "[\"60\"]",
+   "specialization": "60",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -2256,7 +2256,7 @@
    "expiry_date": "",
    "publish_date": "2025-11-19T10:45:12Z",
    "sector": "",
-   "specialization": "[\"77\",\"149\"]",
+   "specialization": "77, 149",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -2380,7 +2380,7 @@
    "expiry_date": "",
    "publish_date": "2025-10-08T09:46:46Z",
    "sector": "",
-   "specialization": "[\"77\",\"149\"]",
+   "specialization": "77, 149",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -2505,7 +2505,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-31T08:21:32Z",
    "sector": "",
-   "specialization": "[\"60\",\"64\",\"65\",\"77\"]",
+   "specialization": "60, 64, 65, 77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -4756,7 +4756,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-15T15:56:46Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -4971,7 +4971,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-13T14:28:25Z",
    "sector": "",
-   "specialization": "[\"76\"]",
+   "specialization": "76",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5081,7 +5081,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-10T08:20:34Z",
    "sector": "",
-   "specialization": "[\"63\",\"77\",\"109\",\"114\",\"125\",\"207\",\"262\",\"264\"]",
+   "specialization": "63, 77, 109, 114, 125, 207, 262, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5303,7 +5303,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T07:31:41Z",
    "sector": "",
-   "specialization": "[\"206\"]",
+   "specialization": "206",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5729,7 +5729,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-14T07:31:02Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5827,7 +5827,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T16:09:45Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6014,7 +6014,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-16T01:06:57Z",
    "sector": "",
-   "specialization": "[\"60\",\"64\",\"76\",\"77\",\"110\",\"142\",\"224\"]",
+   "specialization": "60, 64, 76, 77, 110, 142, 224",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6244,7 +6244,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-04T13:11:01Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6439,7 +6439,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-01T14:34:14Z",
    "sector": "",
-   "specialization": "[\"149\"]",
+   "specialization": "149",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6637,7 +6637,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T12:11:54Z",
    "sector": "",
-   "specialization": "[\"64\"]",
+   "specialization": "64",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6752,7 +6752,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-21T08:41:15Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6955,7 +6955,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-12T09:22:53Z",
    "sector": "",
-   "specialization": "[\"66\"]",
+   "specialization": "66",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -7065,7 +7065,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-13T15:23:11Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -7378,7 +7378,7 @@
    "expiry_date": "",
    "publish_date": "2026-05-12T08:05:46Z",
    "sector": "",
-   "specialization": "[\"66\"]",
+   "specialization": "66",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -7674,7 +7674,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-19T14:31:40Z",
    "sector": "",
-   "specialization": "[\"64\",\"76\",\"77\",\"149\",\"244\",\"264\"]",
+   "specialization": "64, 76, 77, 149, 244, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -7900,7 +7900,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-30T08:22:15Z",
    "sector": "",
-   "specialization": "[\"63\",\"86\",\"113\",\"123\",\"125\",\"155\",\"169\",\"366\"]",
+   "specialization": "63, 86, 113, 123, 125, 155, 169, 366",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8086,7 +8086,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T13:42:07Z",
    "sector": "",
-   "specialization": "[\"331\"]",
+   "specialization": "331",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8294,7 +8294,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-15T12:17:14Z",
    "sector": "",
-   "specialization": "[\"361\"]",
+   "specialization": "361",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8387,7 +8387,7 @@
    "expiry_date": "",
    "publish_date": "2026-05-11T14:34:37Z",
    "sector": "",
-   "specialization": "[\"123\"]",
+   "specialization": "123",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8480,7 +8480,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T13:08:26Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8589,7 +8589,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-19T12:40:33Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8671,7 +8671,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T15:29:09Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9441,112 +9441,6 @@
    ]
   },
   {
-   "id": "246039",
-   "title": "MECHANICAL DESIGN ENGINEER (H/F)",
-   "company": "SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE",
-   "country": "BELGIQUE",
-   "city": "LIEGE",
-   "description": "Présentation de la société :\n\nSII est une entreprise européenne spécialisée dans les services numériques et d’ingénierie, regroupant 16 000 experts. SII Belgique accompagne les grandes entreprises dans l’adoption des nouvelles technologies et la gestion de l’innovation. SII valorise l’autonomie et l’esprit entrepreneurial, offrant un environnement de travail épanouissant pour ses collaborateurs. Notre mission est de contribuer à la conception et au développement des produits et services de demain pour nos clients. SII s’engage pour un monde numérique durable et est reconnue comme un excellent lieu de travail.\n\nPoste et missions :\n\n- Créer des plans d’assemblage et des dessins détaillés de systèmes mécaniques\n- Modéliser des composants et des ensembles mécaniques en 3D (CAO) et produire des dessins 2D conformes aux normes industrielles et aux standards de l’entreprise.\n- Mettre à jour et améliorer les conceptions existantes en intégrant les retours des équipes d’ingénierie, de production et de qualité.\n- Participer aux revues de conception et apporter votre expertise sur la fabricabilité, les tolérances et les procédés d’assemblage.\n- Aider à préparer la documentation technique complète pour la fabrication et l’assemblage, incluant les plans, les nomenclatures et les instructions de montage.\n- Aider à la collaboration avec les fournisseurs et les équipes de production pour clarifier les plans techniques et résoudre les problèmes liés à la conception en phase de production.",
-   "mission": "",
-   "profile": "- Vous êtes titulaire d’un master en ingénierie mécanique, en conception automobile ou aéronautique/aérospatiale, ou disposez d’une expertise technique similaire.\n- Solide connaissance des pièces mécaniques et de la conception assistée par ordinateur (CAO).\n- Expérience dans l’utilisation des outils de CAO.\n- Excellente maîtrise de Catia. Creo ou SolidWorks sont un plus.",
-   "duration": 24,
-   "start_date": "2026-11-01T00:00:00",
-   "end_date": "2028-11-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-16T15:29:36Z",
-   "sector": "",
-   "specialization": "64",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-16T15:29:36Z",
-    "missionStartDate": "2026-11-01T00:00:00",
-    "missionEndDate": "2028-11-01T00:00:00",
-    "startBroadcastDate": "2026-09-16T00:00:00",
-    "endBroadcastDate": "2026-10-16T00:00:00"
-   },
-   "summary": "Présentation de la société :\n\nSII est une entreprise européenne spécialisée dans les services numériques et d’ingénierie, regroupant 16 000 experts. SII Belgique accompagne les grandes entreprises dans l’adoption des nouvelles technologies et la gestion de l’innovation. SII valorise l’autonomie et l’esprit entrepreneurial, offrant un environnement de travail épanouissant pour ses collaborateurs. Notre mission est de contribuer à la conception et au développement des produits et services de demain pour nos clients. SII s’engage pour un monde numérique durable et est reconnue comme un excellent lieu de travail.\n\nPoste et missions :\n\n- Créer des plans d’assemblage et des dessins détaillés de systèmes mécaniques\n- Modéliser des composants et des ensembles mécaniques en 3D (CAO) et produire des dessins 2D conformes aux normes industrielles et aux standards de l’entreprise.\n- Mettre à jour et améliorer les conceptions existantes en intégrant les retours des équipes d’ingénierie, de production et de qualité. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246039",
-   "score": 49,
-   "label": "À examiner",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 34,
-    "qual": 8,
-    "calc": 20
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "calc2",
-     "axis": "calc",
-     "source": "CAO (278-1, 30 h), Conception mécanique (264-1, 43 h)",
-     "weight": 9,
-     "terms": [
-      "cao",
-      "catia",
-      "creo",
-      "design engineer"
-     ]
-    },
-    {
-     "id": "prod3",
-     "axis": "prod",
-     "source": "Assemblage des matériaux (297-2, 30 h)",
-     "weight": 7,
-     "terms": [
-      "assemblage"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "fabrication",
-      "ingenierie"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "normes",
-      "qualite",
-      "standards"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineer",
-      "mechanical"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "aeronautique",
-      "automobile",
-      "mecanique"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "246637",
    "title": "MES Solution Architect (Apriso) (H/F)",
    "company": "CAPGEMINI TECHNOLOGY SERVICES",
@@ -9738,7 +9632,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-25T15:02:11Z",
    "sector": "",
-   "specialization": "[]",
+   "specialization": "",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9832,7 +9726,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-28T13:08:22Z",
    "sector": "",
-   "specialization": "[\"225\"]",
+   "specialization": "225",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10208,7 +10102,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-15T08:03:45Z",
    "sector": "",
-   "specialization": "[\"62\"]",
+   "specialization": "62",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10311,7 +10205,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T08:00:24Z",
    "sector": "",
-   "specialization": "[\"114\"]",
+   "specialization": "114",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10416,7 +10310,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-21T12:28:26Z",
    "sector": "",
-   "specialization": "[\"73\"]",
+   "specialization": "73",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10662,7 +10556,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T14:37:51Z",
    "sector": "",
-   "specialization": "[\"51\"]",
+   "specialization": "51",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10980,7 +10874,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T13:43:34Z",
    "sector": "",
-   "specialization": "[\"64\"]",
+   "specialization": "64",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -11270,7 +11164,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-28T13:10:22Z",
    "sector": "",
-   "specialization": "[\"262\"]",
+   "specialization": "262",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -11547,7 +11441,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-02T09:00:25Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -11806,7 +11700,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-20T15:03:01Z",
    "sector": "",
-   "specialization": "[\"73\"]",
+   "specialization": "73",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12185,7 +12079,7 @@
    "expiry_date": "",
    "publish_date": "2025-10-08T10:46:44Z",
    "sector": "",
-   "specialization": "[\"77\",\"149\",\"207\"]",
+   "specialization": "77, 149, 207",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12289,7 +12183,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-30T08:31:23Z",
    "sector": "",
-   "specialization": "65, 77",
+   "specialization": "[\"65\",\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12918,7 +12812,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-21T12:02:10Z",
    "sector": "",
-   "specialization": "[\"66\"]",
+   "specialization": "66",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -13100,7 +12994,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-29T08:58:35Z",
    "sector": "",
-   "specialization": "[\"60\",\"64\",\"65\",\"77\",\"133\",\"149\",\"264\"]",
+   "specialization": "60, 64, 65, 77, 133, 149, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -13195,7 +13089,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-12T13:36:38Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -14030,7 +13924,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T13:49:58Z",
    "sector": "",
-   "specialization": "[\"256\"]",
+   "specialization": "256",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -14124,7 +14018,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T13:45:25Z",
    "sector": "",
-   "specialization": "[\"256\"]",
+   "specialization": "256",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -14659,7 +14553,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-05T14:50:45Z",
    "sector": "",
-   "specialization": "[\"144\"]",
+   "specialization": "144",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -16208,7 +16102,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-21T06:56:06Z",
    "sector": "",
-   "specialization": "[\"63\",\"86\",\"106\",\"113\",\"123\",\"134\",\"149\",\"169\",\"192\",\"256\"]",
+   "specialization": "63, 86, 106, 113, 123, 134, 149, 169, 192, 256",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -16838,7 +16732,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-28T09:57:45Z",
    "sector": "",
-   "specialization": "[\"29\"]",
+   "specialization": "29",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -17847,7 +17741,7 @@
    "expiry_date": "",
    "publish_date": "2026-02-23T15:38:40Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -18788,7 +18682,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T11:27:28Z",
    "sector": "",
-   "specialization": "[\"259\"]",
+   "specialization": "259",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -18880,7 +18774,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-21T06:54:21Z",
    "sector": "",
-   "specialization": "[\"63\",\"86\",\"106\",\"123\",\"192\"]",
+   "specialization": "63, 86, 106, 123, 192",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -18965,7 +18859,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-22T13:27:06Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19137,7 +19031,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-15T13:38:37Z",
    "sector": "",
-   "specialization": "[\"73\",\"109\",\"149\",\"150\",\"206\",\"207\",\"262\",\"264\",\"330\"]",
+   "specialization": "73, 109, 149, 150, 206, 207, 262, 264, 330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19343,7 +19237,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T08:07:40Z",
    "sector": "",
-   "specialization": "[\"251\"]",
+   "specialization": "251",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19443,7 +19337,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-15T08:25:53Z",
    "sector": "",
-   "specialization": "[\"60\"]",
+   "specialization": "60",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19534,7 +19428,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-07T08:56:58Z",
    "sector": "",
-   "specialization": "[\"60\"]",
+   "specialization": "60",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19625,7 +19519,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-02T12:56:05Z",
    "sector": "",
-   "specialization": "[\"60\"]",
+   "specialization": "60",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19812,7 +19706,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T15:08:09Z",
    "sector": "",
-   "specialization": "[\"149\"]",
+   "specialization": "149",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20178,7 +20072,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-09T07:57:33Z",
    "sector": "",
-   "specialization": "[\"65\"]",
+   "specialization": "65",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20508,7 +20402,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-15T08:11:05Z",
    "sector": "",
-   "specialization": "[\"153\"]",
+   "specialization": "153",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20854,7 +20748,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-09T06:50:12Z",
    "sector": "",
-   "specialization": "[\"86\",\"256\"]",
+   "specialization": "86, 256",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21175,7 +21069,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-03T10:02:21Z",
    "sector": "",
-   "specialization": "[\"65\"]",
+   "specialization": "65",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21339,7 +21233,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T09:27:37Z",
    "sector": "",
-   "specialization": "[\"244\"]",
+   "specialization": "244",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21428,7 +21322,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T09:01:30Z",
    "sector": "",
-   "specialization": "[\"251\"]",
+   "specialization": "251",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21980,7 +21874,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-01T07:59:11Z",
    "sector": "",
-   "specialization": "[\"244\"]",
+   "specialization": "244",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22106,7 +22000,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-12T08:39:45Z",
    "sector": "",
-   "specialization": "[\"327\"]",
+   "specialization": "327",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22305,7 +22199,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-05T06:51:18Z",
    "sector": "",
-   "specialization": "[\"109\",\"149\",\"150\",\"244\",\"264\"]",
+   "specialization": "109, 149, 150, 244, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22677,7 +22571,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-05T23:42:57Z",
    "sector": "",
-   "specialization": "[\"329\"]",
+   "specialization": "329",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22901,7 +22795,7 @@
    "expiry_date": "",
    "publish_date": "2026-05-12T14:43:27Z",
    "sector": "",
-   "specialization": "[\"5\",\"21\",\"49\",\"86\",\"125\",\"144\",\"150\",\"155\",\"208\",\"209\",\"244\",\"256\",\"262\",\"264\"]",
+   "specialization": "5, 21, 49, 86, 125, 144, 150, 155, 208, 209, 244, 256, 262, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -23020,7 +22914,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-21T14:12:25Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -23739,112 +23633,6 @@
      "label": "Aucun terme industriel : score plafonné",
      "terms": [],
      "points": -11,
-     "cap": 30
-    }
-   ]
-  },
-  {
-   "id": "246028",
-   "title": "Analyste Supply Chain (H/F)",
-   "company": "COMPAGNIE DE SAINT-GOBAIN",
-   "country": "ROUMANIE",
-   "city": "BUCAREST",
-   "description": "Rejoignez Saint-Gobain Roumanie pour une mission VIE et contribuez à des projets stratégiques de transformation de la Supply Chain au sein d'un environnement industriel international.\n\nBasé(e) à Bucarest, vous participerez à l'optimisation des flux logistiques et des capacités de stockage pour plusieurs activités du Groupe, notamment Rigips et Weber.\n\nVotre mission contribuera directement à améliorer la performance opérationnelle, les niveaux de stock, les coûts logistiques et la qualité de service apportée à nos clients.\n\nCe VIE vous offrira une exposition unique à des enjeux concrets de logistique, de planification, de digitalisation et d'amélioration continue, au cœur des opérations de Saint-Gobain en Roumanie.\n\nVos missions principales :\n\nOptimisation des entrepôts et des flux logistiques\n\nAnalyser l'utilisation des capacités de stockage et identifier des pistes d'optimisation\nContribuer aux projets visant à améliorer la rotation des stocks et la disponibilité des produits\nÉvaluer l'impact des différentes solutions logistiques sur les coûts et le niveau de service\nParticiper à la mise en place de nouvelles infrastructures logistiques au niveau régional\nAnalyse de données et pilotage de la performance\n\nCollecter, consolider et analyser les données Supply Chain issues de différentes sources\nSuivre les principaux indicateurs de performance liés aux stocks, aux transports et aux opérations logistiques\nConstruire des reportings, tableaux de bord et analyses à destination du management\nIdentifier les tendances, risques et opportunités d'amélioration\nOptimisation du transport\n\nParticiper à l'analyse des schémas de transport actuels\nÉtudier de nouvelles solutions permettant d'optimiser les coûts et la performance logistique\nContribuer à des projets liés au transport multimodal et aux alternatives ferroviaires\nTransformation digitale et amélioration continue\n\nParticiper aux projets de digitalisation de la Supply Chain\nContribuer à l'automatisation et à l'amélioration des processus\nAccompagner les équipes dans l'adoption de nouveaux outils et méthodes de travail\nFormuler des recommandations basées sur les données et les analyses réalisées\nCollaboration transverse\n\nTravailler en étroite collaboration avec les équipes Supply Chain, Opérations, Customer Service, Finance, Digital et Logistique\nParticiper à des projets impliquant plusieurs entités de Saint-Gobain Roumanie\nPrésenter vos conclusions et recommandations aux différentes parties prenantes\n\nInformations complémentaires\n\nLocalisation : Bucarest, Roumanie\nContrat : VIE\nDurée : 12 mois renouvelables une fois\nDéplacements réguliers sur les sites industriels du Groupe, notamment à Turda\nOrganisation hybride : présence régulière sur site et télétravail selon les modalités de l'équipe",
-   "mission": "",
-   "profile": "Formation\n\nDiplôme d'Ingénieur ou Master (Bac+5)\nSpécialisation en Supply Chain, Logistique, Génie Industriel, Management des Opérations, Data Analytics, Statistiques, Mathématiques appliquées ou domaine similaire\nExpérience\n\nUne première expérience en Supply Chain, Logistique, Planification, Opérations, Achats ou Analyse de données\nLes stages et alternances sont valorisés\nCompétences techniques\n\nMaîtrise avancée d'Excel (tableaux croisés dynamiques, formules, analyses de données)\nBonne compréhension des concepts Supply Chain : stocks, planification, approvisionnement, logistique et transport\nUne connaissance de Power BI, Tableau ou d'outils similaires est un plus\nUne première expérience sur SAP ou un ERP équivalent serait appréciée\nCompétences comportementales\n\nNous recherchons avant tout une personne :\n\nAnalytique et orientée résolution de problèmes\nCurieuse et force de proposition\nAutonome et proactive\nCapable d'évoluer dans un environnement transversal\nÀ l'aise dans l'analyse et la communication de données\nOrganisée et rigoureuse\nIntéressée par les sujets d'amélioration continue et de transformation\nLangues\n\nAnglais courant indispensable",
-   "duration": 12,
-   "start_date": "2028-02-01T00:00:00",
-   "end_date": "2029-02-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-16T12:44:05Z",
-   "sector": "",
-   "specialization": "244",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-16T12:44:05Z",
-    "missionStartDate": "2028-02-01T00:00:00",
-    "missionEndDate": "2029-02-01T00:00:00",
-    "startBroadcastDate": "2026-09-16T00:00:00",
-    "endBroadcastDate": "2026-10-16T00:00:00"
-   },
-   "summary": "Rejoignez Saint-Gobain Roumanie pour une mission VIE et contribuez à des projets stratégiques de transformation de la Supply Chain au sein d'un environnement industriel international.\n\nBasé(e) à Bucarest, vous participerez à l'optimisation des flux logistiques et des capacités de stockage pour plusieurs activités du Groupe, notamment Rigips et Weber.\n\nVotre mission contribuera directement à améliorer la performance opérationnelle, les niveaux de stock, les coûts logistiques et la qualité de service apportée à nos clients.\n\nCe VIE vous offrira une exposition unique à des enjeux concrets de logistique, de planification, de digitalisation et d'amélioration continue, au cœur des opérations de Saint-Gobain en Roumanie. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246028",
-   "score": 30,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 10,
-    "qual": 34,
-    "calc": 9
-   },
-   "dominant_axis": "qual",
-   "matched_families": [
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
-     "weight": 4,
-     "terms": [
-      "automatisation"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "amelioration continue",
-      "methodes"
-     ]
-    },
-    {
-     "id": "qual3",
-     "axis": "qual",
-     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
-     "weight": 7,
-     "terms": [
-      "statistiques"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "qualite"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "resolution de problemes"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "industriel"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Aucun terme industriel : score plafonné",
-     "terms": [],
-     "points": -3,
      "cap": 30
     }
    ]
@@ -24705,7 +24493,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-30T08:26:59Z",
    "sector": "",
-   "specialization": "[\"86\",\"113\",\"125\",\"149\",\"169\"]",
+   "specialization": "86, 113, 125, 149, 169",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25280,7 +25068,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T09:30:50Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25631,7 +25419,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-21T06:56:59Z",
    "sector": "",
-   "specialization": "[\"86\",\"123\",\"125\",\"150\",\"256\",\"264\"]",
+   "specialization": "86, 123, 125, 150, 256, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25728,7 +25516,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-21T06:53:37Z",
    "sector": "",
-   "specialization": "[\"86\",\"123\",\"125\",\"256\"]",
+   "specialization": "86, 123, 125, 256",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26014,7 +25802,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-21T14:42:01Z",
    "sector": "",
-   "specialization": "[\"2\",\"29\",\"60\",\"62\",\"63\",\"64\",\"65\",\"66\",\"68\",\"69\",\"70\",\"71\",\"72\",\"73\",\"76\",\"109\",\"114\",\"134\",\"138\",\"149\",\"150\",\"155\",\"158\",\"159\",\"160\",\"168\",\"169\",\"197\",\"205\",\"206\",\"207\",\"208\",\"209\",\"224\",\"225\",\"244\",\"248\",\"251\",\"262\",\"264\",\"330\",\"331\",\"358\",\"361\"]",
+   "specialization": "2, 29, 60, 62, 63, 64, 65, 66, 68, 69, 70, 71, 72, 73, 76, 109, 114, 134, 138, 149, 150, 155, 158, 159, 160, 168, 169, 197, 205, 206, 207, 208, 209, 224, 225, 244, 248, 251, 262, 264, 330, 331, 358, 361",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26489,7 +26277,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T10:01:20Z",
    "sector": "",
-   "specialization": "[\"161\"]",
+   "specialization": "161",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26667,7 +26455,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-29T08:17:18Z",
    "sector": "",
-   "specialization": "[\"209\"]",
+   "specialization": "209",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26892,7 +26680,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-12T07:40:30Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27156,7 +26944,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-15T12:00:46Z",
    "sector": "",
-   "specialization": "[\"168\"]",
+   "specialization": "168",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27450,7 +27238,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-21T04:54:54Z",
    "sector": "",
-   "specialization": "[\"149\",\"327\",\"328\",\"329\"]",
+   "specialization": "149, 327, 328, 329",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27563,7 +27351,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-07T17:17:39Z",
    "sector": "",
-   "specialization": "[\"52\",\"63\",\"118\",\"125\",\"168\",\"225\",\"256\"]",
+   "specialization": "52, 63, 118, 125, 168, 225, 256",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27847,7 +27635,7 @@
    "expiry_date": "",
    "publish_date": "2026-03-05T13:22:50Z",
    "sector": "",
-   "specialization": "251",
+   "specialization": "[\"251\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -28078,7 +27866,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-06T08:59:23Z",
    "sector": "",
-   "specialization": "[\"327\"]",
+   "specialization": "327",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -28165,7 +27953,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-21T13:27:37Z",
    "sector": "",
-   "specialization": "[\"73\"]",
+   "specialization": "73",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -28353,7 +28141,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-13T10:05:29Z",
    "sector": "",
-   "specialization": "[\"155\"]",
+   "specialization": "155",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -28813,7 +28601,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-14T14:24:32Z",
    "sector": "",
-   "specialization": "[\"328\"]",
+   "specialization": "328",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29734,7 +29522,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-18T07:55:37Z",
    "sector": "",
-   "specialization": "[\"155\"]",
+   "specialization": "155",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30403,7 +30191,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-21T14:46:23Z",
    "sector": "",
-   "specialization": "[\"2\",\"60\",\"63\",\"64\",\"65\",\"66\",\"68\",\"69\",\"70\",\"71\",\"72\",\"73\",\"77\",\"80\",\"109\",\"113\",\"114\",\"117\",\"123\",\"125\",\"133\",\"137\",\"138\",\"139\",\"142\",\"143\",\"144\",\"145\",\"146\",\"147\",\"149\",\"150\",\"153\",\"155\",\"158\",\"159\",\"160\",\"161\",\"168\",\"169\",\"175\",\"197\",\"206\",\"207\",\"208\",\"209\",\"213\",\"224\",\"225\",\"226\",\"228\",\"244\",\"245\",\"246\",\"247\",\"248\",\"251\",\"256\",\"264\",\"311\",\"351\",\"354\",\"355\",\"356\",\"357\",\"358\",\"361\",\"365\",\"366\",\"367\",\"368\",\"369\",\"370\",\"371\"]",
+   "specialization": "2, 60, 63, 64, 65, 66, 68, 69, 70, 71, 72, 73, 77, 80, 109, 113, 114, 117, 123, 125, 133, 137, 138, 139, 142, 143, 144, 145, 146, 147, 149, 150, 153, 155, 158, 159, 160, 161, 168, 169, 175, 197, 206, 207, 208, 209, 213, 224, 225, 226, 228, 244, 245, 246, 247, 248, 251, 256, 264, 311, 351, 354, 355, 356, 357, 358, 361, 365, 366, 367, 368, 369, 370, 371",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30476,7 +30264,7 @@
    "expiry_date": "",
    "publish_date": "2026-01-12T10:58:19Z",
    "sector": "",
-   "specialization": "[\"65\"]",
+   "specialization": "65",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30547,7 +30335,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-29T12:47:52Z",
    "sector": "",
-   "specialization": "[\"6\",\"7\"]",
+   "specialization": "6, 7",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30860,7 +30648,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-09T13:29:13Z",
    "sector": "",
-   "specialization": "[\"107\"]",
+   "specialization": "107",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31008,7 +30796,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-15T11:00:53Z",
    "sector": "",
-   "specialization": "[\"247\"]",
+   "specialization": "247",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31078,7 +30866,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-09T13:01:31Z",
    "sector": "",
-   "specialization": "[\"65\",\"66\",\"71\",\"77\",\"153\",\"225\"]",
+   "specialization": "65, 66, 71, 77, 153, 225",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31223,7 +31011,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-14T12:45:10Z",
    "sector": "",
-   "specialization": "[\"206\"]",
+   "specialization": "206",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31298,7 +31086,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-26T15:21:54Z",
    "sector": "",
-   "specialization": "[\"6\",\"7\",\"21\",\"78\",\"130\",\"158\",\"195\",\"207\",\"244\",\"264\"]",
+   "specialization": "6, 7, 21, 78, 130, 158, 195, 207, 244, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31368,7 +31156,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-07T17:18:27Z",
    "sector": "",
-   "specialization": "[\"60\",\"65\",\"66\",\"71\",\"77\",\"110\",\"142\",\"149\"]",
+   "specialization": "60, 65, 66, 71, 77, 110, 142, 149",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31886,7 +31674,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-12T13:45:29Z",
    "sector": "",
-   "specialization": "[\"29\"]",
+   "specialization": "29",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32438,7 +32226,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T08:20:52Z",
    "sector": "",
-   "specialization": "[\"64\"]",
+   "specialization": "64",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32889,7 +32677,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-07T10:47:34Z",
    "sector": "",
-   "specialization": "[\"247\"]",
+   "specialization": "247",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33137,7 +32925,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-15T08:40:23Z",
    "sector": "",
-   "specialization": "[\"60\"]",
+   "specialization": "60",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33887,7 +33675,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T12:15:30Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34290,7 +34078,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-09T08:32:06Z",
    "sector": "",
-   "specialization": "[\"244\"]",
+   "specialization": "244",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34364,7 +34152,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-15T14:51:50Z",
    "sector": "",
-   "specialization": "[\"251\"]",
+   "specialization": "251",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34839,78 +34627,6 @@
    ]
   },
   {
-   "id": "246030",
-   "title": "Software Update Engineer (H/F)",
-   "company": "ALTEN",
-   "country": "ETATS-UNIS",
-   "city": "TROY -MI-",
-   "description": "Key Responsibilities\n• Coordinate and perform vehicle software updates including OTA and service-level software deployments.\n• Analyze vehicle electrical, networking, and software-related concerns.\n• Review CAN, LIN, Ethernet, and vehicle communication logs.\n• Coordinate software implementation activities across multiple regions and organizations.\n• Creating reports on SW-updates and fleet coverage\n• Provide weekly operational status reports and executive summaries.\n• Support launch activities and vehicle readiness reviews.\nDrive issue resolution to closure and verify effectiveness of corrective actions",
-   "mission": "",
-   "profile": "- Bachelor's or Master’s degree in Electrical Engineering, Mechatronics, or related field\n- System Requirements Analysis & Tools (e.g. Doors)\n- Communication Protocols (CAN/LIN/Ethernet)\n- good communication skills as this person is in daily customer contact\n- well presenting themself as soft skill \n- Autonomy & Problem solving\n- good English level in writing and oral (at least B2)\n- practical experience working as intern or working student\n\nPlus:\n- OEM experience, ASIL\n- ASPICE",
-   "duration": 24,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2028-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-16T13:29:17Z",
-   "sector": "",
-   "specialization": "110",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-16T13:29:17Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2028-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-16T00:00:00",
-    "endBroadcastDate": "2026-10-16T00:00:00"
-   },
-   "summary": "Key Responsibilities\n• Coordinate and perform vehicle software updates including OTA and service-level software deployments.\n• Analyze vehicle electrical, networking, and software-related concerns.\n• Review CAN, LIN, Ethernet, and vehicle communication logs.\n• Coordinate software implementation activities across multiple regions and organizations.\n• Creating reports on SW-updates and fleet coverage\n• Provide weekly operational status reports and executive summaries.\n• Support launch activities and vehicle readiness reviews.\nDrive issue resolution to closure and verify effectiveness of corrective actions",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246030",
-   "score": 26,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 10,
-    "qual": 0,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "engineering"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "problem solving"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineer"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "242569",
    "title": "INGÉNIEUR(E) QA PHARMACEUTIQUE (H/F)",
    "company": "DAVIDSON NORD",
@@ -34925,7 +34641,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-24T07:55:08Z",
    "sector": "",
-   "specialization": "[\"86\",\"123\",\"125\",\"150\",\"206\",\"208\",\"209\",\"264\"]",
+   "specialization": "86, 123, 125, 150, 206, 208, 209, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35000,7 +34716,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-24T07:52:59Z",
    "sector": "",
-   "specialization": "[\"86\",\"208\"]",
+   "specialization": "86, 208",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35168,7 +34884,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-30T08:55:36Z",
    "sector": "",
-   "specialization": "[\"63\",\"86\",\"113\",\"123\",\"125\",\"149\",\"155\",\"169\",\"366\"]",
+   "specialization": "63, 86, 113, 123, 125, 149, 155, 169, 366",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35402,7 +35118,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-28T07:56:10Z",
    "sector": "",
-   "specialization": "[\"208\"]",
+   "specialization": "208",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35573,7 +35289,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-09T13:44:09Z",
    "sector": "",
-   "specialization": "[\"35\",\"144\",\"245\",\"246\",\"248\",\"249\",\"251\"]",
+   "specialization": "35, 144, 245, 246, 248, 249, 251",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35718,7 +35434,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-29T09:14:24Z",
    "sector": "",
-   "specialization": "[\"246\"]",
+   "specialization": "246",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35792,7 +35508,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-06T08:57:05Z",
    "sector": "",
-   "specialization": "[\"327\"]",
+   "specialization": "327",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35864,7 +35580,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-06T08:54:04Z",
    "sector": "",
-   "specialization": "327",
+   "specialization": "[\"327\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -36299,7 +36015,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-18T08:08:01Z",
    "sector": "",
-   "specialization": "[\"62\"]",
+   "specialization": "62",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -36444,7 +36160,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T11:31:02Z",
    "sector": "",
-   "specialization": "[\"259\"]",
+   "specialization": "259",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
