@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-17T13:45:00+00:00",
+ "generated_at": "2026-10-18T14:02:39+00:00",
  "source": "Business France — mon-vie-via.businessfrance.fr",
- "total_scanned": 850,
- "total_announced": 850,
- "total_kept": 374,
+ "total_scanned": 830,
+ "total_announced": 830,
+ "total_kept": 366,
  "threshold": 25,
  "axes": {
   "rd": {
@@ -1100,7 +1100,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-02T06:59:08Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -2012,7 +2012,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T13:11:32Z",
    "sector": "",
-   "specialization": "60",
+   "specialization": "[\"60\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -2256,7 +2256,7 @@
    "expiry_date": "",
    "publish_date": "2025-11-19T10:45:12Z",
    "sector": "",
-   "specialization": "77, 149",
+   "specialization": "[\"77\",\"149\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -2380,7 +2380,7 @@
    "expiry_date": "",
    "publish_date": "2025-10-08T09:46:46Z",
    "sector": "",
-   "specialization": "77, 149",
+   "specialization": "[\"77\",\"149\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -2865,7 +2865,7 @@
    "expiry_date": "",
    "publish_date": "2026-03-03T08:40:40Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -3235,7 +3235,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-09T12:47:59Z",
    "sector": "",
-   "specialization": "65, 66, 73, 110, 153, 160",
+   "specialization": "[\"65\",\"66\",\"73\",\"110\",\"153\",\"160\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -3565,127 +3565,6 @@
       "industrial"
      ],
      "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
-   "id": "244971",
-   "title": "RESPONSABLE PREPARATION METHODES H/F (H/F)",
-   "company": "FOSELEV INTERNATIONAL",
-   "country": "GABON",
-   "city": "PORT GENTIL",
-   "description": "Contexte :\n\nFOSELEV GABON recherche un Responsable Préparation Méthodes H/F pour son agence de PORT GENTIL en VIE pour une durée de 24 mois.\n\nVos missions :\n\nVous devez notamment :\n\nPréparer les dossiers techniques de travaux (DPT) à partir des plans, isométriques, PID et spécifications client.\nÉlaborer les gammes opératoires, modes opératoires de soudage (MOS/WPS) et instructions de fabrication.\nDéfinir les besoins en matériaux, consommables et outillages, et assurer leur suivi avec les fournisseurs et le client.\nOptimiser les méthodes de préfabrication, les séquences de montage et les moyens d'intervention sur site.\nPréparer et suivre les activités de tuyauterie industrielle dans le respect des normes et des classes de tuyauterie.\nÉlaborer les dossiers de fabrication des équipements de chaudronnerie et garantir leur conformité technique.\nDéfinir et suivre les procédés de soudage adaptés, ainsi que les qualifications des procédures et des soudeurs.\nOrganiser et coordonner les contrôles qualité et essais (CND, épreuves de pression, contrôles dimensionnels) jusqu'à la validation des travaux.\nVous êtes est le garant de la préparation technique, méthodologique et documentaire de l'ensemble des travaux de tuyauterie industrielle, de chaudronnerie et de soudage réalisés.\n\nVous assurez l'interface entre le bureau d'études, les équipes de réalisation terrain et le client",
-   "mission": "",
-   "profile": "Ce poste est fait pour vous si :\n\nDiplômé(e) de l'Enseignement Supérieur dans la filière Métallurgie ou équivalent (Ingénieur ENSAM, POLYTECH...)\nPremière expérience significative dans une fonction similaire : 3 ans d'expérience comme Chargé d'Affaires Métallurgie / Tuyauterie / Chaudronnerie ou Maintenance dans une entreprise de services à l'Industrie\nAttirance et/ou expériences des déplacements à l'international\nVous avez un esprit Entrepreneurial , une envie d'apprendre, de forger des compétences et aptitudes de Manager\n\nFOSELEV est fait pour vous si :\n\nVous recherchez un esprit d'équipe et une cohésion familiale\nUne grande réactivité qui implique un pouvoir d'initiative fort\nUn accompagnement de vos ambitions professionnelles : c'est à vous de dessiner votre parcours professionnel.\n\nNotre process de recrutement :\n\nÉtape 1 : Entretien téléphonique avec Florian GOZLAN, le chargé de recrutement \n\nÉtape 2 : Entretien en visio avec le Responsable Opérationnel\n\nUne évaluation complémentaire (test technique...) peut vous être proposé en cours de processus.",
-   "duration": 24,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2029-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-07-29T08:29:00Z",
-   "sector": "",
-   "specialization": "107",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-07-29T08:29:00Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2029-01-01T00:00:00",
-    "startBroadcastDate": "2026-09-17T00:00:00",
-    "endBroadcastDate": "2026-10-17T00:00:00"
-   },
-   "summary": "Contexte :\n\nFOSELEV GABON recherche un Responsable Préparation Méthodes H/F pour son agence de PORT GENTIL en VIE pour une durée de 24 mois.\n\nVos missions :\n\nVous devez notamment :\n\nPréparer les dossiers techniques de travaux (DPT) à partir des plans, isométriques, PID et spécifications client.\nÉlaborer les gammes opératoires, modes opératoires de soudage (MOS/WPS) et instructions de fabrication.\nDéfinir les besoins en matériaux, consommables et outillages, et assurer leur suivi avec les fournisseurs et le client.\nOptimiser les méthodes de préfabrication, les séquences de montage et les moyens d'intervention sur site.\nPréparer et suivre les activités de tuyauterie industrielle dans le respect des normes et des classes de tuyauterie.\nÉlaborer les dossiers de fabrication des équipements de chaudronnerie et garantir leur conformité technique.\nDéfinir et suivre les procédés de soudage adaptés, ainsi que les qualifications des procédures et des soudeurs. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/244971",
-   "score": 68,
-   "label": "Bonne adéquation",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 60,
-    "prod": 34,
-    "qual": 38,
-    "calc": 20
-   },
-   "dominant_axis": "rd",
-   "matched_families": [
-    {
-     "id": "calc2",
-     "axis": "calc",
-     "source": "CAO (278-1, 30 h), Conception mécanique (264-1, 43 h)",
-     "weight": 9,
-     "terms": [
-      "bureau d'etudes"
-     ]
-    },
-    {
-     "id": "prod3",
-     "axis": "prod",
-     "source": "Assemblage des matériaux (297-2, 30 h)",
-     "weight": 7,
-     "terms": [
-      "soudage"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "fabrication",
-      "methodes"
-     ]
-    },
-    {
-     "id": "qual1",
-     "axis": "qual",
-     "source": "Contrôles non destructifs (781-1, 30 h)",
-     "weight": 8,
-     "terms": [
-      "cnd"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "conformite",
-      "essais",
-      "normes",
-      "qualite"
-     ]
-    },
-    {
-     "id": "rd1",
-     "axis": "rd",
-     "source": "Métallurgie 1 (280-1, 34 h), Métallurgie 2 (287-1, 45 h)",
-     "weight": 12,
-     "terms": [
-      "metallurgie"
-     ]
-    },
-    {
-     "id": "rd2",
-     "axis": "rd",
-     "source": "Propriétés mécaniques et physique des matériaux (262-1, 30 h), Critères de choix des matériaux (265-1, 15 h)",
-     "weight": 9,
-     "terms": [
-      "materiaux"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "methodes"
-     ],
-     "points": 14
     },
     {
      "label": "Niveau bac+5 / ingénieur annoncé",
@@ -4539,7 +4418,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T07:35:28Z",
    "sector": "",
-   "specialization": "155, 208, 209",
+   "specialization": "[\"155\",\"208\",\"209\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -4652,7 +4531,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-10T09:56:17Z",
    "sector": "",
-   "specialization": "[\"49\",\"63\",\"86\",\"125\",\"207\",\"208\",\"256\",\"366\"]",
+   "specialization": "49, 63, 86, 125, 207, 208, 256, 366",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5909,88 +5788,6 @@
       "mecanique"
      ],
      "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
-   "id": "245637",
-   "title": "Ingénieur(e) matériaux (H/F)",
-   "company": "MANUFACTURES DE MODE",
-   "country": "THAILANDE",
-   "city": "LAMPHUN",
-   "description": "- Faire un état des lieux des processus, procédures existantes\r\n- S’approprier les techniques de fonte spécifiques aux métiers de la bijouterie fantaisie et accessoires de mode\r\n- Être proactif/ve et animer les actions d’optimisation produits/process fonderie en transverse avec les différents services\r\n- Être acteur/trice de la transformation RSE dans nos produits à travers les process et matières premières\r\n- Être leader de l’implantation et déploiement des simulations numériques dans le cadre du plan d’action qui sera défini\r\n- Coordonner et suivre l’ensemble du plan d’action\r\n- Partager les résultats et les bonnes pratiques obtenus",
-   "mission": "",
-   "profile": "Idéalement de formation ingénieur avec une spécialisation fonderie et des connaissances en dynamique des fluides.​\nVous avez été reconnu(e) dans vos précédents stages/alternances (ou emplois) pour votre force de proposition et votre autonomie.​\nVotre aisance relationnelle, votre pédagogie et votre leadership vous permettrons de mener les projets confiés et d’accompagner le changement.​\nVous avez le goût du travail d’équipe, dans un environnement multiculturel.​\nVous maîtrisez les outils bureautiques (Word, Excel, Powerpoint) et vous avez des connaissances sur les logiciels de simulation de fonderie​\nUne bonne maîtrise de l'anglais est indispensable, un niveau débutant en Thaïlandais est un plus",
-   "duration": 12,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2027-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-07T08:04:53Z",
-   "sector": "",
-   "specialization": "160",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-07T08:04:53Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-17T00:00:00",
-    "endBroadcastDate": "2026-10-17T00:00:00"
-   },
-   "summary": "- Faire un état des lieux des processus, procédures existantes\r\n- S’approprier les techniques de fonte spécifiques aux métiers de la bijouterie fantaisie et accessoires de mode\r\n- Être proactif/ve et animer les actions d’optimisation produits/process fonderie en transverse avec les différents services\r\n- Être acteur/trice de la transformation RSE dans nos produits à travers les process et matières premières\r\n- Être leader de l’implantation et déploiement des simulations numériques dans le cadre du plan d’action qui sera défini\r\n- Coordonner et suivre l’ensemble du plan d’action\r\n- Partager les résultats et les bonnes pratiques obtenus",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/245637",
-   "score": 60,
-   "label": "Bonne adéquation",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 60,
-    "prod": 24,
-    "qual": 0,
-    "calc": 0
-   },
-   "dominant_axis": "rd",
-   "matched_families": [
-    {
-     "id": "prod2",
-     "axis": "prod",
-     "source": "Mise en forme par solidification (288-1, 20 h)",
-     "weight": 7,
-     "terms": [
-      "fonderie"
-     ]
-    },
-    {
-     "id": "rd1",
-     "axis": "rd",
-     "source": "Métallurgie 1 (280-1, 34 h), Métallurgie 2 (287-1, 45 h)",
-     "weight": 12,
-     "terms": [
-      "fonte"
-     ]
-    },
-    {
-     "id": "rd2",
-     "axis": "rd",
-     "source": "Propriétés mécaniques et physique des matériaux (262-1, 30 h), Critères de choix des matériaux (265-1, 15 h)",
-     "weight": 9,
-     "terms": [
-      "materiaux"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur",
-      "materiaux"
-     ],
-     "points": 14
     },
     {
      "label": "Niveau bac+5 / ingénieur annoncé",
@@ -7900,7 +7697,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-30T08:22:15Z",
    "sector": "",
-   "specialization": "63, 86, 113, 123, 125, 155, 169, 366",
+   "specialization": "[\"63\",\"86\",\"113\",\"123\",\"125\",\"155\",\"169\",\"366\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9157,7 +8954,7 @@
    "expiry_date": "",
    "publish_date": "2025-11-19T10:45:12Z",
    "sector": "",
-   "specialization": "77, 149, 207",
+   "specialization": "[\"77\",\"149\",\"207\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9544,7 +9341,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-10T15:03:12Z",
    "sector": "",
-   "specialization": "[\"209\"]",
+   "specialization": "209",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -11337,7 +11134,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-21T14:45:41Z",
    "sector": "",
-   "specialization": "60, 149, 150, 206, 207, 264",
+   "specialization": "[\"60\",\"149\",\"150\",\"206\",\"207\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -11626,7 +11423,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-01T16:15:18Z",
    "sector": "",
-   "specialization": "[\"149\"]",
+   "specialization": "149",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -11771,112 +11568,6 @@
      "label": "Niveau bac+5 / ingénieur annoncé",
      "terms": [],
      "points": 4
-    }
-   ]
-  },
-  {
-   "id": "246034",
-   "title": "Senior Quality Specialist General Medicine (H/F)",
-   "company": "SANOFI WINTHROP INDUSTRIE",
-   "country": "ETATS-UNIS",
-   "city": "FRAMINGHAM  -MA-",
-   "description": "About the job\n\nAs Senior Quality Specialist General Medicine VIE within our Quality System team, you’ll interact extensively with North American manufacturing/packaging sites, contract manufacturers, and with sites inside and outside the US which manufacture products that include all dosage forms for numerous global markets. You will work closely with the contractors, quality team, supply chain, Manufacturing Science and Technology (MSAT), regulatory, and other appropriate groups to ensure compliance and continuous improvement in quality functions to ensure compliance with Current Good Manufacturing Practices (cGMPs) and regulatory submissions.\n\nJoin a global network that powers how Sanofi delivers — seamlessly, purposefully, and at scale. In Manufacturing & Supply, you’ll help reimagine how life-changing treatments reach people everywhere, faster.\n\nReady to get started?\n\nAbout Sanofi\n\nWe’re an R&D-driven, AI-powered biopharma company committed to improving people’s lives and delivering compelling growth. Our deep understanding of the immune system – and innovative pipeline – enables us to invent medicines and vaccines that treat and protect millions of people around the world. Together, we chase the miracles of science to improve people’s lives. \n\nMain responsibilities:\n\n- Ensures the Quality and Regulatory compliance of products subcontracted to external entities on behalf of Sanofi in accordance with cGMPs and Sanofi Quality directives.\n- Ensures the efficiency of Quality System implemented between Sanofi and the sub-contractors ensuring relevant management for complaints, deviations, change controls, non-conformities, or any activity aiming to ensure the production, the control, and the release/disposition of products accordingly with Quality, regulatory, and procedural requirements.\n- Strengthens the Quality and Regulatory strategy particularly during crisis management and verify the implementation of the relevant action plans.\n- Support the External Manufacturing North America Audit program by working with and conducting contractor audits to assure compliance with Sanofi Quality Directives, (cGMPs, and regulatory filings. Leads or participates in the subcontractors’ audits and managers the CAPAs that follow.\n- Supports and manage projects assigned such as new product launch, onboarding/offboarding or subcontractors and products.\n- Identify and assist in the resolution of quality related issues that impact cGMP compliance, regulatory filing, or other risks to Sanofi products.\n- Develops and negotiates the subcontractors Quality Agreements defining the responsibilities between both parties and provides quality advice to subcontractors.\n\nWhy choose us?\n\n- Be part of a pioneering biopharma company where patient insights shape drug development.\n- Work at the forefront of AI-powered science that accelerates discovery and improves outcomes.\n- Collaborate beyond your expertise, sparking new ideas with diverse, multidisciplinary teams.\n- Shape the future of medicine and vaccine delivery with cutting-edge technology, ensuring seamless launches and a resilient global supply.\n- Power industry-leading performance by leveraging digital, data, and AI-driven innovation – at speed and scale.\n- Transform lives worldwide by delivering life-changing treatments anywhere, anytime.\n- Work with AI, robotics, and next-gen automation to redefine global manufacturing and supply.\n\niMove is a unique program tailored for European youth interested in challenging themselves with meaningful assignments across the globe. At Sanofi we have a strong ambition to invest in young talents who will drive the success of Sanofi tomorrow. \n\nSanofi’s Work Abroad Program, iMove, offers jobs-assignments with actual responsibilities and a perspective to grow. We provide those opportunities in various functions such as: marketing, finance, regulatory, supply chain, clinical trials, production, etc. and in more than 40 countries. Sanofi unites people who are passionate about solving healthcare needs across the world. Joining our iMove Work Abroad Program is a unique opportunity to make a difference through your work. \n\nPursue Progress. Discover Extraordinary. \n\nProgress doesn’t happen without people – people from different backgrounds, in different locations, doing different roles, all united by one thing: a desire to make miracles happen. You can be one of those people. Chasing change, embracing new ideas and exploring all the opportunities we have to offer. Let’s pursue progress. And let’s discover extraordinary together. \n\nAt Sanofi, we provide equal opportunities to all regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, or gender identity. \n\nWatch our ALL IN video and check out our Diversity Equity and Inclusion actions at sanofi.com!",
-   "mission": "",
-   "profile": "About you\n\nExperience:\n\n- 1-3 years in Pharmaceutical Operations or Quality Operations with the application of cGMPs in the Pharmaceutical or related regulated industry.\n- Experience in third party manufacturing Quality and Regulatory function and/or same plat experience.\n\nSoft and technical skills:\n\n- Excellent oral and written communication skills in cGMP documentation\n- Interpersonal skills to interface with suppliers and customers to develop privileged communications and relationships.\n- Excellent teamwork and negotiation skills in dealing with internal and external partners with the ability to lead and manage quality related projects.\n- Effectively communicate at all levels of associates in the Sanofi organization (from operator to vice president) or supplier and customer at all levels\n- The incumbent should possess significant technical knowledge related to typical Quality Assurance activities in the pharmaceutical and medical device industries, especially those related to handling product complaints and the associated regulations.\n- Thorough knowledge of GMP's and regulatory requirements.\n- Understanding of various drug product manufacturing including oral dosages, semi-solids, liquids, injectables, lyophilized and medical drug/device combinations.\n- Project management skills.\n\nEducation:\n\n- Bachelor’s degree in Science or related field.\n\nLanguages:\n\n- Fluent English (written & verbal).\n\nTo facilitate the examination of your application by our English-speaking managers, thank you for applying in English.",
-   "duration": 24,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2029-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-16T14:29:18Z",
-   "sector": "",
-   "specialization": "49, 86, 125",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-16T14:29:18Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2029-01-01T00:00:00",
-    "startBroadcastDate": "2026-09-17T00:00:00",
-    "endBroadcastDate": "2026-10-17T00:00:00"
-   },
-   "summary": "About the job\n\nAs Senior Quality Specialist General Medicine VIE within our Quality System team, you’ll interact extensively with North American manufacturing/packaging sites, contract manufacturers, and with sites inside and outside the US which manufacture products that include all dosage forms for numerous global markets. You will work closely with the contractors, quality team, supply chain, Manufacturing Science and Technology (MSAT), regulatory, and other appropriate groups to ensure compliance and continuous improvement in quality functions to ensure compliance with Current Good Manufacturing Practices (cGMPs) and regulatory submissions.\n\nJoin a global network that powers how Sanofi delivers — seamlessly, purposefully, and at scale. In Manufacturing & Supply, you’ll help reimagine how life-changing treatments reach people everywhere, faster.\n\nReady to get started?\n\nAbout Sanofi\n\nWe’re an R&D-driven, AI-powered biopharma company committed to improving people’s lives and delivering compelling growth. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246034",
-   "score": 42,
-   "label": "À examiner",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 34,
-    "qual": 23,
-    "calc": 9
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
-     "weight": 4,
-     "terms": [
-      "automation"
-     ]
-    },
-    {
-     "id": "prod6",
-     "axis": "prod",
-     "source": "Outils et moyens de fabrication (259-1, 30 h)",
-     "weight": 7,
-     "terms": [
-      "cutting"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "continuous improvement",
-      "manufacturing"
-     ]
-    },
-    {
-     "id": "qual2",
-     "axis": "qual",
-     "source": "Qualité et normes (774-1, 14 h, coefficient 0,5)",
-     "weight": 4,
-     "terms": [
-      "quality assurance"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "audit",
-      "compliance",
-      "quality"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "r&d"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "quality"
-     ],
-     "points": 14
     }
    ]
   },
@@ -12183,7 +11874,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-30T08:31:23Z",
    "sector": "",
-   "specialization": "[\"65\",\"77\"]",
+   "specialization": "65, 77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12641,7 +12332,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-10T12:08:07Z",
    "sector": "",
-   "specialization": "[\"71\"]",
+   "specialization": "71",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12902,7 +12593,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-31T08:22:25Z",
    "sector": "",
-   "specialization": "60, 149, 150, 206, 209, 244, 262, 264",
+   "specialization": "[\"60\",\"149\",\"150\",\"206\",\"209\",\"244\",\"262\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -14220,7 +13911,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-06T07:53:55Z",
    "sector": "",
-   "specialization": "[\"70\"]",
+   "specialization": "70",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -15014,7 +14705,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-08T11:09:48Z",
    "sector": "",
-   "specialization": "[\"149\",\"330\",\"355\"]",
+   "specialization": "149, 330, 355",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -15229,7 +14920,7 @@
    "expiry_date": "",
    "publish_date": "2025-11-12T08:45:10Z",
    "sector": "",
-   "specialization": "149, 208, 209",
+   "specialization": "[\"149\",\"208\",\"209\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -16509,7 +16200,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-07T15:09:37Z",
    "sector": "",
-   "specialization": "79, 150, 206, 207, 208",
+   "specialization": "[\"79\",\"150\",\"206\",\"207\",\"208\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -18027,7 +17718,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-12T09:05:26Z",
    "sector": "",
-   "specialization": "[\"327\"]",
+   "specialization": "327",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -18147,7 +17838,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-20T08:57:28Z",
    "sector": "",
-   "specialization": "[\"192\"]",
+   "specialization": "192",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -18859,7 +18550,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-22T13:27:06Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19237,7 +18928,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T08:07:40Z",
    "sector": "",
-   "specialization": "251",
+   "specialization": "[\"251\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19783,95 +19474,6 @@
    ]
   },
   {
-   "id": "238281",
-   "title": "Production Support Engineer (N2) – DevOps Environment (H/F)",
-   "company": "ASF ACT DIGITAL",
-   "country": "PORTUGAL",
-   "city": "LISBONNE",
-   "description": "Join our team and play a key role in ensuring the reliability, performance, and continuous improvement of our production environments.\r\n\r\nYour Mission\r\nAs part of our RUN OPEN team, you will ensure the operational readiness and stability of solutions, acting as an N2 support expert while contributing to automation, monitoring, and continuous improvement.\r\n\r\nKey Responsibilities\r\nProduction Operations & Scheduling\r\nDefine, plan, and execute batch jobs using Control-M\r\nMonitor processes in real time and ensure smooth execution\r\nHandle incidents (failures, dependency issues, SLA breaches)\r\n\r\nDaily Operations\r\nExecute and control production processes (Open & Control-M)\r\nPerform recovery actions in case of incidents\r\nManage system resources (disk space, queues, catalogs, etc.)\r\nMonitor and support file transfers, including incident handling\r\n\r\nSupport & Continuous Improvement\r\nProvide technical support to application teams\r\nOptimize batch workflows and improve performance\r\nParticipate in releases and change management\r\nPerform scheduled and ad-hoc interventions (including off-hours when required)\r\n\r\nDocumentation & Reporting\r\nCreate and maintain operational procedures and documentation\r\nEnsure up-to-date knowledge base\r\nProduce reports on availability and performance\r\n\r\nIntegration & DevOps Practices\r\nSupport solution delivery in coordination with Project Managers / ScrumOps\r\nAct as a technical integrator across systems\r\nEnsure adherence to DevOps best practices (automation, security, observability, culture)\r\n\r\nWhat We’re Looking For\r\nExperience in production support (N2 level)\r\nStrong knowledge of scheduling tools (Control-M preferred)\r\nFamiliarity with batch processing and incident management\r\nDevOps mindset with focus on automation and reliability\r\nStrong analytical and problem-solving skills",
-   "mission": "",
-   "profile": "We are looking for a proactive and detail-oriented professional with experience in production support (N2) and a strong DevOps mindset. Experience with tools like Control-M and knowledge of production environments are highly valued.\nThe candidate must speak English and French",
-   "duration": 12,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2027-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-03-26T16:26:49Z",
-   "sector": "",
-   "specialization": "245, 248, 249, 251, 330, 356",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-03-26T16:26:49Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-17T00:00:00",
-    "endBroadcastDate": "2026-10-17T00:00:00"
-   },
-   "summary": "Join our team and play a key role in ensuring the reliability, performance, and continuous improvement of our production environments.\r\n\r\nYour Mission\r\nAs part of our RUN OPEN team, you will ensure the operational readiness and stability of solutions, acting as an N2 support expert while contributing to automation, monitoring, and continuous improvement.\r\n\r\nKey Responsibilities\r\nProduction Operations & Scheduling\r\nDefine, plan, and execute batch jobs using Control-M\r\nMonitor processes in real time and ensure smooth execution\r\nHandle incidents (failures, dependency issues, SLA breaches)\r\n\r\nDaily Operations\r\nExecute and control production processes (Open & Control-M)\r\nPerform recovery actions in case of incidents\r\nManage system resources (disk space, queues, catalogs, etc.)\r\nMonitor and support file transfers, including incident handling\r\n\r\nSupport & Continuous Improvement\r\nProvide technical support to application teams\r\nOptimize batch workflows and improve performance\r\nParticipate in releases and change management […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/238281",
-   "score": 32,
-   "label": "Périphérique",
-   "first_seen": "2026-08-24T16:01:18+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 10,
-    "qual": 0,
-    "calc": 9
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
-     "weight": 4,
-     "terms": [
-      "automation"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "continuous improvement"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "problem solving"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineer",
-      "production"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "space"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "233039",
    "title": "INGENIEUR AUTOMATICIEN H/F (H/F)",
    "company": "EFE INTERNATIONAL",
@@ -19979,7 +19581,7 @@
    "expiry_date": "",
    "publish_date": "2025-10-08T09:46:46Z",
    "sector": "",
-   "specialization": "71, 73, 224",
+   "specialization": "[\"71\",\"73\",\"224\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20329,7 +19931,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T09:12:56Z",
    "sector": "",
-   "specialization": "[\"259\"]",
+   "specialization": "259",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22270,100 +21872,6 @@
    ]
   },
   {
-   "id": "238284",
-   "title": "Site Reliability Engineer (SRE) – Batch Operations (H/F)",
-   "company": "ASF ACT DIGITAL",
-   "country": "PORTUGAL",
-   "city": "LISBONNE",
-   "description": "Join our team and contribute to the reliability, performance, and continuous improvement of our production environments.\r\n\r\nYour Mission\r\nAs a DevOps Operations Engineer, you will ensure the operational readiness of applications in RUN OPEN environments, acting as an N2 support expert while driving automation, monitoring, and continuous improvement.\r\n\r\nKey Responsibilities\r\nOperations & Reliability (RUN)\r\nEnsure operational readiness of solutions (CMDB updates, documentation, obsolescence & vulnerability management)\r\nMaintain high availability and performance of production systems\r\n\r\nScheduling & Monitoring\r\nDefine, plan, and execute batch jobs using Control-M\r\nMonitor processes in real time\r\nManage incidents (failures, dependency issues, SLA breaches)\r\n\r\nDaily Operations\r\nExecute and control production processes (Open & Control-M)\r\nPerform recovery actions in case of incidents\r\nManage system resources (disk space, queues, catalogs, etc.)\r\nMonitor and handle file transfers and related incidents\r\n\r\nSupport & Continuous Improvement\r\nProvide technical support to application teams\r\nOptimize batch workflows and improve performance\r\nParticipate in releases and change management\r\nPerform scheduled and ad-hoc interventions (including off-hours when required)\r\n\r\nDocumentation & Reporting\r\nWrite and maintain operational procedures and documentation\r\nProduce reports on availability and performance\r\n\r\nIntegration & DevOps Practices\r\nSupport solution delivery in coordination with Project Managers / ScrumOps\r\nAct as a technical integrator across systems\r\nEnsure adherence to DevOps best practices (automation, security, observability)\r\n\r\nWhat We’re Looking For\r\nExperience in production support (N2) in Open environments\r\nStrong knowledge of Control-M and batch processing\r\nExperience with incident management and system operations\r\nDevOps mindset with focus on automation and reliability\r\nStrong analytical and problem-solving skills\r\n\r\nLanguages: Fluency in English and French is required",
-   "mission": "",
-   "profile": "We are looking for a proactive and detail-oriented professional with experience in production support (N2) within Open environments. A good understanding of DevOps practices (automation, security, observability, and culture) is expected, along with the ability to act as a technical integrator and support solution delivery in coordination with project teams (CP / ScrumOps).",
-   "duration": 12,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2027-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-03-26T17:06:15Z",
-   "sector": "",
-   "specialization": "29, 35, 247, 249, 251, 330, 331, 356",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-03-26T17:06:15Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-17T00:00:00",
-    "endBroadcastDate": "2026-10-17T00:00:00"
-   },
-   "summary": "Join our team and contribute to the reliability, performance, and continuous improvement of our production environments.\r\n\r\nYour Mission\r\nAs a DevOps Operations Engineer, you will ensure the operational readiness of applications in RUN OPEN environments, acting as an N2 support expert while driving automation, monitoring, and continuous improvement.\r\n\r\nKey Responsibilities\r\nOperations & Reliability (RUN)\r\nEnsure operational readiness of solutions (CMDB updates, documentation, obsolescence & vulnerability management)\r\nMaintain high availability and performance of production systems\r\n\r\nScheduling & Monitoring\r\nDefine, plan, and execute batch jobs using Control-M\r\nMonitor processes in real time\r\nManage incidents (failures, dependency issues, SLA breaches)\r\n\r\nDaily Operations\r\nExecute and control production processes (Open & Control-M)\r\nPerform recovery actions in case of incidents\r\nManage system resources (disk space, queues, catalogs, etc.)\r\nMonitor and handle file transfers and related incidents\r\n\r\nSupport & Continuous Improvement\r\nProvide technical support to application teams […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/238284",
-   "score": 30,
-   "label": "Périphérique",
-   "first_seen": "2026-08-24T16:01:18+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 10,
-    "qual": 0,
-    "calc": 9
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
-     "weight": 4,
-     "terms": [
-      "automation"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "continuous improvement"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "problem solving"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineer"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "space"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Aucun terme industriel : score plafonné",
-     "terms": [],
-     "points": -2,
-     "cap": 30
-    }
-   ]
-  },
-  {
    "id": "246213",
    "title": "Engineering Systems Support Engineer (H/F)",
    "company": "ASTEK FRANCE",
@@ -22571,7 +22079,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-05T23:42:57Z",
    "sector": "",
-   "specialization": "329",
+   "specialization": "[\"329\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -23010,7 +22518,7 @@
    "expiry_date": "",
    "publish_date": "2026-05-12T14:27:31Z",
    "sector": "",
-   "specialization": "325",
+   "specialization": "[\"325\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -23445,7 +22953,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-12T13:41:19Z",
    "sector": "",
-   "specialization": "[\"351\"]",
+   "specialization": "351",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -24405,7 +23913,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-21T09:47:43Z",
    "sector": "",
-   "specialization": "66, 71, 143",
+   "specialization": "[\"66\",\"71\",\"143\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25891,7 +25399,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-29T16:17:57Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26181,7 +25689,7 @@
    "expiry_date": "",
    "publish_date": "2026-03-17T15:45:44Z",
    "sector": "",
-   "specialization": "[\"144\"]",
+   "specialization": "144",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27042,7 +26550,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-09T09:43:27Z",
    "sector": "",
-   "specialization": "206",
+   "specialization": "[\"206\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27635,7 +27143,7 @@
    "expiry_date": "",
    "publish_date": "2026-03-05T13:22:50Z",
    "sector": "",
-   "specialization": "[\"251\"]",
+   "specialization": "251",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27866,7 +27374,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-06T08:59:23Z",
    "sector": "",
-   "specialization": "327",
+   "specialization": "[\"327\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -28601,7 +28109,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-14T14:24:32Z",
    "sector": "",
-   "specialization": "328",
+   "specialization": "[\"328\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -28804,7 +28312,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-16T13:19:20Z",
    "sector": "",
-   "specialization": "[\"63\"]",
+   "specialization": "63",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29522,7 +29030,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-18T07:55:37Z",
    "sector": "",
-   "specialization": "155",
+   "specialization": "[\"155\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29690,101 +29198,6 @@
      "terms": [],
      "points": -1,
      "cap": 30
-    }
-   ]
-  },
-  {
-   "id": "246067",
-   "title": "Operations officer, Custody Services (H/F)",
-   "company": "CACEIS",
-   "country": "MALAISIE",
-   "city": "SELANGOR",
-   "description": "CACEIS Malaysia has been a cornerstone of asset servicing since 2008, evolving into a trusted hub of operational excellence within the global CACEIS network. Strategically located in IOI City, Putrajaya, the company employs over 1,200 skilled professionals, providing a broad spectrum of services to institutional clients across Europe. These services include Custody & Cash Clearing, Fund Administration, Fund Distribution, Master Data Services, Market Solutions, Group Invoicing, Reconciliations and Private Equity & Real Estate Solutions. As a centre of excellence, CACEIS Malaysia plays a pivotal role in driving the scalability of global operations, enhancing service quality, and implementing standardized processes to meet the diverse needs of its clients. The dedicated team in Malaysia is committed to delivering reliable, high-quality solutions that empower clients to thrive in a dynamic and competitive financial landscape. \r\n\r\nWe invite you to join us as a VIE in our Custody Services Department.\r\n\r\nThe candidate will be in the position to: \r\n• Process receipt of Income payments within agreed service standards.\r\n• Full adherence to the team’s control functions, including operations/events and end-of-the-day checklists.\r\n• Assist with the day-to-day administrative tasks of investigation/amendment and clearance of reconciling items in ensuring accurate processing.\r\n• Ensure that queries raised/assigned to individuals are answered within agreed service standards.\r\n• Ensure on-going productivity by providing back-up relief for staff who are absent or on leave.\r\n• Continually ensure complete awareness of Client, external custodians and inter-departmental Service Level Standards / Agreements and ensure compliance at all times.\r\n• Ensure prompt escalation of operational issues that may cause financial or reputational issues to CACEIS or its clients to Senior Officer/Assistant Manager/Manager of the team/department. \r\n• Establish working relationships with people at all levels both inter departmental and across the wider firm.\r\n• Provide feedback on agent network and vendor performance on any deviations from their service level agreement with CACEIS.\r\n• Able to demonstrate capability to perform validation on common task.\r\n\r\nGood Reasons to Join Us \r\n1. Join an international banking group, a leader in asset servicing and a subsidiary of Credit Agricole. \r\n2. Develop stimulating working relationships and challenge your ideas in an environment conducive to innovation. \r\n3. Expand your professional horizons with numerous mobility opportunities within the group. \r\n4. Thrive in a company that respects its employees and clients. \r\n5. Take advantage of ongoing training to enhance your skills and boost your employability. \r\n6. Opportunity to work in a multicultural environment and engage with a diverse team.",
-   "mission": "",
-   "profile": "Experience:\r\n \r\nMust-have \r\n• Tertiary education in Business, Finance or relevant fields \r\n• Solid understanding on the financial/ banking services industry\r\n• Strong teamwork with the ability to work independently as well\r\n• Analytical thinking, attention to detail and a sense of urgency\r\n• Strong written and verbal communication skills\r\n• Strong computer literacy with programming/coding/VBA skills \r\n• Strong aptitude in Mathematics\r\n• Knowledge of Corporate Actions & SWIFT is a plus\r\nSkills: \r\n• Willingness to take on new challenges, confident and self-motivated\r\n• Flexible with an ability to cope with stress and pressure\r\n• High level of curiosity, self-confidence and assertiveness\r\n• Good interpersonal skills and networking abilities with sub-custodians and internal departments\r\n• MS Office skills (word; EXCEL, PowerPoint, outlook) – each well developed\r\n• Systematic and experienced handling of Database (high volumes)\r\n \r\nIT Tools: \r\n• User of Microsoft Office applications\r\n• Knowledge of VBA, Access, SQL, and advanced Excel is a plus\r\n \r\nLanguages: Professional English\r\n\r\nPlease send your resume in English",
-   "duration": 12,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-17T09:25:07Z",
-   "sector": "",
-   "specialization": "180, 259, 318, 320",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-17T09:25:07Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-09-17T00:00:00",
-    "endBroadcastDate": "2026-10-17T00:00:00"
-   },
-   "summary": "CACEIS Malaysia has been a cornerstone of asset servicing since 2008, evolving into a trusted hub of operational excellence within the global CACEIS network. Strategically located in IOI City, Putrajaya, the company employs over 1,200 skilled professionals, providing a broad spectrum of services to institutional clients across Europe. These services include Custody & Cash Clearing, Fund Administration, Fund Distribution, Master Data Services, Market Solutions, Group Invoicing, Reconciliations and Private Equity & Real Estate Solutions. As a centre of excellence, CACEIS Malaysia plays a pivotal role in driving the scalability of global operations, enhancing service quality, and implementing standardized processes to meet the diverse needs of its clients. The dedicated team in Malaysia is committed to delivering reliable, high-quality solutions that empower clients to thrive in a dynamic and competitive financial landscape. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246067",
-   "score": 29,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 14,
-    "qual": 34,
-    "calc": 9
-   },
-   "dominant_axis": "qual",
-   "matched_families": [
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
-     "weight": 4,
-     "terms": [
-      "vba"
-     ]
-    },
-    {
-     "id": "prod5",
-     "axis": "prod",
-     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
-     "weight": 4,
-     "terms": [
-      "productivity"
-     ]
-    },
-    {
-     "id": "qual3",
-     "axis": "qual",
-     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
-     "weight": 7,
-     "terms": [
-      "capability"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "compliance",
-      "quality",
-      "standards",
-      "validation"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "investigation"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
     }
    ]
   },
@@ -30406,7 +29819,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-16T10:04:59Z",
    "sector": "",
-   "specialization": "259",
+   "specialization": "[\"259\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30499,7 +29912,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-23T07:37:46Z",
    "sector": "",
-   "specialization": "318",
+   "specialization": "[\"318\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31323,7 +30736,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-15T14:49:18Z",
    "sector": "",
-   "specialization": "[\"208\"]",
+   "specialization": "208",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31914,7 +31327,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T08:10:26Z",
    "sector": "",
-   "specialization": "238",
+   "specialization": "[\"238\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31992,7 +31405,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T08:06:58Z",
    "sector": "",
-   "specialization": "238",
+   "specialization": "[\"238\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33335,7 +32748,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-17T15:23:20Z",
    "sector": "",
-   "specialization": "110",
+   "specialization": "[\"110\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33387,90 +32800,6 @@
      "weight": 3,
      "terms": [
       "problem solving"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineer"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
-   "id": "237988",
-   "title": "Mid Test Automation Engineer / QAE (H/F)",
-   "company": "ASF ACT DIGITAL",
-   "country": "PORTUGAL",
-   "city": "LISBONNE",
-   "description": "We are looking for a Test Automation Engineer to act within a Test Factory, driving automation strategy, asset development, and continuous improvement.\r\nThis role combines hands-on test automation, DevOps practices, supporting teams in building robust, scalable, and maintainable automated testing solutions.\r\n\r\nKey Responsibilities\r\nTest Automation & Quality\r\nDesign, develop, and maintain automated test cases following best practices and standards\r\nEnsure automated test coverage for:\r\nAPIs\r\nFrontend applications\r\nAnalyze and resolve defects related to automated tests\r\nKeep automated tests up to date and executable in operational conditions\r\n\r\nCI/CD & DevOps Integration\r\nEnsure automated tests are fully integrated into CI/CD pipelines\r\nCreate and maintain Jenkins jobs and pipelines\r\nWork with GitLab, SonarQube, and Nexus within the CI/CD chain\r\nContribute to DevOps best practices across the testing lifecycle\r\n\r\nRequired Skills & Experience\r\nStrong expertise with Robot Framework\r\nExperience in automated API and frontend testing\r\nSolid understanding of CI/CD pipelines\r\nPython\r\nGitLab\r\nJenkins\r\nSonarQube\r\nNexus",
-   "mission": "",
-   "profile": "We are looking for a Test Automation Engineer that speaks English and French",
-   "duration": 12,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2027-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-03-16T16:54:32Z",
-   "sector": "",
-   "specialization": "247, 248, 249, 251, 328, 329, 330, 331",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-03-16T16:54:32Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-17T00:00:00",
-    "endBroadcastDate": "2026-10-17T00:00:00"
-   },
-   "summary": "We are looking for a Test Automation Engineer to act within a Test Factory, driving automation strategy, asset development, and continuous improvement.\r\nThis role combines hands-on test automation, DevOps practices, supporting teams in building robust, scalable, and maintainable automated testing solutions.\r\n\r\nKey Responsibilities\r\nTest Automation & Quality\r\nDesign, develop, and maintain automated test cases following best practices and standards\r\nEnsure automated test coverage for:\r\nAPIs\r\nFrontend applications\r\nAnalyze and resolve defects related to automated tests\r\nKeep automated tests up to date and executable in operational conditions\r\n\r\nCI/CD & DevOps Integration\r\nEnsure automated tests are fully integrated into CI/CD pipelines\r\nCreate and maintain Jenkins jobs and pipelines\r\nWork with GitLab, SonarQube, and Nexus within the CI/CD chain\r\nContribute to DevOps best practices across the testing lifecycle\r\n\r\nRequired Skills & Experience\r\nStrong expertise with Robot Framework\r\nExperience in automated API and frontend testing\r\nSolid understanding of CI/CD pipelines\r\nPython\r\nGitLab […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/237988",
-   "score": 27,
-   "label": "Périphérique",
-   "first_seen": "2026-08-24T16:01:18+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 10,
-    "qual": 8,
-    "calc": 9
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
-     "weight": 4,
-     "terms": [
-      "automation",
-      "python"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "continuous improvement"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "quality",
-      "standards",
-      "testing"
      ]
     }
    ],
@@ -33921,7 +33250,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-12T13:35:45Z",
    "sector": "",
-   "specialization": "[\"171\"]",
+   "specialization": "171",
    "contract": "VIA",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34234,7 +33563,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-16T08:33:49Z",
    "sector": "",
-   "specialization": "[\"49\",\"65\",\"107\",\"109\",\"150\",\"169\"]",
+   "specialization": "49, 65, 107, 109, 150, 169",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34318,7 +33647,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-28T13:57:30Z",
    "sector": "",
-   "specialization": "[\"68\"]",
+   "specialization": "68",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35361,7 +34690,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T09:15:57Z",
    "sector": "",
-   "specialization": "[\"327\"]",
+   "specialization": "327",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35434,7 +34763,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-29T09:14:24Z",
    "sector": "",
-   "specialization": "246",
+   "specialization": "[\"246\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35508,7 +34837,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-06T08:57:05Z",
    "sector": "",
-   "specialization": "327",
+   "specialization": "[\"327\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35580,7 +34909,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-06T08:54:04Z",
    "sector": "",
-   "specialization": "[\"327\"]",
+   "specialization": "327",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35774,80 +35103,6 @@
      ],
      "points": 14
     },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
-   "id": "246063",
-   "title": "V.I.E. Junior IT Architect (H/F)",
-   "company": "SOCIETE GENERALE",
-   "country": "LUXEMBOURG",
-   "city": "LUXEMBOURG",
-   "description": "As a Junior IT architect, you will contribute to strategic architecture initiatives and transformation projects while developing expertise in enterprise architecture within an international banking environment.\n\nYour responsibilities will include: :\n \n• Supporting the documentation of existing, transition and target-state architectures\n• Tracking architecture decisions and associated action plans\n• Perform architecture design & review within projects\n• Contributing to architecture studies to transform and extend our Information System\n• Perform technology watch on new trends and share within peers worldwide\nA key focus of the position will be exploring the use of Artificial Intelligence to enhance architecture practices. You will evaluate, prototype, and help deploy innovative AI-enabled solutions that improve productivity, knowledge management, and decision-making within the architecture team.\nYou will primarily work within the Microsoft ecosystem, including Microsoft Copilot, SharePoint, Power Platform, and related collaboration and AI services.",
-   "mission": "",
-   "profile": "Studies & experience:\n• Graduate with a Master degree from Business/Engineering School or University with a specialization in Information Technology\n• A previous experience in IT or banking sector would be appreciated\n \nLanguage skills:\n• Fluent in English\n\nTechnical, operational & Soft skills:\n• Interest in AI related technologies and knowledge of prompting techniques\n• Knowledge of architecture framework, tools and modeling techniques like TOGAF, Archimate, UML would be appreciated\n• Good communication and presentation skills\n• Proficient/Good command of MS Office\n• Strong listening and analytical skills\n• Proactivity, spearheading of proposals",
-   "duration": 12,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2027-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-17T08:06:25Z",
-   "sector": "",
-   "specialization": "327",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-17T08:06:25Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-17T00:00:00",
-    "endBroadcastDate": "2026-10-17T00:00:00"
-   },
-   "summary": "As a Junior IT architect, you will contribute to strategic architecture initiatives and transformation projects while developing expertise in enterprise architecture within an international banking environment.\n\nYour responsibilities will include: :\n \n• Supporting the documentation of existing, transition and target-state architectures\n• Tracking architecture decisions and associated action plans\n• Perform architecture design & review within projects\n• Contributing to architecture studies to transform and extend our Information System\n• Perform technology watch on new trends and share within peers worldwide\nA key focus of the position will be exploring the use of Artificial Intelligence to enhance architecture practices. You will evaluate, prototype, and help deploy innovative AI-enabled solutions that improve productivity, knowledge management, and decision-making within the architecture team.\nYou will primarily work within the Microsoft ecosystem, including Microsoft Copilot, SharePoint, Power Platform, and related collaboration and AI services.",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246063",
-   "score": 26,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 24,
-    "qual": 0,
-    "calc": 27
-   },
-   "dominant_axis": "calc",
-   "matched_families": [
-    {
-     "id": "calc1",
-     "axis": "calc",
-     "source": "Éléments finis (256-1, 24 h), TP simulation numérique (272-1, 285-5, 285-4, 63 h), Calculs numériques de mise en forme (277-1, 286-1, 50 h)",
-     "weight": 12,
-     "terms": [
-      "modeling"
-     ]
-    },
-    {
-     "id": "prod5",
-     "axis": "prod",
-     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
-     "weight": 4,
-     "terms": [
-      "productivity"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "engineering"
-     ]
-    }
-   ],
-   "bonuses": [
     {
      "label": "Niveau bac+5 / ingénieur annoncé",
      "terms": [],
@@ -36160,7 +35415,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T11:31:02Z",
    "sector": "",
-   "specialization": "259",
+   "specialization": "[\"259\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -36291,7 +35546,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-12T12:29:13Z",
    "sector": "",
-   "specialization": "[\"7\"]",
+   "specialization": "7",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
