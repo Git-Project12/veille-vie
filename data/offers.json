@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-18T14:02:39+00:00",
+ "generated_at": "2026-10-19T13:11:53+00:00",
  "source": "Business France — mon-vie-via.businessfrance.fr",
- "total_scanned": 830,
- "total_announced": 830,
- "total_kept": 366,
+ "total_scanned": 825,
+ "total_announced": 825,
+ "total_kept": 365,
  "threshold": 25,
  "axes": {
   "rd": {
@@ -413,7 +413,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T13:05:00Z",
    "sector": "",
-   "specialization": "60",
+   "specialization": "[\"60\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -1100,7 +1100,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-02T06:59:08Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -1322,127 +1322,6 @@
    ]
   },
   {
-   "id": "246083",
-   "title": "INGENIEUR FIABILITE (H/F)",
-   "company": "STMICROELECTRONICS (GRENOBLE 2) SAS",
-   "country": "ITALIE",
-   "city": "CATANE",
-   "description": "Vous participerez activement à la réalisation d’essais de fiabilité essentiels aux processus de qualification des produits. Vous définirez des stratégies de stress pour un large éventail de tests de fiabilité, notamment les essais HTOL, THB, bHAST et d’autres évaluations spécifiques aux produits, afin d’évaluer rigoureusement la durabilité des composants, d’estimer leur durée de vie et d’évaluer leurs performances dans diverses conditions de fonctionnement. Une expérience en conception matérielle (HW) et en développement de cartes électroniques (PCB) est essentielle pour garantir une exécution robuste des stratégies de stress.\n\nUne compréhension approfondie des circuits d’électronique de puissance et des mécanismes de défaillance courants est requise afin de diagnostiquer et de résoudre avec précision les problèmes de fiabilité, contribuant ainsi à améliorer la robustesse des composants et leurs performances à long terme.",
-   "mission": "",
-   "profile": "Diplôme de niveau Master en Physique, Science des matériaux ou Génie électrique/physique.\n3 ans d’expérience.\nConnaissances requises en physique de la fiabilité, physique des semi-conducteurs, composants électroniques et méthodes de caractérisation électrique.\nConnaissance des circuits d’électronique de puissance (DC-DC, onduleurs, LDO).\nParticipation aux programmes d’essais de fiabilité et exécution des plans de test définis.\nExpérience pratique de la caractérisation de la fiabilité des transistors et des essais de vieillissement.\nMaîtrise des équipements et instruments dédiés aux essais de fiabilité.\nCapacité à analyser les données et à contribuer à la rédaction de rapports techniques détaillés.\nConnaissance de base des normes industrielles de fiabilité et des procédures de qualification.\nBonne maîtrise de l’anglais écrit et oral indispensable.\nDes compétences en programmation informatique et en modélisation numérique sont fortement appréciées.\nEsprit d’analyse, aptitude à la résolution de problèmes et capacité à travailler en équipe.",
-   "duration": 24,
-   "start_date": "2026-11-01T00:00:00",
-   "end_date": "2028-11-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-17T15:43:35Z",
-   "sector": "",
-   "specialization": "208",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-17T15:43:35Z",
-    "missionStartDate": "2026-11-01T00:00:00",
-    "missionEndDate": "2028-11-01T00:00:00",
-    "startBroadcastDate": "2026-09-18T00:00:00",
-    "endBroadcastDate": "2026-10-18T00:00:00"
-   },
-   "summary": "Vous participerez activement à la réalisation d’essais de fiabilité essentiels aux processus de qualification des produits. Vous définirez des stratégies de stress pour un large éventail de tests de fiabilité, notamment les essais HTOL, THB, bHAST et d’autres évaluations spécifiques aux produits, afin d’évaluer rigoureusement la durabilité des composants, d’estimer leur durée de vie et d’évaluer leurs performances dans diverses conditions de fonctionnement. Une expérience en conception matérielle (HW) et en développement de cartes électroniques (PCB) est essentielle pour garantir une exécution robuste des stratégies de stress.\n\nUne compréhension approfondie des circuits d’électronique de puissance et des mécanismes de défaillance courants est requise afin de diagnostiquer et de résoudre avec précision les problèmes de fiabilité, contribuant ainsi à améliorer la robustesse des composants et leurs performances à long terme.",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246083",
-   "score": 84,
-   "label": "Cœur de cible",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 97,
-    "prod": 10,
-    "qual": 8,
-    "calc": 27
-   },
-   "dominant_axis": "rd",
-   "matched_families": [
-    {
-     "id": "calc1",
-     "axis": "calc",
-     "source": "Éléments finis (256-1, 24 h), TP simulation numérique (272-1, 285-5, 285-4, 63 h), Calculs numériques de mise en forme (277-1, 286-1, 50 h)",
-     "weight": 12,
-     "terms": [
-      "modelisation"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "methodes"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "essais",
-      "normes",
-      "qualification"
-     ]
-    },
-    {
-     "id": "rd2",
-     "axis": "rd",
-     "source": "Propriétés mécaniques et physique des matériaux (262-1, 30 h), Critères de choix des matériaux (265-1, 15 h)",
-     "weight": 9,
-     "terms": [
-      "caracterisation",
-      "materiaux",
-      "science des materiaux"
-     ]
-    },
-    {
-     "id": "rd3",
-     "axis": "rd",
-     "source": "Dégradation des matériaux (300-2, 55 h), Traitements de surface (306-2, 20 h)",
-     "weight": 12,
-     "terms": [
-      "vieillissement"
-     ]
-    },
-    {
-     "id": "rd4",
-     "axis": "rd",
-     "source": "Rupture et fatigue des matériaux (291-1, 47 h)",
-     "weight": 10,
-     "terms": [
-      "duree de vie"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "resolution de problemes"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "246355",
    "title": "Ingénieur Aérodynamique Aérospatial & Défense (H/F)",
    "company": "AKKODIS HIGH TECH SAS",
@@ -1457,7 +1336,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T12:04:49Z",
    "sector": "",
-   "specialization": "251",
+   "specialization": "[\"251\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -2012,7 +1891,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T13:11:32Z",
    "sector": "",
-   "specialization": "[\"60\"]",
+   "specialization": "60",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -2380,7 +2259,7 @@
    "expiry_date": "",
    "publish_date": "2025-10-08T09:46:46Z",
    "sector": "",
-   "specialization": "[\"77\",\"149\"]",
+   "specialization": "77, 149",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -2505,15 +2384,15 @@
    "expiry_date": "",
    "publish_date": "2026-08-31T08:21:32Z",
    "sector": "",
-   "specialization": "60, 64, 65, 77",
+   "specialization": "[\"60\",\"64\",\"65\",\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-08-31T08:21:32Z",
     "missionStartDate": "2026-12-01T00:00:00",
     "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-24T00:00:00",
-    "endBroadcastDate": "2026-10-24T00:00:00"
+    "startBroadcastDate": "2026-10-19T00:00:00",
+    "endBroadcastDate": "2026-11-18T00:00:00"
    },
    "summary": "Groupe international d’ingénierie et d'expertise en technologies, fortil repose sur un modèle indépendant et rassemble plus de 2 500 collaborateurs. Avec 30 agences réparties dans 14 pays, fortil cultive la liberté d'entreprendre et la libération des potentiels \n \nfortil Belgium porte des projets innovants en life science, énergie, aérospatial, défense et ferroviaire, en mettant son expertise scientifique et technique au service de ses partenaires\n\nVos responsabilités métier\n\nPour accompagner l’équipe, vous êtes capable de prendre le lead sur tout ou partie des responsabilités métiers suivantes : \n\n- Réalisation d’avant- projet, proposition de solutions techniques préliminaires\n- Conception mécanique et modélisation CAO des produits fabriqués\n- Réalisation des plans de pièces et d’assemblages avec références aux normes applicables\n- Calcul des contraintes fonctionnelles, physiques, dimensionnelles et structurelles\n- Choix des matériaux, dimensionnement des structures et des équipements\n- Cotation fonctionnelle et tolérancement géométrique […]",
    "url": "https://mon-vie-via.businessfrance.fr/offres/245508",
@@ -2627,7 +2506,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T14:37:58Z",
    "sector": "",
-   "specialization": "60",
+   "specialization": "[\"60\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -3235,7 +3114,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-09T12:47:59Z",
    "sector": "",
-   "specialization": "[\"65\",\"66\",\"73\",\"110\",\"153\",\"160\"]",
+   "specialization": "65, 66, 73, 110, 153, 160",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -4418,7 +4297,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T07:35:28Z",
    "sector": "",
-   "specialization": "[\"155\",\"208\",\"209\"]",
+   "specialization": "155, 208, 209",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -4531,7 +4410,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-10T09:56:17Z",
    "sector": "",
-   "specialization": "49, 63, 86, 125, 207, 208, 256, 366",
+   "specialization": "[\"49\",\"63\",\"86\",\"125\",\"207\",\"208\",\"256\",\"366\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -4738,15 +4617,15 @@
    "expiry_date": "",
    "publish_date": "2026-08-31T08:19:32Z",
    "sector": "",
-   "specialization": "63, 114, 149, 150, 169, 262, 264",
+   "specialization": "[\"63\",\"114\",\"149\",\"150\",\"169\",\"262\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-08-31T08:19:32Z",
     "missionStartDate": "2026-12-01T00:00:00",
     "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-24T00:00:00",
-    "endBroadcastDate": "2026-10-24T00:00:00"
+    "startBroadcastDate": "2026-10-19T00:00:00",
+    "endBroadcastDate": "2026-11-18T00:00:00"
    },
    "summary": "Groupe international d’ingénierie et d'expertise en technologies, fortil repose sur un modèle indépendant et rassemble plus de 2 500 collaborateurs. Avec 30 agences réparties dans 14 pays, fortil cultive la liberté d'entreprendre et la libération des potentiels \n \nfortil Belgium porte des projets innovants en life science, énergie, aérospatial, défense et ferroviaire, en mettant son expertise scientifique et technique au service de ses partenaires\n\nVotre environnement technique \n\nNos ingénieurs matériaux pilotent les activités de « Engineering & Commissioning ».\n Nous prenons actuellement en main des sujets d’envergure dans de nombreux domaines tels que la défense, de l'aéronautique, du transport, de l’énergie ou encore le nucléaire. […]",
    "url": "https://mon-vie-via.businessfrance.fr/offres/245506",
@@ -4850,7 +4729,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-13T14:28:25Z",
    "sector": "",
-   "specialization": "76",
+   "specialization": "[\"76\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5182,7 +5061,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T07:31:41Z",
    "sector": "",
-   "specialization": "206",
+   "specialization": "[\"206\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5706,7 +5585,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T16:09:45Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6236,7 +6115,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-01T14:34:14Z",
    "sector": "",
-   "specialization": "149",
+   "specialization": "[\"149\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -7061,106 +6940,6 @@
    ]
   },
   {
-   "id": "246084",
-   "title": "INGENIEUR FIABILITE (H/F)",
-   "company": "STMICROELECTRONICS (GRENOBLE 2) SAS",
-   "country": "ITALIE",
-   "city": "CORNAREDO",
-   "description": "Nous recherchons un(e) jeune diplômé(e) pour rejoindre notre équipe en tant qu’Ingénieur Fiabilité sur des circuits intégrés (IC) utilisés dans de nombreux domaines industriels, notamment l’automobile et l’industrie.\n\nNous proposons un parcours de formation interne afin d’accompagner le développement des compétences nécessaires à la réussite dans cette fonction.\n\nLe poste consiste à participer à la définition, à la gestion, à l’exécution et au suivi des essais de fiabilité ainsi qu’aux activités associées pour les nouveaux produits, les nouvelles technologies et les modifications ou transferts de produits déjà en production.\n\nCette fonction joue un rôle clé pour garantir que la qualité et la fiabilité des produits répondent aux standards internes, aux standards externes tels que l’AEC-Q100 et la JEDEC, ainsi qu’aux exigences des clients, depuis la phase de développement jusqu’à la montée en cadence de la production. Vous travaillerez en étroite collaboration avec des équipes pluridisciplinaires ainsi qu’avec les laboratoires de fiabilité, de test, d’analyse de défaillance et d’inspection physique afin de piloter l’exécution des essais, d’analyser les résultats et de contribuer aux activités de résolution de problèmes.",
-   "mission": "",
-   "profile": "Diplôme en Génie électronique, Physique ou équivalent.\nConnaissances de base en électronique numérique et analogique.\nConnaissances de base des procédés silicium et d’assemblage (packaging).\nBonnes capacités d’analyse, de résolution de problèmes et de négociation.\nFort esprit d’équipe.\nOrientation résultats et attitude proactive.\nBonne maîtrise de l’anglais ; l’italien est un plus.",
-   "duration": 24,
-   "start_date": "2026-11-01T00:00:00",
-   "end_date": "2028-11-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-17T15:47:47Z",
-   "sector": "",
-   "specialization": "208",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-17T15:47:47Z",
-    "missionStartDate": "2026-11-01T00:00:00",
-    "missionEndDate": "2028-11-01T00:00:00",
-    "startBroadcastDate": "2026-09-18T00:00:00",
-    "endBroadcastDate": "2026-10-18T00:00:00"
-   },
-   "summary": "Nous recherchons un(e) jeune diplômé(e) pour rejoindre notre équipe en tant qu’Ingénieur Fiabilité sur des circuits intégrés (IC) utilisés dans de nombreux domaines industriels, notamment l’automobile et l’industrie.\n\nNous proposons un parcours de formation interne afin d’accompagner le développement des compétences nécessaires à la réussite dans cette fonction.\n\nLe poste consiste à participer à la définition, à la gestion, à l’exécution et au suivi des essais de fiabilité ainsi qu’aux activités associées pour les nouveaux produits, les nouvelles technologies et les modifications ou transferts de produits déjà en production.\n\nCette fonction joue un rôle clé pour garantir que la qualité et la fiabilité des produits répondent aux standards internes, aux standards externes tels que l’AEC-Q100 et la JEDEC, ainsi qu’aux exigences des clients, depuis la phase de développement jusqu’à la montée en cadence de la production. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246084",
-   "score": 54,
-   "label": "Bonne adéquation",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 40,
-    "prod": 24,
-    "qual": 8,
-    "calc": 0
-   },
-   "dominant_axis": "rd",
-   "matched_families": [
-    {
-     "id": "prod3",
-     "axis": "prod",
-     "source": "Assemblage des matériaux (297-2, 30 h)",
-     "weight": 7,
-     "terms": [
-      "assemblage"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "essais",
-      "inspection",
-      "qualite",
-      "standards"
-     ]
-    },
-    {
-     "id": "rd8",
-     "axis": "rd",
-     "source": "Alternance : investigation & problem solving, analyse microstructurale",
-     "weight": 11,
-     "terms": [
-      "analyse de defaillance"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "resolution de problemes"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "automobile"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "242976",
    "title": "Hardware Validation Engineer (H/F)",
    "company": "ELSYS DESIGN",
@@ -7697,7 +7476,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-30T08:22:15Z",
    "sector": "",
-   "specialization": "[\"63\",\"86\",\"113\",\"123\",\"125\",\"155\",\"169\",\"366\"]",
+   "specialization": "63, 86, 113, 123, 125, 155, 169, 366",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -7883,7 +7662,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T13:42:07Z",
    "sector": "",
-   "specialization": "331",
+   "specialization": "[\"331\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8091,7 +7870,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-15T12:17:14Z",
    "sector": "",
-   "specialization": "361",
+   "specialization": "[\"361\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8184,7 +7963,7 @@
    "expiry_date": "",
    "publish_date": "2026-05-11T14:34:37Z",
    "sector": "",
-   "specialization": "123",
+   "specialization": "[\"123\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8557,32 +8336,32 @@
    ]
   },
   {
-   "id": "246311",
+   "id": "246318",
    "title": "INGENIEUR(E) SUPPORT TECHNIQUE (H/F)",
    "company": "SUMITOMO (SHI) MATERIAL SOLUTIONS EUROPE",
-   "country": "SINGAPOUR",
-   "city": "SINGAPOUR",
-   "description": "Entreprise:\nSUMITOMO (SHI) Material Solutions Europe est une PME innovante située à Gennevilliers - 92\nAu sein d'un groupe japonais fabricant d’équipements pour l'industrie du semi-conducteur (Sumitomo Heavy Industries, Ltd.),SUMITOMO (SHI) conçoit, fabrique et installe des systèmes à base de lasers ultra-violets de très forte énergie, destinés aux fabricants de circuits intégrés.\nLa technologie SUMITOMO (SHI) couvre des domaines techniques variés: physique des lasers, électrotechnique haute tension (>30 kV), plasmas, optique, électronique, informatique.\nLes acteurs majeurs de ce domaine sont aujourd'hui principalement localisés en Asie (Taïwan, Japon, Chine et Corée du Sud, Malaisie et Singapour) où SUMITOMO (SHI) a déjà installé des équipements.\n\nLes missions: \n\nSUMITOMO (SHI) fournit une assistance technique chez le client (applications spécifiques techniques). Le.la futur.e VIE sera placé sous la responsabilité du responsable support technique et sera basé au sein de l’entité locale du groupe Sumitomo Heavy Industries, Ltd.\nLes missions principales du VIE ont pour objectif de permettre à SUMITOMO (SHI) de fiabiliser la mise en production de ses équipements chez les clients et de mieux comprendre leurs besoins actuels et futurs et consisteront notamment à:\n- fournir un support technique sur site client à l’équipe locale (domaine électronique et autre),\n- comprendre les produits SUMITOMO (SHI) et leur utilisation chez le client,\n- comprendre les enjeux liés aux procédés de recuit du client,\n- comprendre le fonctionnement de l’usine du client local,\n- aider le client à lever les barrières technologiques du procédé couvert par l'outil SUMITOMO (SHI),\n- communiquer les informations marketing et applications recueillies chez le client à sa hiérarchie,\n- soutenir l'équipe avant-vente lorsque cela est nécessaire,\n- développer une forte relation de confiance client/fournisseur\nDans le cadre de sa mission, le la VIE recevra un support technique quotidien de l’entité locale Sumitomo Heavy Industries, Ltd.\nParticipation à la prise en charge du logement\nLes perspectives de carrière en fin de mission seront fonction de l'évolution du candidat pendant son parcours VIE.\nUne formation est prévue en amont du départ en mission.\nAvant de postuler, veillez à vérifier les conditions applicables pour cette destination sur le site de Business France (visa, formalités à l’arrivée…).",
+   "country": "TAIWAN",
+   "city": "TAICHUNG",
+   "description": "Entreprise:\n\nSUMITOMO (SHI) Material Solutions Europe est une PME innovante faisant partie du groupe japonais Sumitomo Heavy Industries, Ltd.\nBasé à Gennevilliers (92230), nous concevons, fabriquons et installons des systèmes à base de lasers ultra-violets de très forte énergie, destinés aux fabricants de circuits intégrés.\nLa technologie SUMITOMO (SHI) Material Solutions Europe couvre des domaines techniques variés: physique des lasers, électrotechnique haute tension (>30 kV), plasmas, optique, électronique, informatique.\nLes acteurs majeurs de ce domaine sont aujourd'hui principalement localisés en Asie (Taïwan, Japon, Chine et Corée du Sud) où SUMITOMO (SHI) Material Solutions Europe a déjà installé des équipements.\n\nLes missions: \n\nSUMITOMO (SHI) Material Solutions Europe fournit une assistance technique chez le client (applications spécifiques techniques). Le futur VIE sera placé sous la responsabilité du responsable support technique et sera basé au sein de l’entité locale du groupe Sumitomo Heavy Industries, Ltd.\nLes missions principales du VIE ont pour objectif de permettre à SUMITOMO (SHI) Material Solutions Europe de fiabiliser la mise en production de ses équipements chez les clients et de mieux comprendre leurs besoins actuels et futurs et consisteront notamment à:\n- fournir un support technique sur site client à l’équipe locale (domaine électronique et autre),\n- comprendre les produits SUMITOMO (SHI) Material Solutions Europe et leur utilisation chez le client,\n- comprendre les enjeux liés aux procédés de recuit du client,\n- comprendre le fonctionnement de l’usine du client local,\n- aider le client à lever les barrières technologiques du procédé couvert par l'outil SUMITOMO (SHI) Material Solutions Europe,\n- communiquer les informations marketing et applications recueillies chez le client à sa hiérarchie,\n- soutenir l'équipe avant-vente lorsque cela est nécessaire,\n- développer une forte relation de confiance client/fournisseur\nDans le cadre de sa mission, le VIE recevra une aide pour son installation et un support technique quotidien de l’entité locale Sumitomo Heavy Industries, Ltd.\nLes perspectives de carrière en fin de mission seront fonction de l'évolution du candidat pendant son parcours VIE.\nAvant de postuler, veillez à vérifier les conditions applicables pour cette destination sur le site de Business France (visa, formalités à l’arrivée…).",
    "mission": "",
-   "profile": "-Formation bac +5 généraliste ou électronique\n-L’une des spécialités suivantes ou s’y rapprochant: électronique, électrotechnique, maintenance, physique. Profils\nscience des matériaux, microélectronique, application seront aussi considérés suivant motivation. Les autres profils pourront aussi être considérés selon motivation et expérience.\n-Expérience : stage en entreprise. Connaissance des salles blanches, semi-conducteurs, maintenance ou service client est un plus\n-Langue : anglais courant qui sera la langue de travail, le mandarin serait un plus\n-Maitrise pack office requise. VBA est un plus",
+   "profile": "-Formation bac +5 généraliste ou électronique\n-L’une des spécialités suivantes ou s’y rapprochant: électronique, électrotechnique, maintenance, physique. Profils\nscience des matériaux, microélectronique, application seront aussi considérés suivant motivation. Les autres profils pourront aussi être considérés selon motivation et expérience.\n-Expérience : stage en entreprise. Connaissance des salles blanches, semi-conducteurs, maintenance ou service client\nest un plus\n-Langue : anglais courant qui sera la langue de travail\n-Maitrise pack office requise. VBA est un plus\n- Mandarin et/ou Japonais utiles",
    "duration": 24,
-   "start_date": "2027-05-01T00:00:00",
-   "end_date": "2029-05-01T00:00:00",
+   "start_date": "2027-06-01T00:00:00",
+   "end_date": "2029-06-01T00:00:00",
    "expiry_date": "",
-   "publish_date": "2026-09-23T07:33:29Z",
+   "publish_date": "2026-09-23T09:02:41Z",
    "sector": "",
-   "specialization": "[\"52\",\"66\",\"114\",\"115\",\"130\",\"148\",\"153\"]",
+   "specialization": "[\"52\",\"66\",\"114\",\"115\",\"143\",\"148\",\"153\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
-    "creationDate": "2026-09-23T07:33:29Z",
-    "missionStartDate": "2027-05-01T00:00:00",
-    "missionEndDate": "2029-05-01T00:00:00",
-    "startBroadcastDate": "2026-09-24T00:00:00",
-    "endBroadcastDate": "2026-10-24T00:00:00"
+    "creationDate": "2026-09-23T09:02:41Z",
+    "missionStartDate": "2027-06-01T00:00:00",
+    "missionEndDate": "2029-06-01T00:00:00",
+    "startBroadcastDate": "2026-10-19T00:00:00",
+    "endBroadcastDate": "2026-11-18T00:00:00"
    },
-   "summary": "Entreprise:\nSUMITOMO (SHI) Material Solutions Europe est une PME innovante située à Gennevilliers - 92\nAu sein d'un groupe japonais fabricant d’équipements pour l'industrie du semi-conducteur (Sumitomo Heavy Industries, Ltd.),SUMITOMO (SHI) conçoit, fabrique et installe des systèmes à base de lasers ultra-violets de très forte énergie, destinés aux fabricants de circuits intégrés.\nLa technologie SUMITOMO (SHI) couvre des domaines techniques variés: physique des lasers, électrotechnique haute tension (>30 kV), plasmas, optique, électronique, informatique.\nLes acteurs majeurs de ce domaine sont aujourd'hui principalement localisés en Asie (Taïwan, Japon, Chine et Corée du Sud, Malaisie et Singapour) où SUMITOMO (SHI) a déjà installé des équipements.\n\nLes missions: \n\nSUMITOMO (SHI) fournit une assistance technique chez le client (applications spécifiques techniques). […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246311",
+   "summary": "Entreprise:\n\nSUMITOMO (SHI) Material Solutions Europe est une PME innovante faisant partie du groupe japonais Sumitomo Heavy Industries, Ltd.\nBasé à Gennevilliers (92230), nous concevons, fabriquons et installons des systèmes à base de lasers ultra-violets de très forte énergie, destinés aux fabricants de circuits intégrés.\nLa technologie SUMITOMO (SHI) Material Solutions Europe couvre des domaines techniques variés: physique des lasers, électrotechnique haute tension (>30 kV), plasmas, optique, électronique, informatique.\nLes acteurs majeurs de ce domaine sont aujourd'hui principalement localisés en Asie (Taïwan, Japon, Chine et Corée du Sud) où SUMITOMO (SHI) Material Solutions Europe a déjà installé des équipements.\n\nLes missions: \n\nSUMITOMO (SHI) Material Solutions Europe fournit une assistance technique chez le client (applications spécifiques techniques). […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/246318",
    "score": 51,
    "label": "Bonne adéquation",
    "first_seen": "2026-10-07T09:55:56+00:00",
@@ -8647,32 +8426,32 @@
    ]
   },
   {
-   "id": "246318",
+   "id": "246311",
    "title": "INGENIEUR(E) SUPPORT TECHNIQUE (H/F)",
    "company": "SUMITOMO (SHI) MATERIAL SOLUTIONS EUROPE",
-   "country": "TAIWAN",
-   "city": "TAICHUNG",
-   "description": "Entreprise:\n\nSUMITOMO (SHI) Material Solutions Europe est une PME innovante faisant partie du groupe japonais Sumitomo Heavy Industries, Ltd.\nBasé à Gennevilliers (92230), nous concevons, fabriquons et installons des systèmes à base de lasers ultra-violets de très forte énergie, destinés aux fabricants de circuits intégrés.\nLa technologie SUMITOMO (SHI) Material Solutions Europe couvre des domaines techniques variés: physique des lasers, électrotechnique haute tension (>30 kV), plasmas, optique, électronique, informatique.\nLes acteurs majeurs de ce domaine sont aujourd'hui principalement localisés en Asie (Taïwan, Japon, Chine et Corée du Sud) où SUMITOMO (SHI) Material Solutions Europe a déjà installé des équipements.\n\nLes missions: \n\nSUMITOMO (SHI) Material Solutions Europe fournit une assistance technique chez le client (applications spécifiques techniques). Le futur VIE sera placé sous la responsabilité du responsable support technique et sera basé au sein de l’entité locale du groupe Sumitomo Heavy Industries, Ltd.\nLes missions principales du VIE ont pour objectif de permettre à SUMITOMO (SHI) Material Solutions Europe de fiabiliser la mise en production de ses équipements chez les clients et de mieux comprendre leurs besoins actuels et futurs et consisteront notamment à:\n- fournir un support technique sur site client à l’équipe locale (domaine électronique et autre),\n- comprendre les produits SUMITOMO (SHI) Material Solutions Europe et leur utilisation chez le client,\n- comprendre les enjeux liés aux procédés de recuit du client,\n- comprendre le fonctionnement de l’usine du client local,\n- aider le client à lever les barrières technologiques du procédé couvert par l'outil SUMITOMO (SHI) Material Solutions Europe,\n- communiquer les informations marketing et applications recueillies chez le client à sa hiérarchie,\n- soutenir l'équipe avant-vente lorsque cela est nécessaire,\n- développer une forte relation de confiance client/fournisseur\nDans le cadre de sa mission, le VIE recevra une aide pour son installation et un support technique quotidien de l’entité locale Sumitomo Heavy Industries, Ltd.\nLes perspectives de carrière en fin de mission seront fonction de l'évolution du candidat pendant son parcours VIE.\nAvant de postuler, veillez à vérifier les conditions applicables pour cette destination sur le site de Business France (visa, formalités à l’arrivée…).",
+   "country": "SINGAPOUR",
+   "city": "SINGAPOUR",
+   "description": "Entreprise:\nSUMITOMO (SHI) Material Solutions Europe est une PME innovante située à Gennevilliers - 92\nAu sein d'un groupe japonais fabricant d’équipements pour l'industrie du semi-conducteur (Sumitomo Heavy Industries, Ltd.),SUMITOMO (SHI) conçoit, fabrique et installe des systèmes à base de lasers ultra-violets de très forte énergie, destinés aux fabricants de circuits intégrés.\nLa technologie SUMITOMO (SHI) couvre des domaines techniques variés: physique des lasers, électrotechnique haute tension (>30 kV), plasmas, optique, électronique, informatique.\nLes acteurs majeurs de ce domaine sont aujourd'hui principalement localisés en Asie (Taïwan, Japon, Chine et Corée du Sud, Malaisie et Singapour) où SUMITOMO (SHI) a déjà installé des équipements.\n\nLes missions: \n\nSUMITOMO (SHI) fournit une assistance technique chez le client (applications spécifiques techniques). Le.la futur.e VIE sera placé sous la responsabilité du responsable support technique et sera basé au sein de l’entité locale du groupe Sumitomo Heavy Industries, Ltd.\nLes missions principales du VIE ont pour objectif de permettre à SUMITOMO (SHI) de fiabiliser la mise en production de ses équipements chez les clients et de mieux comprendre leurs besoins actuels et futurs et consisteront notamment à:\n- fournir un support technique sur site client à l’équipe locale (domaine électronique et autre),\n- comprendre les produits SUMITOMO (SHI) et leur utilisation chez le client,\n- comprendre les enjeux liés aux procédés de recuit du client,\n- comprendre le fonctionnement de l’usine du client local,\n- aider le client à lever les barrières technologiques du procédé couvert par l'outil SUMITOMO (SHI),\n- communiquer les informations marketing et applications recueillies chez le client à sa hiérarchie,\n- soutenir l'équipe avant-vente lorsque cela est nécessaire,\n- développer une forte relation de confiance client/fournisseur\nDans le cadre de sa mission, le la VIE recevra un support technique quotidien de l’entité locale Sumitomo Heavy Industries, Ltd.\nParticipation à la prise en charge du logement\nLes perspectives de carrière en fin de mission seront fonction de l'évolution du candidat pendant son parcours VIE.\nUne formation est prévue en amont du départ en mission.\nAvant de postuler, veillez à vérifier les conditions applicables pour cette destination sur le site de Business France (visa, formalités à l’arrivée…).",
    "mission": "",
-   "profile": "-Formation bac +5 généraliste ou électronique\n-L’une des spécialités suivantes ou s’y rapprochant: électronique, électrotechnique, maintenance, physique. Profils\nscience des matériaux, microélectronique, application seront aussi considérés suivant motivation. Les autres profils pourront aussi être considérés selon motivation et expérience.\n-Expérience : stage en entreprise. Connaissance des salles blanches, semi-conducteurs, maintenance ou service client\nest un plus\n-Langue : anglais courant qui sera la langue de travail\n-Maitrise pack office requise. VBA est un plus\n- Mandarin et/ou Japonais utiles",
+   "profile": "-Formation bac +5 généraliste ou électronique\n-L’une des spécialités suivantes ou s’y rapprochant: électronique, électrotechnique, maintenance, physique. Profils\nscience des matériaux, microélectronique, application seront aussi considérés suivant motivation. Les autres profils pourront aussi être considérés selon motivation et expérience.\n-Expérience : stage en entreprise. Connaissance des salles blanches, semi-conducteurs, maintenance ou service client est un plus\n-Langue : anglais courant qui sera la langue de travail, le mandarin serait un plus\n-Maitrise pack office requise. VBA est un plus",
    "duration": 24,
-   "start_date": "2027-06-01T00:00:00",
-   "end_date": "2029-06-01T00:00:00",
+   "start_date": "2027-05-01T00:00:00",
+   "end_date": "2029-05-01T00:00:00",
    "expiry_date": "",
-   "publish_date": "2026-09-23T09:02:41Z",
+   "publish_date": "2026-09-23T07:33:29Z",
    "sector": "",
-   "specialization": "52, 66, 114, 115, 143, 148, 153",
+   "specialization": "[\"52\",\"66\",\"114\",\"115\",\"130\",\"148\",\"153\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
-    "creationDate": "2026-09-23T09:02:41Z",
-    "missionStartDate": "2027-06-01T00:00:00",
-    "missionEndDate": "2029-06-01T00:00:00",
-    "startBroadcastDate": "2026-09-23T00:00:00",
-    "endBroadcastDate": "2026-10-23T00:00:00"
+    "creationDate": "2026-09-23T07:33:29Z",
+    "missionStartDate": "2027-05-01T00:00:00",
+    "missionEndDate": "2029-05-01T00:00:00",
+    "startBroadcastDate": "2026-10-19T00:00:00",
+    "endBroadcastDate": "2026-11-18T00:00:00"
    },
-   "summary": "Entreprise:\n\nSUMITOMO (SHI) Material Solutions Europe est une PME innovante faisant partie du groupe japonais Sumitomo Heavy Industries, Ltd.\nBasé à Gennevilliers (92230), nous concevons, fabriquons et installons des systèmes à base de lasers ultra-violets de très forte énergie, destinés aux fabricants de circuits intégrés.\nLa technologie SUMITOMO (SHI) Material Solutions Europe couvre des domaines techniques variés: physique des lasers, électrotechnique haute tension (>30 kV), plasmas, optique, électronique, informatique.\nLes acteurs majeurs de ce domaine sont aujourd'hui principalement localisés en Asie (Taïwan, Japon, Chine et Corée du Sud) où SUMITOMO (SHI) Material Solutions Europe a déjà installé des équipements.\n\nLes missions: \n\nSUMITOMO (SHI) Material Solutions Europe fournit une assistance technique chez le client (applications spécifiques techniques). […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246318",
+   "summary": "Entreprise:\nSUMITOMO (SHI) Material Solutions Europe est une PME innovante située à Gennevilliers - 92\nAu sein d'un groupe japonais fabricant d’équipements pour l'industrie du semi-conducteur (Sumitomo Heavy Industries, Ltd.),SUMITOMO (SHI) conçoit, fabrique et installe des systèmes à base de lasers ultra-violets de très forte énergie, destinés aux fabricants de circuits intégrés.\nLa technologie SUMITOMO (SHI) couvre des domaines techniques variés: physique des lasers, électrotechnique haute tension (>30 kV), plasmas, optique, électronique, informatique.\nLes acteurs majeurs de ce domaine sont aujourd'hui principalement localisés en Asie (Taïwan, Japon, Chine et Corée du Sud, Malaisie et Singapour) où SUMITOMO (SHI) a déjà installé des équipements.\n\nLes missions: \n\nSUMITOMO (SHI) fournit une assistance technique chez le client (applications spécifiques techniques). […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/246311",
    "score": 51,
    "label": "Bonne adéquation",
    "first_seen": "2026-10-07T09:55:56+00:00",
@@ -8751,15 +8530,15 @@
    "expiry_date": "",
    "publish_date": "2026-09-23T07:15:58Z",
    "sector": "",
-   "specialization": "66",
+   "specialization": "[\"66\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-09-23T07:15:58Z",
     "missionStartDate": "2027-06-01T00:00:00",
     "missionEndDate": "2028-06-01T00:00:00",
-    "startBroadcastDate": "2026-09-23T00:00:00",
-    "endBroadcastDate": "2026-10-23T00:00:00"
+    "startBroadcastDate": "2026-10-19T00:00:00",
+    "endBroadcastDate": "2026-11-18T00:00:00"
    },
    "summary": "SUMITOMO (SHI) MATERIAL SOLUTIONS EUROPE (SMS-E) est une PME innovante faisant partie du groupe japonais Sumitomo Heavy Industries, Ltd. Basée à Gennevilliers (92230), nous concevons, fabriquons et installons des systèmes à base de lasers ultra-violets de très forte énergie, destinés aux fabricants de circuits intégrés. \r\nNotre technologie SUMITOMO (SHI) Material Solutions Europe couvre des domaines techniques variés : physique des lasers, électrotechnique haute tension (>30 kV), plasmas, optique, électronique, informatique.\r\nLes acteurs majeurs de ce domaine sont aujourd'hui principalement localisés en Asie (Taïwan, Japon, Chine, Corée du Sud, Malaisie, Singapour) où SUMITOMO (SHI) Material Solutions Europe a déjà installé des équipements.\r\n\r\nLes missions :\r\nSUMITOMO (SHI) Material Solutions Europe fournit une assistance technique chez le client (applications spécifiques techniques). \r\nLe futur VIE sera placé sous la responsabilité du responsable support technique et sera basé au sein de l’entité locale du groupe Sumitomo Heavy Industries. […]",
    "url": "https://mon-vie-via.businessfrance.fr/offres/246309",
@@ -8841,15 +8620,15 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T13:42:47Z",
    "sector": "",
-   "specialization": "207",
+   "specialization": "[\"207\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-09-22T13:42:47Z",
     "missionStartDate": "2026-12-01T00:00:00",
     "missionEndDate": "2028-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-22T00:00:00",
-    "endBroadcastDate": "2026-10-22T00:00:00"
+    "startBroadcastDate": "2026-10-19T00:00:00",
+    "endBroadcastDate": "2026-11-18T00:00:00"
    },
    "summary": "Présentation d’ACALY\r\nACALY est une société de conseil en ingénierie créée en 2015, implantée en France à Lille, Paris, Lyon et Nantes, ainsi qu’en Suisse et en Belgique. Partenaire privilégié des entreprises industrielles, ACALY accompagne ses clients dans la réalisation de projets à forte valeur ajoutée. Nous accordons une importance particulière à l’humain et proposons à nos collaborateurs un accompagnement solide dès leur intégration, puis tout au long de leur parcours professionnel.\r\n\r\nDans le cadre du développement de nos activités en Belgique, nous recherchons un Ingénieur Méthodes (H/F) disposant de 3 à 4 ans d’expérience minimum dans un environnement industriel exigeant, pour intervenir sur un projet situé dans le secteur de Bruxelles.\r\n\r\nRejoindre ACALY, c’est intégrer des projets industriels ambitieux auprès d’acteurs reconnus, tout en bénéficiant d’un suivi personnalisé et de réelles perspectives d’évolution.\r\n\r\nVos principales missions\r\nEn lien avec les équipes production, qualité et ingénierie, vous serez notamment amené(e) à : […]",
    "url": "https://mon-vie-via.businessfrance.fr/offres/246272",
@@ -9523,7 +9302,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-28T13:08:22Z",
    "sector": "",
-   "specialization": "225",
+   "specialization": "[\"225\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10107,7 +9886,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-21T12:28:26Z",
    "sector": "",
-   "specialization": "73",
+   "specialization": "[\"73\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10671,7 +10450,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T13:43:34Z",
    "sector": "",
-   "specialization": "64",
+   "specialization": "[\"64\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -11141,8 +10920,8 @@
     "creationDate": "2026-08-21T14:45:41Z",
     "missionStartDate": "2026-12-01T00:00:00",
     "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-23T00:00:00",
-    "endBroadcastDate": "2026-10-23T00:00:00"
+    "startBroadcastDate": "2026-10-19T00:00:00",
+    "endBroadcastDate": "2026-11-18T00:00:00"
    },
    "summary": "Groupe international d’ingénierie et d'expertise en technologies, fortil repose sur un modèle indépendant et rassemble plus de 2 500 collaborateurs. Avec 30 agences réparties dans 14 pays, fortil cultive la liberté d'entreprendre et la libération des potentiels \n \nfortil Belgium porte des projets innovants en life science, énergie, aérospatial, défense et ferroviaire, en mettant son expertise scientifique et technique au service de ses partenaires\n\nVotre environnement technique\n\nNos ingénieurs amélioration continue pilotent les activités « support d’exploitation & distribution ». Nous prenons actuellement en main des sujets d’envergure dans de nombreux domaines tels que la défense, l’aéronautique, du transport, du médical ou encore le nucléaire. […]",
    "url": "https://mon-vie-via.businessfrance.fr/offres/245352",
@@ -12600,8 +12379,8 @@
     "creationDate": "2026-08-31T08:22:25Z",
     "missionStartDate": "2026-12-01T00:00:00",
     "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-24T00:00:00",
-    "endBroadcastDate": "2026-10-24T00:00:00"
+    "startBroadcastDate": "2026-10-19T00:00:00",
+    "endBroadcastDate": "2026-11-18T00:00:00"
    },
    "summary": "Groupe international d’ingénierie et d'expertise en technologies, fortil repose sur un modèle indépendant et rassemble plus de 2 500 collaborateurs. Avec 30 agences réparties dans 14 pays, fortil cultive la liberté d'entreprendre et la libération des potentiels \n \nfortil Belgium porte des projets innovants en life science, énergie, aérospatial, défense et ferroviaire, en mettant son expertise scientifique et technique au service de ses partenaires\n\nVotre environnement technique \n\nNos ingénieurs projet MES pilotent les activités de « support d’exploitation & distribution ». \nNous prenons actuellement en main des sujets d’envergure dans de nombreux domaines tels que l'industrie pharmaceutique, l'aéronautique, l'énergie ou encore la chimie. Notre expertise s’applique à la production et/ou à la chefferie de projet notamment dans des environnements techniques complexes. […]",
    "url": "https://mon-vie-via.businessfrance.fr/offres/245510",
@@ -12685,15 +12464,15 @@
    "expiry_date": "",
    "publish_date": "2026-09-29T08:58:35Z",
    "sector": "",
-   "specialization": "60, 64, 65, 77, 133, 149, 264",
+   "specialization": "[\"60\",\"64\",\"65\",\"77\",\"133\",\"149\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-09-29T08:58:35Z",
     "missionStartDate": "2026-12-01T00:00:00",
     "missionEndDate": "2028-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-29T00:00:00",
-    "endBroadcastDate": "2026-10-23T00:00:00"
+    "startBroadcastDate": "2026-10-19T00:00:00",
+    "endBroadcastDate": "2026-11-12T00:00:00"
    },
    "summary": "Présentation d’ACALY\nACALY est une société de conseil en ingénierie créée en 2015 et implantée en France à Lille, Paris, Lyon et Nantes, ainsi qu’en Suisse et en Belgique. Partenaire privilégié des entreprises industrielles, ACALY accompagne ses clients sur des projets à forte valeur ajoutée. Nous accordons une importance particulière au suivi de nos collaborateurs, avec un accompagnement solide dès l’intégration et tout au long du parcours professionnel.\n\nDescription du poste\nDans le cadre de projets industriels chez notre client dans le secteur du transport, vous intervenez au sein d’un bureau d’études spécialisé dans la conception de machines spéciales et équipements automatisés.\n\nVos missions:\n- Concevoir et modéliser en 3D des ensembles et sous-ensembles mécaniques sous CATIA, dans le cadre de projets de machines spéciales et d’équipements automatisés.\n- Réaliser les plans techniques 2D (ensembles, détails, montage) en garantissant la conformité aux normes en vigueur ainsi que la cohérence des tolérances et cotations. […]",
    "url": "https://mon-vie-via.businessfrance.fr/offres/246505",
@@ -13911,7 +13690,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-06T07:53:55Z",
    "sector": "",
-   "specialization": "70",
+   "specialization": "[\"70\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -14808,6 +14587,115 @@
    ]
   },
   {
+   "id": "247224",
+   "title": "AI GTM ENGINEER (H/F)",
+   "company": "EFE INTERNATIONAL",
+   "country": "ETATS-UNIS",
+   "city": "SAN FRANCISCO -CA-",
+   "description": "About the company : \r\n\r\nThe Revenue Architects is a GTM Engineering Studio that builds modern go-to-marketsystems for the best tech companies in the world. We work with Canva, Descript, andWorkOS -- category-defining B2B companies backed by top-tier investors.\r\nWe are not a traditional agency. We operate as an embedded engineering team,deploying AI-powered revenue systems that span data, enrichment, outbound, CRM,intent signals, and lifecycle automation. Behind the client work sits our own platform: asuite of internal apps, agents, and data pipelines that let a small team deliver like a largeone.\r\nWe want to stay small -- a handful of senior people -- and get a 10x out of agentsinstead of headcount. This role is how we get there.\r\nApplicants must be eligible for a J-1 ‘Trainee’ visa : o Either be a graduate or awaiting their diploma (diploma must be obtained at least 15 days before departure), AND be able to demonstrate at least 52 weeks of full-time professional experience in a company (including internships) related to the V.I.E. assignment : https://mon-vie-via.businessfrance.fr/destinations/etats-unis\r\n\r\nThe Role : \r\n\r\nThis is a forward-deployed engineer role, pointed at go-to-market. Half of it is client work: you sit with growth and RevOps leaders, understand what theyare trying to move, and ship the system that moves it. The other half is internal: youown the platform and the agent workflows the whole team runs on, and you make themfaster, more reliable, and more reusable every week.\r\nThe two halves feed each other. What you learn on a client becomes a reusable piece ofthe platform. What you build on the platform makes the next client faster.\r\n\r\nWhat Makes a Candidate Stand Out : Software engineering experience followed by a forward-deployed, solutions, or sales engineering role / Has built an agent, eval, or review loop that runs in production -- not just a demo / Has set up CI/CD or automated quality checks on a codebase or data pipeline / Has worked with a warehouse (Snowflake, BigQuery, Postgres) and modeled data for a business use case / Has built Clay workflows, enrichment pipelines, or outbound infrastructure / Has a personal project, side business, or open-source contribution that shows they build on their own / Has worked at a startup or small team where nobody told them what to do next \r\n\r\nWhat Gives Us Pause : Pure DevOps or backend background with no customer-facing or business exposure / Pure business or ops background with no exposure to technical problems / Over-scoping and over-engineering: weeks on architecture before anything ships / Cannot point to something they built end-to-end and shipped\r\n\r\nMust-Have : \r\n- AI-assisted building : Claude Code, Cursor, or equivalent; agent SDKs \r\n- Engineering : Python or TypeScript, SQL, APIs, webhooks, git, CI/CD\r\n- Data : a warehouse (Snowflake, BigQuery, or Postgres)\r\n-GTM : Clay or equivalent; Salesforce or HubSpot\r\n\r\nNice-to-Have : \r\n- Evals and agent quality tooling (Braintrust or similar)\r\n- Next.js / Vercel, Supabase\r\n- dbt or similar data modeling\r\n- Outbound infrastructure (Instantly, Smartlead, HeyReach)\r\n\r\nWhat You Will Do : \r\nShip client systems. Take a business objective from a client (\"route website visitors to sequences by intent\", \"fix our account scoring\") and turn it into a working system within days, using Clay, the CRM, the warehouse, APIs, and agents. You will be on calls,\r\npresent your work, and iterate live.\r\nOwn the internal platform. Maintain and extend TRA's suite of internal apps and the underlying data layer (Snowflake, Supabase) that client work depends on. Decide what the right data model is, what gets automated, and what gets thrown away.\r\nBuild the quality loop. Every time someone on the team pushes work -- code, a Clay table, a client deliverable -- an agent should review it, check it against how a senior GTM engineer would judge it, and flag when a human needs to look. You build and run that loop: agent reviews, evals, CI/CD for GTM work.\r\nTurn one-off delivery into repeatable process. Most clients need the same 80%: get warehouse access, map the CRM, build the data model, wire the signals. You turn what we did ten different ways into one playbook that agents can execute, and you keep it current.\r\nRun the research loop. Benchmark new models, tools, and agent frameworks. Test what is coming out, keep what works, write down why. You spend real tokens figuring out how the platform should be built.\r\nRaise the team's AI reflexes. Show the rest of the team how to have an agent review their work, how to commit and open PRs, how to get more out of Claude Code. Engineering best practice is part of the job, not a side project.\r\n\r\nCompensation and Benefits :\r\nVIE indemnity per Business France scale (San Francisco rate)\r\nHousing supplement\r\nHealth insurance via Business France\r\nWorking directly with the founder in San Francisco\r\nAccess to the entire TRA client portfolio and GTM tool ecosystem\r\nPath to full-time employment for outstanding performers",
+   "mission": "",
+   "profile": "-A rigorous academic background.You studied at an engineering school,or at a top business school in a quantitative track(finance,data,economics,applied math).Either way,your studies put you in front of hard technical problems and taught you to work through them.-You can code and have shipped real software.At work,at school,or on your own:something people actually used.You know git,PRs,testing,and CI/CD,and how to keep a codebase healthy.You do not need to be a senior backend engineer.You need the concepts.-Then you went customer-facing.You moved into a forward-deployed,solutions,or technical consulting role,ideally with startups or technical companies.You have sat with a customer,understood the business problem behind the ticket,and shipped something they cared about.-You understand the business,not just the stack.You cannot build the right GTM system if you do not understand why the client needs it.You know what pipeline,conversion,and ICP mean,and you prioritize by what moves them(not by what is technically most interesting).-You switch altitude easily.With a VP,you give three clean bullet points and a recommendation.When they push on a number,you have the detail ready.You know the difference between the front-end of a deliverable and what is under the hood,and you make both good.-You build with AI by default.Claude Code,Cursor,agents(this is how you work,not something you are trying out).You run an agent over your work before anyone else sees it.You would rather spend an hour building a harness than an hour checking something by hand.-You are autonomous and fast.You take a three-sentence brief and come back with a working system.You ship 80% today and iterate,rather than designing the perfect architecture nobody asked for.-You stay at the frontier.You can name the three most interesting things that happened in AI agents or GTM this week,because you tried them.-Communication in English.All client work is in English.French is a plus for internal team coordination.",
+   "duration": 18,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-07-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-19T09:58:26Z",
+   "sector": "",
+   "specialization": "[\"138\",\"144\",\"248\",\"330\",\"355\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-19T09:58:26Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-07-01T00:00:00",
+    "startBroadcastDate": "2026-10-19T00:00:00",
+    "endBroadcastDate": "2026-11-18T00:00:00"
+   },
+   "summary": "About the company : \r\n\r\nThe Revenue Architects is a GTM Engineering Studio that builds modern go-to-marketsystems for the best tech companies in the world. We work with Canva, Descript, andWorkOS -- category-defining B2B companies backed by top-tier investors.\r\nWe are not a traditional agency. We operate as an embedded engineering team,deploying AI-powered revenue systems that span data, enrichment, outbound, CRM,intent signals, and lifecycle automation. Behind the client work sits our own platform: asuite of internal apps, agents, and data pipelines that let a small team deliver like a largeone.\r\nWe want to stay small -- a handful of senior people -- and get a 10x out of agentsinstead of headcount. This role is how we get there.\r\nApplicants must be eligible for a J-1 ‘Trainee’ visa : o Either be a graduate or awaiting their diploma (diploma must be obtained at least 15 days before departure), AND be able to demonstrate at least 52 weeks of full-time professional experience in a company (including internships) related to the V.I.E. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247224",
+   "score": 35,
+   "label": "À examiner",
+   "first_seen": "2026-10-19T13:11:36+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 45,
+    "qual": 8,
+    "calc": 36
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "calc1",
+     "axis": "calc",
+     "source": "Éléments finis (256-1, 24 h), TP simulation numérique (272-1, 285-5, 285-4, 63 h), Calculs numériques de mise en forme (277-1, 286-1, 50 h)",
+     "weight": 12,
+     "terms": [
+      "modeling"
+     ]
+    },
+    {
+     "id": "calc4",
+     "axis": "calc",
+     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
+     "weight": 4,
+     "terms": [
+      "automation",
+      "python"
+     ]
+    },
+    {
+     "id": "prod4",
+     "axis": "prod",
+     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
+     "weight": 10,
+     "terms": [
+      "tooling"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "engineering"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "quality",
+      "testing"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "engineer"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    },
+    {
+     "label": "Formation exigée hors cursus : score plafonné",
+     "terms": [
+      "finance"
+     ],
+     "points": -20,
+     "cap": 35
+    }
+   ]
+  },
+  {
    "id": "245393",
    "title": "Full Stack Software Engineer I (H/F)",
    "company": "EFE INTERNATIONAL",
@@ -15437,6 +15325,127 @@
       "finance"
      ],
      "points": -4,
+     "cap": 35
+    }
+   ]
+  },
+  {
+   "id": "247222",
+   "title": "Deputy Program (H/F)",
+   "company": "FAURECIA SIEGES D'AUTOMOBILE",
+   "country": "TCHEQUIE / REPUBLIQUE TCHEQUE",
+   "city": "PISEK",
+   "description": "Assurer la liaison entre l'équipe centrale et l'usine tout au long des différentes phases du projet et participer régulièrement aux réunions de l'équipe centrale,\nSoutenir la gestion et le suivi de la production en collaboration avec le PPTL (Program Plant Team Leader) et l'IPL (Industrial Program Leader) (phase d'industrialisation, gestion, mise en œuvre, organisation de la production à plein régime),\nParticiper activement aux audits et aux visites des clients à l'usine et garantir le soutien de l'organisation,\nÉtablir le calendrier du programme et assurer son suivi avec le responsable de programme,\nCollecter et mettre à jour régulièrement la documentation du programme (tableau de bord du programme, PLR – Rapport de lancement du programme, rapports de suivi des performances de lancement et indicateurs KPI, plan d’affaires, analyse des risques et des opportunités) pour le responsable de programme, et animer des réunions de revue sur ces sujets, si nécessaire,\nGérer la documentation relative aux lots de travail afin de garantir la réalisation des livrables du programme et de contribuer à la réussite des objectifs du programme,\nSoutenir les procédures et la mise en œuvre des demandes de modification technique (ECR),\nAssurer la coordination entre toutes les fonctions, telles que la qualité pour la validation, la logistique pour la gestion de la production, etc.,\nAssister le contrôleur de programme dans l’élaboration du plan d’affaires,\nSoutenir les activités d’industrialisation lors de la réception de la nouvelle machine et de l’outillage, y compris la collecte des documents pertinents (tels que le protocole de réception et la documentation relative à la machine)",
+   "mission": "",
+   "profile": "Le candidat idéal devra posséder les qualités suivantes :\n\nNiveau d’études minimum : master en ingénierie, économie ou gestion.\n\nCompétences et aptitudes \n\nDynamique de groupe et gestion des relations : bonne compréhension de la dynamique d’équipe et capacité à gérer efficacement les relations, en particulier au sein d’équipes de grande taille. \nCompétences en communication et en organisation : excellentes aptitudes à la communication orale et écrite, ainsi qu’un sens aigu de l’organisation, de l’efficacité et de la hiérarchisation des tâches. Capacité à préparer des présentations destinées à la direction. \nPlanification et résolution de problèmes : capacité à définir des objectifs clairs et mesurables et à résoudre efficacement les problèmes. \nSolide connaissance des processus de gestion de programmes dans l’industrie automobile. \nMéthodologie 8D et, de préférence, maîtrise d’outils plus détaillés (5W2H, Ishikawa, etc.). \nGestion du temps et assurance qualité : capacité à gérer efficacement son temps sans compromettre la qualité.\nNégociation et diplomatie : Solides compétences en négociation et capacité à gérer les problèmes avec diplomatie et tact.\nSouci du détail et analyse des données : Sens aigu du détail et capacité à analyser les données avec précision. \nOutils : Outils de gestion de programme et MS Office (Excel et PowerPoint). \nAnglais : Maîtrise parfaite de l’anglais et capacité à comprendre et à s’exprimer dans un anglais des affaires de bon niveau.",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-19T09:39:51Z",
+   "sector": "",
+   "specialization": "[\"109\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-19T09:39:51Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-19T00:00:00",
+    "endBroadcastDate": "2026-11-18T00:00:00"
+   },
+   "summary": "Assurer la liaison entre l'équipe centrale et l'usine tout au long des différentes phases du projet et participer régulièrement aux réunions de l'équipe centrale,\nSoutenir la gestion et le suivi de la production en collaboration avec le PPTL (Program Plant Team Leader) et l'IPL (Industrial Program Leader) (phase d'industrialisation, gestion, mise en œuvre, organisation de la production à plein régime),\nParticiper activement aux audits et aux visites des clients à l'usine et garantir le soutien de l'organisation,\nÉtablir le calendrier du programme et assurer son suivi avec le responsable de programme,\nCollecter et mettre à jour régulièrement la documentation du programme (tableau de bord du programme, PLR – Rapport de lancement du programme, rapports de suivi des performances de lancement et indicateurs KPI, plan d’affaires, analyse des risques et des opportunités) pour le responsable de programme, et animer des réunions de revue sur ces sujets, si nécessaire, […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247222",
+   "score": 35,
+   "label": "À examiner",
+   "first_seen": "2026-10-19T13:11:36+00:00",
+   "axis_scores": {
+    "rd": 9,
+    "prod": 45,
+    "qual": 49,
+    "calc": 0
+   },
+   "dominant_axis": "qual",
+   "matched_families": [
+    {
+     "id": "prod4",
+     "axis": "prod",
+     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
+     "weight": 10,
+     "terms": [
+      "industrialisation",
+      "outillage",
+      "plant",
+      "usine"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "ingenierie"
+     ]
+    },
+    {
+     "id": "qual3",
+     "axis": "qual",
+     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
+     "weight": 7,
+     "terms": [
+      "8d"
+     ]
+    },
+    {
+     "id": "qual2",
+     "axis": "qual",
+     "source": "Qualité et normes (774-1, 14 h, coefficient 0,5)",
+     "weight": 4,
+     "terms": [
+      "assurance qualite"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "qualite",
+      "validation"
+     ]
+    },
+    {
+     "id": "rd9",
+     "axis": "rd",
+     "source": "Vocabulaire de laboratoire courant",
+     "weight": 3,
+     "terms": [
+      "resolution de problemes"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "automobile",
+      "industrial"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    },
+    {
+     "label": "Formation exigée hors cursus : score plafonné",
+     "terms": [
+      "gestion"
+     ],
+     "points": -15,
      "cap": 35
     }
    ]
@@ -16078,6 +16087,103 @@
    ]
   },
   {
+   "id": "247075",
+   "title": "Ingénieur projet électricité (H/F)",
+   "company": "HEDON TECHNOLOGIES TOULOUSE",
+   "country": "BELGIQUE",
+   "city": "BRUXELLES",
+   "description": "Pourquoi devenir hédoniste ?\n\nL’Hédonisme, c’est être heureux de se lever chaque matin\nParce que l’Efficience, c’est : un maximum de résultats avec un minimum d’efforts\nAvec de nombreuses perspectives d’évolution, dans la transparence, la proximité, la performance,\net au cœur des secteurs industriels et des projets innovants.\n\nPsst… Hedon c’est\n+ 250 collaborateurs en 6 ans\n20M de CA\n9 agences\nUn groupe européen\n\nJoin the team études électriques\n\nRéaliser des études électriques basse tension pour différents projets dans les secteurs tertiaire, industriel et pharmaceutique\n\nConcevoir et dimensionner les installations électriques en fonction des besoins et des contraintes techniques des projets\n\nParticiper à la conception des systèmes de détection et d'alarme incendie\n\nRéaliser les plans électriques, schémas de principe, plans d'implantation et documents techniques nécessaires à la réalisation des projets\n\nDimensionner les équipements électriques : tableaux basse tension, protections, câblages et réseaux de distribution\n\nDéfinir les implantations des équipements de détection incendie : détecteurs, déclencheurs manuels, centrales et dispositifs d'alarme\n\nVérifier la conformité des études avec les normes électriques et les réglementations applicables en matière de sécurité incendie\n\nCollaborer avec les équipes projets, les autres disciplines techniques et les clients afin de garantir la cohérence des installations\n\nParticiper aux réunions techniques et assurer le suivi des modifications tout au long des projets\n\nApporter un support technique aux équipes chantier pendant les phases d'installation, de mise en service et de réception\n\nContribuer à la résolution des problématiques techniques et à l'optimisation des solutions proposées\n\nWhat’s next ?\n\nUne première rencontre RH\n\nUn échange technique avec votre futur(e) manager\n\nLa rencontre client et le début de votre aventure d’hédoniste",
+   "mission": "",
+   "profile": "Diplômé(e) d'une formation Bac+5 en électricité, électrotechnique ou génie électrique\n\nBonnes connaissances en installations électriques basse tension et en dimensionnement des équipements\n\nConnaissances des systèmes de détection et d'alarme incendie\n\nCapacité à lire et réaliser des plans, schémas électriques et documents techniques\n\nMaîtrise des logiciels de conception électrique et de dessin technique, tels qu'AutoCAD ou des outils équivalents\n\nConnaissance des normes électriques et des réglementations relatives à la sécurité incendie\n\nCapacité à analyser les besoins techniques et à proposer des solutions adaptées aux contraintes du projet\n\nBon relationnel et aptitude à collaborer avec des équipes pluridisciplinaires\n\nRigoureux(se), organisé(e), autonome et doté(e) d'un bon esprit d'analyse\n\nCurieux(se), investi(e) et motivé(e) par la diversité des projets et des environnements techniques",
+   "duration": 24,
+   "start_date": "2026-12-01T00:00:00",
+   "end_date": "2028-12-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-14T13:27:02Z",
+   "sector": "",
+   "specialization": "[\"153\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-14T13:27:02Z",
+    "missionStartDate": "2026-12-01T00:00:00",
+    "missionEndDate": "2028-12-01T00:00:00",
+    "startBroadcastDate": "2026-10-19T00:00:00",
+    "endBroadcastDate": "2026-11-18T00:00:00"
+   },
+   "summary": "Pourquoi devenir hédoniste ?\n\nL’Hédonisme, c’est être heureux de se lever chaque matin\nParce que l’Efficience, c’est : un maximum de résultats avec un minimum d’efforts\nAvec de nombreuses perspectives d’évolution, dans la transparence, la proximité, la performance,\net au cœur des secteurs industriels et des projets innovants.\n\nPsst… Hedon c’est\n+ 250 collaborateurs en 6 ans\n20M de CA\n9 agences\nUn groupe européen\n\nJoin the team études électriques\n\nRéaliser des études électriques basse tension pour différents projets dans les secteurs tertiaire, industriel et pharmaceutique\n\nConcevoir et dimensionner les installations électriques en fonction des besoins et des contraintes techniques des projets\n\nParticiper à la conception des systèmes de détection et d'alarme incendie\n\nRéaliser les plans électriques, schémas de principe, plans d'implantation et documents techniques nécessaires à la réalisation des projets\n\nDimensionner les équipements électriques : tableaux basse tension, protections, câblages et réseaux de distribution […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247075",
+   "score": 35,
+   "label": "À examiner",
+   "first_seen": "2026-10-19T13:11:36+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 0,
+    "qual": 8,
+    "calc": 45
+   },
+   "dominant_axis": "calc",
+   "matched_families": [
+    {
+     "id": "calc3",
+     "axis": "calc",
+     "source": "Résistance des matériaux 1 et 2 (263-1, 270-1, 60 h), Élastoplasticité (279-1, 45 h)",
+     "weight": 11,
+     "terms": [
+      "dimensionnement"
+     ]
+    },
+    {
+     "id": "calc2",
+     "axis": "calc",
+     "source": "CAO (278-1, 30 h), Conception mécanique (264-1, 43 h)",
+     "weight": 9,
+     "terms": [
+      "dessin technique"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "conformite",
+      "normes"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "ingenieur"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "industriel"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    },
+    {
+     "label": "Formation exigée hors cursus : score plafonné",
+     "terms": [
+      "electrotechnique"
+     ],
+     "points": -17,
+     "cap": 35
+    }
+   ]
+  },
+  {
    "id": "247146",
    "title": "Chargé(e) de Développement Business Biochar / Région LATAM (H/F)",
    "company": "HOLCIM INNOVATION CENTER",
@@ -16200,7 +16306,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-07T15:09:37Z",
    "sector": "",
-   "specialization": "[\"79\",\"150\",\"206\",\"207\",\"208\"]",
+   "specialization": "79, 150, 206, 207, 208",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -16623,15 +16729,15 @@
    "expiry_date": "",
    "publish_date": "2026-09-21T11:54:30Z",
    "sector": "",
-   "specialization": "68",
+   "specialization": "[\"68\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-09-21T11:54:30Z",
     "missionStartDate": "2026-12-01T00:00:00",
     "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-22T00:00:00",
-    "endBroadcastDate": "2026-10-22T00:00:00"
+    "startBroadcastDate": "2026-10-19T00:00:00",
+    "endBroadcastDate": "2026-11-18T00:00:00"
    },
    "summary": "Notre société est spécialisée dans la distribution des produits en acier de nos usines françaises et européennes du groupe. Nos principaux clients sont des industriels comme les chantiers navals ou l’industrie automobile.\r\nEn tant que VIE spécialisé en performance énergétique, vous intégrerez le service énergie du site pour accompagner la démarche d’optimisation des consommations d’énergie et de réduction de l’empreinte carbone.\r\nVous participerez activement au développement des outils de suivi, à l’analyse des données et à la mise en place d’actions concrètes d’amélioration continue. Vous serez également amené(e) à sensibiliser les équipes aux bonnes pratiques énergétiques et à piloter certains projets techniques.\r\n• Développer et suivre les indicateurs de performance énergétique\r\n• Mettre en place et actualiser des tableaux de bord pour le suivi des consommations\r\n• Réaliser des analyses de données et proposer des plans d’action en cas de dérive\r\n• Participer au développement d’une plateforme de supervision des consommations énergétiques […]",
    "url": "https://mon-vie-via.businessfrance.fr/offres/246214",
@@ -17432,7 +17538,7 @@
    "expiry_date": "",
    "publish_date": "2026-02-23T15:38:40Z",
    "sector": "",
-   "specialization": "330",
+   "specialization": "[\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -17718,7 +17824,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-12T09:05:26Z",
    "sector": "",
-   "specialization": "327",
+   "specialization": "[\"327\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -17838,7 +17944,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-20T08:57:28Z",
    "sector": "",
-   "specialization": "192",
+   "specialization": "[\"192\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -18465,7 +18571,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-21T06:54:21Z",
    "sector": "",
-   "specialization": "63, 86, 106, 123, 192",
+   "specialization": "[\"63\",\"86\",\"106\",\"123\",\"192\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -18722,7 +18828,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-15T13:38:37Z",
    "sector": "",
-   "specialization": "73, 109, 149, 150, 206, 207, 262, 264, 330",
+   "specialization": "[\"73\",\"109\",\"149\",\"150\",\"206\",\"207\",\"262\",\"264\",\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -18928,7 +19034,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T08:07:40Z",
    "sector": "",
-   "specialization": "[\"251\"]",
+   "specialization": "251",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20505,15 +20611,15 @@
    "expiry_date": "",
    "publish_date": "2026-08-31T08:20:36Z",
    "sector": "",
-   "specialization": "2, 60, 62, 63, 64, 65, 66, 71, 73, 110, 112, 114, 133, 143, 144, 145, 149, 155, 158, 159, 160, 161, 168, 169, 205, 206, 207, 208, 213, 244, 245, 246, 247, 248, 249, 251, 327, 328, 329, 330, 331, 345, 355, 358",
+   "specialization": "[\"2\",\"60\",\"62\",\"63\",\"64\",\"65\",\"66\",\"71\",\"73\",\"110\",\"112\",\"114\",\"133\",\"143\",\"144\",\"145\",\"149\",\"155\",\"158\",\"159\",\"160\",\"161\",\"168\",\"169\",\"205\",\"206\",\"207\",\"208\",\"213\",\"244\",\"245\",\"246\",\"247\",\"248\",\"249\",\"251\",\"327\",\"328\",\"329\",\"330\",\"331\",\"345\",\"355\",\"358\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-08-31T08:20:36Z",
     "missionStartDate": "2026-12-01T00:00:00",
     "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-24T00:00:00",
-    "endBroadcastDate": "2026-10-24T00:00:00"
+    "startBroadcastDate": "2026-10-19T00:00:00",
+    "endBroadcastDate": "2026-11-18T00:00:00"
    },
    "summary": "Groupe international d’ingénierie et d'expertise en technologies, fortil repose sur un modèle indépendant et rassemble plus de 2 500 collaborateurs. Avec 30 agences réparties dans 14 pays, fortil cultive la liberté d'entreprendre et la libération des potentiels \n \nfortil Belgium porte des projets innovants en life science, énergie, aérospatial, défense et ferroviaire, en mettant son expertise scientifique et technique au service de ses partenaires\n\nVotre environnement technique\n\nNos ingénieur(e)s Systèmes Embarqués pilotent en partie les activités de « Digital Transformation ». Nous prenons actuellement en main des sujets d envergure dans les domaines de la défense, du maritime, des transports, de l'industrie, de l'énergétique, ou encore des maisons intelligentes. […]",
    "url": "https://mon-vie-via.businessfrance.fr/offres/245507",
@@ -20835,7 +20941,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T09:27:37Z",
    "sector": "",
-   "specialization": "244",
+   "specialization": "[\"244\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20924,7 +21030,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T09:01:30Z",
    "sector": "",
-   "specialization": "251",
+   "specialization": "[\"251\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -23913,7 +24019,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-21T09:47:43Z",
    "sector": "",
-   "specialization": "[\"66\",\"71\",\"143\"]",
+   "specialization": "66, 71, 143",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -24913,6 +25019,280 @@
    ]
   },
   {
+   "id": "245351",
+   "title": "INGÉNIEUR(E) EN AUTOMATISME (H/F)",
+   "company": "FORTIL GROUP",
+   "country": "BELGIQUE",
+   "city": "BRUXELLES",
+   "description": "Votre environnement technique\n\nNos ingénieurs en Automatisme pilotent les activités d' « Engineering & Commissioning ». Nous prenons actuellement en main des sujets d’envergure dans de nombreux domaines tels que la défense, le médical, le transport, l’énergie ou encore le nucléaire. Notre expertise s’applique à la production et/ou à la chefferie de projet notamment dans des environnements techniques complexes : le domaine de l’eau, le gaz, le milieu hospitalier, etc.\n\nNos interventions s’articulent autour de problématiques techniques liées aux dimensions :\n\n- Infrastructure\n- Utilities\n- Electricite Automatisme\n- HVAC / CVC\n- Process\n- Project management\n\nVos responsabilités métier \n\nPour accompagner l’équipe, vous êtes capable de prendre le lead sur tout ou partie des responsabilités métiers suivantes : \n\n- Rédaction des cahiers des charges et analyses fonctionnelles \n- Concevoir les programmes sur les automates \n- Développer la supervision \n- Mettre en place les systèmes et vérifier la conformité et le fonctionnement des installations par des tests \n- Réaliser la mise en service des installations chez le client \n- Réaliser les mises au point et assistance aux installations sur site client \n- Assurer l’interface avec les clients \n- Effectuer le reporting (état d’avancement, Non-conformité, etc.) \n\nVos atouts pour réussir \n\n- Vous maîtrisez PC Vue et/ou Wincc \n- Vous avez de bonnes connaissances dans les IHM Vijeo et Proface \n- Vous programmez les automates Schneider et/ou Siemens et/ou Rockwell et/ou Omron et/ou Honeywell et/ou Beckoff.",
+   "mission": "",
+   "profile": "Issu(e) d’une formation Bac+5 (Master ou cycle d’Ingénieur) en automatisme. Vous justifiez d’un stage ou d'une alternance sur un poste similaire. Autonome et rigoureux(se), vous disposez de fortes compétences techniques. Vous appréciez travailler en équipe. \n\nVous avez une appétence forte pour les projets complexes et la résolution de problématiques. On reconnait votre curiosité et votre culture technique dans le milieu professionnel mais aussi dans le milieu personnel. Vous avez une remise en cause facile et cherchez constamment à vous améliorer. \n\nVous entreprenez, portez des projets, des engagements. Vous challenger vos méthodes et vos idées pour vous dépasser et atteindre un haut niveau d’excellence. Dans ce contexte, vos moteurs peuvent être techniques, financiers ou humains, vous serez valorisé sur votre performance et/ou celle de votre équipe.",
+   "duration": 12,
+   "start_date": "2026-12-01T00:00:00",
+   "end_date": "2027-12-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-08-21T14:44:45Z",
+   "sector": "",
+   "specialization": "[\"2\",\"29\",\"35\",\"60\",\"62\",\"63\",\"64\",\"65\",\"66\",\"68\",\"69\",\"70\",\"71\",\"72\",\"73\",\"77\",\"86\",\"109\",\"114\",\"125\",\"133\",\"134\",\"135\",\"138\",\"139\",\"142\",\"143\",\"144\",\"145\",\"149\",\"150\",\"153\",\"155\",\"159\",\"160\",\"197\",\"206\",\"207\",\"208\",\"209\",\"224\",\"244\",\"347\",\"348\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-08-21T14:44:45Z",
+    "missionStartDate": "2026-12-01T00:00:00",
+    "missionEndDate": "2027-12-01T00:00:00",
+    "startBroadcastDate": "2026-10-19T00:00:00",
+    "endBroadcastDate": "2026-11-18T00:00:00"
+   },
+   "summary": "Votre environnement technique\n\nNos ingénieurs en Automatisme pilotent les activités d' « Engineering & Commissioning ». Nous prenons actuellement en main des sujets d’envergure dans de nombreux domaines tels que la défense, le médical, le transport, l’énergie ou encore le nucléaire. Notre expertise s’applique à la production et/ou à la chefferie de projet notamment dans des environnements techniques complexes : le domaine de l’eau, le gaz, le milieu hospitalier, etc.\n\nNos interventions s’articulent autour de problématiques techniques liées aux dimensions :\n\n- Infrastructure\n- Utilities\n- Electricite Automatisme\n- HVAC / CVC\n- Process\n- Project management\n\nVos responsabilités métier \n\nPour accompagner l’équipe, vous êtes capable de prendre le lead sur tout ou partie des responsabilités métiers suivantes : \n\n- Rédaction des cahiers des charges et analyses fonctionnelles \n- Concevoir les programmes sur les automates \n- Développer la supervision \n- Mettre en place les systèmes et vérifier la conformité et le fonctionnement des installations par des tests […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/245351",
+   "score": 30,
+   "label": "Périphérique",
+   "first_seen": "2026-08-24T16:01:18+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 10,
+    "qual": 8,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "engineering",
+      "methodes"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "conformite"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "ingenieur"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "defense",
+      "energie",
+      "nucleaire"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    },
+    {
+     "label": "Aucun terme industriel : score plafonné",
+     "terms": [],
+     "points": -1,
+     "cap": 30
+    }
+   ]
+  },
+  {
+   "id": "245350",
+   "title": "INGÉNIEUR(E) ÉLECTRICITÉ (H/F)",
+   "company": "FORTIL GROUP",
+   "country": "BELGIQUE",
+   "city": "BRUXELLES",
+   "description": "Groupe international d’ingénierie et d'expertise en technologies, fortil repose sur un modèle indépendant et rassemble plus de 2 500 collaborateurs. Avec 30 agences réparties dans 14 pays, fortil cultive la liberté d'entreprendre et la libération des potentiels \n \nfortil Belgium porte des projets innovants en life science, énergie, aérospatial, défense et ferroviaire, en mettant son expertise scientifique et technique au service de ses partenaires\n\nVos responsabilités métier \n\nPour accompagner l’équipe, vous êtes capable de prendre le lead sur tout ou partie des responsabilités métiers suivantes : \n\n- Rédaction ou Analyse du cahier des charges (DCE/DQE) \n- Analyse des contraintes de sécurité et/ou sûreté nucléaire (zonages incendie, de confinement, etc.…) \n- Réalisation d’études de conception \n- Modélisation 3D des systèmes CFO BT & CFI \n- Gestion des interfaces avec les réseaux divers (VRD) \n- Création de familles 3D sous contrôle du BIM Coordinator \n- Présynthèse réseaux \n- Edition de pièces graphiques (Plan de locaux techniques, plans de cheminements, Synoptiques, etc…) \n- Modification et création de schémas électriques sur autocad \n- Synthèse de données d’entrées \n- Réalisation de synoptiques \n- Plans d’implantation \n- Bilans de puissance \n- Notes de calculs sur CANECO \n- Assurer l’interface avec les clients \n- Assurer la mise en œuvre et le suivi du reporting (état d’avancement, Non-conformité, etc.) \n\nVous avez une volonté de vous professionnaliser sur les aspects manquants.",
+   "mission": "",
+   "profile": "Issu(e) d’une formation Bac+5 (Master ou cycle d’Ingénieur) en Génie électrique / électrotechnique, vous justifiez d’une première expérience sur un poste similaire. \n\nVous avez une appétence forte pour les projets complexes et la résolution de problématiques. On reconnait votre curiosité et votre culture technique dans le milieu professionnel mais aussi dans le milieu personnel. Vous avez une remise en cause facile et cherchez constamment à vous améliorer. \n\nVous entreprenez, portez des projets, des engagements. Vous challenger vos méthodes et vos idées pour vous dépasser et atteindre un haut niveau d’excellence.",
+   "duration": 12,
+   "start_date": "2026-12-01T00:00:00",
+   "end_date": "2027-12-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-08-21T14:43:55Z",
+   "sector": "",
+   "specialization": "[\"71\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-08-21T14:43:55Z",
+    "missionStartDate": "2026-12-01T00:00:00",
+    "missionEndDate": "2027-12-01T00:00:00",
+    "startBroadcastDate": "2026-10-19T00:00:00",
+    "endBroadcastDate": "2026-11-18T00:00:00"
+   },
+   "summary": "Groupe international d’ingénierie et d'expertise en technologies, fortil repose sur un modèle indépendant et rassemble plus de 2 500 collaborateurs. Avec 30 agences réparties dans 14 pays, fortil cultive la liberté d'entreprendre et la libération des potentiels \n \nfortil Belgium porte des projets innovants en life science, énergie, aérospatial, défense et ferroviaire, en mettant son expertise scientifique et technique au service de ses partenaires\n\nVos responsabilités métier \n\nPour accompagner l’équipe, vous êtes capable de prendre le lead sur tout ou partie des responsabilités métiers suivantes : \n\n- Rédaction ou Analyse du cahier des charges (DCE/DQE) \n- Analyse des contraintes de sécurité et/ou sûreté nucléaire (zonages incendie, de confinement, etc.…) \n- Réalisation d’études de conception \n- Modélisation 3D des systèmes CFO BT & CFI \n- Gestion des interfaces avec les réseaux divers (VRD) \n- Création de familles 3D sous contrôle du BIM Coordinator \n- Présynthèse réseaux \n- Edition de pièces graphiques (Plan de locaux techniques, plans de cheminements, Synoptiques, etc…) […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/245350",
+   "score": 30,
+   "label": "Périphérique",
+   "first_seen": "2026-08-24T16:01:18+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 10,
+    "qual": 8,
+    "calc": 27
+   },
+   "dominant_axis": "calc",
+   "matched_families": [
+    {
+     "id": "calc1",
+     "axis": "calc",
+     "source": "Éléments finis (256-1, 24 h), TP simulation numérique (272-1, 285-5, 285-4, 63 h), Calculs numériques de mise en forme (277-1, 286-1, 50 h)",
+     "weight": 12,
+     "terms": [
+      "modelisation"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "ingenierie",
+      "methodes"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "conformite"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "ingenieur"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "defense",
+      "energie",
+      "ferroviaire"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    },
+    {
+     "label": "Aucun terme industriel : score plafonné",
+     "terms": [],
+     "points": -12,
+     "cap": 30
+    }
+   ]
+  },
+  {
+   "id": "245348",
+   "title": "INGÉNIEUR SUPPLY CHAIN (H/F)",
+   "company": "FORTIL GROUP",
+   "country": "BELGIQUE",
+   "city": "LIEGE",
+   "description": "Groupe international d’ingénierie et d'expertise en technologies, fortil repose sur un modèle indépendant et rassemble plus de 2 500 collaborateurs. Avec 30 agences réparties dans 14 pays, fortil cultive la liberté d'entreprendre et la libération des potentiels \n \nfortil Belgium porte des projets innovants en life science, énergie, aérospatial, défense et ferroviaire, en mettant son expertise scientifique et technique au service de ses partenaires\n\nVotre environnement technique \n\nNos ingénieurs supply chain pilotent les activités de coordination de projets d'amélioration continue.\nNous prenons actuellement en main des sujets d’envergure dans de nombreux domaines tels que l'industrie pharmaceutique, l'aéronautique, l'énergie ou encore la chimie. Notre expertise s’applique à la production et/ou à la chefferie de projet notamment dans des environnements techniques complexes. \n\nNos interventions s’articulent autour de problématiques techniques liées aux dimensions : \nSupply chain & distribution \nRéalisation d'audit\nRéalisation de plans d'actions\n\nVos responsabilités métier \n\nDans l’exercice de vos fonctions, vous serez amené à : \nOptimiser les flux de production\nIdentifier et suivre les actions d’amélioration avec les équipes internes \nSuivre et pérenniser les plans d’actions via des audits\nPiloter la planification de la production en fonction de la demande client et des capacités industrielles\nOptimiser les flux de matières, d’informations et de produits finis\nGérer les outils ERP / APS (type SAP, Oracle, etc.) pour la planification et le suivi des activités\nAccompagner les équipes dans la mise en place des bonnes pratiques\nCoordonner les projets d’amélioration de la maturité Supply Chain\nAnalyser les indicateurs de performance (KPI) et proposer des actions correctives\n\nVous avez une volonté de vous professionnaliser sur les éventuelles compétences manquantes.",
+   "mission": "",
+   "profile": "Votre profil et votre personnalité\n\nDe formation ingénieur ou équivalente, vous justifiez d’au moins une première expérience réussie en industrie.\nVous avez une appétence forte pour les projets complexes et la résolution de problématiques. On reconnait votre curiosité et votre culture technique dans le milieu professionnel mais aussi dans le milieu personnel. Vous avez une remise en cause facile et cherchez constamment à vous améliorer.\n\nVous entreprenez, portez des projets, des engagements. Vous challenger vos méthodes et vos idées pour vous dépasser et atteindre un haut niveau d’excellence. Dans ce contexte, vos moteurs peuvent être techniques, financiers ou humains.",
+   "duration": 12,
+   "start_date": "2026-12-01T00:00:00",
+   "end_date": "2027-12-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-08-21T14:42:01Z",
+   "sector": "",
+   "specialization": "[\"2\",\"29\",\"60\",\"62\",\"63\",\"64\",\"65\",\"66\",\"68\",\"69\",\"70\",\"71\",\"72\",\"73\",\"76\",\"109\",\"114\",\"134\",\"138\",\"149\",\"150\",\"155\",\"158\",\"159\",\"160\",\"168\",\"169\",\"197\",\"205\",\"206\",\"207\",\"208\",\"209\",\"224\",\"225\",\"244\",\"248\",\"251\",\"262\",\"264\",\"330\",\"331\",\"358\",\"361\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-08-21T14:42:01Z",
+    "missionStartDate": "2026-12-01T00:00:00",
+    "missionEndDate": "2027-12-01T00:00:00",
+    "startBroadcastDate": "2026-10-19T00:00:00",
+    "endBroadcastDate": "2026-11-18T00:00:00"
+   },
+   "summary": "Groupe international d’ingénierie et d'expertise en technologies, fortil repose sur un modèle indépendant et rassemble plus de 2 500 collaborateurs. Avec 30 agences réparties dans 14 pays, fortil cultive la liberté d'entreprendre et la libération des potentiels \n \nfortil Belgium porte des projets innovants en life science, énergie, aérospatial, défense et ferroviaire, en mettant son expertise scientifique et technique au service de ses partenaires\n\nVotre environnement technique \n\nNos ingénieurs supply chain pilotent les activités de coordination de projets d'amélioration continue.\nNous prenons actuellement en main des sujets d’envergure dans de nombreux domaines tels que l'industrie pharmaceutique, l'aéronautique, l'énergie ou encore la chimie. Notre expertise s’applique à la production et/ou à la chefferie de projet notamment dans des environnements techniques complexes. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/245348",
+   "score": 30,
+   "label": "Périphérique",
+   "first_seen": "2026-08-24T16:01:18+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 10,
+    "qual": 8,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "amelioration continue",
+      "ingenierie",
+      "methodes"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "audit"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "ingenieur"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "aeronautique",
+      "chimie",
+      "defense"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    },
+    {
+     "label": "Aucun terme industriel : score plafonné",
+     "terms": [],
+     "points": -1,
+     "cap": 30
+    }
+   ]
+  },
+  {
    "id": "246199",
    "title": "INGÉNIEUR(E) QUALIFICATION / VALIDATION (H/F)",
    "company": "FORTIL GROUP",
@@ -25024,7 +25404,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-21T06:53:37Z",
    "sector": "",
-   "specialization": "86, 123, 125, 256",
+   "specialization": "[\"86\",\"123\",\"125\",\"256\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25106,280 +25486,6 @@
      "label": "Aucun terme industriel : score plafonné",
      "terms": [],
      "points": -21,
-     "cap": 30
-    }
-   ]
-  },
-  {
-   "id": "245351",
-   "title": "INGÉNIEUR(E) EN AUTOMATISME (H/F)",
-   "company": "FORTIL GROUP",
-   "country": "BELGIQUE",
-   "city": "BRUXELLES",
-   "description": "Votre environnement technique\n\nNos ingénieurs en Automatisme pilotent les activités d' « Engineering & Commissioning ». Nous prenons actuellement en main des sujets d’envergure dans de nombreux domaines tels que la défense, le médical, le transport, l’énergie ou encore le nucléaire. Notre expertise s’applique à la production et/ou à la chefferie de projet notamment dans des environnements techniques complexes : le domaine de l’eau, le gaz, le milieu hospitalier, etc.\n\nNos interventions s’articulent autour de problématiques techniques liées aux dimensions :\n\n- Infrastructure\n- Utilities\n- Electricite Automatisme\n- HVAC / CVC\n- Process\n- Project management\n\nVos responsabilités métier \n\nPour accompagner l’équipe, vous êtes capable de prendre le lead sur tout ou partie des responsabilités métiers suivantes : \n\n- Rédaction des cahiers des charges et analyses fonctionnelles \n- Concevoir les programmes sur les automates \n- Développer la supervision \n- Mettre en place les systèmes et vérifier la conformité et le fonctionnement des installations par des tests \n- Réaliser la mise en service des installations chez le client \n- Réaliser les mises au point et assistance aux installations sur site client \n- Assurer l’interface avec les clients \n- Effectuer le reporting (état d’avancement, Non-conformité, etc.) \n\nVos atouts pour réussir \n\n- Vous maîtrisez PC Vue et/ou Wincc \n- Vous avez de bonnes connaissances dans les IHM Vijeo et Proface \n- Vous programmez les automates Schneider et/ou Siemens et/ou Rockwell et/ou Omron et/ou Honeywell et/ou Beckoff.",
-   "mission": "",
-   "profile": "Issu(e) d’une formation Bac+5 (Master ou cycle d’Ingénieur) en automatisme. Vous justifiez d’un stage ou d'une alternance sur un poste similaire. Autonome et rigoureux(se), vous disposez de fortes compétences techniques. Vous appréciez travailler en équipe. \n\nVous avez une appétence forte pour les projets complexes et la résolution de problématiques. On reconnait votre curiosité et votre culture technique dans le milieu professionnel mais aussi dans le milieu personnel. Vous avez une remise en cause facile et cherchez constamment à vous améliorer. \n\nVous entreprenez, portez des projets, des engagements. Vous challenger vos méthodes et vos idées pour vous dépasser et atteindre un haut niveau d’excellence. Dans ce contexte, vos moteurs peuvent être techniques, financiers ou humains, vous serez valorisé sur votre performance et/ou celle de votre équipe.",
-   "duration": 12,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2027-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-08-21T14:44:45Z",
-   "sector": "",
-   "specialization": "2, 29, 35, 60, 62, 63, 64, 65, 66, 68, 69, 70, 71, 72, 73, 77, 86, 109, 114, 125, 133, 134, 135, 138, 139, 142, 143, 144, 145, 149, 150, 153, 155, 159, 160, 197, 206, 207, 208, 209, 224, 244, 347, 348",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-08-21T14:44:45Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-23T00:00:00",
-    "endBroadcastDate": "2026-10-23T00:00:00"
-   },
-   "summary": "Votre environnement technique\n\nNos ingénieurs en Automatisme pilotent les activités d' « Engineering & Commissioning ». Nous prenons actuellement en main des sujets d’envergure dans de nombreux domaines tels que la défense, le médical, le transport, l’énergie ou encore le nucléaire. Notre expertise s’applique à la production et/ou à la chefferie de projet notamment dans des environnements techniques complexes : le domaine de l’eau, le gaz, le milieu hospitalier, etc.\n\nNos interventions s’articulent autour de problématiques techniques liées aux dimensions :\n\n- Infrastructure\n- Utilities\n- Electricite Automatisme\n- HVAC / CVC\n- Process\n- Project management\n\nVos responsabilités métier \n\nPour accompagner l’équipe, vous êtes capable de prendre le lead sur tout ou partie des responsabilités métiers suivantes : \n\n- Rédaction des cahiers des charges et analyses fonctionnelles \n- Concevoir les programmes sur les automates \n- Développer la supervision \n- Mettre en place les systèmes et vérifier la conformité et le fonctionnement des installations par des tests […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/245351",
-   "score": 30,
-   "label": "Périphérique",
-   "first_seen": "2026-08-24T16:01:18+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 10,
-    "qual": 8,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "engineering",
-      "methodes"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "conformite"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "defense",
-      "energie",
-      "nucleaire"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Aucun terme industriel : score plafonné",
-     "terms": [],
-     "points": -1,
-     "cap": 30
-    }
-   ]
-  },
-  {
-   "id": "245350",
-   "title": "INGÉNIEUR(E) ÉLECTRICITÉ (H/F)",
-   "company": "FORTIL GROUP",
-   "country": "BELGIQUE",
-   "city": "BRUXELLES",
-   "description": "Groupe international d’ingénierie et d'expertise en technologies, fortil repose sur un modèle indépendant et rassemble plus de 2 500 collaborateurs. Avec 30 agences réparties dans 14 pays, fortil cultive la liberté d'entreprendre et la libération des potentiels \n \nfortil Belgium porte des projets innovants en life science, énergie, aérospatial, défense et ferroviaire, en mettant son expertise scientifique et technique au service de ses partenaires\n\nVos responsabilités métier \n\nPour accompagner l’équipe, vous êtes capable de prendre le lead sur tout ou partie des responsabilités métiers suivantes : \n\n- Rédaction ou Analyse du cahier des charges (DCE/DQE) \n- Analyse des contraintes de sécurité et/ou sûreté nucléaire (zonages incendie, de confinement, etc.…) \n- Réalisation d’études de conception \n- Modélisation 3D des systèmes CFO BT & CFI \n- Gestion des interfaces avec les réseaux divers (VRD) \n- Création de familles 3D sous contrôle du BIM Coordinator \n- Présynthèse réseaux \n- Edition de pièces graphiques (Plan de locaux techniques, plans de cheminements, Synoptiques, etc…) \n- Modification et création de schémas électriques sur autocad \n- Synthèse de données d’entrées \n- Réalisation de synoptiques \n- Plans d’implantation \n- Bilans de puissance \n- Notes de calculs sur CANECO \n- Assurer l’interface avec les clients \n- Assurer la mise en œuvre et le suivi du reporting (état d’avancement, Non-conformité, etc.) \n\nVous avez une volonté de vous professionnaliser sur les aspects manquants.",
-   "mission": "",
-   "profile": "Issu(e) d’une formation Bac+5 (Master ou cycle d’Ingénieur) en Génie électrique / électrotechnique, vous justifiez d’une première expérience sur un poste similaire. \n\nVous avez une appétence forte pour les projets complexes et la résolution de problématiques. On reconnait votre curiosité et votre culture technique dans le milieu professionnel mais aussi dans le milieu personnel. Vous avez une remise en cause facile et cherchez constamment à vous améliorer. \n\nVous entreprenez, portez des projets, des engagements. Vous challenger vos méthodes et vos idées pour vous dépasser et atteindre un haut niveau d’excellence.",
-   "duration": 12,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2027-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-08-21T14:43:55Z",
-   "sector": "",
-   "specialization": "71",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-08-21T14:43:55Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-23T00:00:00",
-    "endBroadcastDate": "2026-10-23T00:00:00"
-   },
-   "summary": "Groupe international d’ingénierie et d'expertise en technologies, fortil repose sur un modèle indépendant et rassemble plus de 2 500 collaborateurs. Avec 30 agences réparties dans 14 pays, fortil cultive la liberté d'entreprendre et la libération des potentiels \n \nfortil Belgium porte des projets innovants en life science, énergie, aérospatial, défense et ferroviaire, en mettant son expertise scientifique et technique au service de ses partenaires\n\nVos responsabilités métier \n\nPour accompagner l’équipe, vous êtes capable de prendre le lead sur tout ou partie des responsabilités métiers suivantes : \n\n- Rédaction ou Analyse du cahier des charges (DCE/DQE) \n- Analyse des contraintes de sécurité et/ou sûreté nucléaire (zonages incendie, de confinement, etc.…) \n- Réalisation d’études de conception \n- Modélisation 3D des systèmes CFO BT & CFI \n- Gestion des interfaces avec les réseaux divers (VRD) \n- Création de familles 3D sous contrôle du BIM Coordinator \n- Présynthèse réseaux \n- Edition de pièces graphiques (Plan de locaux techniques, plans de cheminements, Synoptiques, etc…) […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/245350",
-   "score": 30,
-   "label": "Périphérique",
-   "first_seen": "2026-08-24T16:01:18+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 10,
-    "qual": 8,
-    "calc": 27
-   },
-   "dominant_axis": "calc",
-   "matched_families": [
-    {
-     "id": "calc1",
-     "axis": "calc",
-     "source": "Éléments finis (256-1, 24 h), TP simulation numérique (272-1, 285-5, 285-4, 63 h), Calculs numériques de mise en forme (277-1, 286-1, 50 h)",
-     "weight": 12,
-     "terms": [
-      "modelisation"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "ingenierie",
-      "methodes"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "conformite"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "defense",
-      "energie",
-      "ferroviaire"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Aucun terme industriel : score plafonné",
-     "terms": [],
-     "points": -12,
-     "cap": 30
-    }
-   ]
-  },
-  {
-   "id": "245348",
-   "title": "INGÉNIEUR SUPPLY CHAIN (H/F)",
-   "company": "FORTIL GROUP",
-   "country": "BELGIQUE",
-   "city": "LIEGE",
-   "description": "Groupe international d’ingénierie et d'expertise en technologies, fortil repose sur un modèle indépendant et rassemble plus de 2 500 collaborateurs. Avec 30 agences réparties dans 14 pays, fortil cultive la liberté d'entreprendre et la libération des potentiels \n \nfortil Belgium porte des projets innovants en life science, énergie, aérospatial, défense et ferroviaire, en mettant son expertise scientifique et technique au service de ses partenaires\n\nVotre environnement technique \n\nNos ingénieurs supply chain pilotent les activités de coordination de projets d'amélioration continue.\nNous prenons actuellement en main des sujets d’envergure dans de nombreux domaines tels que l'industrie pharmaceutique, l'aéronautique, l'énergie ou encore la chimie. Notre expertise s’applique à la production et/ou à la chefferie de projet notamment dans des environnements techniques complexes. \n\nNos interventions s’articulent autour de problématiques techniques liées aux dimensions : \nSupply chain & distribution \nRéalisation d'audit\nRéalisation de plans d'actions\n\nVos responsabilités métier \n\nDans l’exercice de vos fonctions, vous serez amené à : \nOptimiser les flux de production\nIdentifier et suivre les actions d’amélioration avec les équipes internes \nSuivre et pérenniser les plans d’actions via des audits\nPiloter la planification de la production en fonction de la demande client et des capacités industrielles\nOptimiser les flux de matières, d’informations et de produits finis\nGérer les outils ERP / APS (type SAP, Oracle, etc.) pour la planification et le suivi des activités\nAccompagner les équipes dans la mise en place des bonnes pratiques\nCoordonner les projets d’amélioration de la maturité Supply Chain\nAnalyser les indicateurs de performance (KPI) et proposer des actions correctives\n\nVous avez une volonté de vous professionnaliser sur les éventuelles compétences manquantes.",
-   "mission": "",
-   "profile": "Votre profil et votre personnalité\n\nDe formation ingénieur ou équivalente, vous justifiez d’au moins une première expérience réussie en industrie.\nVous avez une appétence forte pour les projets complexes et la résolution de problématiques. On reconnait votre curiosité et votre culture technique dans le milieu professionnel mais aussi dans le milieu personnel. Vous avez une remise en cause facile et cherchez constamment à vous améliorer.\n\nVous entreprenez, portez des projets, des engagements. Vous challenger vos méthodes et vos idées pour vous dépasser et atteindre un haut niveau d’excellence. Dans ce contexte, vos moteurs peuvent être techniques, financiers ou humains.",
-   "duration": 12,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2027-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-08-21T14:42:01Z",
-   "sector": "",
-   "specialization": "2, 29, 60, 62, 63, 64, 65, 66, 68, 69, 70, 71, 72, 73, 76, 109, 114, 134, 138, 149, 150, 155, 158, 159, 160, 168, 169, 197, 205, 206, 207, 208, 209, 224, 225, 244, 248, 251, 262, 264, 330, 331, 358, 361",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-08-21T14:42:01Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-23T00:00:00",
-    "endBroadcastDate": "2026-10-23T00:00:00"
-   },
-   "summary": "Groupe international d’ingénierie et d'expertise en technologies, fortil repose sur un modèle indépendant et rassemble plus de 2 500 collaborateurs. Avec 30 agences réparties dans 14 pays, fortil cultive la liberté d'entreprendre et la libération des potentiels \n \nfortil Belgium porte des projets innovants en life science, énergie, aérospatial, défense et ferroviaire, en mettant son expertise scientifique et technique au service de ses partenaires\n\nVotre environnement technique \n\nNos ingénieurs supply chain pilotent les activités de coordination de projets d'amélioration continue.\nNous prenons actuellement en main des sujets d’envergure dans de nombreux domaines tels que l'industrie pharmaceutique, l'aéronautique, l'énergie ou encore la chimie. Notre expertise s’applique à la production et/ou à la chefferie de projet notamment dans des environnements techniques complexes. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/245348",
-   "score": 30,
-   "label": "Périphérique",
-   "first_seen": "2026-08-24T16:01:18+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 10,
-    "qual": 8,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "amelioration continue",
-      "ingenierie",
-      "methodes"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "audit"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "aeronautique",
-      "chimie",
-      "defense"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Aucun terme industriel : score plafonné",
-     "terms": [],
-     "points": -1,
      "cap": 30
     }
    ]
@@ -26452,7 +26558,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-15T12:00:46Z",
    "sector": "",
-   "specialization": "168",
+   "specialization": "[\"168\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26550,7 +26656,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-09T09:43:27Z",
    "sector": "",
-   "specialization": "[\"206\"]",
+   "specialization": "206",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26746,7 +26852,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-21T04:54:54Z",
    "sector": "",
-   "specialization": "149, 327, 328, 329",
+   "specialization": "[\"149\",\"327\",\"328\",\"329\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27143,7 +27249,7 @@
    "expiry_date": "",
    "publish_date": "2026-03-05T13:22:50Z",
    "sector": "",
-   "specialization": "251",
+   "specialization": "[\"251\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27922,7 +28028,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-05T16:40:38Z",
    "sector": "",
-   "specialization": "330",
+   "specialization": "[\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29016,98 +29122,6 @@
    ]
   },
   {
-   "id": "246112",
-   "title": "VIE qualité (H/F)",
-   "company": "VINCI CONSTRUCTION GRANDS PROJETS",
-   "country": "CANADA",
-   "city": "TORONTO",
-   "description": "QA/QC coordinator with 3 to 5 years of experience in industrial or construction environments, focused on Quality Control while supporting Quality Assurance activities. Responsible for ensure correct follow-up of the Inspection and Test Plans (ITPs), performing and witnessing inspections in accordance with approved Inspection & Test Plans, verifying compliance with project specifications, procedures, and client requirements.\n\nKey responsibilities include monitoring and following up on Non-Conformance Reports (NCRs), supporting root cause analysis and corrective actions, maintaining quality records and inspection documentation, and ensuring timely closure of quality issues. Delivers regular Quality Toolbox Talks (TBTs) to promote quality awareness, reinforce project requirements, and drive a culture of continuous improvement.\n\nSupports Quality Assurance activities through participation in audits, compliance checks, document control, and implementation of quality management system requirements. Strong attention to detail, communication skills, and ability to collaborate effectively with construction team, design teams, subcontractors/designers, our Client and its Enginee, in a Canadian environment with international team.",
-   "mission": "",
-   "profile": "QA/QC coordinator with 3 to 5 years of experience in industrial or construction environments, focused on Quality Control while supporting Quality Assurance activities. Responsible for ensure correct follow-up of the Inspection and Test Plans (ITPs), performing and witnessing inspections in accordance with approved Inspection & Test Plans, verifying compliance with project specifications, procedures, and client requirements.",
-   "duration": 12,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-18T07:55:37Z",
-   "sector": "",
-   "specialization": "[\"155\"]",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-18T07:55:37Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-09-18T00:00:00",
-    "endBroadcastDate": "2026-10-18T00:00:00"
-   },
-   "summary": "QA/QC coordinator with 3 to 5 years of experience in industrial or construction environments, focused on Quality Control while supporting Quality Assurance activities. Responsible for ensure correct follow-up of the Inspection and Test Plans (ITPs), performing and witnessing inspections in accordance with approved Inspection & Test Plans, verifying compliance with project specifications, procedures, and client requirements.\n\nKey responsibilities include monitoring and following up on Non-Conformance Reports (NCRs), supporting root cause analysis and corrective actions, maintaining quality records and inspection documentation, and ensuring timely closure of quality issues. Delivers regular Quality Toolbox Talks (TBTs) to promote quality awareness, reinforce project requirements, and drive a culture of continuous improvement.\n\nSupports Quality Assurance activities through participation in audits, compliance checks, document control, and implementation of quality management system requirements. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246112",
-   "score": 30,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 10,
-    "qual": 23,
-    "calc": 0
-   },
-   "dominant_axis": "qual",
-   "matched_families": [
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "continuous improvement"
-     ]
-    },
-    {
-     "id": "qual2",
-     "axis": "qual",
-     "source": "Qualité et normes (774-1, 14 h, coefficient 0,5)",
-     "weight": 4,
-     "terms": [
-      "quality assurance"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "compliance",
-      "inspection",
-      "qualite",
-      "quality"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "qualite"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "industrial"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Aucun terme industriel : score plafonné",
-     "terms": [],
-     "points": -5,
-     "cap": 30
-    }
-   ]
-  },
-  {
    "id": "246717",
    "title": "Data Analyst – Opérations (H/F)",
    "company": "YEGO URBAN MOBILITY FRANCE, S.A.S.",
@@ -29604,15 +29618,15 @@
    "expiry_date": "",
    "publish_date": "2026-08-21T14:46:23Z",
    "sector": "",
-   "specialization": "2, 60, 63, 64, 65, 66, 68, 69, 70, 71, 72, 73, 77, 80, 109, 113, 114, 117, 123, 125, 133, 137, 138, 139, 142, 143, 144, 145, 146, 147, 149, 150, 153, 155, 158, 159, 160, 161, 168, 169, 175, 197, 206, 207, 208, 209, 213, 224, 225, 226, 228, 244, 245, 246, 247, 248, 251, 256, 264, 311, 351, 354, 355, 356, 357, 358, 361, 365, 366, 367, 368, 369, 370, 371",
+   "specialization": "[\"2\",\"60\",\"63\",\"64\",\"65\",\"66\",\"68\",\"69\",\"70\",\"71\",\"72\",\"73\",\"77\",\"80\",\"109\",\"113\",\"114\",\"117\",\"123\",\"125\",\"133\",\"137\",\"138\",\"139\",\"142\",\"143\",\"144\",\"145\",\"146\",\"147\",\"149\",\"150\",\"153\",\"155\",\"158\",\"159\",\"160\",\"161\",\"168\",\"169\",\"175\",\"197\",\"206\",\"207\",\"208\",\"209\",\"213\",\"224\",\"225\",\"226\",\"228\",\"244\",\"245\",\"246\",\"247\",\"248\",\"251\",\"256\",\"264\",\"311\",\"351\",\"354\",\"355\",\"356\",\"357\",\"358\",\"361\",\"365\",\"366\",\"367\",\"368\",\"369\",\"370\",\"371\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-08-21T14:46:23Z",
     "missionStartDate": "2026-12-01T00:00:00",
     "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-23T00:00:00",
-    "endBroadcastDate": "2026-10-23T00:00:00"
+    "startBroadcastDate": "2026-10-19T00:00:00",
+    "endBroadcastDate": "2026-11-18T00:00:00"
    },
    "summary": "Votre environnement technique :\n\nNos Project Engineers pilotent des activités d'ingénierie sur différentes disciplines techniques. Nous prenons actuellement en main des sujets d’envergure sur le développement et la conception d'installations et d'équipements dans le secteur de l'énergie et de la production industrielle.\n\nVos responsabilités métier :\n\nPour accompagner l’équipe, vous êtes capable de prendre le lead sur tout ou partie des responsabilités métiers suivantes :\n\nGestion de projet sur différentes phases d'engineering\nGestion de l'interface avec le Project Manager et le Client\nProcurement : Rédaction de documentation technique, comparaison d'offres, support au service achat\nGestion des documentations techniques multidisciplinaires (Electricité, Automatisme, Instrumentation, Génie Civil, Mécanique, ...)\nCoordinations des équipes d'ingénieurs en bureau d'étude\nSuivre les phases de réalisation, de production et de mise en service\n\nVous avez une volonté de vous professionnaliser sur les éventuelles compétences manquantes.",
    "url": "https://mon-vie-via.businessfrance.fr/offres/245353",
@@ -29819,7 +29833,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-16T10:04:59Z",
    "sector": "",
-   "specialization": "[\"259\"]",
+   "specialization": "259",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29912,7 +29926,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-23T07:37:46Z",
    "sector": "",
-   "specialization": "[\"318\"]",
+   "specialization": "318",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29970,71 +29984,6 @@
      "terms": [
       "audit",
       "quality"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
-   "id": "247077",
-   "title": "Chargé(e) de mission (numérique) (H/F)",
-   "company": "MINISTERE DE L'EUROPE ET DES AFFAIRES ETRANGERES",
-   "country": "ESPAGNE",
-   "city": "MADRID",
-   "description": "Descriptif détaillé des missions proposées : \n\nSous l’autorité hiérarchique de Sarah Trin, responsable communication et relations presse au sein de l’Institut français d’Espagne (IFE) à Madrid, le/la VIA exercera les missions suivantes : \n\n1) Gérer le site internet de l’IFE :\n• Mettre à jour le site internet www.institutfrancais.es\n• Rédiger tout texte utile (article, rubrique, message court, etc.)\n• Assurer le suivi technique et la mise à jour des contenus, en lien avec les prestataires,\n• Veiller à la cohérence éditoriale du site, en lien avec les antennes de l’IFE.\n2) Gérer les réseaux sociaux de l’IFE :\n• Participer à l’élaboration d’une stratégie de communication adaptée sur les réseaux sociaux,\n• Participer à l’animation des réseaux sociaux de l’IFE antenne de Madrid (Facebook, LinkedIn, Instagram, Youtube …),\n• Rédiger et mettre en ligne les messages appropriés et participer à la réalisation de contenus visuels (images et vidéos) attractifs,\n• Assurer une veille sur les réseaux sociaux et la modération des contenus,\n• Assurer le respect des plannings\n• Analyser les actions portées.\n3) Participer à la promotion de la programmation culturelle de l’IFE-MADRID et à la vie de l’établissement, notamment en assurant la couverture des évènements.\n\n- Environnement professionnel, horaires de travail, disponibilité soirs/weekends :\n• Travail en réseau avec les responsables de la communication des différentes antennes de l’IFE Espagne (à distance)\n• La/Le titulaire du poste sera régulièrement mobilisé(e) en soirée pour couvrir les évènements organisés par l’établissement. Il est impératif d’être disponible en soirée.\n\n- Règlement intérieur appliqué et droit ou non aux RTT : 11 jours de RTT et 30 jours de congés annuels\n\n- Spécificités concernant les congés : Il est demandé de poser ses congés pendant les périodes de fermeture de l’IF (fêtes de fin d’année, Semana santa, fin juillet-août).\n\n- Déplacements / missions fréquentes : Pas ou peu de déplacements hors de Madrid.\n\n- Composition de l’équipe de travail : Un responsable du Pôle communication et relations presse, 1 VIA (poste à pourvoir), 1 service civique, 1 stagiaire sur certaines périodes.\n\nATTENTION : Veillez à postuler via cette plate-forme pendant que l’offre est en ligne. Passé ce délai, il ne sera plus possible de candidater. Les transmissions de candidatures aux conseillers RH ou aux structures d’accueils ne seront pas prises en compte.\nToute candidature à cette offre suppose obligatoirement une inscription préalable sur le site https://monvievia.businessfrance.fr/ Les candidat(e)s non inscrit(e)s ne seront pas retenu(e)s.\n• Les niveaux de langues étrangères devront être OBLIGATOIREMENT précisés selon le cadre européen de référence pour les langues (CECRL) A1, A2, B1, B2, C1, C2.\n• Merci d'adresser ==IMPERATIVEMENT== votre CV et lettre de motivation EN FRANÇAIS, au format PDF en respectant le format de fichiers ci-après :\nNOM Prénom CV.pdf\nNOM Prénom LM.pdf\n• Tout dossier de candidature adressé directement à l’organisme d’affectation et/ou qui serait incomplet ou non conforme NE SERA PAS RETENU.\n• Les lettres de recommandation, prises de contact via les réseaux sociaux (Linkedin, Instagram, etc...) ou autres formes d’intervention auprès des organismes d’affectation (ce qui inclut la DRH) sont proscrites.\n• Si vous ne recevez pas d'information de notre part sous 8 semaines après expiration de l’annonce, vous pourrez considérer que, malgré tout l'intérêt que présente votre profil, il ne correspond pas à nos besoins actuels.\n• Les entretiens auront lieu principalement en visioconférence.\n• Dans le cadre du processus de recrutement, le ministère de l’Europe et des affaires étrangères est susceptible de procéder à une prise de référence auprès des anciens employeurs des candidats, conformément aux articles 1221-8 et 1221-9 du code du travail, en l’absence de disposition dans le code général de la fonction publique ou dans le code du service national.\n• Le/la candidat(e) devra être éligible à l'obtention d'un passeport de service/diplomatique pour le pays de destination.\n• La consultation de la fiche « conseils aux voyageurs » sur le site du MEAE est ==INDISPENSABLE== au moment de postuler : https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/",
-   "mission": "",
-   "profile": "Profil souhaité : \nDiplômes demandés :\nTitulaire d’un master en communication avec option digitale ou tout autre diplôme équivalent permettant d’être en charge du numérique.\n\nLangues : La maîtrise de l’espagnol écrit et parlé est indispensable (niveau minimum C1 requis)\n\nCompétences informatiques : \n• Très bonne maîtrise de WordPress (développement de plugins & thèmes)\n• Bonnes pratiques du Web, maîtrise des logiciels de traitement graphique (Photoshop / Indesign/ Canva) pour la création de supports de communication et de visuels, des logiciels de montage vidéo (Premiere Pro/ Capcut). \n• Connaissance du marketing digital (SEO / SEM) appréciée.\n\nCompétences attendues pour les missions : (profil, connaissance du pays / de la zone géographique, savoir-faire, savoir-être)\n• Aisance rédactionnelle et relationnelle \n• Méthodologie d'analyse stratégique (KPI)\n• Capacité à travailler en réseau avec les responsables de la communication des différentes antennes de l’IF Espagne\n• Esprit d’initiative et d’autonomie\n• Dynamisme et disponibilité\n• Animer un réseau, une communauté\n• Maîtriser les délais\n• Organiser \n\nAutres : Intérêt marqué pour la culture et la programmation culturelle de l’Institut français.\n\nObservations particulières sur le poste : \nPoste intégré à l’équipe de communication de l’Institut français d’Espagne à Madrid. Le/la titulaire contribue à la visibilité de l’établissement, au rayonnement de la France en Espagne et à la promotion de la programmation culturelle, notamment par la couverture des événements.\nLe/la VIA participe également à la promotion de la programmation culturelle de l’IFE-Madrid et à la vie de l’établissement, notamment par la couverture des événements. Il/elle contribue au suivi des performances de communication, rend compte régulièrement des indicateurs et formule des recommandations pour améliorer la politique de communication.",
-   "duration": 12,
-   "start_date": "2027-02-01T00:00:00",
-   "end_date": "2028-02-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-14T14:03:12Z",
-   "sector": "",
-   "specialization": "[\"26\",\"139\"]",
-   "contract": "VIA",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-14T14:03:12Z",
-    "missionStartDate": "2027-02-01T00:00:00",
-    "missionEndDate": "2028-02-01T00:00:00",
-    "startBroadcastDate": "2026-10-14T00:00:00",
-    "endBroadcastDate": "2026-10-18T00:00:00"
-   },
-   "summary": "Descriptif détaillé des missions proposées : \n\nSous l’autorité hiérarchique de Sarah Trin, responsable communication et relations presse au sein de l’Institut français d’Espagne (IFE) à Madrid, le/la VIA exercera les missions suivantes : \n\n1) Gérer le site internet de l’IFE :\n• Mettre à jour le site internet www.institutfrancais.es\n• Rédiger tout texte utile (article, rubrique, message court, etc.)\n• Assurer le suivi technique et la mise à jour des contenus, en lien avec les prestataires,\n• Veiller à la cohérence éditoriale du site, en lien avec les antennes de l’IFE.\n2) Gérer les réseaux sociaux de l’IFE :\n• Participer à l’élaboration d’une stratégie de communication adaptée sur les réseaux sociaux,\n• Participer à l’animation des réseaux sociaux de l’IFE antenne de Madrid (Facebook, LinkedIn, Instagram, Youtube …),\n• Rédiger et mettre en ligne les messages appropriés et participer à la réalisation de contenus visuels (images et vidéos) attractifs,\n• Assurer une veille sur les réseaux sociaux et la modération des contenus,\n• Assurer le respect des plannings […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/247077",
-   "score": 29,
-   "label": "Périphérique",
-   "first_seen": "2026-10-14T18:37:51+00:00",
-   "axis_scores": {
-    "rd": 31,
-    "prod": 24,
-    "qual": 0,
-    "calc": 0
-   },
-   "dominant_axis": "rd",
-   "matched_families": [
-    {
-     "id": "prod6",
-     "axis": "prod",
-     "source": "Outils et moyens de fabrication (259-1, 30 h)",
-     "weight": 7,
-     "terms": [
-      "presse"
-     ]
-    },
-    {
-     "id": "rd8",
-     "axis": "rd",
-     "source": "Alternance : investigation & problem solving, analyse microstructurale",
-     "weight": 11,
-     "terms": [
-      "sem"
      ]
     }
    ],
@@ -30499,7 +30448,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-26T15:21:54Z",
    "sector": "",
-   "specialization": "6, 7, 21, 78, 130, 158, 195, 207, 244, 264",
+   "specialization": "[\"6\",\"7\",\"21\",\"78\",\"130\",\"158\",\"195\",\"207\",\"244\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31145,97 +31094,6 @@
    ]
   },
   {
-   "id": "245853",
-   "title": "Ingénieur logiciel IA, Member of Technical Staff (H/F)",
-   "company": "EFE INTERNATIONAL",
-   "country": "ETATS-UNIS",
-   "city": "SAN FRANCISCO -CA-",
-   "description": "A propos de l'entreprise : \n\nClarityCare AI est une start-up basée à San Francisco, fondée en 2024, qui développe des agents d'intelligence artificielle pour les assureurs santé américains. Nos agents lisent, analysent et adjudiquent en temps réel des dossiers cliniques complexes et des tâches administratives, en traitant des milliers de pages de données médicales par heure, et transmettent les décisions directement dans les systèmes du secteur de la santé américain. Nous couvrons aujourd'hui plus de 6 millions de patients.\nL'administratif santé aux États-Unis représente un marché de 1 200 milliards de dollars; nous construisons l'infrastructure qui permet de le faire fonctionner en temps réel. Lancement commercial fin 2025, chiffre d'affaires récurrent à sept chiffres en moins de quatre mois, 20 millions de dollars levés.\nL'équipe est petite et très dense: anciens fondateurs, ingénieurs et chercheurs issus du MIT, de Stanford, de Harvard et de start-ups IA. Toute l'équipe technique est à San Francisco, en présentiel, et travaille directement avec les équipes cliniques de nos clients.\n\nA propos du rôle et des missions : \n\nSous la supervision de la CEO et du CTO, et en soutien de l'équipe technique, le/la Volontaire participe à la conception, au développement et à l'évaluation de nos agents IA. La mission a une vocation formatrice: le/la Volontaire est encadré(e) par un maître de stage désigné et suit un plan de formation défini avec le sponsor du visa J-1.\nMissions principales:\n- contribuer, sous la supervision d'un ingénieur senior, au développement des agents d'IA (LLM, orchestration, extraction et raisonnement sur des documents cliniques);\n- participer à l'évaluation de la qualité et de la fiabilité des modèles (jeux de tests, métriques, revues avec les cliniciens);\n- contribuer à l'intégration de nos agents dans les systèmes de nos clients (API, pipelines de données, sécurité et conformité HIPAA);\n- participer, en soutien du responsable de compte, aux échanges avec les équipes cliniques des clients pour comprendre les cas d'usage et remonter les retours;\n- documenter le travail réalisé et présenter régulièrement l'avancement à l'équipe.\nLe/la Volontaire n'exerce aucune fonction managériale et ne dispose d'aucun pouvoir d'engagement de la société.",
-   "mission": "",
-   "profile": "Veuillez inclure avec votre candidature : \r\n1. votre profil GitHub (lien)\r\n2. votre profil DevPost ou autre plateforme\r\n3. et toute mention qui puisse constituer une preuve de travail existant de développement de logiciel\r\n\r\nProfil : Jeune diplômé(e) ingénieur ou master en informatique / intelligence artificielle, avec de solides bases en développement logiciel (Python, TypeScript) et en machine learning, en particulier les grands modèles de langage. Une expérience avec les outils de déploiement et de cloud (AWS, Docker, Kubernetes) est un plus. Curiosité pour la santé et le produit, rigueur, autonomie et goût pour le travail en petite équipe qui livre vite. \r\n\r\nAu moins 1 an d'expérience en software engineering. Stages ou projets significatifs en développement logiciel, IA ou recherche (start-up, laboratoire); une première expérience avec des LLM en production est un plus.\r\n\r\nSpécialisation : Informatique, intelligence artificielle / machine learning, génie logiciel\r\n\r\nLangues parlées : Anglais courant indispensable (environnement de travail entièrement anglophone); français\r\n\r\nNiveau d'étude : Bac+5\r\n\r\nDiplôme :Diplôme d'ingénieur ou master universitaire en informatique / IA",
-   "duration": 18,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-07-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-11T10:55:11Z",
-   "sector": "",
-   "specialization": "[\"138\",\"248\",\"330\",\"355\"]",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-11T10:55:11Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-07-01T00:00:00",
-    "startBroadcastDate": "2026-09-18T00:00:00",
-    "endBroadcastDate": "2026-10-18T00:00:00"
-   },
-   "summary": "A propos de l'entreprise : \n\nClarityCare AI est une start-up basée à San Francisco, fondée en 2024, qui développe des agents d'intelligence artificielle pour les assureurs santé américains. Nos agents lisent, analysent et adjudiquent en temps réel des dossiers cliniques complexes et des tâches administratives, en traitant des milliers de pages de données médicales par heure, et transmettent les décisions directement dans les systèmes du secteur de la santé américain. Nous couvrons aujourd'hui plus de 6 millions de patients.\nL'administratif santé aux États-Unis représente un marché de 1 200 milliards de dollars; nous construisons l'infrastructure qui permet de le faire fonctionner en temps réel. Lancement commercial fin 2025, chiffre d'affaires récurrent à sept chiffres en moins de quatre mois, 20 millions de dollars levés.\nL'équipe est petite et très dense: anciens fondateurs, ingénieurs et chercheurs issus du MIT, de Stanford, de Harvard et de start-ups IA. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/245853",
-   "score": 28,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 10,
-    "qual": 8,
-    "calc": 9
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
-     "weight": 4,
-     "terms": [
-      "python"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "engineering"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "conformite",
-      "qualite"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "laboratoire"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "246545",
    "title": "Data Analyst - Bucharest (H/F)",
    "company": "EXTIA",
@@ -31327,7 +31185,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T08:10:26Z",
    "sector": "",
-   "specialization": "[\"238\"]",
+   "specialization": "238",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31405,7 +31263,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T08:06:58Z",
    "sector": "",
-   "specialization": "[\"238\"]",
+   "specialization": "238",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32090,7 +31948,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-07T10:47:34Z",
    "sector": "",
-   "specialization": "247",
+   "specialization": "[\"247\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32324,6 +32182,99 @@
    ]
   },
   {
+   "id": "247161",
+   "title": "HR Generalist (H/F)",
+   "company": "OPMOBILITY EXTERIOR SERVICES",
+   "country": "TCHEQUIE / REPUBLIQUE TCHEQUE",
+   "city": "NOVY JICIN",
+   "description": "VIE HR Development & People Analytics\n\nAs a VIE HR Development & People Analytics Specialist, you will support the implementation of talent development, learning, and workforce capability initiatives. You will play an active role in developing skill management processes, analyzing HR data, and supporting strategic workforce planning to ensure organizational readiness for future business needs.\nThis position offers a unique opportunity to combine HR analytics with employee development in an international manufacturing environment.\n\nMain Responsibilities\n\nPeople Analytics & HR Data\n- Analyze and consolidate HR data to support decision-making and workforce planning.\n- Prepare dashboards, reports, and KPIs related to learning, competencies, talent, and organizational capability.\n- Monitor trends and identify opportunities for improvement in employee development and workforce effectiveness.\n- Support HR digitalization and process optimization initiatives.\n- Skills Management & Competency Development\n- Support the deployment and maintenance of skill matrices across the organization.\n- Participate in competency mapping and workforce capability assessments.\n- Collaborate with managers to identify critical skills and future capability needs.\n- Contribute to succession planning and workforce development initiatives.\n\nLearning & Development\n- Coordinate learning and development activities\n- Monitor training effectiveness and learning KPIs.\n- Assist in promoting a learning culture and continuous development mindset.\n\nHR Projects & Continuous Improvement\n- Participate in international HR projects related to workforce transformation, skills development, and talent management.\n- Benchmark best practices and propose innovative solutions.\n- Support change management and communication activities linked to HR initiatives.\n- Collaborate with cross-functional teams and HR colleagues across different countries.",
+   "mission": "",
+   "profile": "You are a highly motivated young graduate from a business school or university with a strong interest for HR\n- Master's degree in Human Resources, Business Administration, Data Analytics, Psychology, Economics, or a related field\n- Technical Skills\n- Advanced Excel skills (Power Query, Pivot Tables, Data Analysis)\n- Knowledge of Power BI or other reporting tools is highly desirable\n- Strong interest in HR Analytics, Talent Management, and Learning & Development\n- Experience with HRIS systems is an advantage\n\nCompetencies\n- Strong analytical and problem-solving skills\n- Data-driven mindset with attention to detail\n- Ability to transform data into actionable insights\n- Excellent communication and stakeholder management skills\n- Curiosity, proactivity, and willingness to learn\n- Ability to work in an international and multicultural environment\n\nExpected Outcomes\n- Reliable HR dashboards and analytics supporting business decisions\n- Well-maintained skill matrices and competency frameworks\n- Increased visibility of workforce capabilities and development needs\n- Contribution to organizational capability building and future workforce readiness",
+   "duration": 24,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2029-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-16T15:40:15Z",
+   "sector": "",
+   "specialization": "[\"144\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-16T15:40:15Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2029-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-19T00:00:00",
+    "endBroadcastDate": "2026-11-18T00:00:00"
+   },
+   "summary": "VIE HR Development & People Analytics\n\nAs a VIE HR Development & People Analytics Specialist, you will support the implementation of talent development, learning, and workforce capability initiatives. You will play an active role in developing skill management processes, analyzing HR data, and supporting strategic workforce planning to ensure organizational readiness for future business needs.\nThis position offers a unique opportunity to combine HR analytics with employee development in an international manufacturing environment.\n\nMain Responsibilities\n\nPeople Analytics & HR Data\n- Analyze and consolidate HR data to support decision-making and workforce planning.\n- Prepare dashboards, reports, and KPIs related to learning, competencies, talent, and organizational capability.\n- Monitor trends and identify opportunities for improvement in employee development and workforce effectiveness.\n- Support HR digitalization and process optimization initiatives.\n- Skills Management & Competency Development\n- Support the deployment and maintenance of skill matrices across the organization. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247161",
+   "score": 28,
+   "label": "Périphérique",
+   "first_seen": "2026-10-19T13:11:36+00:00",
+   "axis_scores": {
+    "rd": 9,
+    "prod": 24,
+    "qual": 27,
+    "calc": 9
+   },
+   "dominant_axis": "qual",
+   "matched_families": [
+    {
+     "id": "calc4",
+     "axis": "calc",
+     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
+     "weight": 4,
+     "terms": [
+      "data analysis"
+     ]
+    },
+    {
+     "id": "prod5",
+     "axis": "prod",
+     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
+     "weight": 4,
+     "terms": [
+      "process optimization"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "continuous improvement",
+      "manufacturing"
+     ]
+    },
+    {
+     "id": "qual3",
+     "axis": "qual",
+     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
+     "weight": 7,
+     "terms": [
+      "capability"
+     ]
+    },
+    {
+     "id": "rd9",
+     "axis": "rd",
+     "source": "Vocabulaire de laboratoire courant",
+     "weight": 3,
+     "terms": [
+      "problem solving"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
    "id": "247113",
    "title": "INGENIEUR LOGICIEL (H/F)",
    "company": "P.G.A ELECTRONIC",
@@ -32338,7 +32289,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-15T08:40:23Z",
    "sector": "",
-   "specialization": "60",
+   "specialization": "[\"60\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32502,15 +32453,15 @@
    "expiry_date": "",
    "publish_date": "2026-08-25T11:40:26Z",
    "sector": "",
-   "specialization": "213",
+   "specialization": "[\"213\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-08-25T11:40:26Z",
     "missionStartDate": "2027-01-01T00:00:00",
     "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-09-21T00:00:00",
-    "endBroadcastDate": "2026-10-21T00:00:00"
+    "startBroadcastDate": "2026-10-19T00:00:00",
+    "endBroadcastDate": "2026-11-18T00:00:00"
    },
    "summary": "Vous êtes rattaché à une équipe R&D répartie sur trois sites (France, Tunisie, Hongrie), en charge du développement et du déploiement de solutions de Smartmetering pour des opérateurs d'énergie.\n\nCes solutions comprennent des compteurs d'électricité, eau et gaz communicants, ainsi qu'un système d'information centralisé, appelé SICONIA. Elles permettent de réaliser la collecte de données de comptage (index de consommation, courbes de charge, …), l'envoi de commandes vers les compteurs, la remontée d'alarmes ainsi que la mise à jour du firmware des compteurs.\n\nDepuis 2023, Sagemcom déploie, maintient et supporte un solution de comptage intelligent pour un de ces clients en Suisse, comprenant des compteurs d'électricité (environ 350000) et de son système d'information SICONIA.\n\nLa solution mise en place en Suisse s'appuie sur un réseau cellulaire Narrowband IoT et CAT-M1 déployé par un opérateur local, et le logiciel\nSICONIA sera hébergé sur un Cloud.\n\nDans le cadre de ce projet, le poste VIE est basé dans les locaux Sagemcom à Budapest au sein d'une équipe de 7 personnes. […]",
    "url": "https://mon-vie-via.businessfrance.fr/offres/245403",
@@ -32748,7 +32699,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-17T15:23:20Z",
    "sector": "",
-   "specialization": "[\"110\"]",
+   "specialization": "110",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33004,7 +32955,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T12:15:30Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33236,42 +33187,42 @@
    ]
   },
   {
-   "id": "246973",
-   "title": "Chargé/e de mission pédagogique (H/F)",
-   "company": "MINISTERE DE L'EUROPE ET DES AFFAIRES ETRANGERES",
-   "country": "MADAGASCAR",
-   "city": "ANTANANARIVO",
-   "description": "Sous l’autorité hiérarchique du Conseiller de la Coopération et d’Action Culturelle de l’Ambassade de France à Madagascar et de la Coordinatrice du réseau des Alliances Françaises de Madagascar, le/la volontaire international/e participera, en lien avec la Coordinatrice nationale, à la mise en œuvre de la stratégie et au suivi des activités relevant du réseau des Alliances Françaises. \nLe/la volontaire international/e sera amené/e à dialoguer avec des équipes aux statuts divers : personnels, expatriés, agents recrutés locaux, enseignants vacataires ou bénévoles membres des conseils d’administration des Alliances.\nLe/la VIA exercera les missions suivantes : \n • Assister la coordination nationale du réseau en appuyant et soutenant régulièrement les associations du réseau : accompagnement et conseil dans le cadre de la Démarche qualité, notamment en termes de gouvernance, veille sur les opportunités de financement. \n • Assister la coordination sur la gestion des projets nationaux en apportant un appui à la fois technique, logistique et organisationnel (francophonie, montée en compétences des enseignants du ou en dehors du réseau, médias et radios, projets de formation du réseau, suivi du développement de la plateforme e-learning et intranet du réseau, séminaires nationaux, tournées culturelles nationales, levée de fonds).\n • Suivre les subventions du SCAC allouées aux Alliances Françaises de Madagascar et analyser les demandes et les rapports d’exécution des subventions lors des réunions d’arbitrage avec la coordination nationale du réseau ; \n • Recueillir, suivre et diffuser en interne les statistiques d’activité des 28 Alliances du réseau et du bilan annuel de l’activité des Alliances à Madagascar ; \n • Assister la coordination nationale au niveau de la Gestion centrale des examens (bureau des examens) où il/elle assurera l’intérim et le support aux équipes de ce domaine d’activité stratégique.\n • Rédiger des notes, des éléments de langage et participer aux différents évènements de coopération linguistique et culturelle à la demande du SCAC ;\n • Assister la coordination nationale sur le développement et le renforcement de la communication transversale interne (mise en place de réunions régulières, transmission d’information à portée nationale ou régionale etc.) et la communication externe vers une plus forte visibilité régionale et mondiale des Alliances françaises du réseau et de la gestion centrale des examens : développer un plan marketing et de communication du réseau, mise à jour du site Internet, de la page Facebook du réseau, IntrAlliance, etc.).\n • identification, rédaction et mise à disposition de documents de travail, mutualisation des ressources et bonnes pratiques, amélioration des supports papiers :\n • visites et mission d’audit ou d’appui sur le terrain. \n\n ***************************************************************************\n\nCompétences attendues pour les missions (profil, connaissance du pays / de la zone géographique, savoir-faire, savoir-être) : \n\nLes fonctions exercées par le/la volontaire international supposent que le candidat dispose d’une connaissance du fonctionnement d’une association ;\nDes qualités rédactionnelles et une aisance relationnelle sont attendues ;\nIl/elle devra faire preuve de capacités d’écoute, d’analyse et de dialogue ;\nUne appétence pour les données chiffrées est sollicitée (suivi des subventions, conception de budgets, levée de fonds…) ;\nUne appétence pour la communication sur les réseaux sociaux serait également recommandée.\nLa connaissance du continent africain et de la zone Océan Indien constitue un atout. Le candidat devra avoir un forte capacité d’adaptation et faire preuve de dynamisme, de curiosité et de disponibilité.\n\n- Environnement professionnel, horaires de travail, disponibilité soirs/weekends :\nCe poste a un très fort potentiel qualifiant, constituant une expérience professionnelle exigeante, cela suppose en conséquence un investissement personnel et des capacités d’adaptation au contexte multiculturel.\n\n- Règlement intérieur appliqué et droit ou non aux RTT :\nRèglement intérieur appliqué et droit aux RTT.\n\n- Spécificités concernant les congés (dates obligatoires, fermeture de la structure, binômat etc.) :\nBinômat de la coordinatrice nationale du réseau des Alliances Françaises du Réseau des Alliances Françaises à Madagascar.\n\n- Déplacements / missions fréquentes :\nCe poste pourra impliquer, occasionnellement, pour le ou la VI des déplacements dans le pays, dans le cadre de suivi de projets.\n\n- Composition de l’équipe de travail :\n1 COCAC/ 1 COCAC adjointe/ 1 Attaché de coopération / 1 Coordonnatrice du réseau des AF/ 3 ADL de la Gestion centrale des examens\nTravail en relation étroite avec la coordinatrice nationale du réseau des Alliances françaises et plus largement avec l’équipe du SCAC et de l’ensemble de l’équipe France.\n\n *****************************************************************\n\nATTENTION : Veillez à postuler via cette plate-forme pendant que l’offre est en ligne, celle-ci disparaîtra de ce site le jour d’expiration mentionné dans l’annonce à 00h01.\n\n• Toute candidature à cette offre suppose obligatoirement une inscription préalable sur le site https://mon-vie-via.businessfrance.fr/ (les informations y figurant doivent être régulièrement mises à jour). Les candidat(e)s non inscrit(e)s ne seront pas retenu(e)s.\n• A compter de la sélection finale, les démarches de mise en route s’effectuent en France et nécessitent ==au minimum entre 2 et 4 mois à compter de l’identification du/de la candidat/e retenu/e selon le pays de destination==.\n• Merci d'adresser ==IMPERATIVEMENT== votre CV et lettre de motivation en français, au format PDF en respectant le format de fichiers ci-après : \n NOM Prénom CV.pdf\n NOM Prénom LM.pdf\n• Merci d'indiquer ==IMPERATIVEMENT== votre numéro d'identifiant donné lors de votre inscription sur le site.\n• Les niveaux de langues étrangères doivent être précisés selon le cadre européen de référence pour les langues (CECRL) A1, A2, B1, B2, C1, C2.\n• Veillez à sauvegarder le contenu de cette offre lorsque vous postulez (sous format PDF ou via une copie d'écran et non pas sélectionné en favoris sur la plateforme Cf. ci-dessus).\n• Tout dossier de candidature adressé directement à l’organisme d’affectation (Institut français, Consulat, Alliance Française, Ambassade), ou qui serait incomplet ou non conforme ne sera pas retenu.\n• Les lettres de recommandation, prises de contact ou autres formes d’intervention (LinkedIn Instagram...etc...) auprès des Conseillers RH ou des organismes d’affectation sont proscrites. \n• Si vous ne recevez pas d'information de notre part sous 8 semaines après retrait de l’annonce, vous pourrez considérer que, malgré tout l'intérêt que présente votre profil, il ne correspond pas à nos besoins actuels.\n• Les entretiens auront lieu principalement en visioconférence (dans l’éventualité où ils se dérouleraient à Paris, aucune prise en charge des frais de transport par le Ministère n’est envisageable).\n• Le/la volontaire international(e) devra être éligible à l'obtention d'un passeport de service pour cette destination.\n• La consultation de la fiche « conseils aux voyageurs » sur le site du MEAE est ==INDISPENSABLE== au moment de postuler : https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/",
+   "id": "247159",
+   "title": "R&D WCE Engineer (H/F)",
+   "company": "OPMOBILITY EXTERIOR SERVICES",
+   "country": "POLOGNE",
+   "city": "KRAKOW",
+   "description": "You will join our Central Europe Headquarters in Krakow Poland. You will join an international team and your main mission will be the following:\nAs a BG R&D WCE Engineer, you support the deployment and sustainability of the World Class Engineering (WCE) methodology within the Business Group R&D organization. You contribute to the implementation of WCE pillars, promote the WCE culture through communication initiatives, support Cost Deployment activities, and collaborate with cross-functional stakeholders to monitor performance and drive operational excellence across engineering functions.\n\nKey Responsibilities\n\nWCE Deployment and Promotion\n- Support the deployment and sustainability of the World Class Engineering (WCE) methodology across the BG R&D organization.\n- Promote the WCE mindset and culture through SharePoint and internal communication channels.\n- Contribute to the deployment and monitoring of WCE pillar activities.\n- Support the communication and visibility of WCE initiatives, achievements, and best practices.\n\nCost Deployment\n- Participate in Cost Deployment activities to increase understanding of the financial impact of operational and engineering activities.\n- Support the functional tracking and validation of savings generated through performance improvement initiatives.\n- Monitor and confirm forecasted savings and contribute to the reporting of results.\n- Assist in collecting and analyzing data related to cost performance and efficiency improvements.\n\nCross-Functional Collaboration\n- Work closely with WCE pillar leaders to support deployment activities and ensure alignment across functions.\n- Foster a collaborative network between pillar leaders and stakeholders.\n- Encourage the sharing of knowledge, lessons learned, and best practices across the organization.\n\nEngineering and Project Monitoring\n- Support activities related to engineering applications, project management, quality, and PMO through WCE deployment and monitoring activities.\n- Contribute to the follow-up of key performance indicators and deployment objectives.\n- Assist in monitoring project progress and ensuring alignment with WCE standards and methodologies.",
    "mission": "",
-   "profile": "Diplômes demandés (niveau et domaine d’études) :\r\n1- niveau Master : gestion de projets, coopération linguistique, relations internationales, développement international, FLE et/ou ingénierie du FLE\r\net/ou\r\n2- diplôme de gestion : IAE, ESC ou équivalent.\r\nLangues : \r\nFrançais. \r\nCompétences informatiques :\r\nBonne maîtrise des logiciels courants (Word, PowerPoint, Excel, Outlook) et des réseaux sociaux (forte utilisation de Facebook par les partenaires locaux).",
-   "duration": 12,
-   "start_date": "2027-03-01T00:00:00",
-   "end_date": "2028-03-01T00:00:00",
+   "profile": "Profile\n\nYou are passionate about engineering excellence and structured ways of working.\n\nYou enjoy working with different teams and building strong relationships across functions.\nYou are analytical and interested in understanding the impact of engineering activities on business performance.\n\nYou are fluent in English and another language is a plus",
+   "duration": 24,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2029-01-01T00:00:00",
    "expiry_date": "",
-   "publish_date": "2026-10-12T13:35:45Z",
+   "publish_date": "2026-10-16T15:17:38Z",
    "sector": "",
-   "specialization": "171",
-   "contract": "VIA",
+   "specialization": "[\"149\"]",
+   "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
-    "creationDate": "2026-10-12T13:35:45Z",
-    "missionStartDate": "2027-03-01T00:00:00",
-    "missionEndDate": "2028-03-01T00:00:00",
-    "startBroadcastDate": "2026-10-13T00:00:00",
-    "endBroadcastDate": "2026-10-18T00:00:00"
+    "creationDate": "2026-10-16T15:17:38Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2029-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-19T00:00:00",
+    "endBroadcastDate": "2026-11-18T00:00:00"
    },
-   "summary": "Sous l’autorité hiérarchique du Conseiller de la Coopération et d’Action Culturelle de l’Ambassade de France à Madagascar et de la Coordinatrice du réseau des Alliances Françaises de Madagascar, le/la volontaire international/e participera, en lien avec la Coordinatrice nationale, à la mise en œuvre de la stratégie et au suivi des activités relevant du réseau des Alliances Françaises. \nLe/la volontaire international/e sera amené/e à dialoguer avec des équipes aux statuts divers : personnels, expatriés, agents recrutés locaux, enseignants vacataires ou bénévoles membres des conseils d’administration des Alliances.\nLe/la VIA exercera les missions suivantes : \n • Assister la coordination nationale du réseau en appuyant et soutenant régulièrement les associations du réseau : accompagnement et conseil dans le cadre de la Démarche qualité, notamment en termes de gouvernance, veille sur les opportunités de financement. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246973",
+   "summary": "You will join our Central Europe Headquarters in Krakow Poland. You will join an international team and your main mission will be the following:\nAs a BG R&D WCE Engineer, you support the deployment and sustainability of the World Class Engineering (WCE) methodology within the Business Group R&D organization. You contribute to the implementation of WCE pillars, promote the WCE culture through communication initiatives, support Cost Deployment activities, and collaborate with cross-functional stakeholders to monitor performance and drive operational excellence across engineering functions.\n\nKey Responsibilities\n\nWCE Deployment and Promotion\n- Support the deployment and sustainability of the World Class Engineering (WCE) methodology across the BG R&D organization.\n- Promote the WCE mindset and culture through SharePoint and internal communication channels.\n- Contribute to the deployment and monitoring of WCE pillar activities.\n- Support the communication and visibility of WCE initiatives, achievements, and best practices. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247159",
    "score": 27,
    "label": "Périphérique",
-   "first_seen": "2026-10-13T14:09:52+00:00",
+   "first_seen": "2026-10-19T13:11:36+00:00",
    "axis_scores": {
-    "rd": 0,
+    "rd": 9,
     "prod": 10,
-    "qual": 34,
+    "qual": 8,
     "calc": 0
    },
-   "dominant_axis": "qual",
+   "dominant_axis": "prod",
    "matched_families": [
     {
      "id": "prod7",
@@ -33279,16 +33230,7 @@
      "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
      "weight": 3,
      "terms": [
-      "ingenierie"
-     ]
-    },
-    {
-     "id": "qual3",
-     "axis": "qual",
-     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
-     "weight": 7,
-     "terms": [
-      "statistiques"
+      "engineering"
      ]
     },
     {
@@ -33297,12 +33239,30 @@
      "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
      "weight": 2,
      "terms": [
-      "audit",
-      "qualite"
+      "quality",
+      "standards",
+      "validation"
+     ]
+    },
+    {
+     "id": "rd9",
+     "axis": "rd",
+     "source": "Vocabulaire de laboratoire courant",
+     "weight": 3,
+     "terms": [
+      "r&d"
      ]
     }
    ],
    "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "engineer",
+      "r&d"
+     ],
+     "points": 14
+    },
     {
      "label": "Niveau bac+5 / ingénieur annoncé",
      "terms": [],
@@ -33320,20 +33280,20 @@
    "mission": "",
    "profile": "De formation Ingénieure, vous avez des Connaissances spécifiques au domaine d’ingénierie.\no Assistance à maîtrise d’ouvrage en cadrage projet.\no Conception d’ouvrages, produits ou évènements.\no Gestion des risques.\no Technique de graphisme et audio-visuel.\no Résolution de problèmes complexes.\no Gestion réglementaire et contractuelle.\no Maîtrise des logiciels de conception et spécifiques à son domaine technique.\no Veille, analyse et gestion documentaire.\no Anglais technique",
    "duration": 12,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2027-12-01T00:00:00",
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
    "expiry_date": "",
    "publish_date": "2026-09-22T16:05:20Z",
    "sector": "",
-   "specialization": "68, 77, 109, 130, 149, 169",
+   "specialization": "[\"68\",\"77\",\"109\",\"130\",\"149\",\"169\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-09-22T16:05:20Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-23T00:00:00",
-    "endBroadcastDate": "2026-10-23T00:00:00"
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-19T00:00:00",
+    "endBroadcastDate": "2026-11-18T00:00:00"
    },
    "summary": "Nouveaux projets :\n-Prendre connaissance du cahier des charges client, du contrat et des spécifications applicables,\n- Définir la liste de livrables d'ingénierie / obtenir la liste de livrables (si contractuelle),\n- Participer à la réunion d'enclenchement,\n- Lister les données d’entrées techniques,\n- Autoriser (ou non) le lancement des études en fonction de la qualité des données d'entrée,\n- Planifier / participer à la planification des études d'ingénierie,\n- Communiquer et affecter les taches d'ingénierie en direction des leaders techniques / de l'équipe\ningénierie,\n-Déterminer les revues requises sur projet en collaboration avec le responsable de service ingénierie,\n- Déterminer les exigences de revues et contrôle des documents (contrôle technique & interdisciplinaire),\n- Développer / participer au développement du PEP pour la partie ingénierie,\n- Obtenir le budget ingénierie,\n- Créer le fichier de suivi avancement ingénierie,\n- Gérer la liste d'actions ingénierie sur le projet. […]",
    "url": "https://mon-vie-via.businessfrance.fr/offres/246289",
@@ -33733,15 +33693,15 @@
    "expiry_date": "",
    "publish_date": "2026-08-28T15:24:33Z",
    "sector": "",
-   "specialization": "29, 130, 213, 251, 262, 327, 329, 330",
+   "specialization": "[\"29\",\"130\",\"213\",\"251\",\"262\",\"327\",\"329\",\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-08-28T15:24:33Z",
     "missionStartDate": "2026-12-01T00:00:00",
     "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-23T00:00:00",
-    "endBroadcastDate": "2026-10-23T00:00:00"
+    "startBroadcastDate": "2026-10-19T00:00:00",
+    "endBroadcastDate": "2026-11-18T00:00:00"
    },
    "summary": "Reporting to the Solution Engineering team, the Solution Engineer supports customers across Nordics countries throughout the implementation of Vusion solutions.\r\n\r\nWorking closely with Sales, Product and Customer Success teams, you will understand customer business needs, design appropriate technical solutions, configure the platform, coordinate implementations, and ensure successful deployments.\r\n\r\nThis role requires a solid technical background and a good understanding of software applications, understanding code when needed, system integrations, networking and IT infrastructure.\r\n\r\nKey responsibilities :\r\n\r\n- Present Vusion solutions to leading retailers \r\n- Configure Vusion solutions to meet customer requirements.\r\n- Partner with Sales to understand customer business and technical requirements.\r\n- Monitor projects using shared tools, ensuring that deadlines are met and costs are controlled.\r\n- Coordinate implementation pilot projects and ensure successful deployments.\r\n- Troubleshoot technical issues related to integrations, infrastructure and solution configuration. […]",
    "url": "https://mon-vie-via.businessfrance.fr/offres/245496",
@@ -33814,7 +33774,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-08T20:38:17Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33970,15 +33930,15 @@
    "expiry_date": "",
    "publish_date": "2026-04-24T07:55:08Z",
    "sector": "",
-   "specialization": "86, 123, 125, 150, 206, 208, 209, 264",
+   "specialization": "[\"86\",\"123\",\"125\",\"150\",\"206\",\"208\",\"209\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-04-24T07:55:08Z",
     "missionStartDate": "2026-12-01T00:00:00",
     "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-25T00:00:00",
-    "endBroadcastDate": "2026-10-25T00:00:00"
+    "startBroadcastDate": "2026-10-19T00:00:00",
+    "endBroadcastDate": "2026-11-18T00:00:00"
    },
    "summary": "Présentation de la société : Rejoindre Davidson, c'est non seulement rejoindre un groupe de 3000 consultants dans 8 pays et sur 3 continents, mais c'est aussi rejoindre LA société qui a été élue Great Place To Work France et Europe depuis 4 ans par ses salariés, ainsi que la plus grande B Corp (Benefit Corporation) de France ! La \" B Corp \" est une communauté d'entreprises qui ont décidé de ne pas être les meilleures du monde, mais les meilleures POUR le monde. Parce que notre développement repose sur des principes forts : - Le respect profond de toutes nos parties prenantes : consultants, clients et fournisseurs. Parce que si le travail \"ne rend pas heureux\", il peut néanmoins \"rendre malheureux\". Nous nous engageons donc à écouter, à agir honnêtement et à promouvoir l'équité. - Une empreinte environnementale minimale et une empreinte sociale maximale. […]",
    "url": "https://mon-vie-via.businessfrance.fr/offres/242569",
@@ -34045,15 +34005,15 @@
    "expiry_date": "",
    "publish_date": "2026-04-24T07:52:59Z",
    "sector": "",
-   "specialization": "86, 208",
+   "specialization": "[\"86\",\"208\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-04-24T07:52:59Z",
     "missionStartDate": "2026-12-01T00:00:00",
     "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-25T00:00:00",
-    "endBroadcastDate": "2026-10-25T00:00:00"
+    "startBroadcastDate": "2026-10-19T00:00:00",
+    "endBroadcastDate": "2026-11-18T00:00:00"
    },
    "summary": "Présentation de la société : Rejoindre Davidson, c'est non seulement rejoindre un groupe de 3000 consultants dans 8 pays et sur 3 continents, mais c'est aussi rejoindre LA société qui a été élue Great Place To Work France et Europe depuis 4 ans par ses salariés, ainsi que la plus grande B Corp (Benefit Corporation) de France ! La \" B Corp \" est une communauté d'entreprises qui ont décidé de ne pas être les meilleures du monde, mais les meilleures POUR le monde. Parce que notre développement repose sur des principes forts : - Le respect profond de toutes nos parties prenantes : consultants, clients et fournisseurs. Parce que si le travail \"ne rend pas heureux\", il peut néanmoins \"rendre malheureux\". Nous nous engageons donc à écouter, à agir honnêtement et à promouvoir l'équité. - Une empreinte environnementale minimale et une empreinte sociale maximale. […]",
    "url": "https://mon-vie-via.businessfrance.fr/offres/242568",
@@ -34120,7 +34080,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-15T08:23:50Z",
    "sector": "",
-   "specialization": "251",
+   "specialization": "[\"251\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34447,7 +34407,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-28T07:56:10Z",
    "sector": "",
-   "specialization": "208",
+   "specialization": "[\"208\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34690,7 +34650,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T09:15:57Z",
    "sector": "",
-   "specialization": "327",
+   "specialization": "[\"327\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34763,7 +34723,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-29T09:14:24Z",
    "sector": "",
-   "specialization": "[\"246\"]",
+   "specialization": "246",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34837,7 +34797,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-06T08:57:05Z",
    "sector": "",
-   "specialization": "[\"327\"]",
+   "specialization": "327",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34909,7 +34869,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-06T08:54:04Z",
    "sector": "",
-   "specialization": "327",
+   "specialization": "[\"327\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34981,15 +34941,15 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T14:57:41Z",
    "sector": "",
-   "specialization": "355",
+   "specialization": "[\"355\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-09-22T14:57:41Z",
     "missionStartDate": "2027-01-01T00:00:00",
     "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-09-23T00:00:00",
-    "endBroadcastDate": "2026-10-23T00:00:00"
+    "startBroadcastDate": "2026-10-19T00:00:00",
+    "endBroadcastDate": "2026-11-18T00:00:00"
    },
    "summary": "Within the AI & Data Business Unit, you will help organizations transform their business processes through Generative and Agentic AI. Working alongside Data Scientists, Machine Learning Engineers, Solution Architects, and Platform Engineers, and working step-by-step with customers, you will design, build, and deploy enterprise-grade AI systems that create measurable business value. Your key responsibilities include: \n\nAssist the GenAI Solution Architect in designing scalable and secure AI solutions. \n\nDevelop applications powered by foundation models, both self-managed and API-accessible, that meet business needs and comply with applicable regulations (GDPR, EU AI Act, model licenses, etc.). \n\nDesign prompting and orchestration strategies to improve reasoning, controllability, reliability, and user experience. \n\nDesign and optimize Retrieval-Augmented Generation (RAG) systems leveraging enterprise knowledge sources, semantic search, and source attribution. […]",
    "url": "https://mon-vie-via.businessfrance.fr/offres/246286",
@@ -35053,15 +35013,15 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T14:51:01Z",
    "sector": "",
-   "specialization": "355",
+   "specialization": "[\"355\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-09-22T14:51:01Z",
     "missionStartDate": "2027-01-01T00:00:00",
     "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-09-23T00:00:00",
-    "endBroadcastDate": "2026-10-23T00:00:00"
+    "startBroadcastDate": "2026-10-19T00:00:00",
+    "endBroadcastDate": "2026-11-18T00:00:00"
    },
    "summary": "Within the AI & Data Business Unit, you will help organizations transform their business processes through Generative and Agentic AI. Working alongside Data Scientists, Machine Learning Engineers, Solution Architects, and Platform Engineers, and working step-by-step with customers, you will design, build, and deploy enterprise-grade AI systems that create measurable business value. Your key responsibilities include: \n\nAssist the GenAI Solution Architect in designing scalable and secure AI solutions. \n\nDevelop applications powered by foundation models, both self-managed and API-accessible, that meet business needs and comply with applicable regulations (GDPR, EU AI Act, model licenses, etc.). \n\nDesign prompting and orchestration strategies to improve reasoning, controllability, reliability, and user experience. \n\nDesign and optimize Retrieval-Augmented Generation (RAG) systems leveraging enterprise knowledge sources, semantic search, and source attribution. […]",
    "url": "https://mon-vie-via.businessfrance.fr/offres/246285",
@@ -35256,78 +35216,6 @@
    ]
   },
   {
-   "id": "246114",
-   "title": "VIE - Construction Planning Engineer (H/F)",
-   "company": "VINCI CONSTRUCTION GRANDS PROJETS",
-   "country": "CANADA",
-   "city": "TORONTO",
-   "description": "Ontario Line South\nFerrovial Construction Canada Inc. and VINCI Construction Grands Projects are to design, build\nand finance the Ontario Line Southern Civil, Stations and Tunnel (South Civil) package. \nWorking together as Ontario Transit Group we are currently mobilizing our design and construction crews, with major works to commence in 2024. The South Civil contract is anticipated to be completed in 2030.\nThe project will strengthen Ontario’s economy by supporting an estimated 1,500 jobs at the peak of construction.\n\nWhat is the project?\n• A six-kilometer tunnel and associated tunnelling works from Exhibition to Don Yard portal (west of the Don River)\n• Stations:\n• One above-ground station to be integrated with the existing GO Transit Exhibition Station\n• Two underground stations to be integrated with the existing TTC Osgoode and Queen subway stations\n• Four new underground stations (King/Bathurst, Queen/Spadina, Moss Park, Corktown)\n\nThe benefits to Ontario!\nFaster, more frequent and reliable access to rapid transit with more than 227,500 people will live within a 10-minute walk of an Ontario Line station\n• Improve the quality of life for commuters by reducing daily travel time\n• Reduce crowding on the existing Line 1 (Yonge-University) subway\n• Up to 57,000 more jobs accessible by transit (in 45 minutes or less) for Toronto residents\n• Economic and community growth along the future transit line and thousands of job opportunities annually during construction\n• Reduction in traffic congestion, greenhouse gases and fuel consumption by providing an alternative transportation option\n\nJob Description:\n• Work as part of the team to deliver and execute the works schedule across the OLS project \n• Be responsible of developing, progressing and maintaining the works schedule of one station \n• Progress the baseline schedule by gathering all the updates from the construction team and ensure that the monthly narratives accurately reflect project status\n• Review internal and contractor weekly look-ahead schedules\n• Provide support to schedule changes and time impact analysis for evidence of time extensions\n• Work as a team member, contributing to the overall program development by participating in group discussions and meetings",
-   "mission": "",
-   "profile": "• Bachelor's degree in Civil Engineering, Project or Construction Management\n• Proficient in Microsoft Excel, Word, and PowerPoint\n• Experience in scheduling of construction projects is preferred but not mandatory \n• Scheduling experience with Primavera P6 is preferred but not mandatory \n• Experience in developing logical sequencing of work, contract duration and phasing\n• Experience in Schedule Analyzer, Microsoft Project is preferred but not mandatory\n• Highly organized and detail oriented\n• Careful attention to detail and accuracy is a must\n• Must be motivated to work with various Teams (Construction, Contract, Scheduling…) to develop and maintain a Works Schedule\n• Must be flexible and able to readily adapt to changing priorities\n• Must be sensitive to time deadlines and ensure that work is accomplished in the timeframes required\n• Must be able to work consistently at a fast pace and on multiple assignments concurrently \n• Must possess good interpersonal skills and excellent oral and written communication skills in the English language",
-   "duration": 12,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-18T08:08:01Z",
-   "sector": "",
-   "specialization": "62",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-18T08:08:01Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-09-18T00:00:00",
-    "endBroadcastDate": "2026-10-18T00:00:00"
-   },
-   "summary": "Ontario Line South\nFerrovial Construction Canada Inc. and VINCI Construction Grands Projects are to design, build\nand finance the Ontario Line Southern Civil, Stations and Tunnel (South Civil) package. \nWorking together as Ontario Transit Group we are currently mobilizing our design and construction crews, with major works to commence in 2024. The South Civil contract is anticipated to be completed in 2030.\nThe project will strengthen Ontario’s economy by supporting an estimated 1,500 jobs at the peak of construction.\n\nWhat is the project?\n• A six-kilometer tunnel and associated tunnelling works from Exhibition to Don Yard portal (west of the Don River)\n• Stations:\n• One above-ground station to be integrated with the existing GO Transit Exhibition Station\n• Two underground stations to be integrated with the existing TTC Osgoode and Queen subway stations\n• Four new underground stations (King/Bathurst, Queen/Spadina, Moss Park, Corktown)\n\nThe benefits to Ontario! […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246114",
-   "score": 26,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 10,
-    "qual": 8,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "engineering"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "quality"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineer"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "245148",
    "title": "Junior Forward Deployed Engineer (H/F)",
    "company": "YOOBIC FRANCE",
@@ -35415,7 +35303,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T11:31:02Z",
    "sector": "",
-   "specialization": "[\"259\"]",
+   "specialization": "259",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35546,7 +35434,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-12T12:29:13Z",
    "sector": "",
-   "specialization": "7",
+   "specialization": "[\"7\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35586,6 +35474,78 @@
       "automobile"
      ],
      "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
+   "id": "247219",
+   "title": "Ingénieur Application en imagerie (H/F)",
+   "company": "STMICROELECTRONICS (GRENOBLE 2) SAS",
+   "country": "TAIWAN",
+   "city": "TAIPEI",
+   "description": "La division IMAGING de ST recherche un Ingénieur Application en imagerie sous contrat VIE (Volontariat International en Entreprise)\n\nLa personne sera détachée à Taiwan et intégrée dans l'équipe Application locale pour supporter le lancement de capteurs d'images innovants.\n\nA propos de vos missions\n\nRépondre aux questions des équipes de support local et du forum ST Community\nConstruire de l'expertise sur l'approche Mass Market pour supporter la communication autour du produit (documentation, formation produit, webinaires, contribuer à la formation d'équipes locales, clients et distributeurs)\nDéveloppement applicatif : Ajouter de la valeur autour du produit en tant que projet conception avec d'autres membres de l'équipe à la demande de l'équipe marketing. Développement HW, SW ou algorithmique\nTravailler avec d'autres équipes ST et non-IMAGING (division microcontrôleur, centre de compétence systèmes) pour aider à l'intégration Software des produits dans des kits d'évaluation ou plateformes ST de développement\nTester le hardware existant, les modules cameras ainsi que vérifier la Qualité d'image pour valider les projets partenaires modules et l'offre ST. Participation possible à des benchmarks produits...",
+   "mission": "",
+   "profile": "A propos de vous\n\nIdéalement titulaire d'un Master en électronique, physique, software\n\nVous avez :\n\ndes connaissances en imagerie électronique (un plus)\ndes connaissances en optique (un plus)\ndes compétences programmation software language C/C++/Python\ndes compétences en programmation microcontrôleur STM32 ou equivalent (Niveau intermédiaire préféré)\nde bonnes compétences en électronique, développement de petits cartes électroniques et debug de signaux\nune bonne communication en anglais oral et écrit",
+   "duration": 24,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2029-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-19T09:20:20Z",
+   "sector": "",
+   "specialization": "[\"143\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-19T09:20:20Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2029-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-19T00:00:00",
+    "endBroadcastDate": "2026-11-18T00:00:00"
+   },
+   "summary": "La division IMAGING de ST recherche un Ingénieur Application en imagerie sous contrat VIE (Volontariat International en Entreprise)\n\nLa personne sera détachée à Taiwan et intégrée dans l'équipe Application locale pour supporter le lancement de capteurs d'images innovants.\n\nA propos de vos missions\n\nRépondre aux questions des équipes de support local et du forum ST Community\nConstruire de l'expertise sur l'approche Mass Market pour supporter la communication autour du produit (documentation, formation produit, webinaires, contribuer à la formation d'équipes locales, clients et distributeurs)\nDéveloppement applicatif : Ajouter de la valeur autour du produit en tant que projet conception avec d'autres membres de l'équipe à la demande de l'équipe marketing. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247219",
+   "score": 25,
+   "label": "Périphérique",
+   "first_seen": "2026-10-19T13:11:36+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 0,
+    "qual": 8,
+    "calc": 9
+   },
+   "dominant_axis": "calc",
+   "matched_families": [
+    {
+     "id": "calc4",
+     "axis": "calc",
+     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
+     "weight": 4,
+     "terms": [
+      "python"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "qualite"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "ingenieur"
+     ],
+     "points": 14
     },
     {
      "label": "Niveau bac+5 / ingénieur annoncé",
