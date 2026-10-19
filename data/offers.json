@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-19T13:11:53+00:00",
+ "generated_at": "2026-10-19T19:55:28+00:00",
  "source": "Business France — mon-vie-via.businessfrance.fr",
- "total_scanned": 825,
- "total_announced": 825,
- "total_kept": 365,
+ "total_scanned": 819,
+ "total_announced": 819,
+ "total_kept": 362,
  "threshold": 25,
  "axes": {
   "rd": {
@@ -681,7 +681,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T13:27:15Z",
    "sector": "",
-   "specialization": "60",
+   "specialization": "[\"60\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -1211,7 +1211,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-29T14:04:00Z",
    "sector": "",
-   "specialization": "60, 64, 77, 133, 162, 197, 224, 225",
+   "specialization": "[\"60\",\"64\",\"77\",\"133\",\"162\",\"197\",\"224\",\"225\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -2259,7 +2259,7 @@
    "expiry_date": "",
    "publish_date": "2025-10-08T09:46:46Z",
    "sector": "",
-   "specialization": "77, 149",
+   "specialization": "[\"77\",\"149\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -3226,7 +3226,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T15:32:41Z",
    "sector": "",
-   "specialization": "70",
+   "specialization": "[\"70\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -4958,7 +4958,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-29T13:51:25Z",
    "sector": "",
-   "specialization": "60, 64, 77, 133, 224, 225",
+   "specialization": "[\"60\",\"64\",\"77\",\"133\",\"224\",\"225\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6313,7 +6313,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T12:11:54Z",
    "sector": "",
-   "specialization": "64",
+   "specialization": "[\"64\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6741,15 +6741,15 @@
    "expiry_date": "",
    "publish_date": "2026-04-13T15:23:11Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-04-13T15:23:11Z",
     "missionStartDate": "2027-01-01T00:00:00",
     "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-09-24T00:00:00",
-    "endBroadcastDate": "2026-10-24T00:00:00"
+    "startBroadcastDate": "2026-10-19T00:00:00",
+    "endBroadcastDate": "2026-11-18T00:00:00"
    },
    "summary": "Vos responsabilités au quotidien :\n\n- Participer à la conception et au développement de composants et ensembles mécaniques complexes à l’aide de logiciel.\n\n- Gérer la documentation technique via l’outil Windchill\n\n- Veiller à la conformité des conceptions avec les standards industriels, les spécifications techniques et les procédures internes\n\n- Contribuer à l’amélioration continue des processus de développement et du cycle de vie produit\n\n- Concevoir des systèmes de câblage électrique (définition du routage, intégration dans les structures mécaniques, sélection des connecteurs)\n\n- Réaliser des modèles 3D et des dessins techniques\n\n- Collaborer activement avec les équipes design, production et qualité afin d’assurer la faisabilité technique du projet",
    "url": "https://mon-vie-via.businessfrance.fr/offres/242227",
@@ -8823,111 +8823,6 @@
    ]
   },
   {
-   "id": "231765",
-   "title": "Assistant Continuous Improvement (CI) Project Manager (M/F) (H/F)",
-   "company": "PETZL DISTRIBUTION",
-   "country": "MALAISIE",
-   "city": "RAWANG",
-   "description": "PETZL is a world leading manufacturer of innovative solutions (product, training and information)for activities in vertical and dark environments. Our product range includes climbing gear, caving gear, work-at-height equipment, and headlamps. Headquartered in France, the company was created by the cave explorer Fernand Petzl in the mid-1970s to serve the community as well as his passion: exploration.\nToday, PETZL continues to invent products and provides solutions that allow sports enthusiasts and professionals to access some of the most inaccessible places.\nIn addition to its products, PETZL provides an array of technical information & training modules. For more information, please visit our website petzl.com\n\nAs a continous improvement project manager, you will:\n- coordinate all Continuous Improvement initiatives for our plant based in Malaisia\n- maintain and develop the \"Safety First\" production equipment.\n- implement the Lean Manufacturing actions plan in coordination with the teams based at the HQ in France.\n- ensure the respect of the actual Lean Manufacturing rules.\n- propose technological innovations.",
-   "mission": "",
-   "profile": "Generalist engineer.\r\n\r\nTechnical skills:\r\n\r\nAt ease with coordination and project management activities as well as supply chain activities\r\n\r\nKnowledge in productivity tools (Lean, 5S, SOPs, ergonomics)\r\nKnowledge in quality control tools (AMDEC, SPC)\r\nAlready Exposed to ERP system environment\r\nAt easy with Google Suite \r\nAt ease with 2D (Autocad) or 3D (SW/ProE/Inventor) CAD software\r\nCurious in new technologies & Continuous Improvement\r\n\r\nSoft skills\r\n- communicate and cooperate in a multi cultural environment\r\n- take initiative \r\n- demonstrate leadership, facilitate team work with local teams\r\n- able to organize his/her activities in autonomy and to take engagements accordingly - results orientated\r\n\r\nBefore starting the V.I.E assignment, and to ensure the candidate is fully prepared for success in their role, he/she will benefit from a one-month training period at the company's French headquarters, located in the Grenoble area. This immersion will provide the opportunity to become familiar with the working environment, the teams, the tools, and the company's methods before departing for Malaysia.",
-   "duration": 12,
-   "start_date": "2027-02-01T00:00:00",
-   "end_date": "2028-02-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2025-10-10T07:46:39Z",
-   "sector": "",
-   "specialization": "[\"107\",\"149\",\"150\",\"206\",\"207\",\"262\",\"264\"]",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2025-10-10T07:46:39Z",
-    "missionStartDate": "2027-02-01T00:00:00",
-    "missionEndDate": "2028-02-01T00:00:00",
-    "startBroadcastDate": "2026-10-14T00:00:00",
-    "endBroadcastDate": "2026-11-13T00:00:00"
-   },
-   "summary": "PETZL is a world leading manufacturer of innovative solutions (product, training and information)for activities in vertical and dark environments. Our product range includes climbing gear, caving gear, work-at-height equipment, and headlamps. Headquartered in France, the company was created by the cave explorer Fernand Petzl in the mid-1970s to serve the community as well as his passion: exploration.\nToday, PETZL continues to invent products and provides solutions that allow sports enthusiasts and professionals to access some of the most inaccessible places.\nIn addition to its products, PETZL provides an array of technical information & training modules. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/231765",
-   "score": 49,
-   "label": "À examiner",
-   "first_seen": "2026-10-14T11:50:13+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 59,
-    "qual": 34,
-    "calc": 20
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "calc2",
-     "axis": "calc",
-     "source": "CAO (278-1, 30 h), Conception mécanique (264-1, 43 h)",
-     "weight": 9,
-     "terms": [
-      "cad"
-     ]
-    },
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
-     "weight": 10,
-     "terms": [
-      "plant"
-     ]
-    },
-    {
-     "id": "prod5",
-     "axis": "prod",
-     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
-     "weight": 4,
-     "terms": [
-      "5s",
-      "lean",
-      "productivity"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "continuous improvement",
-      "manufacturing"
-     ]
-    },
-    {
-     "id": "qual3",
-     "axis": "qual",
-     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
-     "weight": 7,
-     "terms": [
-      "amdec",
-      "spc"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "quality"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "245663",
    "title": "Ingénieur Process (H/F)",
    "company": "SERAP INDUSTRIES",
@@ -9499,85 +9394,6 @@
    ]
   },
   {
-   "id": "246843",
-   "title": "Ingénieur support produit H/F (H/F)",
-   "company": "TLD EUROPE",
-   "country": "BELGIQUE",
-   "city": "FRAMERIES",
-   "description": "Sous la supervision de la directrice support produit, l'ingénieur support produits, se doit d’apporter le support technique et le supporter sur les produits de l’usine.\r\n\r\nPlus précisément, vous serez appelé à:\r\n- Supporter les techniciens de service pour toute question relative aux produits en service provenant de notre usine;\r\n- Analyser et traiter les demandes de garanties et les demandes d’amélioration de produits;\r\n- Animer des formations auprès des clients internes et/ou externes et des techniciens SAV de l’entrepris\r\n- Participer aux présentations et démonstrations de matériels aux clients;\r\n- Répondre aux appels d’offre en collaboration avec les entités commerciales;\r\n- Être le point d’entrée de l’usine pour les techniciens de service et commerciaux ainsi que les vendeurs;\r\n- Effectuer le Benchmark des produits de la concurrence.",
-   "mission": "",
-   "profile": "- Diplôme d'ingénieur ou équivalent dans le domaine de la conception mécanique ou autre domaine pertinent;\n\n- Expérience dans un environnement technique, idéalement proche de la conception d’engins mécaniques (construction, matériel agricole, matériel roulant, etc.);\n\n- Bonne capacités relationnelles et un grand intérêt pour les produits à forte composante technique;\n\n- Aisance en anglais, tant à l’écrit qu’à l’oral.",
-   "duration": 24,
-   "start_date": "2027-04-01T00:00:00",
-   "end_date": "2029-04-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-08T11:34:20Z",
-   "sector": "",
-   "specialization": "130",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-08T11:34:20Z",
-    "missionStartDate": "2027-04-01T00:00:00",
-    "missionEndDate": "2029-04-01T00:00:00",
-    "startBroadcastDate": "2026-10-09T00:00:00",
-    "endBroadcastDate": "2026-11-08T00:00:00"
-   },
-   "summary": "Sous la supervision de la directrice support produit, l'ingénieur support produits, se doit d’apporter le support technique et le supporter sur les produits de l’usine.\r\n\r\nPlus précisément, vous serez appelé à:\r\n- Supporter les techniciens de service pour toute question relative aux produits en service provenant de notre usine;\r\n- Analyser et traiter les demandes de garanties et les demandes d’amélioration de produits;\r\n- Animer des formations auprès des clients internes et/ou externes et des techniciens SAV de l’entrepris\r\n- Participer aux présentations et démonstrations de matériels aux clients;\r\n- Répondre aux appels d’offre en collaboration avec les entités commerciales;\r\n- Être le point d’entrée de l’usine pour les techniciens de service et commerciaux ainsi que les vendeurs;\r\n- Effectuer le Benchmark des produits de la concurrence.",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246843",
-   "score": 48,
-   "label": "À examiner",
-   "first_seen": "2026-10-09T11:48:26+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 34,
-    "qual": 0,
-    "calc": 20
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "calc2",
-     "axis": "calc",
-     "source": "CAO (278-1, 30 h), Conception mécanique (264-1, 43 h)",
-     "weight": 9,
-     "terms": [
-      "conception mecanique"
-     ]
-    },
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
-     "weight": 10,
-     "terms": [
-      "usine"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "mecanique"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "246585",
    "title": "Electrical Documentation Engineer (H/F)",
    "company": "ABYLSEN SIGMA",
@@ -9781,7 +9597,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T08:00:24Z",
    "sector": "",
-   "specialization": "114",
+   "specialization": "[\"114\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10740,7 +10556,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-28T13:10:22Z",
    "sector": "",
-   "specialization": "262",
+   "specialization": "[\"262\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12111,7 +11927,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-10T12:08:07Z",
    "sector": "",
-   "specialization": "71",
+   "specialization": "[\"71\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12559,7 +12375,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-12T13:36:38Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -13074,7 +12890,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-28T11:12:32Z",
    "sector": "",
-   "specialization": "60",
+   "specialization": "[\"60\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -15892,15 +15708,15 @@
    "expiry_date": "",
    "publish_date": "2026-04-14T07:36:46Z",
    "sector": "",
-   "specialization": "365",
+   "specialization": "[\"365\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-04-14T07:36:46Z",
     "missionStartDate": "2026-12-01T00:00:00",
     "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-24T00:00:00",
-    "endBroadcastDate": "2026-10-24T00:00:00"
+    "startBroadcastDate": "2026-10-19T00:00:00",
+    "endBroadcastDate": "2026-11-18T00:00:00"
    },
    "summary": "💼 Ce que vous ferez :\r\n\r\nConcevoir et dimensionner des installations photovoltaïques (ombrières, centrales au sol), éoliens, data center, armoire, instruments, etc.\r\nRéaliser les études techniques sur l’ensemble du cycle projet :\r\nPré-études (faisabilité, dimensionnement, productible)\r\nÉtudes détaillées (schémas électriques, implantation, choix des équipements)\r\nConstitution des dossiers techniques complets (APS, APD, DOE)\r\nÉlaborer les schémas électriques (DC/AC), notes de calcul et bilans de puissance\r\nRédiger les analyses de risques et veiller à la sécurité des installations\r\nAppliquer les normes et réglementations en vigueur (raccordement réseau, normes électriques, sécurité)\r\nPiloter les interfaces avec les équipes internes (électricité, structure, automatisme) et les partenaires externes\r\nSuivre les projets de la conception jusqu’à la mise en service sur site\r\nParticiper aux phases de consultation fournisseurs et au suivi des travaux",
    "url": "https://mon-vie-via.businessfrance.fr/offres/242244",
@@ -19780,7 +19596,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-09T07:57:33Z",
    "sector": "",
-   "specialization": "65",
+   "specialization": "[\"65\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20693,15 +20509,15 @@
    "expiry_date": "",
    "publish_date": "2026-04-21T12:18:30Z",
    "sector": "",
-   "specialization": "60",
+   "specialization": "[\"60\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-04-21T12:18:30Z",
     "missionStartDate": "2027-01-01T00:00:00",
     "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-09-24T00:00:00",
-    "endBroadcastDate": "2026-10-24T00:00:00"
+    "startBroadcastDate": "2026-10-19T00:00:00",
+    "endBroadcastDate": "2026-11-18T00:00:00"
    },
    "summary": "Chez Abylsen, nous vous offrons la liberté de déployer votre expertise et d'explorer des domaines de pointe. En tant qu'Ingénieur méthodes (F/H), vous jouerez un rôle clé dans l'amélioration des processus de production et la mise en place de solutions innovantes. Vous serez au cœur de projets ambitieux, mettant à profit votre expérience pour générer des résultats tangibles et durables.\r\n\r\n- Analyser et optimiser les processus de fabrication pour augmenter l'efficacité et la qualité.\r\n- Développer et mettre en œuvre des outils et des méthodes de travail pour améliorer la production.\r\n- Gérer des projets d'amélioration continue en collaboration avec les équipes techniques.\r\n- Former et accompagner les équipes de production sur les nouvelles méthodes.\r\n- Assurer une veille technologique pour identifier et intégrer les innovations pertinentes.",
    "url": "https://mon-vie-via.businessfrance.fr/offres/242466",
@@ -21708,7 +21524,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-12T08:39:45Z",
    "sector": "",
-   "specialization": "327",
+   "specialization": "[\"327\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21907,7 +21723,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-05T06:51:18Z",
    "sector": "",
-   "specialization": "109, 149, 150, 244, 264",
+   "specialization": "[\"109\",\"149\",\"150\",\"244\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -23059,7 +22875,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-12T13:41:19Z",
    "sector": "",
-   "specialization": "351",
+   "specialization": "[\"351\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -24682,7 +24498,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T09:30:50Z",
    "sector": "",
-   "specialization": "330",
+   "specialization": "[\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25795,7 +25611,7 @@
    "expiry_date": "",
    "publish_date": "2026-03-17T15:45:44Z",
    "sector": "",
-   "specialization": "144",
+   "specialization": "[\"144\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26294,7 +26110,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-12T07:40:30Z",
    "sector": "",
-   "specialization": "330",
+   "specialization": "[\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26656,7 +26472,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-09T09:43:27Z",
    "sector": "",
-   "specialization": "206",
+   "specialization": "[\"206\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27937,7 +27753,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-03T16:37:44Z",
    "sector": "",
-   "specialization": "155",
+   "specialization": "[\"155\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -28009,108 +27825,6 @@
      "label": "Aucun terme industriel : score plafonné",
      "terms": [],
      "points": -4,
-     "cap": 30
-    }
-   ]
-  },
-  {
-   "id": "246722",
-   "title": "V.I.E - Chef de projet IT (H/F)",
-   "company": "SOGECAP",
-   "country": "ROUMANIE",
-   "city": "BUCAREST",
-   "description": "Vous souhaitez :\nParticiper à un projet stratégique de transformation dans le secteur de l'assurance ?\nSuivre et accompagner la mise en œuvre des tests de bout en bout (End-to-End Testing) ?\nCollaborer avec les équipes métiers, informatiques et les équipes projet internationales ?\nRenforcer la qualité, la préparation opérationnelle et la confiance avant la mise en production (Go-Live) ?\nVotre rôle et vos responsabilités\n\nVous assurerez le suivi et la coordination des activités de tests à travers les phases de tests fonctionnels, d'intégration, système et de bout en bout. Vous contribuerez également à la gestion des anomalies, à la planification des tests, à la préparation des environnements et au reporting qualité.\n\nMissions principales\nParticiper à la coordination des activités de tests entre plusieurs applications, équipes et prestataires.\nSuivre l'avancement des tests, les indicateurs qualité, les risques et les incidents, et produire des reportings réguliers à destination des parties prenantes.\nGarantir la traçabilité entre les besoins métiers, les spécifications fonctionnelles, les interfaces et les preuves de tests.\nVeiller au respect des contrôles IT internes, des normes de sécurité, des exigences réglementaires et de la gouvernance du projet.\nVérifier la cohérence et la réconciliation des données entre les différentes applications intégrées.\nParticiper aux tests non fonctionnels, notamment les tests de performance, de résilience et de préparation opérationnelle.\nContribuer à l'identification d'opportunités d'automatisation des tests et à l'amélioration continue des processus de test.",
-   "mission": "",
-   "profile": "Nous recherchons un Chef de Projet IT (IT Project Manager) chargé de coordonner les activités de tests sur des projets informatiques majeurs et de s'assurer que les solutions livrées sont robustes, conformes aux exigences et prêtes à être déployées avec succès.\n\nPour ce poste, vous devez disposer de :\nMaster 2 en informatique, ingénierie, statistiques, mathématiques ou dans un domaine connexe.\nÊtre éligible au programme VIE (réservé aux citoyens de l'Union européenne).\nCompétences requises\nConnaissance des méthodologies de tests logiciels, des processus d'assurance qualité (QA) et de la gouvernance des tests.\nCompréhension des API, des interfaces, des traitements batch et des flux de données.\nParticipation à d'autres projets dans un rôle de chef de projet (Project Manager).\nAnglais courant.\nUne expérience dans le secteur de l'assurance ou des services financiers est fortement appréciée.\nLa connaissance des méthodes Agile et de l'automatisation des tests constitue un atout.",
-   "duration": 12,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-05T16:40:38Z",
-   "sector": "",
-   "specialization": "[\"330\"]",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-05T16:40:38Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-06T00:00:00",
-    "endBroadcastDate": "2026-11-05T00:00:00"
-   },
-   "summary": "Vous souhaitez :\nParticiper à un projet stratégique de transformation dans le secteur de l'assurance ?\nSuivre et accompagner la mise en œuvre des tests de bout en bout (End-to-End Testing) ?\nCollaborer avec les équipes métiers, informatiques et les équipes projet internationales ?\nRenforcer la qualité, la préparation opérationnelle et la confiance avant la mise en production (Go-Live) ?\nVotre rôle et vos responsabilités\n\nVous assurerez le suivi et la coordination des activités de tests à travers les phases de tests fonctionnels, d'intégration, système et de bout en bout. Vous contribuerez également à la gestion des anomalies, à la planification des tests, à la préparation des environnements et au reporting qualité.\n\nMissions principales\nParticiper à la coordination des activités de tests entre plusieurs applications, équipes et prestataires.\nSuivre l'avancement des tests, les indicateurs qualité, les risques et les incidents, et produire des reportings réguliers à destination des parties prenantes. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246722",
-   "score": 30,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 10,
-    "qual": 49,
-    "calc": 9
-   },
-   "dominant_axis": "qual",
-   "matched_families": [
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
-     "weight": 4,
-     "terms": [
-      "automatisation"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "amelioration continue",
-      "ingenierie",
-      "methodes"
-     ]
-    },
-    {
-     "id": "qual3",
-     "axis": "qual",
-     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
-     "weight": 7,
-     "terms": [
-      "statistiques"
-     ]
-    },
-    {
-     "id": "qual2",
-     "axis": "qual",
-     "source": "Qualité et normes (774-1, 14 h, coefficient 0,5)",
-     "weight": 4,
-     "terms": [
-      "assurance qualite"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "normes",
-      "qualite",
-      "testing"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Aucun terme industriel : score plafonné",
-     "terms": [],
-     "points": -7,
      "cap": 30
     }
    ]
@@ -30010,7 +29724,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-09T13:29:13Z",
    "sector": "",
-   "specialization": "107",
+   "specialization": "[\"107\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30964,7 +30678,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-28T07:33:59Z",
    "sector": "",
-   "specialization": "73",
+   "specialization": "[\"73\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31185,7 +30899,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T08:10:26Z",
    "sector": "",
-   "specialization": "238",
+   "specialization": "[\"238\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31483,6 +31197,78 @@
    ]
   },
   {
+   "id": "242224",
+   "title": "Ingénieur HVAC/CVC (H/F)",
+   "company": "FRATECH RP",
+   "country": "BELGIQUE",
+   "city": "BRUXELLES",
+   "description": "Dans le cadre de votre activité en génie climatique (CVC) en environnement industriel contraint, vous serez en charge de :\n\nPiloter des projets complexes en CVC (production de froid, chauffage haute puissance, traitement d’air spécifique)\nFinaliser et superviser les études AVP : analyse des besoins thermiques, validation des choix techniques, vérification des notes de calcul\nGarantir la conformité des projets en termes de coûts, délais, qualité et performance énergétique\nAssurer une expertise technique et réglementaire (ESP, F-Gas, Code du Travail, ERP…)\nParticiper à la constitution des Dossiers de Consultation des Entreprises (DCE) et analyser les offres techniques\nPiloter l’exécution des travaux en environnement industriel contraint (ICPE, sites sensibles, co-activité)\nIntégrer les contraintes des réseaux de fluides process et utilités dans les systèmes CVC\nSuivre les fournisseurs et garantir la bonne exécution des prestations (coûts, délais, qualité)\nIdentifier les risques projet et proposer des plans d’actions adaptés\nDéfinir et mettre en œuvre les dispositifs HSE : plans de prévention, permis feu, analyses de risques\nAssurer la coordination des intervenants et animer les réunions de chantier\nParticiper aux phases de mise en service et de réception des installations",
+   "mission": "",
+   "profile": "👩‍💻🧑‍💻 Qui êtes-vous ?\r\n\r\nTitulaire d’un diplôme d’ingénieur ou équivalent en génie climatique, énergétique ou domaine connexe, vous justifiez de 3 ans d’expérience en environnement industriel et tertiaire sur des projets CVC complexes.\r\n\nVous disposez de solides compétences en :\r\n\r\ninstallations CVC en milieu contraint (ICPE, industrie lourde…)\r\nréglementation des équipements sous pression (ESP)\r\npilotage de projets techniques et suivi de chantier\r\n \r\nVous êtes reconnu pour votre rigueur, votre capacité à piloter des projets complexes et votre aisance en environnement exigeant.",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-04-13T14:31:50Z",
+   "sector": "",
+   "specialization": "[\"70\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-04-13T14:31:50Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-19T00:00:00",
+    "endBroadcastDate": "2026-11-18T00:00:00"
+   },
+   "summary": "Dans le cadre de votre activité en génie climatique (CVC) en environnement industriel contraint, vous serez en charge de :\n\nPiloter des projets complexes en CVC (production de froid, chauffage haute puissance, traitement d’air spécifique)\nFinaliser et superviser les études AVP : analyse des besoins thermiques, validation des choix techniques, vérification des notes de calcul\nGarantir la conformité des projets en termes de coûts, délais, qualité et performance énergétique\nAssurer une expertise technique et réglementaire (ESP, F-Gas, Code du Travail, ERP…)\nParticiper à la constitution des Dossiers de Consultation des Entreprises (DCE) et analyser les offres techniques\nPiloter l’exécution des travaux en environnement industriel contraint (ICPE, sites sensibles, co-activité)\nIntégrer les contraintes des réseaux de fluides process et utilités dans les systèmes CVC\nSuivre les fournisseurs et garantir la bonne exécution des prestations (coûts, délais, qualité)\nIdentifier les risques projet et proposer des plans d’actions adaptés […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/242224",
+   "score": 28,
+   "label": "Périphérique",
+   "first_seen": "2026-08-24T16:01:18+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 0,
+    "qual": 8,
+    "calc": 0
+   },
+   "dominant_axis": "qual",
+   "matched_families": [
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "conformite",
+      "qualite",
+      "validation"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "ingenieur"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "industriel"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
    "id": "245842",
    "title": "Bim Modeleur (H/F)",
    "company": "FRATECH RP",
@@ -31630,78 +31416,6 @@
      "terms": [
       "defense",
       "energie",
-      "industriel"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
-   "id": "242224",
-   "title": "Ingénieur HVAC/CVC (H/F)",
-   "company": "FRATECH RP",
-   "country": "BELGIQUE",
-   "city": "BRUXELLES",
-   "description": "Dans le cadre de votre activité en génie climatique (CVC) en environnement industriel contraint, vous serez en charge de :\n\nPiloter des projets complexes en CVC (production de froid, chauffage haute puissance, traitement d’air spécifique)\nFinaliser et superviser les études AVP : analyse des besoins thermiques, validation des choix techniques, vérification des notes de calcul\nGarantir la conformité des projets en termes de coûts, délais, qualité et performance énergétique\nAssurer une expertise technique et réglementaire (ESP, F-Gas, Code du Travail, ERP…)\nParticiper à la constitution des Dossiers de Consultation des Entreprises (DCE) et analyser les offres techniques\nPiloter l’exécution des travaux en environnement industriel contraint (ICPE, sites sensibles, co-activité)\nIntégrer les contraintes des réseaux de fluides process et utilités dans les systèmes CVC\nSuivre les fournisseurs et garantir la bonne exécution des prestations (coûts, délais, qualité)\nIdentifier les risques projet et proposer des plans d’actions adaptés\nDéfinir et mettre en œuvre les dispositifs HSE : plans de prévention, permis feu, analyses de risques\nAssurer la coordination des intervenants et animer les réunions de chantier\nParticiper aux phases de mise en service et de réception des installations",
-   "mission": "",
-   "profile": "👩‍💻🧑‍💻 Qui êtes-vous ?\r\n\r\nTitulaire d’un diplôme d’ingénieur ou équivalent en génie climatique, énergétique ou domaine connexe, vous justifiez de 3 ans d’expérience en environnement industriel et tertiaire sur des projets CVC complexes.\r\n\nVous disposez de solides compétences en :\r\n\r\ninstallations CVC en milieu contraint (ICPE, industrie lourde…)\r\nréglementation des équipements sous pression (ESP)\r\npilotage de projets techniques et suivi de chantier\r\n \r\nVous êtes reconnu pour votre rigueur, votre capacité à piloter des projets complexes et votre aisance en environnement exigeant.",
-   "duration": 12,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-04-13T14:31:50Z",
-   "sector": "",
-   "specialization": "70",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-04-13T14:31:50Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-09-24T00:00:00",
-    "endBroadcastDate": "2026-10-24T00:00:00"
-   },
-   "summary": "Dans le cadre de votre activité en génie climatique (CVC) en environnement industriel contraint, vous serez en charge de :\n\nPiloter des projets complexes en CVC (production de froid, chauffage haute puissance, traitement d’air spécifique)\nFinaliser et superviser les études AVP : analyse des besoins thermiques, validation des choix techniques, vérification des notes de calcul\nGarantir la conformité des projets en termes de coûts, délais, qualité et performance énergétique\nAssurer une expertise technique et réglementaire (ESP, F-Gas, Code du Travail, ERP…)\nParticiper à la constitution des Dossiers de Consultation des Entreprises (DCE) et analyser les offres techniques\nPiloter l’exécution des travaux en environnement industriel contraint (ICPE, sites sensibles, co-activité)\nIntégrer les contraintes des réseaux de fluides process et utilités dans les systèmes CVC\nSuivre les fournisseurs et garantir la bonne exécution des prestations (coûts, délais, qualité)\nIdentifier les risques projet et proposer des plans d’actions adaptés […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/242224",
-   "score": 28,
-   "label": "Périphérique",
-   "first_seen": "2026-08-24T16:01:18+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 0,
-    "qual": 8,
-    "calc": 0
-   },
-   "dominant_axis": "qual",
-   "matched_families": [
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "conformite",
-      "qualite",
-      "validation"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
       "industriel"
      ],
      "points": 5
@@ -31875,7 +31589,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-13T12:34:38Z",
    "sector": "",
-   "specialization": "65, 66, 68, 153, 155",
+   "specialization": "[\"65\",\"66\",\"68\",\"153\",\"155\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33367,7 +33081,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-09T08:32:06Z",
    "sector": "",
-   "specialization": "244",
+   "specialization": "[\"244\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33441,7 +33155,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-15T14:51:50Z",
    "sector": "",
-   "specialization": "251",
+   "specialization": "[\"251\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33607,7 +33321,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-28T13:57:30Z",
    "sector": "",
-   "specialization": "68",
+   "specialization": "[\"68\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33774,7 +33488,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-08T20:38:17Z",
    "sector": "",
-   "specialization": "330",
+   "specialization": "[\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34723,7 +34437,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-29T09:14:24Z",
    "sector": "",
-   "specialization": "246",
+   "specialization": "[\"246\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35303,7 +35017,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T11:31:02Z",
    "sector": "",
-   "specialization": "259",
+   "specialization": "[\"259\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
