@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-19T19:55:28+00:00",
+ "generated_at": "2026-10-20T11:34:29+00:00",
  "source": "Business France — mon-vie-via.businessfrance.fr",
- "total_scanned": 819,
- "total_announced": 819,
- "total_kept": 362,
+ "total_scanned": 832,
+ "total_announced": 832,
+ "total_kept": 369,
  "threshold": 25,
  "axes": {
   "rd": {
@@ -413,7 +413,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T13:05:00Z",
    "sector": "",
-   "specialization": "[\"60\"]",
+   "specialization": "60",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -1211,7 +1211,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-29T14:04:00Z",
    "sector": "",
-   "specialization": "[\"60\",\"64\",\"77\",\"133\",\"162\",\"197\",\"224\",\"225\"]",
+   "specialization": "60, 64, 77, 133, 162, 197, 224, 225",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -1336,7 +1336,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T12:04:49Z",
    "sector": "",
-   "specialization": "[\"251\"]",
+   "specialization": "251",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -1891,7 +1891,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T13:11:32Z",
    "sector": "",
-   "specialization": "60",
+   "specialization": "[\"60\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -2259,7 +2259,7 @@
    "expiry_date": "",
    "publish_date": "2025-10-08T09:46:46Z",
    "sector": "",
-   "specialization": "[\"77\",\"149\"]",
+   "specialization": "77, 149",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -2506,7 +2506,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T14:37:58Z",
    "sector": "",
-   "specialization": "[\"60\"]",
+   "specialization": "60",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -2744,7 +2744,7 @@
    "expiry_date": "",
    "publish_date": "2026-03-03T08:40:40Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -3226,7 +3226,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T15:32:41Z",
    "sector": "",
-   "specialization": "[\"70\"]",
+   "specialization": "70",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -4617,7 +4617,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-31T08:19:32Z",
    "sector": "",
-   "specialization": "[\"63\",\"114\",\"149\",\"150\",\"169\",\"262\",\"264\"]",
+   "specialization": "63, 114, 149, 150, 169, 262, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -4729,7 +4729,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-13T14:28:25Z",
    "sector": "",
-   "specialization": "[\"76\"]",
+   "specialization": "76",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -4958,7 +4958,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-29T13:51:25Z",
    "sector": "",
-   "specialization": "[\"60\",\"64\",\"77\",\"133\",\"224\",\"225\"]",
+   "specialization": "60, 64, 77, 133, 224, 225",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5585,7 +5585,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T16:09:45Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5809,7 +5809,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-20T19:24:50Z",
    "sector": "",
-   "specialization": "[\"64\",\"65\",\"66\",\"77\",\"107\",\"150\",\"153\",\"207\"]",
+   "specialization": "64, 65, 66, 77, 107, 150, 153, 207",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6741,7 +6741,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-13T15:23:11Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -7130,101 +7130,6 @@
      "label": "Secteur industriel compatible",
      "terms": [
       "mecanique"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
-   "id": "246584",
-   "title": "Mechanical Documentation Engineer (H/F)",
-   "company": "ABYLSEN SIGMA",
-   "country": "ESPAGNE",
-   "city": "BARCELONE",
-   "description": "Nous recrutons un(e) Ingénieur(e) Documentation Mécanique pour rédiger les documents techniques sur lesquels s'appuient les équipes terrain afin d'installer, tester et maintenir les turbines en toute sécurité et dans les règles de l'art.\n\nVous ferez le lien entre les ingénieurs qui conçoivent les équipements et les ingénieurs terrain qui interviennent dessus. Votre mission : transformer l'intention de conception en procédures claires, précises et exécutables, et les maintenir à jour au fil de l'évolution de la conception.\n\nResponsabilités principales\n\nCréer, revoir et maîtriser la documentation technique mécanique relative à l'installation, à l'achèvement mécanique, à la mise en service, aux essais et à la maintenance : instructions de maintenance terrain, analyses de risques et méthodes opératoires (RAMS), plans de levage, procédures, procédures d'essais et listes de contrôle numériques.\nTransformer les plans de conception, les spécifications et les avis de modification technique en documents terrain clairs, détaillés étape par étape.\nMaintenir les documents alignés avec la conception au fur et à mesure de son évolution : évaluer l'impact des modifications, réviser, puis rééditer via le processus de gestion des modifications.\nAgir en tant qu'interlocuteur principal entre l'Ingénierie, le HSE, les Opérations terrain, le Support technique, l'Usine et les équipes Projet : recueillir les données techniques et s'assurer que les exigences documentaires sont prises en compte et intégrées.\nIntégrer les exigences de sécurité dans chaque document, en lien étroit avec les équipes HSE : avertissements, points d'arrêt, mesures de maîtrise des risques et signalement des situations dangereuses.\nSoutenir les opérations terrain, à distance et sur site si nécessaire, afin que les documents reflètent la réalité opérationnelle. Recueillir les retours des ingénieurs de mise en service et de maintenance, et réintégrer les enseignements tirés dans les documents.\nAdministrer les documents et les flux de travail dans un système de GED et sur des plateformes de formulaires numériques : numérotation, gestion des versions, relecture et approbation, intégrité des données et traçabilité.\nCollaborer avec l'équipe de documentation numérique pour numériser les documents et améliorer les flux de travail.\nGarantir la cohérence de la terminologie, des modèles et des standards de qualité sur l'ensemble de la documentation.\nAssurer la continuité de service pendant les heures ouvrées, ainsi qu'un support d'astreinte occasionnel les week-ends ou jours fériés lorsque les besoins des projets l'exigent.",
-   "mission": "",
-   "profile": "Profil recherché\r\n\r\nDiplôme d'ingénieur en mécanique ou dans un domaine connexe.\r\nMin 3 ans d'expérience en documentation technique, rédaction de procédures ou mise en service dans un environnement mécanique.\r\nSolide maîtrise des systèmes mécaniques et capacité à lire des plans, des spécifications et des nomenclatures.\r\nAnglais professionnel courant, à l'écrit comme à l'oral : c'est notre langue de travail avec les parties prenantes internationales.\r\nUn réel goût pour l'écriture : précise, structurée, en langage clair.\r\nExcellentes aptitudes à la communication et à la résolution de conflits. Vous serez en contact permanent avec les équipes terrain, les ingénieurs de conception, les spécialistes sécurité et d'autres parties prenantes, et vous saurez défendre une position technique tout en recherchant un terrain d'entente.\r\nRigueur et sens de l'organisation pour gérer plusieurs documents et échéances en parallèle.\r\nExpérience d'un système de GED et des pratiques de maîtrise documentaire, idéalement avec des outils de formulaires ou de listes de contrôle numériques, et aisance avec Microsoft Office.\r\nSensibilisation aux pratiques HSE et à la conformité réglementaire, et la discipline nécessaire pour les appliquer dans chaque document.\r\n\r\nAtouts supplémentaires\r\n\r\nExpérience dans l'éolien, ou dans un autre secteur complexe et réglementé comme le ferroviaire, l'aéronautique ou l'automobile.\r\nExpérience terrain en mise en service, installation ou maintenance : vous savez ce qu'est une procédure vue du côté de celui qui l'exécute.\r\nConnaissance des pratiques HSE, des analyses de risques et des systèmes de management de la qualité.\r\nExpérience des standards de rédaction structurée, tels que le Simplified Technical English (ASD-STE100) ou la S1000D.\r\nDisponibilité pour passer du temps avec les équipes terrain lorsque le travail l'exige.",
-   "duration": 12,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2027-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-01T07:10:51Z",
-   "sector": "",
-   "specialization": "77",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-01T07:10:51Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-10-01T00:00:00",
-    "endBroadcastDate": "2026-10-31T00:00:00"
-   },
-   "summary": "Nous recrutons un(e) Ingénieur(e) Documentation Mécanique pour rédiger les documents techniques sur lesquels s'appuient les équipes terrain afin d'installer, tester et maintenir les turbines en toute sécurité et dans les règles de l'art.\n\nVous ferez le lien entre les ingénieurs qui conçoivent les équipements et les ingénieurs terrain qui interviennent dessus. Votre mission : transformer l'intention de conception en procédures claires, précises et exécutables, et les maintenir à jour au fil de l'évolution de la conception.\n\nResponsabilités principales\n\nCréer, revoir et maîtriser la documentation technique mécanique relative à l'installation, à l'achèvement mécanique, à la mise en service, aux essais et à la maintenance : instructions de maintenance terrain, analyses de risques et méthodes opératoires (RAMS), plans de levage, procédures, procédures d'essais et listes de contrôle numériques.\nTransformer les plans de conception, les spécifications et les avis de modification technique en documents terrain clairs, détaillés étape par étape. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246584",
-   "score": 52,
-   "label": "Bonne adéquation",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 45,
-    "qual": 8,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
-     "weight": 10,
-     "terms": [
-      "usine"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "ingenierie",
-      "methodes"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "conformite",
-      "essais",
-      "qualite",
-      "standards"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineer",
-      "mechanical"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "aeronautique",
-      "automobile",
-      "ferroviaire"
      ],
      "points": 5
     },
@@ -7662,7 +7567,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T13:42:07Z",
    "sector": "",
-   "specialization": "[\"331\"]",
+   "specialization": "331",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -7870,7 +7775,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-15T12:17:14Z",
    "sector": "",
-   "specialization": "[\"361\"]",
+   "specialization": "361",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -7963,7 +7868,7 @@
    "expiry_date": "",
    "publish_date": "2026-05-11T14:34:37Z",
    "sector": "",
-   "specialization": "[\"123\"]",
+   "specialization": "123",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8620,7 +8525,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T13:42:47Z",
    "sector": "",
-   "specialization": "[\"207\"]",
+   "specialization": "207",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8719,6 +8624,105 @@
    ]
   },
   {
+   "id": "247245",
+   "title": "Ingénieur HSE (Hygiène, Sécurité, Environnement) (H/F)",
+   "company": "COMPAGNIE DE SAINT-GOBAIN",
+   "country": "SUEDE",
+   "city": "BALSTA",
+   "description": "Vous souhaitez évoluer au cœur d'un environnement industriel et contribuer concrètement à l'amélioration des performances Environnement, Santé & Sécurité d'un site de production ?\n\nRejoignez Gyproc Sweden, l'activité plaques de plâtre de Saint-Gobain en Suède, en tant qu'Ingénieur HSE VIE.\n\nBasé sur notre site industriel de Bålsta, qui compte environ 120 collaborateurs, vous contribuerez au déploiement de la stratégie HSE du Groupe et à l'amélioration continue des standards Environnement, Santé & Sécurité.\n\nLe site dispose déjà d'une culture HSE solide. Cependant, plusieurs axes de progrès ont été identifiés afin d'atteindre les ambitions et standards du Groupe Saint-Gobain. Dans ce contexte, vous accompagnerez les équipes opérationnelles et les responsables HSE dans l'identification des écarts et la mise en œuvre d'actions d'amélioration concrètes.\n\nVotre mission se concentrera principalement sur le site de Bålsta, tout en vous donnant l'opportunité d'intervenir ponctuellement sur d'autres sites du Groupe situés dans la région de Stockholm et du centre de la Suède.\n\nÀ ce titre, vous serez notamment amené(e) à :\n\nRéaliser des analyses de risques sécurité et environnement et identifier les opportunités d'amélioration\nÉvaluer les écarts entre les pratiques existantes et les standards HSE du Groupe Saint-Gobain\nParticiper au déploiement de plans d'actions visant à réduire les risques et améliorer la performance HSE\nContribuer à la conduite de projets d'amélioration continue en lien avec les méthodologies World Class Manufacturing (WCM)\nCollaborer avec les équipes de production, les managers et les autres fonctions du site pour garantir la mise en œuvre des actions définies\nParticiper aux campagnes de communication et de sensibilisation afin de renforcer la culture HSE auprès des collaborateurs\nAssurer le suivi, l'analyse et le reporting des principaux indicateurs HSE (accidents, quasi-accidents, incidents environnementaux, etc.)\nParticiper aux inspections terrain, audits internes et audits externes, ainsi qu'au suivi des plans d'actions associés\nAccompagner et former les managers et les équipes sur les sujets Santé, Sécurité et Environnement\nSoutenir le déploiement des standards et bonnes pratiques HSE du Groupe sur l'ensemble des sites concernés\nCette mission vous offrira une forte exposition terrain et l'opportunité de travailler avec de nombreux interlocuteurs, tout en développant vos compétences en gestion de projets, amélioration continue et excellence opérationnelle dans un environnement industriel international.",
+   "mission": "",
+   "profile": "Formation\n\nDiplôme d'Ingénieur ou Master spécialisé en Santé, Sécurité, Environnement, HSE ou domaine équivalent\nExpérience\n\nUne première expérience en environnement industriel ou sur un site de production\nUne exposition aux problématiques HSE serait un réel atout\nUne première expérience en amélioration continue, Lean, WCM ou Six Sigma est appréciée\nCompétences techniques\n\nConnaissances des enjeux santé, sécurité et environnement\nCompréhension de la réglementation liée à l'environnement de travail et/ou à l'environnement\nCapacité à analyser des données et proposer des actions correctives\nLangues\n\nAnglais courant (B2/C1 minimum)\nSoft Skills\n\nNous recherchons une personne :\n\nCurieuse et motivée par les sujets HSE\nÀ l'aise dans les échanges avec des interlocuteurs variés\nProactive et force de proposition\nOrganisée et capable de gérer plusieurs sujets simultanément\nRigoureuse dans le suivi des actions\nOrientée solutions\nAppréciant le travail de terrain et le contact avec les équipes opérationnelles\nDotée d'un bon esprit d'équipe",
+   "duration": 12,
+   "start_date": "2027-03-01T00:00:00",
+   "end_date": "2028-03-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-19T15:45:02Z",
+   "sector": "",
+   "specialization": "[\"155\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-19T15:45:02Z",
+    "missionStartDate": "2027-03-01T00:00:00",
+    "missionEndDate": "2028-03-01T00:00:00",
+    "startBroadcastDate": "2026-10-20T00:00:00",
+    "endBroadcastDate": "2026-11-19T00:00:00"
+   },
+   "summary": "Vous souhaitez évoluer au cœur d'un environnement industriel et contribuer concrètement à l'amélioration des performances Environnement, Santé & Sécurité d'un site de production ?\n\nRejoignez Gyproc Sweden, l'activité plaques de plâtre de Saint-Gobain en Suède, en tant qu'Ingénieur HSE VIE.\n\nBasé sur notre site industriel de Bålsta, qui compte environ 120 collaborateurs, vous contribuerez au déploiement de la stratégie HSE du Groupe et à l'amélioration continue des standards Environnement, Santé & Sécurité.\n\nLe site dispose déjà d'une culture HSE solide. Cependant, plusieurs axes de progrès ont été identifiés afin d'atteindre les ambitions et standards du Groupe Saint-Gobain. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247245",
+   "score": 49,
+   "label": "À examiner",
+   "first_seen": "2026-10-20T11:34:12+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 24,
+    "qual": 34,
+    "calc": 0
+   },
+   "dominant_axis": "qual",
+   "matched_families": [
+    {
+     "id": "prod5",
+     "axis": "prod",
+     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
+     "weight": 4,
+     "terms": [
+      "lean"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "amelioration continue",
+      "manufacturing"
+     ]
+    },
+    {
+     "id": "qual3",
+     "axis": "qual",
+     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
+     "weight": 7,
+     "terms": [
+      "six sigma"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "standards"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "hse",
+      "ingenieur"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "industriel"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
    "id": "233036",
    "title": "INGENIEUR METHODES H/F (H/F)",
    "company": "EFE INTERNATIONAL",
@@ -8733,7 +8737,7 @@
    "expiry_date": "",
    "publish_date": "2025-11-19T10:45:12Z",
    "sector": "",
-   "specialization": "[\"77\",\"149\",\"207\"]",
+   "specialization": "77, 149, 207",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9197,7 +9201,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-28T13:08:22Z",
    "sector": "",
-   "specialization": "[\"225\"]",
+   "specialization": "225",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9385,6 +9389,85 @@
       "engineer"
      ],
      "points": 14
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
+   "id": "246843",
+   "title": "Ingénieur Expert Produit H/F (H/F)",
+   "company": "TLD EUROPE",
+   "country": "BELGIQUE",
+   "city": "FRAMERIES",
+   "description": "Sous la supervision de la directrice support produit, l'ingénieur support produits, se doit d’apporter le support technique et le supporter sur les produits de l’usine.\r\n\r\nPlus précisément, vous serez appelé à:\r\n- Supporter les techniciens de service pour toute question relative aux produits en service provenant de notre usine;\r\n- Analyser et traiter les demandes de garanties et les demandes d’amélioration de produits;\r\n- Animer des formations auprès des clients internes et/ou externes et des techniciens SAV de l’entrepris\r\n- Participer aux présentations et démonstrations de matériels aux clients;\r\n- Répondre aux appels d’offre en collaboration avec les entités commerciales;\r\n- Être le point d’entrée de l’usine pour les techniciens de service et commerciaux ainsi que les vendeurs;\r\n- Effectuer le Benchmark des produits de la concurrence.",
+   "mission": "",
+   "profile": "- Diplôme d'ingénieur ou équivalent dans le domaine de la conception mécanique ou autre domaine pertinent;\n\n- Expérience dans un environnement technique, idéalement proche de la conception d’engins mécaniques (construction, matériel agricole, matériel roulant, etc.);\n\n- Bonne capacités relationnelles et un grand intérêt pour les produits à forte composante technique;\n\n- Aisance en anglais, tant à l’écrit qu’à l’oral.",
+   "duration": 24,
+   "start_date": "2027-04-01T00:00:00",
+   "end_date": "2029-04-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-08T11:34:20Z",
+   "sector": "",
+   "specialization": "[\"130\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-08T11:34:20Z",
+    "missionStartDate": "2027-04-01T00:00:00",
+    "missionEndDate": "2029-04-01T00:00:00",
+    "startBroadcastDate": "2026-10-20T00:00:00",
+    "endBroadcastDate": "2026-11-19T00:00:00"
+   },
+   "summary": "Sous la supervision de la directrice support produit, l'ingénieur support produits, se doit d’apporter le support technique et le supporter sur les produits de l’usine.\r\n\r\nPlus précisément, vous serez appelé à:\r\n- Supporter les techniciens de service pour toute question relative aux produits en service provenant de notre usine;\r\n- Analyser et traiter les demandes de garanties et les demandes d’amélioration de produits;\r\n- Animer des formations auprès des clients internes et/ou externes et des techniciens SAV de l’entrepris\r\n- Participer aux présentations et démonstrations de matériels aux clients;\r\n- Répondre aux appels d’offre en collaboration avec les entités commerciales;\r\n- Être le point d’entrée de l’usine pour les techniciens de service et commerciaux ainsi que les vendeurs;\r\n- Effectuer le Benchmark des produits de la concurrence.",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/246843",
+   "score": 48,
+   "label": "À examiner",
+   "first_seen": "2026-10-20T11:34:12+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 34,
+    "qual": 0,
+    "calc": 20
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "calc2",
+     "axis": "calc",
+     "source": "CAO (278-1, 30 h), Conception mécanique (264-1, 43 h)",
+     "weight": 9,
+     "terms": [
+      "conception mecanique"
+     ]
+    },
+    {
+     "id": "prod4",
+     "axis": "prod",
+     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
+     "weight": 10,
+     "terms": [
+      "usine"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "ingenieur"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "mecanique"
+     ],
+     "points": 5
     },
     {
      "label": "Niveau bac+5 / ingénieur annoncé",
@@ -9597,7 +9680,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T08:00:24Z",
    "sector": "",
-   "specialization": "[\"114\"]",
+   "specialization": "114",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9702,7 +9785,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-21T12:28:26Z",
    "sector": "",
-   "specialization": "[\"73\"]",
+   "specialization": "73",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -11259,6 +11342,99 @@
    ]
   },
   {
+   "id": "247266",
+   "title": "Ingénieur en analyse des défaillances (H/F)",
+   "company": "STMICROELECTRONICS ROUSSET SAS",
+   "country": "ITALIE",
+   "city": "AGRATE BRIANZA",
+   "description": "Le candidat rejoindra notre équipe d’analyse des défaillances des microcontrôleurs automobiles basée dans la région de Milan, en Italie, et jouera un rôle clé dans la résolution des problèmes liés aux dispositifs semi-conducteurs qui ont un impact direct sur la qualité des produits et la satisfaction des clients. À ce poste, vous enquêterez sur les incidents signalés par les clients et les défaillances internes liées à la fiabilité des technologies avancées de microcontrôleurs, en utilisant des techniques d’isolation des défauts électriques et optiques pour identifier les défauts physiques, soutenir l’analyse des causes profondes et contribuer à la mise en place de mesures correctives efficaces.\r\n\r\nPrincipales responsabilités\r\n\r\nRéaliser des analyses de défaillance sur des dispositifs semi-conducteurs, en commençant par des cas simples à moyennement complexes, puis en abordant progressivement des modes de défaillance plus complexes à mesure que vos compétences se développent\r\nTravailler en étroite collaboration avec les équipes chargées de la qualité des produits chez les clients, le personnel de laboratoire, l’ingénierie produit, les applications et la conception afin d’assurer des délais d’exécution efficaces et d’obtenir des résultats d’analyse solides\r\nRédiger des rapports clairs et concis et communiquer les conclusions aux clients et aux parties prenantes internes\r\nParticiper à des réunions interfonctionnelles et à des projets d’amélioration visant à renforcer la qualité et la fiabilité des produits\r\nContribuer à l’évaluation et à la mise en place de nouveaux outils et méthodes afin d’améliorer l’efficacité des activités d’analyse des défaillances",
+   "mission": "",
+   "profile": "Vos compétences et votre expérience\n\nMaster en science des matériaux, physique, génie électrique/électronique ou dans un domaine connexe\nEsprit analytique développé et solides compétences en résolution de problèmes\nCapacité à analyser des données complexes et à utiliser des outils de diagnostic électrique et d’isolation optique des défauts\nBonne compréhension des circuits électriques\nConnaissances de base en physique des semi-conducteurs\nBonnes compétences en communication écrite et orale en anglais\nMotivation à travailler dans un environnement dynamique, collaboratif et stimulant sur le plan technique\nEsprit d’équipe et volonté d’apprendre",
+   "duration": 24,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2029-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-20T07:12:25Z",
+   "sector": "",
+   "specialization": "[\"143\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-20T07:12:25Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2029-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-20T00:00:00",
+    "endBroadcastDate": "2026-11-19T00:00:00"
+   },
+   "summary": "Le candidat rejoindra notre équipe d’analyse des défaillances des microcontrôleurs automobiles basée dans la région de Milan, en Italie, et jouera un rôle clé dans la résolution des problèmes liés aux dispositifs semi-conducteurs qui ont un impact direct sur la qualité des produits et la satisfaction des clients. À ce poste, vous enquêterez sur les incidents signalés par les clients et les défaillances internes liées à la fiabilité des technologies avancées de microcontrôleurs, en utilisant des techniques d’isolation des défauts électriques et optiques pour identifier les défauts physiques, soutenir l’analyse des causes profondes et contribuer à la mise en place de mesures correctives efficaces.\r\n\r\nPrincipales responsabilités\r\n\r\nRéaliser des analyses de défaillance sur des dispositifs semi-conducteurs, en commençant par des cas simples à moyennement complexes, puis en abordant progressivement des modes de défaillance plus complexes à mesure que vos compétences se développent […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247266",
+   "score": 42,
+   "label": "À examiner",
+   "first_seen": "2026-10-20T11:34:12+00:00",
+   "axis_scores": {
+    "rd": 34,
+    "prod": 10,
+    "qual": 8,
+    "calc": 0
+   },
+   "dominant_axis": "rd",
+   "matched_families": [
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "ingenierie",
+      "methodes"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "qualite"
+     ]
+    },
+    {
+     "id": "rd2",
+     "axis": "rd",
+     "source": "Propriétés mécaniques et physique des matériaux (262-1, 30 h), Critères de choix des matériaux (265-1, 15 h)",
+     "weight": 9,
+     "terms": [
+      "materiaux",
+      "science des materiaux"
+     ]
+    },
+    {
+     "id": "rd9",
+     "axis": "rd",
+     "source": "Vocabulaire de laboratoire courant",
+     "weight": 3,
+     "terms": [
+      "laboratoire",
+      "resolution de problemes"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "ingenieur"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
    "id": "233038",
    "title": "INGENIEUR ELECTRIQUE H/F (H/F)",
    "company": "EFE INTERNATIONAL",
@@ -11927,7 +12103,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-10T12:08:07Z",
    "sector": "",
-   "specialization": "[\"71\"]",
+   "specialization": "71",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12188,7 +12364,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-31T08:22:25Z",
    "sector": "",
-   "specialization": "[\"60\",\"149\",\"150\",\"206\",\"209\",\"244\",\"262\",\"264\"]",
+   "specialization": "60, 149, 150, 206, 209, 244, 262, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12266,6 +12442,97 @@
    ]
   },
   {
+   "id": "247269",
+   "title": "Ingénieur Sécurité Machines & Marquage CE (H/F)",
+   "company": "ABYLSEN SIGMA",
+   "country": "ESPAGNE",
+   "city": "BARCELONE",
+   "description": "Pour appuyer un projet de fabrication d’entrepôts robotisés, House of ABY monte une équipe d’ingénierie à Barcelone. Ces installations regroupent des transstockeurs pour palettes et bacs (miniload), des convoyeurs, des navettes, des élévateurs et des robots mobiles. Chaque machine doit être déclarée conforme à la réglementation européenne avant sa mise en service.\n\nLe calendrier rend le poste particulièrement stratégique : le Règlement Machines (UE) 2023/1230 remplace la Directive 2006/42/CE à partir du 20 janvier 2027. Vous ferez partie de l’équipe dès sa création et participerez directement à cette transition, sur des projets concrets et avec une vraie présence sur le terrain.\n\nVos missions\n\nAnalyser et évaluer les risques des machines d’entrepôts automatiques selon l’EN ISO 12100.\nProposer des mesures de prévention (protecteurs, dispositifs de sécurité, procédures) et en estimer le coût.\nDéfinir les fonctions de sécurité et calculer les niveaux de performance (PLr / PL) selon l’EN ISO 13849-1, avec le logiciel SISTEMA de l’IFA.\nÉtablir et tenir à jour les matrices de sécurité, c’est-à-dire les relations cause-effet entre capteurs et actionneurs.\nParticiper à la validation des fonctions de sécurité et des programmes automates selon l’EN ISO 13849-2, avec les équipes automatisme.\nCollecter les informations nécessaires et rédiger les dossiers techniques.\nContribuer au marquage CE et à l’adaptation des procédures au nouveau Règlement 2023/1230.",
+   "mission": "",
+   "profile": "Diplôme d’ingénieur ou master en génie mécanique, électrique, automatisme ou industriel.\nUne première expérience en sécurité des machines (stage, alternance ou premier poste), idéalement en bureau d’études, chez un fabricant de machines ou dans un organisme de contrôle.\nConnaissance de la Directive Machines 2006/42/CE, du Règlement 2023/1230 et des normes EN ISO 12100 et EN ISO 13849-1/-2.\nCapacité à lire des plans mécaniques et des schémas électriques.\nMaîtrise d’AutoCAD et d’EPLAN. SISTEMA est un vrai plus.\nAnglais technique courant, pour lire normes et documentation.\nL’espagnol est un plus apprécié, ou à défaut l’envie de l’apprendre rapidement.\nRigueur, sens de l’analyse, goût du terrain et du travail avec des équipes pluridisciplinaires.\nEnvie de participer à la construction d’une équipe nouvelle.",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-20T07:21:11Z",
+   "sector": "",
+   "specialization": "[\"149\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-20T07:21:11Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-20T00:00:00",
+    "endBroadcastDate": "2026-11-19T00:00:00"
+   },
+   "summary": "Pour appuyer un projet de fabrication d’entrepôts robotisés, House of ABY monte une équipe d’ingénierie à Barcelone. Ces installations regroupent des transstockeurs pour palettes et bacs (miniload), des convoyeurs, des navettes, des élévateurs et des robots mobiles. Chaque machine doit être déclarée conforme à la réglementation européenne avant sa mise en service.\n\nLe calendrier rend le poste particulièrement stratégique : le Règlement Machines (UE) 2023/1230 remplace la Directive 2006/42/CE à partir du 20 janvier 2027. Vous ferez partie de l’équipe dès sa création et participerez directement à cette transition, sur des projets concrets et avec une vraie présence sur le terrain.\n\nVos missions\n\nAnalyser et évaluer les risques des machines d’entrepôts automatiques selon l’EN ISO 12100.\nProposer des mesures de prévention (protecteurs, dispositifs de sécurité, procédures) et en estimer le coût.\nDéfinir les fonctions de sécurité et calculer les niveaux de performance (PLr / PL) selon l’EN ISO 13849-1, avec le logiciel SISTEMA de l’IFA. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247269",
+   "score": 38,
+   "label": "À examiner",
+   "first_seen": "2026-10-20T11:34:12+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 10,
+    "qual": 8,
+    "calc": 20
+   },
+   "dominant_axis": "calc",
+   "matched_families": [
+    {
+     "id": "calc2",
+     "axis": "calc",
+     "source": "CAO (278-1, 30 h), Conception mécanique (264-1, 43 h)",
+     "weight": 9,
+     "terms": [
+      "bureau d'etudes"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "fabrication",
+      "ingenierie"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "normes",
+      "validation"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "ingenieur"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "industriel",
+      "mecanique"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
    "id": "246505",
    "title": "CONCEPTEUR MECANIQUE  (H/F)",
    "company": "ACALY",
@@ -12280,7 +12547,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-29T08:58:35Z",
    "sector": "",
-   "specialization": "[\"60\",\"64\",\"65\",\"77\",\"133\",\"149\",\"264\"]",
+   "specialization": "60, 64, 65, 77, 133, 149, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12375,7 +12642,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-12T13:36:38Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12440,92 +12707,6 @@
      "terms": [
       "energie",
       "mecanique"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
-   "id": "247020",
-   "title": "Projets Supply Chain H/F (H/F)",
-   "company": "RENAULT SAS",
-   "country": "BRESIL",
-   "city": "SAO JOSE DOS PINHAIS",
-   "description": "Mission Principale\n\nRejoignez l’équipe Projet Supply Chain de Renault Group au Brésil et contribuez au développement ainsi qu’au lancement de nouveaux projets véhicules en partenariat avec Geely. Cette mission VIE offre une immersion concrète dans un environnement industriel automobile international, où vous contribuerez à sécuriser l’approvisionnement des pièces, les capacités des fournisseurs et les flux logistiques conformément aux jalons projet, aux standards qualité et aux objectifs de production. À l’interface des Achats, de l’Ingénierie, de la Fabrication, de la Logistique et des fournisseurs, vous jouerez un rôle actif dans la performance projet, l’anticipation des risques et les initiatives d’amélioration continue. \n\nDescription des activités \n\nContribuer à la coordination des livrables Supply Chain pour les projets de développement et de lancement de nouveaux véhicules.\n\nSuivre la préparation des fournisseurs, la disponibilité des pièces et la préparation logistique au regard des principaux jalons projet\n\nContribuer à l’identification, à l’analyse et à la mitigation des risques Supply Chain afin de sécuriser la réussite des lancements véhicules.\n\nParticiper à des réunions transversales avec les équipes Ingénierie, Achats, Fabrication, Qualité et Logistique, afin d’acquérir une vision globale du pilotage de projets industriels.\n\nSuivre les indicateurs projet et préparer des rapports, tableaux de bord et présentations de management clairs pour faciliter la prise de décision.\n\nContribuer à des études logistiques portant sur les flux de transport, la stratégie de stocks, les solutions d’emballage et l’efficacité opérationnelle.\n\nAppuyer l’analyse des coûts logistiques des nouveaux projets véhicules, incluant les impacts liés au transport, à l’emballage, à l’entreposage et aux stocks.\n\nIdentifier des opportunités d’optimisation des coûts en comparant différents scénarios Supply Chain et logistiques.\n\nContribuer au suivi de la nomenclature produit (BOM – Bill of Materials) et évaluer les impacts Supply Chain liés aux modifications d’ingénierie.\n\nParticiper à la préparation des phases présérie et industrialisation en étroite coopération avec l’usine et les parties prenantes projet.\n\nParticiper aux initiatives d’amélioration continue axées sur les coûts, la qualité, la performance de livraison et l’efficacité.\n\nCollaborer avec des équipes et fournisseurs internationaux dans un environnement multiculturel impliquant des parties prenantes au Brésil, en Chine, en Corée et en France",
-   "mission": "",
-   "profile": "Bac+5 (master 2) en Supply Chain\r\nAnglais et français courants, le portugais serait un plus.",
-   "duration": 18,
-   "start_date": "2027-02-01T00:00:00",
-   "end_date": "2028-08-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-13T14:01:22Z",
-   "sector": "",
-   "specialization": "244",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-13T14:01:22Z",
-    "missionStartDate": "2027-02-01T00:00:00",
-    "missionEndDate": "2028-08-01T00:00:00",
-    "startBroadcastDate": "2026-10-13T00:00:00",
-    "endBroadcastDate": "2026-11-12T00:00:00"
-   },
-   "summary": "Mission Principale\n\nRejoignez l’équipe Projet Supply Chain de Renault Group au Brésil et contribuez au développement ainsi qu’au lancement de nouveaux projets véhicules en partenariat avec Geely. Cette mission VIE offre une immersion concrète dans un environnement industriel automobile international, où vous contribuerez à sécuriser l’approvisionnement des pièces, les capacités des fournisseurs et les flux logistiques conformément aux jalons projet, aux standards qualité et aux objectifs de production. À l’interface des Achats, de l’Ingénierie, de la Fabrication, de la Logistique et des fournisseurs, vous jouerez un rôle actif dans la performance projet, l’anticipation des risques et les initiatives d’amélioration continue. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/247020",
-   "score": 38,
-   "label": "À examiner",
-   "first_seen": "2026-10-13T20:15:05+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 45,
-    "qual": 8,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
-     "weight": 10,
-     "terms": [
-      "industrialisation",
-      "usine"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "amelioration continue",
-      "fabrication",
-      "ingenierie"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "qualite",
-      "standards"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "automobile",
-      "industriel"
      ],
      "points": 5
     },
@@ -12872,109 +13053,6 @@
       "mecanique"
      ],
      "points": 5
-    }
-   ]
-  },
-  {
-   "id": "246463",
-   "title": "Supply Chain Review Analyst (H/F)",
-   "company": "ABYLSEN SIGMA",
-   "country": "ESPAGNE",
-   "city": "MADRID",
-   "description": "Un constructeur aéronautique s'appuie sur ses fournisseurs pour l'essentiel de la valeur de ses avions, et la fiabilité de chacun conditionne les livraisons et la montée en cadence des programmes. Chez le constructeur aéronautique, le SCQM (Supply Chain & Quality Manager) pilote la performance d'un fournisseur ou d'un portefeuille de fournisseurs. La Supply Chain Review (SCR) est l'un des outils de cette démarche : un état des lieux approfondi, documenté et contradictoire d'un fournisseur, restitué au constructeur dans un rapport.\n\nChez House of ABY, le Supply Chain Review Analyst réalise cette activité pour le compte du constructeur aéronautique. Il ne porte pas l'ensemble du rôle de SCQM : il en prend en charge la partie « review », de la collecte de l'information jusqu'à la restitution.\n\nLe principe de la revue est déjà inscrit dans le cadre contractuel. Les exigences qualité du constructeur demandent aux fournisseurs de participer à des revues supply chain régulières organisées par l'acheteur pour évaluer capacité et livraisons. Elles demandent aussi de calculer leurs propres indicateurs de livraison selon les définitions de l'acheteur, de les comparer à ceux calculés par l'acheteur, et de fournir preuves et justifications en cas d'écart. Ce rapprochement entre la vision du fournisseur et celle du constructeur est au cœur de la SCR.\n\nObjectif de l'activité\n\nDonner au constructeur aéronautique une vision fiable, à jour et argumentée de la situation d'un fournisseur (performance, capacité, risques, plan d'action), afin de décider, d'arbitrer et de sécuriser les livraisons.\n\nDéroulement d'une SCR\n\n1. Cadrage et préparation\n\nIdentifier le fournisseur, le périmètre (pièces, programmes, sites) et l'objet de la revue : dégradation de performance, risque identifié, montée en cadence, revue périodique.\nRassembler dans les systèmes internes du constructeur toutes les données disponibles : performance de livraison et de qualité, non-conformités, commandes et charge, alertes, historique des revues et des actions.\nAnalyser les tendances, repérer les écarts et les zones d'ombre, puis construire le guide d'entretien.\n\n2. Entretiens avec le fournisseur\n\nL'analyste est l'interlocuteur du fournisseur pour la revue. Il l'interroge sur ses données et leurs causes :\n\nPerformance de livraison (OTD, On Time Delivery) : niveau, retards, causes racines, plan de rattrapage.\nQualité livrée (RFT, Right First Time) : taux de conformité au premier passage, non-conformités, traitement des causes.\nSituation économique : chiffre d'affaires, part du constructeur dans l'activité, évolution, signaux de fragilité financière.\nCapacité et aptitude à monter en cadence : ressources, moyens, goulots, plans de ramp-up.\nChaîne d'approvisionnement du fournisseur : sous-traitants et matières critiques, stocks, délais, risques de rupture.\nOrganisation et pilotage : gouvernance de la performance, méthodes qualité, ressources clés.\n\nIl confronte les réponses aux données du constructeur, note les écarts et demande les preuves et justifications manquantes.\n\n3. Rédaction de la SCR\n\nLe rapport, à destination du constructeur aéronautique, présente :\n\nla situation du fournisseur et le contexte de la revue ;\nles KPI (OTD, RFT, activité) avec leur analyse et les écarts entre données fournisseur et données du constructeur ;\nles constats et les risques identifiés, avec une appréciation de leur niveau ;\nles actions déjà engagées, les actions à mettre en œuvre, leurs responsables et leurs échéances ;\nla justification de chaque action, de chaque décision et de chaque position du fournisseur, pour que le rapport soit tracé, auditable et compréhensible sans avoir assisté aux entretiens.\n\n4. Restitution et suivi\n\nPrésenter la SCR aux parties prenantes du constructeur (SCQM, acheteurs, supply chain, sites).\nSuivre l'avancement des plans d'action et leur effet sur les KPI, notamment les plans de redressement lorsque la performance de livraison s'est dégradée.\nAlerter le constructeur en cas de risque significatif ou de blocage, et mettre à jour la revue si la situation évolue.",
-   "mission": "",
-   "profile": "Formation et expérience\n\nLe poste est ouvert à un jeune ingénieur (Bac+5 en supply chain, qualité, gestion de production ou ingénierie générale) comme à un technicien supérieur (Bac+3 en logistique, qualité, gestion de la production ou génie industriel). \n\nCompétences\n\nAnalyse de données : lire et recouper des indicateurs de performance fournisseur (OTD, RFT, non-conformités), repérer un écart ou une incohérence, et remonter à la cause. Excel et les outils de reporting doivent être maîtrisés.\nCompréhension industrielle : savoir ce que recouvrent un goulot de production, un retard d'approvisionnement, une non-conformité ou un plan de rattrapage, pour évaluer la crédibilité de ce que raconte un fournisseur.\nLecture économique de base : interpréter un chiffre d'affaires, une charge, une dépendance à un client, et percevoir les signaux de fragilité.\nEntretien : poser les bonnes questions, écouter, relancer, ne pas se contenter de la première réponse, y compris face à des interlocuteurs plus expérimentés.\nRédaction : produire un rapport clair, factuel et structuré, lisible par un décideur qui n'a pas assisté aux échanges.\nAnglais professionnel, à l'écrit comme à l'oral.\n\nQualités personnelles\n\nRigueur et sens du détail : chaque affirmation du rapport doit être justifiée et traçable.\nNeutralité et intégrité : rapporter les faits tels qu'ils sont, même s'ils déplaisent au fournisseur ou à Airbus.\nAisance relationnelle et diplomatie, avec des interlocuteurs allant du technicien à la direction.\nAutonomie et sens des priorités pour mener plusieurs revues en parallèle.\nCuriosité pour l'industrie aéronautique, ses exigences de qualité, de traçabilité et de cadence.",
-   "duration": 12,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2027-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-28T11:12:32Z",
-   "sector": "",
-   "specialization": "[\"60\"]",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-28T11:12:32Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-30T00:00:00",
-    "endBroadcastDate": "2026-10-30T00:00:00"
-   },
-   "summary": "Un constructeur aéronautique s'appuie sur ses fournisseurs pour l'essentiel de la valeur de ses avions, et la fiabilité de chacun conditionne les livraisons et la montée en cadence des programmes. Chez le constructeur aéronautique, le SCQM (Supply Chain & Quality Manager) pilote la performance d'un fournisseur ou d'un portefeuille de fournisseurs. La Supply Chain Review (SCR) est l'un des outils de cette démarche : un état des lieux approfondi, documenté et contradictoire d'un fournisseur, restitué au constructeur dans un rapport.\n\nChez House of ABY, le Supply Chain Review Analyst réalise cette activité pour le compte du constructeur aéronautique. Il ne porte pas l'ensemble du rôle de SCQM : il en prend en charge la partie « review », de la collecte de l'information jusqu'à la restitution.\n\nLe principe de la revue est déjà inscrit dans le cadre contractuel. Les exigences qualité du constructeur demandent aux fournisseurs de participer à des revues supply chain régulières organisées par l'acheteur pour évaluer capacité et livraisons. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246463",
-   "score": 35,
-   "label": "À examiner",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 63,
-    "prod": 10,
-    "qual": 8,
-    "calc": 0
-   },
-   "dominant_axis": "rd",
-   "matched_families": [
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "ingenierie",
-      "methodes"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "conformite",
-      "qualite",
-      "quality"
-     ]
-    },
-    {
-     "id": "rd3",
-     "axis": "rd",
-     "source": "Dégradation des matériaux (300-2, 55 h), Traitements de surface (306-2, 20 h)",
-     "weight": 12,
-     "terms": [
-      "degradation"
-     ]
-    },
-    {
-     "id": "rd4",
-     "axis": "rd",
-     "source": "Rupture et fatigue des matériaux (291-1, 47 h)",
-     "weight": 10,
-     "terms": [
-      "rupture"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "aeronautique",
-      "industriel"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Formation exigée hors cursus : score plafonné",
-     "terms": [
-      "genie industriel",
-      "gestion"
-     ],
-     "points": -15,
-     "cap": 35
     }
    ]
   },
@@ -13839,7 +13917,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-05T14:50:45Z",
    "sector": "",
-   "specialization": "144",
+   "specialization": "[\"144\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -14300,7 +14378,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-08T11:09:48Z",
    "sector": "",
-   "specialization": "149, 330, 355",
+   "specialization": "[\"149\",\"330\",\"355\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -15708,7 +15786,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-14T07:36:46Z",
    "sector": "",
-   "specialization": "[\"365\"]",
+   "specialization": "365",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -15917,7 +15995,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-14T13:27:02Z",
    "sector": "",
-   "specialization": "[\"153\"]",
+   "specialization": "153",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -16545,7 +16623,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-21T11:54:30Z",
    "sector": "",
-   "specialization": "[\"68\"]",
+   "specialization": "68",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -17354,7 +17432,7 @@
    "expiry_date": "",
    "publish_date": "2026-02-23T15:38:40Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -17622,6 +17700,122 @@
      "label": "Niveau bac+5 / ingénieur annoncé",
      "terms": [],
      "points": 4
+    }
+   ]
+  },
+  {
+   "id": "247268",
+   "title": "Ingénieur Qualité (H/F)",
+   "company": "STMICROELECTRONICS (GRENOBLE 2) SAS",
+   "country": "SINGAPOUR",
+   "city": "ANG MO KIO",
+   "description": "Pour soutenir la forte croissance internationale du groupe Microcontrollers, Digital ICs and RF Products Group (MDRF), nous renforçons notre support Qualité & Fiabilité sur les lignes de production d’assemblage en boîtiers de nos sous-traitants basés en Asie.\n\nL’ingénieur sera intégré à une équipe d’ingénieurs qualité Back-End basée à Singapour. Il travaillera en collaboration avec plusieurs services basés en Asie et avec différentes divisions afin de contribuer aux choix techniques.\n\nVos missions\n\nGestion des lots non conformes (NCI)\nSuivi, analyse et décision sur les lots non conformes, en coordination avec les équipes concernées.\nGestion des excursions process et des retours clients\nAnalyse des causes, définition et suivi des actions correctives et préventives.\nSupport aux revues de changements process (PCRB)\nContribution à l’évaluation des risques liés aux changements et au suivi des qualifications",
+   "mission": "",
+   "profile": "A propos de vous\n\nSavoir être \nExcellentes capacités de communication, à l’oral comme à l’écrit\nForte adaptabilité, sens du service et capacité à évoluer dans un environnement multiculturel\nAutonomie, rigueur et esprit d’initiative\nBonne gestion des priorités et capacité à travailler sous pression\nAnglais courant indispensable\nCompétences techniques\nMaîtrise des outils et méthodes de résolution de problèmes, notamment la méthodologie 8D\nBonne connaissance des processus d’assemblage et de test en semi-conducteurs\nConnaissance des méthodes d’analyse de fiabilité et de défaillance\nUne première expérience en environnement industriel ou en fabrication semi-conducteur serait un plus",
+   "duration": 24,
+   "start_date": "2027-02-01T00:00:00",
+   "end_date": "2029-02-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-20T07:17:35Z",
+   "sector": "",
+   "specialization": "[\"208\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-20T07:17:35Z",
+    "missionStartDate": "2027-02-01T00:00:00",
+    "missionEndDate": "2029-02-01T00:00:00",
+    "startBroadcastDate": "2026-10-20T00:00:00",
+    "endBroadcastDate": "2026-11-19T00:00:00"
+   },
+   "summary": "Pour soutenir la forte croissance internationale du groupe Microcontrollers, Digital ICs and RF Products Group (MDRF), nous renforçons notre support Qualité & Fiabilité sur les lignes de production d’assemblage en boîtiers de nos sous-traitants basés en Asie.\n\nL’ingénieur sera intégré à une équipe d’ingénieurs qualité Back-End basée à Singapour. Il travaillera en collaboration avec plusieurs services basés en Asie et avec différentes divisions afin de contribuer aux choix techniques.\n\nVos missions\n\nGestion des lots non conformes (NCI)\nSuivi, analyse et décision sur les lots non conformes, en coordination avec les équipes concernées.\nGestion des excursions process et des retours clients\nAnalyse des causes, définition et suivi des actions correctives et préventives.\nSupport aux revues de changements process (PCRB)\nContribution à l’évaluation des risques liés aux changements et au suivi des qualifications",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247268",
+   "score": 35,
+   "label": "À examiner",
+   "first_seen": "2026-10-20T11:34:12+00:00",
+   "axis_scores": {
+    "rd": 9,
+    "prod": 34,
+    "qual": 34,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod3",
+     "axis": "prod",
+     "source": "Assemblage des matériaux (297-2, 30 h)",
+     "weight": 7,
+     "terms": [
+      "assemblage"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "fabrication",
+      "methodes"
+     ]
+    },
+    {
+     "id": "qual3",
+     "axis": "qual",
+     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
+     "weight": 7,
+     "terms": [
+      "8d"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "qualite"
+     ]
+    },
+    {
+     "id": "rd9",
+     "axis": "rd",
+     "source": "Vocabulaire de laboratoire courant",
+     "weight": 3,
+     "terms": [
+      "resolution de problemes"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "ingenieur",
+      "qualite"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "industriel"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    },
+    {
+     "label": "Formation exigée hors cursus : score plafonné",
+     "terms": [
+      "gestion"
+     ],
+     "points": -18,
+     "cap": 35
     }
    ]
   },
@@ -18387,7 +18581,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-21T06:54:21Z",
    "sector": "",
-   "specialization": "[\"63\",\"86\",\"106\",\"123\",\"192\"]",
+   "specialization": "63, 86, 106, 123, 192",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -18472,7 +18666,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-22T13:27:06Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19319,7 +19513,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T15:08:09Z",
    "sector": "",
-   "specialization": "149",
+   "specialization": "[\"149\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19503,7 +19697,7 @@
    "expiry_date": "",
    "publish_date": "2025-10-08T09:46:46Z",
    "sector": "",
-   "specialization": "[\"71\",\"73\",\"224\"]",
+   "specialization": "71, 73, 224",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19596,7 +19790,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-09T07:57:33Z",
    "sector": "",
-   "specialization": "[\"65\"]",
+   "specialization": "65",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19901,6 +20095,91 @@
      "terms": [
       "automotive",
       "industrial"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
+   "id": "247267",
+   "title": "Ingénieur Qualité FAI (H/F)",
+   "company": "ABYLSEN SIGMA",
+   "country": "ESPAGNE",
+   "city": "MADRID",
+   "description": "💼 Vos missions\n \nRejoignez une équipe au cœur des programmes Airbus et devenez un acteur clé de la conformité des pièces aéronautiques avant leur mise en production.\nEn tant qu'Ingénieur Qualité FAI, vous êtes l'interlocuteur privilégié entre Airbus et son panel de fournisseurs, avec pour objectif de garantir la qualité et la conformité des dossiers de First Article Inspection (FAI).\nAnalyser et valider les dossiers FAI transmis par les fournisseurs selon les exigences Airbus et les standards aéronautiques applicables.\nVérifier la cohérence entre les plans, spécifications techniques, normes qualité et rapports d'inspection.\nIdentifier les écarts et accompagner les fournisseurs dans leur résolution jusqu'à la validation finale.\nAssurer l'interface entre les équipes Airbus et les fournisseurs afin de fluidifier les échanges et sécuriser les délais.\nParticiper aux revues qualité et contribuer à l'amélioration continue des processus de validation.\nGarantir la conformité documentaire des pièces et équipements destinés aux programmes aéronautiques.",
+   "mission": "",
+   "profile": "👤Qui êtes-vous ?\nFormation Bac+3 minimum en qualité, aéronautique, mécanique, génie industriel ou similaire.\nUne première expérience minimum dans la qualité produit, la qualité fournisseurs, l'inspection qualité, les FAI ou un environnement similaire est appréciée.\nConnaissance des plans techniques, spécifications et exigences documentaires industrielles.\nUne connaissance de la norme EN9102 ou de l'environnement aéronautique constitue un véritable atout.\nEsprit d'analyse, rigueur et goût du détail.\nExcellentes capacités de communication pour évoluer au sein d'un environnement international.\nAnglais professionnel requis ; l'espagnol est un plus.\n✈️ Pourquoi rejoindre l'aventure?\nUne immersion au sein d'un environnement international et multiculturel à Madrid.\nUne montée en compétences rapide sur les standards qualité les plus exigeants de l'industrie.\nUn rôle transverse avec une forte visibilité et un impact direct sur la performance de la chaîne d'approvisionnement.",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-20T07:14:32Z",
+   "sector": "",
+   "specialization": "[\"60\",\"77\",\"149\",\"150\",\"264\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-20T07:14:32Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-20T00:00:00",
+    "endBroadcastDate": "2026-11-19T00:00:00"
+   },
+   "summary": "💼 Vos missions\n \nRejoignez une équipe au cœur des programmes Airbus et devenez un acteur clé de la conformité des pièces aéronautiques avant leur mise en production.\nEn tant qu'Ingénieur Qualité FAI, vous êtes l'interlocuteur privilégié entre Airbus et son panel de fournisseurs, avec pour objectif de garantir la qualité et la conformité des dossiers de First Article Inspection (FAI).\nAnalyser et valider les dossiers FAI transmis par les fournisseurs selon les exigences Airbus et les standards aéronautiques applicables.\nVérifier la cohérence entre les plans, spécifications techniques, normes qualité et rapports d'inspection.\nIdentifier les écarts et accompagner les fournisseurs dans leur résolution jusqu'à la validation finale.\nAssurer l'interface entre les équipes Airbus et les fournisseurs afin de fluidifier les échanges et sécuriser les délais.\nParticiper aux revues qualité et contribuer à l'amélioration continue des processus de validation.\nGarantir la conformité documentaire des pièces et équipements destinés aux programmes aéronautiques.",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247267",
+   "score": 31,
+   "label": "Périphérique",
+   "first_seen": "2026-10-20T11:34:12+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 10,
+    "qual": 8,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "amelioration continue"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "conformite",
+      "inspection",
+      "normes",
+      "qualite"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "ingenieur",
+      "qualite"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "aeronautique",
+      "industriel",
+      "mecanique"
      ],
      "points": 5
     },
@@ -20509,7 +20788,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-21T12:18:30Z",
    "sector": "",
-   "specialization": "[\"60\"]",
+   "specialization": "60",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20846,7 +21125,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T09:01:30Z",
    "sector": "",
-   "specialization": "[\"251\"]",
+   "specialization": "251",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21524,7 +21803,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-12T08:39:45Z",
    "sector": "",
-   "specialization": "[\"327\"]",
+   "specialization": "327",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21723,7 +22002,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-05T06:51:18Z",
    "sector": "",
-   "specialization": "[\"109\",\"149\",\"150\",\"244\",\"264\"]",
+   "specialization": "109, 149, 150, 244, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22440,7 +22719,7 @@
    "expiry_date": "",
    "publish_date": "2026-05-12T14:27:31Z",
    "sector": "",
-   "specialization": "[\"325\"]",
+   "specialization": "325",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22875,7 +23154,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-12T13:41:19Z",
    "sector": "",
-   "specialization": "[\"351\"]",
+   "specialization": "351",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -24110,15 +24389,15 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T12:21:39Z",
    "sector": "",
-   "specialization": "330",
+   "specialization": "[\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-09-30T12:21:39Z",
     "missionStartDate": "2026-12-01T00:00:00",
     "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-10-14T00:00:00",
-    "endBroadcastDate": "2026-11-13T00:00:00"
+    "startBroadcastDate": "2026-10-20T00:00:00",
+    "endBroadcastDate": "2026-11-19T00:00:00"
    },
    "summary": "Are you ready to accelerate your career in one of Europe’s most thriving tech hubs? At Extia, our motto is \"First who, then what!\" We believe in nurturing talent and fostering an environment where innovation thrives. We are currently looking for a meticulous and quality-driven QA Engineer / Test Analyst to join our team in Lisbon through a V.I.E contract.\n\nOften referred to as the \"California of Europe\" and proud host of the Web Summit, Lisbon is a booming technological capital. It offers a unique blend of vibrant professional dynamism, cutting-edge startup ecosystems, and an unparalleled quality of life. By joining us here, you won't just be taking a job; you will be immersing yourself in a highly stimulating, fast-paced international tech community that will fast-track your career, all while enjoying the sun, the ocean, and a rich cultural city.\n\nWorking in a hybrid model and operating on highly strategic software projects, you will act as the ultimate gatekeeper for software quality. […]",
    "url": "https://mon-vie-via.businessfrance.fr/offres/246558",
@@ -24188,6 +24467,209 @@
      "label": "Aucun terme industriel : score plafonné",
      "terms": [],
      "points": -11,
+     "cap": 30
+    }
+   ]
+  },
+  {
+   "id": "246549",
+   "title": "DevOps Engineer - Bucharest (H/F)",
+   "company": "EXTIA",
+   "country": "ROUMANIE",
+   "city": "BUCAREST",
+   "description": "Are you ready to accelerate your career in one of Europe’s most thriving tech hubs? At Extia, our motto is \"First who, then what!\" We believe in nurturing talent and fostering an environment where innovation thrives. We are currently looking for a passionate and automation-driven DevOps Engineer to join our team in Bucharest through a V.I.E.\n\nOften referred to as the \"Silicon Valley of Eastern Europe,\" Bucharest is a booming technological epicenter. It offers a unique blend of vibrant professional dynamism, cutting-edge tech communities, and a high quality of life. By joining us here, you won't just be taking a job; you will be immersing yourself in a highly stimulating, fast-paced international ecosystem that will fast-track your career, all while enjoying a rich cultural city.\n\nWorking in a hybrid model and handling highly strategic environments, you will be the bridge between development and operations, ensuring seamless, scalable, and secure deployments. Your responsibilities will include:\n\n- CI/CD Implementation: Design, build, and maintain robust and automated Continuous Integration and Continuous Deployment pipelines (using GitLab CI, GitHub Actions, or Azure DevOps).\n- Infrastructure as Code (IaC): Provision, manage, and scale cloud infrastructure using modern tools like Terraform and Ansible across the \"Big 3\" Cloud providers (AWS, Azure, or GCP).\n- Containerization & Orchestration: Deploy and manage scalable containerized applications utilizing Docker and Kubernetes (K8s).\n- Monitoring & Reliability: Implement advanced monitoring, logging, and alerting systems (Prometheus, Grafana, Datadog) to ensure high availability and performance of critical applications.\n- Automation & Security: Automate repetitive operational tasks (Python, Bash) and integrate security best practices into the deployment pipeline (DevSecOps approach).\n- Collaboration: Act as a technical evangelist, working closely with software engineering teams to foster a strong DevOps culture and streamline release processes.",
+   "mission": "",
+   "profile": "We are looking for a proactive problem-solver who lives and breathes automation and infrastructure reliability.\n\n- You have a minimum of 3 years of solid experience as a DevOps Engineer, Site Reliability Engineer (SRE), or Cloud Engineer.\n- Languages: You have a professional working proficiency in both French and English, enabling you to collaborate effectively and communicate technical concepts clearly in an international environment.\n- Core Technical Skills: You have hands-on, deep expertise in Containerization (Docker, Kubernetes) and IaC (Terraform).\n- Cloud & Stack: You are highly proficient with at least one major cloud platform (Azure, AWS, or GCP) and have a strong understanding of CI/CD methodologies and modern monitoring tools.\n- Mindset: You are autonomous, resilient, and possess a \"build it to scale\" mentality. You are eager to relocate to Romania and embrace the exciting professional landscape Bucharest has to offer.\n\nAre you ready to build robust infrastructures while living a life-changing international experience?\nSend us your resume and let’s talk about your next big career move with Extia!",
+   "duration": 12,
+   "start_date": "2026-12-01T00:00:00",
+   "end_date": "2027-12-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-09-30T09:54:46Z",
+   "sector": "",
+   "specialization": "[\"330\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-09-30T09:54:46Z",
+    "missionStartDate": "2026-12-01T00:00:00",
+    "missionEndDate": "2027-12-01T00:00:00",
+    "startBroadcastDate": "2026-10-20T00:00:00",
+    "endBroadcastDate": "2026-11-19T00:00:00"
+   },
+   "summary": "Are you ready to accelerate your career in one of Europe’s most thriving tech hubs? At Extia, our motto is \"First who, then what!\" We believe in nurturing talent and fostering an environment where innovation thrives. We are currently looking for a passionate and automation-driven DevOps Engineer to join our team in Bucharest through a V.I.E.\n\nOften referred to as the \"Silicon Valley of Eastern Europe,\" Bucharest is a booming technological epicenter. It offers a unique blend of vibrant professional dynamism, cutting-edge tech communities, and a high quality of life. By joining us here, you won't just be taking a job; you will be immersing yourself in a highly stimulating, fast-paced international ecosystem that will fast-track your career, all while enjoying a rich cultural city.\n\nWorking in a hybrid model and handling highly strategic environments, you will be the bridge between development and operations, ensuring seamless, scalable, and secure deployments. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/246549",
+   "score": 30,
+   "label": "Périphérique",
+   "first_seen": "2026-10-07T09:55:56+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 34,
+    "qual": 8,
+    "calc": 9
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "calc4",
+     "axis": "calc",
+     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
+     "weight": 4,
+     "terms": [
+      "automation",
+      "python"
+     ]
+    },
+    {
+     "id": "prod6",
+     "axis": "prod",
+     "source": "Outils et moyens de fabrication (259-1, 30 h)",
+     "weight": 7,
+     "terms": [
+      "cutting"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "engineering"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "quality"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "engineer"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    },
+    {
+     "label": "Aucun terme industriel : score plafonné",
+     "terms": [],
+     "points": -11,
+     "cap": 30
+    }
+   ]
+  },
+  {
+   "id": "246544",
+   "title": "Data Engineer - Bucharest (H/F)",
+   "company": "EXTIA",
+   "country": "ROUMANIE",
+   "city": "BUCAREST",
+   "description": "Are you ready to accelerate your career in one of Europe’s most thriving tech hubs? At Extia, our motto is \"First who, then what!\" We believe in nurturing talent and fostering an environment where innovation thrives. We are currently looking for a passionate Data Engineer to join our team in Bucharest through a V.I.E contract.\n\nOften referred to as the \"Silicon Valley of Eastern Europe,\" Bucharest is a booming technological epicenter. It offers a unique blend of vibrant professional dynamism, cutting-edge tech communities, and a high quality of life. By joining us here, you won't just be taking a job; you will be immersing yourself in a highly stimulating, fast-paced international ecosystem that will fast-track your career, all while enjoying a rich cultural city.\n\nAs a key player in our data initiatives, you will be at the heart of complex and highly confidential data challenges. Working in a hybrid model, your responsibilities will include:\n\n- Pipeline Architecture: Design, build, and maintain highly scalable, robust, and optimized data pipelines.\n- Cloud Engineering: Leverage the power of the \"Big 3\" Cloud providers (AWS, GCP, or Azure) to deploy scalable data solutions.\n- Data Processing & Orchestration: Transform and orchestrate complex datasets using modern industry-standard tools (such as Apache Spark, Databricks, Apache Airflow, and dbt).\n- Data Modeling & Storage: Build and optimize modern Data Warehouses/Lakehouses (Snowflake, BigQuery).\n- Best Practices & CI/CD: Ensure code quality and reliability by implementing CI/CD pipelines, utilizing Docker, Terraform, and Git.\n- Continuous Improvement: Act as a technical advisor, proactively proposing innovative solutions to tackle complex data engineering challenges and drive business value.",
+   "mission": "",
+   "profile": "We are looking for a tech enthusiast who is ready to take ownership and make a real impact.\n\n- Experience: You have a minimum of 3 years of solid experience as a Data Engineer.\n- Languages: You have a professional working proficiency in both French and English, enabling you to collaborate effectively and communicate technical concepts clearly in an international environment.\n- Core Technical Skills: You possess advanced mastery of Python and SQL.\n- Cloud & Stack: You have hands-on experience with at least one major cloud platform (Azure, AWS, or GCP) and are comfortable working with a modern data stack (Airflow, dbt, Spark, Snowflake...).\n- Mindset: You are autonomous, a natural problem-solver, and thrive in dynamic environments. You are eager to relocate to Romania and embrace the exciting professional landscape Bucharest has to offer.\n\nAre you ready to shape the future of data while living a life-changing international experience?\nSend us your resume and let’s talk about your next big career move with Extia!",
+   "duration": 12,
+   "start_date": "2026-12-01T00:00:00",
+   "end_date": "2027-12-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-09-30T09:30:50Z",
+   "sector": "",
+   "specialization": "[\"330\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-09-30T09:30:50Z",
+    "missionStartDate": "2026-12-01T00:00:00",
+    "missionEndDate": "2027-12-01T00:00:00",
+    "startBroadcastDate": "2026-10-20T00:00:00",
+    "endBroadcastDate": "2026-11-19T00:00:00"
+   },
+   "summary": "Are you ready to accelerate your career in one of Europe’s most thriving tech hubs? At Extia, our motto is \"First who, then what!\" We believe in nurturing talent and fostering an environment where innovation thrives. We are currently looking for a passionate Data Engineer to join our team in Bucharest through a V.I.E contract.\n\nOften referred to as the \"Silicon Valley of Eastern Europe,\" Bucharest is a booming technological epicenter. It offers a unique blend of vibrant professional dynamism, cutting-edge tech communities, and a high quality of life. By joining us here, you won't just be taking a job; you will be immersing yourself in a highly stimulating, fast-paced international ecosystem that will fast-track your career, all while enjoying a rich cultural city.\n\nAs a key player in our data initiatives, you will be at the heart of complex and highly confidential data challenges. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/246544",
+   "score": 30,
+   "label": "Périphérique",
+   "first_seen": "2026-10-07T09:55:56+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 34,
+    "qual": 8,
+    "calc": 36
+   },
+   "dominant_axis": "calc",
+   "matched_families": [
+    {
+     "id": "calc1",
+     "axis": "calc",
+     "source": "Éléments finis (256-1, 24 h), TP simulation numérique (272-1, 285-5, 285-4, 63 h), Calculs numériques de mise en forme (277-1, 286-1, 50 h)",
+     "weight": 12,
+     "terms": [
+      "modeling"
+     ]
+    },
+    {
+     "id": "calc4",
+     "axis": "calc",
+     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
+     "weight": 4,
+     "terms": [
+      "python"
+     ]
+    },
+    {
+     "id": "prod6",
+     "axis": "prod",
+     "source": "Outils et moyens de fabrication (259-1, 30 h)",
+     "weight": 7,
+     "terms": [
+      "cutting"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "continuous improvement",
+      "engineering"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "quality"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "engineer"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    },
+    {
+     "label": "Aucun terme industriel : score plafonné",
+     "terms": [],
+     "points": -19,
      "cap": 30
     }
    ]
@@ -24382,209 +24864,6 @@
      "label": "Aucun terme industriel : score plafonné",
      "terms": [],
      "points": -11,
-     "cap": 30
-    }
-   ]
-  },
-  {
-   "id": "246549",
-   "title": "DevOps Engineer - Bucharest (H/F)",
-   "company": "EXTIA",
-   "country": "ROUMANIE",
-   "city": "BUCAREST",
-   "description": "Are you ready to accelerate your career in one of Europe’s most thriving tech hubs? At Extia, our motto is \"First who, then what!\" We believe in nurturing talent and fostering an environment where innovation thrives. We are currently looking for a passionate and automation-driven DevOps Engineer to join our team in Bucharest through a V.I.E.\n\nOften referred to as the \"Silicon Valley of Eastern Europe,\" Bucharest is a booming technological epicenter. It offers a unique blend of vibrant professional dynamism, cutting-edge tech communities, and a high quality of life. By joining us here, you won't just be taking a job; you will be immersing yourself in a highly stimulating, fast-paced international ecosystem that will fast-track your career, all while enjoying a rich cultural city.\n\nWorking in a hybrid model and handling highly strategic environments, you will be the bridge between development and operations, ensuring seamless, scalable, and secure deployments. Your responsibilities will include:\n\n- CI/CD Implementation: Design, build, and maintain robust and automated Continuous Integration and Continuous Deployment pipelines (using GitLab CI, GitHub Actions, or Azure DevOps).\n- Infrastructure as Code (IaC): Provision, manage, and scale cloud infrastructure using modern tools like Terraform and Ansible across the \"Big 3\" Cloud providers (AWS, Azure, or GCP).\n- Containerization & Orchestration: Deploy and manage scalable containerized applications utilizing Docker and Kubernetes (K8s).\n- Monitoring & Reliability: Implement advanced monitoring, logging, and alerting systems (Prometheus, Grafana, Datadog) to ensure high availability and performance of critical applications.\n- Automation & Security: Automate repetitive operational tasks (Python, Bash) and integrate security best practices into the deployment pipeline (DevSecOps approach).\n- Collaboration: Act as a technical evangelist, working closely with software engineering teams to foster a strong DevOps culture and streamline release processes.",
-   "mission": "",
-   "profile": "We are looking for a proactive problem-solver who lives and breathes automation and infrastructure reliability.\n\n- You have a minimum of 3 years of solid experience as a DevOps Engineer, Site Reliability Engineer (SRE), or Cloud Engineer.\n- Languages: You have a professional working proficiency in both French and English, enabling you to collaborate effectively and communicate technical concepts clearly in an international environment.\n- Core Technical Skills: You have hands-on, deep expertise in Containerization (Docker, Kubernetes) and IaC (Terraform).\n- Cloud & Stack: You are highly proficient with at least one major cloud platform (Azure, AWS, or GCP) and have a strong understanding of CI/CD methodologies and modern monitoring tools.\n- Mindset: You are autonomous, resilient, and possess a \"build it to scale\" mentality. You are eager to relocate to Romania and embrace the exciting professional landscape Bucharest has to offer.\n\nAre you ready to build robust infrastructures while living a life-changing international experience?\nSend us your resume and let’s talk about your next big career move with Extia!",
-   "duration": 12,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2027-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-30T09:54:46Z",
-   "sector": "",
-   "specialization": "330",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-30T09:54:46Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-10-14T00:00:00",
-    "endBroadcastDate": "2026-11-13T00:00:00"
-   },
-   "summary": "Are you ready to accelerate your career in one of Europe’s most thriving tech hubs? At Extia, our motto is \"First who, then what!\" We believe in nurturing talent and fostering an environment where innovation thrives. We are currently looking for a passionate and automation-driven DevOps Engineer to join our team in Bucharest through a V.I.E.\n\nOften referred to as the \"Silicon Valley of Eastern Europe,\" Bucharest is a booming technological epicenter. It offers a unique blend of vibrant professional dynamism, cutting-edge tech communities, and a high quality of life. By joining us here, you won't just be taking a job; you will be immersing yourself in a highly stimulating, fast-paced international ecosystem that will fast-track your career, all while enjoying a rich cultural city.\n\nWorking in a hybrid model and handling highly strategic environments, you will be the bridge between development and operations, ensuring seamless, scalable, and secure deployments. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246549",
-   "score": 30,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 34,
-    "qual": 8,
-    "calc": 9
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
-     "weight": 4,
-     "terms": [
-      "automation",
-      "python"
-     ]
-    },
-    {
-     "id": "prod6",
-     "axis": "prod",
-     "source": "Outils et moyens de fabrication (259-1, 30 h)",
-     "weight": 7,
-     "terms": [
-      "cutting"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "engineering"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "quality"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineer"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Aucun terme industriel : score plafonné",
-     "terms": [],
-     "points": -11,
-     "cap": 30
-    }
-   ]
-  },
-  {
-   "id": "246544",
-   "title": "Data Engineer - Bucharest (H/F)",
-   "company": "EXTIA",
-   "country": "ROUMANIE",
-   "city": "BUCAREST",
-   "description": "Are you ready to accelerate your career in one of Europe’s most thriving tech hubs? At Extia, our motto is \"First who, then what!\" We believe in nurturing talent and fostering an environment where innovation thrives. We are currently looking for a passionate Data Engineer to join our team in Bucharest through a V.I.E contract.\n\nOften referred to as the \"Silicon Valley of Eastern Europe,\" Bucharest is a booming technological epicenter. It offers a unique blend of vibrant professional dynamism, cutting-edge tech communities, and a high quality of life. By joining us here, you won't just be taking a job; you will be immersing yourself in a highly stimulating, fast-paced international ecosystem that will fast-track your career, all while enjoying a rich cultural city.\n\nAs a key player in our data initiatives, you will be at the heart of complex and highly confidential data challenges. Working in a hybrid model, your responsibilities will include:\n\n- Pipeline Architecture: Design, build, and maintain highly scalable, robust, and optimized data pipelines.\n- Cloud Engineering: Leverage the power of the \"Big 3\" Cloud providers (AWS, GCP, or Azure) to deploy scalable data solutions.\n- Data Processing & Orchestration: Transform and orchestrate complex datasets using modern industry-standard tools (such as Apache Spark, Databricks, Apache Airflow, and dbt).\n- Data Modeling & Storage: Build and optimize modern Data Warehouses/Lakehouses (Snowflake, BigQuery).\n- Best Practices & CI/CD: Ensure code quality and reliability by implementing CI/CD pipelines, utilizing Docker, Terraform, and Git.\n- Continuous Improvement: Act as a technical advisor, proactively proposing innovative solutions to tackle complex data engineering challenges and drive business value.",
-   "mission": "",
-   "profile": "We are looking for a tech enthusiast who is ready to take ownership and make a real impact.\n\n- Experience: You have a minimum of 3 years of solid experience as a Data Engineer.\n- Languages: You have a professional working proficiency in both French and English, enabling you to collaborate effectively and communicate technical concepts clearly in an international environment.\n- Core Technical Skills: You possess advanced mastery of Python and SQL.\n- Cloud & Stack: You have hands-on experience with at least one major cloud platform (Azure, AWS, or GCP) and are comfortable working with a modern data stack (Airflow, dbt, Spark, Snowflake...).\n- Mindset: You are autonomous, a natural problem-solver, and thrive in dynamic environments. You are eager to relocate to Romania and embrace the exciting professional landscape Bucharest has to offer.\n\nAre you ready to shape the future of data while living a life-changing international experience?\nSend us your resume and let’s talk about your next big career move with Extia!",
-   "duration": 12,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2027-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-30T09:30:50Z",
-   "sector": "",
-   "specialization": "[\"330\"]",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-30T09:30:50Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-10-14T00:00:00",
-    "endBroadcastDate": "2026-11-13T00:00:00"
-   },
-   "summary": "Are you ready to accelerate your career in one of Europe’s most thriving tech hubs? At Extia, our motto is \"First who, then what!\" We believe in nurturing talent and fostering an environment where innovation thrives. We are currently looking for a passionate Data Engineer to join our team in Bucharest through a V.I.E contract.\n\nOften referred to as the \"Silicon Valley of Eastern Europe,\" Bucharest is a booming technological epicenter. It offers a unique blend of vibrant professional dynamism, cutting-edge tech communities, and a high quality of life. By joining us here, you won't just be taking a job; you will be immersing yourself in a highly stimulating, fast-paced international ecosystem that will fast-track your career, all while enjoying a rich cultural city.\n\nAs a key player in our data initiatives, you will be at the heart of complex and highly confidential data challenges. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246544",
-   "score": 30,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 34,
-    "qual": 8,
-    "calc": 36
-   },
-   "dominant_axis": "calc",
-   "matched_families": [
-    {
-     "id": "calc1",
-     "axis": "calc",
-     "source": "Éléments finis (256-1, 24 h), TP simulation numérique (272-1, 285-5, 285-4, 63 h), Calculs numériques de mise en forme (277-1, 286-1, 50 h)",
-     "weight": 12,
-     "terms": [
-      "modeling"
-     ]
-    },
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
-     "weight": 4,
-     "terms": [
-      "python"
-     ]
-    },
-    {
-     "id": "prod6",
-     "axis": "prod",
-     "source": "Outils et moyens de fabrication (259-1, 30 h)",
-     "weight": 7,
-     "terms": [
-      "cutting"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "continuous improvement",
-      "engineering"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "quality"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineer"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Aucun terme industriel : score plafonné",
-     "terms": [],
-     "points": -19,
      "cap": 30
     }
    ]
@@ -24849,7 +25128,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-21T14:44:45Z",
    "sector": "",
-   "specialization": "[\"2\",\"29\",\"35\",\"60\",\"62\",\"63\",\"64\",\"65\",\"66\",\"68\",\"69\",\"70\",\"71\",\"72\",\"73\",\"77\",\"86\",\"109\",\"114\",\"125\",\"133\",\"134\",\"135\",\"138\",\"139\",\"142\",\"143\",\"144\",\"145\",\"149\",\"150\",\"153\",\"155\",\"159\",\"160\",\"197\",\"206\",\"207\",\"208\",\"209\",\"224\",\"244\",\"347\",\"348\"]",
+   "specialization": "2, 29, 35, 60, 62, 63, 64, 65, 66, 68, 69, 70, 71, 72, 73, 77, 86, 109, 114, 125, 133, 134, 135, 138, 139, 142, 143, 144, 145, 149, 150, 153, 155, 159, 160, 197, 206, 207, 208, 209, 224, 244, 347, 348",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -24937,7 +25216,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-21T14:43:55Z",
    "sector": "",
-   "specialization": "[\"71\"]",
+   "specialization": "71",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25034,7 +25313,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-21T14:42:01Z",
    "sector": "",
-   "specialization": "[\"2\",\"29\",\"60\",\"62\",\"63\",\"64\",\"65\",\"66\",\"68\",\"69\",\"70\",\"71\",\"72\",\"73\",\"76\",\"109\",\"114\",\"134\",\"138\",\"149\",\"150\",\"155\",\"158\",\"159\",\"160\",\"168\",\"169\",\"197\",\"205\",\"206\",\"207\",\"208\",\"209\",\"224\",\"225\",\"244\",\"248\",\"251\",\"262\",\"264\",\"330\",\"331\",\"358\",\"361\"]",
+   "specialization": "2, 29, 60, 62, 63, 64, 65, 66, 68, 69, 70, 71, 72, 73, 76, 109, 114, 134, 138, 149, 150, 155, 158, 159, 160, 168, 169, 197, 205, 206, 207, 208, 209, 224, 225, 244, 248, 251, 262, 264, 330, 331, 358, 361",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25220,7 +25499,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-21T06:53:37Z",
    "sector": "",
-   "specialization": "[\"86\",\"123\",\"125\",\"256\"]",
+   "specialization": "86, 123, 125, 256",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25611,7 +25890,7 @@
    "expiry_date": "",
    "publish_date": "2026-03-17T15:45:44Z",
    "sector": "",
-   "specialization": "[\"144\"]",
+   "specialization": "144",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25798,7 +26077,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T13:35:27Z",
    "sector": "",
-   "specialization": "65, 66, 68, 71, 153",
+   "specialization": "[\"65\",\"66\",\"68\",\"71\",\"153\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26110,7 +26389,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-12T07:40:30Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26374,7 +26653,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-15T12:00:46Z",
    "sector": "",
-   "specialization": "[\"168\"]",
+   "specialization": "168",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26472,7 +26751,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-09T09:43:27Z",
    "sector": "",
-   "specialization": "[\"206\"]",
+   "specialization": "206",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26543,6 +26822,102 @@
      "label": "Aucun terme industriel : score plafonné",
      "terms": [],
      "points": -1,
+     "cap": 30
+    }
+   ]
+  },
+  {
+   "id": "246895",
+   "title": "Human Factors Engineer (H/F)",
+   "company": "NEMERA LA VERPILLIERE",
+   "country": "ETATS-UNIS",
+   "city": "CHICAGO         -IL-",
+   "description": "About the Role\nAs a Human Factors Engineer (VIE), you will join our Human Factors team in Chicago and contribute to the development of innovative drug delivery devices used by patients around the world.\nThis role is an excellent opportunity for a recent graduate with a passion for understanding how people interact with products and systems. Working alongside experienced Human Factors professionals, you will help ensure that our devices are intuitive, safe, and easy to use by integrating user needs throughout the product development process.\nYou will gain hands-on experience in usability engineering, user research, risk analysis, and product development while collaborating with multidisciplinary teams including Design Engineering, R&D, Quality, Regulatory Affairs, and Marketing.\n\nKey Responsibilities\n- Support the planning, preparation, and execution of usability studies with healthcare professionals and patients\n- Analyze qualitative and quantitative study data to identify user needs, use-related risks, and opportunities for product improvement\n- Contribute to human factors engineering documentation and research reports\n- Support the development and evaluation of product concepts, user interfaces, instructions for use, and design solutions\n- Participate in risk assessments related to product usability and user interactions\n- Collaborate with cross-functional teams to ensure user-centered design principles are integrated throughout product development\n- Present findings and recommendations to project teams and stakeholders\n- Support Human Factors activities across multiple development projects\n- Participate in user research activities that may require occasional domestic travel (approximately 20%)\n\nWhat We Are Looking For\nWe are seeking curious, analytical, and user-focused candidates who enjoy solving complex problems and understanding human behavior.\nEducation\n- Bachelor's or Master's degree (or final-year student eligible for a VIE assignment) in one of the following fields:\nHuman Factors Engineering\nErgonomics\nCognitive Psychology\nBehavioral Psychology\nIndustrial Engineering\nUser Experience (UX)\nCognitive Science\nBiomedical Engineering\nProduct Design\nOr another related discipline focused on human-system interactions\n\nDesired Skills & Experience\n- Interest in understanding user behavior and improving product usability\n- Knowledge of human-centered design, usability engineering, ergonomics, or user research methodologies\n- Strong analytical and problem-solving skills\n- Ability to gather, synthesize, and communicate insights from data and observations\n- Excellent written and verbal communication skills\n- Ability to work effectively in cross-functional and multicultural environments\n- Strong initiative, curiosity, and willingness to learn\n- Interest in healthcare, medical devices, or drug delivery systems\n- Previous academic, internship, research, or project experience related to user research, usability, ergonomics, psychology, product development, or design is a plus\n\nWhy Join Us?\n- Gain international experience in the United States through a VIE assignment\n- Work on innovative medical and drug delivery devices that improve patients' lives\n- Learn from experienced Human Factors and product development professionals\n- Develop expertise in usability engineering and medical device development\n- Collaborate with global multidisciplinary teams\n- Build a strong foundation for a career in Human Factors, UX Research, Product Development, or Medical Devices",
+   "mission": "",
+   "profile": "We are seeking curious, analytical, and user-focused candidates who enjoy solving complex problems and understanding human behavior.\nEducation\nBachelor's or Master's degree (or final-year student eligible for a VIE assignment) in one of the following fields:\nHuman Factors Engineering\nErgonomics\nCognitive Psychology\nBehavioral Psychology\nIndustrial Engineering\nUser Experience (UX)\nCognitive Science\nBiomedical Engineering\nProduct Design\nOr another related discipline focused on human-system interactions\n\nDesired Skills & Experience\n- Interest in understanding user behavior and improving product usability\n- Knowledge of human-centered design, usability engineering, ergonomics, or user research methodologies\n- Strong analytical and problem-solving skills\n- Ability to gather, synthesize, and communicate insights from data and observations\n- Excellent written and verbal communication skills\n- Ability to work effectively in cross-functional and multicultural environments\n- Strong initiative, curiosity, and willingness to learn\n- Interest in healthcare, medical devices, or drug delivery systems\n- Previous academic, internship, research, or project experience related to user research, usability, ergonomics, psychology, product development, or design is a plus",
+   "duration": 18,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-07-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-09T12:48:13Z",
+   "sector": "",
+   "specialization": "[\"359\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-09T12:48:13Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-07-01T00:00:00",
+    "startBroadcastDate": "2026-10-20T00:00:00",
+    "endBroadcastDate": "2026-11-19T00:00:00"
+   },
+   "summary": "About the Role\nAs a Human Factors Engineer (VIE), you will join our Human Factors team in Chicago and contribute to the development of innovative drug delivery devices used by patients around the world.\nThis role is an excellent opportunity for a recent graduate with a passion for understanding how people interact with products and systems. Working alongside experienced Human Factors professionals, you will help ensure that our devices are intuitive, safe, and easy to use by integrating user needs throughout the product development process.\nYou will gain hands-on experience in usability engineering, user research, risk analysis, and product development while collaborating with multidisciplinary teams including Design Engineering, R&D, Quality, Regulatory Affairs, and Marketing. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/246895",
+   "score": 30,
+   "label": "Périphérique",
+   "first_seen": "2026-10-20T11:34:12+00:00",
+   "axis_scores": {
+    "rd": 9,
+    "prod": 10,
+    "qual": 8,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "engineering",
+      "product development"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "quality"
+     ]
+    },
+    {
+     "id": "rd9",
+     "axis": "rd",
+     "source": "Vocabulaire de laboratoire courant",
+     "weight": 3,
+     "terms": [
+      "problem solving",
+      "r&d"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "engineer"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "industrial"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    },
+    {
+     "label": "Aucun terme industriel : score plafonné",
+     "terms": [],
+     "points": -2,
      "cap": 30
     }
    ]
@@ -26668,7 +27043,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-21T04:54:54Z",
    "sector": "",
-   "specialization": "[\"149\",\"327\",\"328\",\"329\"]",
+   "specialization": "149, 327, 328, 329",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27065,7 +27440,7 @@
    "expiry_date": "",
    "publish_date": "2026-03-05T13:22:50Z",
    "sector": "",
-   "specialization": "[\"251\"]",
+   "specialization": "251",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27179,7 +27554,7 @@
    "expiry_date": "",
    "publish_date": "2025-10-28T09:46:40Z",
    "sector": "",
-   "specialization": "248",
+   "specialization": "[\"248\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27753,7 +28128,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-03T16:37:44Z",
    "sector": "",
-   "specialization": "[\"155\"]",
+   "specialization": "155",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27929,7 +28304,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-14T14:24:32Z",
    "sector": "",
-   "specialization": "[\"328\"]",
+   "specialization": "328",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29044,7 +29419,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-16T08:28:57Z",
    "sector": "",
-   "specialization": "[\"5\"]",
+   "specialization": "5",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29640,7 +30015,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-23T07:37:46Z",
    "sector": "",
-   "specialization": "318",
+   "specialization": "[\"318\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29724,7 +30099,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-09T13:29:13Z",
    "sector": "",
-   "specialization": "[\"107\"]",
+   "specialization": "107",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30678,7 +31053,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-28T07:33:59Z",
    "sector": "",
-   "specialization": "[\"73\"]",
+   "specialization": "73",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30808,6 +31183,156 @@
    ]
   },
   {
+   "id": "245131",
+   "title": "EMEA Logistics studies Professional (H/F)",
+   "company": "CNH INDUSTRIAL FRANCE",
+   "country": "ITALIE",
+   "city": "MODENA",
+   "description": "The EMEA logistics studies Professional mission is to support Operations via performing Logistics analysis, starting from the initial requirement until study delivery, through recurring exchanges with the requester.\nThe EMEA logistics studies Professional works in the Logistics Engineering Dept under the responsibility of the EMEA logistics engineering manager.\nInternally, he will collaborate with Logistics engineering colleagues, BS&A and by extension Depot managers, their 1st lines, and all the others operations support functions (among Quality, Packaging) if required. \nPerformance will be tracked on study delivery (On time & Accurate).\n• From an initial requirement, understand the desired output.\n• Determine the data that should be used to fuel the analysis\n• With Log. Eng team member support, Progress on required analysis by data or interaction with any required Operations team member.\n• Deliver the analysis with the required explanation and potential root causes or benefits to explore.\nTrue support of EMEA Logistics engineering, the logistics studies Professional is a cornerstone of global understanding of Logistics activities.\nHe will contribute to project realization by being a reliable and assertive partner.",
+   "mission": "",
+   "profile": "Required :\n• Deep Analytical and synthetical competencies\n• Excel and Power BI proficient\n• Innovation oriented\n• Capability to link data to real physical activities.\n• Fluent English.\nPreferred :\n• Initial exposure to logistics activities.",
+   "duration": 6,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2027-07-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-08-05T08:30:05Z",
+   "sector": "",
+   "specialization": "[\"262\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-08-05T08:30:05Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2027-07-01T00:00:00",
+    "startBroadcastDate": "2026-10-20T00:00:00",
+    "endBroadcastDate": "2026-11-19T00:00:00"
+   },
+   "summary": "The EMEA logistics studies Professional mission is to support Operations via performing Logistics analysis, starting from the initial requirement until study delivery, through recurring exchanges with the requester.\nThe EMEA logistics studies Professional works in the Logistics Engineering Dept under the responsibility of the EMEA logistics engineering manager.\nInternally, he will collaborate with Logistics engineering colleagues, BS&A and by extension Depot managers, their 1st lines, and all the others operations support functions (among Quality, Packaging) if required. \nPerformance will be tracked on study delivery (On time & Accurate).\n• From an initial requirement, understand the desired output.\n• Determine the data that should be used to fuel the analysis\n• With Log. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/245131",
+   "score": 28,
+   "label": "Périphérique",
+   "first_seen": "2026-10-20T11:34:12+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 10,
+    "qual": 34,
+    "calc": 0
+   },
+   "dominant_axis": "qual",
+   "matched_families": [
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "engineering"
+     ]
+    },
+    {
+     "id": "qual3",
+     "axis": "qual",
+     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
+     "weight": 7,
+     "terms": [
+      "capability"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "quality"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "industrial"
+     ],
+     "points": 5
+    }
+   ]
+  },
+  {
+   "id": "247233",
+   "title": "CHARGE DE MISSION ENERGIE ALTERNATIVES HORS NUCLEAIRE (H/F)",
+   "company": "COMMISSARIAT A L' ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+   "country": "CHINE",
+   "city": "PEKIN",
+   "description": "La Direction des Relations Internationales du CEA (DRI) gère, en lien étroit avec le Ministère de l’Europe et des Affaires Etrangères (MEAE) français, le réseau des services nucléaires au sein de certaines ambassades à l'étranger. Ce réseau assure : la mise en œuvre sur le terrain de la politique extérieure française dans le domaine des énergies alternatives et du nucléaire et dans le domaine du numérique, en interface avec les acteurs clefs des pays (responsables politiques, administrations, industriels et organismes de recherche) ; et représente le CEA dans les pays concernés.\nLe Service nucléaire est en charge de développer et de suivre pour le compte de différents ministères français, la coopération franco-chinoise dans le domaine des énergies décarbonées et de défendre les intérêts de la France dans ce domaine, avec un point particulier pour le nucléaire. Le Service travaille en étroite interaction avec les industriels français présents en Chine, qu'il s'agisse des grands groupes comme EDF, ou des ETI et PME. Il aide également les différents organismes français, dont le CEA, à développer une coopération équilibrée avec les différents acteurs chinois de la R&D. Dans ce cadre, le Service nucléaire mène spécifiquement des activités de veille politique, industrielle et technologique et entretient un réseau de relations parmi les différents acteurs chinois du secteur des énergies décarbonées et du numérique afin de fournir des éléments de réflexion et de décision aux acteurs français.\nLe Service accueille trois Volontaires Internationaux, couvrant respectivement le nucléaire, les énergies alternatives et les nouvelles technologies du numérique.\nEn tant que représentant(e) adjoint(e) chargé(e) des énergies alternatives, vous travaillerez au sein du Service nucléaire de l’ambassade de France en Chine (SNAFC). Le portefeuille « énergies alternatives » couvre notamment le photovoltaïque, l’éolien, l’hydrogène, les batteries et leurs applications, ainsi que les réseaux électriques.\nSous la supervision de la Conseillère nucléaire, une grande autonomie est attendue dans la conduite des dossiers avec une capacité à rendre compte par des échanges et des remontées d’information fiables très réguliers avec la Conseillère nucléaire.\nLa mission consiste en priorité à contribuer à la défense des intérêts de la France dans le domaine des énergies décarbonées en Chine. Elle repose sur une veille politique, industrielle et technologique approfondie et sur la production d’analyses à destination des administrations françaises, du CEA, des organismes de recherche et des entreprises françaises du secteur, en coordination avec les autres services de l’ambassade (notamment avec le service économique régional et la Chancellerie).\nLe poste comprend également une dimension importante de relations extérieures et de coopération franco-chinoise. Il s’agit de développer et d’entretenir un réseau de contacts avec les administrations, entreprises, associations professionnelles et organismes de recherche chinois. Les associations d’industriels constituent notamment des interlocuteurs privilégiés permettant de suivre un nombre important d’acteurs et les évolutions du secteur.\nLe poste est à la croisée des sciences et des politiques de l’Etat chinois et des industriels. Il demande à la fois une réelle curiosité pour les technologies et la capacité à en comprendre rapidement les principes et les implications et une capacité à relier les évolutions technologiques aux stratégies des entreprises, aux chaînes de valeur, aux marchés, aux politiques publiques et aux intérêts français.\nPlus spécifiquement, les missions seront les suivantes :\n• Rédiger une veille bihebdomadaire sur les politiques, les entreprises, les technologies et les évolutions industrielles chinoises dans le domaine des énergies décarbonées, et répondre aux demandes ponctuelles des différents destinataires du Service.\n• Contribuer à la rédaction de notes d’analyse et d’éléments de réflexion stratégique, certaines en collaboration avec les autres services de l’ambassade, en mobilisant lorsque nécessaire l’expertise scientifique et technique du CEA. L’objectif est d’aller au-delà de la description des politiques publiques pour expliquer les dynamiques industrielles, technologiques et économiques à l’œuvre.\n• Comprendre et suivre l’écosystème chinois et contribuer à entretenir et approfondir un réseau d’interlocuteurs chinois, notamment par la participation à des salons professionnels, des visites de sites industriels ou de recherche et des échanges réguliers avec les partenaires privilégiés du Service.\n• Développer de manière proactive un réseau d’interlocuteurs français, au sein des administrations, du CEA, des organismes de recherche et des entreprises, afin de faire connaître les travaux du Service, d’identifier leurs besoins vis-à-vis de la Chine et de favoriser des échanges réguliers.\n• Préparer et accompagner les missions françaises en Chine, notamment celles du CEA : construire les programmes, identifier les interlocuteurs pertinents, organiser les rendez-vous avec l’appui du Service, préparer les éléments de fond et assurer le suivi des dossiers.\nUne bonne connaissance du chinois est fortement appréciée (HSK 4 minimum ou niveau équivalent) afin de disposer d’une autonomie suffisante dans les recherches, les déplacements et les échanges avec les interlocuteurs chinois. Le Service nucléaire prendra en charge des cours de perfectionnement en chinois.\nAvant la prise de fonction, le CEA organisera une période de visites et de rencontres avec ses équipes afin de permettre une prise en main rapide des technologies suivies et des principaux interlocuteurs français.",
+   "mission": "",
+   "profile": "Diplômes demandés : BAC +5 - Diplôme d’ingénieur d’une grande école, diplôme de niveau master en sciences politiques, relations internationales, économie, études chinoises, commerce ou formation équivalente.\n\nLangues : Maîtrise professionnelle de l’anglais, à l’écrit comme à l’oral. Chinois mandarin : HSK 4 ou niveau équivalent fortement apprécié.\n\nLogiciels de bureautique / Autres : Maîtrise des outils bureautiques classiques, des outils d’IA optimisant et massifiant les recherches et le traitement des données \n\nExpériences / Stages : Une expérience en Chine est particulièrement appréciée. Sont également pertinentes les expériences dans les domaines de l’énergie, de l’industrie, des technologies, de l’action publique, des relations internationales ou de l’analyse économique.\n\nCompétences internet : Très bonne capacité à mener des recherches en sources ouvertes, à croiser les informations et à identifier les sources pertinentes, notamment en chinois.\n\nObservations particulières sur le poste :\nCuriosité, proactivité, initiative et autonomie. Très bonnes capacités rédactionnelles et d’analyse. Capacité à travailler en équipe et à rendre compte régulièrement. Intérêt marqué pour les technologies sans nécessité d’une formation technique poussée, capacité à apprendre rapidement et à comprendre les enjeux industriels, économiques et entrepreneuriaux associés. Capacité à aller au-delà du constat et à identifier les implications d’une évolution pour les acteurs français.",
+   "duration": 12,
+   "start_date": "2027-05-01T00:00:00",
+   "end_date": "2028-05-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-19T12:58:57Z",
+   "sector": "",
+   "specialization": "[\"365\"]",
+   "contract": "VIA",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-19T12:58:57Z",
+    "missionStartDate": "2027-05-01T00:00:00",
+    "missionEndDate": "2028-05-01T00:00:00",
+    "startBroadcastDate": "2026-10-20T00:00:00",
+    "endBroadcastDate": "2026-11-19T00:00:00"
+   },
+   "summary": "La Direction des Relations Internationales du CEA (DRI) gère, en lien étroit avec le Ministère de l’Europe et des Affaires Etrangères (MEAE) français, le réseau des services nucléaires au sein de certaines ambassades à l'étranger. Ce réseau assure : la mise en œuvre sur le terrain de la politique extérieure française dans le domaine des énergies alternatives et du nucléaire et dans le domaine du numérique, en interface avec les acteurs clefs des pays (responsables politiques, administrations, industriels et organismes de recherche) ; et représente le CEA dans les pays concernés.\nLe Service nucléaire est en charge de développer et de suivre pour le compte de différents ministères français, la coopération franco-chinoise dans le domaine des énergies décarbonées et de défendre les intérêts de la France dans ce domaine, avec un point particulier pour le nucléaire. Le Service travaille en étroite interaction avec les industriels français présents en Chine, qu'il s'agisse des grands groupes comme EDF, ou des ETI et PME. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247233",
+   "score": 28,
+   "label": "Périphérique",
+   "first_seen": "2026-10-20T11:34:12+00:00",
+   "axis_scores": {
+    "rd": 31,
+    "prod": 0,
+    "qual": 0,
+    "calc": 0
+   },
+   "dominant_axis": "rd",
+   "matched_families": [
+    {
+     "id": "rd6",
+     "axis": "rd",
+     "source": "Comportement mécanique des matériaux non conventionnels (298-2, 30 h), Projet de recherche (261-1, 10 h)",
+     "weight": 8,
+     "terms": [
+      "hydrogene"
+     ]
+    },
+    {
+     "id": "rd9",
+     "axis": "rd",
+     "source": "Vocabulaire de laboratoire courant",
+     "weight": 3,
+     "terms": [
+      "r&d"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "defense",
+      "energie",
+      "nucleaire"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
    "id": "246545",
    "title": "Data Analyst - Bucharest (H/F)",
    "company": "EXTIA",
@@ -30822,15 +31347,15 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T09:43:41Z",
    "sector": "",
-   "specialization": "330",
+   "specialization": "[\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-09-30T09:43:41Z",
     "missionStartDate": "2026-12-01T00:00:00",
     "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-10-07T00:00:00",
-    "endBroadcastDate": "2026-11-06T00:00:00"
+    "startBroadcastDate": "2026-10-20T00:00:00",
+    "endBroadcastDate": "2026-11-19T00:00:00"
    },
    "summary": "Are you ready to accelerate your career in one of Europe’s most thriving tech hubs? At Extia, our motto is \"First who, then what!\" We believe in nurturing talent and fostering an environment where innovation thrives. We are currently looking for a passionate and business-oriented Data Analyst to join our team in Bucharest through a V.I.E (Volontariat International en Entreprise) contract.\n\nOften referred to as the \"Silicon Valley of Eastern Europe,\" Bucharest is a booming technological epicenter. It offers a unique blend of vibrant professional dynamism, cutting-edge tech communities, and a high quality of life. By joining us here, you won't just be taking a job; you will be immersing yourself in a highly stimulating, fast-paced international ecosystem that will fast-track your career, all while enjoying a rich cultural city.\n\nWorking in a hybrid model and dealing with highly strategic and confidential data, you will bridge the gap between technical data and business strategy. […]",
    "url": "https://mon-vie-via.businessfrance.fr/offres/246545",
@@ -30899,7 +31424,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T08:10:26Z",
    "sector": "",
-   "specialization": "[\"238\"]",
+   "specialization": "238",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31589,7 +32114,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-13T12:34:38Z",
    "sector": "",
-   "specialization": "[\"65\",\"66\",\"68\",\"153\",\"155\"]",
+   "specialization": "65, 66, 68, 153, 155",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31662,7 +32187,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-07T10:47:34Z",
    "sector": "",
-   "specialization": "[\"247\"]",
+   "specialization": "247",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31910,7 +32435,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-16T15:40:15Z",
    "sector": "",
-   "specialization": "[\"144\"]",
+   "specialization": "144",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32003,7 +32528,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-15T08:40:23Z",
    "sector": "",
-   "specialization": "[\"60\"]",
+   "specialization": "60",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32167,7 +32692,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-25T11:40:26Z",
    "sector": "",
-   "specialization": "[\"213\"]",
+   "specialization": "213",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32484,6 +33009,80 @@
    ]
   },
   {
+   "id": "247235",
+   "title": "Data Analyst (H/F)",
+   "company": "B4FINANCE",
+   "country": "BELGIQUE",
+   "city": "LOUVAIN/LEUVEN",
+   "description": "Vous rejoindrez notre équipe au sein des locaux situés à Louvain (Leuven) en Belgique. \n\nVos missions seront les suivantes :\n• Accompagner les clients (banques, compagnies d’assurance, sociétés de gestion, hedge funds et fonds de private equity) dans l’utilisation de nos solutions technologiques, en recherchant avec eux la manière la plus efficace d’atteindre leurs objectifs.\n• Assurer une veille sur les nouvelles exigences réglementaires européennes qui concernent nos clients (reporting des risques, stress tests climatiques…) et accompagner nos développeurs dans leur mise en œuvre.\n• Organiser des formations et rédiger la documentation de nos applications à destination des clients.\n• Analyser les données avec un esprit critique, dans une logique de data science : détecter les incohérences, proposer des actions correctives et assurer leur suivi en interne.\n• Tester les nouveaux développements logiciels et formuler des propositions d’amélioration.\n• Vous rendre régulièrement chez certains clients à l’étranger.\n\nEn tant qu’analyste, vous aurez rapidement des responsabilités et évoluerez vers un rôle d’expert métier (« Subject Matter Expert »). Vous occuperez une position centrale chez RiskConcile, en lien avec les développeurs, les autres data scientists et l’équipe commerciale, et deviendrez l’un des interlocuteurs privilégiés de nos clients.",
+   "mission": "",
+   "profile": "• Formation : école d’ingénieurs ou de commerce, master en économie appliquée, en mathématiques, en statistiques ou équivalent.\n• Un réel intérêt pour les marchés financiers et l’actualité économique. Une expérience personnelle de l’investissement en bourse est un plus.\n• Des notions de Python sont un atout important.\n• Une première expérience (stage ou emploi) en audit ou conseil financier (Big Four), en banque ou en assurance est appréciée.\n• Langues : un très bon niveau d’anglais est indispensable\n• Disponibilité pour des déplacements courts à l’étranger (Irlande, Luxembourg, Londres)",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-19T13:06:41Z",
+   "sector": "",
+   "specialization": "[\"17\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-19T13:06:41Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-20T00:00:00",
+    "endBroadcastDate": "2026-11-19T00:00:00"
+   },
+   "summary": "Vous rejoindrez notre équipe au sein des locaux situés à Louvain (Leuven) en Belgique. \n\nVos missions seront les suivantes :\n• Accompagner les clients (banques, compagnies d’assurance, sociétés de gestion, hedge funds et fonds de private equity) dans l’utilisation de nos solutions technologiques, en recherchant avec eux la manière la plus efficace d’atteindre leurs objectifs.\n• Assurer une veille sur les nouvelles exigences réglementaires européennes qui concernent nos clients (reporting des risques, stress tests climatiques…) et accompagner nos développeurs dans leur mise en œuvre.\n• Organiser des formations et rédiger la documentation de nos applications à destination des clients.\n• Analyser les données avec un esprit critique, dans une logique de data science : détecter les incohérences, proposer des actions correctives et assurer leur suivi en interne.\n• Tester les nouveaux développements logiciels et formuler des propositions d’amélioration.\n• Vous rendre régulièrement chez certains clients à l’étranger. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247235",
+   "score": 27,
+   "label": "Périphérique",
+   "first_seen": "2026-10-20T11:34:12+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 0,
+    "qual": 34,
+    "calc": 9
+   },
+   "dominant_axis": "qual",
+   "matched_families": [
+    {
+     "id": "calc4",
+     "axis": "calc",
+     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
+     "weight": 4,
+     "terms": [
+      "python"
+     ]
+    },
+    {
+     "id": "qual3",
+     "axis": "qual",
+     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
+     "weight": 7,
+     "terms": [
+      "statistiques"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "audit"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
    "id": "247123",
    "title": "Attache(é) \"commerce et investissements\" à Pékin (H/F)",
    "company": "DIRECTION GENERALE DU TRESOR",
@@ -32669,7 +33268,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T12:15:30Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32915,7 +33514,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-16T15:17:38Z",
    "sector": "",
-   "specialization": "[\"149\"]",
+   "specialization": "149",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32999,7 +33598,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T16:05:20Z",
    "sector": "",
-   "specialization": "[\"68\",\"77\",\"109\",\"130\",\"149\",\"169\"]",
+   "specialization": "68, 77, 109, 130, 149, 169",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33155,7 +33754,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-15T14:51:50Z",
    "sector": "",
-   "specialization": "[\"251\"]",
+   "specialization": "251",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33407,7 +34006,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-28T15:24:33Z",
    "sector": "",
-   "specialization": "[\"29\",\"130\",\"213\",\"251\",\"262\",\"327\",\"329\",\"330\"]",
+   "specialization": "29, 130, 213, 251, 262, 327, 329, 330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33488,7 +34087,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-08T20:38:17Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33719,7 +34318,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-24T07:52:59Z",
    "sector": "",
-   "specialization": "[\"86\",\"208\"]",
+   "specialization": "86, 208",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33794,7 +34393,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-15T08:23:50Z",
    "sector": "",
-   "specialization": "[\"251\"]",
+   "specialization": "251",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34121,7 +34720,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-28T07:56:10Z",
    "sector": "",
-   "specialization": "[\"208\"]",
+   "specialization": "208",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34292,7 +34891,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-09T13:44:09Z",
    "sector": "",
-   "specialization": "35, 144, 245, 246, 248, 249, 251",
+   "specialization": "[\"35\",\"144\",\"245\",\"246\",\"248\",\"249\",\"251\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34437,7 +35036,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-29T09:14:24Z",
    "sector": "",
-   "specialization": "[\"246\"]",
+   "specialization": "246",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34583,7 +35182,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-06T08:54:04Z",
    "sector": "",
-   "specialization": "[\"327\"]",
+   "specialization": "327",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34655,7 +35254,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T14:57:41Z",
    "sector": "",
-   "specialization": "[\"355\"]",
+   "specialization": "355",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34727,7 +35326,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T14:51:01Z",
    "sector": "",
-   "specialization": "[\"355\"]",
+   "specialization": "355",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35017,7 +35616,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T11:31:02Z",
    "sector": "",
-   "specialization": "[\"259\"]",
+   "specialization": "259",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35148,7 +35747,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-12T12:29:13Z",
    "sector": "",
-   "specialization": "[\"7\"]",
+   "specialization": "7",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
