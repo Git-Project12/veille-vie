@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-20T11:34:29+00:00",
+ "generated_at": "2026-10-20T18:28:03+00:00",
  "source": "Business France — mon-vie-via.businessfrance.fr",
- "total_scanned": 832,
- "total_announced": 832,
- "total_kept": 369,
+ "total_scanned": 839,
+ "total_announced": 839,
+ "total_kept": 372,
  "threshold": 25,
  "axes": {
   "rd": {
@@ -413,7 +413,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-24T13:05:00Z",
    "sector": "",
-   "specialization": "60",
+   "specialization": "[\"60\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -1211,7 +1211,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-29T14:04:00Z",
    "sector": "",
-   "specialization": "60, 64, 77, 133, 162, 197, 224, 225",
+   "specialization": "[\"60\",\"64\",\"77\",\"133\",\"162\",\"197\",\"224\",\"225\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -2259,7 +2259,7 @@
    "expiry_date": "",
    "publish_date": "2025-10-08T09:46:46Z",
    "sector": "",
-   "specialization": "77, 149",
+   "specialization": "[\"77\",\"149\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -3554,6 +3554,126 @@
    ]
   },
   {
+   "id": "247240",
+   "title": "Référent qualité projet (H/F)",
+   "company": "WIPRO LAUAK FRANCE",
+   "country": "PORTUGAL",
+   "city": "SETUBAL",
+   "description": "Présentation de la société :\r\nGroupe international en forte croissance, WIPRO LAUAK est un partenaire aéronautique majeur de grands donneurs d’ordres tels qu'Airbus, Bombardier, Dassault Aviation ou Safran.\r\nAvec 850 collaborateurs présents sur deux sites, Setubal et Grandola, WIPRO LAUAK Portugal est spécialisée dans la fabrication de pièces élémentaires et sous-ensembles aéronautiques (chaudronnerie, soudure, tuyauterie, usinage et assemblage).\r\n\r\nPour mieux nous connaître : https://youtu.be/2FWxenaxS_c\r\n\r\nPoste et missions :\r\nImplanté(e) sur le site de Setubal et placé(e) sous la responsabilité du Responsable Projet, vous accompagnez les équipes projets dans le déploiement des exigences qualité clients et garantissez la conformité des développements et transferts industriels.\r\n\r\nA ce titre, vos principales activités sont les suivantes :\r\n- Participer au déploiement des outils qualité projet (AMDEC, caractéristiques clés, résolution de problèmes, FAI) ;\r\n- Définir et suivre les caractéristiques clés produits et process en collaboration avec les équipes métiers ;\r\n- Valider les documents qualité et les livrables associés aux différentes phases projet ;\r\n- Garantir la conformité des livrables APQP aux exigences clients et réglementaires ;\r\n- Assurer le traitement des non-conformités en phase projet et coordonner les actions associées ;\r\n- Participer aux qualifications produits, procédés et procédés spéciaux ;\r\n- Être l'interlocuteur qualité des clients et des équipes internes ;\r\n- Contribuer aux audits et aux démarches d'amélioration continue.",
+   "mission": "",
+   "profile": "- Formation BAC+5 en en Qualité, Génie industriel, Mécanique ou équivalent,\n- Première expérience en qualité projet acquise dans un environnement technique, idéalement aéronautique.\n- Maîtrise des outils qualité (AMDEC, APQP, SPC, résolution de problèmes) \n- Rigoureux(se), autonome et doté(e) d'un bon relationnel\n- Capacité à travailler en équipe et à piloter des sujets transverses.\n- Maîtrise du Portugais (courant) et de l'anglais technique.",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-19T13:48:04Z",
+   "sector": "",
+   "specialization": "[\"60\",\"149\",\"208\",\"264\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-19T13:48:04Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-20T00:00:00",
+    "endBroadcastDate": "2026-11-19T00:00:00"
+   },
+   "summary": "Présentation de la société :\r\nGroupe international en forte croissance, WIPRO LAUAK est un partenaire aéronautique majeur de grands donneurs d’ordres tels qu'Airbus, Bombardier, Dassault Aviation ou Safran.\r\nAvec 850 collaborateurs présents sur deux sites, Setubal et Grandola, WIPRO LAUAK Portugal est spécialisée dans la fabrication de pièces élémentaires et sous-ensembles aéronautiques (chaudronnerie, soudure, tuyauterie, usinage et assemblage).\r\n\r\nPour mieux nous connaître : https://youtu.be/2FWxenaxS_c\r\n\r\nPoste et missions :\r\nImplanté(e) sur le site de Setubal et placé(e) sous la responsabilité du Responsable Projet, vous accompagnez les équipes projets dans le déploiement des exigences qualité clients et garantissez la conformité des développements et transferts industriels.\r\n\r\nA ce titre, vos principales activités sont les suivantes :\r\n- Participer au déploiement des outils qualité projet (AMDEC, caractéristiques clés, résolution de problèmes, FAI) ;\r\n- Définir et suivre les caractéristiques clés produits et process en collaboration avec les équipes métiers ; […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247240",
+   "score": 68,
+   "label": "Bonne adéquation",
+   "first_seen": "2026-10-20T18:27:50+00:00",
+   "axis_scores": {
+    "rd": 9,
+    "prod": 59,
+    "qual": 34,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod3",
+     "axis": "prod",
+     "source": "Assemblage des matériaux (297-2, 30 h)",
+     "weight": 7,
+     "terms": [
+      "assemblage"
+     ]
+    },
+    {
+     "id": "prod6",
+     "axis": "prod",
+     "source": "Outils et moyens de fabrication (259-1, 30 h)",
+     "weight": 7,
+     "terms": [
+      "usinage"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "amelioration continue",
+      "fabrication"
+     ]
+    },
+    {
+     "id": "qual3",
+     "axis": "qual",
+     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
+     "weight": 7,
+     "terms": [
+      "amdec",
+      "spc"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "conformite",
+      "qualite"
+     ]
+    },
+    {
+     "id": "rd9",
+     "axis": "rd",
+     "source": "Vocabulaire de laboratoire courant",
+     "weight": 3,
+     "terms": [
+      "resolution de problemes"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "qualite"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "aeronautique",
+      "aviation",
+      "industriel"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
    "id": "245437",
    "title": "Process Engineer (H/F)",
    "company": "ADISSEO FRANCE S.A.S.",
@@ -4617,7 +4737,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-31T08:19:32Z",
    "sector": "",
-   "specialization": "63, 114, 149, 150, 169, 262, 264",
+   "specialization": "[\"63\",\"114\",\"149\",\"150\",\"169\",\"262\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5585,7 +5705,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T16:09:45Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5665,6 +5785,107 @@
      "terms": [
       "automobile",
       "mecanique"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
+   "id": "247232",
+   "title": "CHEF(FE) DE PROJET JUNIOR PROCESS (H/F)",
+   "company": "CTP ENVIRONNEMENT",
+   "country": "ETATS-UNIS",
+   "city": "HOUSTON      -TX-",
+   "description": "CTP environnement, implanté en France et à l’étranger – environ 300 collaborateurs - est un acteur du secteur de l’environnement. Nous intervenons dans les domaines du nettoyage industriel et du traitement des effluents par la mise en place d’unités mobiles depuis 100 ans.\r\n\r\nDans le cadre de son développement, la société CTP environnement recherche un/une :\r\n\r\nChef(fe) de projet junior process\r\nETATS UNIS – Houston\r\nMission en V.I.E d’une durée de 18 mois\r\nDate de début : dès que possible\r\n\r\nAu sein de notre filiale américaine située à Houston (environ 13 personnes), et sous la responsabilité directe du Responsable d’Agence, vous participez aux études techniques et au suivi des projets sur le traitement des effluents et le nettoyage chimique industriel, en lien avec le bureau d’études et les équipes opérationnelles.\r\nVous bénéficierez d’une formation sur le terrain de quelques mois avant de prendre en charge vos missions principales.\r\n\r\nVos missions : \r\nVous interviendrez principalement aux USA (Gulf Coast), avec des déplacements réguliers au Canada, dans la Caraïbe et en France :\r\n\r\nRéaliser les études techniques de nos unités mobiles de traitement (UMT) :\r\n- Réalisation des bilans matière et du dimensionnement procédé (débits, charges, PFD / PID)\r\n- Participation à la rédaction des appels d’offres et dossiers techniques (cahiers des charges, RFQ, spécifications procédé)\r\n- Sélection et adaptation des équipements process aux standards et contraintes locales (normes US, fournisseurs locaux, etc.)\r\n- Rédaction des notes de calcul et documents techniques associés (PID, bilans, fiches équipements)\r\n\r\nParticiper au pilotage des projets, notamment la mise en route des unités mobiles :\r\n- Participer à la réalisation des FAT / SAT\r\n- Participer à la gestion des achats (relation fournisseur, gestion du budget, suivi de budget, commandes / TCO).\r\n- Réaliser des visites terrain de suivi de projet et de mise en route des unités\r\n- Participer à la coordination des équipes terrain, fournisseurs et sous-traitants\r\n- Respect des délais, des budgets et des exigences QSSE\r\n- Réalisation de comptes rendus, suivi technique, remontée des aléas projet\r\n- Effectuer des visites de suivi opérationnel, ce qui implique le port obligatoire des équipements de protection individuelle (EPI) en raffinerie. Pour des raisons de sécurité, les employés doivent se présenter rasés de près et se soumettre à des tests de drogues et alcool. (capillaire, 3 mois)\r\n- Suivi des affaires en relation avec les équipes en place.\r\n- Participer au pilotage des projets en respectant les délais et budget alloué : coordination et encadrement des équipes, approvisionnement et vérification des matériels, gestion des fournisseurs et sous-traitants.\r\n- Contribuer à la réalisation des affaires selon les référentiels qualité du groupe.\r\n- Remonter toute dérive et ou aléas du projet auprès de son N+1 (reporting, avancement et gestion comptable du projet).\r\n- Proposer des améliorations techniques concernant les équipements et les procédés.\r\n\r\nParticiper aux activités annexes :\r\n- Veille technologique et recherche de fournisseurs.\r\n- Organisation des transports d’équipement\r\n- Participer au suivi de maintenance, mise en route des unités mobiles, visites techniques.\r\n\r\nC’est un poste avec du bureau d’études et des déplacements fréquents sur le terrain.\r\n\r\nNotre proposition :\r\nUne expérience professionnelle unique aux États-Unis, au sein d’une équipe à taille humaine.\r\nUne équipe experte, bienveillante et tournée vers l’innovation.\r\nUne voiture de service, un PC portable, une carte SIM professionnelle.\r\nUne grande autonomie, de la flexibilité.",
+   "mission": "",
+   "profile": "Diplômé(e) d’un Bac+3 à Bac+5 en génie des procédés, génie chimique, environnement ou équivalent.\nVous avez une première expérience (stage ou poste) dans l’univers industriel et/ou du traitement des effluents (process, exploitation, environnement...)\nVous êtes à l’aise avec les outils de calcul et de dimensionnement procédé (bilans matière / énergie, Excel avancé) ainsi qu’avec la lecture de schémas PID / PFD.\nUne connaissance des logiciels de CAO / schématisation (AutoCAD, Visio ou équivalent) est un plus.\n\nÀ l’aise avec la rédaction de notes de calcul, de spécifications techniques et de dossiers d’appel d’offres.\nVous parlez anglais (à l’écrit comme à l’oral).\nPermis B indispensable.\n\nVous aurez la chance de suivre des projets de A à Z : des études techniques à la mise en route de l’unité sur le site de notre client.",
+   "duration": 18,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-07-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-19T12:43:33Z",
+   "sector": "",
+   "specialization": "[\"169\",\"264\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-19T12:43:33Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-07-01T00:00:00",
+    "startBroadcastDate": "2026-10-20T00:00:00",
+    "endBroadcastDate": "2026-11-19T00:00:00"
+   },
+   "summary": "CTP environnement, implanté en France et à l’étranger – environ 300 collaborateurs - est un acteur du secteur de l’environnement. Nous intervenons dans les domaines du nettoyage industriel et du traitement des effluents par la mise en place d’unités mobiles depuis 100 ans.\r\n\r\nDans le cadre de son développement, la société CTP environnement recherche un/une :\r\n\r\nChef(fe) de projet junior process\r\nETATS UNIS – Houston\r\nMission en V.I.E d’une durée de 18 mois\r\nDate de début : dès que possible\r\n\r\nAu sein de notre filiale américaine située à Houston (environ 13 personnes), et sous la responsabilité directe du Responsable d’Agence, vous participez aux études techniques et au suivi des projets sur le traitement des effluents et le nettoyage chimique industriel, en lien avec le bureau d’études et les équipes opérationnelles.\r\nVous bénéficierez d’une formation sur le terrain de quelques mois avant de prendre en charge vos missions principales.\r\n\r\nVos missions : \r\nVous interviendrez principalement aux USA (Gulf Coast), avec des déplacements réguliers au Canada, dans la Caraïbe et en France : […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247232",
+   "score": 59,
+   "label": "Bonne adéquation",
+   "first_seen": "2026-10-20T18:27:50+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 34,
+    "qual": 8,
+    "calc": 45
+   },
+   "dominant_axis": "calc",
+   "matched_families": [
+    {
+     "id": "calc3",
+     "axis": "calc",
+     "source": "Résistance des matériaux 1 et 2 (263-1, 270-1, 60 h), Élastoplasticité (279-1, 45 h)",
+     "weight": 11,
+     "terms": [
+      "dimensionnement"
+     ]
+    },
+    {
+     "id": "calc2",
+     "axis": "calc",
+     "source": "CAO (278-1, 30 h), Conception mécanique (264-1, 43 h)",
+     "weight": 9,
+     "terms": [
+      "bureau d'etudes",
+      "cao"
+     ]
+    },
+    {
+     "id": "prod4",
+     "axis": "prod",
+     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
+     "weight": 10,
+     "terms": [
+      "procede"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "normes",
+      "qualite",
+      "standards"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "process"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "energie",
+      "industriel"
      ],
      "points": 5
     },
@@ -5809,7 +6030,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-20T19:24:50Z",
    "sector": "",
-   "specialization": "64, 65, 66, 77, 107, 150, 153, 207",
+   "specialization": "[\"64\",\"65\",\"66\",\"77\",\"107\",\"150\",\"153\",\"207\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6204,7 +6425,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-14T17:08:48Z",
    "sector": "",
-   "specialization": "149, 169",
+   "specialization": "[\"149\",\"169\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6954,7 +7175,7 @@
    "expiry_date": "",
    "publish_date": "2026-05-12T08:05:46Z",
    "sector": "",
-   "specialization": "66",
+   "specialization": "[\"66\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -7381,7 +7602,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-30T08:22:15Z",
    "sector": "",
-   "specialization": "63, 86, 113, 123, 125, 155, 169, 366",
+   "specialization": "[\"63\",\"86\",\"113\",\"123\",\"125\",\"155\",\"169\",\"366\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -7775,7 +7996,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-15T12:17:14Z",
    "sector": "",
-   "specialization": "361",
+   "specialization": "[\"361\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8525,7 +8746,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T13:42:47Z",
    "sector": "",
-   "specialization": "207",
+   "specialization": "[\"207\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8841,7 +9062,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-08T06:05:15Z",
    "sector": "",
-   "specialization": "192",
+   "specialization": "[\"192\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9201,7 +9422,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-28T13:08:22Z",
    "sector": "",
-   "specialization": "225",
+   "specialization": "[\"225\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9389,85 +9610,6 @@
       "engineer"
      ],
      "points": 14
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
-   "id": "246843",
-   "title": "Ingénieur Expert Produit H/F (H/F)",
-   "company": "TLD EUROPE",
-   "country": "BELGIQUE",
-   "city": "FRAMERIES",
-   "description": "Sous la supervision de la directrice support produit, l'ingénieur support produits, se doit d’apporter le support technique et le supporter sur les produits de l’usine.\r\n\r\nPlus précisément, vous serez appelé à:\r\n- Supporter les techniciens de service pour toute question relative aux produits en service provenant de notre usine;\r\n- Analyser et traiter les demandes de garanties et les demandes d’amélioration de produits;\r\n- Animer des formations auprès des clients internes et/ou externes et des techniciens SAV de l’entrepris\r\n- Participer aux présentations et démonstrations de matériels aux clients;\r\n- Répondre aux appels d’offre en collaboration avec les entités commerciales;\r\n- Être le point d’entrée de l’usine pour les techniciens de service et commerciaux ainsi que les vendeurs;\r\n- Effectuer le Benchmark des produits de la concurrence.",
-   "mission": "",
-   "profile": "- Diplôme d'ingénieur ou équivalent dans le domaine de la conception mécanique ou autre domaine pertinent;\n\n- Expérience dans un environnement technique, idéalement proche de la conception d’engins mécaniques (construction, matériel agricole, matériel roulant, etc.);\n\n- Bonne capacités relationnelles et un grand intérêt pour les produits à forte composante technique;\n\n- Aisance en anglais, tant à l’écrit qu’à l’oral.",
-   "duration": 24,
-   "start_date": "2027-04-01T00:00:00",
-   "end_date": "2029-04-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-08T11:34:20Z",
-   "sector": "",
-   "specialization": "[\"130\"]",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-08T11:34:20Z",
-    "missionStartDate": "2027-04-01T00:00:00",
-    "missionEndDate": "2029-04-01T00:00:00",
-    "startBroadcastDate": "2026-10-20T00:00:00",
-    "endBroadcastDate": "2026-11-19T00:00:00"
-   },
-   "summary": "Sous la supervision de la directrice support produit, l'ingénieur support produits, se doit d’apporter le support technique et le supporter sur les produits de l’usine.\r\n\r\nPlus précisément, vous serez appelé à:\r\n- Supporter les techniciens de service pour toute question relative aux produits en service provenant de notre usine;\r\n- Analyser et traiter les demandes de garanties et les demandes d’amélioration de produits;\r\n- Animer des formations auprès des clients internes et/ou externes et des techniciens SAV de l’entrepris\r\n- Participer aux présentations et démonstrations de matériels aux clients;\r\n- Répondre aux appels d’offre en collaboration avec les entités commerciales;\r\n- Être le point d’entrée de l’usine pour les techniciens de service et commerciaux ainsi que les vendeurs;\r\n- Effectuer le Benchmark des produits de la concurrence.",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246843",
-   "score": 48,
-   "label": "À examiner",
-   "first_seen": "2026-10-20T11:34:12+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 34,
-    "qual": 0,
-    "calc": 20
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "calc2",
-     "axis": "calc",
-     "source": "CAO (278-1, 30 h), Conception mécanique (264-1, 43 h)",
-     "weight": 9,
-     "terms": [
-      "conception mecanique"
-     ]
-    },
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
-     "weight": 10,
-     "terms": [
-      "usine"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "mecanique"
-     ],
-     "points": 5
     },
     {
      "label": "Niveau bac+5 / ingénieur annoncé",
@@ -9680,7 +9822,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T08:00:24Z",
    "sector": "",
-   "specialization": "114",
+   "specialization": "[\"114\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9853,6 +9995,97 @@
    ]
   },
   {
+   "id": "247277",
+   "title": "Ingénieur Matériaux et Environnement (H/F)",
+   "company": "RENAULT SAS",
+   "country": "INDE",
+   "city": "CHENNAI",
+   "description": "Vos missions : \n\nRéaliser une cartographie stratégique de l’écosystème indien du recyclage des polymères, incluant les recycleurs, les compoundeurs, les fournisseurs de matières premières, les fournisseurs de technologies et les acteurs émergents de l’économie circulaire.\n\nEffectuer une veille marché et technologique afin d’identifier les procédés de recyclage innovants, les modèles économiques circulaires et les solutions avancées liées aux polymères recyclés.\n\nÉvaluer les matériaux recyclés et les flux de matières premières secondaires adaptés aux applications automobiles, notamment les matériaux recyclés post-consommation (PCR), les matériaux issus des véhicules en fin de vie (ELV) et les matériaux recyclés chimiquement.\n\nAnalyser les performances techniques, la maturité industrielle, la compétitivité et les bénéfices environnementaux des technologies de recyclage et des grades de polymères recyclés.\n\nIdentifier les opportunités d’augmentation de la teneur en matières recyclées tout en respectant les exigences du Groupe Renault en matière de qualité, de durabilité et de performance.\n\nÉtudier les leviers de décarbonation et les initiatives d’économie circulaire développés au sein de l’écosystème indien.\n\nContribuer au développement de partenariats et d’opportunités de collaboration avec les acteurs stratégiques de la chaîne de valeur du recyclage.\n\nParticiper aux feuilles de route du Groupe Renault et du programme « Future is NEUTRAL » relatives à la circularité, aux matériaux recyclés et aux matériaux durables. \n\nPréparer des analyses stratégiques, des rapports techniques et des présentations destinées à la direction, synthétisant les tendances du marché, les opportunités d’innovation et les recommandations business.",
+   "mission": "",
+   "profile": "Vous êtes actuellement en dernière année d’école d’ingénieur ou de Master (Bac+5) et recherchez un stage de fin d’études à l’international vous permettant de développer une expertise technique tout en découvrant un environnement multiculturel.\r\n\nFormation technique — Matériaux et économie circulaire\r\n\r\nConnaissances matériaux – Intérêt marqué pour les polymères, les matériaux recyclés, les procédés industriels et les technologies de recyclage.\r\n\r\nAisance relationnelle – Vous appréciez les échanges avec des partenaires industriels, fournisseurs et experts techniques dans un contexte international.\r\n\r\nMobilité — Disponible pour 24 mois (12 mois + 12 mois) à partir de janvier 2027, basé à Chennai.\r\n\r\nLangues — Anglais courant ; le français est un plus. La connaissance du hindi et/ou du tamoul est appréciée pour les interactions locales.\r\n\nVous souhaitez participer à l’aventure de l’automobile de demain ? Rejoignez-nous ! 🚗💡",
+   "duration": 6,
+   "start_date": "2027-02-01T00:00:00",
+   "end_date": "2027-08-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-20T09:47:53Z",
+   "sector": "",
+   "specialization": "[\"150\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-20T09:47:53Z",
+    "missionStartDate": "2027-02-01T00:00:00",
+    "missionEndDate": "2027-08-01T00:00:00",
+    "startBroadcastDate": "2026-10-20T00:00:00",
+    "endBroadcastDate": "2026-11-19T00:00:00"
+   },
+   "summary": "Vos missions : \n\nRéaliser une cartographie stratégique de l’écosystème indien du recyclage des polymères, incluant les recycleurs, les compoundeurs, les fournisseurs de matières premières, les fournisseurs de technologies et les acteurs émergents de l’économie circulaire.\n\nEffectuer une veille marché et technologique afin d’identifier les procédés de recyclage innovants, les modèles économiques circulaires et les solutions avancées liées aux polymères recyclés.\n\nÉvaluer les matériaux recyclés et les flux de matières premières secondaires adaptés aux applications automobiles, notamment les matériaux recyclés post-consommation (PCR), les matériaux issus des véhicules en fin de vie (ELV) et les matériaux recyclés chimiquement.\n\nAnalyser les performances techniques, la maturité industrielle, la compétitivité et les bénéfices environnementaux des technologies de recyclage et des grades de polymères recyclés. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247277",
+   "score": 47,
+   "label": "À examiner",
+   "first_seen": "2026-10-20T18:27:50+00:00",
+   "axis_scores": {
+    "rd": 37,
+    "prod": 0,
+    "qual": 8,
+    "calc": 0
+   },
+   "dominant_axis": "rd",
+   "matched_families": [
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "qualite"
+     ]
+    },
+    {
+     "id": "rd2",
+     "axis": "rd",
+     "source": "Propriétés mécaniques et physique des matériaux (262-1, 30 h), Critères de choix des matériaux (265-1, 15 h)",
+     "weight": 9,
+     "terms": [
+      "materiaux"
+     ]
+    },
+    {
+     "id": "rd7",
+     "axis": "rd",
+     "source": "Recyclage des matériaux (8 h), Éco-conception (842-1, 8 h), Enjeux DDRS (838-1, 20 h)",
+     "weight": 4,
+     "terms": [
+      "decarbonation",
+      "economie circulaire",
+      "recyclage"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "ingenieur",
+      "materiaux"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "automobile"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
    "id": "246031",
    "title": "VIE – Ingénieur Méthode Traitement (H/F) – Congo",
    "company": "TOTALENERGIES SE",
@@ -9957,7 +10190,7 @@
    "expiry_date": "",
    "publish_date": "2026-05-06T16:27:06Z",
    "sector": "",
-   "specialization": "64, 65, 71, 77, 107, 149, 153, 224",
+   "specialization": "[\"64\",\"65\",\"71\",\"77\",\"107\",\"149\",\"153\",\"224\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10439,7 +10672,7 @@
    "expiry_date": "",
    "publish_date": "2026-02-18T16:34:08Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -11002,7 +11235,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-13T12:55:07Z",
    "sector": "",
-   "specialization": "77, 209",
+   "specialization": "[\"77\",\"209\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12364,7 +12597,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-31T08:22:25Z",
    "sector": "",
-   "specialization": "60, 149, 150, 206, 209, 244, 262, 264",
+   "specialization": "[\"60\",\"149\",\"150\",\"206\",\"209\",\"244\",\"262\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12642,7 +12875,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-12T13:36:38Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -15995,7 +16228,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-14T13:27:02Z",
    "sector": "",
-   "specialization": "153",
+   "specialization": "[\"153\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -16623,7 +16856,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-21T11:54:30Z",
    "sector": "",
-   "specialization": "68",
+   "specialization": "[\"68\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20788,7 +21021,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-21T12:18:30Z",
    "sector": "",
-   "specialization": "60",
+   "specialization": "[\"60\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22719,7 +22952,7 @@
    "expiry_date": "",
    "publish_date": "2026-05-12T14:27:31Z",
    "sector": "",
-   "specialization": "325",
+   "specialization": "[\"325\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22985,7 +23218,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-09T09:05:20Z",
    "sector": "",
-   "specialization": "71",
+   "specialization": "[\"71\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -23154,7 +23387,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-12T13:41:19Z",
    "sector": "",
-   "specialization": "351",
+   "specialization": "[\"351\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -24202,7 +24435,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-30T08:26:59Z",
    "sector": "",
-   "specialization": "86, 113, 125, 149, 169",
+   "specialization": "[\"86\",\"113\",\"125\",\"149\",\"169\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25128,7 +25361,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-21T14:44:45Z",
    "sector": "",
-   "specialization": "2, 29, 35, 60, 62, 63, 64, 65, 66, 68, 69, 70, 71, 72, 73, 77, 86, 109, 114, 125, 133, 134, 135, 138, 139, 142, 143, 144, 145, 149, 150, 153, 155, 159, 160, 197, 206, 207, 208, 209, 224, 244, 347, 348",
+   "specialization": "[\"2\",\"29\",\"35\",\"60\",\"62\",\"63\",\"64\",\"65\",\"66\",\"68\",\"69\",\"70\",\"71\",\"72\",\"73\",\"77\",\"86\",\"109\",\"114\",\"125\",\"133\",\"134\",\"135\",\"138\",\"139\",\"142\",\"143\",\"144\",\"145\",\"149\",\"150\",\"153\",\"155\",\"159\",\"160\",\"197\",\"206\",\"207\",\"208\",\"209\",\"224\",\"244\",\"347\",\"348\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25216,7 +25449,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-21T14:43:55Z",
    "sector": "",
-   "specialization": "71",
+   "specialization": "[\"71\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25313,7 +25546,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-21T14:42:01Z",
    "sector": "",
-   "specialization": "2, 29, 60, 62, 63, 64, 65, 66, 68, 69, 70, 71, 72, 73, 76, 109, 114, 134, 138, 149, 150, 155, 158, 159, 160, 168, 169, 197, 205, 206, 207, 208, 209, 224, 225, 244, 248, 251, 262, 264, 330, 331, 358, 361",
+   "specialization": "[\"2\",\"29\",\"60\",\"62\",\"63\",\"64\",\"65\",\"66\",\"68\",\"69\",\"70\",\"71\",\"72\",\"73\",\"76\",\"109\",\"114\",\"134\",\"138\",\"149\",\"150\",\"155\",\"158\",\"159\",\"160\",\"168\",\"169\",\"197\",\"205\",\"206\",\"207\",\"208\",\"209\",\"224\",\"225\",\"244\",\"248\",\"251\",\"262\",\"264\",\"330\",\"331\",\"358\",\"361\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25600,7 +25833,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-29T16:17:57Z",
    "sector": "",
-   "specialization": "330",
+   "specialization": "[\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25781,7 +26014,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-21T12:23:26Z",
    "sector": "",
-   "specialization": "208",
+   "specialization": "[\"208\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26389,7 +26622,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-12T07:40:30Z",
    "sector": "",
-   "specialization": "330",
+   "specialization": "[\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26565,7 +26798,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-02T10:23:33Z",
    "sector": "",
-   "specialization": "149",
+   "specialization": "[\"149\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27043,7 +27276,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-21T04:54:54Z",
    "sector": "",
-   "specialization": "149, 327, 328, 329",
+   "specialization": "[\"149\",\"327\",\"328\",\"329\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27440,7 +27673,7 @@
    "expiry_date": "",
    "publish_date": "2026-03-05T13:22:50Z",
    "sector": "",
-   "specialization": "251",
+   "specialization": "[\"251\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27946,7 +28179,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-13T10:05:29Z",
    "sector": "",
-   "specialization": "155",
+   "specialization": "[\"155\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -28304,7 +28537,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-14T14:24:32Z",
    "sector": "",
-   "specialization": "328",
+   "specialization": "[\"328\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29419,7 +29652,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-16T08:28:57Z",
    "sector": "",
-   "specialization": "5",
+   "specialization": "[\"5\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29497,7 +29730,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-29T16:14:17Z",
    "sector": "",
-   "specialization": "107",
+   "specialization": "[\"107\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30247,7 +30480,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-15T11:00:53Z",
    "sector": "",
-   "specialization": "247",
+   "specialization": "[\"247\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31333,6 +31566,97 @@
    ]
   },
   {
+   "id": "245853",
+   "title": "Ingénieur logiciel IA, Member of Technical Staff (H/F)",
+   "company": "EFE INTERNATIONAL",
+   "country": "ETATS-UNIS",
+   "city": "SAN FRANCISCO -CA-",
+   "description": "A propos de l'entreprise : \n\nClarityCare AI est une start-up basée à San Francisco, fondée en 2024, qui développe des agents d'intelligence artificielle pour les assureurs santé américains. Nos agents lisent, analysent et adjudiquent en temps réel des dossiers cliniques complexes et des tâches administratives, en traitant des milliers de pages de données médicales par heure, et transmettent les décisions directement dans les systèmes du secteur de la santé américain. Nous couvrons aujourd'hui plus de 6 millions de patients.\nL'administratif santé aux États-Unis représente un marché de 1 200 milliards de dollars; nous construisons l'infrastructure qui permet de le faire fonctionner en temps réel. Lancement commercial fin 2025, chiffre d'affaires récurrent à sept chiffres en moins de quatre mois, 20 millions de dollars levés.\nL'équipe est petite et très dense: anciens fondateurs, ingénieurs et chercheurs issus du MIT, de Stanford, de Harvard et de start-ups IA. Toute l'équipe technique est à San Francisco, en présentiel, et travaille directement avec les équipes cliniques de nos clients.\n\nA propos du rôle et des missions : \n\nSous la supervision de la CEO et du CTO, et en soutien de l'équipe technique, le/la Volontaire participe à la conception, au développement et à l'évaluation de nos agents IA. La mission a une vocation formatrice: le/la Volontaire est encadré(e) par un maître de stage désigné et suit un plan de formation défini avec le sponsor du visa J-1.\nMissions principales:\n- contribuer, sous la supervision d'un ingénieur senior, au développement des agents d'IA (LLM, orchestration, extraction et raisonnement sur des documents cliniques);\n- participer à l'évaluation de la qualité et de la fiabilité des modèles (jeux de tests, métriques, revues avec les cliniciens);\n- contribuer à l'intégration de nos agents dans les systèmes de nos clients (API, pipelines de données, sécurité et conformité HIPAA);\n- participer, en soutien du responsable de compte, aux échanges avec les équipes cliniques des clients pour comprendre les cas d'usage et remonter les retours;\n- documenter le travail réalisé et présenter régulièrement l'avancement à l'équipe.\nLe/la Volontaire n'exerce aucune fonction managériale et ne dispose d'aucun pouvoir d'engagement de la société.",
+   "mission": "",
+   "profile": "Veuillez inclure avec votre candidature : \r\n1. votre profil GitHub (lien)\r\n2. votre profil DevPost ou autre plateforme\r\n3. et toute mention qui puisse constituer une preuve de travail existant de développement de logiciel\r\n\r\nProfil : Jeune diplômé(e) ingénieur ou master en informatique / intelligence artificielle, avec de solides bases en développement logiciel (Python, TypeScript) et en machine learning, en particulier les grands modèles de langage. Une expérience avec les outils de déploiement et de cloud (AWS, Docker, Kubernetes) est un plus. Curiosité pour la santé et le produit, rigueur, autonomie et goût pour le travail en petite équipe qui livre vite. \r\n\r\nAu moins 1 an d'expérience en software engineering. Stages ou projets significatifs en développement logiciel, IA ou recherche (start-up, laboratoire); une première expérience avec des LLM en production est un plus.\r\n\r\nSpécialisation : Informatique, intelligence artificielle / machine learning, génie logiciel\r\n\r\nLangues parlées : Anglais courant indispensable (environnement de travail entièrement anglophone); français\r\n\r\nNiveau d'étude : Bac+5\r\n\r\nDiplôme :Diplôme d'ingénieur ou master universitaire en informatique / IA",
+   "duration": 18,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-07-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-09-11T10:55:11Z",
+   "sector": "",
+   "specialization": "[\"138\",\"248\",\"330\",\"355\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-09-11T10:55:11Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-07-01T00:00:00",
+    "startBroadcastDate": "2026-10-20T00:00:00",
+    "endBroadcastDate": "2026-11-19T00:00:00"
+   },
+   "summary": "A propos de l'entreprise : \n\nClarityCare AI est une start-up basée à San Francisco, fondée en 2024, qui développe des agents d'intelligence artificielle pour les assureurs santé américains. Nos agents lisent, analysent et adjudiquent en temps réel des dossiers cliniques complexes et des tâches administratives, en traitant des milliers de pages de données médicales par heure, et transmettent les décisions directement dans les systèmes du secteur de la santé américain. Nous couvrons aujourd'hui plus de 6 millions de patients.\nL'administratif santé aux États-Unis représente un marché de 1 200 milliards de dollars; nous construisons l'infrastructure qui permet de le faire fonctionner en temps réel. Lancement commercial fin 2025, chiffre d'affaires récurrent à sept chiffres en moins de quatre mois, 20 millions de dollars levés.\nL'équipe est petite et très dense: anciens fondateurs, ingénieurs et chercheurs issus du MIT, de Stanford, de Harvard et de start-ups IA. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/245853",
+   "score": 28,
+   "label": "Périphérique",
+   "first_seen": "2026-10-20T18:27:50+00:00",
+   "axis_scores": {
+    "rd": 9,
+    "prod": 10,
+    "qual": 8,
+    "calc": 9
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "calc4",
+     "axis": "calc",
+     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
+     "weight": 4,
+     "terms": [
+      "python"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "engineering"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "conformite",
+      "qualite"
+     ]
+    },
+    {
+     "id": "rd9",
+     "axis": "rd",
+     "source": "Vocabulaire de laboratoire courant",
+     "weight": 3,
+     "terms": [
+      "laboratoire"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "ingenieur"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
    "id": "246545",
    "title": "Data Analyst - Bucharest (H/F)",
    "company": "EXTIA",
@@ -32187,7 +32511,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-07T10:47:34Z",
    "sector": "",
-   "specialization": "247",
+   "specialization": "[\"247\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32528,7 +32852,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-15T08:40:23Z",
    "sector": "",
-   "specialization": "60",
+   "specialization": "[\"60\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33268,7 +33592,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T12:15:30Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33598,7 +33922,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T16:05:20Z",
    "sector": "",
-   "specialization": "68, 77, 109, 130, 149, 169",
+   "specialization": "[\"68\",\"77\",\"109\",\"130\",\"149\",\"169\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34006,7 +34330,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-28T15:24:33Z",
    "sector": "",
-   "specialization": "29, 130, 213, 251, 262, 327, 329, 330",
+   "specialization": "[\"29\",\"130\",\"213\",\"251\",\"262\",\"327\",\"329\",\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34087,7 +34411,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-08T20:38:17Z",
    "sector": "",
-   "specialization": "330",
+   "specialization": "[\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34318,7 +34642,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-24T07:52:59Z",
    "sector": "",
-   "specialization": "86, 208",
+   "specialization": "[\"86\",\"208\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34720,7 +35044,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-28T07:56:10Z",
    "sector": "",
-   "specialization": "208",
+   "specialization": "[\"208\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35110,7 +35434,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-06T08:57:05Z",
    "sector": "",
-   "specialization": "327",
+   "specialization": "[\"327\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35182,7 +35506,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-06T08:54:04Z",
    "sector": "",
-   "specialization": "327",
+   "specialization": "[\"327\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35616,7 +35940,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T11:31:02Z",
    "sector": "",
-   "specialization": "259",
+   "specialization": "[\"259\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35679,7 +36003,7 @@
    "expiry_date": "",
    "publish_date": "2025-06-26T14:45:12Z",
    "sector": "",
-   "specialization": "107",
+   "specialization": "[\"107\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35747,7 +36071,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-12T12:29:13Z",
    "sector": "",
-   "specialization": "7",
+   "specialization": "[\"7\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
