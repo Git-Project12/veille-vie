@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-21T11:47:07+00:00",
+ "generated_at": "2026-10-21T18:38:13+00:00",
  "source": "Business France — mon-vie-via.businessfrance.fr",
- "total_scanned": 845,
- "total_announced": 845,
- "total_kept": 378,
+ "total_scanned": 856,
+ "total_announced": 856,
+ "total_kept": 385,
  "threshold": 25,
  "axes": {
   "rd": {
@@ -6157,7 +6157,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-20T19:24:50Z",
    "sector": "",
-   "specialization": "64, 65, 66, 77, 107, 150, 153, 207",
+   "specialization": "[\"64\",\"65\",\"66\",\"77\",\"107\",\"150\",\"153\",\"207\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6243,6 +6243,118 @@
      "label": "Secteur industriel compatible",
      "terms": [
       "industriel"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
+   "id": "247333",
+   "title": "Aerospace Quality Engineer (H/F)",
+   "company": "ALTEN",
+   "country": "BELGIQUE",
+   "city": "BRUXELLES",
+   "description": "Core responsibilities\nManage supplier quality: audits, action plans, supplier performance follow-up\nRun APQP on new parts and new suppliers\nCarry out and review first article inspections (FAI EN 9102)\nHandle non-conformities and lead root cause analysis\nSupport production and the design office on derogations\nFollow quality KPIs and report to quality management\nProfile deployable at Safran Aero Boosters (Quality Department) and Thales Belgium\n(Supplier Quality",
+   "mission": "",
+   "profile": "Experience\nMinimum 3 years (work-study / apprenticeship and internships included)\nProduct or supplier quality in a regulated industry: aerospace, defence or\nautomotive tier 1\n\nRequired skills\nMaster's degree in engineering (mechanical, materials or industrial)\nEN 9100 / AS9100, APQP, FAI EN 9102\nRoot cause analysis on real cases (8D, QRQC, Ishikawa, 5 Why)\nTechnical drawing reading and GD&T\nExcel / PowerPoint\nFluent French and English (C1)",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-21T12:15:55Z",
+   "sector": "",
+   "specialization": "[\"208\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-21T12:15:55Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-21T00:00:00",
+    "endBroadcastDate": "2026-11-20T00:00:00"
+   },
+   "summary": "Core responsibilities\nManage supplier quality: audits, action plans, supplier performance follow-up\nRun APQP on new parts and new suppliers\nCarry out and review first article inspections (FAI EN 9102)\nHandle non-conformities and lead root cause analysis\nSupport production and the design office on derogations\nFollow quality KPIs and report to quality management\nProfile deployable at Safran Aero Boosters (Quality Department) and Thales Belgium\n(Supplier Quality",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247333",
+   "score": 58,
+   "label": "Bonne adéquation",
+   "first_seen": "2026-10-21T18:37:56+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 10,
+    "qual": 49,
+    "calc": 20
+   },
+   "dominant_axis": "qual",
+   "matched_families": [
+    {
+     "id": "calc2",
+     "axis": "calc",
+     "source": "CAO (278-1, 30 h), Conception mécanique (264-1, 43 h)",
+     "weight": 9,
+     "terms": [
+      "gd&t"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "engineering"
+     ]
+    },
+    {
+     "id": "qual3",
+     "axis": "qual",
+     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
+     "weight": 7,
+     "terms": [
+      "8d"
+     ]
+    },
+    {
+     "id": "qual2",
+     "axis": "qual",
+     "source": "Qualité et normes (774-1, 14 h, coefficient 0,5)",
+     "weight": 4,
+     "terms": [
+      "en 9100",
+      "quality engineer",
+      "supplier quality"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "quality",
+      "root cause"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "engineer",
+      "quality"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "aerospace",
+      "automotive",
+      "defence"
      ],
      "points": 5
     },
@@ -7074,6 +7186,127 @@
    ]
   },
   {
+   "id": "247322",
+   "title": "QUALITY ENGINEER – AEROSPACE/DEFENCE FIELD (H/F)",
+   "company": "ABYLSEN ST-RA",
+   "country": "ITALIE",
+   "city": "ROME",
+   "description": "The Product Quality Engineer will support the assembly and integration of antenna systems, ensuring the conformity of incoming components, mechanical parts, electronic boards and assembled sub-systems throughout the production process.\nThe role requires a strong hands-on presence on the assembly floor, working closely with production, engineering and quality teams to identify, document and manage any non-conformities.\nMain Responsibilities\nPerform incoming inspections on mechanical parts, PCBs and electrical/electronic components.\nVerify the conformity of received parts against applicable technical documentation, drawings, specifications and quality requirements.\nPerform visual and dimensional inspections when required.\nSupport quality activities throughout the assembly and integration of antenna sub-systems.\nCarry out inspections and quality checks at key stages of the assembly process to ensure compliance before moving to the next production step.\nIdentify and manage anomalies and non-conformities detected during assembly.\nSupport the investigation and follow-up of quality issues in collaboration with engineering and production teams.\nEnsure proper traceability and documentation of inspections, anomalies and corrective actions.\nPrepare and maintain quality documentation, inspection reports and non-conformity records.\nParticipate in the acceptance and validation of assembled sub-systems.\nEnsure that assembly activities are performed according to the applicable procedures and technical requirements.",
+   "mission": "",
+   "profile": "The ideal candidate has a Master’s degree in Quality or Aerospace Engineering and at least 1 years of experience as a Quality Engineer.\n\nREQUIREMENTS :\n\n• Good knowledge of measuring tools and quality control methods\n• Good knowledge of aerospace industry standards and regulations\n• Previous experience in the Space and Defence Industry\n• English is required",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-21T08:13:10Z",
+   "sector": "",
+   "specialization": "[\"60\",\"208\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-21T08:13:10Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-21T00:00:00",
+    "endBroadcastDate": "2026-11-10T00:00:00"
+   },
+   "summary": "The Product Quality Engineer will support the assembly and integration of antenna systems, ensuring the conformity of incoming components, mechanical parts, electronic boards and assembled sub-systems throughout the production process.\nThe role requires a strong hands-on presence on the assembly floor, working closely with production, engineering and quality teams to identify, document and manage any non-conformities.\nMain Responsibilities\nPerform incoming inspections on mechanical parts, PCBs and electrical/electronic components.\nVerify the conformity of received parts against applicable technical documentation, drawings, specifications and quality requirements.\nPerform visual and dimensional inspections when required.\nSupport quality activities throughout the assembly and integration of antenna sub-systems.\nCarry out inspections and quality checks at key stages of the assembly process to ensure compliance before moving to the next production step.\nIdentify and manage anomalies and non-conformities detected during assembly. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247322",
+   "score": 55,
+   "label": "Bonne adéquation",
+   "first_seen": "2026-10-21T18:37:56+00:00",
+   "axis_scores": {
+    "rd": 9,
+    "prod": 34,
+    "qual": 38,
+    "calc": 0
+   },
+   "dominant_axis": "qual",
+   "matched_families": [
+    {
+     "id": "prod3",
+     "axis": "prod",
+     "source": "Assemblage des matériaux (297-2, 30 h)",
+     "weight": 7,
+     "terms": [
+      "assembly"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "engineering"
+     ]
+    },
+    {
+     "id": "qual2",
+     "axis": "qual",
+     "source": "Qualité et normes (774-1, 14 h, coefficient 0,5)",
+     "weight": 4,
+     "terms": [
+      "quality engineer"
+     ]
+    },
+    {
+     "id": "qual4",
+     "axis": "qual",
+     "source": "Introduction aux techniques expérimentales (267-1, 15 h)",
+     "weight": 4,
+     "terms": [
+      "dimensional"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "compliance",
+      "inspection",
+      "quality",
+      "standards"
+     ]
+    },
+    {
+     "id": "rd9",
+     "axis": "rd",
+     "source": "Vocabulaire de laboratoire courant",
+     "weight": 3,
+     "terms": [
+      "investigation"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "engineer",
+      "quality"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "aerospace",
+      "defence",
+      "mechanical"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
    "id": "246905",
    "title": "Chargé(e) de Qualité avancée des fournisseurs (H/F)",
    "company": "FAURECIA SYSTEMES D'ECHAPPEMENT",
@@ -7299,7 +7532,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-13T15:23:11Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8032,7 +8265,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-10T14:13:50Z",
    "sector": "",
-   "specialization": "107",
+   "specialization": "[\"107\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8813,7 +9046,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-23T09:02:41Z",
    "sector": "",
-   "specialization": "52, 66, 114, 115, 143, 148, 153",
+   "specialization": "[\"52\",\"66\",\"114\",\"115\",\"143\",\"148\",\"153\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10337,7 +10570,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T08:00:24Z",
    "sector": "",
-   "specialization": "114",
+   "specialization": "[\"114\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -11178,6 +11411,88 @@
    ]
   },
   {
+   "id": "247325",
+   "title": "Ingénieur Qualité/Aero (H/F)",
+   "company": "ASTEK FRANCE",
+   "country": "BELGIQUE",
+   "city": "BRUXELLES",
+   "description": "Vos responsabilités:\n\nVous êtes responsable de la gestion des améliorations sur ligne de production,\nVous assistez les opérateurs dans l'amélioration de leurs tâches,\nVous intervenez régulièrement sur la ligne de production afin de remonter des problèmes de méthode ou de qualité,\nVous déterminez des stratégies qualité afin d'améliorer les pratiques sur le terrain,\nVous réalisez un reporting détaillé de la situation en place afin de définir les pistes d'amélioration",
+   "mission": "",
+   "profile": "Diplôme de niveau Master / Ingénieur ou équivalent en mécanique/aéronautique.\nVous avez une expérience dans le domaine de la qualité.\nVous êtes prêt à effectuer des missions sur les sites clients.\nVous êtes prêt à apprendre en utilisant les standards de l'entreprise.\nVous maîtrisez couramment l'anglais,\nVous aimez être au contact de la production,\nVous avez une première connaissance des outils/méthodologies qualité,\nCe poste comprends des shifts, 6h-14h et une autre semaine 14h-22h.",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-21T09:50:46Z",
+   "sector": "",
+   "specialization": "[\"149\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-21T09:50:46Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-21T00:00:00",
+    "endBroadcastDate": "2026-11-20T00:00:00"
+   },
+   "summary": "Vos responsabilités:\n\nVous êtes responsable de la gestion des améliorations sur ligne de production,\nVous assistez les opérateurs dans l'amélioration de leurs tâches,\nVous intervenez régulièrement sur la ligne de production afin de remonter des problèmes de méthode ou de qualité,\nVous déterminez des stratégies qualité afin d'améliorer les pratiques sur le terrain,\nVous réalisez un reporting détaillé de la situation en place afin de définir les pistes d'amélioration",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247325",
+   "score": 45,
+   "label": "À examiner",
+   "first_seen": "2026-10-21T18:37:56+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 34,
+    "qual": 8,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod4",
+     "axis": "prod",
+     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
+     "weight": 10,
+     "terms": [
+      "ligne de production"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "qualite",
+      "standards"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "ingenieur",
+      "qualite"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "aeronautique",
+      "mecanique"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
    "id": "246641",
    "title": "PLM Teamcenter Technical Lead (H/F)",
    "company": "CAPGEMINI TECHNOLOGY SERVICES",
@@ -11297,7 +11612,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-28T13:10:22Z",
    "sector": "",
-   "specialization": "262",
+   "specialization": "[\"262\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -14207,7 +14522,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-09T14:58:34Z",
    "sector": "",
-   "specialization": "327",
+   "specialization": "[\"327\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -14296,116 +14611,6 @@
       "data"
      ],
      "points": -4,
-     "cap": 35
-    }
-   ]
-  },
-  {
-   "id": "246726",
-   "title": "VIE Methods Engineer (H/F)",
-   "company": "BOUYGUES TRAVAUX PUBLICS",
-   "country": "CANADA",
-   "city": "TORONTO",
-   "description": "Job Purpose :\r\nResponsible for the development, coordination, and implementation of construction methods, temporary works, and execution strategies for infrastructure and specialized construction projects across VSL Canada. \r\n\r\nMain responsibilities \r\n\\ Preparation of construction methods, temporary works designs, lifting plans, and sequencing documents. \r\n\\ Provides technical support for tender, planning, execution, and close-out phases. \r\n\\ Support technical and operational strategies in coordination with project management, considering safety, constructability, schedule, cost, and risk. \r\n\\ Prepare method statements, work procedures, and technical submissions. \r\n\\ Supports site teams by resolving technical issues and proposing optimized execution solutions. \r\n\\ Ensures compliance with VSL standards, quality requirements, OHSA regulations, and applicable codes. \r\n\\ Participates in risk assessments and constructability reviews. \r\n\\ Coordinates with internal engineering teams, external consultants, and subcontractors as required.\r\n\\ Participates client interactions on technical matters related to construction methods and execution.\r\n\\ Contributes to contractual documentation, technical clarifications, and claims support where required. \r\n\\ Participates in continuous improvement initiatives, lessons learned, and development of standard methods and templates. \r\n\\ Promotes the application of sustainable and safe construction practices.",
-   "mission": "",
-   "profile": "Profile\r\n\\ Degree in Civil Engineering or related field \r\n\\ 0-5 years of experience in construction, infrastructure, or engineering, with a strong focus on construction methods and temporary works\r\n\\ Proven experience in design and review of temporary works, lifting operations, erection sequences, and construction logistics. \r\n\\ Proficiency in AutoCAD; SolidWorks is a strong asset\r\n\\ Demonstrates analytical judgement, autonomy, and decision-making capability.\r\n\\ Fluent in english\r\n\\ Eligible for the VIE programme",
-   "duration": 24,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2029-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-06T07:53:55Z",
-   "sector": "",
-   "specialization": "70",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-06T07:53:55Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2029-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-13T00:00:00",
-    "endBroadcastDate": "2026-11-12T00:00:00"
-   },
-   "summary": "Job Purpose :\r\nResponsible for the development, coordination, and implementation of construction methods, temporary works, and execution strategies for infrastructure and specialized construction projects across VSL Canada. \r\n\r\nMain responsibilities \r\n\\ Preparation of construction methods, temporary works designs, lifting plans, and sequencing documents. \r\n\\ Provides technical support for tender, planning, execution, and close-out phases. \r\n\\ Support technical and operational strategies in coordination with project management, considering safety, constructability, schedule, cost, and risk. \r\n\\ Prepare method statements, work procedures, and technical submissions. \r\n\\ Supports site teams by resolving technical issues and proposing optimized execution solutions. \r\n\\ Ensures compliance with VSL standards, quality requirements, OHSA regulations, and applicable codes. \r\n\\ Participates in risk assessments and constructability reviews. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246726",
-   "score": 35,
-   "label": "À examiner",
-   "first_seen": "2026-10-13T20:15:05+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 45,
-    "qual": 34,
-    "calc": 20
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "calc2",
-     "axis": "calc",
-     "source": "CAO (278-1, 30 h), Conception mécanique (264-1, 43 h)",
-     "weight": 9,
-     "terms": [
-      "solidworks"
-     ]
-    },
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
-     "weight": 10,
-     "terms": [
-      "methods engineer"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "continuous improvement",
-      "engineering"
-     ]
-    },
-    {
-     "id": "qual3",
-     "axis": "qual",
-     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
-     "weight": 7,
-     "terms": [
-      "capability"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "compliance",
-      "quality",
-      "standards"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineer"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Formation exigée hors cursus : score plafonné",
-     "terms": [
-      "civil engineering"
-     ],
-     "points": -20,
      "cap": 35
     }
    ]
@@ -17410,6 +17615,120 @@
    ]
   },
   {
+   "id": "245128",
+   "title": "Manufacturing Cost Accountant (H/F)",
+   "company": "PANDROL",
+   "country": "ETATS-UNIS",
+   "city": "MEMPHIS      -TN-",
+   "description": "Position Summary\nWe are seeking a detail-oriented Manufacturing Cost Accountant with 1–2 years of experience to support cost accounting and financial analysis within a manufacturing environment. The role focuses heavily on variance analysis (material, labor, and overhead) to provide actionable insights that improve plant performance, cost control, and profitability.\n\nKey Responsibilities\n1. Variance Analysis (Core Focus)\n• Prepare and analyze monthly cost variances between actual and standard costs (material, labor, and overhead).\n• Investigate root causes of variances (e.g., scrap, inefficiencies, price fluctuations) and provide clear explanations to management. \n• Partner with operations, production, and engineering teams to identify corrective actions and cost improvements. \n• Monitor and report production, purchase price, and usage variances to highlight trends and risks. \n\n2. Cost Accounting & Product Costing\n• Assist in maintaining standard costing systems, including updating Bills of Materials (BOM) and routing assumptions. \n• Support product costing and margin analysis for existing and new products. \n• Track and analyze manufacturing costs (raw materials, labor, overhead). \n• Validate cost of goods sold (COGS) and ensure accurate inventory valuation. \n\n3. Month-End Close & Reporting\n• Participate in month-end close activities, including journal entries, inventory adjustments, and WIP reconciliation. \n• Prepare cost reports, variance reports, and gross margin analysis for plant leadership. \n• Reconcile inventory accounts and support financial reporting accuracy. \n\n4. Inventory & Operational Support\n• Assist with physical inventory counts, cycle counts, and inventory audits. \n• Monitor inventory movements and accuracy of production transactions. \n• Analyze production efficiency, including labor utilization and scrap rates. \n\n5. Budgeting & Continuous Improvement\n• Support budgeting and forecasting for manufacturing costs. \n• Identify cost reduction opportunities and recommend process improvements. \n• Help improve costing processes, controls, and reporting accuracy. \n\nQualifications\n• Bachelor’s degree in Accounting, Finance, or related field. \n• 1–2 years of experience in cost accounting, manufacturing accounting, or financial analysis. \n• Exposure to standard costing and variance analysis required.\n• Experience with ERP systems (Business Central, Navision, SAP, Oracle, Dynamics, etc.) preferred. \n• Strong Excel skills (pivot tables, data analysis). \n\nKey Skills & Competencies\n• Strong analytical and problem-solving skills\n• Ability to interpret cost variances and translate into operational actions\n• Knowledge of manufacturing processes and cost drivers\n• Effective cross-functional communication with operations and finance teams\n• High attention to detail and accuracy\n\nPreferred Attributes\n• Internship or early-career experience in a plant or manufacturing environment\n• Familiarity with inventory accounting and WIP tracking\n• Exposure to lean manufacturing or continuous improvement initiatives\n\nSuccess Metrics for the Role\n• Accuracy and timeliness of variance reporting\n• Quality of root-cause analysis and recommendations\n• Improvements in cost visibility and operational decision support\n• Reduction in unexplained or recurring cost variances",
+   "mission": "",
+   "profile": "• Bachelor’s degree in Accounting, Finance, or related field. \n• 1–2 years of experience in cost accounting, manufacturing accounting, or financial analysis. \n• Exposure to standard costing and variance analysis required.\n• Experience with ERP systems (Business Central, Navision, SAP, Oracle, Dynamics, etc.) preferred. \n• Strong Excel skills (pivot tables, data analysis).",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-08-04T20:56:07Z",
+   "sector": "",
+   "specialization": "[\"205\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-08-04T20:56:07Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-21T00:00:00",
+    "endBroadcastDate": "2026-11-20T00:00:00"
+   },
+   "summary": "Position Summary\nWe are seeking a detail-oriented Manufacturing Cost Accountant with 1–2 years of experience to support cost accounting and financial analysis within a manufacturing environment. The role focuses heavily on variance analysis (material, labor, and overhead) to provide actionable insights that improve plant performance, cost control, and profitability.\n\nKey Responsibilities\n1. Variance Analysis (Core Focus)\n• Prepare and analyze monthly cost variances between actual and standard costs (material, labor, and overhead).\n• Investigate root causes of variances (e.g., scrap, inefficiencies, price fluctuations) and provide clear explanations to management. \n• Partner with operations, production, and engineering teams to identify corrective actions and cost improvements. \n• Monitor and report production, purchase price, and usage variances to highlight trends and risks. \n\n2. Cost Accounting & Product Costing\n• Assist in maintaining standard costing systems, including updating Bills of Materials (BOM) and routing assumptions. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/245128",
+   "score": 35,
+   "label": "À examiner",
+   "first_seen": "2026-10-21T18:37:56+00:00",
+   "axis_scores": {
+    "rd": 9,
+    "prod": 59,
+    "qual": 8,
+    "calc": 9
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "calc4",
+     "axis": "calc",
+     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
+     "weight": 4,
+     "terms": [
+      "data analysis"
+     ]
+    },
+    {
+     "id": "prod4",
+     "axis": "prod",
+     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
+     "weight": 10,
+     "terms": [
+      "plant"
+     ]
+    },
+    {
+     "id": "prod5",
+     "axis": "prod",
+     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
+     "weight": 4,
+     "terms": [
+      "lean"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "continuous improvement",
+      "engineering",
+      "manufacturing"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "quality",
+      "root cause"
+     ]
+    },
+    {
+     "id": "rd9",
+     "axis": "rd",
+     "source": "Vocabulaire de laboratoire courant",
+     "weight": 3,
+     "terms": [
+      "problem solving"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "manufacturing"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Formation exigée hors cursus : score plafonné",
+     "terms": [
+      "finance"
+     ],
+     "points": -18,
+     "cap": 35
+    }
+   ]
+  },
+  {
    "id": "242951",
    "title": "INGÉNIEUR ASSURANCE QUALITÉ (H/F)",
    "company": "QUALIFY LIFE SCIENCES",
@@ -17940,6 +18259,95 @@
       "informatique"
      ],
      "points": -14,
+     "cap": 35
+    }
+   ]
+  },
+  {
+   "id": "156182",
+   "title": "INGENIEUR PROJETS (H/F)",
+   "company": "SERIMAX",
+   "country": "MALAISIE",
+   "city": "KUALA LUMPUR",
+   "description": "SERIMAX est une société de premier plan au niveau mondial dans le domaine des solutions de soudage de pipelines. Avec plus de 800 collaborateurs, nos équipes sont réparties dans le monde entier : Europe, États-Unis, Asie du Sud-Est et Afrique.\r\n\r\nAu sein de cette organisation, la région EMEA-CIS (Europe, Afrique, Moyen-Orient et Communauté des États indépendants), dont le siège est basé à Roissy-en-France (95), recrute pour son entité en Malaisie dans la Région APAC un(e) VIE Ingénieur Projets pour une durée de de 24 mois.\r\n\r\nL’Ingénieur Projet supervise la gestion et la coordination de toutes les phases du projet, tant en interne (relations avec les Ingénieurs Soudage, le Support Projet, la Logistique, etc.) qu’en externe (relations avec les clients et les sous-traitants).\r\n\r\nRattaché(e) au Responsable du Département Projets, vous aurez pour principales missions :\r\n\r\nVeiller à travailler en toute sécurité et à disposer des outils et équipements adaptés à vos activités. Vous exercerez cette responsabilité avec rigueur dans une démarche d’amélioration continue.\r\n\r\nGérer la relation client afin de garantir le respect de l’ensemble des engagements contractuels.\r\n\r\nPréparer les réunions de lancement de projet (Kick-Off Meetings) avec les différentes parties prenantes (Asset Engineer, Project Manager, Technical Coordinator, Ingénieurs Soudeurs, etc.).\r\n\r\nÉlaborer et produire les rapports nécessaires au niveau régional et groupe.\r\n\r\nAssurer le respect des coûts, identifier les leviers de réduction ou d’élimination des coûts variables et contribuer à la rentabilité globale des projets.\r\n\r\nRépondre aux demandes des clients concernant les travaux supplémentaires et veiller à ce que les étapes nécessaires soient réalisées dans les délais impartis et dans le respect du budget.\r\n\r\nAssurer la coordination avec l’ensemble des fonctions support avant et pendant l’exécution des projets.",
+   "mission": "",
+   "profile": "Profil recherché : \nVous avez un diplome d'ingénieur, une connaisssance dans le soudage avec une certification professionnelle serait un plus.\nVous avez une expérience dans la gestion de projet et de préférence dans le secteur de l'Oil & Gas ou de l'industrie.\nVous avez le sens du service client et avez travaillé dans un environnement international.\nBon niveau en anglais et compétences en communication.\nBon sens de l'organisation pour la préparation des projets et la coordination des différents départements. Définir les points critiques et priorités pour la préparation du ou des projet(s) en charge.\nAvoir de bonnes compétences dans la gestion des plannings et ressources, le/la VIE sera amené(e) à être réactif(ve) quand aux fréquents changements de planning et la réorganisation des tâches et priorités.\nSavoir travailler sous pression avec des plannings serrées.\nFaire preuve de pragmatisme pour la résolution des problèmes pouvant survenir au quotidien et la mise en place d'actions correctives à long terme.",
+   "duration": 24,
+   "start_date": "2027-02-01T00:00:00",
+   "end_date": "2029-02-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2024-06-26T16:57:21Z",
+   "sector": "",
+   "specialization": "[\"77\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2024-06-26T16:57:21Z",
+    "missionStartDate": "2027-02-01T00:00:00",
+    "missionEndDate": "2029-02-01T00:00:00",
+    "startBroadcastDate": "2026-10-21T00:00:00",
+    "endBroadcastDate": "2026-11-20T00:00:00"
+   },
+   "summary": "SERIMAX est une société de premier plan au niveau mondial dans le domaine des solutions de soudage de pipelines. Avec plus de 800 collaborateurs, nos équipes sont réparties dans le monde entier : Europe, États-Unis, Asie du Sud-Est et Afrique.\r\n\r\nAu sein de cette organisation, la région EMEA-CIS (Europe, Afrique, Moyen-Orient et Communauté des États indépendants), dont le siège est basé à Roissy-en-France (95), recrute pour son entité en Malaisie dans la Région APAC un(e) VIE Ingénieur Projets pour une durée de de 24 mois.\r\n\r\nL’Ingénieur Projet supervise la gestion et la coordination de toutes les phases du projet, tant en interne (relations avec les Ingénieurs Soudage, le Support Projet, la Logistique, etc.) qu’en externe (relations avec les clients et les sous-traitants).\r\n\r\nRattaché(e) au Responsable du Département Projets, vous aurez pour principales missions :\r\n\r\nVeiller à travailler en toute sécurité et à disposer des outils et équipements adaptés à vos activités. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/156182",
+   "score": 35,
+   "label": "À examiner",
+   "first_seen": "2026-10-21T18:37:56+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 34,
+    "qual": 8,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod3",
+     "axis": "prod",
+     "source": "Assemblage des matériaux (297-2, 30 h)",
+     "weight": 7,
+     "terms": [
+      "soudage"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "amelioration continue"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "certification"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "ingenieur"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    },
+    {
+     "label": "Formation exigée hors cursus : score plafonné",
+     "terms": [
+      "gestion"
+     ],
+     "points": -5,
      "cap": 35
     }
    ]
@@ -19580,7 +19988,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-15T08:25:53Z",
    "sector": "",
-   "specialization": "60",
+   "specialization": "[\"60\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20107,6 +20515,99 @@
       "energie",
       "industriel",
       "mecanique"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
+   "id": "247321",
+   "title": "Electrical Project engineer (H/F)",
+   "company": "MOONGY",
+   "country": "BELGIQUE",
+   "city": "BRUXELLES",
+   "description": "agap2 is a European engineering consultancy active across various industrial sectors such as large infrastructure works, process industries (life science, food & beverage, chemistry), energy, and transport. Present in 13 European countries and established in Belgium since 2013, we collaborate with partners across the country.\n\nAs an Electrical Project Engineer, you manage and support the full lifecycle of electrical engineering projects — from design and planning to execution and commissioning. You ensure that electrical systems meet technical requirements, safety standards, deadlines, and budget expectations.\n\nMain Responsibilities:\n• Develop and review electrical designs, schematics, and technical specifications.\n• Participate in feasibility studies and define project scopes and requirements.\n• Coordinate with multidisciplinary teams (mechanical, automation, construction, utilities…).\n• Prepare tender documents, evaluate bids, and support subcontractor selection.\n• Ensure correct implementation of electrical installations during construction and commissioning.\n• Conduct technical analyses, risk assessments, and ensure compliance with relevant standards (AREI/RGIE, IEC…).\n• Monitor project progress, budgets, and deliverables.\n• Provide technical support during FAT/SAT, testing, troubleshooting, and validation.\n• Act as a technical point of contact for clients, contractors, and internal stakeholders.",
+   "mission": "",
+   "profile": "Your profile:\n\n- Master’s degree in electrical engineering, Electromechanics, Industrial Engineering, or related field.\n- First experience in electrical design, project engineering, or industrial installations.\n- Good knowledge of electrical systems: low voltage, power distribution, instrumentation, control systems.\n- Be adaptable, autonomous, and proactive to meet the diverse challenges of our missions.\n- Ensure clear communication and effective collaboration with all stakeholders.\n- Professional efficiency in English & French, Dutch is a plus\n\nWhy joining us? \n- Close support with dual follow-up: one from HR and the other from your Business Manager.\n- Tailor-made continuous training, adapted to everyone’s needs.\n- A true career catalyst offering multiple opportunities for growth and development.\n- A strong company culture: before being a consultant, you are first and foremost part of the agap2 community, where we create moments of connection and conviviality.",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-21T07:17:18Z",
+   "sector": "",
+   "specialization": "[\"71\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-21T07:17:18Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-21T00:00:00",
+    "endBroadcastDate": "2026-11-20T00:00:00"
+   },
+   "summary": "agap2 is a European engineering consultancy active across various industrial sectors such as large infrastructure works, process industries (life science, food & beverage, chemistry), energy, and transport. Present in 13 European countries and established in Belgium since 2013, we collaborate with partners across the country.\n\nAs an Electrical Project Engineer, you manage and support the full lifecycle of electrical engineering projects — from design and planning to execution and commissioning. You ensure that electrical systems meet technical requirements, safety standards, deadlines, and budget expectations.\n\nMain Responsibilities:\n• Develop and review electrical designs, schematics, and technical specifications.\n• Participate in feasibility studies and define project scopes and requirements.\n• Coordinate with multidisciplinary teams (mechanical, automation, construction, utilities…).\n• Prepare tender documents, evaluate bids, and support subcontractor selection.\n• Ensure correct implementation of electrical installations during construction and commissioning. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247321",
+   "score": 32,
+   "label": "Périphérique",
+   "first_seen": "2026-10-21T18:37:56+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 10,
+    "qual": 8,
+    "calc": 9
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "calc4",
+     "axis": "calc",
+     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
+     "weight": 4,
+     "terms": [
+      "automation"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "engineering"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "compliance",
+      "standards",
+      "testing",
+      "validation"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "engineer"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "energy",
+      "industrial",
+      "mechanical"
      ],
      "points": 5
     },
@@ -20879,6 +21380,85 @@
    ]
   },
   {
+   "id": "247346",
+   "title": "OCS Field Engineer/Coordinator (H/F)",
+   "company": "COLAS RAIL",
+   "country": "CANADA",
+   "city": "EDMONTON (AL)",
+   "description": "Purpose: \nThe Overhead Catenary System (OCS) field engineer/coordinator will join the Edmonton Valley Line West project and report directly to the OCS package manager. \nHe will be responsible for the OCS installation on the EVLW project including: \n• Mainline \n• Gerry Wright Operation & Maintenance Facilities (OMF) \n• Lewis Farm OMF \n\nKey responsibilities: \n• Ensure adherence to Project Safety policies. \n• Review and understand project schedule. \n• Serves as a liaison with project management reporting on inspections, subcontracting (if any), progress, and delays. \n• Participates in project meetings and facilitates regularly scheduled meetings related to execution and deliverables for the project. \n• Proactively identifies and works to resolve any site issues that may impede the project delivery. \n• Responsible for implementing and monitoring all OCS related works on site as per the defined scope of work. \n• Have a strong knowledge of the project agreement (PA), project specifications, approved drawings and control that all work are performed accordingly. \n• Initiate and monitor Field Change Directive in close relation with site team, package manager and the OCS Engineer of Record (EoR). \n• Lookahead planning of material requisitions and other resources as needed. \n• Monitor with the warehouse manager the OCS preparation works or any works related to OCS installation and performed at the Warehouse. \n• Monitor closely the stored material, tools and consumables with the yard manager to avoid any shortage. \n• Prepare schedule for the installation activities. \n• Monitor installation activities with the OCS superintendent / site supervisor \n• Plans and coordinates site activities with Safety and Quality departments to ensure applicable procedure enforcement. \n• Plan and coordinate site activities with other sub-systems construction representatives to avoid/minimize installation conflicts (clashes). \n• Support site team for all design and technical related queries. \n• Initiate Non-Conformity Report through Aconex when required. \n• Monitor Non-Conformity and is responsible for closing it within the allowed timeframe. \n• Perform site quantity take offs. \n• Establish the daily progress report and other related reports, inspect documents which relate to site activities. \n• Participate actively in the monthly cost control for the OCS budget and in the OCS budget reviews under the authority of the package manager. \n• Report any close call, incident or accident to the safety department and the line management. \n• Actively represent the company in a professional manner at all times by providing clear on-site communication / clear understandable work reports / regular communication with the concerned parties responsible for timely escalation of any issues or occurrences. \n• Other duties assigned by Package Manager",
+   "mission": "",
+   "profile": "Demonstrated understanding of basic engineering and concrete construction concepts, practices, and procedures.\nBachelor's degree in Engineering, Construction Management or similar field from an Accredited Institution.\n3-5 years of proven experience with a well-known construction organization.\nGood command of all Microsoft Office tools & AutoCad.\nGood communication skills, ability to plan and organize daily activities, action-oriented, high ability to analyze and resolve problems, ability to perform under pressure and able to be flexible and adapt to dynamic environments.",
+   "duration": 12,
+   "start_date": "2027-02-01T00:00:00",
+   "end_date": "2028-02-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-21T14:28:55Z",
+   "sector": "",
+   "specialization": "[\"70\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-21T14:28:55Z",
+    "missionStartDate": "2027-02-01T00:00:00",
+    "missionEndDate": "2028-02-01T00:00:00",
+    "startBroadcastDate": "2026-10-21T00:00:00",
+    "endBroadcastDate": "2026-11-20T00:00:00"
+   },
+   "summary": "Purpose: \nThe Overhead Catenary System (OCS) field engineer/coordinator will join the Edmonton Valley Line West project and report directly to the OCS package manager. \nHe will be responsible for the OCS installation on the EVLW project including: \n• Mainline \n• Gerry Wright Operation & Maintenance Facilities (OMF) \n• Lewis Farm OMF \n\nKey responsibilities: \n• Ensure adherence to Project Safety policies. \n• Review and understand project schedule. \n• Serves as a liaison with project management reporting on inspections, subcontracting (if any), progress, and delays. \n• Participates in project meetings and facilitates regularly scheduled meetings related to execution and deliverables for the project. \n• Proactively identifies and works to resolve any site issues that may impede the project delivery. \n• Responsible for implementing and monitoring all OCS related works on site as per the defined scope of work. \n• Have a strong knowledge of the project agreement (PA), project specifications, approved drawings and control that all work are performed accordingly. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247346",
+   "score": 31,
+   "label": "Périphérique",
+   "first_seen": "2026-10-21T18:37:56+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 10,
+    "qual": 8,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "engineering"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "quality"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "engineer"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "rail"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
    "id": "245725",
    "title": "CQV Engineer (H/F)",
    "company": "CVO-EUROPE",
@@ -21215,7 +21795,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-21T12:18:30Z",
    "sector": "",
-   "specialization": "60",
+   "specialization": "[\"60\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22820,7 +23400,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-05T22:54:27Z",
    "sector": "",
-   "specialization": "35, 251, 327, 329, 330",
+   "specialization": "[\"35\",\"251\",\"327\",\"329\",\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26511,7 +27091,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T10:01:20Z",
    "sector": "",
-   "specialization": "161",
+   "specialization": "[\"161\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -28178,6 +28758,93 @@
      "terms": [],
      "points": -11,
      "cap": 30
+    }
+   ]
+  },
+  {
+   "id": "247338",
+   "title": "VIE Geothermal Research Scientist (H/F)",
+   "company": "SERVICES TECHNIQUES SCHLUMBERGER",
+   "country": "ROYAUME-UNI",
+   "city": "CAMBRIDGE",
+   "description": "nhanced Geothermal Systems (EGS) are a promising source of sustainable, low-carbon energy, but fluid losses during reservoir circulation remain a significant challenge. Data from circulation tests at the Utah FORGE and other projects provide a unique opportunity to investigate how geothermal reservoirs respond under different operating conditions.\nIn this role, you will combine real-world data with advanced reservoir simulation to improve understanding of water loss mechanisms in EGS reservoirs. Using industry-leading reservoir modelling software (SLB INTERSECT), you will history match circulation test data, evaluate model performance, and investigate how operational parameters influence fluid recovery and reservoir behaviour.\nThe project offers hands-on experience at the intersection of geothermal energy, subsurface engineering, data science, and numerical modelling. The outcomes will contribute directly to ongoing research aimed at improving future geothermal developments.\n\nThe VIE will be expected to:\n- Build, calibrate, and validate reservoir simulation models.\n- Compare observed field performance with simulation predictions and assess model accuracy.\n- Perform sensitivity studies to identify key controls on fluid losses\n- Deliver a final technical report and presentation summarizing methodology, findings, and recommendations.",
+   "mission": "",
+   "profile": "** Masters Degree or PhD in Petroleum Engineering, Geosciences, Engineering, Physics or Applied Mathematics\n\n** Excellent command of English required (verbal and written)\n\n** Required skills:\n- Strong interest in renewable energy, geothermal systems, or subsurface engineering.\n- Basic understanding of fluid flow, heat transfer, or reservoir processes.\n- Ability to work independently while effectively communicating technical results.\n- Strong analytical and problem-solving skills.\n- Enthusiasm for learning numerical simulation and reservoir modelling techniques.\n\nIt will be preferred (but not essential) if the candidate also has:\n- Experience with reservoir engineering, hydrogeology, petroleum engineering, or geothermal systems.\n- Familiarity with numerical simulation software (INTERSECT, Eclipse, CMG, TOUGH2, OpenGeoSys, COMSOL, or similar).\n- Programming experience in Python for data analysis and visualization.",
+   "duration": 24,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2029-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-21T13:08:30Z",
+   "sector": "",
+   "specialization": "[\"49\",\"52\",\"56\",\"68\",\"118\",\"157\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-21T13:08:30Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2029-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-21T00:00:00",
+    "endBroadcastDate": "2026-11-20T00:00:00"
+   },
+   "summary": "nhanced Geothermal Systems (EGS) are a promising source of sustainable, low-carbon energy, but fluid losses during reservoir circulation remain a significant challenge. Data from circulation tests at the Utah FORGE and other projects provide a unique opportunity to investigate how geothermal reservoirs respond under different operating conditions.\nIn this role, you will combine real-world data with advanced reservoir simulation to improve understanding of water loss mechanisms in EGS reservoirs. Using industry-leading reservoir modelling software (SLB INTERSECT), you will history match circulation test data, evaluate model performance, and investigate how operational parameters influence fluid recovery and reservoir behaviour.\nThe project offers hands-on experience at the intersection of geothermal energy, subsurface engineering, data science, and numerical modelling. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247338",
+   "score": 30,
+   "label": "Périphérique",
+   "first_seen": "2026-10-21T18:37:56+00:00",
+   "axis_scores": {
+    "rd": 9,
+    "prod": 10,
+    "qual": 0,
+    "calc": 36
+   },
+   "dominant_axis": "calc",
+   "matched_families": [
+    {
+     "id": "calc1",
+     "axis": "calc",
+     "source": "Éléments finis (256-1, 24 h), TP simulation numérique (272-1, 285-5, 285-4, 63 h), Calculs numériques de mise en forme (277-1, 286-1, 50 h)",
+     "weight": 12,
+     "terms": [
+      "modelling",
+      "numerical simulation"
+     ]
+    },
+    {
+     "id": "calc4",
+     "axis": "calc",
+     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
+     "weight": 4,
+     "terms": [
+      "data analysis",
+      "python"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "engineering"
+     ]
+    },
+    {
+     "id": "rd9",
+     "axis": "rd",
+     "source": "Vocabulaire de laboratoire courant",
+     "weight": 3,
+     "terms": [
+      "problem solving"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "energy"
+     ],
+     "points": 5
     }
    ]
   },
@@ -29930,84 +30597,6 @@
    ]
   },
   {
-   "id": "246022",
-   "title": "Business Performance Analyst (H/F)",
-   "company": "CRITEO TECHNOLOGY",
-   "country": "ESPAGNE",
-   "city": "BARCELONE",
-   "description": "As part of the Revenue and Market Analytics team within Revenue Operations, your mission will be to deliver robust and intuitive business insights that empower Criteo’s global leaders to shape commercial strategy and strengthen market positioning.\n\nYou will use a data-driven approach to analyse business performance and market trends, uncover actionable insights, and translate complex findings into clear narratives that inform decision-making. This role requires comfort working with large, complex datasets and the curiosity to explore data creatively.\n\nYour Mission\n\nProvide analytical insights on Criteo’s global performance, market dynamics, and competitive landscape \nIdentify growth opportunities and risks, and translate findings into actionable recommendations for C-level stakeholders \nLeverage internal and external data to assess the potential of clients and prospects across existing and new business opportunities \nAnalyze first-party and market data, consumer behavior and intent signals, and industry trends to contextualize Criteo’s performance",
-   "mission": "",
-   "profile": "What you will need to be successful\r\n\nExcellent communication skills and fluency in English \r\n2–3 years of experience in a similar analytics role; experience in AdTech is a plus \r\nBachelor’s degree or higher in a quantitative field such as Mathematics, Computer Science, Engineering, Economics, or Business \r\nHands-on experience with SQL for data extraction and manipulation, strong Python skills for data analysis, and experience with visualization tools such as Tableau and/or Power BI \r\nCuriosity and experience in using Generative AI solutions to enhance data exploration, automate insight generation, and craft compelling analytical narratives \r\nStrong intellectual curiosity and analytical mindset, with the ability to structure and solve complex problems and a solid understanding of statistical modeling \r\nStrong business acumen, a genuine interest in the AdTech industry, and the ability to act as a trusted advisor to commercial stakeholders \r\nStrong presentation skills, including PowerPoint proficiency, and the ability to translate data into clear business insights and actionable recommendations \r\nA proactive and autonomous mindset, with the ability to manage multiple projects, set milestones, coordinate with cross-functional teams, and drive initiatives forward",
-   "duration": 12,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-16T08:28:57Z",
-   "sector": "",
-   "specialization": "5",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-16T08:28:57Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-13T00:00:00",
-    "endBroadcastDate": "2026-11-12T00:00:00"
-   },
-   "summary": "As part of the Revenue and Market Analytics team within Revenue Operations, your mission will be to deliver robust and intuitive business insights that empower Criteo’s global leaders to shape commercial strategy and strengthen market positioning.\n\nYou will use a data-driven approach to analyse business performance and market trends, uncover actionable insights, and translate complex findings into clear narratives that inform decision-making. This role requires comfort working with large, complex datasets and the curiosity to explore data creatively.\n\nYour Mission\n\nProvide analytical insights on Criteo’s global performance, market dynamics, and competitive landscape \nIdentify growth opportunities and risks, and translate findings into actionable recommendations for C-level stakeholders \nLeverage internal and external data to assess the potential of clients and prospects across existing and new business opportunities \nAnalyze first-party and market data, consumer behavior and intent signals, and industry trends to contextualize Criteo’s performance",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246022",
-   "score": 29,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 10,
-    "qual": 27,
-    "calc": 36
-   },
-   "dominant_axis": "calc",
-   "matched_families": [
-    {
-     "id": "calc1",
-     "axis": "calc",
-     "source": "Éléments finis (256-1, 24 h), TP simulation numérique (272-1, 285-5, 285-4, 63 h), Calculs numériques de mise en forme (277-1, 286-1, 50 h)",
-     "weight": 12,
-     "terms": [
-      "modeling"
-     ]
-    },
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
-     "weight": 4,
-     "terms": [
-      "data analysis",
-      "python"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "engineering"
-     ]
-    },
-    {
-     "id": "qual3",
-     "axis": "qual",
-     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
-     "weight": 7,
-     "terms": [
-      "statistical"
-     ]
-    }
-   ],
-   "bonuses": []
-  },
-  {
    "id": "246525",
    "title": "Ingénieur en maintenance industrielle (H/F)",
    "company": "DIETSMANN TECHNOLOGIES",
@@ -30022,7 +30611,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-29T16:14:17Z",
    "sector": "",
-   "specialization": "107",
+   "specialization": "[\"107\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33791,8 +34380,8 @@
     "creationDate": "2026-10-19T13:06:41Z",
     "missionStartDate": "2027-01-01T00:00:00",
     "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-20T00:00:00",
-    "endBroadcastDate": "2026-11-19T00:00:00"
+    "startBroadcastDate": "2026-10-21T00:00:00",
+    "endBroadcastDate": "2026-11-20T00:00:00"
    },
    "summary": "Vous rejoindrez notre équipe au sein des locaux situés à Louvain (Leuven) en Belgique. \n\nVos missions seront les suivantes :\n• Accompagner les clients (banques, compagnies d’assurance, sociétés de gestion, hedge funds et fonds de private equity) dans l’utilisation de nos solutions technologiques, en recherchant avec eux la manière la plus efficace d’atteindre leurs objectifs.\n• Assurer une veille sur les nouvelles exigences réglementaires européennes qui concernent nos clients (reporting des risques, stress tests climatiques…) et accompagner nos développeurs dans leur mise en œuvre.\n• Organiser des formations et rédiger la documentation de nos applications à destination des clients.\n• Analyser les données avec un esprit critique, dans une logique de data science : détecter les incohérences, proposer des actions correctives et assurer leur suivi en interne.\n• Tester les nouveaux développements logiciels et formuler des propositions d’amélioration.\n• Vous rendre régulièrement chez certains clients à l’étranger. […]",
    "url": "https://mon-vie-via.businessfrance.fr/offres/247235",
@@ -34583,6 +35172,89 @@
    ]
   },
   {
+   "id": "247331",
+   "title": "Technical Security Engineer (H/F)",
+   "company": "TRANSDEV GROUP",
+   "country": "PAYS-BAS",
+   "city": "HILVERSUM",
+   "description": "To address increasing security demands and the requirements of NIS2, ISO and NEN certifications, Transdev is creating a Technical Security Engineer position for a 12-month V.I.E assignment within its IT Infrastructure department. Reporting to the IT Infrastructure Manager, you will help strengthen the cybersecurity posture of the company’s public transport activities.\nYour mission\nVulnerability Management & Incident Response\n• Improve Transdev’s cybersecurity posture by identifying, assessing and helping remediate security vulnerabilities\n• Investigate and respond to security incidents, alerts and tickets originating from security monitoring platforms and operational teams, analyzing suspicious system behaviour, network activity and security events to identify threats, perform threat hunting activities and recommend mitigation measures\nSecurity Tools, Governance & Compliance\n• Support the design, implementation, configuration and continuous improvement of cybersecurity tools, controls and operational processes\n• Contribute to security governance and compliance initiatives, including NIS2, ISO 27001, NEN and internal security standards",
+   "mission": "",
+   "profile": "Your profile\n• University or engineering school degree in Cyber Security, Information Security, Computer Science, Information Technology or a related technical field\n• Knowledge of vulnerability management, security incident response, SIEM and log analysis\n• Skills in Windows Server, Active Directory / Entra ID, networking (TCP/IP, DNS, firewalls) and PowerShell scripting\n• Familiarity with security tools such as CrowdStrike Falcon and Rapid7\n• Analytical and curious, with a passion for investigating and solving complex problems, and a pragmatic, solution-oriented attitude\n• Open, approachable and collaborative team player, able to work independently and take ownership\n• Strong communication and stakeholder engagement skills, eager to learn and continuously improve, comfortable in a dynamic operational environment\n• Interest in Secure Software Development and secure-by-design principles\n• English: C1 required; Dutch and/or German: A2 or higher preferred\n\nYour destination \nYou will join the IT Infrastructure department within the Security direction, supporting Transdev’s public transport activities, and report directly to the IT Infrastructure Manager. You will work alongside an experienced team that will support your development and help you build a strong, hands-on cybersecurity skill set.",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-21T11:59:31Z",
+   "sector": "",
+   "specialization": "[\"328\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-21T11:59:31Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-21T00:00:00",
+    "endBroadcastDate": "2026-11-20T00:00:00"
+   },
+   "summary": "To address increasing security demands and the requirements of NIS2, ISO and NEN certifications, Transdev is creating a Technical Security Engineer position for a 12-month V.I.E assignment within its IT Infrastructure department. Reporting to the IT Infrastructure Manager, you will help strengthen the cybersecurity posture of the company’s public transport activities.\nYour mission\nVulnerability Management & Incident Response\n• Improve Transdev’s cybersecurity posture by identifying, assessing and helping remediate security vulnerabilities\n• Investigate and respond to security incidents, alerts and tickets originating from security monitoring platforms and operational teams, analyzing suspicious system behaviour, network activity and security events to identify threats, perform threat hunting activities and recommend mitigation measures\nSecurity Tools, Governance & Compliance\n• Support the design, implementation, configuration and continuous improvement of cybersecurity tools, controls and operational processes […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247331",
+   "score": 27,
+   "label": "Périphérique",
+   "first_seen": "2026-10-21T18:37:56+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 10,
+    "qual": 8,
+    "calc": 9
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "calc4",
+     "axis": "calc",
+     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
+     "weight": 4,
+     "terms": [
+      "scripting"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "continuous improvement",
+      "engineering"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "compliance",
+      "standards"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "engineer"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
    "id": "247145",
    "title": "Bioprocess Engineer Junior (H/F)",
    "company": "UCB PHARMA",
@@ -34848,7 +35520,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-08T20:38:17Z",
    "sector": "",
-   "specialization": "330",
+   "specialization": "[\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
