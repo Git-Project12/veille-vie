@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-22T11:50:18+00:00",
+ "generated_at": "2026-10-22T18:32:28+00:00",
  "source": "Business France — mon-vie-via.businessfrance.fr",
- "total_scanned": 841,
- "total_announced": 841,
- "total_kept": 378,
+ "total_scanned": 850,
+ "total_announced": 850,
+ "total_kept": 381,
  "threshold": 25,
  "axes": {
   "rd": {
@@ -1612,7 +1612,7 @@
    "expiry_date": "",
    "publish_date": "2026-05-04T16:17:32Z",
    "sector": "",
-   "specialization": "66",
+   "specialization": "[\"66\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5204,7 +5204,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T07:31:41Z",
    "sector": "",
-   "specialization": "206",
+   "specialization": "[\"206\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5415,7 +5415,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-01T15:30:48Z",
    "sector": "",
-   "specialization": "63, 114",
+   "specialization": "[\"63\",\"114\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6053,15 +6053,15 @@
    "expiry_date": "",
    "publish_date": "2026-08-20T19:24:50Z",
    "sector": "",
-   "specialization": "64, 65, 66, 77, 107, 150, 153, 207",
+   "specialization": "[\"64\",\"65\",\"66\",\"77\",\"107\",\"150\",\"153\",\"207\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-08-20T19:24:50Z",
     "missionStartDate": "2027-04-01T00:00:00",
     "missionEndDate": "2028-10-01T00:00:00",
-    "startBroadcastDate": "2026-09-17T00:00:00",
-    "endBroadcastDate": "2026-12-16T00:00:00"
+    "startBroadcastDate": "2026-10-22T00:00:00",
+    "endBroadcastDate": "2027-01-20T00:00:00"
    },
    "summary": "Présentation de la société :\r\n\r\nPremier Packaging Products est spécialisée dans la conception et fabrication de croisillons en carton et de solutions d'emballage en carton alvéolaire. Premier Packaging est une filiale du groupe français Estic-Maillot, leader Européen dans le cartonnage. Premier Packaging a été fondé en 2008 et compte aujourd'hui une trentaine d'employés. \r\nLes solutions d'emballage commercialisées par Premier Packaging, entièrement fabriquées à base de papier et carton, sont respectueuses de l'environnement. \r\n\r\nPoste et missions :\r\n\r\n1. GESTION DE PRODUCTION :\r\n- Assiste à la gestion du planning de production,\r\n- Réalise et édite les bons / fiches de fabrication,\r\n- Assiste dans le calcul et l’analyse des coûts de revient et la mise en œuvre des actions d’amélioration.\r\n- Assiste dans la formation du personnel (cette tâche est à comprendre au sens le plus concret et pratique. Il s’agit d’une fonction très orientée « terrain »).\r\n\r\n2. […]",
    "url": "https://mon-vie-via.businessfrance.fr/offres/245336",
@@ -6446,95 +6446,6 @@
       "industriel",
       "mecanique",
       "nucleaire"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
-   "id": "246603",
-   "title": "Ingénieur chef de projet industriel (H/F)",
-   "company": "STELLAGROUP",
-   "country": "ALLEMAGNE",
-   "city": "BURTENBACH",
-   "description": "Partie prenante des équipes d'opérations industrielles, tu seras immergé(e) dans la gestion de projets industriels avec un maximum d'autonomie. Dans une démarche d'amélioration continue, tu seras amené à effectuer les tâches suivantes\n\n- Réaliser un plan de transfert industriel pour implanter une ligne de laquage poudre\n- Effectuer un diagnostic de la production des screen et intégration à moyen terme de la confection des toiles dans le processus d'industrialisation et de production.\n- Gérer un projet de A à Z sur tout type de problématiques liées à la productivité et aux enjeux industriels de nos sociétés : états des lieux, diagnostics, études de faisabilité, documentations, chiffrages de solutions, déploiement opérationnel du plan d'action retenu",
-   "mission": "",
-   "profile": "- Tu es étudiant(e) en école d’ingénieur généraliste, spécialité Génie Industriel, mécanique, électronique, ou équivalent universitaire, et tu recherches un stage de fin d'études\n- Tu as un niveau d'anglais professionnel (B2/C1 attendu)\n- Tu aimes la gestion de projets et tu as une véritable sensibilité pour les environnements industriels\n- Tu as déjà développé un certain esprit d’initiative\n- Tu as le sens des responsabilités\n- Tu es capable de travailler en autonomie",
-   "duration": 12,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-01T14:34:14Z",
-   "sector": "",
-   "specialization": "[\"149\"]",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-01T14:34:14Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-16T00:00:00",
-    "endBroadcastDate": "2026-10-31T00:00:00"
-   },
-   "summary": "Partie prenante des équipes d'opérations industrielles, tu seras immergé(e) dans la gestion de projets industriels avec un maximum d'autonomie. Dans une démarche d'amélioration continue, tu seras amené à effectuer les tâches suivantes\n\n- Réaliser un plan de transfert industriel pour implanter une ligne de laquage poudre\n- Effectuer un diagnostic de la production des screen et intégration à moyen terme de la confection des toiles dans le processus d'industrialisation et de production.\n- Gérer un projet de A à Z sur tout type de problématiques liées à la productivité et aux enjeux industriels de nos sociétés : états des lieux, diagnostics, études de faisabilité, documentations, chiffrages de solutions, déploiement opérationnel du plan d'action retenu",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246603",
-   "score": 58,
-   "label": "Bonne adéquation",
-   "first_seen": "2026-10-16T11:21:47+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 59,
-    "qual": 0,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
-     "weight": 10,
-     "terms": [
-      "industrialisation"
-     ]
-    },
-    {
-     "id": "prod5",
-     "axis": "prod",
-     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
-     "weight": 4,
-     "terms": [
-      "productivite"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "amelioration continue"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "industriel",
-      "mecanique"
      ],
      "points": 5
     },
@@ -7428,7 +7339,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-13T15:23:11Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10609,7 +10520,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T08:00:24Z",
    "sector": "",
-   "specialization": "114",
+   "specialization": "[\"114\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -11637,97 +11548,6 @@
    ]
   },
   {
-   "id": "246468",
-   "title": "Junior packaging developper the laughing cow (H/F)",
-   "company": "BEL",
-   "country": "ETATS-UNIS",
-   "city": "CHICAGO         -IL-",
-   "description": "Packaging Development: \r\n\r\nDevelop packaging from initial concept to production ensuring strategy is aligned with Bel’s guidelines and the Brand’s innovation strategy including material selection, packaging design & specification, pre industrial trials, physical analysis, production scale-up, packaging qualification to line start-up \r\nDefine and set-up a trial plan; process data and carry out trial reports; share conclusions and recommendations with project teams \r\nAbility to create mock-ups of packaging, relating to ideas or concepts \r\nLead identification and technical qualification of new packaging material and/or suppliers \r\n\r\nProject Management: \r\n\r\n“End to End\" project management: from ideation to production mastering while respecting the stage gate process and delivering the right quality level on time and in full with the best time to market \r\nExtensive cross-functional teamwork including marketing, purchasing, quality, engineering, finance, co-manufacturers, vendors and customers \r\nAbility to manage several projects simultaneously \r\nLeads risk assessments, planning/scheduling and task prioritization",
-   "mission": "",
-   "profile": "Packaging engineer, Process Engineering degree or a related field \nMinimum of 2 years’ experience in the packaging industry required; food industry preferred; \nAgile and resilient, with the ability to work effectively in an ambiguous environment alongside internal and external partners \nMust be analytical, detail-oriented with demonstrated ability to multi-task, make decisions and/or take actions to solve a problem or reach a goal \nDemonstrated ability to communicate effectively (oral and written) in English and in French \nPassion for packaging and innovation \nCSR oriented \nAppetite for project management \nProactive and solution-oriented \nAdaptable to various functions and styles, ranging from technical to marketing \nDynamic and enthusiastic \nImpeccable personal integrity and commitment to ongoing professional development \nEmbodies Bel’s core values of Dare, Commit and Care \nFluent in English and French",
-   "duration": 18,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-07-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-28T13:10:22Z",
-   "sector": "",
-   "specialization": "[\"262\"]",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-28T13:10:22Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-07-01T00:00:00",
-    "startBroadcastDate": "2026-09-28T00:00:00",
-    "endBroadcastDate": "2026-10-28T00:00:00"
-   },
-   "summary": "Packaging Development: \r\n\r\nDevelop packaging from initial concept to production ensuring strategy is aligned with Bel’s guidelines and the Brand’s innovation strategy including material selection, packaging design & specification, pre industrial trials, physical analysis, production scale-up, packaging qualification to line start-up \r\nDefine and set-up a trial plan; process data and carry out trial reports; share conclusions and recommendations with project teams \r\nAbility to create mock-ups of packaging, relating to ideas or concepts \r\nLead identification and technical qualification of new packaging material and/or suppliers \r\n\r\nProject Management: \r\n\r\n“End to End\" project management: from ideation to production mastering while respecting the stage gate process and delivering the right quality level on time and in full with the best time to market \r\nExtensive cross-functional teamwork including marketing, purchasing, quality, engineering, finance, co-manufacturers, vendors and customers \r\nAbility to manage several projects simultaneously […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246468",
-   "score": 43,
-   "label": "À examiner",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 26,
-    "prod": 45,
-    "qual": 8,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
-     "weight": 10,
-     "terms": [
-      "process engineering"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "engineering"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "qualification",
-      "quality"
-     ]
-    },
-    {
-     "id": "rd2",
-     "axis": "rd",
-     "source": "Propriétés mécaniques et physique des matériaux (262-1, 30 h), Critères de choix des matériaux (265-1, 15 h)",
-     "weight": 9,
-     "terms": [
-      "material selection"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "industrial"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "245007",
    "title": "Ingénieur Projet Nucléaire (H/F)",
    "company": "ENGINEERING & CONSULTING GROUP",
@@ -11928,7 +11748,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-02T09:00:25Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12014,7 +11834,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-13T12:55:07Z",
    "sector": "",
-   "specialization": "77, 209",
+   "specialization": "[\"77\",\"209\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -13115,7 +12935,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-10T12:08:07Z",
    "sector": "",
-   "specialization": "71",
+   "specialization": "[\"71\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -13443,6 +13263,95 @@
       "aeronautique",
       "chimie",
       "defense"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
+   "id": "247273",
+   "title": "Ingénieur des Mines (H/F)",
+   "company": "HERVE",
+   "country": "COTE D'IVOIRE",
+   "city": "ABIDJAN",
+   "description": "Contexte\r\nDans le cadre de notre développement international, nous recherchons un(e) Volontaire International en Entreprise (VIE) pour rejoindre notre équipe en Côte d’Ivoire, dans le secteur minier. Le/la candidat(e) participera activement à la gestion et à l’optimisation de l’extraction et de l’exploitation des ressources minières, en collaboration avec les équipes locales et le siège social.\r\n\r\nMissions principales\r\n- Suivi et optimisation des opérations minières : Participation à la planification, au suivi et à l’optimisation des activités d’extraction et d’exploitation.\r\n- Analyse technique : Contribution aux études géologiques, aux plans d’exploitation et à la gestion des ressources.\r\n- Optimisation de l’extraction et de l’exploitation : Proposition et mise en œuvre de solutions pour améliorer la productivité, la rentabilité et la durabilité des opérations\r\nminières.\r\n- Reporting : Rédaction de rapports techniques et de tableaux de bord pour le suivi des performances.\r\n- Collaboration : Travail en étroite collaboration avec les équipes locales, les sous-traitants et les partenaires institutionnels.\r\n\r\nPourquoi postuler?\r\n- Expérience internationale valorisante en Côte d’Ivoire.\r\n- Immersion dans un secteur porteur et dynamique.\r\n- Opportunité de développer un réseau professionnel à l’international.\r\n\r\nConditions du VIE\r\n- Durée : 12 mois (renouvelable selon les besoins).",
+   "mission": "",
+   "profile": "Profil recherché\r\n- Formation : Diplôme d’ingénieur en mécanique, maintenance industrielle, ou équivalent avec une spécialisation ou expérience en milieu minier.\r\n- Expérience : Une première expérience en maintenance ou gestion d’installations industrielles, idéalement dans le secteur minier (stage, alternance).\r\n- Homme/Femme de terrain : Goût prononcé pour le travail sur le terrain, capacité à évoluer dans des environnements parfois exigeants, résistance physique et psychologique, sens pratique et réactivité face aux imprévus.\r\n- Compétences techniques : Maîtrise des outils de diagnostic mécanique, connaissance des normes de sécurité et des méthodes de maintenance appliquées aux installations industrielles..",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-20T08:28:02Z",
+   "sector": "",
+   "specialization": "[\"56\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-20T08:28:02Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-22T00:00:00",
+    "endBroadcastDate": "2026-11-21T00:00:00"
+   },
+   "summary": "Contexte\r\nDans le cadre de notre développement international, nous recherchons un(e) Volontaire International en Entreprise (VIE) pour rejoindre notre équipe en Côte d’Ivoire, dans le secteur minier. Le/la candidat(e) participera activement à la gestion et à l’optimisation de l’extraction et de l’exploitation des ressources minières, en collaboration avec les équipes locales et le siège social.\r\n\r\nMissions principales\r\n- Suivi et optimisation des opérations minières : Participation à la planification, au suivi et à l’optimisation des activités d’extraction et d’exploitation.\r\n- Analyse technique : Contribution aux études géologiques, aux plans d’exploitation et à la gestion des ressources.\r\n- Optimisation de l’extraction et de l’exploitation : Proposition et mise en œuvre de solutions pour améliorer la productivité, la rentabilité et la durabilité des opérations\r\nminières.\r\n- Reporting : Rédaction de rapports techniques et de tableaux de bord pour le suivi des performances. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247273",
+   "score": 39,
+   "label": "À examiner",
+   "first_seen": "2026-10-22T18:32:10+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 24,
+    "qual": 8,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod5",
+     "axis": "prod",
+     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
+     "weight": 4,
+     "terms": [
+      "productivite"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "installations industrielles",
+      "methodes"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "normes"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "ingenieur"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "mecanique"
      ],
      "points": 5
     },
@@ -14561,7 +14470,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-09T14:58:34Z",
    "sector": "",
-   "specialization": "327",
+   "specialization": "[\"327\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -15092,6 +15001,112 @@
       "electrotechnique"
      ],
      "points": -9,
+     "cap": 35
+    }
+   ]
+  },
+  {
+   "id": "242126",
+   "title": "Digital Product Manager (H/F)",
+   "company": "CNH INDUSTRIAL FRANCE",
+   "country": "ITALIE",
+   "city": "TURIN",
+   "description": "CNH is a global leader in agricultural and construction equipment, recognized worldwide through its brands: Case IH, New Holland Agriculture, Steyr, Case Construction, and New Holland Construction. With a strong commitment to innovation, CNH is at the forefront of the digitalization and automation revolution — developing smart, connected solutions to feed, to build, to power, and to connect the world. This transformation journey is reshaping customer and dealer network experiences while redefining CNH's business model for the future. We are looking for a results-oriented product professional with a passion for building new aftermarket service models. If you thrive at the intersection of connected services, subscription monetization, and cross-functional delivery — and you are energized by turning complex service ecosystems into seamless, premium customer offerings — this role is for you. The Digital Product Manager – Premium Connected Service Contracts & Subscriptions is responsible for driving the development, integration, and monetization of CNH's premium connected service offerings, working in close collaboration with the Non-Connected Services team. The role focuses on building subscription-based service bundles that combine connected and non-connected capabilities into integrated aftermarket packages — while ensuring seamless alignment with the existing service systems and processes that underpin contract management, billing, and dealer activation.\n\nThis position operates at the intersection of product strategy, service innovation, and digital enablement. It leads the creation of new aftermarket offerings — including Inspection Services and premium connected service bundles — and drives the adoption of new monetization models and digital tools that support a B2C-ready subscription business. The role acts as a bridge between today's legacy service landscape and tomorrow's connected service portfolio, ensuring consistency, operational readiness, and cross-functional alignment.\nWorking in an agile environment, this product manager balances strategic roadmap ownership with hands-on delivery, governance of service system interactions, and continuous improvement of both new and existing service solutions. Inspection Services – New Aftermarket Offering\n\n• Lead the creation of Inspection Services as a structured global aftermarket offering, from product definition through go-to-market readiness.\n\n• Coordinate across regions, quality, IT, and business leads to design the product, define process flows, enable digital tooling, and ensure commercial launch readiness.\n\n• Serve as the primary product owner driving cross-regional discussions, decisions, and alignment throughout the development lifecycle.\n\nPremium Connected & Non-Connected Service Bundles\n\n• Build new premium service bundles, integrating connected and non-connected services into subscription-based packages for customers.\n\n• Ensure all systems, processes, and stakeholders — including Finance, Aftermarket, Connected Services teams, and regional representatives — are aligned for seamless service activation, renewals, and billing.\n\n• Oversee go-to-market readiness, internal communication, and field enablement for new bundle launches.\n\nNew Digital Capabilities & Subscription Model Innovation\n\n• Lead the investigation, evaluation, and integration strategy for new digital tools that enable B2C invoicing and expand CNH's subscription-based service business model.\n\n• Orchestrate collaboration across IT, Finance, Legal, regional teams, and Connected Services to assess feasibility and ensure integration with existing service systems.\n\n• Own progress tracking, issue resolution, and requirements alignment across all involved parties.\n\nReporting & Performance Tool Ownership\n\n• Maintain and improve global reporting tools for service contracts and quotations, ensuring stability, accuracy, and readiness for business management use.\n\n• Monitor system performance, coordinate bug fixes, and drive continuous enhancement of dashboards and KPIs.\n\n• Work closely with IT development teams and Services leadership to support data-driven decision-making across the service portfolio.\n\nDealer App Front-end Tool – Product Management\n\n• Act as product manager for all integrations related to service offering quoting within dealer-facing tools.\n\n• Align dealer tool capabilities with the service roadmap, ensuring correct representation of service products, pricing logic, and contract flows.\n\n• Coordinate technical teams and regional stakeholders for enhancements, updates, and deployment of new features.\n\nCross-functional & Regional Leadership\n\n• Serve as the central point of contact between Product, IT, regional teams, Marketing, Finance, dealers, and Services teams.\n\n• Lead alignment sessions, workshops, and decision-making forums to ensure the smooth rollout of new services across markets.\n\n• Support change management, communication plans, and training activities across all regions.",
+   "mission": "",
+   "profile": "Bachelor's degree in Engineering, Business, Computer Science, or a related field.\r\n\r\n• 3 years in digital product management, preferably in aftermarket services, service contracts, or SaaS environments.\r\n\r\n• Proven experience collaborating with agile development teams; solid backlog management and user story writing skills.\r\n\r\n• Demonstrated ability to translate complex business needs into clear digital requirements.\r\n\r\n• Experience managing cross-functional stakeholders across product, IT, finance, and regional teams.\r\n\r\n• Analytical mindset with experience in reporting tools and KPI tracking.\r\n\r\n• Excellent communication and facilitation skills in a global, multicultural environment.\r\n\r\n• Fluent in English; additional languages are a strong asset for multi-region rollouts.\r\nKnowledge of the agricultural or construction equipment aftermarket ecosystem.\r\n\r\n• Experience with subscription-based service models, B2C digital commerce, or connected service monetization.\r\n\r\n• Background in multi-market deployment programs or regional market rollouts.\r\n\r\n• Experience in product discovery methodologies, UX prototyping, or usability testing.\r\nNew service offering development and go-to-market execution.\r\n\r\n• Subscription model design and connected service monetization.\r\n\r\n• Cross-functional coordination across product, IT, finance, and regional teams.\r\n\r\n• Agile product management: backlog ownership, user story creation, sprint facilitation.\r\n\r\n• Dealer tool and service system integration management.\r\n\r\n• Reporting platform ownership and data-driven decision support.\r\n\r\n• Stakeholder influence and change management across global markets.\r\n\r\n• Customer-first and commercial mindset with strong problem-solving skills.",
+   "duration": 6,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2027-07-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-04-09T09:18:57Z",
+   "sector": "",
+   "specialization": "[\"130\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-04-09T09:18:57Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2027-07-01T00:00:00",
+    "startBroadcastDate": "2026-10-22T00:00:00",
+    "endBroadcastDate": "2026-11-21T00:00:00"
+   },
+   "summary": "CNH is a global leader in agricultural and construction equipment, recognized worldwide through its brands: Case IH, New Holland Agriculture, Steyr, Case Construction, and New Holland Construction. With a strong commitment to innovation, CNH is at the forefront of the digitalization and automation revolution — developing smart, connected solutions to feed, to build, to power, and to connect the world. This transformation journey is reshaping customer and dealer network experiences while redefining CNH's business model for the future. We are looking for a results-oriented product professional with a passion for building new aftermarket service models. If you thrive at the intersection of connected services, subscription monetization, and cross-functional delivery — and you are energized by turning complex service ecosystems into seamless, premium customer offerings — this role is for you. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/242126",
+   "score": 35,
+   "label": "À examiner",
+   "first_seen": "2026-10-22T18:32:10+00:00",
+   "axis_scores": {
+    "rd": 9,
+    "prod": 45,
+    "qual": 8,
+    "calc": 9
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "calc4",
+     "axis": "calc",
+     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
+     "weight": 4,
+     "terms": [
+      "automation"
+     ]
+    },
+    {
+     "id": "prod4",
+     "axis": "prod",
+     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
+     "weight": 10,
+     "terms": [
+      "tooling"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "continuous improvement",
+      "engineering"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "inspection",
+      "quality",
+      "testing"
+     ]
+    },
+    {
+     "id": "rd9",
+     "axis": "rd",
+     "source": "Vocabulaire de laboratoire courant",
+     "weight": 3,
+     "terms": [
+      "investigation",
+      "problem solving"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "industrial"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Intitulé de métier du numérique : score plafonné",
+     "terms": [
+      "digital"
+     ],
+     "points": -1,
      "cap": 35
     }
    ]
@@ -18289,6 +18304,112 @@
    ]
   },
   {
+   "id": "247391",
+   "title": "Construction Engineer / Project Manager High-Tech Industrial Buildings (H/F)",
+   "company": "SETEC ADVICE & SERVICES",
+   "country": "ITALIE",
+   "city": "AGRATE BRIANZA",
+   "description": "To support the development of our activities in Italy, we are looking for a Construction Engineer / Project Manager to join a major high-tech industrial construction programme in the Milan area, sicily or Malta.\nYou will work on a technically demanding project involving advanced industrial facilities, with challenges linked to microelectronics, data centres and artificial intelligence infrastructure.\nThis position offers the opportunity to take on a key role within the construction management team and contribute directly to the successful delivery of a complex international project.\n\nResponsibilities :\nWorking closely with the client, contractors and the wider project team, you will:\n• Proactively address construction-site issues in coordination with the client, contractors and engineering teams;\n• Identify potential technical, organizational and contractual challenges at an early stage;\n• Analyze and mitigate technical, schedule and interface-related risks;\n• Implement and monitor project processes to ensure quality, compliance and timely delivery;\n• Coordinate interfaces between the different project stakeholders, including planning, process engineering, design coordination and construction teams;\n• Contribute to the financial and administrative management of the project, including subcontractor approvals, quotation reviews, payment assessments and cost monitoring;\n• Prepare and review documentation relating to design changes, variations and additional works;\n• Monitor progress and escalate critical issues to the relevant decision-makers;\n• Support coordination meetings and provide clear reporting on project status, risks and priorities;\n• Depending on your experience, coordinate part of the site or project management team.",
+   "mission": "",
+   "profile": "• You hold a Master’s degree in civil engineering, building engineering, construction engineering or a related field;\n• You have at least one experience in construction, project management or works supervision, preferably on industrial, high-tech or technically complex building projects;\n• You have a strong understanding of construction processes, multidisciplinary interfaces, scheduling, quality management and project risk;\n• You are able to work autonomously in a demanding, fast-moving project environment;\n• You combine practical problem-solving skills with genuine technical curiosity;\n• You are proactive, adaptable and comfortable managing several stakeholders and priorities simultaneously;\n• You have strong interpersonal, listening and communication skills;\n• You are fluent in English and able to operate effectively in an international project environment;\n• Knowledge of Italian and previous experience in Italy would be an advantage",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-22T14:14:40Z",
+   "sector": "",
+   "specialization": "[\"70\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-22T14:14:40Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-22T00:00:00",
+    "endBroadcastDate": "2026-11-21T00:00:00"
+   },
+   "summary": "To support the development of our activities in Italy, we are looking for a Construction Engineer / Project Manager to join a major high-tech industrial construction programme in the Milan area, sicily or Malta.\nYou will work on a technically demanding project involving advanced industrial facilities, with challenges linked to microelectronics, data centres and artificial intelligence infrastructure.\nThis position offers the opportunity to take on a key role within the construction management team and contribute directly to the successful delivery of a complex international project.\n\nResponsibilities :\nWorking closely with the client, contractors and the wider project team, you will:\n• Proactively address construction-site issues in coordination with the client, contractors and engineering teams;\n• Identify potential technical, organizational and contractual challenges at an early stage;\n• Analyze and mitigate technical, schedule and interface-related risks;\n• Implement and monitor project processes to ensure quality, compliance and timely delivery; […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247391",
+   "score": 35,
+   "label": "À examiner",
+   "first_seen": "2026-10-22T18:32:10+00:00",
+   "axis_scores": {
+    "rd": 9,
+    "prod": 45,
+    "qual": 8,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod4",
+     "axis": "prod",
+     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
+     "weight": 10,
+     "terms": [
+      "process engineering"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "engineering"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "compliance",
+      "quality"
+     ]
+    },
+    {
+     "id": "rd9",
+     "axis": "rd",
+     "source": "Vocabulaire de laboratoire courant",
+     "weight": 3,
+     "terms": [
+      "problem solving"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "engineer"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "industrial"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    },
+    {
+     "label": "Formation exigée hors cursus : score plafonné",
+     "terms": [
+      "civil engineering"
+     ],
+     "points": -18,
+     "cap": 35
+    }
+   ]
+  },
+  {
    "id": "246960",
    "title": "Programmer Analyst (H/F)",
    "company": "SOCIETE GENERALE",
@@ -19446,7 +19567,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-22T13:27:06Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20015,7 +20136,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-07T08:56:58Z",
    "sector": "",
-   "specialization": "60",
+   "specialization": "[\"60\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21908,6 +22029,89 @@
    ]
   },
   {
+   "id": "247272",
+   "title": "INGENIEUR MECANIQUE EN CARRIERE (H/F)",
+   "company": "HERVE",
+   "country": "COTE D'IVOIRE",
+   "city": "ABIDJAN",
+   "description": "Présentation de l'entreprise:\r\nCaderac est la filiale ivoirienne du groupe de BTP Hervé, basé dans l'ouest de la France.\r\nProducteur local de granulats (sables, graves, graviers, enrochements), Caderac alimente les chantiers du bâtiment, des routes et des grands projets en Côte d’Ivoire.\r\nAvec trois carrières : Abidjan (PK44), Bouaké (route de Béoumi) et Aboisso (route d’Ayamé) et Laoundi Ba (Bondoukou Nord), nous sécurisons la qualité, la continuité d’approvisionnement et la proximité logistique, pour des coûts livrés maîtrisés et des délais tenus.\r\nPartenaire de confiance des plus grands projets de Côte d’Ivoire, Caderac s’impose comme un fournisseur de granulats de référence en Afrique de l’Ouest.\r\n\r\nContexte\r\nDans le cadre de notre développement international, nous recherchons un(e) Volontaire International en Entreprise (VIE) pour rejoindre notre équipe en Côte d’Ivoire, spécialisé(e) en mécanique appliquée au secteur minier. Le/la candidat(e) interviendra sur la maintenance, l’optimisation, le montage et le transfert des installations industrielles utilisées dans les opérations minières, en collaboration avec les équipes locales et le siège social.\r\n\r\nMissions principales\r\n- Suivi de transfert d’installations industrielles : Coordination des opérations de démontage, transport, remontage et remise en service des installations industrielles.\r\n- Maintenance et optimisation des équipements : Planification, suivi et amélioration des performances des machines et installations industrielles minières.\r\n- Diagnostic technique : Analyse des pannes, proposition de solutions correctives et préventives pour assurer la continuité des opérations.\r\n- Optimisation des processus : Proposition et mise en oeuvre de solutions pour améliorer la fiabilité, la sécurité et l’efficacité des installations industrielles.\r\n- Reporting : Rédaction de rapports techniques, de fiches de maintenance et de tableaux de bord pour le suivi des performances.\r\n\r\nPourquoi postuler?\r\n- Expérience internationale valorisante en Côte d’Ivoire, dans un secteur industriel porteur.\r\n- Immersion dans un environnement technique exigeant et dynamique.\r\n- Opportunité de développer un réseau professionnel à l’international et d’acquérir une expertise reconnue en mécanique industrielle appliquée aux mines.",
+   "mission": "",
+   "profile": "Profil recherché\r\n- Formation : Diplôme d’ingénieur en mécanique, maintenance industrielle, ou équivalent avec une spécialisation ou expérience en milieu minier.\r\n- Expérience : Une première expérience en maintenance ou gestion d’installations industrielles, idéalement dans le secteur minier (stage, alternance).\r\n- Homme/Femme de terrain : Goût prononcé pour le travail sur le terrain, capacité à évoluer dans des environnements parfois exigeants, résistance physique et psychologique, sens pratique et réactivité face aux imprévus.\r\n- Compétences techniques : Maîtrise des outils de diagnostic mécanique, connaissance des normes de sécurité et des méthodes de maintenance appliquées",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-20T08:09:32Z",
+   "sector": "",
+   "specialization": "[\"107\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-20T08:09:32Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-22T00:00:00",
+    "endBroadcastDate": "2026-11-21T00:00:00"
+   },
+   "summary": "Présentation de l'entreprise:\r\nCaderac est la filiale ivoirienne du groupe de BTP Hervé, basé dans l'ouest de la France.\r\nProducteur local de granulats (sables, graves, graviers, enrochements), Caderac alimente les chantiers du bâtiment, des routes et des grands projets en Côte d’Ivoire.\r\nAvec trois carrières : Abidjan (PK44), Bouaké (route de Béoumi) et Aboisso (route d’Ayamé) et Laoundi Ba (Bondoukou Nord), nous sécurisons la qualité, la continuité d’approvisionnement et la proximité logistique, pour des coûts livrés maîtrisés et des délais tenus.\r\nPartenaire de confiance des plus grands projets de Côte d’Ivoire, Caderac s’impose comme un fournisseur de granulats de référence en Afrique de l’Ouest.\r\n\r\nContexte\r\nDans le cadre de notre développement international, nous recherchons un(e) Volontaire International en Entreprise (VIE) pour rejoindre notre équipe en Côte d’Ivoire, spécialisé(e) en mécanique appliquée au secteur minier. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247272",
+   "score": 31,
+   "label": "Périphérique",
+   "first_seen": "2026-10-22T18:32:10+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 10,
+    "qual": 8,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "installations industrielles",
+      "methodes"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "normes",
+      "qualite"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "ingenieur",
+      "mecanique"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "industriel",
+      "mecanique"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
    "id": "245096",
    "title": "VIE Engineer | Railway & Energy Projects | Belgium (H/F)",
    "company": "IKOS CONSULTING",
@@ -23054,7 +23258,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-12T21:53:06Z",
    "sector": "",
-   "specialization": "35, 251, 330",
+   "specialization": "[\"35\",\"251\",\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32362,6 +32566,79 @@
    ]
   },
   {
+   "id": "247386",
+   "title": "Ingénieur(e) chargé(e) du contrôle de la production et logistique (H/F)",
+   "company": "FAURECIA SYSTEMES D'ECHAPPEMENT",
+   "country": "TCHEQUIE / REPUBLIQUE TCHEQUE",
+   "city": "MLADA BOLESLAV",
+   "description": "Assumer la responsabilité de la mise en œuvre des principes fondamentaux de la chaîne d’approvisionnement du BG/Groupe.\nMener des initiatives d’amélioration pour atteindre les objectifs de flexibilité des stocks. Mettre en œuvre des processus standardisés (notamment la définition d’indicateurs clés de performance, le développement d’outils, les formations et le respect des normes, ainsi que le suivi PDCA).\nPréparer et animer des ateliers dans les usines et les divisions en mettant fortement l’accent sur l’optimisation des coûts.\nAnalyser la performance des indicateurs clés de performance (KPI) PCL au sein de la RBU.\nDéployer les normes de la chaîne d’approvisionnement conformément aux exigences FES et PCL.\nOrganiser des ateliers dans les usines ou au niveau régional.",
+   "mission": "",
+   "profile": "Quelles sont les conditions requises pour nous rejoindre ?\n\nLa maîtrise de l'anglais est indispensable, car vous serez amené(e) à communiquer avec des personnes du monde entier.\nMaster ou diplôme d'ingénieur en gestion de la chaîne d'approvisionnement\nAu moins 2 à 3 ans d'expérience dans le domaine des achats (expérience dans le secteur automobile ou des biens d'équipement appréciée)\n\nQuel profil recherchons-nous ?\n\nEsprit d’innovation et capacité à formuler des propositions\nCapacité à animer des équipes de travail pluridisciplinaires\nOrientation client (interne et externe)\nConnaissances en électronique\nCompétences informatiques\nCapacités d’analyse\nCompétences en négociation\nSoif d’apprendre\nOuverture d’esprit, proactivité et autonomie\nCapacité à apporter un regard neuf sur l’organisation actuelle\nEsprit d’équipe et ouverture d’esprit internationale\nConnaissance des produits et des technologies\nMaîtrise des processus d’audit des fournisseurs et de la gestion de la qualité",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-22T13:06:14Z",
+   "sector": "",
+   "specialization": "[\"150\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-22T13:06:14Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-22T00:00:00",
+    "endBroadcastDate": "2026-11-21T00:00:00"
+   },
+   "summary": "Assumer la responsabilité de la mise en œuvre des principes fondamentaux de la chaîne d’approvisionnement du BG/Groupe.\nMener des initiatives d’amélioration pour atteindre les objectifs de flexibilité des stocks. Mettre en œuvre des processus standardisés (notamment la définition d’indicateurs clés de performance, le développement d’outils, les formations et le respect des normes, ainsi que le suivi PDCA).\nPréparer et animer des ateliers dans les usines et les divisions en mettant fortement l’accent sur l’optimisation des coûts.\nAnalyser la performance des indicateurs clés de performance (KPI) PCL au sein de la RBU.\nDéployer les normes de la chaîne d’approvisionnement conformément aux exigences FES et PCL.\nOrganiser des ateliers dans les usines ou au niveau régional.",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247386",
+   "score": 28,
+   "label": "Périphérique",
+   "first_seen": "2026-10-22T18:32:10+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 0,
+    "qual": 8,
+    "calc": 0
+   },
+   "dominant_axis": "qual",
+   "matched_families": [
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "audit",
+      "normes",
+      "qualite"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "ingenieur",
+      "production"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "automobile"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
    "id": "242224",
    "title": "Ingénieur HVAC/CVC (H/F)",
    "company": "FRATECH RP",
@@ -32827,7 +33104,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-07T10:47:34Z",
    "sector": "",
-   "specialization": "247",
+   "specialization": "[\"247\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34557,7 +34834,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-15T14:51:50Z",
    "sector": "",
-   "specialization": "251",
+   "specialization": "[\"251\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35922,7 +36199,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T09:15:57Z",
    "sector": "",
-   "specialization": "327",
+   "specialization": "[\"327\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35995,7 +36272,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-29T09:14:24Z",
    "sector": "",
-   "specialization": "246",
+   "specialization": "[\"246\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -36692,7 +36969,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-12T12:29:13Z",
    "sector": "",
-   "specialization": "7",
+   "specialization": "[\"7\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
