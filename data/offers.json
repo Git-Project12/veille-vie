@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-23T11:37:00+00:00",
+ "generated_at": "2026-10-23T18:20:25+00:00",
  "source": "Business France — mon-vie-via.businessfrance.fr",
- "total_scanned": 833,
- "total_announced": 833,
- "total_kept": 372,
+ "total_scanned": 849,
+ "total_announced": 849,
+ "total_kept": 377,
  "threshold": 25,
  "axes": {
   "rd": {
@@ -533,6 +533,166 @@
       "aeronautique",
       "defense",
       "industriel"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
+   "id": "247434",
+   "title": "Operations Support Engineer (H/F)",
+   "company": "HUTCHINSON",
+   "country": "ETATS-UNIS",
+   "city": "GRAND RAPIDS    -MI-",
+   "description": "Position Location: \r\nHutchinson ABS is seeking a VIE to fill the position, Operations Support Engineer This position reports to the Sr, Plant Manager. The position is located in Grand Rapids, Michigan, United States. \r\n\r\nPosition Description: \r\nThe Operations Support Engineer provides technical and analytical support across production, process improvement, and daily operational activities. This role bridges engineering and operations by troubleshooting issues, optimizing processes, supporting continuous improvement initiatives, and ensuring smooth plant performance. The Operations Support Engineer works closely with production teams, maintenance, quality, and engineering to drive efficiency, reduce downtime, and improve overall operational reliability.\r\n\r\nAbout Hutchinson:\r\nHutchinson is a Tier One manufacturer of automotive anti-vibration systems. We design and manufacture in three locations with Grand Rapids established as corporate headquarters and technology center. The Grand Rapids is the technology center for AVS. The corporate headquarters for AVS is a full-service design, test, and manufacture of anti-vibration components for automotive ICE engines, BEV, PHEV, and anti-vibration bracketry for mounting accessory items. Processes you will find here are Rubber Mixing, Rubber Injection, Plastic Injection and complex automated assembly.\r\n\r\nMission:\r\n • Support day to day plant operations by resolving process, equipment, and workflow issues.\r\n • Analyze production data to identify bottlenecks, waste, and improvement opportunities.\r\n • Lead or support continuous improvement (CI) projects using Lean, Six Sigma, or similar tools.\r\n • Assist in developing and optimizing standard operating procedures (SOPs) and work instructions.\r\n • Collaborate with engineering on process changes, equipment upgrades, and new product introductions.\r\n • Support root cause analysis and corrective actions for operational or quality issues.\r\n • Monitor key performance indicators (KPIs) and recommend actions to improve performance.\r\n • Provide technical support to production teams and help train operators on new processes or tools.",
+   "mission": "",
+   "profile": "Specialization / Specialization :\n • Background in Industrial Engineering, Mechanical Engineering, Manufacturing Engineering, or related field.\n • Strong interest in operations, process optimization, and continuous improvement.\n \nLevel of education : Bachelor’s or Master’s degree in Engineering, Quality, Industrial Engineering, or a related technical field\n \nTechnical skills : \n • Knowledge of Lean Manufacturing, Kaizen, 5S, Value Stream Mapping, or Six Sigma tools.\n • Understanding of manufacturing processes, equipment, and workflow optimization.\n • Ability to read and interpret technical drawings, process maps, and engineering documentation.\n • Experience with data analysis tools (Excel, Power BI, Minitab, or similar).\n • Familiarity with root cause analysis methods (5 Why, Fishbone, DMAIC).\n • Basic understanding of PLCs, automation, or industrial systems (optional but valuable).\n • Ability to create or update SOPs, work instructions, and process documentation.\n • Comfortable with ERP/MES systems for production tracking and reporting.\n\nSpoken languages ; English \n\nSoft skills :\n- Attention to Detail\n- Analytical Thinking\n- Problem‑Solving\n- Communication Skills\n- Collaboration & Teamwork\n- Organizational Skills\n- Adaptability\n- Proactive Mindset\n- Integrity & Objectivity\n- Training & Coaching Ability",
+   "duration": 18,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-07-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-23T14:17:00Z",
+   "sector": "",
+   "specialization": "[\"77\",\"169\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-23T14:17:00Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-07-01T00:00:00",
+    "startBroadcastDate": "2026-10-23T00:00:00",
+    "endBroadcastDate": "2026-11-22T00:00:00"
+   },
+   "summary": "Position Location: \r\nHutchinson ABS is seeking a VIE to fill the position, Operations Support Engineer This position reports to the Sr, Plant Manager. The position is located in Grand Rapids, Michigan, United States. \r\n\r\nPosition Description: \r\nThe Operations Support Engineer provides technical and analytical support across production, process improvement, and daily operational activities. This role bridges engineering and operations by troubleshooting issues, optimizing processes, supporting continuous improvement initiatives, and ensuring smooth plant performance. The Operations Support Engineer works closely with production teams, maintenance, quality, and engineering to drive efficiency, reduce downtime, and improve overall operational reliability.\r\n\r\nAbout Hutchinson:\r\nHutchinson is a Tier One manufacturer of automotive anti-vibration systems. We design and manufacture in three locations with Grand Rapids established as corporate headquarters and technology center. The Grand Rapids is the technology center for AVS. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247434",
+   "score": 95,
+   "label": "Cœur de cible",
+   "first_seen": "2026-10-23T18:20:08+00:00",
+   "axis_scores": {
+    "rd": 9,
+    "prod": 100,
+    "qual": 34,
+    "calc": 34
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "calc3",
+     "axis": "calc",
+     "source": "Résistance des matériaux 1 et 2 (263-1, 270-1, 60 h), Élastoplasticité (279-1, 45 h)",
+     "weight": 11,
+     "terms": [
+      "vibration"
+     ]
+    },
+    {
+     "id": "calc4",
+     "axis": "calc",
+     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
+     "weight": 4,
+     "terms": [
+      "automation",
+      "data analysis"
+     ]
+    },
+    {
+     "id": "prod4",
+     "axis": "prod",
+     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
+     "weight": 10,
+     "terms": [
+      "plant"
+     ]
+    },
+    {
+     "id": "prod2",
+     "axis": "prod",
+     "source": "Mise en forme par solidification (288-1, 20 h)",
+     "weight": 7,
+     "terms": [
+      "injection"
+     ]
+    },
+    {
+     "id": "prod3",
+     "axis": "prod",
+     "source": "Assemblage des matériaux (297-2, 30 h)",
+     "weight": 7,
+     "terms": [
+      "assembly"
+     ]
+    },
+    {
+     "id": "prod5",
+     "axis": "prod",
+     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
+     "weight": 4,
+     "terms": [
+      "5s",
+      "kaizen",
+      "lean",
+      "process optimization"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "continuous improvement",
+      "engineering",
+      "manufacturing"
+     ]
+    },
+    {
+     "id": "qual3",
+     "axis": "qual",
+     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
+     "weight": 7,
+     "terms": [
+      "six sigma"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "quality",
+      "root cause"
+     ]
+    },
+    {
+     "id": "rd9",
+     "axis": "rd",
+     "source": "Vocabulaire de laboratoire courant",
+     "weight": 3,
+     "terms": [
+      "problem solving"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "engineer"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "automotive",
+      "industrial",
+      "mechanical"
      ],
      "points": 5
     },
@@ -1612,7 +1772,7 @@
    "expiry_date": "",
    "publish_date": "2026-05-04T16:17:32Z",
    "sector": "",
-   "specialization": "66",
+   "specialization": "[\"66\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -4151,6 +4311,110 @@
    ]
   },
   {
+   "id": "245770",
+   "title": "Research Associate (H/F)",
+   "company": "BAXTER S.A.S",
+   "country": "BELGIQUE",
+   "city": "BRUXELLES",
+   "description": "Our characterization analytical team within the Nutrition department is looking for a new VIE to work in the laboratory for R&D projects and investigations on Baxter products. \nThe VIE will support product development or product sustainability activities through the operation of multiple measurements and process tools complying with quality and regulatory specifications or requirements. \n \nHe/She will also support a variety of projects by performing laboratory activities described in protocols/requests/studies led by study directors.\nDetails of the mission: \n\nThis position will act as Research Associate within the Analytical Department with the following missions: \n• structure elucidation of unknown material, compound, and particle using state-of-the-art microscopy techniques, FTIR, EDX \n• analytical method development in GC-MS/MS, LC-MS/MS, LC-HRMS, \n• technical investigation, \n• participation to Stability testing programs and/or routine analyses for new or support of existing products within internal Baxter laboratories and with Baxter external partners\n\nRole and responsibilities:\nParticle Identification and Material Characterization\n• Conduct investigations of particles, fibers, polymeric materials, and other potential contaminants.\n• Utilize structural and physicochemical characterization techniques such as optical microscopy, FTIR, Raman spectroscopy, SEM/EDX, or equivalent techniques.\n• Interpret analytical data to determine the likely origin and nature of unknown particles.\n• Prepare technical reports and communicate findings to project, quality, and cross-functional teams.\n\nLC-MS and GC-MS Method Development and Application\n• Develop, optimize, and execute analytical methods using liquid chromatography-mass spectrometry (LC-MS) and gas chromatography-mass spectrometry (GC-MS).\n• Support structural elucidation and identification of extractables and leachables (E&L), degradation products, and unknown compounds.\n• Perform routine analyses as well as complex investigations requiring interpretation of mass spectral data.\n• Contribute to instrument maintenance, troubleshooting, and qualification activities.\nAnalytical Method Validation\n• Participate in the planning and execution of analytical method validation studies.\n• Assess method performance characteristics including specificity, accuracy, precision, linearity, robustness, solution stability, and range.\n• Previous experience with analytical method validation is considered an advantage but is not mandatory.\nStability Testing\n• Prepare and analyze samples generated from stability study programs.\n• Review and interpret analytical results.\n• Support investigations related to atypical, out-of-trend, or unexpected stability results.",
+   "mission": "",
+   "profile": "List the skills required below:\n• Practical experience working in an analytical laboratory environment.\n• Strong interest in scientific investigations and problem-solving.\n• Ability and motivation to identify and characterize unknown particles, fibers, plastics, and other materials.\n• Fundamental knowledge of chromatography and mass spectrometry techniques.\nPreferred\n• Experience with LC-MS and/or GC-MS instrumentation.\n• Experience in analytical method development.\n• Knowledge of pharmaceutical laboratory practices and relevant quality standards (GMP/GLP).\n• Experience with FTIR, Raman microscopy, SEM-EDS, optical microscopy, or related characterization techniques.\n• Familiarity with analytical method validation principles.\n\nPersonal Attributes\n• Strong scientific curiosity and investigative mindset.\n• Excellent analytical and problem-solving skills.\n• Rigorous attention to detail and commitment to data quality.\n• Ability to work both independently and collaboratively within multidisciplinary teams.\n• Versatile and adaptable, with the willingness to contribute across a broad spectrum of laboratory activities.\n• Strong written and verbal communication skills.\n• Eagerness to learn and continuously expand technical expertise.",
+   "duration": 24,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2029-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-09-10T09:56:17Z",
+   "sector": "",
+   "specialization": "[\"49\",\"63\",\"86\",\"125\",\"207\",\"208\",\"256\",\"366\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-09-10T09:56:17Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2029-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-23T00:00:00",
+    "endBroadcastDate": "2026-11-22T00:00:00"
+   },
+   "summary": "Our characterization analytical team within the Nutrition department is looking for a new VIE to work in the laboratory for R&D projects and investigations on Baxter products. \nThe VIE will support product development or product sustainability activities through the operation of multiple measurements and process tools complying with quality and regulatory specifications or requirements. \n \nHe/She will also support a variety of projects by performing laboratory activities described in protocols/requests/studies led by study directors.\nDetails of the mission: \n\nThis position will act as Research Associate within the Analytical Department with the following missions: \n• structure elucidation of unknown material, compound, and particle using state-of-the-art microscopy techniques, FTIR, EDX \n• analytical method development in GC-MS/MS, LC-MS/MS, LC-HRMS, \n• technical investigation, \n• participation to Stability testing programs and/or routine analyses for new or support of existing products within internal Baxter laboratories and with Baxter external partners\n\nRole and responsibilities: […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/245770",
+   "score": 63,
+   "label": "Bonne adéquation",
+   "first_seen": "2026-10-23T18:20:08+00:00",
+   "axis_scores": {
+    "rd": 100,
+    "prod": 10,
+    "qual": 8,
+    "calc": 0
+   },
+   "dominant_axis": "rd",
+   "matched_families": [
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "product development"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "qualification",
+      "quality",
+      "standards",
+      "testing"
+     ]
+    },
+    {
+     "id": "rd2",
+     "axis": "rd",
+     "source": "Propriétés mécaniques et physique des matériaux (262-1, 30 h), Critères de choix des matériaux (265-1, 15 h)",
+     "weight": 9,
+     "terms": [
+      "characterization"
+     ]
+    },
+    {
+     "id": "rd3",
+     "axis": "rd",
+     "source": "Dégradation des matériaux (300-2, 55 h), Traitements de surface (306-2, 20 h)",
+     "weight": 12,
+     "terms": [
+      "degradation"
+     ]
+    },
+    {
+     "id": "rd8",
+     "axis": "rd",
+     "source": "Alternance : investigation & problem solving, analyse microstructurale",
+     "weight": 11,
+     "terms": [
+      "eds",
+      "edx",
+      "microscopy",
+      "sem"
+     ]
+    },
+    {
+     "id": "rd9",
+     "axis": "rd",
+     "source": "Vocabulaire de laboratoire courant",
+     "weight": 3,
+     "terms": [
+      "investigation",
+      "laboratory",
+      "problem solving",
+      "r&d"
+     ]
+    }
+   ],
+   "bonuses": []
+  },
+  {
    "id": "247126",
    "title": "Ingénieur Méthodes & Énergie (H/F)",
    "company": "COMPAGNIE DE SAINT-GOBAIN",
@@ -4940,7 +5204,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T07:31:41Z",
    "sector": "",
-   "specialization": "206",
+   "specialization": "[\"206\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6508,6 +6772,112 @@
      "terms": [
       "industrial",
       "mechanical"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
+   "id": "247318",
+   "title": "Ingénieur mécanique (H/F)",
+   "company": "MOONGY",
+   "country": "BELGIQUE",
+   "city": "LIEGE",
+   "description": "agap2 est une société européenne de conseil en ingénierie, active dans divers secteurs industriels tels que les grands projets d’infrastructure, les industries de procédés (sciences de la vie, agroalimentaire, chimie), l’énergie et les transports. Présente dans 13 pays européens et implantée en Belgique depuis 2013, agap2 collabore avec des partenaires dans tout le pays.\r\n\r\nGarantir la conception, l’amélioration continue et la validation des ensembles et systèmes mécaniques.\r\n- Assurer le bon déroulement des projets techniques, de la phase de conception jusqu’à l’industrialisation.\r\n- Apporter un support technique efficace aux équipes internes, aux fournisseurs et aux clients tout au long du cycle de vie du projet.\r\n- Optimiser les performances, la fiabilité et la robustesse des solutions mécaniques dans une logique de coût, qualité et délais.\r\n- Contribuer à la qualité et à la conformité des livrables techniques et documentaires (plans, nomenclatures, notes de calcul, procédures).\r\n- Collaborer étroitement avec les équipes pluridisciplinaires (électrique, automatisme, process, qualité, production, achats).\r\n- Concevoir, développer et optimiser des sous-ensembles mécaniques, de l’avant-projet à la validation finale.\r\n- Évaluer les performances des solutions, réaliser des essais, analyser les résultats et proposer des actions d’amélioration.\r\n- Réaliser, tester, documenter et maintenir les systèmes mécaniques et les processus associés.\r\n- Garantir le respect des normes, des exigences réglementaires et des règles de sécurité machine.\r\n- Participer à l’analyse des risques techniques et à la résolution de problématiques complexes.",
+   "mission": "",
+   "profile": "- Vous êtes titulaire d’un master en ingénierie mécanique, électromécanique ou dans un domaine technique similaire.\r\n- Vous disposez d’une première expérience en conception mécanique, idéalement acquise dans le secteur de la défense.\r\n- Vous maîtrisez le logiciel de CAO Creo et êtes capable de l’utiliser pour réaliser et modifier des modèles et des plans mécaniques.\r\n- Vous êtes autonome, adaptable et proactif, avec une réelle envie d’apprendre et de relever de nouveaux défis techniques.\r\n- Vous faites preuve de rigueur et assurez une communication claire ainsi qu’une collaboration efficace avec les différentes parties prenantes.\r\n- Vous maîtrisez le français et l’anglais, à l’oral comme à l’écrit.\r\n\r\nPourquoi nous rejoindre ?\r\n\r\nUn accompagnement de proximité: vous bénéficiez d’un double suivi, à la fois RH et opérationnel, assuré par votre interlocuteur RH et votre Business Manager.\r\nUne formation continue personnalisée : des formations adaptées à vos besoins et à vos objectifs de développement.\r\nUn véritable catalyseur de carrière : de nombreuses opportunités pour développer vos compétences et faire évoluer votre parcours professionnel.\r\nUne culture d’entreprise forte : avant d’être consultant, vous faites avant tout partie de la communauté agap2. Nous organisons régulièrement des moments de convivialité pour favoriser les échanges, renforcer les liens et partager des expériences ensemble.",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-21T07:02:12Z",
+   "sector": "",
+   "specialization": "[\"77\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-21T07:02:12Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-23T00:00:00",
+    "endBroadcastDate": "2026-11-22T00:00:00"
+   },
+   "summary": "agap2 est une société européenne de conseil en ingénierie, active dans divers secteurs industriels tels que les grands projets d’infrastructure, les industries de procédés (sciences de la vie, agroalimentaire, chimie), l’énergie et les transports. Présente dans 13 pays européens et implantée en Belgique depuis 2013, agap2 collabore avec des partenaires dans tout le pays.\r\n\r\nGarantir la conception, l’amélioration continue et la validation des ensembles et systèmes mécaniques.\r\n- Assurer le bon déroulement des projets techniques, de la phase de conception jusqu’à l’industrialisation.\r\n- Apporter un support technique efficace aux équipes internes, aux fournisseurs et aux clients tout au long du cycle de vie du projet.\r\n- Optimiser les performances, la fiabilité et la robustesse des solutions mécaniques dans une logique de coût, qualité et délais.\r\n- Contribuer à la qualité et à la conformité des livrables techniques et documentaires (plans, nomenclatures, notes de calcul, procédures). […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247318",
+   "score": 56,
+   "label": "Bonne adéquation",
+   "first_seen": "2026-10-23T18:20:08+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 45,
+    "qual": 8,
+    "calc": 20
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "calc2",
+     "axis": "calc",
+     "source": "CAO (278-1, 30 h), Conception mécanique (264-1, 43 h)",
+     "weight": 9,
+     "terms": [
+      "cao",
+      "conception mecanique",
+      "creo"
+     ]
+    },
+    {
+     "id": "prod4",
+     "axis": "prod",
+     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
+     "weight": 10,
+     "terms": [
+      "industrialisation"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "amelioration continue",
+      "ingenierie"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "conformite",
+      "essais",
+      "normes",
+      "qualite"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "ingenieur",
+      "mecanique"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "chimie",
+      "defense",
+      "energie"
      ],
      "points": 5
     },
@@ -8679,7 +9049,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-23T07:15:58Z",
    "sector": "",
-   "specialization": "66",
+   "specialization": "[\"66\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -11464,7 +11834,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-01T16:15:18Z",
    "sector": "",
-   "specialization": "149",
+   "specialization": "[\"149\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12888,7 +13258,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-20T07:21:11Z",
    "sector": "",
-   "specialization": "149",
+   "specialization": "[\"149\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -14637,7 +15007,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-08T11:09:48Z",
    "sector": "",
-   "specialization": "149, 330, 355",
+   "specialization": "[\"149\",\"330\",\"355\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19989,7 +20359,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-21T07:17:18Z",
    "sector": "",
-   "specialization": "71",
+   "specialization": "[\"71\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20339,7 +20709,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T09:12:56Z",
    "sector": "",
-   "specialization": "259",
+   "specialization": "[\"259\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21004,7 +21374,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-13T13:34:30Z",
    "sector": "",
-   "specialization": "65, 77, 149, 207, 244",
+   "specialization": "[\"65\",\"77\",\"149\",\"207\",\"244\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21244,7 +21614,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-21T12:18:30Z",
    "sector": "",
-   "specialization": "60",
+   "specialization": "[\"60\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26506,20 +26876,20 @@
    "mission": "",
    "profile": "Vos qualifications et votre parcours professionnel :\n\n• Diplômes requis : diplôme d’ingénieur \nVotre intérêt pour les projets complexes, internationaux en lien avec l’énergie jouera un rôle important dans votre succès à ce poste. \n\n• Qualités requises : \no Excellentes aptitudes au travail en équipe sont indispensables. \no Vous devez être une personne qui apporte beaucoup d'énergie au groupe et qui possède une capacité naturelle à entrer en contact et à interagir avec les gens et qui est enthousiaste à l’idée de travailler sur des sites et de voyager à l’échelle mondiale. \no Vous devez être une personne curieuse et motivée.\n\n• Anglais : courant (obligatoire) \n• Italien : courant (obligatoire) \n• Français : courant (obligatoire) \n\n• Le VIE est un tremplin vers l’emploi au sein d’Hitachi Energy. Le marché de la Transmission d’Energie connait une croissance telle que nous recrutons continuellement des profils très variés d’Ingénieurs de Projets Techniques, Ingénieurs de construction, Ingénieur de mise en service, Ingénieurs pilotes d’interfaces projets, Chefs de Projet…",
    "duration": 12,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2027-12-01T00:00:00",
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
    "expiry_date": "",
    "publish_date": "2026-10-08T13:35:27Z",
    "sector": "",
-   "specialization": "65, 66, 68, 71, 153",
+   "specialization": "[\"65\",\"66\",\"68\",\"71\",\"153\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-10-08T13:35:27Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-10-09T00:00:00",
-    "endBroadcastDate": "2026-11-08T00:00:00"
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-23T00:00:00",
+    "endBroadcastDate": "2026-11-22T00:00:00"
    },
    "summary": "Poste et missions:\n\nNous sommes convaincus que la technologie HVDC (ou CCHT : courant continu à haute tension), qui permet de transférer de l'énergie à l'aide de courant continu à haute tension, est une solution durable à long terme. Cette technologie est utilisée pour le transport d'énergie sur de longues distances et pour connecter les réseaux électriques avec des pertes minimales. Outre le transfert d'énergie, la technologie HVDC atténue également les problèmes de qualité de l'électricité et peut contribuer à la stabilisation des réseaux électriques connectés. Pour l'énergie éolienne offshore ou les transmissions sous marines sur de longues distances, le courant continu est la seule alternative réaliste pour le transport de l'énergie. \n\nLes Ingénieurs Qualité sont un maillon essentiel de l’organisation du site. Ils viennent en support de l’équipe construction et du responsable de chantier. \nL’ingénieur qualité est en interface avec l’ensemble des disciplines sur le chantier. Il s’assure de la correcte définition et implémentation du système qualité durant l’exécution du chantier. […]",
    "url": "https://mon-vie-via.businessfrance.fr/offres/246853",
@@ -26598,7 +26968,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-29T08:17:18Z",
    "sector": "",
-   "specialization": "209",
+   "specialization": "[\"209\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -28087,7 +28457,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-21T13:27:37Z",
    "sector": "",
-   "specialization": "73",
+   "specialization": "[\"73\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -28194,7 +28564,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-13T10:05:29Z",
    "sector": "",
-   "specialization": "155",
+   "specialization": "[\"155\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29020,6 +29390,97 @@
      "label": "Aucun terme industriel : score plafonné",
      "terms": [],
      "points": -2,
+     "cap": 30
+    }
+   ]
+  },
+  {
+   "id": "247425",
+   "title": "Scientist: Biochemistry and Biophysics (H/F)",
+   "company": "UCB PHARMA",
+   "country": "BELGIQUE",
+   "city": "BRAINE L ALLEUD",
+   "description": "UCB cherchant à développer son pôle biopharmaceutique en Belgique a besoin de ressources humaines aux compétences spécifiques afin de gérer depuis ce pôle la production de ses produits actifs dans le traitement des maladies auto-immunes. UCB France cherche dès lors à renforcer les compétences locales par des ressources en VIE, dans un but de maîtrise et d'optimisation de la compétitivité de ses productions, distribuées à l'échelle mondiale.\n\nPoste et missions:\n- Contribuer à la découverte et à la caractérisation de nouvelles approches thérapeutiques pour les maladies neurologiques.\n- Développer et mettre en œuvre des essais biochimiques, biophysiques, cellulaires et de spectrométrie de masse.\n- Identifier et caractériser des modulateurs de cibles thérapeutiques issus de petites molécules et peptides macrocycliques.\n- Participer à des projets de découverte préclinique de médicaments en épilepsie et maladies neurodégénératives.\n- Réaliser la caractérisation de composés et des études de mécanisme d’action (MoA).\n- Analyser, interpréter et présenter les données expérimentales.\n- Évaluer l’activité des composés dans des systèmes cellulaires.\n- Développer une expertise en neurosciences, biochimie des protéines, spectrométrie de masse et drug discovery.\n\nLe candidat réalisera les tâches suivantes :\n- Réaliser des expériences de laboratoire dans le domaine des sciences des protéines et de la biochimie des protéines.\n- Réaliser des études par spectrométrie de masse.\n- Réaliser des expériences de culture cellulaire.\n- Effectuer l’analyse des données et le contrôle de leur qualité.\n- Analyser, interpréter et évaluer de manière critique les résultats expérimentaux.\n- Préparer des rapports et des présentations PowerPoint clairs et concis.\n- Présenter et discuter les résultats scientifiques en anglais.",
+   "mission": "",
+   "profile": "Votre profil\nLes qualifications suivantes sont requises :\n- Diplôme de Master, Doctorat (PhD) ou diplôme d’ingénieur, avec au moins deux ans d’expérience en laboratoire dans le domaine de la biochimie des protéines et/ou des sciences bioanalytiques.\n- Solides connaissances des techniques bioanalytiques.\n- Bonne compréhension des principes et des applications de la spectrométrie de masse.\n- Capacité à analyser, interpréter et évaluer de manière critique les résultats expérimentaux.\n- Bonne maîtrise des outils informatiques et de Microsoft Office (Word, Excel, PowerPoint), ainsi que des logiciels scientifiques.\n- Maîtrise de l’anglais de niveau B2 minimum.\n- Esprit d’équipe, proactivité et attitude positive.\n\nLes qualifications suivantes sont souhaitées :\n- Connaissances en neurosciences.\n- Expérience pratique en spectrométrie de masse et en protéomique shotgun.\n- Capacité à communiquer et à présenter des informations scientifiques complexes de manière claire et concise.\n- Capacité et volonté d’apprendre de nouvelles techniques en fonction des besoins du projet.\n- Solides compétences en matière d’organisation et de résolution de problèmes.\n- Flexibilité et capacité à travailler de manière autonome.",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-23T11:46:14Z",
+   "sector": "",
+   "specialization": "[\"49\",\"86\",\"123\",\"256\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-23T11:46:14Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-23T00:00:00",
+    "endBroadcastDate": "2026-11-22T00:00:00"
+   },
+   "summary": "UCB cherchant à développer son pôle biopharmaceutique en Belgique a besoin de ressources humaines aux compétences spécifiques afin de gérer depuis ce pôle la production de ses produits actifs dans le traitement des maladies auto-immunes. UCB France cherche dès lors à renforcer les compétences locales par des ressources en VIE, dans un but de maîtrise et d'optimisation de la compétitivité de ses productions, distribuées à l'échelle mondiale.\n\nPoste et missions:\n- Contribuer à la découverte et à la caractérisation de nouvelles approches thérapeutiques pour les maladies neurologiques.\n- Développer et mettre en œuvre des essais biochimiques, biophysiques, cellulaires et de spectrométrie de masse.\n- Identifier et caractériser des modulateurs de cibles thérapeutiques issus de petites molécules et peptides macrocycliques.\n- Participer à des projets de découverte préclinique de médicaments en épilepsie et maladies neurodégénératives.\n- Réaliser la caractérisation de composés et des études de mécanisme d’action (MoA).\n- Analyser, interpréter et présenter les données expérimentales. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247425",
+   "score": 30,
+   "label": "Périphérique",
+   "first_seen": "2026-10-23T18:20:08+00:00",
+   "axis_scores": {
+    "rd": 66,
+    "prod": 0,
+    "qual": 8,
+    "calc": 0
+   },
+   "dominant_axis": "rd",
+   "matched_families": [
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "essais",
+      "qualite"
+     ]
+    },
+    {
+     "id": "rd2",
+     "axis": "rd",
+     "source": "Propriétés mécaniques et physique des matériaux (262-1, 30 h), Critères de choix des matériaux (265-1, 15 h)",
+     "weight": 9,
+     "terms": [
+      "caracterisation"
+     ]
+    },
+    {
+     "id": "rd8",
+     "axis": "rd",
+     "source": "Alternance : investigation & problem solving, analyse microstructurale",
+     "weight": 11,
+     "terms": [
+      "spectrometrie"
+     ]
+    },
+    {
+     "id": "rd9",
+     "axis": "rd",
+     "source": "Vocabulaire de laboratoire courant",
+     "weight": 3,
+     "terms": [
+      "laboratoire",
+      "resolution de problemes"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    },
+    {
+     "label": "Aucun terme industriel : score plafonné",
+     "terms": [],
+     "points": -16,
      "cap": 30
     }
    ]
@@ -30016,7 +30477,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-23T07:37:46Z",
    "sector": "",
-   "specialization": "318",
+   "specialization": "[\"318\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30512,6 +30973,80 @@
      "terms": [
       "aeronautique",
       "ferroviaire",
+      "industriel"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
+   "id": "247433",
+   "title": "Application & Bid Engineer (H/F)",
+   "company": "SAFT",
+   "country": "JAPON",
+   "city": "TOKYO",
+   "description": "L'Ingénieur Bid & Application Energy Storage Systems (ESS) participe au développement des offres techniques et commerciales pour des projets de stockage d’énergie par batteries à l’échelle industrielle (utility-scale) et commerciale au Japon.\r\n\r\nMissions principales :\r\nSous la supervision du Bid & Application Manager, le VIE participera à :\r\n\r\n- L'analyse des besoins clients et des cahiers des charges.\r\n- La préparation des offres techniques et commerciales pour des projets de stockage d'énergie au Japon.\r\n- La coordination des contributions des équipes internes (Ventes, Ingénierie, Achats, Finance, Opérations).\r\n- Le suivi des consultations fournisseurs et partenaires.\r\n- La préparation des analyses de risques techniques et commerciaux.\r\n- Le support aux échanges techniques avec les clients pendant les phases d'appel d'offres.\r\n- L'amélioration continue des outils, méthodes et bonnes pratiques de réponse aux appels d'offres.",
+   "mission": "",
+   "profile": "Formation et expérience : \nDiplôme d'Ingénieur ou Master (Bac+5) en Energie, Génie Electrique, Génie Industriel ou domaine technique connexe.\nPremière expérience (stage, alternance ou 1 à 3 ans d'expérience) dans les secteurs de l'énergie, des systèmes électriques, des infrastructures, des projets industriels ou des énergies renouvelables.\nUne expérience dans la préparation d'offres techniques, la gestion de projets ou l'ingénierie d'application serait un atout.\nUne connaissance du stockage d'énergie par batteries (BESS) \n\nLangues:\nAnglais professionnel courant (écrit et oral).\nLa maîtrise du japonais est obligatoire pour ce poste.\nCapacité à évoluer dans un environnement multiculturel et international.st appréciée mais non indispensable.",
+   "duration": 24,
+   "start_date": "2027-02-01T00:00:00",
+   "end_date": "2029-02-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-23T13:13:41Z",
+   "sector": "",
+   "specialization": "[\"6\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-23T13:13:41Z",
+    "missionStartDate": "2027-02-01T00:00:00",
+    "missionEndDate": "2029-02-01T00:00:00",
+    "startBroadcastDate": "2026-10-23T00:00:00",
+    "endBroadcastDate": "2026-11-07T00:00:00"
+   },
+   "summary": "L'Ingénieur Bid & Application Energy Storage Systems (ESS) participe au développement des offres techniques et commerciales pour des projets de stockage d’énergie par batteries à l’échelle industrielle (utility-scale) et commerciale au Japon.\r\n\r\nMissions principales :\r\nSous la supervision du Bid & Application Manager, le VIE participera à :\r\n\r\n- L'analyse des besoins clients et des cahiers des charges.\r\n- La préparation des offres techniques et commerciales pour des projets de stockage d'énergie au Japon.\r\n- La coordination des contributions des équipes internes (Ventes, Ingénierie, Achats, Finance, Opérations).\r\n- Le suivi des consultations fournisseurs et partenaires.\r\n- La préparation des analyses de risques techniques et commerciaux.\r\n- Le support aux échanges techniques avec les clients pendant les phases d'appel d'offres.\r\n- L'amélioration continue des outils, méthodes et bonnes pratiques de réponse aux appels d'offres.",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247433",
+   "score": 29,
+   "label": "Périphérique",
+   "first_seen": "2026-10-23T18:20:08+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 10,
+    "qual": 0,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "amelioration continue",
+      "ingenierie",
+      "methodes"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "engineer"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "energie",
+      "energy",
       "industriel"
      ],
      "points": 5
@@ -31753,7 +32288,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-13T14:00:13Z",
    "sector": "",
-   "specialization": "109",
+   "specialization": "[\"109\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31900,15 +32435,15 @@
    "expiry_date": "",
    "publish_date": "2026-10-13T12:34:38Z",
    "sector": "",
-   "specialization": "65, 66, 68, 153, 155",
+   "specialization": "[\"65\",\"66\",\"68\",\"153\",\"155\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-10-13T12:34:38Z",
     "missionStartDate": "2027-01-01T00:00:00",
     "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-14T00:00:00",
-    "endBroadcastDate": "2026-11-13T00:00:00"
+    "startBroadcastDate": "2026-10-23T00:00:00",
+    "endBroadcastDate": "2026-11-22T00:00:00"
    },
    "summary": "Poste et missions:\r\nNous sommes convaincus que la technologie HVDC (ou CCHT : courant continu à haute tension), qui permet de transférer de l'énergie à l'aide de courant continu à haute tension, est une solution durable à long terme. Cette technologie est utilisée pour le transport d'énergie sur de longues distances et pour connecter les réseaux électriques avec des pertes minimales. Outre le transfert d'énergie, la technologie HVDC atténue également les problèmes de qualité de l'électricité et peut contribuer à la stabilisation des réseaux électriques connectés. Pour l'énergie éolienne offshore ou les transmissions sous marines sur de longues distances, le courant continu est la seule alternative réaliste pour le transport de l'énergie. \r\n\r\nPrincipaux domaines de responsabilité : \r\n \r\nL'équipe qualité projet est une équipe mondiale relevant de la division Qualité HVDC. \r\nL'Ingénieur Qualité est rattaché au responsable mondial de la qualité sur site. […]",
    "url": "https://mon-vie-via.businessfrance.fr/offres/247014",
@@ -35215,7 +35750,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T09:15:57Z",
    "sector": "",
-   "specialization": "327",
+   "specialization": "[\"327\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35796,7 +36331,7 @@
    "expiry_date": "",
    "publish_date": "2025-08-22T12:46:54Z",
    "sector": "",
-   "specialization": "106",
+   "specialization": "[\"106\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
