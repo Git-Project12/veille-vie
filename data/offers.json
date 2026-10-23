@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-22T18:32:28+00:00",
+ "generated_at": "2026-10-23T11:37:00+00:00",
  "source": "Business France — mon-vie-via.businessfrance.fr",
- "total_scanned": 850,
- "total_announced": 850,
- "total_kept": 381,
+ "total_scanned": 833,
+ "total_announced": 833,
+ "total_kept": 372,
  "threshold": 25,
  "axes": {
   "rd": {
@@ -1612,7 +1612,7 @@
    "expiry_date": "",
    "publish_date": "2026-05-04T16:17:32Z",
    "sector": "",
-   "specialization": "[\"66\"]",
+   "specialization": "66",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -1735,148 +1735,6 @@
    ]
   },
   {
-   "id": "245476",
-   "title": "Reliability Engineer (H/F)",
-   "company": "I-CARE",
-   "country": "ETATS-UNIS",
-   "city": "MEMPHIS      -TN-",
-   "description": "I-care Reliability Inc. (part of I-care Group) is the global leader in predictive and prescriptive maintenance. Using AI, data analytics and industrial expertise, we predict machine failures months or even years in advance, helping industrial companies improve performance and avoid downtime. With over1000 employees, 35 offices in 16 countries, we monitor more than 500,000 machines.\n\nIn order to support our operations in the US, we are looking to expand our operations team at mulitple customer locations across the US, e.g. Valdosta, GA. \n\nI-care is seeking a highly analytical and proactive Reliability Engineer to join our team. The primary focus of this role is to identify and manage asset reliability risks that could adversely affect plant or business operations. You will champion continuous improvement by applying engineering principles to predict, manage, and extend the lifecycle of our equipment. Working closely with maintenance, operations, and technical teams, you will develop data-driven strategies to minimize downtime, reduce maintenance costs, and ensure a safe, environmentally compliant workplace.\n\nKey Responsibilities :\n- Support a culture of safety by adhering to OSHA regulations and plant environmental standards.\n- Support the maintenance team by updating and optimizing Preventive Maintenance (PM) plans within the Computerized Maintenance Management System (CMMS).\n- Help compile failure data and production metrics to identify trends, assisting in methodologies like Failure Mode and Effects Analysis (FMEA).\n- Maintain accurate documentation for equipment lifecycles, critical spare parts, and reliability metrics.\n- Utilize statistical tools and failure data, to identify trends and eliminate production \"bad actors.\"\n- Assist senior engineers and technicians in conducting Root Cause Failure Analysis (RCFA) to understand equipment breakdowns and prevent recurrence.\n- Partner with capital project teams during the design, installation, and commissioning phases to ensure the reliability and maintainability of new and modified assets.\n- Collect and help analyze data from condition-based monitoring tools (such as vibration analysis, oil analysis, and thermography).\n- Collaborate with cross-functional teams, including operations and maintenance, to learn plant processes and support troubleshooting efforts.\n- Participate in training and shadowing opportunities to build foundational knowledge in precision maintenance and reliability engineering.",
-   "mission": "",
-   "profile": "Minimum Qualifications :\r\n- Bachelor's degree in Mechanical, Electrical, Chemical, or Industrial Engineering.\r\n- 0 to 3 years of professional experience in reliability engineering, industrial manufacturing, or plant maintenance.\r\n- Proven experience executing reliability methodologies, including FMEA, RCFA, and Fault Tree Analysis.\r\n- High proficiency in utilizing Computerized Maintenance Management Systems (CMMS), such as SAP, Maximo, or similar platforms.\r\n- Theoritacal knowledge of condition-monitoring technologies and non-destructive testing (NDT).\r\n- Familiarity with relevant U.S. engineering and industry codes (e.g., ASME, API, ANSI).\r\n\r\nEssential Skills :\r\n- Strong analytical and problem-solving capabilities with a commitment to data-driven decision-making.\r\n- Excellent verbal and written communication skills to articulate complex technical issues to non-engineers and cross-functional teams.\r\n- Ability to effectively influence operations and maintenance teams to drive change without direct authority.\r\n- Solid project management skills with the ability to balance multiple priorities and deadlines simultaneously.",
-   "duration": 18,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2028-06-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-08-28T10:03:55Z",
-   "sector": "",
-   "specialization": "107",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-08-28T10:03:55Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2028-06-01T00:00:00",
-    "startBroadcastDate": "2026-09-22T00:00:00",
-    "endBroadcastDate": "2026-10-22T00:00:00"
-   },
-   "summary": "I-care Reliability Inc. (part of I-care Group) is the global leader in predictive and prescriptive maintenance. Using AI, data analytics and industrial expertise, we predict machine failures months or even years in advance, helping industrial companies improve performance and avoid downtime. With over1000 employees, 35 offices in 16 countries, we monitor more than 500,000 machines.\n\nIn order to support our operations in the US, we are looking to expand our operations team at mulitple customer locations across the US, e.g. Valdosta, GA. \n\nI-care is seeking a highly analytical and proactive Reliability Engineer to join our team. The primary focus of this role is to identify and manage asset reliability risks that could adversely affect plant or business operations. You will champion continuous improvement by applying engineering principles to predict, manage, and extend the lifecycle of our equipment. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/245476",
-   "score": 78,
-   "label": "Cœur de cible",
-   "first_seen": "2026-08-28T14:08:58+00:00",
-   "axis_scores": {
-    "rd": 40,
-    "prod": 45,
-    "qual": 64,
-    "calc": 25
-   },
-   "dominant_axis": "qual",
-   "matched_families": [
-    {
-     "id": "calc3",
-     "axis": "calc",
-     "source": "Résistance des matériaux 1 et 2 (263-1, 270-1, 60 h), Élastoplasticité (279-1, 45 h)",
-     "weight": 11,
-     "terms": [
-      "vibration"
-     ]
-    },
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
-     "weight": 10,
-     "terms": [
-      "plant"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "continuous improvement",
-      "engineering",
-      "manufacturing"
-     ]
-    },
-    {
-     "id": "qual1",
-     "axis": "qual",
-     "source": "Contrôles non destructifs (781-1, 30 h)",
-     "weight": 8,
-     "terms": [
-      "ndt",
-      "non destructive testing",
-      "non-destructive"
-     ]
-    },
-    {
-     "id": "qual3",
-     "axis": "qual",
-     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
-     "weight": 7,
-     "terms": [
-      "fmea",
-      "statistical"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "root cause",
-      "standards",
-      "testing"
-     ]
-    },
-    {
-     "id": "rd8",
-     "axis": "rd",
-     "source": "Alternance : investigation & problem solving, analyse microstructurale",
-     "weight": 11,
-     "terms": [
-      "failure analysis"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "problem solving"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineer"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "chemical",
-      "industrial",
-      "mechanical"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "246360",
    "title": "Ingénieur Méthodes / Industrialisation (H/F)",
    "company": "AKKODIS HIGH TECH SAS",
@@ -1903,128 +1761,6 @@
    },
    "summary": "🌍 À propos de l’opportunité\n\nDans le cadre du développement de nos activités dans les secteurs de l’aéronautique, de l’automobile, de la défense et du ferroviaire, nous recherchons un(e) Ingénieur Méthodes / Industrialisation pour accompagner nos projets industriels stratégiques.\n\nVous interviendrez sur l’industrialisation de produits et systèmes complexes, en assurant le lien entre les équipes conception, production et qualité afin de garantir la performance industrielle et la maîtrise des processus de fabrication.\n\n🎯 Vos missions\n\nAu sein du service Méthodes & Industrialisation, vous serez amené(e) à :\n\nDéfinir et piloter les processus d’industrialisation des produits.\nÉlaborer et mettre à jour les gammes de fabrication et les instructions de travail.\nRédiger la documentation technique et les procédures de production.\nParticiper à la conception et à l’optimisation des moyens de production.\nAnalyser les procédés de fabrication et proposer des améliorations techniques.\nParticiper aux activités d’amélioration continue et d’excellence opérationnelle. […]",
    "url": "https://mon-vie-via.businessfrance.fr/offres/246360",
-   "score": 76,
-   "label": "Cœur de cible",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 83,
-    "qual": 8,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
-     "weight": 10,
-     "terms": [
-      "industrialisation"
-     ]
-    },
-    {
-     "id": "prod3",
-     "axis": "prod",
-     "source": "Assemblage des matériaux (297-2, 30 h)",
-     "weight": 7,
-     "terms": [
-      "assemblage"
-     ]
-    },
-    {
-     "id": "prod5",
-     "axis": "prod",
-     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
-     "weight": 4,
-     "terms": [
-      "lean"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "amelioration continue",
-      "fabrication",
-      "manufacturing",
-      "methodes"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "qualite"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "resolution de problemes"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "industrialisation",
-      "ingenieur",
-      "methodes"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "aeronautique",
-      "automobile",
-      "defense"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
-   "id": "246361",
-   "title": "Ingénieur Méthodes / Industrialisation (H/F)",
-   "company": "AKKODIS HIGH TECH SAS",
-   "country": "BELGIQUE",
-   "city": "LIEGE",
-   "description": "🌍 À propos de l’opportunité\n\nDans le cadre du développement de nos activités dans les secteurs de l’aéronautique, de l’automobile, de la défense et du ferroviaire, nous recherchons un(e) Ingénieur Méthodes / Industrialisation pour accompagner nos projets industriels stratégiques.\n\nVous interviendrez sur l’industrialisation de produits et systèmes complexes, en assurant le lien entre les équipes conception, production et qualité afin de garantir la performance industrielle et la maîtrise des processus de fabrication.\n\n🎯 Vos missions\n\nAu sein du service Méthodes & Industrialisation, vous serez amené(e) à :\n\nDéfinir et piloter les processus d’industrialisation des produits.\nÉlaborer et mettre à jour les gammes de fabrication et les instructions de travail.\nRédiger la documentation technique et les procédures de production.\nParticiper à la conception et à l’optimisation des moyens de production.\nAnalyser les procédés de fabrication et proposer des améliorations techniques.\nParticiper aux activités d’amélioration continue et d’excellence opérationnelle.\nAssurer le support technique aux équipes de production et de qualité.\nContribuer à l’optimisation des temps de fabrication, des coûts et de la qualité.\nParticiper aux validations industrielles et à la montée en cadence des productions.\nCollaborer avec les bureaux d’études, les fournisseurs et les équipes terrain.",
-   "mission": "",
-   "profile": "✅ Profil recherché\n\nDiplôme d’Ingénieur ou Master en Mécanique, Électromécanique, Production Industrielle ou domaine équivalent.\nExpérience de 2 à 5 ans en méthodes, industrialisation ou amélioration continue dans un environnement industriel.\nBonne connaissance des procédés de fabrication et d’assemblage.\nExpérience en rédaction de procédures et documentation technique.\nConnaissance des outils de résolution de problèmes et d’amélioration continue.\nCapacité à travailler en interface avec plusieurs départements.\nAutonomie, rigueur et sens de l’organisation.\n\n🛠 Compétences techniques\n\nIndustrialisation de produits\nMéthodes de fabrication\nProcessus d’assemblage\nRédaction de gammes et procédures\nLean Manufacturing\nAmélioration continue\nAnalyse des flux industriels\nGestion de projet industriel\nERP et outils industriels\nRésolution de problèmes (5 Why, Ishikawa, PDCA...)",
-   "duration": 24,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2028-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-24T13:20:17Z",
-   "sector": "",
-   "specialization": "60",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-24T13:20:17Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2028-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-24T00:00:00",
-    "endBroadcastDate": "2026-10-22T00:00:00"
-   },
-   "summary": "🌍 À propos de l’opportunité\n\nDans le cadre du développement de nos activités dans les secteurs de l’aéronautique, de l’automobile, de la défense et du ferroviaire, nous recherchons un(e) Ingénieur Méthodes / Industrialisation pour accompagner nos projets industriels stratégiques.\n\nVous interviendrez sur l’industrialisation de produits et systèmes complexes, en assurant le lien entre les équipes conception, production et qualité afin de garantir la performance industrielle et la maîtrise des processus de fabrication.\n\n🎯 Vos missions\n\nAu sein du service Méthodes & Industrialisation, vous serez amené(e) à :\n\nDéfinir et piloter les processus d’industrialisation des produits.\nÉlaborer et mettre à jour les gammes de fabrication et les instructions de travail.\nRédiger la documentation technique et les procédures de production.\nParticiper à la conception et à l’optimisation des moyens de production.\nAnalyser les procédés de fabrication et proposer des améliorations techniques.\nParticiper aux activités d’amélioration continue et d’excellence opérationnelle. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246361",
    "score": 76,
    "label": "Cœur de cible",
    "first_seen": "2026-10-07T09:55:56+00:00",
@@ -4873,7 +4609,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-13T14:51:48Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5204,7 +4940,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T07:31:41Z",
    "sector": "",
-   "specialization": "[\"206\"]",
+   "specialization": "206",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5415,7 +5151,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-01T15:30:48Z",
    "sector": "",
-   "specialization": "[\"63\",\"114\"]",
+   "specialization": "63, 114",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5728,7 +5464,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T16:09:45Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6164,7 +5900,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-21T12:15:55Z",
    "sector": "",
-   "specialization": "[\"208\"]",
+   "specialization": "208",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6471,7 +6207,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-14T17:08:48Z",
    "sector": "",
-   "specialization": "149, 169",
+   "specialization": "[\"149\",\"169\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6783,112 +6519,6 @@
    ]
   },
   {
-   "id": "247318",
-   "title": "Ingénieur mécanique (H/F)",
-   "company": "MOONGY",
-   "country": "BELGIQUE",
-   "city": "LIEGE",
-   "description": "agap2 est une société européenne de conseil en ingénierie, active dans divers secteurs industriels tels que les grands projets d’infrastructure, les industries de procédés (sciences de la vie, agroalimentaire, chimie), l’énergie et les transports. Présente dans 13 pays européens et implantée en Belgique depuis 2013, agap2 collabore avec des partenaires dans tout le pays.\r\n\r\nGarantir la conception, l’amélioration continue et la validation des ensembles et systèmes mécaniques.\r\n- Assurer le bon déroulement des projets techniques, de la phase de conception jusqu’à l’industrialisation.\r\n- Apporter un support technique efficace aux équipes internes, aux fournisseurs et aux clients tout au long du cycle de vie du projet.\r\n- Optimiser les performances, la fiabilité et la robustesse des solutions mécaniques dans une logique de coût, qualité et délais.\r\n- Contribuer à la qualité et à la conformité des livrables techniques et documentaires (plans, nomenclatures, notes de calcul, procédures).\r\n- Collaborer étroitement avec les équipes pluridisciplinaires (électrique, automatisme, process, qualité, production, achats).\r\n- Concevoir, développer et optimiser des sous-ensembles mécaniques, de l’avant-projet à la validation finale.\r\n- Évaluer les performances des solutions, réaliser des essais, analyser les résultats et proposer des actions d’amélioration.\r\n- Réaliser, tester, documenter et maintenir les systèmes mécaniques et les processus associés.\r\n- Garantir le respect des normes, des exigences réglementaires et des règles de sécurité machine.\r\n- Participer à l’analyse des risques techniques et à la résolution de problématiques complexes.",
-   "mission": "",
-   "profile": "- Vous êtes titulaire d’un master en ingénierie mécanique, électromécanique ou dans un domaine technique similaire.\r\n- Vous disposez d’une première expérience en conception mécanique, idéalement acquise dans le secteur de la défense.\r\n- Vous maîtrisez le logiciel de CAO Creo et êtes capable de l’utiliser pour réaliser et modifier des modèles et des plans mécaniques.\r\n- Vous êtes autonome, adaptable et proactif, avec une réelle envie d’apprendre et de relever de nouveaux défis techniques.\r\n- Vous faites preuve de rigueur et assurez une communication claire ainsi qu’une collaboration efficace avec les différentes parties prenantes.\r\n- Vous maîtrisez le français et l’anglais, à l’oral comme à l’écrit.\r\n\r\nPourquoi nous rejoindre ?\r\n\r\nUn accompagnement de proximité: vous bénéficiez d’un double suivi, à la fois RH et opérationnel, assuré par votre interlocuteur RH et votre Business Manager.\r\nUne formation continue personnalisée : des formations adaptées à vos besoins et à vos objectifs de développement.\r\nUn véritable catalyseur de carrière : de nombreuses opportunités pour développer vos compétences et faire évoluer votre parcours professionnel.\r\nUne culture d’entreprise forte : avant d’être consultant, vous faites avant tout partie de la communauté agap2. Nous organisons régulièrement des moments de convivialité pour favoriser les échanges, renforcer les liens et partager des expériences ensemble.",
-   "duration": 12,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-21T07:02:12Z",
-   "sector": "",
-   "specialization": "[\"77\"]",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-21T07:02:12Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-21T00:00:00",
-    "endBroadcastDate": "2026-11-20T00:00:00"
-   },
-   "summary": "agap2 est une société européenne de conseil en ingénierie, active dans divers secteurs industriels tels que les grands projets d’infrastructure, les industries de procédés (sciences de la vie, agroalimentaire, chimie), l’énergie et les transports. Présente dans 13 pays européens et implantée en Belgique depuis 2013, agap2 collabore avec des partenaires dans tout le pays.\r\n\r\nGarantir la conception, l’amélioration continue et la validation des ensembles et systèmes mécaniques.\r\n- Assurer le bon déroulement des projets techniques, de la phase de conception jusqu’à l’industrialisation.\r\n- Apporter un support technique efficace aux équipes internes, aux fournisseurs et aux clients tout au long du cycle de vie du projet.\r\n- Optimiser les performances, la fiabilité et la robustesse des solutions mécaniques dans une logique de coût, qualité et délais.\r\n- Contribuer à la qualité et à la conformité des livrables techniques et documentaires (plans, nomenclatures, notes de calcul, procédures). […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/247318",
-   "score": 56,
-   "label": "Bonne adéquation",
-   "first_seen": "2026-10-21T11:46:49+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 45,
-    "qual": 8,
-    "calc": 20
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "calc2",
-     "axis": "calc",
-     "source": "CAO (278-1, 30 h), Conception mécanique (264-1, 43 h)",
-     "weight": 9,
-     "terms": [
-      "cao",
-      "conception mecanique",
-      "creo"
-     ]
-    },
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
-     "weight": 10,
-     "terms": [
-      "industrialisation"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "amelioration continue",
-      "ingenierie"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "conformite",
-      "essais",
-      "normes",
-      "qualite"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur",
-      "mecanique"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "chimie",
-      "defense",
-      "energie"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "245346",
    "title": "Production Engineer (H/F)",
    "company": "SOUFFLET MALT",
@@ -6903,7 +6533,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-21T12:42:05Z",
    "sector": "",
-   "specialization": "[\"150\"]",
+   "specialization": "150",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -7339,7 +6969,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-13T15:23:11Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9049,7 +8679,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-23T07:15:58Z",
    "sector": "",
-   "specialization": "[\"66\"]",
+   "specialization": "66",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10520,7 +10150,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T08:00:24Z",
    "sector": "",
-   "specialization": "[\"114\"]",
+   "specialization": "114",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10854,105 +10484,6 @@
       "mecanique"
      ],
      "points": 5
-    }
-   ]
-  },
-  {
-   "id": "246281",
-   "title": "VIE Algo Optimization & Trading - Thermal & Hydro (H/F)",
-   "company": "ENGIE GLOBAL MARKETS",
-   "country": "BELGIQUE",
-   "city": "BRUXELLES",
-   "description": "ENGIE Supply and Energy Management provides energy supply solutions and risk management services to support its clients through their decarbonization journey, while optimizing ENGIE’s assets and contributing to value creation. \n\nWithin the BP Power Trading & Commercial (BP PT&C) has 3 main activities across NWE (BE,FR, GE,NL) : (i) serving the group by delivering best in class asset & risk management services for all upstream and midstream assets (ii) Develop a commercial franchise on green power and flexible power products and iii) deliver PnL by leveraging on strong risk appetite, market analysis and modelling capabilities.\nWithin BP PT&C, the Algo Optimization and Trading for Thermal & Hydro assets team is responsible to maximize the value of our Thermal & Hydro assets on the short-term power markets, using algorithmic-based optimization/trading strategies, and complemented by optimizer expert decision. \n- \nMission \nAs VIE in the Algo Optimization and Trading team, you will support the team in developing new optimization and trading strategies for the Engie’s Thermal and Hydro power plants, on the short-term power markets (Ancillaries, Day-Ahead, Intraday, Balancing).The VIE will be based on Brussels.",
-   "mission": "",
-   "profile": "Desired profile\n- BAC +5/ Degree in Engineering, Mathematics, Physics, Finance, Statistics or Data Science\n- Good software programming skills (Python) \n- Good understanding of the energy business, power markets and power plant operations\n- Skills in optimization and data science\n- Ability to explain and convey messages about complex issues\n- Practical thinking, autonomous, able to take initiatives\n- Fluent in English",
-   "duration": 12,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2027-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-22T14:37:51Z",
-   "sector": "",
-   "specialization": "51",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-22T14:37:51Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-22T00:00:00",
-    "endBroadcastDate": "2026-10-22T00:00:00"
-   },
-   "summary": "ENGIE Supply and Energy Management provides energy supply solutions and risk management services to support its clients through their decarbonization journey, while optimizing ENGIE’s assets and contributing to value creation. \n\nWithin the BP Power Trading & Commercial (BP PT&C) has 3 main activities across NWE (BE,FR, GE,NL) : (i) serving the group by delivering best in class asset & risk management services for all upstream and midstream assets (ii) Develop a commercial franchise on green power and flexible power products and iii) deliver PnL by leveraging on strong risk appetite, market analysis and modelling capabilities.\nWithin BP PT&C, the Algo Optimization and Trading for Thermal & Hydro assets team is responsible to maximize the value of our Thermal & Hydro assets on the short-term power markets, using algorithmic-based optimization/trading strategies, and complemented by optimizer expert decision. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246281",
-   "score": 46,
-   "label": "À examiner",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 11,
-    "prod": 45,
-    "qual": 0,
-    "calc": 36
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "calc1",
-     "axis": "calc",
-     "source": "Éléments finis (256-1, 24 h), TP simulation numérique (272-1, 285-5, 285-4, 63 h), Calculs numériques de mise en forme (277-1, 286-1, 50 h)",
-     "weight": 12,
-     "terms": [
-      "modelling"
-     ]
-    },
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
-     "weight": 4,
-     "terms": [
-      "python"
-     ]
-    },
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
-     "weight": 10,
-     "terms": [
-      "plant"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "engineering"
-     ]
-    },
-    {
-     "id": "rd7",
-     "axis": "rd",
-     "source": "Recyclage des matériaux (8 h), Éco-conception (842-1, 8 h), Enjeux DDRS (838-1, 20 h)",
-     "weight": 4,
-     "terms": [
-      "decarbonization"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "energy"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
     }
    ]
   },
@@ -11748,7 +11279,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-02T09:00:25Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -11834,7 +11365,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-13T12:55:07Z",
    "sector": "",
-   "specialization": "[\"77\",\"209\"]",
+   "specialization": "77, 209",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12056,6 +11587,86 @@
      "terms": [
       "essais",
       "qualite"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "ingenieur"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "mecanique"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
+   "id": "247334",
+   "title": "Ingénieur en sécurité incendie (H/F)",
+   "company": "SOCOTEC GESTION",
+   "country": "IRLANDE",
+   "city": "DUBLIN",
+   "description": "Les missions qui vous seront confiées comprendront :\n- Élaborer des stratégies de sécurité incendie pour la conception et la construction\n- Réaliser des évaluations de sécurité incendie pour les murs extérieurs\n- Réaliser d'autres analyses techniques d'ingénierie, telles que la modélisation CFD, l'ingénierie structurelle en matière d'incendie, etc.\n- Effectuer des visites de chantier lorsque cela est nécessaire\n- Fournir des conseils en matière de sécurité incendie\n- Rédiger des lettres de proposition tarifaire\n- Assurer une liaison régulière avec le client",
+   "mission": "",
+   "profile": "- Un diplôme de licence ou de master en ingénierie (mécanique, structurelle, civile ou dans un domaine similaire)\n- Adhésion à un organisme professionnel et reconnaissance au sein de celui-ci\n- Première expérience dans le domaine de la sécurité incendie et bonne maîtrise des solutions techniques en matière d'incendie",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-21T12:36:21Z",
+   "sector": "",
+   "specialization": "[\"225\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-21T12:36:21Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-23T00:00:00",
+    "endBroadcastDate": "2026-11-22T00:00:00"
+   },
+   "summary": "Les missions qui vous seront confiées comprendront :\n- Élaborer des stratégies de sécurité incendie pour la conception et la construction\n- Réaliser des évaluations de sécurité incendie pour les murs extérieurs\n- Réaliser d'autres analyses techniques d'ingénierie, telles que la modélisation CFD, l'ingénierie structurelle en matière d'incendie, etc.\n- Effectuer des visites de chantier lorsque cela est nécessaire\n- Fournir des conseils en matière de sécurité incendie\n- Rédiger des lettres de proposition tarifaire\n- Assurer une liaison régulière avec le client",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247334",
+   "score": 42,
+   "label": "À examiner",
+   "first_seen": "2026-10-23T11:36:42+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 10,
+    "qual": 0,
+    "calc": 27
+   },
+   "dominant_axis": "calc",
+   "matched_families": [
+    {
+     "id": "calc1",
+     "axis": "calc",
+     "source": "Éléments finis (256-1, 24 h), TP simulation numérique (272-1, 285-5, 285-4, 63 h), Calculs numériques de mise en forme (277-1, 286-1, 50 h)",
+     "weight": 12,
+     "terms": [
+      "cfd",
+      "modelisation"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "ingenierie"
      ]
     }
    ],
@@ -12821,106 +12432,6 @@
    ]
   },
   {
-   "id": "245401",
-   "title": "Aerospace Engineer (H/F)",
-   "company": "AYES SUD-OUEST",
-   "country": "BELGIQUE",
-   "city": "BRUXELLES",
-   "description": "What is your role?\n\n- Contribute to the design, development and improvement of aerospace systems, components and structures.\n- Develop and modify 3D models and engineering documentation based on project requirements and established aerospace standards.\n- Prepare and maintain technical documentation, including design definitions, drawings, specifications and parts lists.\n- Work closely with multidisciplinary engineering teams to develop and deliver high-quality aerospace solutions.\n- Support engineering activities throughout the different phases of the product development lifecycle.",
-   "mission": "",
-   "profile": "Who are we looking for?\n\n- A Master’s degree in Aerospace, Mechanical or another relevant Engineering discipline.\n- Experience with engineering and/or CAD tools.\n- Previous experience in the aerospace industry or in the design and development of technical systems.\n- Good understanding of aerospace engineering principles and materials.\n- Able to work autonomously, take initiative and collaborate effectively within a multidisciplinary team.\n- Strong analytical and problem-solving skills.\n- Fluent in English.",
-   "duration": 24,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2028-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-08-25T10:40:46Z",
-   "sector": "",
-   "specialization": "60",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-08-25T10:40:46Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2028-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-24T00:00:00",
-    "endBroadcastDate": "2026-10-22T00:00:00"
-   },
-   "summary": "What is your role?\n\n- Contribute to the design, development and improvement of aerospace systems, components and structures.\n- Develop and modify 3D models and engineering documentation based on project requirements and established aerospace standards.\n- Prepare and maintain technical documentation, including design definitions, drawings, specifications and parts lists.\n- Work closely with multidisciplinary engineering teams to develop and deliver high-quality aerospace solutions.\n- Support engineering activities throughout the different phases of the product development lifecycle.",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/245401",
-   "score": 39,
-   "label": "À examiner",
-   "first_seen": "2026-08-27T05:21:30+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 10,
-    "qual": 8,
-    "calc": 20
-   },
-   "dominant_axis": "calc",
-   "matched_families": [
-    {
-     "id": "calc2",
-     "axis": "calc",
-     "source": "CAO (278-1, 30 h), Conception mécanique (264-1, 43 h)",
-     "weight": 9,
-     "terms": [
-      "cad"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "engineering",
-      "product development"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "quality",
-      "standards"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "problem solving"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineer"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "aerospace",
-      "mechanical"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "245779",
    "title": "Site Engineer (H/F)",
    "company": "BOUYGUES ENERGIES & SERVICES",
@@ -12935,7 +12446,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-10T12:08:07Z",
    "sector": "",
-   "specialization": "[\"71\"]",
+   "specialization": "71",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -14470,7 +13981,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-09T14:58:34Z",
    "sector": "",
-   "specialization": "[\"327\"]",
+   "specialization": "327",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -15112,140 +14623,6 @@
    ]
   },
   {
-   "id": "246220",
-   "title": "Ingénieur Process & Manufacturing Digital (H/F)",
-   "company": "COMPAGNIE DE SAINT-GOBAIN",
-   "country": "BELGIQUE",
-   "city": "BUGGENHOUT",
-   "description": "Rejoignez ADFORS Belgique, filiale du Groupe Saint-Gobain et acteur international de référence dans la fabrication de textiles techniques destinés principalement aux marchés de la construction et de l'industrie.\n\nImplanté à Buggenhout (Belgique), notre site industriel poursuit depuis plusieurs années une transformation ambitieuse autour de la performance opérationnelle, de la digitalisation des procédés, de la standardisation et de l'amélioration continue.\n\nDans ce contexte, nous recherchons un(e) Ingénieur Process & Manufacturing Digital H/F en VIE afin d'accompagner le déploiement de notre feuille de route digitale, de poursuivre les projets d'excellence opérationnelle déjà engagés et de contribuer à l'amélioration durable de nos performances industrielles.\n\nVous évoluerez au cœur des opérations, au contact direct des équipes de production, maintenance, qualité, supply chain et ingénierie.\n\nVotre mission :\n\nRattaché(e) au Responsable Production, vous participerez activement à la transformation industrielle du site en intervenant sur deux axes majeurs : la digitalisation de l'usine et l'amélioration continue des performances de production.\n\nDigitalisation & Industrie 4.0 :\n\nAccompagner le déploiement des solutions de manufacturing digital sur le site.\nParticiper au développement et à l'amélioration de notre environnement MES (Manufacturing Execution System) basé sur Ignition.\nAssurer le suivi de la feuille de route digitale et coordonner les actions associées avec les équipes métiers.\nExploiter et valoriser les données de production afin d'améliorer la prise de décision.\nDévelopper des indicateurs de performance, tableaux de bord et outils de reporting (Power BI notamment).\nCollaborer avec les équipes IT et Ingénierie centrales dans le cadre des projets digitaux.\nExcellence opérationnelle & amélioration continue :\n\nContribuer aux démarches WCM (World Class Manufacturing) et aux chantiers d'amélioration continue.\nAnalyser les pertes de performance et identifier les causes racines des dysfonctionnements.\nDéfinir, piloter et suivre les plans d'actions associés.\nParticiper à la résolution de problèmes en étroite collaboration avec les équipes terrain.\nMettre en œuvre des actions visant à améliorer la sécurité, la qualité, la productivité et les coûts.\nProcess Engineering :\n\nParticiper à l'optimisation des procédés industriels et des paramètres de fabrication.\nContribuer aux essais industriels et à la validation des évolutions process.\nApporter un support technique aux équipes de production, maintenance et qualité.\nParticiper aux projets de modernisation et d'investissement du site.\nStandardisation & transmission des connaissances :\n\nRédiger et mettre à jour les procédures, standards opérationnels et instructions de travail.\nDévelopper des supports de formation pour les équipes opérationnelles.\nParticiper à la diffusion des bonnes pratiques au sein de l'usine.",
-   "mission": "",
-   "profile": "Formation\n\nDiplôme d'Ingénieur ou Master avec une spécialisation en Génie Industriel, Génie des Procédés, Génie Mécanique, Automatisation, Manufacturing Engineering ou équivalent.\nExpérience\n\nUne première expérience en environnement industriel acquise via des stages, alternances ou projets de fin d'études.\nUne connaissance des procédés de fabrication constitue un atout.\nCompétences techniques\n\nMaîtrise de l'anglais professionnel (langue de travail du site).\nAppétence pour l'industrie 4.0, la digitalisation des opérations et les systèmes MES.\nBon niveau d'analyse de données et de résolution de problèmes.\nMaîtrise d'Excel.\nUne connaissance de Power BI sera fortement appréciée.\nDes notions en SQL, automatisme ou systèmes MES représentent un plus.\nQualités recherchées\n\nCuriosité et intérêt pour les environnements industriels.\nEsprit d'analyse et orientation résultats.\nForte capacité à collaborer avec des interlocuteurs variés.\nApproche terrain et goût pour le travail au plus près des opérations.\nAutonomie, proactivité et sens des initiatives.\nCapacité à piloter plusieurs sujets simultanément.",
-   "duration": 12,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-21T15:07:33Z",
-   "sector": "",
-   "specialization": "184",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-21T15:07:33Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-09-22T00:00:00",
-    "endBroadcastDate": "2026-10-22T00:00:00"
-   },
-   "summary": "Rejoignez ADFORS Belgique, filiale du Groupe Saint-Gobain et acteur international de référence dans la fabrication de textiles techniques destinés principalement aux marchés de la construction et de l'industrie.\n\nImplanté à Buggenhout (Belgique), notre site industriel poursuit depuis plusieurs années une transformation ambitieuse autour de la performance opérationnelle, de la digitalisation des procédés, de la standardisation et de l'amélioration continue.\n\nDans ce contexte, nous recherchons un(e) Ingénieur Process & Manufacturing Digital H/F en VIE afin d'accompagner le déploiement de notre feuille de route digitale, de poursuivre les projets d'excellence opérationnelle déjà engagés et de contribuer à l'amélioration durable de nos performances industrielles.\n\nVous évoluerez au cœur des opérations, au contact direct des équipes de production, maintenance, qualité, supply chain et ingénierie. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246220",
-   "score": 35,
-   "label": "À examiner",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 59,
-    "qual": 8,
-    "calc": 9
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
-     "weight": 4,
-     "terms": [
-      "automatisation"
-     ]
-    },
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
-     "weight": 10,
-     "terms": [
-      "process engineering",
-      "usine"
-     ]
-    },
-    {
-     "id": "prod5",
-     "axis": "prod",
-     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
-     "weight": 4,
-     "terms": [
-      "optimisation des procedes",
-      "productivite"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "amelioration continue",
-      "engineering",
-      "fabrication",
-      "ingenierie"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "essais",
-      "qualite",
-      "standards",
-      "validation"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "resolution de problemes"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur",
-      "manufacturing",
-      "process"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "industriel",
-      "mecanique"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Intitulé de métier du numérique : score plafonné",
-     "terms": [
-      "digital"
-     ],
-     "points": -27,
-     "cap": 35
-    }
-   ]
-  },
-  {
    "id": "243616",
    "title": "Digital Transformation & Industrial AI Engineer (H/F)",
    "company": "CORREGE",
@@ -15260,7 +14637,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-08T11:09:48Z",
    "sector": "",
-   "specialization": "[\"149\",\"330\",\"355\"]",
+   "specialization": "149, 330, 355",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19376,98 +18753,6 @@
    ]
   },
   {
-   "id": "246259",
-   "title": "V.I.E. Settlement Officer (H/F)",
-   "company": "ENGIE GLOBAL MARKETS",
-   "country": "BELGIQUE",
-   "city": "BRUXELLES",
-   "description": "About ENGIE and Supply & Energy Management:\n\nENGIE, a global leader in low-carbon energy and services, relies on its Global Business Unit Supply & Energy Management (GBU S&EM) to provide reliable, sustainable, and affordable energy to all its customers. This strategic unit optimizes the Group’s and clients’ production assets and designs tailored energy solutions for our 200,000 professional clients and 15 million consumers.\n\nThe Global Business Unit Supply & Energy Management leverages ENGIE’s assets to deliver secure and sustainable energy to its B2B and B2C customers. It uses its expertise in energy management to provide decarbonized electricity 24/7.\n\nJoining Supply & Energy Management means becoming part of a team of over 10,000 passionate experts spread across 20 countries, all united by a shared mission: shaping a greener and more efficient energy future. Together, we push the boundaries of innovation to deliver decarbonized energy 24/7. Join us and be part of those shaping the energy of tomorrow!\n\nThe Renewable Operations team is responsible for: \n- ensuring the smooth running of renewable operations \n- providing the relevant tools to actively manage portfolio contracts \n\n- maintain central database data quality at highest level for renewable assets management \n\n- facilitating the production of reports and analysis on data \n\nChallenge: \n\nYou will join an operational team, managing an important Renewable portfolio in collaboration with many other GEM teams (Business Developers, Structurers, Traders, Support functions). \n\nYou’ll need to quickly develop a good knowledge of the processes and tools needed to run the activity. \n\nYou’ll work in close relationship with the IT team in order to set up new features and improve existing ones. \n\nYou’ll need scripting capabilities to perform data management automation and detect area of improvements. \n\nMission/Main Activities: \n\nAccurate Contract Representation and Modelling: \n\nEnsure precise representation and modelling of renewable contracts, sometimes very structured and exotic, in deal capture and invoicing systems, including Power and Guarantee of Origins. \n\nTechnical Issue Resolution: \n\nLiaise with IS to follow up on technical issues ensuring timely and accurate resolution for invoicing. \n\nInternal Stakeholder Communication: \n\nMaintain effective communication with internal stakeholders (Originators, Traders, Finance) to ensure smooth workflow from contractualization to invoicing. \n\nData Management and Client Relationship \n\nApply best practices in data management and act as the guardian of client relationships, ensuring data integrity and client satisfaction. \n\nContinuous Improvement and Automation: \n\nLead initiatives for continuous improvement of operations and contribute to their automation, enhancing efficiency and effectiveness.",
-   "mission": "",
-   "profile": "Profile: \n\nThe ideal candidate has a master’s degree in Finance. \n\n• Familiar with Finance and/or Energy fields \n\n• Experience in coding and scripting with Python \n\n• Data management skills \n\n• A strong focus on business outcomes \n\n• Comfort with collaboration, open communication and reaching across functional borders \n\n• Fluent English is required German, Dutch or French is a plus.",
-   "duration": 12,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2027-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-22T11:27:28Z",
-   "sector": "",
-   "specialization": "259",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-22T11:27:28Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-22T00:00:00",
-    "endBroadcastDate": "2026-10-22T00:00:00"
-   },
-   "summary": "About ENGIE and Supply & Energy Management:\n\nENGIE, a global leader in low-carbon energy and services, relies on its Global Business Unit Supply & Energy Management (GBU S&EM) to provide reliable, sustainable, and affordable energy to all its customers. This strategic unit optimizes the Group’s and clients’ production assets and designs tailored energy solutions for our 200,000 professional clients and 15 million consumers.\n\nThe Global Business Unit Supply & Energy Management leverages ENGIE’s assets to deliver secure and sustainable energy to its B2B and B2C customers. It uses its expertise in energy management to provide decarbonized electricity 24/7.\n\nJoining Supply & Energy Management means becoming part of a team of over 10,000 passionate experts spread across 20 countries, all united by a shared mission: shaping a greener and more efficient energy future. Together, we push the boundaries of innovation to deliver decarbonized energy 24/7. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246259",
-   "score": 34,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 10,
-    "qual": 8,
-    "calc": 36
-   },
-   "dominant_axis": "calc",
-   "matched_families": [
-    {
-     "id": "calc1",
-     "axis": "calc",
-     "source": "Éléments finis (256-1, 24 h), TP simulation numérique (272-1, 285-5, 285-4, 63 h), Calculs numériques de mise en forme (277-1, 286-1, 50 h)",
-     "weight": 12,
-     "terms": [
-      "modelling"
-     ]
-    },
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
-     "weight": 4,
-     "terms": [
-      "automation",
-      "python",
-      "scripting"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "continuous improvement"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "quality"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "energy"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "246197",
    "title": "INGÉNIEUR(E) CSV (H/F)",
    "company": "FORTIL GROUP",
@@ -19574,8 +18859,8 @@
     "creationDate": "2026-06-22T13:27:06Z",
     "missionStartDate": "2027-01-01T00:00:00",
     "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-09-23T00:00:00",
-    "endBroadcastDate": "2026-10-23T00:00:00"
+    "startBroadcastDate": "2026-10-23T00:00:00",
+    "endBroadcastDate": "2026-11-22T00:00:00"
    },
    "summary": " Réaliser des études et des livrables clients et production, pour des projets à la commande et faire valider par un expert si besoin (plans, programmes machines laser et perforation)\r\n Développer des automatismes CAO/Excel pour optimiser et fiabiliser le traitement des dossiers \r\n Être le référent des outils numériques BE/BTC sur notre site en Inde\r\n Concevoir, optimiser et documenter techniquement les nouveaux produits ou solutions tôles si nécessaire\r\n Définir le cahier des charges du dossier technique avant diffusion à des collègues indien",
    "url": "https://mon-vie-via.businessfrance.fr/offres/243999",
@@ -19739,7 +19024,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-15T13:38:37Z",
    "sector": "",
-   "specialization": "73, 109, 149, 150, 206, 207, 262, 264, 330",
+   "specialization": "[\"73\",\"109\",\"149\",\"150\",\"206\",\"207\",\"262\",\"264\",\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20136,7 +19421,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-07T08:56:58Z",
    "sector": "",
-   "specialization": "[\"60\"]",
+   "specialization": "60",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20597,7 +19882,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-21T09:15:10Z",
    "sector": "",
-   "specialization": "[\"149\",\"195\",\"264\"]",
+   "specialization": "149, 195, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20704,7 +19989,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-21T07:17:18Z",
    "sector": "",
-   "specialization": "[\"71\"]",
+   "specialization": "71",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21054,7 +20339,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T09:12:56Z",
    "sector": "",
-   "specialization": "[\"259\"]",
+   "specialization": "259",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21127,7 +20412,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-20T07:14:32Z",
    "sector": "",
-   "specialization": "[\"60\",\"77\",\"149\",\"150\",\"264\"]",
+   "specialization": "60, 77, 149, 150, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21719,7 +21004,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-13T13:34:30Z",
    "sector": "",
-   "specialization": "[\"65\",\"77\",\"149\",\"207\",\"244\"]",
+   "specialization": "65, 77, 149, 207, 244",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22848,7 +22133,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-01T07:59:11Z",
    "sector": "",
-   "specialization": "[\"244\"]",
+   "specialization": "244",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -24340,7 +23625,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-20T18:39:41Z",
    "sector": "",
-   "specialization": "[\"251\"]",
+   "specialization": "251",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26551,7 +25836,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-21T06:56:59Z",
    "sector": "",
-   "specialization": "86, 123, 125, 150, 256, 264",
+   "specialization": "[\"86\",\"123\",\"125\",\"150\",\"256\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27420,110 +26705,6 @@
    ]
   },
   {
-   "id": "245471",
-   "title": "Ingénieur de Projet de Fiabilité (Reliability Engineer) (H/F)",
-   "company": "I-CARE",
-   "country": "BELGIQUE",
-   "city": "MONS",
-   "description": "I-care, société belge implantée dans le monde entier, pionnière dans le secteur de la maintenance industrielle 4.0, est à la recherche d’un ingénieur en fiabilité pour renforcer ses équipes dans le cadre de sa croissance permanente.\r\n\r\nNos forces sont le dynamisme et la formation continue de nos équipes, laperformanceavec laquelle nous délivrons des solutions long terme en maintenance prédictive et prescriptive pour satisfaire nos clients les plus exigeants. Nous accordons de l’importance à ladurabilitéque ce soit au niveau de l’impact environnemental de nos activités, ou des relations avec nos partenaires et l’ensemble de nos collaborateurs. Enfin, lerespect de l’humain, se caractérisant par l’esprit d’équipe, la cohésion, et le fun offre une atmosphère de travail familiale et conviviale très appréciée de nos collègues.\r\n\r\nCes trois valeurs sont centrales dans toutes les prises de décisions quotidiennes au sein de notre entreprise.\r\n\r\nQu'est-ce que nous vous offrons ?\r\n\r\n- I-care offre un environnement de travail ouvert et honnête où les employés sont réellement appréciés pour leurs intérêts, leur passion et leur dévouement.\r\n- Vous travaillerez dans une entreprise jeune et dynamique à croissance constante (+25% par an), offrant des possibilités d’évolution rapide.\r\n- Nous vous proposons un plan de développement individuel, basé sur vos intérêts et vos forces, qui est bénéfique pour les deux parties.\r\n- Nos missions offrent un mix entre un travail de terrain, d’analyse et de réflexion.\r\n- Nous vous offrons la chance de venir travailler chaque jour avec le sourire !\r\n\r\nQuelles seront vos responsabilités ?\r\n\r\n- Vous êtes un excellent communicateur, doté de solides compétences organisationnelles et analytiques, et vous savez résoudre les problèmes ? Vous maîtrisez la boîte à outils standard d'un ingénieur en fiabilité (AMDEC, RCFA, PME/PMO), alors nous avons le poste idéal pour vous !\r\n- Analyser et évaluer les activités/processus de maintenance et identifier les pertes de productivité chez nos clients.\r\n- Définir les business cases pour trouver des solutions pragmatiques aux problèmes de nos clients.\r\n- Planifier et coordonner les activités d'ingénierie de fiabilité dans les installations de nos clients, y compris l'analyse des besoins en équipement, les problèmes de fiabilité, le développement de programmes de maintenance préventive/prédictive.\r\n- Analyser et mettre en œuvre des projets d'amélioration dans les organisations de production afin d'améliorer la fiabilité de leurs actifs, de réduire les coûts et d'augmenter la capacité de production.\r\n- Évaluer le niveau de maturité de l'organisation de la maintenance pour identifier et définir une feuille de route vers les meilleures pratiques.\r\n- Conseiller et encadrer les responsables de la maintenance, les ingénieurs de maintenance, les ingénieurs de fiabilité et toutes les autres parties prenantes dans le processus de gestion des actifs de nos clients.\r\n- Veiller au respect des politiques de santé, sécurité et environnement.",
-   "mission": "",
-   "profile": "Qui êtes-vous ?\r\n\r\n- Vous avez un intérêt marqué pour la maintenance industrielle.\r\n- Vous êtes titulaire d'un Bachelor ou d'un Master dans un domaine technique (électromécanique, maintenance, chimie, biochimie, automation, électricité...) et/ou avez déjà une expérience dans le domaine de la maintenance. La combinaison des deux est un atout non négligeable.\r\nVous êtes doté d’une intelligence sociale et parvenez à vous intégrer facilement au sein d’une équipe.\r\n- Vous avez une bonne dose d'assertivité, êtes un bon communicateur faisant preuve de diplomatie et d'orientation vers un objectif précis.\r\n- Vous avez de bonnes notions d’anglais.\r\n- Vous avez la volonté de continuer à investir dans l'apprentissage et l'élargissement de vos connaissances.",
-   "duration": 24,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2028-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-08-28T08:14:36Z",
-   "sector": "",
-   "specialization": "107",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-08-28T08:14:36Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2028-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-22T00:00:00",
-    "endBroadcastDate": "2026-10-22T00:00:00"
-   },
-   "summary": "I-care, société belge implantée dans le monde entier, pionnière dans le secteur de la maintenance industrielle 4.0, est à la recherche d’un ingénieur en fiabilité pour renforcer ses équipes dans le cadre de sa croissance permanente.\r\n\r\nNos forces sont le dynamisme et la formation continue de nos équipes, laperformanceavec laquelle nous délivrons des solutions long terme en maintenance prédictive et prescriptive pour satisfaire nos clients les plus exigeants. Nous accordons de l’importance à ladurabilitéque ce soit au niveau de l’impact environnemental de nos activités, ou des relations avec nos partenaires et l’ensemble de nos collaborateurs. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/245471",
-   "score": 30,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 24,
-    "qual": 27,
-    "calc": 9
-   },
-   "dominant_axis": "qual",
-   "matched_families": [
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
-     "weight": 4,
-     "terms": [
-      "automation"
-     ]
-    },
-    {
-     "id": "prod5",
-     "axis": "prod",
-     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
-     "weight": 4,
-     "terms": [
-      "productivite"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "ingenierie"
-     ]
-    },
-    {
-     "id": "qual3",
-     "axis": "qual",
-     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
-     "weight": 7,
-     "terms": [
-      "amdec"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineer",
-      "ingenieur"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "chimie"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Aucun terme industriel : score plafonné",
-     "terms": [],
-     "points": -16,
-     "cap": 30
-    }
-   ]
-  },
-  {
    "id": "246947",
    "title": "Ingénieur Intégration Validation (H/F)",
    "company": "INEO SYSTRANS",
@@ -27538,7 +26719,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-12T07:40:30Z",
    "sector": "",
-   "specialization": "330",
+   "specialization": "[\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -28305,7 +27486,7 @@
    "expiry_date": "",
    "publish_date": "2026-03-30T16:06:48Z",
    "sector": "",
-   "specialization": "[\"49\",\"52\",\"63\",\"114\",\"148\",\"245\",\"256\"]",
+   "specialization": "49, 52, 63, 114, 148, 245, 256",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30835,7 +30016,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-23T07:37:46Z",
    "sector": "",
-   "specialization": "[\"318\"]",
+   "specialization": "318",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30919,7 +30100,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-15T13:57:57Z",
    "sector": "",
-   "specialization": "[\"73\"]",
+   "specialization": "73",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31357,7 +30538,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-20T20:29:06Z",
    "sector": "",
-   "specialization": "[\"49\",\"56\",\"157\"]",
+   "specialization": "49, 56, 157",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32254,318 +31435,6 @@
    "bonuses": []
   },
   {
-   "id": "246250",
-   "title": "Talent Acquisition Recruiter - Netherland (H/F)",
-   "company": "FAIVELEY TRANSPORT",
-   "country": "PAYS-BAS",
-   "city": "EDE",
-   "description": "At Wabtec Corporation, we move and improve the world. We are a global technology leader and supplier of equipment, services and digital solutions to the rail, mining, marine, stationary power and drilling industries. Our innovations help customers deliver goods and services with greater speed and savings using our advanced manufacturing techniques and digitally connected machines.\n\nHow will you make a difference? \nThe Talent Acquisition (TA) Recruiter will have responsibility for full life-cycle recruitment including consulting with hiring managers to determine critical capabilities, designing the staffing strategy, sourcing and pre-screening candidates and facilitating debrief meetings to ensure the highest quality candidates are hired. The TA Recruiter will also work on projects with the regional talent team to improve upon or implement core talent acquisition processes and tools.\n\nThe TA Recruiter will support recruitment for France, as well as for the other EMEA countries.\n\nWhat will your typical day look like? \n• Lead all external and internal recruitment for the countries which includes delivering optimal stakeholder management, talent sourcing and recruiting, interviewing solutions, candidate experience, job offers, and feedback mechanisms\n• Develop staffing strategies based on labor market and competitive analysis, benchmarking and survey data\n• Collaborate across segment to advance TA programs that benefit the region as a whole – e.g., Employer Branding initiatives, Sourcing & Selection activities, etc.\n• Continuously build an external talent pipeline; proactively source for high-quality candidates and maintain relationships with talent for future opportunities, create and nurture relationships with external agencies/sources of talent, develop creative and alternative external sources of talent and keep on leading edge of external recruitment best practices\n• Lead the development of TA metrics and analytics to increase the effectiveness of recruitment and selection; provide TA reporting regarding status of current open roles to all stakeholders",
-   "mission": "",
-   "profile": "What do we want to know about you? \n• Strong experience in Talent Acquisition including full-cycle recruitment on professional \\ white collar roles preferably in a corporate or agency environment\n• Experience in multi-country recruitment will be an advantage\n• Experienced ATS user (Smart Recruiters knowledge)\n• Knowledge and/or experience in direct search and other sourcing techniques\n• Experience in recruitment on engineering profiles. \n• Demonstrated ability as a Talent Adviser with the capability to create comprehensive recruiting strategies and appropriately influence hiring managers in making sound hiring decisions\n• Fluent English and French, the other languages will be an advantage",
-   "duration": 12,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2027-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-22T08:10:26Z",
-   "sector": "",
-   "specialization": "238",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-22T08:10:26Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-22T00:00:00",
-    "endBroadcastDate": "2026-10-22T00:00:00"
-   },
-   "summary": "At Wabtec Corporation, we move and improve the world. We are a global technology leader and supplier of equipment, services and digital solutions to the rail, mining, marine, stationary power and drilling industries. Our innovations help customers deliver goods and services with greater speed and savings using our advanced manufacturing techniques and digitally connected machines.\n\nHow will you make a difference? \nThe Talent Acquisition (TA) Recruiter will have responsibility for full life-cycle recruitment including consulting with hiring managers to determine critical capabilities, designing the staffing strategy, sourcing and pre-screening candidates and facilitating debrief meetings to ensure the highest quality candidates are hired. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246250",
-   "score": 28,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 10,
-    "qual": 34,
-    "calc": 0
-   },
-   "dominant_axis": "qual",
-   "matched_families": [
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "engineering",
-      "manufacturing"
-     ]
-    },
-    {
-     "id": "qual3",
-     "axis": "qual",
-     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
-     "weight": 7,
-     "terms": [
-      "capability"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "quality"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "marine",
-      "rail"
-     ],
-     "points": 5
-    }
-   ]
-  },
-  {
-   "id": "246249",
-   "title": "Talent Acquisition Recruiter - Poland (H/F)",
-   "company": "FAIVELEY TRANSPORT",
-   "country": "POLOGNE",
-   "city": "KATY WROCLAWSKIE",
-   "description": "At Wabtec Corporation, we move and improve the world. We are a global technology leader and supplier of equipment, services and digital solutions to the rail, mining, marine, stationary power and drilling industries. Our innovations help customers deliver goods and services with greater speed and savings using our advanced manufacturing techniques and digitally connected machines.\n\nHow will you make a difference? \nThe Talent Acquisition (TA) Recruiter will have responsibility for full life-cycle recruitment including consulting with hiring managers to determine critical capabilities, designing the staffing strategy, sourcing and pre-screening candidates and facilitating debrief meetings to ensure the highest quality candidates are hired. The TA Recruiter will also work on projects with the regional talent team to improve upon or implement core talent acquisition processes and tools.\n\nThe TA Recruiter will support recruitment for France, as well as for the other EMEA countries.\n\nWhat will your typical day look like? \n• Lead all external and internal recruitment for the countries which includes delivering optimal stakeholder management, talent sourcing and recruiting, interviewing solutions, candidate experience, job offers, and feedback mechanisms\n• Develop staffing strategies based on labor market and competitive analysis, benchmarking and survey data\n• Collaborate across segment to advance TA programs that benefit the region as a whole – e.g., Employer Branding initiatives, Sourcing & Selection activities, etc.\n• Continuously build an external talent pipeline; proactively source for high-quality candidates and maintain relationships with talent for future opportunities, create and nurture relationships with external agencies/sources of talent, develop creative and alternative external sources of talent and keep on leading edge of external recruitment best practices\n• Lead the development of TA metrics and analytics to increase the effectiveness of recruitment and selection; provide TA reporting regarding status of current open roles to all stakeholders",
-   "mission": "",
-   "profile": "What do we want to know about you? \n• Strong experience in Talent Acquisition including full-cycle recruitment on professional \\ white collar roles preferably in a corporate or agency environment\n• Experience in multi-country recruitment will be an advantage\n• Experienced ATS user (Smart Recruiters knowledge)\n• Knowledge and/or experience in direct search and other sourcing techniques\n• Experience in recruitment on engineering profiles. \n• Demonstrated ability as a Talent Adviser with the capability to create comprehensive recruiting strategies and appropriately influence hiring managers in making sound hiring decisions\n• Fluent English and French, the other languages will be an advantage",
-   "duration": 12,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2027-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-22T08:06:58Z",
-   "sector": "",
-   "specialization": "238",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-22T08:06:58Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-22T00:00:00",
-    "endBroadcastDate": "2026-10-22T00:00:00"
-   },
-   "summary": "At Wabtec Corporation, we move and improve the world. We are a global technology leader and supplier of equipment, services and digital solutions to the rail, mining, marine, stationary power and drilling industries. Our innovations help customers deliver goods and services with greater speed and savings using our advanced manufacturing techniques and digitally connected machines.\n\nHow will you make a difference? \nThe Talent Acquisition (TA) Recruiter will have responsibility for full life-cycle recruitment including consulting with hiring managers to determine critical capabilities, designing the staffing strategy, sourcing and pre-screening candidates and facilitating debrief meetings to ensure the highest quality candidates are hired. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246249",
-   "score": 28,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 10,
-    "qual": 34,
-    "calc": 0
-   },
-   "dominant_axis": "qual",
-   "matched_families": [
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "engineering",
-      "manufacturing"
-     ]
-    },
-    {
-     "id": "qual3",
-     "axis": "qual",
-     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
-     "weight": 7,
-     "terms": [
-      "capability"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "quality"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "marine",
-      "rail"
-     ],
-     "points": 5
-    }
-   ]
-  },
-  {
-   "id": "246248",
-   "title": "Talent Acquisition Recruiter - Belgium (H/F)",
-   "company": "FAIVELEY TRANSPORT",
-   "country": "BELGIQUE",
-   "city": "VERVIERS",
-   "description": "At Wabtec Corporation, we move and improve the world. We are a global technology leader and supplier of equipment, services and digital solutions to the rail, mining, marine, stationary power and drilling industries. Our innovations help customers deliver goods and services with greater speed and savings using our advanced manufacturing techniques and digitally connected machines.\n\nHow will you make a difference? \nThe Talent Acquisition (TA) Recruiter will have responsibility for full life-cycle recruitment including consulting with hiring managers to determine critical capabilities, designing the staffing strategy, sourcing and pre-screening candidates and facilitating debrief meetings to ensure the highest quality candidates are hired. The TA Recruiter will also work on projects with the regional talent team to improve upon or implement core talent acquisition processes and tools.\n\nThe TA Recruiter will support recruitment for France, as well as for the other EMEA countries.\n\nWhat will your typical day look like? \n• Lead all external and internal recruitment for the countries which includes delivering optimal stakeholder management, talent sourcing and recruiting, interviewing solutions, candidate experience, job offers, and feedback mechanisms\n• Develop staffing strategies based on labor market and competitive analysis, benchmarking and survey data\n• Collaborate across segment to advance TA programs that benefit the region as a whole – e.g., Employer Branding initiatives, Sourcing & Selection activities, etc.\n• Continuously build an external talent pipeline; proactively source for high-quality candidates and maintain relationships with talent for future opportunities, create and nurture relationships with external agencies/sources of talent, develop creative and alternative external sources of talent and keep on leading edge of external recruitment best practices\n• Lead the development of TA metrics and analytics to increase the effectiveness of recruitment and selection; provide TA reporting regarding status of current open roles to all stakeholders",
-   "mission": "",
-   "profile": "What do we want to know about you? \n• Strong experience in Talent Acquisition including full-cycle recruitment on professional \\ white collar roles preferably in a corporate or agency environment\n• Experience in multi-country recruitment will be an advantage\n• Experienced ATS user (Smart Recruiters knowledge)\n• Knowledge and/or experience in direct search and other sourcing techniques\n• Experience in recruitment on engineering profiles. \n• Demonstrated ability as a Talent Adviser with the capability to create comprehensive recruiting strategies and appropriately influence hiring managers in making sound hiring decisions\n• Fluent English and French, the other languages will be an advantage",
-   "duration": 12,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2027-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-22T08:00:08Z",
-   "sector": "",
-   "specialization": "238",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-22T08:00:08Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-22T00:00:00",
-    "endBroadcastDate": "2026-10-22T00:00:00"
-   },
-   "summary": "At Wabtec Corporation, we move and improve the world. We are a global technology leader and supplier of equipment, services and digital solutions to the rail, mining, marine, stationary power and drilling industries. Our innovations help customers deliver goods and services with greater speed and savings using our advanced manufacturing techniques and digitally connected machines.\n\nHow will you make a difference? \nThe Talent Acquisition (TA) Recruiter will have responsibility for full life-cycle recruitment including consulting with hiring managers to determine critical capabilities, designing the staffing strategy, sourcing and pre-screening candidates and facilitating debrief meetings to ensure the highest quality candidates are hired. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246248",
-   "score": 28,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 10,
-    "qual": 34,
-    "calc": 0
-   },
-   "dominant_axis": "qual",
-   "matched_families": [
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "engineering",
-      "manufacturing"
-     ]
-    },
-    {
-     "id": "qual3",
-     "axis": "qual",
-     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
-     "weight": 7,
-     "terms": [
-      "capability"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "quality"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "marine",
-      "rail"
-     ],
-     "points": 5
-    }
-   ]
-  },
-  {
-   "id": "246247",
-   "title": "Talent Acquisition Recruiter - Spain (H/F)",
-   "company": "FAIVELEY TRANSPORT",
-   "country": "ESPAGNE",
-   "city": "TARRAGONE",
-   "description": "At Wabtec Corporation, we move and improve the world. We are a global technology leader and supplier of equipment, services and digital solutions to the rail, mining, marine, stationary power and drilling industries. Our innovations help customers deliver goods and services with greater speed and savings using our advanced manufacturing techniques and digitally connected machines.\n\nHow will you make a difference? \nThe Talent Acquisition (TA) Recruiter will have responsibility for full life-cycle recruitment including consulting with hiring managers to determine critical capabilities, designing the staffing strategy, sourcing and pre-screening candidates and facilitating debrief meetings to ensure the highest quality candidates are hired. The TA Recruiter will also work on projects with the regional talent team to improve upon or implement core talent acquisition processes and tools.\n\nThe TA Recruiter will support recruitment for France, as well as for the other EMEA countries.\n\nWhat will your typical day look like? \n• Lead all external and internal recruitment for the countries which includes delivering optimal stakeholder management, talent sourcing and recruiting, interviewing solutions, candidate experience, job offers, and feedback mechanisms\n• Develop staffing strategies based on labor market and competitive analysis, benchmarking and survey data\n• Collaborate across segment to advance TA programs that benefit the region as a whole – e.g., Employer Branding initiatives, Sourcing & Selection activities, etc.\n• Continuously build an external talent pipeline; proactively source for high-quality candidates and maintain relationships with talent for future opportunities, create and nurture relationships with external agencies/sources of talent, develop creative and alternative external sources of talent and keep on leading edge of external recruitment best practices\n• Lead the development of TA metrics and analytics to increase the effectiveness of recruitment and selection; provide TA reporting regarding status of current open roles to all stakeholders",
-   "mission": "",
-   "profile": "What do we want to know about you? \n• Strong experience in Talent Acquisition including full-cycle recruitment on professional \\ white collar roles preferably in a corporate or agency environment\n• Experience in multi-country recruitment will be an advantage\n• Experienced ATS user (Smart Recruiters knowledge)\n• Knowledge and/or experience in direct search and other sourcing techniques\n• Experience in recruitment on engineering profiles. \n• Demonstrated ability as a Talent Adviser with the capability to create comprehensive recruiting strategies and appropriately influence hiring managers in making sound hiring decisions\n• Fluent English and French, the other languages will be an advantage",
-   "duration": 12,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2027-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-22T07:57:00Z",
-   "sector": "",
-   "specialization": "238",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-22T07:57:00Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-22T00:00:00",
-    "endBroadcastDate": "2026-10-22T00:00:00"
-   },
-   "summary": "At Wabtec Corporation, we move and improve the world. We are a global technology leader and supplier of equipment, services and digital solutions to the rail, mining, marine, stationary power and drilling industries. Our innovations help customers deliver goods and services with greater speed and savings using our advanced manufacturing techniques and digitally connected machines.\n\nHow will you make a difference? \nThe Talent Acquisition (TA) Recruiter will have responsibility for full life-cycle recruitment including consulting with hiring managers to determine critical capabilities, designing the staffing strategy, sourcing and pre-screening candidates and facilitating debrief meetings to ensure the highest quality candidates are hired. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246247",
-   "score": 28,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 10,
-    "qual": 34,
-    "calc": 0
-   },
-   "dominant_axis": "qual",
-   "matched_families": [
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "engineering",
-      "manufacturing"
-     ]
-    },
-    {
-     "id": "qual3",
-     "axis": "qual",
-     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
-     "weight": 7,
-     "terms": [
-      "capability"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "quality"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "marine",
-      "rail"
-     ],
-     "points": 5
-    }
-   ]
-  },
-  {
    "id": "247386",
    "title": "Ingénieur(e) chargé(e) du contrôle de la production et logistique (H/F)",
    "company": "FAURECIA SYSTEMES D'ECHAPPEMENT",
@@ -32812,7 +31681,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-08T08:03:39Z",
    "sector": "",
-   "specialization": "[\"65\",\"73\",\"77\",\"107\",\"206\",\"207\",\"224\",\"264\"]",
+   "specialization": "65, 73, 77, 107, 206, 207, 224, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32884,7 +31753,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-13T14:00:13Z",
    "sector": "",
-   "specialization": "[\"109\"]",
+   "specialization": "109",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33031,7 +31900,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-13T12:34:38Z",
    "sector": "",
-   "specialization": "[\"65\",\"66\",\"68\",\"153\",\"155\"]",
+   "specialization": "65, 66, 68, 153, 155",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33104,7 +31973,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-07T10:47:34Z",
    "sector": "",
-   "specialization": "[\"247\"]",
+   "specialization": "247",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33925,7 +32794,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-21T13:44:37Z",
    "sector": "",
-   "specialization": "[\"80\"]",
+   "specialization": "80",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34426,7 +33295,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T13:20:38Z",
    "sector": "",
-   "specialization": "330",
+   "specialization": "[\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34834,7 +33703,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-15T14:51:50Z",
    "sector": "",
-   "specialization": "[\"251\"]",
+   "specialization": "251",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34916,7 +33785,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-21T11:59:31Z",
    "sector": "",
-   "specialization": "[\"328\"]",
+   "specialization": "328",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35406,7 +34275,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T07:43:54Z",
    "sector": "",
-   "specialization": "[\"70\"]",
+   "specialization": "70",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35456,6 +34325,153 @@
       "engineer"
      ],
      "points": 14
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
+   "id": "247397",
+   "title": "CHARGE DE MISSION NUCLEAIRE (H/F)",
+   "company": "COMMISSARIAT A L' ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+   "country": "INDE",
+   "city": "NEW DELHI",
+   "description": "Le Service nucléaire met en œuvre ses moyens afin de renforcer la coopération franco indienne et défendre les intérêts de la France dans le domaine du nucléaire civil (et des nouvelles technologies pour l’énergie). Il conseille l’Ambassadeur sur ces sujets, assure un rôle de soutien aux industriels du nucléaire français sur les marchés indiens et développe les collaborations scientifiques et institutionnelles entre les organismes indiens et français. \nLe Service nucléaire a également pour mission de concrétiser la politique internationale du Commissariat à l'énergie atomique et aux énergies alternatives (CEA) pour l'ensemble de ses activités de recherche et développement (Recherche Technologique dans les domaines des Energies Nouvelles, Nanomatériaux, Microélectronique pour l’Information et la Santé, Intégration des Systèmes, …). Un focus particulier sera consacré aux applications des sciences et technologies nucléaires dans le domaine de la santé en Inde (Etat des lieux, principaux acteurs institutionnels et privés, domaine en devenir, …) .\nIl facilite notamment l'établissement de partenariats scientifiques ou industriels avec les organismes et entreprises indiennes. Les activités du CEA dans les nouvelles technologies pour l'énergie (production solaire, solutions de stockages, intégration des ENR sur les réseaux) font particulièrement l'objet d'une attention particulière en lien avec les ambitions de l'Inde pour le développement des énergies renouvelables. \nSous la supervision du Conseiller énergie nucléaire (et nouvelles technologies), la/le Volontaire internationale recherche et met en forme des informations sur le développement des énergies nucléaire et renouvelable en Inde ainsi que les thématiques de recherche liées aux activités du CEA. Elle/il produit, avec l’aide du Conseiller, des notes de situation et de synthèse. Elle/il prépare et diffuse périodiquement une revue de presse destinée aux entreprises et administrations françaises. Elle/il pourra également organiser et participer aux rencontres, évènements et missions du Service nucléaire, et accompagner les délégations françaises lors de leurs déplacements en Inde. Enfin, elle/il pourra également être amené à prendre en charge des dossiers de façon autonome et en assurer le suivi.",
+   "mission": "",
+   "profile": "BAC + 5 – Grande école ou université, Sciences Politique, relations internationales \nLangue requise : Anglais (excellente maîtrise orale et écrite\nExpériences/Stages : Expérience souhaitée dans le domaine international \nDomaine de compétence : Intérêt pour l’inde, l’industrie nucléaire et les énergies renouvelables, avoir de très bonnes capacités rédactionnelles, relationnelles et faire preuve de rigueur et d’autonomie.",
+   "duration": 12,
+   "start_date": "2027-05-01T00:00:00",
+   "end_date": "2028-05-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-22T15:17:00Z",
+   "sector": "",
+   "specialization": "[\"57\",\"68\",\"168\",\"171\",\"365\"]",
+   "contract": "VIA",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-22T15:17:00Z",
+    "missionStartDate": "2027-05-01T00:00:00",
+    "missionEndDate": "2028-05-01T00:00:00",
+    "startBroadcastDate": "2026-10-23T00:00:00",
+    "endBroadcastDate": "2026-11-22T00:00:00"
+   },
+   "summary": "Le Service nucléaire met en œuvre ses moyens afin de renforcer la coopération franco indienne et défendre les intérêts de la France dans le domaine du nucléaire civil (et des nouvelles technologies pour l’énergie). Il conseille l’Ambassadeur sur ces sujets, assure un rôle de soutien aux industriels du nucléaire français sur les marchés indiens et développe les collaborations scientifiques et institutionnelles entre les organismes indiens et français. \nLe Service nucléaire a également pour mission de concrétiser la politique internationale du Commissariat à l'énergie atomique et aux énergies alternatives (CEA) pour l'ensemble de ses activités de recherche et développement (Recherche Technologique dans les domaines des Energies Nouvelles, Nanomatériaux, Microélectronique pour l’Information et la Santé, Intégration des Systèmes, …). […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247397",
+   "score": 26,
+   "label": "Périphérique",
+   "first_seen": "2026-10-23T11:36:42+00:00",
+   "axis_scores": {
+    "rd": 9,
+    "prod": 24,
+    "qual": 0,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod6",
+     "axis": "prod",
+     "source": "Outils et moyens de fabrication (259-1, 30 h)",
+     "weight": 7,
+     "terms": [
+      "presse"
+     ]
+    },
+    {
+     "id": "rd9",
+     "axis": "rd",
+     "source": "Vocabulaire de laboratoire courant",
+     "weight": 3,
+     "terms": [
+      "recherche et developpement"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "energie",
+      "nucleaire"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
+   "id": "247396",
+   "title": "CHARGE DE MISSION NUCLEAIRE (H/F)",
+   "company": "COMMISSARIAT A L' ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+   "country": "ETATS-UNIS",
+   "city": "WASHINGTON   -DC-",
+   "description": " Analyse des évolutions du secteur nucléaire nord-américain sous ses différents volets : scientifique, technique, politique, législatif, réglementaire, économique, industriel, sociétal, environnemental, non-prolifération... \n L'Adjoint du Conseiller assiste ce dernier dans ses missions de suivi et de renforcement des coopérations en matière de nucléaire civil entre la France et l’Amérique du Nord. \n Il assure également un suivi quotidien de la presse spécialisée du secteur, et rédige des articles de synthèse réguliers en français sur différents sujets de l’actualité nucléaire aux Etats-Unis et au Canada : perspectives politiques, projets de construction, fonctionnement du parc, économie, marchés de l’enrichissement, sûreté, gestion des combustibles usés, déchets, R&D, démantèlement …",
+   "mission": "",
+   "profile": "Niveau BAC + 5/Ingénieur grande Ecole - Scientifique (1er groupe) + éventuellement formation complémentaire (IEP, économie…)\nLangues requises : Anglais courant parlé et écrit\nDomaine de compétence : \n 1° Généraliste /Scientifique et Technique \n 2° Relations Internationales ou économie \nUne formation spécialisée en sciences et techniques nucléaires est fortement recommandée. Le candidat devra être motivé par les questions de géopolitique, de sécurité énergétique et de politique industrielle. Toute expérience en matière de relations internationales serait un plus. Il devra faire preuve d'un très bon esprit d’analyse et de synthèse et disposer d’excellentes capacités rédactionnelles, particulièrement en français, et avoir le goût du travail en équipe.",
+   "duration": 12,
+   "start_date": "2027-04-01T00:00:00",
+   "end_date": "2028-04-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-22T15:10:23Z",
+   "sector": "",
+   "specialization": "[\"57\"]",
+   "contract": "VIA",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-22T15:10:23Z",
+    "missionStartDate": "2027-04-01T00:00:00",
+    "missionEndDate": "2028-04-01T00:00:00",
+    "startBroadcastDate": "2026-10-23T00:00:00",
+    "endBroadcastDate": "2026-11-22T00:00:00"
+   },
+   "summary": " Analyse des évolutions du secteur nucléaire nord-américain sous ses différents volets : scientifique, technique, politique, législatif, réglementaire, économique, industriel, sociétal, environnemental, non-prolifération... \n L'Adjoint du Conseiller assiste ce dernier dans ses missions de suivi et de renforcement des coopérations en matière de nucléaire civil entre la France et l’Amérique du Nord. \n Il assure également un suivi quotidien de la presse spécialisée du secteur, et rédige des articles de synthèse réguliers en français sur différents sujets de l’actualité nucléaire aux Etats-Unis et au Canada : perspectives politiques, projets de construction, fonctionnement du parc, économie, marchés de l’enrichissement, sûreté, gestion des combustibles usés, déchets, R&D, démantèlement …",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247396",
+   "score": 26,
+   "label": "Périphérique",
+   "first_seen": "2026-10-23T11:36:42+00:00",
+   "axis_scores": {
+    "rd": 9,
+    "prod": 24,
+    "qual": 0,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod6",
+     "axis": "prod",
+     "source": "Outils et moyens de fabrication (259-1, 30 h)",
+     "weight": 7,
+     "terms": [
+      "presse"
+     ]
+    },
+    {
+     "id": "rd9",
+     "axis": "rd",
+     "source": "Vocabulaire de laboratoire courant",
+     "weight": 3,
+     "terms": [
+      "r&d"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "energie",
+      "industriel",
+      "nucleaire"
+     ],
+     "points": 5
     },
     {
      "label": "Niveau bac+5 / ingénieur annoncé",
@@ -36199,7 +35215,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T09:15:57Z",
    "sector": "",
-   "specialization": "[\"327\"]",
+   "specialization": "327",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -36780,7 +35796,7 @@
    "expiry_date": "",
    "publish_date": "2025-08-22T12:46:54Z",
    "sector": "",
-   "specialization": "[\"106\"]",
+   "specialization": "106",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -36838,7 +35854,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T11:31:02Z",
    "sector": "",
-   "specialization": "[\"259\"]",
+   "specialization": "259",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -36969,7 +35985,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-12T12:29:13Z",
    "sector": "",
-   "specialization": "[\"7\"]",
+   "specialization": "7",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
