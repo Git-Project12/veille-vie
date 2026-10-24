@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-23T18:20:25+00:00",
+ "generated_at": "2026-10-24T14:01:58+00:00",
  "source": "Business France — mon-vie-via.businessfrance.fr",
- "total_scanned": 849,
- "total_announced": 849,
- "total_kept": 377,
+ "total_scanned": 837,
+ "total_announced": 837,
+ "total_kept": 375,
  "threshold": 25,
  "axes": {
   "rd": {
@@ -1772,7 +1772,7 @@
    "expiry_date": "",
    "publish_date": "2026-05-04T16:17:32Z",
    "sector": "",
-   "specialization": "[\"66\"]",
+   "specialization": "66",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -4325,7 +4325,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-10T09:56:17Z",
    "sector": "",
-   "specialization": "[\"49\",\"63\",\"86\",\"125\",\"207\",\"208\",\"256\",\"366\"]",
+   "specialization": "49, 63, 86, 125, 207, 208, 256, 366",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -4873,7 +4873,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-13T14:51:48Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5204,7 +5204,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T07:31:41Z",
    "sector": "",
-   "specialization": "[\"206\"]",
+   "specialization": "206",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5728,7 +5728,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T16:09:45Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6471,7 +6471,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-14T17:08:48Z",
    "sector": "",
-   "specialization": "[\"149\",\"169\"]",
+   "specialization": "149, 169",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6797,7 +6797,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-21T07:02:12Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10139,7 +10139,7 @@
    "expiry_date": "",
    "publish_date": "2026-02-09T14:36:25Z",
    "sector": "",
-   "specialization": "[\"65\",\"66\",\"71\",\"77\",\"117\",\"142\",\"143\",\"148\",\"153\",\"225\"]",
+   "specialization": "65, 66, 71, 77, 117, 142, 143, 148, 153, 225",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -11276,7 +11276,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-21T09:50:46Z",
    "sector": "",
-   "specialization": "[\"149\"]",
+   "specialization": "149",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -11834,7 +11834,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-01T16:15:18Z",
    "sector": "",
-   "specialization": "[\"149\"]",
+   "specialization": "149",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -11997,7 +11997,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-21T12:36:21Z",
    "sector": "",
-   "specialization": "[\"225\"]",
+   "specialization": "225",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12816,7 +12816,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-10T12:08:07Z",
    "sector": "",
-   "specialization": "71",
+   "specialization": "[\"71\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -13169,7 +13169,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-20T08:28:02Z",
    "sector": "",
-   "specialization": "[\"56\"]",
+   "specialization": "56",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -17327,7 +17327,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-04T20:56:07Z",
    "sector": "",
-   "specialization": "[\"205\"]",
+   "specialization": "205",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -18065,7 +18065,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-22T14:14:40Z",
    "sector": "",
-   "specialization": "[\"70\"]",
+   "specialization": "70",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -18578,7 +18578,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-12T09:05:26Z",
    "sector": "",
-   "specialization": "[\"327\"]",
+   "specialization": "327",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19222,7 +19222,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-22T13:27:06Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19394,7 +19394,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-15T13:38:37Z",
    "sector": "",
-   "specialization": "[\"73\",\"109\",\"149\",\"150\",\"206\",\"207\",\"262\",\"264\",\"330\"]",
+   "specialization": "73, 109, 149, 150, 206, 207, 262, 264, 330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19700,7 +19700,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-15T08:25:53Z",
    "sector": "",
-   "specialization": "[\"60\"]",
+   "specialization": "60",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20359,7 +20359,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-21T07:17:18Z",
    "sector": "",
-   "specialization": "[\"71\"]",
+   "specialization": "71",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20709,7 +20709,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T09:12:56Z",
    "sector": "",
-   "specialization": "[\"259\"]",
+   "specialization": "259",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21374,7 +21374,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-13T13:34:30Z",
    "sector": "",
-   "specialization": "[\"65\",\"77\",\"149\",\"207\",\"244\"]",
+   "specialization": "65, 77, 149, 207, 244",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21614,7 +21614,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-21T12:18:30Z",
    "sector": "",
-   "specialization": "[\"60\"]",
+   "specialization": "60",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21698,7 +21698,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-20T08:09:32Z",
    "sector": "",
-   "specialization": "[\"107\"]",
+   "specialization": "107",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22377,113 +22377,6 @@
      "label": "Aucun terme industriel : score plafonné",
      "terms": [],
      "points": -19,
-     "cap": 30
-    }
-   ]
-  },
-  {
-   "id": "246320",
-   "title": "Ingénieur Test & Mise en Service ICC (H/F)",
-   "company": "ALSTOM TRANSPORT SA",
-   "country": "CANADA",
-   "city": "MONTREAL -QC",
-   "description": "Nous rejoindre, c’est rejoindre une entreprise bienveillante, responsable et innovante où plus de 80 000 personnes ouvrent la voie à une mobilité plus verte et plus intelligente dans le monde entier. \n\nPourriez-vous être le/la VIE ICC Test and Commissioning Engineer, basé(e) à Montréal, Canada, que nous recherchons ? \n\nVotre futur rôle\n\nRelevez un nouveau défi et développez votre expertise dans les essais et la mise en service de systèmes ferroviaires intégrés. \n\nAu sein de la solution SLV (« Signalling & Low Voltage ») d’Alstom, l’ATS (« Automatic Train Supervision ») a pour fonction de superviser et réguler la circulation des trains, tandis que le SCADA (« Supervisory Control And Data Acquisition ») permet la gestion de l’énergie de traction, des équipements électromécaniques et de la ventilation en tunnel. En outre, le CSP (« Cybersecurity Platform ») fournit des services de cybersécurité à l'ensemble du système SLV et à d'autres acteurs externes.La combinaison de ces 3 sous-systèmes forme l’entité dénommée « Integrated Control Center » (ICC).. \n\nL’objectif du poste est de contribuer à la préparation et à l’exécution des essais sur site des sous-systèmes ICC, conformément aux exigences contractuelles, à la stratégie du projet et aux politiques de l’entreprise en matière d’EHS, de sécurité ferroviaire et de qualité. \n\nVous serez rattaché(e) au ICC T&C Manager. Vous collaborerez avec les équipes T&C, installation, ingénierie, support technique, ainsi qu’avec les partenaires et sous-traitants du projet.\n\nNous ferons appel à vous pour \n\nParticiper à la préparation des activités d’essais et de mise en service des sous-systèmes ICC.\nContribuer à la rédaction et à la mise à jour des procédures et cahiers d’essais. \nVérifier la disponibilité et la conformité des prérequis avant le démarrage des essais. \nExécuter les essais statiques, fonctionnels, d’intégration et de performance. \nEnregistrer les résultats et rédiger les rapports d’essais. \nIdentifier, documenter et déclarer les anomalies détectées. \nParticiper à l’analyse, au dépannage et au suivi des anomalies avec les équipes concernées. \nRéaliser les essais de vérification et de non-régression après correction. \nParticiper aux activités de configuration et de déploiement des équipements et logiciels ICC. \nMaintenir à jour les outils de suivi des essais, des anomalies et des actions. \nSoutenir la préparation des démonstrations et des activités d’acceptation avec le client. \nFournir régulièrement un état d’avancement au responsable T&C concerné. \nRespecter les règles EHS, les procédures de sécurité ferroviaire et les processus qualité applicables au projet.",
-   "mission": "",
-   "profile": "Votre profil\r\n\r\nNous accordons plus d’importance à la motivation, à la capacité d’apprentissage et à l’état d’esprit qu’à une longue expérience professionnelle. \r\n\r\nDiplôme d’ingénieur ou équivalent en génie informatique, télécommunications, électronique, automatisation, systèmes embarqués ou dans un domaine connexe.}\r\nPremière expérience, stage ou projet universitaire dans les essais, la validation, l’intégration de systèmes ou le dépannage technique.\r\nCapacité à lire et comprendre des schémas, architectures système, spécifications et procédures d’essais. \r\nConnaissance des systèmes d'exploitation et des bases de données Linux et Windows.\r\nConnaissances en environnements de virtualisation (VMWare ou équivalent).\r\nConnaissances sur la mise en œuvre de la cybersécurité (antivirus, certificats, etc).\r\nConnaissances de base en réseaux informatiques, notamment Ethernet et TCP/IP. \r\nIntérêt pour l’intégration et le dépannage de systèmes complexes. \r\nRigueur, autonomie, proactivité, esprit d’équipe et bonnes capacités de communication. \r\nBonne maîtrise du français et de l’anglais, à l’oral comme à l’écrit. \r\nDisponibilité ponctuelle pour travailler de nuit ou durant les fins de semaine. \r\nDisponibilité pour des déplacements occasionnels au Canada ou à l’international.",
-   "duration": 18,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-07-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-23T09:42:23Z",
-   "sector": "",
-   "specialization": "330",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-23T09:42:23Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-07-01T00:00:00",
-    "startBroadcastDate": "2026-09-23T00:00:00",
-    "endBroadcastDate": "2026-10-23T00:00:00"
-   },
-   "summary": "Nous rejoindre, c’est rejoindre une entreprise bienveillante, responsable et innovante où plus de 80 000 personnes ouvrent la voie à une mobilité plus verte et plus intelligente dans le monde entier. \n\nPourriez-vous être le/la VIE ICC Test and Commissioning Engineer, basé(e) à Montréal, Canada, que nous recherchons ? \n\nVotre futur rôle\n\nRelevez un nouveau défi et développez votre expertise dans les essais et la mise en service de systèmes ferroviaires intégrés. \n\nAu sein de la solution SLV (« Signalling & Low Voltage ») d’Alstom, l’ATS (« Automatic Train Supervision ») a pour fonction de superviser et réguler la circulation des trains, tandis que le SCADA (« Supervisory Control And Data Acquisition ») permet la gestion de l’énergie de traction, des équipements électromécaniques et de la ventilation en tunnel. En outre, le CSP (« Cybersecurity Platform ») fournit des services de cybersécurité à l'ensemble du système SLV et à d'autres acteurs externes.La combinaison de ces 3 sous-systèmes forme l’entité dénommée « Integrated Control Center » (ICC).. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246320",
-   "score": 30,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 29,
-    "prod": 10,
-    "qual": 8,
-    "calc": 9
-   },
-   "dominant_axis": "rd",
-   "matched_families": [
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
-     "weight": 4,
-     "terms": [
-      "automatisation"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "ingenierie"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "conformite",
-      "essais",
-      "qualite",
-      "validation"
-     ]
-    },
-    {
-     "id": "rd4",
-     "axis": "rd",
-     "source": "Rupture et fatigue des matériaux (291-1, 47 h)",
-     "weight": 10,
-     "terms": [
-      "traction"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "energie",
-      "ferroviaire"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Aucun terme industriel : score plafonné",
-     "terms": [],
-     "points": -14,
      "cap": 30
     }
    ]
@@ -24571,7 +24464,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-21T07:16:38Z",
    "sector": "",
-   "specialization": "[\"35\"]",
+   "specialization": "35",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26206,7 +26099,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-21T06:56:59Z",
    "sector": "",
-   "specialization": "[\"86\",\"123\",\"125\",\"150\",\"256\",\"264\"]",
+   "specialization": "86, 123, 125, 150, 256, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26881,7 +26774,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T13:35:27Z",
    "sector": "",
-   "specialization": "[\"65\",\"66\",\"68\",\"71\",\"153\"]",
+   "specialization": "65, 66, 68, 71, 153",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26968,7 +26861,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-29T08:17:18Z",
    "sector": "",
-   "specialization": "[\"209\"]",
+   "specialization": "209",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27089,7 +26982,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-12T07:40:30Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -28457,7 +28350,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-21T13:27:37Z",
    "sector": "",
-   "specialization": "[\"73\"]",
+   "specialization": "73",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -28564,7 +28457,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-13T10:05:29Z",
    "sector": "",
-   "specialization": "[\"155\"]",
+   "specialization": "155",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30477,7 +30370,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-23T07:37:46Z",
    "sector": "",
-   "specialization": "[\"318\"]",
+   "specialization": "318",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31073,7 +30966,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-20T20:29:06Z",
    "sector": "",
-   "specialization": "49, 56, 157",
+   "specialization": "[\"49\",\"56\",\"157\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31245,7 +31138,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-20T14:12:12Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31984,7 +31877,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-22T13:06:14Z",
    "sector": "",
-   "specialization": "[\"150\"]",
+   "specialization": "150",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32288,7 +32181,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-13T14:00:13Z",
    "sector": "",
-   "specialization": "[\"109\"]",
+   "specialization": "109",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32435,7 +32328,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-13T12:34:38Z",
    "sector": "",
-   "specialization": "[\"65\",\"66\",\"68\",\"153\",\"155\"]",
+   "specialization": "65, 66, 68, 153, 155",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33998,7 +33891,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T16:05:20Z",
    "sector": "",
-   "specialization": "[\"68\",\"77\",\"109\",\"130\",\"149\",\"169\"]",
+   "specialization": "68, 77, 109, 130, 149, 169",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34154,7 +34047,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-22T07:06:22Z",
    "sector": "",
-   "specialization": "[\"17\",\"259\"]",
+   "specialization": "17, 259",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34810,7 +34703,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T07:43:54Z",
    "sector": "",
-   "specialization": "70",
+   "specialization": "[\"70\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35428,71 +35321,6 @@
    ]
   },
   {
-   "id": "246325",
-   "title": "VIE Achats Indirects - F/H (H/F)",
-   "company": "ERAMET",
-   "country": "ARGENTINE",
-   "city": "SALTA",
-   "description": "Eramine Sudamérica SA est une filiale d’Eramet, groupe minier et métallurgique français d’envergure mondiale. Elle est située dans le Salar Centenario Ratones, à 3 800 mètres d’altitude, dans le département de Los Andes, au sein de la province de Salta, en Argentine.\r\nLes activités d’exploration ont débuté il y a 12 ans et, fin 2019, notre usine pilote a commencé à fonctionner. Elle permet de démontrer la qualité du produit final, le carbonate de lithium, avec une efficacité d’extraction directe supérieure à 90 %.\r\n\r\nContexte: \r\nLa mission VIE se déroule au sein du service Achats de la Direction Supply Chain de Eramine en charge d’acheter les biens et services nécessaires aux opérations pour la production de lithium. \r\nLe site Eramine commence sa production de Lithium depuis début 2025. Dans ce cadre, le département achats recherche un VIE pour accompagner la montée en puissance de la production et renforcer les échanges avec le siège à Paris.  \r\n\r\nLieu : Salta - ARGENTINE \r\nDate de début prévisionnelle : Dès que possible selon les délais administratifs \r\nDurée : 12 mois \r\n\r\nDéplacements ponctuels sur le site de Centenario une fois tous les deux mois. \r\n\nMissions principales : \r\n- Gestion d’un portefeuille Achats Indirects du sourcing à la commande et jusqu’à la réception (ex : EPI, matériel pour le marketing, équipements de bureaux, services, ...). \r\n- Mise en place et suivi d’indicateurs de performance. \r\n- Support des équipes sur les aspects RSE, Carbon émission, éthiques des achats.",
-   "mission": "",
-   "profile": "Votre Profil : \n- Formation BAC+5 école d’ingénieurs ou école de commerce ou cursus universitaire avec une spécialisation en achats. \n- Idéalement 2 à 5 années en achats avec une bonne connaissance des processus achats, connaissances de base en contrats. \n- Ouverture d’esprit, curiosité, esprit analytique. \n- Aptitude à la communication et à la négociation. \n- Outils : Microsoft Office (niveau avancé), SAP (un plus).\n- Langues : espagnol natif ou courant et anglais courant. \n\nPrésent sur les cinq continents et regroupant plus de 70 nationalités, Eramet est par nature un groupe empreint de diversité.\nNous nous engageons à accueillir tous les talents, quels que soient leur genre, leur handicap, leur âge, leur origine sociale ou culturelle, leur orientation sexuelle, leur croyance.\nChoisir Eramet, c’est rejoindre un Groupe au sein duquel la diversité est reconnue, respectée et valorisée.\nA tous, nous garantissons un accompagnement et des opportunités de développement tout au long de leur parcours professionnel.",
-   "duration": 12,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-23T14:21:39Z",
-   "sector": "",
-   "specialization": "2",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-23T14:21:39Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-09-23T00:00:00",
-    "endBroadcastDate": "2026-10-23T00:00:00"
-   },
-   "summary": "Eramine Sudamérica SA est une filiale d’Eramet, groupe minier et métallurgique français d’envergure mondiale. Elle est située dans le Salar Centenario Ratones, à 3 800 mètres d’altitude, dans le département de Los Andes, au sein de la province de Salta, en Argentine.\r\nLes activités d’exploration ont débuté il y a 12 ans et, fin 2019, notre usine pilote a commencé à fonctionner. Elle permet de démontrer la qualité du produit final, le carbonate de lithium, avec une efficacité d’extraction directe supérieure à 90 %.\r\n\r\nContexte: \r\nLa mission VIE se déroule au sein du service Achats de la Direction Supply Chain de Eramine en charge d’acheter les biens et services nécessaires aux opérations pour la production de lithium. \r\nLe site Eramine commence sa production de Lithium depuis début 2025. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246325",
-   "score": 26,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 34,
-    "qual": 8,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
-     "weight": 10,
-     "terms": [
-      "usine"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "qualite"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "246459",
    "title": "Spécialiste Amélioration Continue (H/F)",
    "company": "ESSILOR INTERNATIONAL",
@@ -35750,7 +35578,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T09:15:57Z",
    "sector": "",
-   "specialization": "[\"327\"]",
+   "specialization": "327",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35823,7 +35651,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-29T09:14:24Z",
    "sector": "",
-   "specialization": "[\"246\"]",
+   "specialization": "246",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -36331,7 +36159,7 @@
    "expiry_date": "",
    "publish_date": "2025-08-22T12:46:54Z",
    "sector": "",
-   "specialization": "[\"106\"]",
+   "specialization": "106",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
