@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-24T14:01:58+00:00",
+ "generated_at": "2026-10-25T14:23:53+00:00",
  "source": "Business France — mon-vie-via.businessfrance.fr",
- "total_scanned": 837,
- "total_announced": 837,
- "total_kept": 375,
+ "total_scanned": 809,
+ "total_announced": 809,
+ "total_kept": 357,
  "threshold": 25,
  "axes": {
   "rd": {
@@ -3227,128 +3227,6 @@
    ]
   },
   {
-   "id": "243585",
-   "title": "Process Engineer  (H/F)",
-   "company": "ADISSEO FRANCE S.A.S.",
-   "country": "CHINE",
-   "city": "NANJING",
-   "description": "About the Nanjing Site\r\nThe Nanjing site is one of Adisseo’s major industrial complexes, comprising two production units (BANC 1 and BANC 2) with a total capacity of approximately 350 kt.\r\n\r\nSpanning 43 hectares, the site includes 25 chemical units as well as a dedicated logistics center.\r\n\r\nThe plant primarily produces liquid methionine (Rhodimet AT88), ammonium sulfate, and carbon disulfide (CS₂).\r\n\r\nIt employs around 500 people, supported by more than 300 contractors.\r\n\r\nKey Responsibilities\r\nReporting to the site industrial teams, you will actively contribute to operational performance and the optimization of chemical processes.\r\n\r\nYour main responsibilities will include:\r\n\r\nSupporting the implementation of the site’s operational strategy\r\nMonitoring, analyzing, and optimizing production processes to achieve performance targets (quality, cost, delivery)\r\nContributing to continuous improvement initiatives and chemical process optimization projects\r\nParticipating in safety audits, risk assessments (e.g., HAZOP, FMEA), and incident investigations\r\nEnsuring compliance with HSE (Health, Safety, Environment) standards and regulatory requirements\r\nMonitoring process parameters and contributing to the update of technical documentation\r\nSupporting ISO compliance and coordinating quality audits\r\nCollaborating closely with local teams, suppliers, and industrial partners",
-   "mission": "",
-   "profile": "Master’s degree (Engineering degree or equivalent) in Chemical Engineering, Process Engineering, or Industrial Engineering\nInitial experience (internship or apprenticeship) in an industrial or chemical environment is a plus\nStrong awareness of HSE and quality standards\nAnalytical mindset, rigor, and problem-solving skills\nTeam player with strong communication skills in an international environment\nGood command of English required",
-   "duration": 12,
-   "start_date": "2027-03-01T00:00:00",
-   "end_date": "2028-03-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-06-05T12:11:52Z",
-   "sector": "",
-   "specialization": "169",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-06-05T12:11:52Z",
-    "missionStartDate": "2027-03-01T00:00:00",
-    "missionEndDate": "2028-03-01T00:00:00",
-    "startBroadcastDate": "2026-09-24T00:00:00",
-    "endBroadcastDate": "2026-10-24T00:00:00"
-   },
-   "summary": "About the Nanjing Site\r\nThe Nanjing site is one of Adisseo’s major industrial complexes, comprising two production units (BANC 1 and BANC 2) with a total capacity of approximately 350 kt.\r\n\r\nSpanning 43 hectares, the site includes 25 chemical units as well as a dedicated logistics center.\r\n\r\nThe plant primarily produces liquid methionine (Rhodimet AT88), ammonium sulfate, and carbon disulfide (CS₂).\r\n\r\nIt employs around 500 people, supported by more than 300 contractors.\r\n\r\nKey Responsibilities\r\nReporting to the site industrial teams, you will actively contribute to operational performance and the optimization of chemical processes.\r\n\r\nYour main responsibilities will include:\r\n\r\nSupporting the implementation of the site’s operational strategy\r\nMonitoring, analyzing, and optimizing production processes to achieve performance targets (quality, cost, delivery)\r\nContributing to continuous improvement initiatives and chemical process optimization projects\r\nParticipating in safety audits, risk assessments (e.g., HAZOP, FMEA), and incident investigations […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/243585",
-   "score": 68,
-   "label": "Bonne adéquation",
-   "first_seen": "2026-08-24T16:01:18+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 59,
-    "qual": 34,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
-     "weight": 10,
-     "terms": [
-      "plant",
-      "process engineer",
-      "process engineering"
-     ]
-    },
-    {
-     "id": "prod5",
-     "axis": "prod",
-     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
-     "weight": 4,
-     "terms": [
-      "process optimization"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "continuous improvement",
-      "engineering"
-     ]
-    },
-    {
-     "id": "qual3",
-     "axis": "qual",
-     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
-     "weight": 7,
-     "terms": [
-      "fmea"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "compliance",
-      "quality",
-      "standards"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "problem solving"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineer",
-      "process"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "chemical",
-      "industrial"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "247240",
    "title": "Référent qualité projet (H/F)",
    "company": "WIPRO LAUAK FRANCE",
@@ -3458,123 +3336,6 @@
       "aeronautique",
       "aviation",
       "industriel"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
-   "id": "245437",
-   "title": "Process Engineer (H/F)",
-   "company": "ADISSEO FRANCE S.A.S.",
-   "country": "ETATS-UNIS",
-   "city": "HAMPSHIRE - IL",
-   "description": "As a Process Engineer (VIE) based in Hampshire, USA, you will be involved in key industrial investment projects aimed at improving production performance, safety, and operational excellence.\n\nYou will contribute to strategic CAPEX projects (approximately USD 1 million) and work closely with multidisciplinary teams, equipment suppliers, and engineering partners to deliver robust, compliant, and efficient process solutions.\n\nAbout the Hampshire Plant\nBuilt in 2015 in Illinois, the Hampshire plant (formerly Nutriad) is a key production site in North America.\nThe site manufactures a wide range of specialty products and vitamins, serving strategic markets across the region.\n\nEquipped with an on-site laboratory, the Hampshire plant also contributes to research and development activities, supporting the development and industrialization of new products.\n\nAll operations are conducted in strict compliance with global safety, quality, and regulatory standards, ensuring a high level of operational excellence.\n\nKey Missions\nYou will participate in industrial projects focused on the optimization and modernization of production processes, including:\n\nPowder–liquid blending systems\n\nAutomated packaging lines\n\nPower unloading stations\n\nLiquid dosing systems\n\nYour role will ensure:\n\nProcess safety and regulatory compliance\n\nHigh product quality\n\nOperational efficiency and reliability\n\nContinuous improvement through technology and best practices\n\nMain Responsibilities\nParticipate in process-related activities carried out by external engineering companies and internal project teams.\n\nContribute to the development, review, and updating of process specifications, standards, and operating procedures.\n\nSupport process standardization efforts, contributing to the definition of optimal work sequences and documentation of best practices.\n\nPerform detailed process reviews to identify technical and operational improvement opportunities.\n\nCarry out feasibility studies and contribute to the implementation of production process improvements.\n\nContribute to knowledge sharing and technical documentation related to internal process standards.\n\nSupport process activities during both design and production phases.\n\nContribute to the monitoring of quality, safety, and performance indicators.\n\nCollaborate with other engineering disciplines and provide technical support within industrial projects.\n\nParticipate in continuous improvement initiatives and provide technical input to engineering decisions.\n\nProfile Required\nMaster’s degree in Chemical Engineering or Process Engineering .\n\nStrong interest in industrial processes and manufacturing environments.\n\nExcellent communication and interpersonal skills in an international context.\n\nStrong analytical, organizational, and problem-solving abilities.\n\nCurious, proactive, and motivated to grow in a technical project-oriented role.\n\nFluent in English (working language).\n\nWhat We Offer\nInclusive & Diverse Culture\nJoin a multicultural and global team representing 62 nationalities, operating in 100+ countries, committed to inclusion, respect, and work–life balance.\n\nBenefits\nCare and well-being programs\n\nPaid time off and vacation\n\nProfit-sharing and performance incentives\n\nLearning & Career Development\nContinuous training and mentoring\n\nExposure to international industrial projects\n\nEqual access to career progression and development opportunities\n\nA Sustainable & Innovative Company\nWork on meaningful industrial projects using cutting-edge technologies.\nAt Adisseo, sustainability is not optional — it is a core ambition, as we contribute to feeding 8 billion people worldwide.",
-   "mission": "",
-   "profile": "Master’s degree in Chemical Engineering or Process Engineering .\n\nStrong interest in industrial processes and manufacturing environments.\n\nExcellent communication and interpersonal skills in an international context.\n\nStrong analytical, organizational, and problem-solving abilities.\n\nCurious, proactive, and motivated to grow in a technical project-oriented role.\n\nFluent in English (working language).",
-   "duration": 12,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2027-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-08-26T15:07:20Z",
-   "sector": "",
-   "specialization": "63",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-08-26T15:07:20Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-24T00:00:00",
-    "endBroadcastDate": "2026-10-24T00:00:00"
-   },
-   "summary": "As a Process Engineer (VIE) based in Hampshire, USA, you will be involved in key industrial investment projects aimed at improving production performance, safety, and operational excellence.\n\nYou will contribute to strategic CAPEX projects (approximately USD 1 million) and work closely with multidisciplinary teams, equipment suppliers, and engineering partners to deliver robust, compliant, and efficient process solutions.\n\nAbout the Hampshire Plant\nBuilt in 2015 in Illinois, the Hampshire plant (formerly Nutriad) is a key production site in North America.\nThe site manufactures a wide range of specialty products and vitamins, serving strategic markets across the region.\n\nEquipped with an on-site laboratory, the Hampshire plant also contributes to research and development activities, supporting the development and industrialization of new products.\n\nAll operations are conducted in strict compliance with global safety, quality, and regulatory standards, ensuring a high level of operational excellence. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/245437",
-   "score": 67,
-   "label": "Bonne adéquation",
-   "first_seen": "2026-08-28T14:08:58+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 69,
-    "qual": 8,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
-     "weight": 10,
-     "terms": [
-      "industrialization",
-      "plant",
-      "process engineer",
-      "process engineering"
-     ]
-    },
-    {
-     "id": "prod6",
-     "axis": "prod",
-     "source": "Outils et moyens de fabrication (259-1, 30 h)",
-     "weight": 7,
-     "terms": [
-      "cutting"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "continuous improvement",
-      "engineering",
-      "manufacturing"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "compliance",
-      "quality",
-      "standards"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "laboratory",
-      "problem solving",
-      "research and development"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineer",
-      "process"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "chemical",
-      "industrial"
      ],
      "points": 5
     },
@@ -4325,7 +4086,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-10T09:56:17Z",
    "sector": "",
-   "specialization": "49, 63, 86, 125, 207, 208, 256, 366",
+   "specialization": "[\"49\",\"63\",\"86\",\"125\",\"207\",\"208\",\"256\",\"366\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -4873,7 +4634,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-13T14:51:48Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6053,7 +5814,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-20T19:24:50Z",
    "sector": "",
-   "specialization": "[\"64\",\"65\",\"66\",\"77\",\"107\",\"150\",\"153\",\"207\"]",
+   "specialization": "64, 65, 66, 77, 107, 150, 153, 207",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6164,7 +5925,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-21T12:15:55Z",
    "sector": "",
-   "specialization": "208",
+   "specialization": "[\"208\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6903,7 +6664,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-21T12:42:05Z",
    "sector": "",
-   "specialization": "150",
+   "specialization": "[\"150\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8156,99 +7917,6 @@
    ]
   },
   {
-   "id": "242175",
-   "title": "Ingénieur Maintenance (H/F)",
-   "company": "FRATECH RP",
-   "country": "BELGIQUE",
-   "city": "BRUXELLES",
-   "description": "En tant qu’Ingénieur Maintenance au sein d’un environnement industriel (aéronautique, ferroviaire ou similaire), vous contribuez à garantir la disponibilité, la fiabilité et la performance des équipements de production.\n\nAssurer le support technique des équipes de maintenance pour résoudre les pannes complexes.\nAnalyser les causes racines des défaillances et proposer des actions correctives et préventives.\nDéfinir, optimiser et piloter le plan de maintenance préventive.\nParticiper à l’amélioration continue des installations (fiabilisation, réduction des arrêts, optimisation des coûts).\nCollaborer avec la production, la qualité et les méthodes pour assurer un fonctionnement optimal des équipements.\nRédiger la documentation technique (procédures, standards, rapports d’analyse).\nContribuer au suivi des indicateurs de performance liés à la maintenance.",
-   "mission": "",
-   "profile": "Formation Bac+3 minimum en maintenance industrielle, génie industriel, électrotechnique ou similaire.\nExpérience de 6 mois minimum en maintenance, industrialisation, fiabilisation ou environnement technique similaire.\nConnaissances solides en mécanique, électricité, automatisme ou instrumentation.\nCapacité à analyser, diagnostiquer et résoudre des problématiques techniques complexes.\nRigueur, curiosité technique et sens de l’anticipation.\nAisance relationnelle et capacité à travailler en équipe avec des interlocuteurs variés.",
-   "duration": 12,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-04-10T14:13:50Z",
-   "sector": "",
-   "specialization": "107",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-04-10T14:13:50Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-09-24T00:00:00",
-    "endBroadcastDate": "2026-10-24T00:00:00"
-   },
-   "summary": "En tant qu’Ingénieur Maintenance au sein d’un environnement industriel (aéronautique, ferroviaire ou similaire), vous contribuez à garantir la disponibilité, la fiabilité et la performance des équipements de production.\n\nAssurer le support technique des équipes de maintenance pour résoudre les pannes complexes.\nAnalyser les causes racines des défaillances et proposer des actions correctives et préventives.\nDéfinir, optimiser et piloter le plan de maintenance préventive.\nParticiper à l’amélioration continue des installations (fiabilisation, réduction des arrêts, optimisation des coûts).\nCollaborer avec la production, la qualité et les méthodes pour assurer un fonctionnement optimal des équipements.\nRédiger la documentation technique (procédures, standards, rapports d’analyse).\nContribuer au suivi des indicateurs de performance liés à la maintenance.",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/242175",
-   "score": 52,
-   "label": "Bonne adéquation",
-   "first_seen": "2026-08-24T16:01:18+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 45,
-    "qual": 8,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
-     "weight": 10,
-     "terms": [
-      "industrialisation"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "amelioration continue",
-      "methodes"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "qualite",
-      "standards"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur",
-      "maintenance"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "aeronautique",
-      "ferroviaire",
-      "industriel"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "246363",
    "title": "Red Team/Pentest cybersecurity consultant (H/F)",
    "company": "HEADMIND PARTNERS",
@@ -8869,7 +8537,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-23T09:02:41Z",
    "sector": "",
-   "specialization": "[\"52\",\"66\",\"114\",\"115\",\"143\",\"148\",\"153\"]",
+   "specialization": "52, 66, 114, 115, 143, 148, 153",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9049,7 +8717,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-23T07:15:58Z",
    "sector": "",
-   "specialization": "[\"66\"]",
+   "specialization": "66",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9760,7 +9428,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-20T16:06:13Z",
    "sector": "",
-   "specialization": "[\"68\"]",
+   "specialization": "68",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10497,193 +10165,6 @@
       "chimie"
      ],
      "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
-   "id": "245839",
-   "title": "Ingénieur matériaux (H/F)",
-   "company": "FRATECH RP",
-   "country": "BELGIQUE",
-   "city": "BRUXELLES",
-   "description": "HOUSE OF ABY, groupe d'ingénierie et de conseil présent dans 9 pays, réunit 11 marques (Abylsen, ABMI, Pharmacos…) et s'appuie sur 4 grands piliers : Engineering (expertise technique et ingénierie de pointe), Solutions (développement et mise en œuvre de solutions adaptées), Digital (innovation et transformation numérique) et Advisory (conseil stratégique RH/QRSE). \r\n\nCette offre concerne la marque Abylsen*. \r\n\r\nAbylsen Belgium, société de conseil en ingénierie, en quelques mots \r\n\nNotre société de conseil en ingénierie propose à d'autres entreprises l'expertise de ses ingénieurs, qui interviennent chez ses clients pour une durée moyenne d’un an pour les accompagner sur le développement de leurs projets. Abylsen Belgium opère dans 8 secteurs clés, dont l’aéronautique - spatial, l’automobile, la défense, l’énergie, le BTP – Infrastructure – Ferroviaire, l’IT – Télécommunications, Life Sciences, Banque – Finance – Assurances. \r\nDans le cadre de la croissance de ses activités Transport/Défense dans la région de Bruxelles Capitale et en Wallonie, Abylsen recherche un(e) Ingénieur(e) matériaux pour renforcer ses équipes. \r\n\r\nVos responsabilités au quotidien ? \r\n\r\n· Soutenir l'ensemble des activités, allant de l'étude technique et de la R&D jusqu'aux nouveaux projets et au support de vie en série.\r\n· Soutenir le développement de projets concernant la caractérisation des matériaux, le développement et la caractérisation de nouveaux procédés, le développement et la qualification de pièces métalliques et de normes mécaniques.\r\n· Définition et suivi des programmes d'essais.\r\n· Sélection des matériaux et des procédés mécaniques.",
-   "mission": "",
-   "profile": "Votre profil \r\nIssu(e) d’une formation supérieure (BAC+5) en école d’ingénieurs ou équivalent, vous êtes spécialisé(e) en science et génie des matériaux, mécanique avec option matériaux ou chimie avec spécialisation matériaux.\r\n\r\nVous justifiez d’une première expérience industrielle réussie (stage ou alternance) sur un sujet technique relevant. \r\n\r\nVous avez des connaissances des procédés de fabrication et des normes liés aux matériaux métalliques, composites, céramiques et/ou plasturgiques et de la chimie et mécanique des matériaux, vous savez mettre vos compétences techniques au service de projets concrets. \r\n\r\nVous maîtrisez le français et avez un bon niveau d’anglais (le néerlandais est un plus), vous permettant d’évoluer dans un environnement international. \r\n\n👉 Si vous vous reconnaissez dans ce profil et souhaitez contribuer à des projets d’envergure, n’attendez plus pour postuler ! \r\n\r\nLe process de recrutement \r\nLe processus de recrutement débute par un échange téléphonique, suivi d’un entretien avec un(e) Talent Acquisition Officer. Vous aurez ensuite l’opportunité de rencontrer un·e Business Manager lors d’un second rendez-vous. Enfin, un dernier entretien viendra clore le processus, à l’issue duquel une proposition de contrat pourra vous être faite. \r\nDans le cadre de l'égalité des chances, toutes nos offres d'emploi sont ouvertes aux personnes en situation de handicap.",
-   "duration": 12,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-11T08:00:24Z",
-   "sector": "",
-   "specialization": "114",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-11T08:00:24Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-09-24T00:00:00",
-    "endBroadcastDate": "2026-10-24T00:00:00"
-   },
-   "summary": "HOUSE OF ABY, groupe d'ingénierie et de conseil présent dans 9 pays, réunit 11 marques (Abylsen, ABMI, Pharmacos…) et s'appuie sur 4 grands piliers : Engineering (expertise technique et ingénierie de pointe), Solutions (développement et mise en œuvre de solutions adaptées), Digital (innovation et transformation numérique) et Advisory (conseil stratégique RH/QRSE). \r\n\nCette offre concerne la marque Abylsen*. \r\n\r\nAbylsen Belgium, société de conseil en ingénierie, en quelques mots \r\n\nNotre société de conseil en ingénierie propose à d'autres entreprises l'expertise de ses ingénieurs, qui interviennent chez ses clients pour une durée moyenne d’un an pour les accompagner sur le développement de leurs projets. Abylsen Belgium opère dans 8 secteurs clés, dont l’aéronautique - spatial, l’automobile, la défense, l’énergie, le BTP – Infrastructure – Ferroviaire, l’IT – Télécommunications, Life Sciences, Banque – Finance – Assurances. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/245839",
-   "score": 47,
-   "label": "À examiner",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 34,
-    "prod": 10,
-    "qual": 8,
-    "calc": 0
-   },
-   "dominant_axis": "rd",
-   "matched_families": [
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "engineering",
-      "fabrication",
-      "ingenierie"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "essais",
-      "normes",
-      "qualification"
-     ]
-    },
-    {
-     "id": "rd2",
-     "axis": "rd",
-     "source": "Propriétés mécaniques et physique des matériaux (262-1, 30 h), Critères de choix des matériaux (265-1, 15 h)",
-     "weight": 9,
-     "terms": [
-      "caracterisation",
-      "materiaux"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "r&d"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur",
-      "materiaux"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "aeronautique",
-      "automobile",
-      "chimie"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
-   "id": "242469",
-   "title": "Ingénieur Automation (H/F)",
-   "company": "FRATECH RP",
-   "country": "BELGIQUE",
-   "city": "BRUXELLES",
-   "description": "Vos missions : \n\n- Gestion de vos projets\n- Identification du cahier des charges du client\n- Dimensionnement d'une solution complexe avec les différents services\n- Programmation complète d'automates Siemens\n- Tests de la solution en atelier\n- Mise en service de la solution à l'étranger",
-   "mission": "",
-   "profile": "Votre profil : \n\n- Programmation Siemens (TIA PORTAL et/ou STEP7)\n- Compétence en robotique est un plus (KUKA, FANUC, ABB...)\n- Une expérience terrain en industrie ou sur une ligne de production\n- Motivé, rigoureux et désireux d'évoluer et d'apprendre\n- Orienté résultats\n- Excellent communiquant\n- Bon sens de l'adaptation\n- Maitrise de l'anglais\n- Ouvert sur des déplacements à l'étranger",
-   "duration": 12,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-04-21T12:28:26Z",
-   "sector": "",
-   "specialization": "73",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-04-21T12:28:26Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-09-24T00:00:00",
-    "endBroadcastDate": "2026-10-24T00:00:00"
-   },
-   "summary": "Vos missions : \n\n- Gestion de vos projets\n- Identification du cahier des charges du client\n- Dimensionnement d'une solution complexe avec les différents services\n- Programmation complète d'automates Siemens\n- Tests de la solution en atelier\n- Mise en service de la solution à l'étranger",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/242469",
-   "score": 47,
-   "label": "À examiner",
-   "first_seen": "2026-08-24T16:01:18+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 34,
-    "qual": 0,
-    "calc": 34
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "calc3",
-     "axis": "calc",
-     "source": "Résistance des matériaux 1 et 2 (263-1, 270-1, 60 h), Élastoplasticité (279-1, 45 h)",
-     "weight": 11,
-     "terms": [
-      "dimensionnement"
-     ]
-    },
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
-     "weight": 4,
-     "terms": [
-      "automation"
-     ]
-    },
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
-     "weight": 10,
-     "terms": [
-      "atelier",
-      "ligne de production"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur"
-     ],
-     "points": 14
     },
     {
      "label": "Niveau bac+5 / ingénieur annoncé",
@@ -11997,7 +11478,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-21T12:36:21Z",
    "sector": "",
-   "specialization": "225",
+   "specialization": "[\"225\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12634,7 +12115,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-21T08:11:43Z",
    "sector": "",
-   "specialization": "[\"76\"]",
+   "specialization": "76",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -13258,7 +12739,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-20T07:21:11Z",
    "sector": "",
-   "specialization": "[\"149\"]",
+   "specialization": "149",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -13873,7 +13354,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-20T14:14:41Z",
    "sector": "",
-   "specialization": "[\"70\"]",
+   "specialization": "70",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -13921,411 +13402,6 @@
      "label": "Intitulé technique ciblé",
      "terms": [
       "ingenieur"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
-   "id": "246367",
-   "title": "Quality Engineer | Life Sciences (H/F)",
-   "company": "ALTRAN TECHNOLOGIES",
-   "country": "BELGIQUE",
-   "city": "BRUXELLES",
-   "description": "As a Quality Engineer in the Life Sciences sector, you will play a key role in maintaining and improving quality systems, ensuring regulatory compliance, and supporting continuous improvement initiatives across pharmaceutical and biotech environments. In this role you will play a key role in:\n\n- Developing, implementing, and maintaining quality management systems (QMS) in accordance with GMP guidelines and relevant regulatory frameworks such as ISO 13485, FDA 21 CFR, and EU GMP, ensuring full compliance across all quality processes.\n- Leading and supporting quality assurance and quality control activities, including batch record reviews, product release, change control, deviation management, and CAPA processes to ensure consistent product quality.\n- Conducting internal and external audits to assess compliance with regulatory requirements and company quality standards, identifying areas for improvement and driving corrective actions to closure.\n- Collaborating with cross-functional teams including manufacturing, validation, regulatory affairs, and supply chain to embed a culture of quality and ensure seamless integration of quality requirements throughout the product lifecycle.\n- Preparing and reviewing quality documentation such as SOPs, risk assessments, audit reports, and quality metrics, ensuring all documentation is accurate, up-to-date, and audit-ready for regulatory inspections by bodies such as the FDA, EMA, and FAMHP.",
-   "mission": "",
-   "profile": "We are looking for a quality-focused and detail-oriented professional who thrives in a regulated environment. You will bring:\n\n- A minimum of 2 years of experience in quality assurance or quality engineering within the Life Sciences industry, including pharmaceuticals, biotechnology, or medical devices.\n- Strong knowledge of GMP regulations and quality standards such as ISO 13485, FDA 21 CFR, EU GMP, and ICH guidelines, with a proven ability to apply these in a practical, project-based environment.\n- Excellent analytical and problem-solving skills, with experience in root cause analysis, risk management, and CAPA implementation, and the ability to drive quality improvements across complex, regulated environments.\n- A degree in Engineering, Life Sciences, Pharmacy, or a related field, combined with a proactive mindset, exceptional attention to detail, and a strong commitment to quality and patient safety.\n- Proficiency in French and/or Dutch, as well as English, enabling effective communication in Brussels' multilingual professional environment.",
-   "duration": 24,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2028-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-24T13:56:59Z",
-   "sector": "",
-   "specialization": "256",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-24T13:56:59Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2028-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-24T00:00:00",
-    "endBroadcastDate": "2026-10-24T00:00:00"
-   },
-   "summary": "As a Quality Engineer in the Life Sciences sector, you will play a key role in maintaining and improving quality systems, ensuring regulatory compliance, and supporting continuous improvement initiatives across pharmaceutical and biotech environments. In this role you will play a key role in:\n\n- Developing, implementing, and maintaining quality management systems (QMS) in accordance with GMP guidelines and relevant regulatory frameworks such as ISO 13485, FDA 21 CFR, and EU GMP, ensuring full compliance across all quality processes.\n- Leading and supporting quality assurance and quality control activities, including batch record reviews, product release, change control, deviation management, and CAPA processes to ensure consistent product quality.\n- Conducting internal and external audits to assess compliance with regulatory requirements and company quality standards, identifying areas for improvement and driving corrective actions to closure. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246367",
-   "score": 35,
-   "label": "À examiner",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 10,
-    "qual": 23,
-    "calc": 0
-   },
-   "dominant_axis": "qual",
-   "matched_families": [
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "continuous improvement",
-      "engineering",
-      "manufacturing"
-     ]
-    },
-    {
-     "id": "qual2",
-     "axis": "qual",
-     "source": "Qualité et normes (774-1, 14 h, coefficient 0,5)",
-     "weight": 4,
-     "terms": [
-      "quality assurance",
-      "quality engineer"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "audit",
-      "compliance",
-      "quality",
-      "root cause"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "problem solving"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineer",
-      "quality"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
-   "id": "246366",
-   "title": "Automation Engineer | Life Sciences (H/F)",
-   "company": "ALTRAN TECHNOLOGIES",
-   "country": "BELGIQUE",
-   "city": "BRUXELLES",
-   "description": "As an Automation Engineer in the Life Sciences sector, you will play a key role in designing, developing, and maintaining automated systems that drive efficiency and compliance across pharmaceutical and biotech environments. In this role you will play a key role in:\n\n- Designing, programming, and commissioning automation systems including PLCs, SCADA, DCS, and HMI solutions for use in GMP-regulated manufacturing and laboratory environments, ensuring full compliance with industry standards.\n- Developing and maintaining automation software by writing, testing, and documenting control system code in line with regulatory requirements such as GAMP 5, 21 CFR Part 11, and EU Annex 11.\n- Collaborating with cross-functional teams including process engineers, quality assurance, and validation teams to define automation requirements, support system integration, and ensure seamless project delivery.\n- Troubleshooting and resolving automation system issues by performing root cause analyses, implementing corrective actions, and ensuring minimal disruption to production or laboratory operations.\n- Supporting qualification and validation activities for automated systems by contributing to the preparation of validation documentation, including URS, FS, DS, and test protocols, in alignment with GMP guidelines.",
-   "mission": "",
-   "profile": "We are looking for a technically skilled and driven professional who thrives in a fast-paced, regulated environment. You will bring:\n\n- A minimum of 2 years of experience in industrial automation within the Life Sciences industry, with hands-on expertise in PLC, SCADA, DCS, or HMI systems from vendors such as Siemens, Rockwell, or Emerson.\n- Strong knowledge of GMP regulations and automation standards including GAMP 5, 21 CFR Part 11, and EU Annex 11, with a proven ability to apply these in a practical, project-based context.\n- Excellent problem-solving and analytical skills, with the ability to diagnose complex automation issues, propose effective solutions, and manage multiple priorities in a dynamic project environment.\n- A degree in Automation Engineering, Electrical Engineering, Computer Science, or a related field, combined with a proactive mindset, strong attention to detail, and a commitment to delivering high-quality solutions.\n- Proficiency in French and/or Dutch, as well as English, enabling effective communication in Brussels' multilingual professional environment",
-   "duration": 24,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2028-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-24T13:54:09Z",
-   "sector": "",
-   "specialization": "256",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-24T13:54:09Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2028-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-24T00:00:00",
-    "endBroadcastDate": "2026-10-24T00:00:00"
-   },
-   "summary": "As an Automation Engineer in the Life Sciences sector, you will play a key role in designing, developing, and maintaining automated systems that drive efficiency and compliance across pharmaceutical and biotech environments. In this role you will play a key role in:\n\n- Designing, programming, and commissioning automation systems including PLCs, SCADA, DCS, and HMI solutions for use in GMP-regulated manufacturing and laboratory environments, ensuring full compliance with industry standards.\n- Developing and maintaining automation software by writing, testing, and documenting control system code in line with regulatory requirements such as GAMP 5, 21 CFR Part 11, and EU Annex 11.\n- Collaborating with cross-functional teams including process engineers, quality assurance, and validation teams to define automation requirements, support system integration, and ensure seamless project delivery.\n- Troubleshooting and resolving automation system issues by performing root cause analyses, implementing corrective actions, and ensuring minimal disruption to production or laboratory operations. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246366",
-   "score": 35,
-   "label": "À examiner",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 10,
-    "qual": 23,
-    "calc": 9
-   },
-   "dominant_axis": "qual",
-   "matched_families": [
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
-     "weight": 4,
-     "terms": [
-      "automation",
-      "control system"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "engineering",
-      "manufacturing"
-     ]
-    },
-    {
-     "id": "qual2",
-     "axis": "qual",
-     "source": "Qualité et normes (774-1, 14 h, coefficient 0,5)",
-     "weight": 4,
-     "terms": [
-      "quality assurance"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "compliance",
-      "qualification",
-      "quality",
-      "root cause"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "laboratory",
-      "problem solving"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineer"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "industrial"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Formation exigée hors cursus : score plafonné",
-     "terms": [
-      "computer science"
-     ],
-     "points": -6,
-     "cap": 35
-    }
-   ]
-  },
-  {
-   "id": "246365",
-   "title": "CSV Engineer | Life Sciences (H/F)",
-   "company": "ALTRAN TECHNOLOGIES",
-   "country": "BELGIQUE",
-   "city": "BRUXELLES",
-   "description": "As a CQV Engineer, you will play a key role in ensuring the quality, compliance, and validation of critical systems and processes within the Life Sciences industry. In this role you will play a key role in:\n\n- Developing and executing validation protocols (IQ, OQ, PQ) for equipment, utilities, and manufacturing systems in accordance with GMP guidelines and regulatory requirements.\n- Leading and supporting commissioning, qualification, and validation (CQV) activities across a range of projects, from new facility builds to equipment upgrades, ensuring timely and compliant delivery.\n- Collaborating with cross-functional teams including engineering, quality assurance, and operations to ensure validation activities are aligned with project timelines and client expectations.\n- Preparing and reviewing technical documentation such as validation master plans, risk assessments, deviation reports, and summary reports to ensure full regulatory compliance.\n- Supporting regulatory inspections and audits by providing technical expertise and ensuring all CQV documentation is audit-ready and meets the standards of bodies such as the FDA, EMA, and FAMHP.",
-   "mission": "",
-   "profile": "We are looking for a motivated and detail-oriented professional who thrives in a regulated environment. You will bring:\n\n- A minimum of 2 years of experience in commissioning, qualification, and/or validation within the Life Sciences industry, including pharmaceuticals, biotechnology, or medical devices.\n- Strong knowledge of GMP regulations and guidelines such as FDA 21 CFR, EU GMP Annex 15, and GAMP 5, with a proven ability to apply these in a practical, project-based environment.\n- Excellent communication and collaboration skills, with the ability to work effectively within multidisciplinary teams and engage confidently with clients and stakeholders at all levels.\n- A degree in Engineering, Life Sciences, or a related field, combined with a proactive, problem-solving mindset and strong attention to detail.\n- Proficiency in both French and/or Dutch, as well as English, enabling effective communication in Brussels' multilingual professional environment.",
-   "duration": 24,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2028-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-24T13:49:58Z",
-   "sector": "",
-   "specialization": "256",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-24T13:49:58Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2028-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-24T00:00:00",
-    "endBroadcastDate": "2026-10-24T00:00:00"
-   },
-   "summary": "As a CQV Engineer, you will play a key role in ensuring the quality, compliance, and validation of critical systems and processes within the Life Sciences industry. In this role you will play a key role in:\n\n- Developing and executing validation protocols (IQ, OQ, PQ) for equipment, utilities, and manufacturing systems in accordance with GMP guidelines and regulatory requirements.\n- Leading and supporting commissioning, qualification, and validation (CQV) activities across a range of projects, from new facility builds to equipment upgrades, ensuring timely and compliant delivery.\n- Collaborating with cross-functional teams including engineering, quality assurance, and operations to ensure validation activities are aligned with project timelines and client expectations.\n- Preparing and reviewing technical documentation such as validation master plans, risk assessments, deviation reports, and summary reports to ensure full regulatory compliance. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246365",
-   "score": 35,
-   "label": "À examiner",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 10,
-    "qual": 23,
-    "calc": 0
-   },
-   "dominant_axis": "qual",
-   "matched_families": [
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "engineering",
-      "manufacturing"
-     ]
-    },
-    {
-     "id": "qual2",
-     "axis": "qual",
-     "source": "Qualité et normes (774-1, 14 h, coefficient 0,5)",
-     "weight": 4,
-     "terms": [
-      "quality assurance"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "audit",
-      "compliance",
-      "qualification",
-      "quality"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "problem solving"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineer"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
-   "id": "246364",
-   "title": "CQV Engineer | Life Sciences (H/F)",
-   "company": "ALTRAN TECHNOLOGIES",
-   "country": "BELGIQUE",
-   "city": "BRUXELLES",
-   "description": "As a CQV Engineer, you will play a key role in ensuring the quality, compliance, and validation of critical systems and processes within the Life Sciences industry. In this role you will play a key role in:\n\n- Developing and executing validation protocols (IQ, OQ, PQ) for equipment, utilities, and manufacturing systems in accordance with GMP guidelines and regulatory requirements.\n- Leading and supporting commissioning, qualification, and validation (CQV) activities across a range of projects, from new facility builds to equipment upgrades, ensuring timely and compliant delivery.\n- Collaborating with cross-functional teams including engineering, quality assurance, and operations to ensure validation activities are aligned with project timelines and client expectations.\n- Preparing and reviewing technical documentation such as validation master plans, risk assessments, deviation reports, and summary reports to ensure full regulatory compliance.\n- Supporting regulatory inspections and audits by providing technical expertise and ensuring all CQV documentation is audit-ready and meets the standards of bodies such as the FDA, EMA, and FAMHP.",
-   "mission": "",
-   "profile": "We are looking for a motivated and detail-oriented professional who thrives in a regulated environment. You will bring:\n\n- A minimum of 2 years of experience in commissioning, qualification, and/or validation within the Life Sciences industry, including pharmaceuticals, biotechnology, or medical devices.\n- Strong knowledge of GMP regulations and guidelines such as FDA 21 CFR, EU GMP Annex 15, and GAMP 5, with a proven ability to apply these in a practical, project-based environment.\n- Excellent communication and collaboration skills, with the ability to work effectively within multidisciplinary teams and engage confidently with clients and stakeholders at all levels.\n- A degree in Engineering, Life Sciences, or a related field, combined with a proactive, problem-solving mindset and strong attention to detail.\n- Proficiency in both French and/or Dutch, as well as English, enabling effective communication in Brussels' multilingual professional environment.",
-   "duration": 24,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2028-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-24T13:45:25Z",
-   "sector": "",
-   "specialization": "256",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-24T13:45:25Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2028-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-24T00:00:00",
-    "endBroadcastDate": "2026-10-24T00:00:00"
-   },
-   "summary": "As a CQV Engineer, you will play a key role in ensuring the quality, compliance, and validation of critical systems and processes within the Life Sciences industry. In this role you will play a key role in:\n\n- Developing and executing validation protocols (IQ, OQ, PQ) for equipment, utilities, and manufacturing systems in accordance with GMP guidelines and regulatory requirements.\n- Leading and supporting commissioning, qualification, and validation (CQV) activities across a range of projects, from new facility builds to equipment upgrades, ensuring timely and compliant delivery.\n- Collaborating with cross-functional teams including engineering, quality assurance, and operations to ensure validation activities are aligned with project timelines and client expectations.\n- Preparing and reviewing technical documentation such as validation master plans, risk assessments, deviation reports, and summary reports to ensure full regulatory compliance. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246364",
-   "score": 35,
-   "label": "À examiner",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 10,
-    "qual": 23,
-    "calc": 0
-   },
-   "dominant_axis": "qual",
-   "matched_families": [
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "engineering",
-      "manufacturing"
-     ]
-    },
-    {
-     "id": "qual2",
-     "axis": "qual",
-     "source": "Qualité et normes (774-1, 14 h, coefficient 0,5)",
-     "weight": 4,
-     "terms": [
-      "quality assurance"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "audit",
-      "compliance",
-      "qualification",
-      "quality"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "problem solving"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineer"
      ],
      "points": 14
     },
@@ -14901,7 +13977,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-09T09:18:57Z",
    "sector": "",
-   "specialization": "[\"130\"]",
+   "specialization": "130",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -15007,7 +14083,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-08T11:09:48Z",
    "sector": "",
-   "specialization": "[\"149\",\"330\",\"355\"]",
+   "specialization": "149, 330, 355",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -16491,125 +15567,6 @@
    ]
   },
   {
-   "id": "242172",
-   "title": "Ingénieur électronique (H/F)",
-   "company": "FRATECH RP",
-   "country": "BELGIQUE",
-   "city": "BRUXELLES",
-   "description": "Nous recherchons un Ingénieur Électronique pour intervenir sur des projets industriels à forte exigence technique. Vous participez à la conception, au développement et à la validation de systèmes électroniques, depuis l’analyse du besoin jusqu’à l’industrialisation, en lien avec des équipes pluridisciplinaires.\r\n\r\nMissions principales :\r\n\r\nConception et développement\r\n\r\nAnalyser les besoins fonctionnels et techniques des systèmes électroniques.\r\nDéfinir les standards et bonnes pratiques de conception électronique en collaboration avec les équipes projets.\r\nChoisir les solutions d’architecture électronique adaptées aux contraintes techniques, normatives et économiques.\r\nConcevoir les schémas électroniques (analogiques, numériques ou mixtes).\r\nSélectionner les composants et réaliser les calculs associés.\r\nSuivre ou réaliser le routage des cartes électroniques (PCB).\r\nIntégrer les contraintes de fiabilité, consommation, coût et durée de vie dès la phase de conception.\r\n\r\nValidation, industrialisation et maintenance\r\n\r\nDéfinir et mettre en œuvre les plans de tests et de validation.\r\nRéaliser les essais fonctionnels, environnementaux et CEM.\r\nAnalyser les résultats de tests et piloter les actions correctives.\r\nContribuer aux phases d’industrialisation et de mise en production.\r\nAssurer la conformité des produits aux normes et réglementations en vigueur (CE, CEM, sécurité électrique).\r\nParticiper aux évolutions produits et au traitement des faits techniques.\r\nMettre en place et suivre les indicateurs qualité liés aux systèmes électroniques.\r\n\r\nSupport et assistance\r\n\r\nApporter un support technique aux équipes logiciel embarqué, mécanique, méthodes et production.\r\nAccompagner les équipes dans la résolution des problématiques électroniques.\r\nCapitaliser les retours d’expérience et contribuer à l’amélioration continue.",
-   "mission": "",
-   "profile": "Formation supérieure en électronique (Bac+5 ou équivalent).\nExpérience en conception et développement de systèmes électroniques en environnement industriel.\nMaîtrise des outils de CAO électronique (Altium, OrCAD, Cadence ou équivalent).\nSolides compétences en électronique analogique, numérique et/ou de puissance.\nBonne connaissance des contraintes normatives, industrielles et qualité.\nRigueur, esprit d’analyse et capacité à travailler en équipe projet.\nAutonomie et sens des responsabilités techniques.i",
-   "duration": 12,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-04-10T14:00:20Z",
-   "sector": "",
-   "specialization": "73",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-04-10T14:00:20Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-09-24T00:00:00",
-    "endBroadcastDate": "2026-10-24T00:00:00"
-   },
-   "summary": "Nous recherchons un Ingénieur Électronique pour intervenir sur des projets industriels à forte exigence technique. Vous participez à la conception, au développement et à la validation de systèmes électroniques, depuis l’analyse du besoin jusqu’à l’industrialisation, en lien avec des équipes pluridisciplinaires.\r\n\r\nMissions principales :\r\n\r\nConception et développement\r\n\r\nAnalyser les besoins fonctionnels et techniques des systèmes électroniques.\r\nDéfinir les standards et bonnes pratiques de conception électronique en collaboration avec les équipes projets.\r\nChoisir les solutions d’architecture électronique adaptées aux contraintes techniques, normatives et économiques.\r\nConcevoir les schémas électroniques (analogiques, numériques ou mixtes).\r\nSélectionner les composants et réaliser les calculs associés.\r\nSuivre ou réaliser le routage des cartes électroniques (PCB).\r\nIntégrer les contraintes de fiabilité, consommation, coût et durée de vie dès la phase de conception.\r\n\r\nValidation, industrialisation et maintenance\r\n\r\nDéfinir et mettre en œuvre les plans de tests et de validation. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/242172",
-   "score": 35,
-   "label": "À examiner",
-   "first_seen": "2026-08-24T16:01:18+00:00",
-   "axis_scores": {
-    "rd": 29,
-    "prod": 45,
-    "qual": 8,
-    "calc": 20
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "calc2",
-     "axis": "calc",
-     "source": "CAO (278-1, 30 h), Conception mécanique (264-1, 43 h)",
-     "weight": 9,
-     "terms": [
-      "cao"
-     ]
-    },
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
-     "weight": 10,
-     "terms": [
-      "industrialisation"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "amelioration continue",
-      "methodes"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "conformite",
-      "essais",
-      "normes",
-      "qualite"
-     ]
-    },
-    {
-     "id": "rd4",
-     "axis": "rd",
-     "source": "Rupture et fatigue des matériaux (291-1, 47 h)",
-     "weight": 10,
-     "terms": [
-      "duree de vie"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "industriel",
-      "mecanique"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Formation exigée hors cursus : score plafonné",
-     "terms": [
-      "electronique"
-     ],
-     "points": -24,
-     "cap": 35
-    }
-   ]
-  },
-  {
    "id": "247075",
    "title": "Ingénieur projet électricité (H/F)",
    "company": "HEDON TECHNOLOGIES TOULOUSE",
@@ -17327,7 +16284,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-04T20:56:07Z",
    "sector": "",
-   "specialization": "205",
+   "specialization": "[\"205\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -18065,7 +17022,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-22T14:14:40Z",
    "sector": "",
-   "specialization": "70",
+   "specialization": "[\"70\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -18578,7 +17535,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-12T09:05:26Z",
    "sector": "",
-   "specialization": "327",
+   "specialization": "[\"327\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20709,7 +19666,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T09:12:56Z",
    "sector": "",
-   "specialization": "259",
+   "specialization": "[\"259\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20782,7 +19739,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-20T07:14:32Z",
    "sector": "",
-   "specialization": "60, 77, 149, 150, 264",
+   "specialization": "[\"60\",\"77\",\"149\",\"150\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22903,7 +21860,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-05T23:42:57Z",
    "sector": "",
-   "specialization": "[\"329\"]",
+   "specialization": "329",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -24464,7 +23421,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-21T07:16:38Z",
    "sector": "",
-   "specialization": "35",
+   "specialization": "[\"35\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26378,201 +25335,6 @@
    ]
   },
   {
-   "id": "245917",
-   "title": "Ingénieur(e)/Technicien(ne) en Intsrumentation  (H/F)",
-   "company": "FRATECH RP",
-   "country": "BELGIQUE",
-   "city": "BRUXELLES",
-   "description": "Dans le cadre de la croissance de ses activités Infrastructure & Energie dans la région de Bruxelles-Capitale, Abylsen recherche un(e) Ingénieur(e) / Technicien(ne) en Instrumentation pour renforcer ses équipes.\r\n\r\nVos responsabilités au quotidien ?\r\n\r\n* Participer à la conception, l’installation et la mise en service des systèmes d’instrumentation sur des installations industrielles.\r\n* Assurer le suivi et la maintenance des équipements de mesure et de contrôle : capteurs, transmetteurs, sondes, vannes et systèmes de régulation.\r\n* Analyser les dysfonctionnements des équipements d’instrumentation et proposer des actions correctives et préventives.\r\n* Réaliser et/ou vérifier les études, schémas et documents techniques liés à l’instrumentation.\r\n* Veiller au respect des normes, procédures de sécurité et exigences techniques applicables aux installations.\r\n* Participer aux essais, calibrations et contrôles des équipements afin de garantir leur fiabilité et leur performance.\r\n* Collaborer avec les équipes électricité, automatisme, maintenance et process afin d’assurer la bonne intégration des systèmes.\r\n* Rédiger les rapports d’intervention, comptes rendus techniques et documents de suivi.",
-   "mission": "",
-   "profile": "### Votre profil\r\n\r\nIssu(e) d’une formation supérieure BAC+2 à BAC+5 en instrumentation, automatisme, électrotechnique, électricité, maintenance industrielle ou domaine équivalent, vous disposez de solides connaissances techniques en instrumentation et systèmes de mesure et de contrôle.\r\n\r\nVous justifiez idéalement d’une première expérience industrielle réussie, acquise en stage, alternance ou dans un environnement professionnel, sur des sujets liés à l’instrumentation, à la maintenance ou aux installations industrielles.\r\n\r\nVous avez de bonnes connaissances en capteurs, chaînes de mesure, régulation, équipements de contrôle et lecture de schémas techniques.\r\n\r\nVous êtes à l’aise avec l’analyse de dysfonctionnements et la recherche de solutions techniques. Une connaissance des environnements industriels, énergétiques ou nucléaires constitue un plus.\r\n\r\nVous maîtrisez le français et disposez d’un bon niveau d’anglais, vous permettant d’évoluer dans un environnement technique et international. La connaissance du néerlandais est un plus.\r\n\r\nSi vous vous reconnaissez dans ce profil et souhaitez contribuer à des projets techniques d’envergure, n’attendez plus pour postuler !\r\n\r\n Le process de recrutement\r\n\r\nLe processus de recrutement débute par un échange téléphonique, suivi d’un entretien avec un·e Talent Acquisition Officer. Vous aurez ensuite l’opportunité de rencontrer un·e Business Manager lors d’un second rendez-vous. Enfin, un dernier entretien viendra clore le processus, à l’issue duquel une proposition de contrat pourra vous être faite.\r\n\r\nDans le cadre de l’égalité des chances, toutes nos offres d’emploi sont ouvertes aux personnes en situation de handicap.",
-   "duration": 12,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-14T08:34:30Z",
-   "sector": "",
-   "specialization": "65",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-14T08:34:30Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-09-24T00:00:00",
-    "endBroadcastDate": "2026-10-24T00:00:00"
-   },
-   "summary": "Dans le cadre de la croissance de ses activités Infrastructure & Energie dans la région de Bruxelles-Capitale, Abylsen recherche un(e) Ingénieur(e) / Technicien(ne) en Instrumentation pour renforcer ses équipes.\r\n\r\nVos responsabilités au quotidien ?\r\n\r\n* Participer à la conception, l’installation et la mise en service des systèmes d’instrumentation sur des installations industrielles.\r\n* Assurer le suivi et la maintenance des équipements de mesure et de contrôle : capteurs, transmetteurs, sondes, vannes et systèmes de régulation.\r\n* Analyser les dysfonctionnements des équipements d’instrumentation et proposer des actions correctives et préventives.\r\n* Réaliser et/ou vérifier les études, schémas et documents techniques liés à l’instrumentation.\r\n* Veiller au respect des normes, procédures de sécurité et exigences techniques applicables aux installations.\r\n* Participer aux essais, calibrations et contrôles des équipements afin de garantir leur fiabilité et leur performance. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/245917",
-   "score": 30,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 10,
-    "qual": 8,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "installations industrielles"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "essais",
-      "normes"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "energie"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Aucun terme industriel : score plafonné",
-     "terms": [],
-     "points": -1,
-     "cap": 30
-    }
-   ]
-  },
-  {
-   "id": "242467",
-   "title": "Ingénieur Qualité (H/F)",
-   "company": "FRATECH RP",
-   "country": "BELGIQUE",
-   "city": "BRUXELLES",
-   "description": "Passionné(e) par l’aéronautique, le spatial ou la défense ? Rejoignez notre équipe pour explorer ensemble de nouveaux horizons.\n\nEn tant qu’ingénieur(e) qualité, vous jouerez un rôle crucial dans le maintien et l’amélioration des standards de qualité de nos projets innovants. Vous serez responsable de garantir que tous les produits et processus respectent les normes de qualité les plus élevées. Votre expertise et votre engagement permettront d’assurer la fiabilité et la sécurité des systèmes dans un secteur où l’excellence est primordiale.\n\n- Définir, mettre en œuvre et maintenir les processus qualité.\n- Réaliser des audits internes et externes.\n- Assurer la conformité des produits aux normes et aux spécifications techniques.\n- Participer aux revues de conception et aux analyses de risques.\n- Collaborer avec les équipes de production, R&D et fournisseurs pour résoudre les problèmes qualité.\n- Mettre en place des actions correctives et préventives.",
-   "mission": "",
-   "profile": "Nous recherchons plusieurs professionnels expérimentés de la qualité, spécialisés dans les domaines fournisseurs, production et projet, pour rejoindre nos équipes.\n\n- Expérience professionnelle de 2 ans dans un poste similaire.\n- Diplôme en ingénierie, qualité ou domaine connexe.\n- Connaissance approfondie des normes qualité ISO 9001, et des standards de l'industrie.\n- Expérience dans la conduite d'audits qualité et la gestion des non-conformités.\n- Compétences en gestion de projet.\n- Capacité à communiquer efficacement à tous les niveaux de l'organisation.\n- Maîtrise de l'anglais et du français.",
-   "duration": 12,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2027-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-04-21T12:23:26Z",
-   "sector": "",
-   "specialization": "208",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-04-21T12:23:26Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-24T00:00:00",
-    "endBroadcastDate": "2026-10-24T00:00:00"
-   },
-   "summary": "Passionné(e) par l’aéronautique, le spatial ou la défense ? Rejoignez notre équipe pour explorer ensemble de nouveaux horizons.\n\nEn tant qu’ingénieur(e) qualité, vous jouerez un rôle crucial dans le maintien et l’amélioration des standards de qualité de nos projets innovants. Vous serez responsable de garantir que tous les produits et processus respectent les normes de qualité les plus élevées. Votre expertise et votre engagement permettront d’assurer la fiabilité et la sécurité des systèmes dans un secteur où l’excellence est primordiale.\n\n- Définir, mettre en œuvre et maintenir les processus qualité.\n- Réaliser des audits internes et externes.\n- Assurer la conformité des produits aux normes et aux spécifications techniques.\n- Participer aux revues de conception et aux analyses de risques.\n- Collaborer avec les équipes de production, R&D et fournisseurs pour résoudre les problèmes qualité.\n- Mettre en place des actions correctives et préventives.",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/242467",
-   "score": 30,
-   "label": "Périphérique",
-   "first_seen": "2026-08-24T16:01:18+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 10,
-    "qual": 23,
-    "calc": 0
-   },
-   "dominant_axis": "qual",
-   "matched_families": [
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "ingenierie"
-     ]
-    },
-    {
-     "id": "qual2",
-     "axis": "qual",
-     "source": "Qualité et normes (774-1, 14 h, coefficient 0,5)",
-     "weight": 4,
-     "terms": [
-      "iso 9001"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "conformite",
-      "normes",
-      "qualite",
-      "standards"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "r&d"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur",
-      "qualite"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "aeronautique",
-      "defense",
-      "spatial"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Aucun terme industriel : score plafonné",
-     "terms": [],
-     "points": -10,
-     "cap": 30
-    }
-   ]
-  },
-  {
    "id": "238025",
    "title": "Ingénieur DATA (H/F)",
    "company": "HELLO POMELO",
@@ -28176,7 +26938,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-21T13:08:30Z",
    "sector": "",
-   "specialization": "[\"49\",\"52\",\"56\",\"68\",\"118\",\"157\"]",
+   "specialization": "49, 52, 56, 68, 118, 157",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -28350,7 +27112,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-21T13:27:37Z",
    "sector": "",
-   "specialization": "73",
+   "specialization": "[\"73\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -28711,91 +27473,6 @@
      "label": "Aucun terme industriel : score plafonné",
      "terms": [],
      "points": -4,
-     "cap": 30
-    }
-   ]
-  },
-  {
-   "id": "246353",
-   "title": "Ingénieur nouveaux produits (H/F)",
-   "company": "STMICROELECTRONICS ROUSSET SAS",
-   "country": "ITALIE",
-   "city": "AGRATE BRIANZA",
-   "description": "Au sein du service planning de la division GPAM, vous rejoignez une équipe de 35 collaborateurs et contribuez au pilotage du planning nouveaux produits dans un environnement international et collaboratif.\n\nEn lien étroit avec les équipes engineering, qualité, planning, marketing et logistique, vous jouez un rôle clé dans la coordination des activités de lancement des nouveaux produits, depuis le développement jusqu’à leur introduction en production.\n\nDans ce cadre, vos principales missions sont les suivantes :\n\nCoordonner les activités planning dès les premières étapes du cycle de vie d’un produit afin de contribuer à l’optimisation du time to market et du time to volume.\nConstruire et sécuriser la généalogie des produits, en garantissant la cohérence et la fiabilité des données associées.\nPiloter la production des échantillons et organiser leur mise à disposition dans le respect des délais attendus.\nAssurer le lancement en production et suivre les flux sur l’ensemble de la supply chain.\nSécuriser les qualifications clients, les nouveaux business et la flexibilité de la supply chain.\nPartager les plans de livraison, le suivi des cadencements et les éléments de visibilité nécessaires à l’équipe projet ainsi qu’aux clients externes.\nCe poste vous permettra d’évoluer au cœur de projets innovants, dans un environnement dynamique, structuré et exposé à des interlocuteurs variés.",
-   "mission": "",
-   "profile": "A propos de vous\r\nPour réussir dans ce rôle, vous disposez d’une formation Bac+5 et d’une première expérience de 1 à 3 ans en supply chain, idéalement dans un environnement industriel ou en lien avec des lancements de produits.\r\n\r\nVous maîtrisez :\r\n\r\nLe français, l’anglais (niveau B2 minimum) et l'italien (niveau B1 minimum), à l’oral comme à l’écrit\r\nLe pack Microsoft Office, en particulier les outils bureautiques nécessaires au suivi et à la communication projet\r\nVous vous reconnaissez dans les qualités suivantes :\r\n\r\nEsprit d’équipe et bon relationnel\r\nAisance en communication écrite et orale\r\nSens de l’organisation et capacité à structurer les priorités\r\nRigueur, fiabilité et attention portée à la qualité des données\r\nOrientation client et sens du service\r\nNature curieuse et ouverture d’esprit, avec une envie d’apprendre et de progresser dans un contexte international\r\n\r\nCe que ce poste peut vous offrir\r\nUne exposition directe aux enjeux de lancement de nouveaux produits\r\nUn environnement collaboratif et transverse\r\nUne dimension internationale avec des interactions régulières en anglais\r\nUne expérience enrichissante au sein d’une équipe experte, au cœur de la performance supply chain",
-   "duration": 24,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2028-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-24T09:03:50Z",
-   "sector": "",
-   "specialization": "143",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-24T09:03:50Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2028-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-24T00:00:00",
-    "endBroadcastDate": "2026-10-24T00:00:00"
-   },
-   "summary": "Au sein du service planning de la division GPAM, vous rejoignez une équipe de 35 collaborateurs et contribuez au pilotage du planning nouveaux produits dans un environnement international et collaboratif.\n\nEn lien étroit avec les équipes engineering, qualité, planning, marketing et logistique, vous jouez un rôle clé dans la coordination des activités de lancement des nouveaux produits, depuis le développement jusqu’à leur introduction en production.\n\nDans ce cadre, vos principales missions sont les suivantes :\n\nCoordonner les activités planning dès les premières étapes du cycle de vie d’un produit afin de contribuer à l’optimisation du time to market et du time to volume.\nConstruire et sécuriser la généalogie des produits, en garantissant la cohérence et la fiabilité des données associées.\nPiloter la production des échantillons et organiser leur mise à disposition dans le respect des délais attendus.\nAssurer le lancement en production et suivre les flux sur l’ensemble de la supply chain. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246353",
-   "score": 30,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 10,
-    "qual": 8,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "engineering"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "qualite"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "industriel"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Aucun terme industriel : score plafonné",
-     "terms": [],
-     "points": -1,
      "cap": 30
     }
    ]
@@ -29302,7 +27979,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-23T11:46:14Z",
    "sector": "",
-   "specialization": "[\"49\",\"86\",\"123\",\"256\"]",
+   "specialization": "49, 86, 123, 256",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30370,7 +29047,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-23T07:37:46Z",
    "sector": "",
-   "specialization": "318",
+   "specialization": "[\"318\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30892,7 +29569,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-23T13:13:41Z",
    "sector": "",
-   "specialization": "[\"6\"]",
+   "specialization": "6",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30966,7 +29643,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-20T20:29:06Z",
    "sector": "",
-   "specialization": "[\"49\",\"56\",\"157\"]",
+   "specialization": "49, 56, 157",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31138,7 +29815,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-20T14:12:12Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31709,7 +30386,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T10:55:11Z",
    "sector": "",
-   "specialization": "[\"138\",\"248\",\"330\",\"355\"]",
+   "specialization": "138, 248, 330, 355",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31950,7 +30627,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-13T14:31:50Z",
    "sector": "",
-   "specialization": "70",
+   "specialization": "[\"70\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31997,236 +30674,6 @@
      "label": "Secteur industriel compatible",
      "terms": [
       "industriel"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
-   "id": "245842",
-   "title": "Bim Modeleur (H/F)",
-   "company": "FRATECH RP",
-   "country": "BELGIQUE",
-   "city": "BRUXELLES",
-   "description": "HOUSE OF ABY, groupe d'ingénierie et de conseil présent dans 9 pays, réunit 11 marques (Abylsen, ABMI, Pharmacos…) et s'appuie sur 4 grands piliers : Engineering (expertise technique et ingénierie de pointe), Solutions (développement et mise en œuvre de solutions adaptées), Digital (innovation et transformation numérique) et Advisory (conseil stratégique RH/QRSE).\n\nCette offre concerne la marque Abylsen*.\n\nAbylsen Belgium, société de conseil en ingénierie, en quelques mots\n\nNotre société de conseil en ingénierie propose à d'autres entreprises l'expertise de ses consultants, qui interviennent chez nos clients pour une durée moyenne d’un an afin de les accompagner dans le développement et la réalisation de leurs projets.\n\nAbylsen Belgium opère dans 8 secteurs clés, dont l’aéronautique - spatial, l’automobile, la défense, l’énergie, le BTP – Infrastructure – Ferroviaire, l’IT – Télécommunications, Life Sciences, Banque – Finance – Assurances.\n\nDescription du poste\n\nDans le cadre de la croissance de ses activités BTP, Infrastructure et Ferroviaire dans la région de Bruxelles-Capitale et en Wallonie, Abylsen recherche un(e) BIM Modeleur(se) pour renforcer ses équipes.\n\nVos responsabilités au quotidien ?\nRéaliser et mettre à jour des maquettes numériques BIM à partir de plans, données techniques et relevés.\nModéliser les différents éléments d’un projet en 3D dans le respect des standards et conventions BIM.\nProduire les plans, coupes, détails et documents graphiques nécessaires aux différentes phases du projet.\nParticiper à la coordination des maquettes BIM entre les différents corps de métier.\nVérifier la cohérence et la qualité des modèles et identifier les éventuelles incohérences ou conflits.\nIntégrer les modifications et assurer la mise à jour des maquettes tout au long du projet.\nCollaborer avec les ingénieurs, architectes, chefs de projet et autres intervenants afin de garantir la conformité des livrables.\nParticiper à l’amélioration et à la mise en place des processus et standards BIM.\nAssurer le respect des exigences techniques, des normes et des procédures qualité du projet.",
-   "mission": "",
-   "profile": "Votre profil\r\n\r\nIssu(e) d’une formation BAC+2 à BAC+5 en génie civil, construction, architecture, travaux publics, ingénierie ou domaine équivalent, vous disposez idéalement d’une première expérience en modélisation BIM, acquise en stage, alternance ou dans un environnement professionnel.\r\n\r\nVous maîtrisez un ou plusieurs outils de modélisation et conception BIM, tels que Revit, AutoCAD, Civil 3D, Navisworks ou MicroStation.\r\n\r\nVous disposez de bonnes connaissances en lecture de plans, modélisation 3D et processus de construction. Une connaissance des standards BIM, de la coordination des maquettes et de la détection des clashes constitue un atout.\r\n\r\nRigoureux(se), organisé(e) et doté(e) d’un bon esprit d’équipe, vous êtes capable d’intervenir sur des projets techniques complexes tout en respectant les délais.\r\n\r\nVous maîtrisez le français et disposez d’un bon niveau d’anglais. La connaissance du néerlandais constitue un plus.\r\n\r\nVous souhaitez contribuer à des projets d’envergure dans les secteurs de la construction, des infrastructures ou du ferroviaire ? N’attendez plus pour postuler !\r\n\r\nVous bénéficierez également d’un parcours de formation personnalisé afin de développer vos compétences et d’accompagner votre évolution professionnelle.\r\n\r\nLe process de recrutement\r\n\r\nLe processus débute par un échange téléphonique, suivi d’un entretien avec un Talent Acquisition Officer. Vous rencontrerez ensuite un Business Manager, avant un dernier entretien permettant de finaliser le processus et, le cas échéant, de vous présenter une proposition de contrat.",
-   "duration": 12,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-11T08:20:52Z",
-   "sector": "",
-   "specialization": "64",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-11T08:20:52Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-09-24T00:00:00",
-    "endBroadcastDate": "2026-10-24T00:00:00"
-   },
-   "summary": "HOUSE OF ABY, groupe d'ingénierie et de conseil présent dans 9 pays, réunit 11 marques (Abylsen, ABMI, Pharmacos…) et s'appuie sur 4 grands piliers : Engineering (expertise technique et ingénierie de pointe), Solutions (développement et mise en œuvre de solutions adaptées), Digital (innovation et transformation numérique) et Advisory (conseil stratégique RH/QRSE).\n\nCette offre concerne la marque Abylsen*.\n\nAbylsen Belgium, société de conseil en ingénierie, en quelques mots\n\nNotre société de conseil en ingénierie propose à d'autres entreprises l'expertise de ses consultants, qui interviennent chez nos clients pour une durée moyenne d’un an afin de les accompagner dans le développement et la réalisation de leurs projets.\n\nAbylsen Belgium opère dans 8 secteurs clés, dont l’aéronautique - spatial, l’automobile, la défense, l’énergie, le BTP – Infrastructure – Ferroviaire, l’IT – Télécommunications, Life Sciences, Banque – Finance – Assurances. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/245842",
-   "score": 28,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 10,
-    "qual": 8,
-    "calc": 27
-   },
-   "dominant_axis": "calc",
-   "matched_families": [
-    {
-     "id": "calc1",
-     "axis": "calc",
-     "source": "Éléments finis (256-1, 24 h), TP simulation numérique (272-1, 285-5, 285-4, 63 h), Calculs numériques de mise en forme (277-1, 286-1, 50 h)",
-     "weight": 12,
-     "terms": [
-      "modelisation"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "engineering",
-      "ingenierie"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "conformite",
-      "normes",
-      "qualite",
-      "standards"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "aeronautique",
-      "automobile",
-      "defense"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
-   "id": "244457",
-   "title": "INGÉNIEUR PROJET - (H/F)",
-   "company": "FRATECH RP",
-   "country": "BELGIQUE",
-   "city": "BRUXELLES",
-   "description": "Dans le cadre de la croissance de ses activités Infrastructure/Energie et Transport/Défense dans la région de Bruxelles Capitale, Abylsen recherche un(e) Ingénieur(e) projet pour renforcer ses équipes. \n\nVos responsabilités au quotidien ?\n\n• Analyse et compréhension des besoins exprimés par le client ou les parties prenantes\n• Rédaction du cahier des charges en intégrant les objectifs, les contraintes, les livrables, les délais et le budget\n• Réalisation d'études de faisabilité techniques, économiques et réglementaires\n• Élaboration du planning projet et répartition des ressources\n• Coordination des équipes techniques internes et/ou externes tout au long du projet\n• Assure l’interface entre les différents acteurs du projet, notamment les clients, fournisseurs et partenaires\n• Suivi et gestion du budget, des devis et optimisation des coûts\n• Pilotage de l’avancement du projet avec reporting régulier et gestion des risques\n• Prise en compte et intégration des modifications en cours de projet\n• Gestion des phases de validation, de tests, de mise en service et de réception du projet\n• Rédaction de la documentation technique et des comptes-rendus de réunions\n• Réalisation du retour d’expérience afin d’identifier les axes d’amélioration pour les projets futurs",
-   "mission": "",
-   "profile": "Issu(e) d’une formation supérieure (BAC+5) en école d’ingénieurs ou équivalent, vous êtes généraliste ou êtes spécialisé(e) en gestion de projet ou génie industriel.\n\nVous justifiez d’une première expérience industrielle réussie (stage ou alternance) sur un sujet technique relevant (mécanique, hydraulique, électrique, instrumentation, automatisme…).\n\nÀ l’aise avec les outils de gestion de projets (planification, coordination et pilotage) tels que Ms Project, Primavera ou Tilos, vous savez mettre vos compétences techniques au service de projets concrets.\n\nVous maîtrisez le français et avez un bon niveau d’anglais (le néerlandais est un plus), vous permettant d’évoluer dans un environnement international.\n\nSi vous vous reconnaissez dans ce profil et souhaitez contribuer à des projets d’envergure, n’attendez plus pour postuler !\n\nLe process de recrutement \n\nLe processus de recrutement débute par un échange téléphonique, suivi d’un entretien avec un·e Talent Acquisition Officer. Vous aurez ensuite l’opportunité de rencontrer un·e Business Manager lors d’un second rendez-vous. Enfin, un dernier entretien viendra clore le processus, à l’issue duquel une proposition de contrat pourra vous être faite.\n\nDans le cadre de l'égalité des chances, toutes nos offres d'emploi sont ouvertes aux personnes en situation de handicap.",
-   "duration": 12,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-07-08T08:03:39Z",
-   "sector": "",
-   "specialization": "65, 73, 77, 107, 206, 207, 224, 264",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-07-08T08:03:39Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-09-24T00:00:00",
-    "endBroadcastDate": "2026-10-24T00:00:00"
-   },
-   "summary": "Dans le cadre de la croissance de ses activités Infrastructure/Energie et Transport/Défense dans la région de Bruxelles Capitale, Abylsen recherche un(e) Ingénieur(e) projet pour renforcer ses équipes. \n\nVos responsabilités au quotidien ?\n\n• Analyse et compréhension des besoins exprimés par le client ou les parties prenantes\n• Rédaction du cahier des charges en intégrant les objectifs, les contraintes, les livrables, les délais et le budget\n• Réalisation d'études de faisabilité techniques, économiques et réglementaires\n• Élaboration du planning projet et répartition des ressources\n• Coordination des équipes techniques internes et/ou externes tout au long du projet\n• Assure l’interface entre les différents acteurs du projet, notamment les clients, fournisseurs et partenaires\n• Suivi et gestion du budget, des devis et optimisation des coûts\n• Pilotage de l’avancement du projet avec reporting régulier et gestion des risques\n• Prise en compte et intégration des modifications en cours de projet\n• Gestion des phases de validation, de tests, de mise en service et de réception du projet […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/244457",
-   "score": 28,
-   "label": "Périphérique",
-   "first_seen": "2026-08-27T05:21:30+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 0,
-    "qual": 8,
-    "calc": 0
-   },
-   "dominant_axis": "qual",
-   "matched_families": [
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "validation"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "defense",
-      "energie",
-      "industriel"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
-   "id": "242220",
-   "title": "Ingénieur projet (H/F)",
-   "company": "FRATECH RP",
-   "country": "BELGIQUE",
-   "city": "BRUXELLES",
-   "description": "Vos missions : \r\n\r\n- Gérer les projets de A à Z, dans le respect des délais, des coûts et de la qualité\r\n- Respecter et faire respecter le budget et le planning en y intégrant la gestion des risques\r\n- Encadrer les tâches d’études, de rédaction des cahiers des charges ainsi que les phases d’offres et de commande\r\n- Assurer la coordination et le respect des prescriptions du cahier des charges\r\n- Conserver une attache technique (électrique, instrumentation, mécanique, hydraulique…)\r\n- Elaborer et organiser le suivi de la documentation technique relative aux projets",
-   "mission": "",
-   "profile": "Votre profil : \r\n\r\n- Diplôme d'ingénieur civil ou industriel\r\n- Maîtrise de MS Project, Primavera et autres logiciels pertinents \r\n- Excellentes compétences en communication et en travail d'équipe\r\n- Une expérience en gestion de projet est un plus\r\n -Entre 0 et 3 ans d'expérience\r\n- Langues : français et anglais courant, le néerlandais est un plus",
-   "duration": 12,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-04-13T14:00:13Z",
-   "sector": "",
-   "specialization": "109",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-04-13T14:00:13Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-09-24T00:00:00",
-    "endBroadcastDate": "2026-10-24T00:00:00"
-   },
-   "summary": "Vos missions : \r\n\r\n- Gérer les projets de A à Z, dans le respect des délais, des coûts et de la qualité\r\n- Respecter et faire respecter le budget et le planning en y intégrant la gestion des risques\r\n- Encadrer les tâches d’études, de rédaction des cahiers des charges ainsi que les phases d’offres et de commande\r\n- Assurer la coordination et le respect des prescriptions du cahier des charges\r\n- Conserver une attache technique (électrique, instrumentation, mécanique, hydraulique…)\r\n- Elaborer et organiser le suivi de la documentation technique relative aux projets",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/242220",
-   "score": 28,
-   "label": "Périphérique",
-   "first_seen": "2026-08-24T16:01:18+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 0,
-    "qual": 8,
-    "calc": 0
-   },
-   "dominant_axis": "qual",
-   "matched_families": [
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "qualite"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "industriel",
-      "mecanique"
      ],
      "points": 5
     },
@@ -32482,157 +30929,6 @@
     }
    ],
    "bonuses": []
-  },
-  {
-   "id": "245029",
-   "title": "Financial planning & analysis Analyst (FP&A) (H/F)",
-   "company": "MAISON KYKA",
-   "country": "MAURICE",
-   "city": "MOKA",
-   "description": "Vous êtes le moteur analytique de la Direction Financière : construire, maintenir et challenger les modèles de prévision multi-entités du groupe sur un horizon 12-24 mois, et transformer les données financières en insights décisionnels pour la Direction Générale.\n\nForecasting & Modélisation\n- Construire et piloter le modèle de forecast intégré groupe (P&L, cash-flow, bilan) sur horizon 12-24 mois\n- Structurer les schémas de projection par entité et par activité (Marchand de biens, travaux, architecture, conciergerie, etc.) avec granularité projet / agrégat\n- Modéliser les opérations de marchand de biens : plan de financement, courbe de décaissement, simulations de TRI et de marge nette\n- Produire des analyses de sensibilité et des scénarios (base / optimiste / stress) pour chaque horizon de décision\n- Mettre en place et faire évoluer le processus budgétaire annuel et les reforecasts trimestriels\n\nReporting & Analyse\n- Concevoir le tableau de bord mensuel Groupe (KPIs opérationnels + financiers) à destination du COMEX\n- Assurer, en lien avec le contrôle de gestion, le suivi des écarts budget / réel avec analyse de causes racines et recommandations correctrices\n- Alimenter et challenger la vision cash-flow en lien avec le cash manager\n- Structurer les reportings ad hoc pour les banques, investisseurs ou partenaires stratégiques\n\nSystèmes & Data\n- Structurer et automatiser les flux de données entre les outils comptables, CRM et les modèles de pilotage\n- Prendre en main les outils FP&A du groupe\n- Documenter les méthodologies et construire une bibliothèque de modèles réutilisables\n\nStratégie & Transverse\n- Contribuer aux analyses de profitabilité par activité, projet ou client pour éclairer les choix de développement\n- Participer aux présentations DG / COMEX avec production de supports synthétiques orientés décision\n- Challenger les hypothèses opérationnelles avec le Managing Director de chaque filiale",
-   "mission": "",
-   "profile": "Formation\n\n- Bac+5 : Grande école de commerce, Master Finance / Contrôle de gestion, ou école d’ingénieur avec spécialisation finance\n\nExpérience\n\n- minimum 3 ans d’expérience, idéalement dans un parcours FP&A, Audit / M&A ou Contrôle de gestion dans un environnement multi-entités\n\n- Expérience en modélisation financière complexe : modèles intégrés (P&L + BFR + cash), simulations, analyses de sensibilité\n\n- Exposition à l’immobilier, au private equity immobilier ou à un secteur projet (promotion, infrastructure, luxe) est un vrai plus\n\nCompétences techniques\n\n- Excel expert : modélisation dynamique, VBA ou Power Query, audit de formules\n\n- Maîtrise des 3 états financiers et de leurs interdépendances (P&L / Bilan / Cash-flow)\n\n- Capacité à construire des modèles projet avec TRI, VAN, analyse de sensibilité\n\n- Notion d’outils BI ou FP&A (Power BI, Tableau, Agicap, Pigment ou équivalent) appréciée\n\n- SQL ou Python pour l’automatisation des flux de données : un vrai plus\n\nSoft skills\n\n- Rigueur analytique et capacité à travailler sur des problématiques ambiguës avec des données imparfaites\n\n- Autonomie forte : vous structurez votre scope, vous ne l’attendez pas\n\n- Communication synthétique : transformer un modèle complexe en 3 lignes clés pour le CEO\n\n- Curiosité sectorielle : vous aimez comprendre les métiers pour mieux les modéliser\n\n- Goût du terrain : vous challengez les opérationnels, vous ne vous contentez pas des chiffres transmis",
-   "duration": 12,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-07-30T12:38:41Z",
-   "sector": "",
-   "specialization": "320",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-07-30T12:38:41Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-09-24T00:00:00",
-    "endBroadcastDate": "2026-10-24T00:00:00"
-   },
-   "summary": "Vous êtes le moteur analytique de la Direction Financière : construire, maintenir et challenger les modèles de prévision multi-entités du groupe sur un horizon 12-24 mois, et transformer les données financières en insights décisionnels pour la Direction Générale.\n\nForecasting & Modélisation\n- Construire et piloter le modèle de forecast intégré groupe (P&L, cash-flow, bilan) sur horizon 12-24 mois\n- Structurer les schémas de projection par entité et par activité (Marchand de biens, travaux, architecture, conciergerie, etc.) avec granularité projet / agrégat\n- Modéliser les opérations de marchand de biens : plan de financement, courbe de décaissement, simulations de TRI et de marge nette\n- Produire des analyses de sensibilité et des scénarios (base / optimiste / stress) pour chaque horizon de décision\n- Mettre en place et faire évoluer le processus budgétaire annuel et les reforecasts trimestriels\n\nReporting & Analyse\n- Concevoir le tableau de bord mensuel Groupe (KPIs opérationnels + financiers) à destination du COMEX […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/245029",
-   "score": 28,
-   "label": "Périphérique",
-   "first_seen": "2026-08-24T16:01:18+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 0,
-    "qual": 8,
-    "calc": 36
-   },
-   "dominant_axis": "calc",
-   "matched_families": [
-    {
-     "id": "calc1",
-     "axis": "calc",
-     "source": "Éléments finis (256-1, 24 h), TP simulation numérique (272-1, 285-5, 285-4, 63 h), Calculs numériques de mise en forme (277-1, 286-1, 50 h)",
-     "weight": 12,
-     "terms": [
-      "modelisation"
-     ]
-    },
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
-     "weight": 4,
-     "terms": [
-      "automatisation",
-      "python",
-      "vba"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "audit"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
-   "id": "245854",
-   "title": "German Customer Adoption Manager (H/F)",
-   "company": "NEXTCUBE.IO",
-   "country": "ALLEMAGNE",
-   "city": "HAMBOURG",
-   "description": "Key Responsibilities\r\n\r\nAs a Technical Business Consultant V.I.E, you will support customers in their digital transformation projects while developing expertise in Dassault Systèmes solutions.\r\n\r\n- Explore Dassault Systèmes cloud solutions and technologies.\r\n- Participate in customer presentations, workshops and technical meetings.\r\n- Provide technical support and consulting on 3D CAD, Simulation, PLM and Data Management solutions.\r\n- Deliver user onboarding and training sessions on the 3DEXPERIENCE platform and SOLIDWORKS ecosystem.\r\n- Create technical content such as videos, articles and training materials.\r\n- Support sales activities through demonstrations, audits and requirements analysis.\r\n- Contribute to digital transformation projects for industrial customers.\r\n\r\nSkills and Competencies Developed\r\n\r\nDuring this assignment, you will develop:\r\n\r\n- Dassault Systèmes certifications and technical expertise.\r\n- Knowledge of cloud technologies and the 3DEXPERIENCE platform.\r\n- Digital transformation and project management skills.\r\n- Customer consulting and presentation skills.\r\n- Proficiency with CRM tools including HubSpot.\r\n- Customer success and satisfaction best practices.\r\n- Experience working with international customers and teams.\r\n\r\nWhy Join Us?\r\n- Structured training and mentoring from experienced professionals.\r\n- Exposure to innovative industrial projects and cutting-edge technologies.\r\n- International business experience within the Dassault Systèmes ecosystem.\r\n- Development of valuable technical, consulting and project management skills.",
-   "mission": "",
-   "profile": "Fresh Graduated Mechanical Engineer Master 2\r\nUser of CAD Software like Solidworks, Catia or Autodesk\r\nNative or bilingual in German\r\nFluent in English",
-   "duration": 12,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-11T12:38:54Z",
-   "sector": "",
-   "specialization": "248",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-11T12:38:54Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-09-24T00:00:00",
-    "endBroadcastDate": "2026-10-24T00:00:00"
-   },
-   "summary": "Key Responsibilities\r\n\r\nAs a Technical Business Consultant V.I.E, you will support customers in their digital transformation projects while developing expertise in Dassault Systèmes solutions.\r\n\r\n- Explore Dassault Systèmes cloud solutions and technologies.\r\n- Participate in customer presentations, workshops and technical meetings.\r\n- Provide technical support and consulting on 3D CAD, Simulation, PLM and Data Management solutions.\r\n- Deliver user onboarding and training sessions on the 3DEXPERIENCE platform and SOLIDWORKS ecosystem.\r\n- Create technical content such as videos, articles and training materials.\r\n- Support sales activities through demonstrations, audits and requirements analysis.\r\n- Contribute to digital transformation projects for industrial customers.\r\n\r\nSkills and Competencies Developed\r\n\r\nDuring this assignment, you will develop:\r\n\r\n- Dassault Systèmes certifications and technical expertise.\r\n- Knowledge of cloud technologies and the 3DEXPERIENCE platform.\r\n- Digital transformation and project management skills.\r\n- Customer consulting and presentation skills. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/245854",
-   "score": 28,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 24,
-    "qual": 0,
-    "calc": 20
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "calc2",
-     "axis": "calc",
-     "source": "CAO (278-1, 30 h), Conception mécanique (264-1, 43 h)",
-     "weight": 9,
-     "terms": [
-      "cad",
-      "catia",
-      "solidworks"
-     ]
-    },
-    {
-     "id": "prod6",
-     "axis": "prod",
-     "source": "Outils et moyens de fabrication (259-1, 30 h)",
-     "weight": 7,
-     "terms": [
-      "cutting"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "industrial",
-      "mechanical"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
   },
   {
    "id": "247294",
@@ -34131,7 +32427,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-15T14:51:50Z",
    "sector": "",
-   "specialization": "251",
+   "specialization": "[\"251\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -36348,7 +34644,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-12T12:29:13Z",
    "sector": "",
-   "specialization": "7",
+   "specialization": "[\"7\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
