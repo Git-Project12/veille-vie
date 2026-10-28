@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-27T19:26:03+00:00",
+ "generated_at": "2026-10-28T12:52:33+00:00",
  "source": "Business France — mon-vie-via.businessfrance.fr",
- "total_scanned": 857,
- "total_announced": 857,
- "total_kept": 390,
+ "total_scanned": 862,
+ "total_announced": 862,
+ "total_kept": 391,
  "threshold": 25,
  "axes": {
   "rd": {
@@ -707,7 +707,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-27T13:34:04Z",
    "sector": "",
-   "specialization": "[\"142\"]",
+   "specialization": "142",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -1004,129 +1004,6 @@
       "automotive",
       "industrial",
       "mechanical"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
-   "id": "245772",
-   "title": "Junior Mechanical Design Engineer | Aerospace Industry (H/F)",
-   "company": "AKKODIS HIGH TECH SAS",
-   "country": "BELGIQUE",
-   "city": "CHARLEROI",
-   "description": "À propos du projet\n\nDans le cadre d'un projet stratégique pour l'un de nos clients du secteur aéronautique, nous recherchons 5 Dessinateurs Mécaniques Aéronautiques afin de rejoindre une équipe en charge de projets de modification et de conception d'aérostructures.\n\nVous intégrerez un bureau d'études dynamique et participerez au développement de solutions techniques innovantes en collaboration avec les équipes d'ingénierie et de production.\n\nVos missions\nAnalyser les besoins techniques et fonctionnels liés à l'intégration d'équipements.\nConcevoir des solutions techniques adaptées aux contraintes aéronautiques.\nRéaliser les modèles 3D et les plans mécaniques complexes sous CATIA V5.\nParticiper aux projets de modification d'aérostructures.\nAssurer le respect des normes de conception et de fabrication.\nCollaborer avec les équipes Bureau d'Études, Industrialisation et Production.\nParticiper aux revues de conception et à l'amélioration continue des solutions techniques.",
-   "mission": "",
-   "profile": "- Formation :\r\n\r\nBac+2 à Bac+5 en Génie Mécanique, Conception Mécanique, Génie Mécanique et Productique (GMP) ou équivalent.\r\n\r\n- Expérience :\r\n\r\nUne expérience d'au moins 1 an dans le secteur aéronautique est souhaitée.\r\n\r\n- Compétences techniques :\r\n\r\nMaîtrise indispensable de CATIA V5, notamment des modules :\r\n\r\nGenerative Shape Design (GSD)\r\n\r\nAssembly Design\r\n\r\nDrafting (Drawing)\r\n\r\nSheet Metal Design\r\n\r\nBonne connaissance de 3DEXPERIENCE / PLM.\r\n\r\nConnaissance des normes de cotation ISO GPS.\r\n\r\nSolides compétences en conception de structures mécaniques",
-   "duration": 24,
-   "start_date": "2026-11-01T00:00:00",
-   "end_date": "2028-11-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-10T10:05:28Z",
-   "sector": "",
-   "specialization": "64",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-10T10:05:28Z",
-    "missionStartDate": "2026-11-01T00:00:00",
-    "missionEndDate": "2028-11-01T00:00:00",
-    "startBroadcastDate": "2026-09-18T00:00:00",
-    "endBroadcastDate": "2026-10-27T00:00:00"
-   },
-   "summary": "À propos du projet\n\nDans le cadre d'un projet stratégique pour l'un de nos clients du secteur aéronautique, nous recherchons 5 Dessinateurs Mécaniques Aéronautiques afin de rejoindre une équipe en charge de projets de modification et de conception d'aérostructures.\n\nVous intégrerez un bureau d'études dynamique et participerez au développement de solutions techniques innovantes en collaboration avec les équipes d'ingénierie et de production.\n\nVos missions\nAnalyser les besoins techniques et fonctionnels liés à l'intégration d'équipements.\nConcevoir des solutions techniques adaptées aux contraintes aéronautiques.\nRéaliser les modèles 3D et les plans mécaniques complexes sous CATIA V5.\nParticiper aux projets de modification d'aérostructures.\nAssurer le respect des normes de conception et de fabrication.\nCollaborer avec les équipes Bureau d'Études, Industrialisation et Production.\nParticiper aux revues de conception et à l'amélioration continue des solutions techniques.",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/245772",
-   "score": 89,
-   "label": "Cœur de cible",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 100,
-    "qual": 8,
-    "calc": 20
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "calc2",
-     "axis": "calc",
-     "source": "CAO (278-1, 30 h), Conception mécanique (264-1, 43 h)",
-     "weight": 9,
-     "terms": [
-      "bureau d'etudes",
-      "catia",
-      "conception mecanique",
-      "design engineer"
-     ]
-    },
-    {
-     "id": "prod1",
-     "axis": "prod",
-     "source": "Mise en forme par déformation plastique des métaux (281-1, 45 h), Physique de la mise en forme (290-1, 30 h)",
-     "weight": 12,
-     "terms": [
-      "sheet metal"
-     ]
-    },
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
-     "weight": 10,
-     "terms": [
-      "industrialisation"
-     ]
-    },
-    {
-     "id": "prod3",
-     "axis": "prod",
-     "source": "Assemblage des matériaux (297-2, 30 h)",
-     "weight": 7,
-     "terms": [
-      "assembly"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "amelioration continue",
-      "fabrication",
-      "ingenierie"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "normes"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineer",
-      "mechanical"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "aeronautique",
-      "aerospace",
-      "mecanique"
      ],
      "points": 5
     },
@@ -2354,7 +2231,7 @@
    "expiry_date": "",
    "publish_date": "2026-05-04T16:17:32Z",
    "sector": "",
-   "specialization": "[\"66\"]",
+   "specialization": "66",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -2491,7 +2368,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-26T12:51:18Z",
    "sector": "",
-   "specialization": "[\"68\"]",
+   "specialization": "68",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -2742,7 +2619,7 @@
    "expiry_date": "",
    "publish_date": "2025-11-19T10:45:12Z",
    "sector": "",
-   "specialization": "[\"77\",\"149\"]",
+   "specialization": "77, 149",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -4072,7 +3949,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-26T15:07:20Z",
    "sector": "",
-   "specialization": "[\"63\"]",
+   "specialization": "63",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -4309,7 +4186,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-26T08:28:29Z",
    "sector": "",
-   "specialization": "[\"143\"]",
+   "specialization": "143",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5464,7 +5341,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-27T14:59:09Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6861,7 +6738,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-21T12:28:26Z",
    "sector": "",
-   "specialization": "[\"73\"]",
+   "specialization": "73",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -7497,7 +7374,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-26T14:20:13Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -7909,7 +7786,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-21T12:42:05Z",
    "sector": "",
-   "specialization": "[\"150\"]",
+   "specialization": "150",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8013,7 +7890,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-21T08:13:10Z",
    "sector": "",
-   "specialization": "[\"60\",\"208\"]",
+   "specialization": "60, 208",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8760,7 +8637,7 @@
    "expiry_date": "",
    "publish_date": "2026-03-09T15:10:01Z",
    "sector": "",
-   "specialization": "[\"78\"]",
+   "specialization": "78",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9177,7 +9054,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-10T14:13:50Z",
    "sector": "",
-   "specialization": "[\"107\"]",
+   "specialization": "107",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9740,7 +9617,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-23T09:02:41Z",
    "sector": "",
-   "specialization": "52, 66, 114, 115, 143, 148, 153",
+   "specialization": "[\"52\",\"66\",\"114\",\"115\",\"143\",\"148\",\"153\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10349,7 +10226,7 @@
    "expiry_date": "",
    "publish_date": "2025-11-19T10:45:12Z",
    "sector": "",
-   "specialization": "[\"77\",\"149\",\"207\"]",
+   "specialization": "77, 149, 207",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10914,100 +10791,6 @@
    ]
   },
   {
-   "id": "245412",
-   "title": "Quality & Continuous Improvement Engineer (M/F) (H/F)",
-   "company": "FLEURY MICHON",
-   "country": "PAYS-BAS",
-   "city": "LELYSTAD",
-   "description": "1. Join Fleury Michon and MARFO in The NetherlandsFor over 120 years, Fleury Michon has been committed to providing high-quality, innovative, and responsible food solutions. As a leading player in the food industry, the Group leverages its expertise across various activities in France and internationally. In the Netherlands, Fleury Michon operates through MARFO, a recognized specialist in frozen ready-made meals serving international customers. Every day, MARFO relies on high standards of quality and food safety to deliver safe, reliable, and compliant products to customers around the world. As part of our growth and ongoing transformation, we are looking for a Quality & Continuous Improvement Engineer to support the development of our Quality Management System and strengthen our Food Safety Culture across the organization.\r\n\r\n 2. Your Role as a Quality & Continuous Improvement EngineerAs part of the Quality Department, you will contribute to the deployment of our Quality and Food Safety strategy by supporting the continuous improvement of our Quality Management System within an international food manufacturing environment. You will play a key role in strategic projects aimed at strengthening our quality standards, Food Safety Culture, and overall organizational performance.\r\n\r\nKey Responsibilities : \r\n\r\nLead continuous improvement projects related to the Quality Management System and Food Safety Culture.\r\nAnalyze existing processes and identify improvement opportunities to enhance the efficiency and effectiveness of Quality activities.\r\nSupport the development and optimization of quality tools, methodologies, and processes across the organization.\r\nContribute to the deployment and embedding of a strong Food Safety Culture at all levels of the business.\r\nCollaborate closely with Quality, Production, Supply Chain, R&D, and Operations teams on cross-functional projects.\r\nDevelop and monitor performance indicators (KPIs) to measure the effectiveness of implemented actions.\r\nSupport teams in adopting best practices and promoting a culture of quality excellence.\r\n\r\nWhy Join Us?\r\n\r\nAn international experience within a food company.\r\nThe opportunity to lead high-impact projects with visible results across the organization.\r\nDirect exposure to Quality and Food Safety challenges within an international manufacturing site.\r\nA multicultural environment that encourages autonomy, initiative, and professional growth.\r\nClose collaboration with operational teams and key decision-makers.\r\nContinuous support and learning opportunities throughout your assignment.\r\nAll benefits associated with the V.I.E. program.\r\nJoin MARFO and contribute to strengthening quality, food safety, and continuous improvement within a leading international food manufacturing company.",
-   "mission": "",
-   "profile": "3. The Profile We Are Looking For\r\n\r\nEducation & Experience\r\nMaster's degree (or equivalent) in Food Science, Quality Management, or a related field.\r\nSignificant first experience (internship, apprenticeship, or first professional experience) gained within a demanding food manufacturing environment.\r\nGood understanding of Quality Management Systems, food safety principles, and continuous improvement methodologies.\r\nExperience working closely with production teams and operational activities.\r\n\r\nKey Skills\r\nStrong project management skills with the ability to manage multiple projects simultaneously.\r\nAbility to structure, coordinate, and monitor action plans involving various stakeholders.\r\nExcellent analytical, organizational, and problem-solving capabilities.\r\nAbility to work autonomously while ensuring rigorous project follow-up and execution.\r\nProficiency in Microsoft Office.\r\nFluent English, both written and spoken.\r\n\r\nPersonal Qualities\r\nStrong hands-on mindset and genuine interest in working on the shop floor within a Food production environment.\r\nProactive attitude and strong sense of ownership.\r\nHighly organized, rigorous, and detail-oriented.\r\nAbility to prioritize effectively in a fast-paced environment.\r\nExcellent interpersonal and communication skills.\r\nCurious, pragmatic, and eager to learn.\r\n\r\nJoin MARFO and contribute to strengthening quality, food safety, and continuous improvement within a leading international food manufacturing company.\r\nCV and letter of motivation in English only.",
-   "duration": 24,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2028-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-08-25T15:02:11Z",
-   "sector": "",
-   "specialization": "",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-08-25T15:02:11Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2028-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-30T00:00:00",
-    "endBroadcastDate": "2026-10-27T00:00:00"
-   },
-   "summary": "1. Join Fleury Michon and MARFO in The NetherlandsFor over 120 years, Fleury Michon has been committed to providing high-quality, innovative, and responsible food solutions. As a leading player in the food industry, the Group leverages its expertise across various activities in France and internationally. In the Netherlands, Fleury Michon operates through MARFO, a recognized specialist in frozen ready-made meals serving international customers. Every day, MARFO relies on high standards of quality and food safety to deliver safe, reliable, and compliant products to customers around the world. As part of our growth and ongoing transformation, we are looking for a Quality & Continuous Improvement Engineer to support the development of our Quality Management System and strengthen our Food Safety Culture across the organization.\r\n\r\n 2. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/245412",
-   "score": 48,
-   "label": "À examiner",
-   "first_seen": "2026-08-27T05:21:30+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 45,
-    "qual": 8,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
-     "weight": 10,
-     "terms": [
-      "shop floor"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "continuous improvement",
-      "manufacturing"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "quality",
-      "standards"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "problem solving",
-      "r&d"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineer",
-      "quality"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "245486",
    "title": "Ingénieur Aérodynamique (H/F)",
    "company": "INNOVATEAM",
@@ -11501,7 +11284,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T08:00:24Z",
    "sector": "",
-   "specialization": "[\"114\"]",
+   "specialization": "114",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12080,7 +11863,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-26T09:57:29Z",
    "sector": "",
-   "specialization": "[\"264\"]",
+   "specialization": "264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12245,6 +12028,94 @@
      "label": "Niveau bac+5 / ingénieur annoncé",
      "terms": [],
      "points": 4
+    }
+   ]
+  },
+  {
+   "id": "247604",
+   "title": "Customer Service Quality Management (H/F)",
+   "company": "AIRBUS",
+   "country": "CHINE",
+   "city": "PEKIN",
+   "description": "Un poste sous contrat VIE Customer Service Quality Management est à pourvoir au sein d’Airbus (Commercial Aircraft) à Beijing China. Vous rejoindrez Customer service Quality.\r\nCe poste offre l'opportunité de travailler et de communiquer directement avec différentes compagnies aériennes chinoises à travers tout le pays.\r\n\r\nMissions et responsabilités :\r\n\r\nVous serez en charge des activités principales suivantes :\r\n\r\nGérer les sujets de qualité en service en tant que représentant régional CQFO, afin de suivre, prendre en compte et traiter les signalements des clients conformément aux exigences des KPI.\r\nCoordonner les actions avec l'équipe internationale Qualité Production du programme et l'équipe Ingénierie Support (In-Service) pour impulser le suivi des investigations sur la qualité de fabrication.\r\nRédiger les rapports de qualité mensuels et annuels synthétisant les problématiques en service de la région Chine.\r\nOrganiser et animer des réunions bimensuelles de revue des dossiers avec la ligne d'assemblage final (FAL) de Tianjin, le centre de livraison et l'équipe d'efficacité de la flotte (Fleet Efficiency).\r\nAnalyser les données techniques de flotte remontées par chaque client, puis organiser et conduire des réunions de revue qualité avec les clients selon les besoins.\r\nAgir en tant que point de contact pour la région Chine au sein du Service Client afin de faciliter le déploiement du Lean Management (notamment la mise en œuvre des briques AOS).\r\nAgir en tant que formateur « Mindset Booster Zone » pour promouvoir la culture de la qualité et de la sécurité au sein du Service Client pour la région Chine.\r\nFaciliter la réalisation des audits EN9100 pour le Service Client région Chine.\r\nPiloter et soutenir des projets le cas échéant.",
+   "mission": "",
+   "profile": "Required skills\r\n\r\nYou have the following skills and experience: \r\n\r\n● Mindset of continuous learning and customer centristic \r\n\r\n● Willing to communicate across functions, and across company\r\n\r\n● Language skill of Chinese is preferred\r\n\r\n● Major in engineering or mechanics or electronic is preferred",
+   "duration": 24,
+   "start_date": "2027-03-01T00:00:00",
+   "end_date": "2029-03-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-28T09:30:58Z",
+   "sector": "",
+   "specialization": "[\"71\",\"251\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-28T09:30:58Z",
+    "missionStartDate": "2027-03-01T00:00:00",
+    "missionEndDate": "2029-03-01T00:00:00",
+    "startBroadcastDate": "2026-10-28T00:00:00",
+    "endBroadcastDate": "2026-11-27T00:00:00"
+   },
+   "summary": "Un poste sous contrat VIE Customer Service Quality Management est à pourvoir au sein d’Airbus (Commercial Aircraft) à Beijing China. Vous rejoindrez Customer service Quality.\r\nCe poste offre l'opportunité de travailler et de communiquer directement avec différentes compagnies aériennes chinoises à travers tout le pays.\r\n\r\nMissions et responsabilités :\r\n\r\nVous serez en charge des activités principales suivantes :\r\n\r\nGérer les sujets de qualité en service en tant que représentant régional CQFO, afin de suivre, prendre en compte et traiter les signalements des clients conformément aux exigences des KPI.\r\nCoordonner les actions avec l'équipe internationale Qualité Production du programme et l'équipe Ingénierie Support (In-Service) pour impulser le suivi des investigations sur la qualité de fabrication.\r\nRédiger les rapports de qualité mensuels et annuels synthétisant les problématiques en service de la région Chine. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247604",
+   "score": 45,
+   "label": "À examiner",
+   "first_seen": "2026-10-28T12:52:17+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 48,
+    "qual": 8,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod3",
+     "axis": "prod",
+     "source": "Assemblage des matériaux (297-2, 30 h)",
+     "weight": 7,
+     "terms": [
+      "assemblage"
+     ]
+    },
+    {
+     "id": "prod5",
+     "axis": "prod",
+     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
+     "weight": 4,
+     "terms": [
+      "lean"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "engineering",
+      "fabrication",
+      "ingenierie"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "qualite",
+      "quality"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "quality"
+     ],
+     "points": 14
     }
    ]
   },
@@ -12432,88 +12303,6 @@
       "industrial"
      ],
      "points": 5
-    }
-   ]
-  },
-  {
-   "id": "245007",
-   "title": "Ingénieur Projet Nucléaire (H/F)",
-   "company": "ENGINEERING & CONSULTING GROUP",
-   "country": "BELGIQUE",
-   "city": "LIEGE",
-   "description": "- Participer aux projets liés à la prolongation de la durée de vie des installations (LTO) et à l'amélioration continue des équipements.\n- Contribuer aux études techniques portant sur la gestion, le conditionnement et le traitement des déchets radioactifs.\n- Réaliser des analyses techniques et assurer le suivi de dossiers en lien avec la sûreté nucléaire et les exigences réglementaires.\n- Collaborer avec les équipes d'exploitation, de maintenance et d'ingénierie pour préparer et suivre les interventions sur le terrain.\n- Participer aux inspections, contrôles et campagnes de surveillance des installations.\n- Analyser les données opérationnelles et proposer des actions d'optimisation des processus et équipements.\n- Rédiger la documentation technique, les rapports d'études et les supports nécessaires aux projets.\n- Assurer l'interface avec les différents acteurs internes et externes impliqués dans les projets nucléaires.",
-   "mission": "",
-   "profile": "- Diplôme d'Ingénieur à dominante nucléaire, énergétique, mécanique, électromécanique ou équivalent.\n- Première expérience sur centrale nucléaire (alternance ou expérience professionnelle d'au moins 1 an).\n- Intérêt marqué pour les sujets de prolongation de durée de vie des installations (LTO), de sûreté nucléaire et de gestion des déchets radioactifs.\n- Goût pour le terrain et capacité à interagir avec les équipes d'exploitation et de maintenance.\n- Bonne capacité d'analyse, rigueur technique et aisance rédactionnelle.\n- Maîtrise du français et bon niveau d'anglais professionnel (écrit et oral).",
-   "duration": 12,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2027-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-07-30T07:58:49Z",
-   "sector": "",
-   "specialization": "65, 68, 77, 107, 149, 159, 168, 365",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-07-30T07:58:49Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-10-08T00:00:00",
-    "endBroadcastDate": "2026-11-07T00:00:00"
-   },
-   "summary": "- Participer aux projets liés à la prolongation de la durée de vie des installations (LTO) et à l'amélioration continue des équipements.\n- Contribuer aux études techniques portant sur la gestion, le conditionnement et le traitement des déchets radioactifs.\n- Réaliser des analyses techniques et assurer le suivi de dossiers en lien avec la sûreté nucléaire et les exigences réglementaires.\n- Collaborer avec les équipes d'exploitation, de maintenance et d'ingénierie pour préparer et suivre les interventions sur le terrain.\n- Participer aux inspections, contrôles et campagnes de surveillance des installations.\n- Analyser les données opérationnelles et proposer des actions d'optimisation des processus et équipements.\n- Rédiger la documentation technique, les rapports d'études et les supports nécessaires aux projets.\n- Assurer l'interface avec les différents acteurs internes et externes impliqués dans les projets nucléaires.",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/245007",
-   "score": 43,
-   "label": "À examiner",
-   "first_seen": "2026-08-24T16:01:18+00:00",
-   "axis_scores": {
-    "rd": 29,
-    "prod": 10,
-    "qual": 0,
-    "calc": 0
-   },
-   "dominant_axis": "rd",
-   "matched_families": [
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "amelioration continue",
-      "engineering",
-      "ingenierie"
-     ]
-    },
-    {
-     "id": "rd4",
-     "axis": "rd",
-     "source": "Rupture et fatigue des matériaux (291-1, 47 h)",
-     "weight": 10,
-     "terms": [
-      "duree de vie"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "mecanique",
-      "nucleaire"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
     }
    ]
   },
@@ -12722,7 +12511,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-13T12:55:07Z",
    "sector": "",
-   "specialization": "[\"77\",\"209\"]",
+   "specialization": "77, 209",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -13249,7 +13038,7 @@
    "expiry_date": "",
    "publish_date": "2025-11-19T10:45:12Z",
    "sector": "",
-   "specialization": "[\"71\"]",
+   "specialization": "71",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -13621,7 +13410,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-21T08:11:43Z",
    "sector": "",
-   "specialization": "[\"76\"]",
+   "specialization": "76",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -13884,7 +13673,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-10T12:08:07Z",
    "sector": "",
-   "specialization": "71",
+   "specialization": "[\"71\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -14512,7 +14301,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-12T13:36:38Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -14853,15 +14642,15 @@
    "expiry_date": "",
    "publish_date": "2026-10-09T13:20:34Z",
    "sector": "",
-   "specialization": "60",
+   "specialization": "[\"60\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-10-09T13:20:34Z",
     "missionStartDate": "2027-01-01T00:00:00",
     "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-09T00:00:00",
-    "endBroadcastDate": "2026-11-08T00:00:00"
+    "startBroadcastDate": "2026-10-28T00:00:00",
+    "endBroadcastDate": "2026-11-27T00:00:00"
    },
    "summary": "Mise en œuvre et accompagnement dans l'introduction de méthodologies MBSE telles qu'Arcadia, MOFLT et MagicGrid.\nModélisation d'architectures systèmes avec Capella et CATIA Magic.\nParticipation au Requirements Engineering : structuration, analyse et gestion des exigences.\nContribution au développement de standards de modélisation, de processus et de workflows.\nCollaboration avec les architectes systèmes, les équipes d'ingénierie et le management de projet.\nDocumentation et présentation des résultats de modélisation et des concepts systèmes.",
    "url": "https://mon-vie-via.businessfrance.fr/offres/246896",
@@ -15345,7 +15134,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-26T14:26:02Z",
    "sector": "",
-   "specialization": "[\"149\"]",
+   "specialization": "149",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -15777,7 +15566,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-08T11:09:48Z",
    "sector": "",
-   "specialization": "[\"149\",\"330\",\"355\"]",
+   "specialization": "149, 330, 355",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -16105,7 +15894,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-19T09:58:26Z",
    "sector": "",
-   "specialization": "[\"138\",\"144\",\"248\",\"330\",\"355\"]",
+   "specialization": "138, 144, 248, 330, 355",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -17185,7 +16974,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-10T14:00:20Z",
    "sector": "",
-   "specialization": "[\"73\"]",
+   "specialization": "73",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -17621,15 +17410,15 @@
    "expiry_date": "",
    "publish_date": "2026-10-07T15:09:37Z",
    "sector": "",
-   "specialization": "79, 150, 206, 207, 208",
+   "specialization": "[\"79\",\"150\",\"206\",\"207\",\"208\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-10-07T15:09:37Z",
     "missionStartDate": "2027-01-01T00:00:00",
     "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-09T00:00:00",
-    "endBroadcastDate": "2026-11-08T00:00:00"
+    "startBroadcastDate": "2026-10-28T00:00:00",
+    "endBroadcastDate": "2026-11-27T00:00:00"
    },
    "summary": "Présentation de la société :\r\n\r\nUMO TUNISIE est une filiale du groupe HUMEAU BEAUPREAU dédiée à la production d'articles chaussants en cuir en Tunisie, à Beni Khiar (près de Hammamet). \r\n\r\nLe/la VIE évoluera dans cette usine de fabrication de chaussures en cuir installée près de Nabeul/Hammamet. Cette structure, qui est la filiale tunisienne de la maison mère française, se compose de 80 collaborateurs. Le/la VIE aura pour référent le directeur technique et la direction générale. \r\n\r\nIl est prévu une formation en France de 15 jours puis en Tunisie, également de 15 jours.\r\n\r\nMissions principales\r\n\r\nDans le cadre de sa mission, le/la chargé de suivi opérationnel et lean manufacturing sera chargé(e) de surveiller les opérations de production d'une entreprise de fabrication de chaussures en Tunisie. Il/elle contrôlera le suivi opérationnel, vérifiera le respect des objectifs de performance et contribuera activement à la mise en œuvre de démarches d'amélioration continue au travers du Lean management.\r\n\r\nResponsabilités\r\n\r\n1. […]",
    "url": "https://mon-vie-via.businessfrance.fr/offres/246804",
@@ -18220,6 +18009,122 @@
       "finance"
      ],
      "points": -5,
+     "cap": 35
+    }
+   ]
+  },
+  {
+   "id": "247594",
+   "title": "CHEF DE PROJETS METHODES ET AMELIORATION CONTINUE (H/F)",
+   "company": "OMERIN SAS",
+   "country": "TUNISIE",
+   "city": "MONASTIR",
+   "description": "Le Groupe OMERIN (300 M€ CA – 1700 collaborateurs – 16 sites industriels) est une ETI française d'envergure internationale. Innovant et multisectoriel, le Groupe organise ses activités autour de quatre Business Units dédiées à la santé et à la sécurité :\n- Câbles électriques de spécialités & Gaines tressées\n- Dispositifs Médicaux et Pharmaceutiques\n- Eléments Chauffants Souples\n- Gaines extrudées, Tubes et Flexibles\n\nDepuis 1959, l'exigence, l'innovation, les investissements et l’engagement de nos collaborateurs sont les clés du succès du Groupe OMERIN.\n\nEntreprise familiale aux valeurs humaines solidement ancrée en région Auvergne-Rhône-Alpes, notre savoir-faire et la qualité de nos produits sont reconnus dans plus de 120 pays. Résolument tourné vers l’avenir, le Groupe s’est engagé dans un ambitieux programme de réduction de son empreinte carbone.\n\nDans un contexte de développement et d’amélioration de notre outil de production, nous recherchons à renforcer notre équipe par un(e) VIE pour notre usine Tunisienne Multiflex (BU Câbles électriques de spécialités – 16 000m2 - 250 collaborateurs).\n\nAu quotidien et sous l’autorité du directeur de site, vous prenez part à des projets concrets de performance industrielle et serez au plus près du terrain et des équipes pour :\n-Analyser les procédés et les organisations de production afin d’identifier les leviers de performance ;\n-Piloter des projets d’amélioration continue : productivité, qualité, flux, organisation des postes, réduction des pertes et optimisation des process ;\n-Participer à l’industrialisation de nouveaux produits et procédés, de la définition du besoin jusqu’à leur mise en production ;\n-Optimiser les flux et les implantations industrielles en tenant compte des contraintes de production, de qualité et de sécurité ;\n-Réaliser des audits process, analyser les écarts et piloter les plans d’actions associés ;\n-Coordonner vos projets avec les différents métiers du site et assurer l’interface avec les équipes basées en France.\n\nVous découvrirez un environnement industriel multi-activités et une grande diversité de procédés, notamment en électronique et assemblage. Vous aurez surtout l’opportunité de prendre en charge vos propres projets et d’en mesurer concrètement les résultats sur le terrain.\n\nVous démarrerez votre mission à Monastir à l’issue d’une période de formation et de transfert de compétences de quelques semaines sur nos sites en France (Loire/Puy-de-Dôme).\n\nDes perspectives de carrière à l’issue de la période en VIE peuvent être envisagées en fonction du déroulement de la mission et des opportunités au sein du Groupe.\n\nMonastir est située à 160km au sud de la capitale tunisienne Tunis et à 20km de Sousse (500 000 habitants) et vous offre une qualité de vie exceptionnelle avec ses nombreuses activités balnéaires et culturelles. Monastir compte plus de 90 000 habitants.\n\nLa Tunisie, c’est aussi la découverte du désert du Sahara, des sites historiques de Carthage, et une gastronomie réputée, le tout dans un climat agréable. Une opportunité de carrière alliant professionnalisme et qualité de vie",
+   "mission": "",
+   "profile": "Issu d’une formation supérieur type master 2 ou diplôme généraliste ou génie industriel, vous alliez rigueur et pragmatisme, qualités d’analyse et de synthèse. Vous êtes une personne de terrain et doté d’un grand sens pratique. Votre leadership vous permet de coordonner la mise en œuvre des améliorations en relation avec les différents interlocuteurs, sur place ou avec les équipes en France.\nVous serez logé sur place et un véhicule de service sera mis à votre disposition.",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-28T07:53:21Z",
+   "sector": "",
+   "specialization": "[\"207\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-28T07:53:21Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-28T00:00:00",
+    "endBroadcastDate": "2026-11-27T00:00:00"
+   },
+   "summary": "Le Groupe OMERIN (300 M€ CA – 1700 collaborateurs – 16 sites industriels) est une ETI française d'envergure internationale. Innovant et multisectoriel, le Groupe organise ses activités autour de quatre Business Units dédiées à la santé et à la sécurité :\n- Câbles électriques de spécialités & Gaines tressées\n- Dispositifs Médicaux et Pharmaceutiques\n- Eléments Chauffants Souples\n- Gaines extrudées, Tubes et Flexibles\n\nDepuis 1959, l'exigence, l'innovation, les investissements et l’engagement de nos collaborateurs sont les clés du succès du Groupe OMERIN.\n\nEntreprise familiale aux valeurs humaines solidement ancrée en région Auvergne-Rhône-Alpes, notre savoir-faire et la qualité de nos produits sont reconnus dans plus de 120 pays. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247594",
+   "score": 35,
+   "label": "À examiner",
+   "first_seen": "2026-10-28T12:52:17+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 83,
+    "qual": 8,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod4",
+     "axis": "prod",
+     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
+     "weight": 10,
+     "terms": [
+      "industrialisation",
+      "usine"
+     ]
+    },
+    {
+     "id": "prod3",
+     "axis": "prod",
+     "source": "Assemblage des matériaux (297-2, 30 h)",
+     "weight": 7,
+     "terms": [
+      "assemblage"
+     ]
+    },
+    {
+     "id": "prod5",
+     "axis": "prod",
+     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
+     "weight": 4,
+     "terms": [
+      "productivite"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "amelioration continue",
+      "methodes"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "qualite"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "methodes"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "industriel"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    },
+    {
+     "label": "Formation exigée hors cursus : score plafonné",
+     "terms": [
+      "genie industriel"
+     ],
+     "points": -40,
      "cap": 35
     }
    ]
@@ -18862,7 +18767,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-22T14:14:40Z",
    "sector": "",
-   "specialization": "[\"70\"]",
+   "specialization": "70",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19937,7 +19842,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-22T13:27:06Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20109,7 +20014,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-15T13:38:37Z",
    "sector": "",
-   "specialization": "73, 109, 149, 150, 206, 207, 262, 264, 330",
+   "specialization": "[\"73\",\"109\",\"149\",\"150\",\"206\",\"207\",\"262\",\"264\",\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20781,7 +20686,7 @@
    "expiry_date": "",
    "publish_date": "2025-11-19T10:45:12Z",
    "sector": "",
-   "specialization": "[\"71\",\"73\",\"224\"]",
+   "specialization": "71, 73, 224",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21424,7 +21329,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-28T12:37:00Z",
    "sector": "",
-   "specialization": "[\"155\"]",
+   "specialization": "155",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21609,7 +21514,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T09:12:56Z",
    "sector": "",
-   "specialization": "[\"259\"]",
+   "specialization": "259",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21682,7 +21587,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-20T07:14:32Z",
    "sector": "",
-   "specialization": "[\"60\",\"77\",\"149\",\"150\",\"264\"]",
+   "specialization": "60, 77, 149, 150, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22356,7 +22261,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-13T13:34:30Z",
    "sector": "",
-   "specialization": "[\"65\",\"77\",\"149\",\"207\",\"244\"]",
+   "specialization": "65, 77, 149, 207, 244",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22678,7 +22583,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-13T14:00:13Z",
    "sector": "",
-   "specialization": "[\"109\"]",
+   "specialization": "109",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -23631,7 +23536,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-01T07:59:11Z",
    "sector": "",
-   "specialization": "[\"244\"]",
+   "specialization": "244",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -24041,7 +23946,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-12T21:53:06Z",
    "sector": "",
-   "specialization": "[\"35\",\"251\",\"330\"]",
+   "specialization": "35, 251, 330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -24138,7 +24043,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-05T23:42:57Z",
    "sector": "",
-   "specialization": "[\"329\"]",
+   "specialization": "329",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -24362,7 +24267,7 @@
    "expiry_date": "",
    "publish_date": "2026-05-12T14:43:27Z",
    "sector": "",
-   "specialization": "[\"5\",\"21\",\"49\",\"86\",\"125\",\"144\",\"150\",\"155\",\"208\",\"209\",\"244\",\"256\",\"262\",\"264\"]",
+   "specialization": "5, 21, 49, 86, 125, 144, 150, 155, 208, 209, 244, 256, 262, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -24747,7 +24652,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-12T13:41:19Z",
    "sector": "",
-   "specialization": "[\"351\"]",
+   "specialization": "351",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25658,7 +25563,7 @@
    "expiry_date": "",
    "publish_date": "2025-09-30T14:46:47Z",
    "sector": "",
-   "specialization": "[\"62\",\"71\",\"77\",\"161\"]",
+   "specialization": "62, 71, 77, 161",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25836,7 +25741,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-16T09:37:58Z",
    "sector": "",
-   "specialization": "[\"361\"]",
+   "specialization": "361",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26394,7 +26299,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T12:21:39Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26491,7 +26396,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T09:54:46Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26588,7 +26493,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T09:30:50Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27370,7 +27275,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-14T08:34:30Z",
    "sector": "",
-   "specialization": "[\"65\"]",
+   "specialization": "65",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27570,7 +27475,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-13T14:31:50Z",
    "sector": "",
-   "specialization": "[\"70\"]",
+   "specialization": "70",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27660,7 +27565,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-10T14:22:44Z",
    "sector": "",
-   "specialization": "[\"168\"]",
+   "specialization": "168",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27952,7 +27857,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T10:01:20Z",
    "sector": "",
-   "specialization": "[\"161\"]",
+   "specialization": "161",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -28251,7 +28156,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-12T07:40:30Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -28703,7 +28608,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-26T10:28:34Z",
    "sector": "",
-   "specialization": "[\"29\"]",
+   "specialization": "29",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -28782,7 +28687,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-09T12:48:13Z",
    "sector": "",
-   "specialization": "[\"359\"]",
+   "specialization": "359",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -28984,7 +28889,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-21T04:54:54Z",
    "sector": "",
-   "specialization": "[\"149\",\"327\",\"328\",\"329\"]",
+   "specialization": "149, 327, 328, 329",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29524,7 +29429,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-21T13:08:30Z",
    "sector": "",
-   "specialization": "[\"49\",\"52\",\"56\",\"68\",\"118\",\"157\"]",
+   "specialization": "49, 52, 56, 68, 118, 157",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29698,7 +29603,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-21T13:27:37Z",
    "sector": "",
-   "specialization": "[\"73\"]",
+   "specialization": "73",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31398,7 +31303,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-08T08:05:59Z",
    "sector": "",
-   "specialization": "[\"68\",\"168\"]",
+   "specialization": "68, 168",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31706,7 +31611,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-23T07:37:46Z",
    "sector": "",
-   "specialization": "[\"318\"]",
+   "specialization": "318",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32302,7 +32207,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-20T20:29:06Z",
    "sector": "",
-   "specialization": "[\"49\",\"56\",\"157\"]",
+   "specialization": "49, 56, 157",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32712,7 +32617,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-12T13:45:29Z",
    "sector": "",
-   "specialization": "[\"29\"]",
+   "specialization": "29",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33045,7 +32950,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T10:55:11Z",
    "sector": "",
-   "specialization": "[\"138\",\"248\",\"330\",\"355\"]",
+   "specialization": "138, 248, 330, 355",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33136,7 +33041,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T08:20:52Z",
    "sector": "",
-   "specialization": "[\"64\"]",
+   "specialization": "64",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33372,7 +33277,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-07T10:47:34Z",
    "sector": "",
-   "specialization": "[\"247\"]",
+   "specialization": "247",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33469,7 +33374,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-26T05:57:05Z",
    "sector": "",
-   "specialization": "[\"320\"]",
+   "specialization": "320",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34102,7 +34007,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-26T09:04:05Z",
    "sector": "",
-   "specialization": "[\"143\"]",
+   "specialization": "143",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34365,7 +34270,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-17T15:23:20Z",
    "sector": "",
-   "specialization": "[\"110\"]",
+   "specialization": "110",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34859,7 +34764,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T13:20:38Z",
    "sector": "",
-   "specialization": "330",
+   "specialization": "[\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35027,7 +34932,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T16:05:20Z",
    "sector": "",
-   "specialization": "[\"68\",\"77\",\"109\",\"130\",\"149\",\"169\"]",
+   "specialization": "68, 77, 109, 130, 149, 169",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35267,7 +35172,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-15T14:51:50Z",
    "sector": "",
-   "specialization": "[\"251\"]",
+   "specialization": "251",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35683,7 +35588,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-08T20:38:17Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35839,7 +35744,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-27T10:23:57Z",
    "sector": "",
-   "specialization": "[\"66\"]",
+   "specialization": "66",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -36607,7 +36512,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-23T14:21:39Z",
    "sector": "",
-   "specialization": "[\"2\"]",
+   "specialization": "2",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -36829,6 +36734,81 @@
    ]
   },
   {
+   "id": "247607",
+   "title": "INGENIEUR AMELIORATION PRODUCTION (H/F)",
+   "company": "MECACHROME FRANCE",
+   "country": "MAROC",
+   "city": "TANGER",
+   "description": "Sous la responsabilité du Responsable des opérations Maroc, vous prenez en charge les chantiers d’amélioration de la production des sites de Tanger. \r\n\r\nLa liste des missions est donnée à titre indicatif, elle n’est pas exhaustive. Selon l’appétit, les compétences et la motivation du candidat, le poste pourra prendre une dimension plus importante, et les missions pourront aller au-delà de la liste ci-dessous :\r\n\r\n• Animer, coordonner et suivre les projets d’amélioration de la production\r\n• Déployer les méthodes d’amélioration continue afin d’optimiser l’ensemble des process liés à la production\r\n• Proposer des solutions de résolution de problèmes\r\n• Participer à la mise en place d’outils de pilotage \r\n• Gérer l’information et la communication\r\n• Fédérer les équipes autour des outils retenus pour accompagner cette démarche\r\n- Participer à la transformation industrielle du site",
+   "mission": "",
+   "profile": "Diplômé en ingénierie, vous justifiez d’une expérience métier ou généraliste préalable sur un site de production industrielle. Vous êtes curieux et avez à cœur d’enrichir votre expérience au sein d’un environnement culturel différent du vôtre.\r\nVous aimez les challenges avec une forte visibilité dans le groupe, l’occasion d’accéder plus rapidement à des postes à responsabilité où les enjeux sont importants.\r\n\r\nPourquoi nous rejoindre ?\r\n\r\n• Des missions riches et responsabilisantes avec la possibilité de contribuer à différents projets d’envergure\r\n• Un environnement interculturel auprès d’équipes dynamiques et conviviales\r\n• Un parcours d’accompagnement adapté à vos besoins et au développement de vos compétences\r\n• Une expérience professionnelle et personnelle formatrice…et autant d’opportunités à saisir !\r\n\r\nLe Groupe Mecachrome est convaincu que la diversité et l’inclusion sont des éléments essentiels de sa performance et s’engage à recruter sans discrimination.",
+   "duration": 12,
+   "start_date": "2027-02-01T00:00:00",
+   "end_date": "2028-02-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-28T09:49:47Z",
+   "sector": "",
+   "specialization": "[\"60\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-28T09:49:47Z",
+    "missionStartDate": "2027-02-01T00:00:00",
+    "missionEndDate": "2028-02-01T00:00:00",
+    "startBroadcastDate": "2026-10-28T00:00:00",
+    "endBroadcastDate": "2026-11-27T00:00:00"
+   },
+   "summary": "Sous la responsabilité du Responsable des opérations Maroc, vous prenez en charge les chantiers d’amélioration de la production des sites de Tanger. \r\n\r\nLa liste des missions est donnée à titre indicatif, elle n’est pas exhaustive. Selon l’appétit, les compétences et la motivation du candidat, le poste pourra prendre une dimension plus importante, et les missions pourront aller au-delà de la liste ci-dessous :\r\n\r\n• Animer, coordonner et suivre les projets d’amélioration de la production\r\n• Déployer les méthodes d’amélioration continue afin d’optimiser l’ensemble des process liés à la production\r\n• Proposer des solutions de résolution de problèmes\r\n• Participer à la mise en place d’outils de pilotage \r\n• Gérer l’information et la communication\r\n• Fédérer les équipes autour des outils retenus pour accompagner cette démarche\r\n- Participer à la transformation industrielle du site",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247607",
+   "score": 26,
+   "label": "Périphérique",
+   "first_seen": "2026-10-28T12:52:17+00:00",
+   "axis_scores": {
+    "rd": 9,
+    "prod": 10,
+    "qual": 0,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "amelioration continue",
+      "ingenierie",
+      "methodes"
+     ]
+    },
+    {
+     "id": "rd9",
+     "axis": "rd",
+     "source": "Vocabulaire de laboratoire courant",
+     "weight": 3,
+     "terms": [
+      "resolution de problemes"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "ingenieur",
+      "production"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
    "id": "243663",
    "title": "INGÉNIEUR(E) PROJETS (H/F)",
    "company": "MISSION CONSEIL ASSISTANCE INGENIERIE",
@@ -36915,7 +36895,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T09:15:57Z",
    "sector": "",
-   "specialization": "[\"327\"]",
+   "specialization": "327",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -36988,7 +36968,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-29T09:14:24Z",
    "sector": "",
-   "specialization": "246",
+   "specialization": "[\"246\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -37832,7 +37812,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-12T12:29:13Z",
    "sector": "",
-   "specialization": "7",
+   "specialization": "[\"7\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -37944,6 +37924,69 @@
       "ingenieur"
      ],
      "points": 14
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
+   "id": "247556",
+   "title": "Chargé(e) de financement  Amérique du Nord (H/F)",
+   "company": "WAGA ENERGY",
+   "country": "ETATS-UNIS",
+   "city": "PHILADELPHIE -PA-",
+   "description": "Accompagner l'équipe financement dans l’identification, l’initiation et la poursuite des nouvelles opportunités permettant d’optimiser le financement des projets de l’entreprise en particulier aux Etats-Unis et au Canada ;  \nAccompagner l'équipe financement dans la mise en place du processus de financement en liaison avec les processus des équipes concernées :  \n- Standardiser les modèles et la documentation financière ;  \n- Organiser et coordonner les opérations de financements ;  \n- Elaborer des dossiers de demandes de financements : info mémo, modèle financier…  \n- Négocier des Term Sheet bancaires et des garanties données ;  \n- Superviser des contrats de prêts, accords inter-créanciers et contrat de suretés ;  \n- Mettre en place des instruments de couvertures de taux.  \nOptimiser les financements existants et actifs ;  \nAccompagner l'équipe financement dans la réalisation des présentations des projets en interne (Direction et Conseil d’Administration) et à l’externe (partenaires financiers) ;  \nEffectuer un reporting et un suivi de l’ensemble de ces activités; \nRéaliser des veilles concurrentielles et réglementaires en lien avec les activités de la filiale; \nApporter du support au département Développement des affaires lors de la préparation des plans d’affaires des nouveaux projets;",
+   "mission": "",
+   "profile": "Formation initiale : BAC + 5, Ecole de commerce ou ingénieur avec majeur finance, ou formation universitaire équivalente \nExpérience(s) : Expérience en financement de projets en banque d’affaires, fonds d’investissements ou en entreprises. Une expérience dans les énergies renouvelables serait un atout. \nBonne compréhension des transactions complexes à forte dimension financière.\nSolides connaissances des marchés financiers\nMaitrise des aspects juridiques et fiscaux des montages et de la gestion des risques\nSolides connaissances et maitrise d'Excel et du modeling financier.",
+   "duration": 18,
+   "start_date": "2027-02-01T00:00:00",
+   "end_date": "2028-08-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-27T09:02:24Z",
+   "sector": "",
+   "specialization": "[\"180\",\"259\",\"318\",\"322\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-27T09:02:24Z",
+    "missionStartDate": "2027-02-01T00:00:00",
+    "missionEndDate": "2028-08-01T00:00:00",
+    "startBroadcastDate": "2026-10-28T00:00:00",
+    "endBroadcastDate": "2026-11-27T00:00:00"
+   },
+   "summary": "Accompagner l'équipe financement dans l’identification, l’initiation et la poursuite des nouvelles opportunités permettant d’optimiser le financement des projets de l’entreprise en particulier aux Etats-Unis et au Canada ;  \nAccompagner l'équipe financement dans la mise en place du processus de financement en liaison avec les processus des équipes concernées :  \n- Standardiser les modèles et la documentation financière ;  \n- Organiser et coordonner les opérations de financements ;  \n- Elaborer des dossiers de demandes de financements : info mémo, modèle financier…  \n- Négocier des Term Sheet bancaires et des garanties données ;  \n- Superviser des contrats de prêts, accords inter-créanciers et contrat de suretés ;  \n- Mettre en place des instruments de couvertures de taux.  \nOptimiser les financements existants et actifs ;  \nAccompagner l'équipe financement dans la réalisation des présentations des projets en interne (Direction et Conseil d’Administration) et à l’externe (partenaires financiers) ;  \nEffectuer un reporting et un suivi de l’ensemble de ces activités; […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247556",
+   "score": 25,
+   "label": "Périphérique",
+   "first_seen": "2026-10-28T12:52:17+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 0,
+    "qual": 0,
+    "calc": 27
+   },
+   "dominant_axis": "calc",
+   "matched_families": [
+    {
+     "id": "calc1",
+     "axis": "calc",
+     "source": "Éléments finis (256-1, 24 h), TP simulation numérique (272-1, 285-5, 285-4, 63 h), Calculs numériques de mise en forme (277-1, 286-1, 50 h)",
+     "weight": 12,
+     "terms": [
+      "modeling"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "energy"
+     ],
+     "points": 5
     },
     {
      "label": "Niveau bac+5 / ingénieur annoncé",
