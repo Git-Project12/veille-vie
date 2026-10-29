@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-29T12:58:54+00:00",
+ "generated_at": "2026-10-29T19:38:01+00:00",
  "source": "Business France — mon-vie-via.businessfrance.fr",
- "total_scanned": 903,
- "total_announced": 903,
- "total_kept": 399,
+ "total_scanned": 919,
+ "total_announced": 919,
+ "total_kept": 411,
  "threshold": 25,
  "axes": {
   "rd": {
@@ -2098,7 +2098,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-27T07:35:39Z",
    "sector": "",
-   "specialization": "114",
+   "specialization": "[\"114\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -2743,7 +2743,7 @@
    "expiry_date": "",
    "publish_date": "2025-10-08T09:46:46Z",
    "sector": "",
-   "specialization": "77, 149",
+   "specialization": "[\"77\",\"149\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -3203,6 +3203,139 @@
      "terms": [
       "industriel",
       "mecanique"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
+   "id": "247716",
+   "title": "Quality Engineer | Automotive Engineer (H/F)",
+   "company": "ALTRAN TECHNOLOGIES",
+   "country": "BELGIQUE",
+   "city": "ZEEBRUGGE",
+   "description": "In this role, you will play a key role in:\n\n- Ensuring quality compliance by monitoring accessory installation processes on vehicles and upholding quality standards and the Quality Assurance Manual across all workshop activities.\n- Driving continuous improvement by identifying process inefficiencies, supporting operational excellence initiatives, and implementing corrective and preventive actions.\n- Investigating quality issues through structured root cause analysis using industry-standard methodologies, ensuring issues are resolved swiftly and sustainably.\n- Conducting audits across workshop processes and quality systems to proactively identify risks and ensure consistent performance standards are maintained.\n- Tracking and reporting KPIs related to quality performance, providing clear and actionable insights to workshop teams and stakeholders.",
+   "mission": "",
+   "profile": "- You hold a Master's degree in Engineering (Industrial, Mechanical, Electromechanical, Manufacturing, or a related field).\n- You bring experience or a strong interest in Quality, Manufacturing, Process Engineering, or Automotive environments, and are eager to apply this in a hands-on operational setting.\n- You have strong analytical and problem-solving skills, with knowledge of quality tools such as 5 Why, Ishikawa, FMEA, or Lean methodologies being a distinct advantage.\n- You are fluent in English and French or Dutch, and you thrive when working closely with cross-functional operational teams in a collaborative, results-driven environment.\n- You have a hands-on mindset, are comfortable on the workshop floor, and take initiative when it comes to improving processes and quality outcomes.",
+   "duration": 24,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2029-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-29T13:44:29Z",
+   "sector": "",
+   "specialization": "[\"110\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-29T13:44:29Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2029-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-29T00:00:00",
+    "endBroadcastDate": "2026-11-28T00:00:00"
+   },
+   "summary": "In this role, you will play a key role in:\n\n- Ensuring quality compliance by monitoring accessory installation processes on vehicles and upholding quality standards and the Quality Assurance Manual across all workshop activities.\n- Driving continuous improvement by identifying process inefficiencies, supporting operational excellence initiatives, and implementing corrective and preventive actions.\n- Investigating quality issues through structured root cause analysis using industry-standard methodologies, ensuring issues are resolved swiftly and sustainably.\n- Conducting audits across workshop processes and quality systems to proactively identify risks and ensure consistent performance standards are maintained.\n- Tracking and reporting KPIs related to quality performance, providing clear and actionable insights to workshop teams and stakeholders.",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247716",
+   "score": 71,
+   "label": "Cœur de cible",
+   "first_seen": "2026-10-29T19:37:42+00:00",
+   "axis_scores": {
+    "rd": 9,
+    "prod": 59,
+    "qual": 49,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod4",
+     "axis": "prod",
+     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
+     "weight": 10,
+     "terms": [
+      "process engineering"
+     ]
+    },
+    {
+     "id": "prod5",
+     "axis": "prod",
+     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
+     "weight": 4,
+     "terms": [
+      "lean"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "continuous improvement",
+      "engineering",
+      "manufacturing"
+     ]
+    },
+    {
+     "id": "qual3",
+     "axis": "qual",
+     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
+     "weight": 7,
+     "terms": [
+      "fmea"
+     ]
+    },
+    {
+     "id": "qual2",
+     "axis": "qual",
+     "source": "Qualité et normes (774-1, 14 h, coefficient 0,5)",
+     "weight": 4,
+     "terms": [
+      "quality assurance",
+      "quality engineer"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "compliance",
+      "quality",
+      "root cause",
+      "standards"
+     ]
+    },
+    {
+     "id": "rd9",
+     "axis": "rd",
+     "source": "Vocabulaire de laboratoire courant",
+     "weight": 3,
+     "terms": [
+      "problem solving"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "engineer",
+      "quality"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "automotive",
+      "industrial",
+      "mechanical"
      ],
      "points": 5
     },
@@ -3829,7 +3962,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-19T13:48:04Z",
    "sector": "",
-   "specialization": "60, 149, 208, 264",
+   "specialization": "[\"60\",\"149\",\"208\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -4596,6 +4729,128 @@
    ]
   },
   {
+   "id": "247725",
+   "title": "Engineer -  R&D Container lead (H/F)",
+   "company": "BAXTER S.A.S",
+   "country": "BELGIQUE",
+   "city": "BRUXELLES",
+   "description": "Make a visible difference for patients by improving the containers that deliver parenteral nutrition.\nAs an R&D Container Lead at Baxter Healthcare, you will take ownership of design improvements to parenteral nutrition containers already on the market. Your work will help ensure that these containers comply with evolving regulatory standards, support patient safety, and meet the needs and performance expectations of their users.\nThis is more than a task-based role. Depending on its complexity, you will own a project or a defined part of one, and drive it from strategy to results. Working with experts in Materials, Toxicology, Regulatory, Supply Chain, Manufacturing and Quality, you will connect people, anticipate challenges and make decisions with the success of the whole project in mind.\nYou will join an environment where projects evolve and requirements may change along the way. If you enjoy learning, adapting and asking, \"How can we improve and succeed?\", this mission offers a unique opportunity to grow your autonomy, technical expertise and leadership skills.\n\nDetails of the mission: \nYou will lead design changes on products already on the market, from the first concept to the final proof that the change works. Concretely, you will:\n• Build the verification plans: translate requirements, risks and regulatory expectations into a smart verification and validation plan.\n• Make it happen: orchestrate sample production and shipments with manufacturing plants and laboratories around the world, anticipating constraints before they become delays.\n• Write with impact: author clear, audit-ready technical documents (plans, protocols and reports) that support key decisions.\n• Turn data into decisions: guide lab technicians, analyze results and draw conclusions that move the project forward.\n• Bring people together: organize and facilitate technical reviews where stakeholders align, decide and commit, not just receive status updates.\nYou will be the connector of your project: building a cross-functional team with Materials, Toxicology, Regulatory, Supply Chain, Manufacturing and Quality, engaging the right people early and solving issues at the interfaces. For projects that continue beyond your mission, you will ensure a structured handover so that the project keeps its momentum.\n\nYou will be based at our R&D site in Braine-l’Alleud, with regular opportunities to work hands-on at Baxter’s manufacturing plant in Lessines, Belgium, where some trials will require your presence on the production floor.\nRole and responsibilities:\nWe are looking for a project owner, not a task owner. In this role, you will:\n• Own your project end to end: act as author and study director of verification and validation studies, and consider your work complete only when the other functions can succeed.\n• Connect sites and teams: coordinate activities with the Lessines manufacturing plant and R&D laboratories in Braine-l’Alleud and the United States.\n• Deliver on your commitments: commit to clear timelines, track progress and adjust the plan proactively when circumstances change.\n• Engage early and think beyond your function: involve the right stakeholders before decisions are made, and consider the impact of each decision on the whole project.\n• See it, own it, solve it: drive investigations and corrective actions when required, coming forward with solutions rather than only escalating issues.\n• Communicate with transparency: keep stakeholders informed, raise risks early and propose a way forward.\n• Keep learning and improving: welcome feedback and change, share lessons learned and keep asking how the team can improve and succeed.",
+   "mission": "",
+   "profile": "• Fresh graduate with a Master’s degree in engineering or sciences, for example: plastics or polymer engineering, materials science, biomedical engineering or biomedical sciences, bioengineering (bioingénieur), chemical engineering or chemistry, pharmaceutical sciences, packaging engineering, or mechanical engineering.\n• Knowledge of plastic materials is a strong asset; an internship or thesis in the pharmaceutical, medical device or plastics field is a plus.\n• Fluent in French and English: French to work closely with our Lessines plant, English to collaborate with US stakeholders and international colleagues in Braine-l’Alleud.\n• Driving license is a plus, to travel occasionally to our manufacturing site in Belgium (approximately 40 km from Braine-l'Alleud).\n\nYour mindset (what matters most to us)\n• Ownership: you see it, own it and solve it. You act as the owner of a project, not only of your tasks.\n• Autonomy: you take initiative, structure your own work and ask for support at the right time.\n• Growth mindset: you ask “How can I improve and succeed?” rather than explaining why something failed, and you see setbacks as learning opportunities.\n• Adaptability and resilience: projects evolve quickly and requirements change along the way. You welcome change and stay effective through it.\n• Curiosity: you are eager to keep learning, both technically and in regulatory topics.\n• Engagement: you are highly motivated, committed to patient safety and quality, and want to make a real impact.\nYour skills\n• Strong communication skills, including high-quality protocol and report writing.\n• Ability to design experiments and draw meaningful conclusions from lab data.\n• Well organized and able to manage several activities in parallel.\n• Critical thinking and excellent problem-solving skills.\n• Assertive and collaborative team player.\n• Quality oriented.",
+   "duration": 24,
+   "start_date": "2027-02-01T00:00:00",
+   "end_date": "2029-02-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-29T15:13:54Z",
+   "sector": "",
+   "specialization": "[\"49\",\"86\",\"109\",\"114\",\"123\",\"125\",\"206\",\"207\",\"208\",\"256\",\"262\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-29T15:13:54Z",
+    "missionStartDate": "2027-02-01T00:00:00",
+    "missionEndDate": "2029-02-01T00:00:00",
+    "startBroadcastDate": "2026-10-29T00:00:00",
+    "endBroadcastDate": "2026-11-28T00:00:00"
+   },
+   "summary": "Make a visible difference for patients by improving the containers that deliver parenteral nutrition.\nAs an R&D Container Lead at Baxter Healthcare, you will take ownership of design improvements to parenteral nutrition containers already on the market. Your work will help ensure that these containers comply with evolving regulatory standards, support patient safety, and meet the needs and performance expectations of their users.\nThis is more than a task-based role. Depending on its complexity, you will own a project or a defined part of one, and drive it from strategy to results. Working with experts in Materials, Toxicology, Regulatory, Supply Chain, Manufacturing and Quality, you will connect people, anticipate challenges and make decisions with the success of the whole project in mind.\nYou will join an environment where projects evolve and requirements may change along the way. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247725",
+   "score": 65,
+   "label": "Bonne adéquation",
+   "first_seen": "2026-10-29T19:37:42+00:00",
+   "axis_scores": {
+    "rd": 51,
+    "prod": 45,
+    "qual": 8,
+    "calc": 0
+   },
+   "dominant_axis": "rd",
+   "matched_families": [
+    {
+     "id": "prod4",
+     "axis": "prod",
+     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
+     "weight": 10,
+     "terms": [
+      "plant"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "engineering",
+      "manufacturing"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "audit",
+      "quality",
+      "standards",
+      "validation"
+     ]
+    },
+    {
+     "id": "rd2",
+     "axis": "rd",
+     "source": "Propriétés mécaniques et physique des matériaux (262-1, 30 h), Critères de choix des matériaux (265-1, 15 h)",
+     "weight": 9,
+     "terms": [
+      "materials science"
+     ]
+    },
+    {
+     "id": "rd9",
+     "axis": "rd",
+     "source": "Vocabulaire de laboratoire courant",
+     "weight": 3,
+     "terms": [
+      "problem solving",
+      "r&d"
+     ]
+    },
+    {
+     "id": "rd5",
+     "axis": "rd",
+     "source": "Mise en forme des polymères et composites (304-2, 30 h), Céramiques et verre (303-2, 27 h)",
+     "weight": 6,
+     "terms": [
+      "polymer"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "engineer",
+      "r&d"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "chemical",
+      "mechanical"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
    "id": "246646",
    "title": "Aircraft Stress Engineer (H/F)",
    "company": "CAPGEMINI TECHNOLOGY SERVICES",
@@ -5001,7 +5256,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T07:35:28Z",
    "sector": "",
-   "specialization": "155, 208, 209",
+   "specialization": "[\"155\",\"208\",\"209\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5114,7 +5369,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-27T15:03:59Z",
    "sector": "",
-   "specialization": "209",
+   "specialization": "[\"209\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5554,7 +5809,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-27T14:59:09Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5751,6 +6006,116 @@
      "label": "Secteur industriel compatible",
      "terms": [
       "mecanique"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
+   "id": "247691",
+   "title": "Hardware Electronics Engineer (H/F)",
+   "company": "ABYLSEN ST-RA",
+   "country": "ITALIE",
+   "city": "ROME",
+   "description": "MISSION:\r\nAs part of the development of our entity Abylsen Italy, specialized in Transport (automotive, aeronautics, defense, space and rail), Heavy Industry (metallurgy, steel plant), Energy and IT, we are looking for an Hardware Engineer in the Aerospace & Defence sector to integrate our team of consultants and bring their expertise on all our projects.\r\n\r\nACTIVITIES:\r\nHardware design and development of electronic hardware systems and components (microcontrollers, analog/digital circuits, etc.)\r\nCreate and review schematics and technical documentation\r\nCollaborate with cross-functional teams (software, mechanical, production) to ensure system integration\r\nConduct testing, debugging and validation of prototypes and final products\r\nAnalyze and solve hardware-related issues in existing products\r\n\r\nOTHER INFORMATION:\r\nWorkplace: Rome, Italy\r\nSmartworking: 2 days per week",
+   "mission": "",
+   "profile": "MISSION:\nAs part of the development of our entity Abylsen Italy, specialized in Transport (automotive, aeronautics, defense, space and rail), Heavy Industry (metallurgy, steel plant), Energy and IT, we are looking for an Hardware Engineer in the Aerospace & Defence sector to integrate our team of consultants and bring their expertise on all our projects.\n\nACTIVITIES:\nHardware design and development of electronic hardware systems and components (microcontrollers, analog/digital circuits, etc.)\nCreate and review schematics and technical documentation\nCollaborate with cross-functional teams (software, mechanical, production) to ensure system integration\nConduct testing, debugging and validation of prototypes and final products\nAnalyze and solve hardware-related issues in existing products\n\nREQUIREMENTS:\nBachelor's or Master's degree in Electronic Engineering or related field\nAt least 3 years of experience in hardware design and development\nProficiency in CAD tools (e.g., Altium Designer, Eagle, KiCad)\nSolid understanding of embedded systems, analog/digital electronics and communication protocols (I2C, SPI, UART, etc.)\nExperience with lab equipment such as oscilloscopes, multimeters and logic analyzers\nAbility to read and interpret datasheets and technical documentation\n\nOTHER INFORMATION:\nWorkplace: Rome, Italy\nSmartworking: 2 days per week",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-29T09:21:19Z",
+   "sector": "",
+   "specialization": "[\"66\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-29T09:21:19Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-29T00:00:00",
+    "endBroadcastDate": "2026-11-28T00:00:00"
+   },
+   "summary": "MISSION:\r\nAs part of the development of our entity Abylsen Italy, specialized in Transport (automotive, aeronautics, defense, space and rail), Heavy Industry (metallurgy, steel plant), Energy and IT, we are looking for an Hardware Engineer in the Aerospace & Defence sector to integrate our team of consultants and bring their expertise on all our projects.\r\n\r\nACTIVITIES:\r\nHardware design and development of electronic hardware systems and components (microcontrollers, analog/digital circuits, etc.)\r\nCreate and review schematics and technical documentation\r\nCollaborate with cross-functional teams (software, mechanical, production) to ensure system integration\r\nConduct testing, debugging and validation of prototypes and final products\r\nAnalyze and solve hardware-related issues in existing products\r\n\r\nOTHER INFORMATION:\r\nWorkplace: Rome, Italy\r\nSmartworking: 2 days per week",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247691",
+   "score": 61,
+   "label": "Bonne adéquation",
+   "first_seen": "2026-10-29T19:37:42+00:00",
+   "axis_scores": {
+    "rd": 34,
+    "prod": 45,
+    "qual": 8,
+    "calc": 20
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "calc2",
+     "axis": "calc",
+     "source": "CAO (278-1, 30 h), Conception mécanique (264-1, 43 h)",
+     "weight": 9,
+     "terms": [
+      "cad"
+     ]
+    },
+    {
+     "id": "prod4",
+     "axis": "prod",
+     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
+     "weight": 10,
+     "terms": [
+      "plant"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "engineering"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "testing",
+      "validation"
+     ]
+    },
+    {
+     "id": "rd1",
+     "axis": "rd",
+     "source": "Métallurgie 1 (280-1, 34 h), Métallurgie 2 (287-1, 45 h)",
+     "weight": 12,
+     "terms": [
+      "metallurgy",
+      "steel"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "engineer"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "aerospace",
+      "automotive",
+      "defence"
      ],
      "points": 5
     },
@@ -7356,6 +7721,96 @@
    ]
   },
   {
+   "id": "247723",
+   "title": "Mechanical Engineer (H/F)",
+   "company": "ARTELIA",
+   "country": "ITALIE",
+   "city": "MILAN",
+   "description": "For our Industry Division, we are looking for a recent Mechanical Engineering graduate to join our Milan team.\n\nWe are seeking a bright, curious and motivated individual interested in developing skills in both building services design engineering and field supervision and technical support activities, contributing to complex industrial projects within an international environment.\n\nThe successful candidate will work alongside experienced professionals and will have the opportunity to follow the entire project lifecycle, from engineering design through to project execution.\n\nWhat you will do\n\nSupport the team in mechanical and building services engineering design activities for industrial projects.\nContribute to the preparation and review of technical documentation.\nParticipate in the coordination of the various project disciplines.\nAssist construction teams during plant and equipment installation phases.\nConduct site visits to monitor the progress of project activities.\nSupport the analysis and resolution of technical issues.\nInteract with clients, suppliers and contractors in an international environment.\nParticipate in technical meetings conducted in English.",
+   "mission": "",
+   "profile": "Requirements\nMaster's Degree in Mechanical Engineering.\nExcellent command of Italian.\nExcellent command of English, both written and spoken.\nInterest in the industrial sector and technical building services systems.\nGood knowledge of Microsoft Office.\n\nPreferred qualifications\nKnowledge of AutoCAD, Revit or 3D modelling software.\nParticipation in university projects, experimental thesis work or international experiences.\nInternational study experiences (Erasmus or equivalent programmes).\n\nPersonal qualities\nStrong analytical skills.\nTechnical curiosity and eagerness to learn.\nProactive attitude and results-oriented mindset.\nExcellent interpersonal skills.\nAbility to work effectively within multidisciplinary and international teams.",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-29T14:52:13Z",
+   "sector": "",
+   "specialization": "[\"77\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-29T14:52:13Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-29T00:00:00",
+    "endBroadcastDate": "2026-11-28T00:00:00"
+   },
+   "summary": "For our Industry Division, we are looking for a recent Mechanical Engineering graduate to join our Milan team.\n\nWe are seeking a bright, curious and motivated individual interested in developing skills in both building services design engineering and field supervision and technical support activities, contributing to complex industrial projects within an international environment.\n\nThe successful candidate will work alongside experienced professionals and will have the opportunity to follow the entire project lifecycle, from engineering design through to project execution.\n\nWhat you will do\n\nSupport the team in mechanical and building services engineering design activities for industrial projects.\nContribute to the preparation and review of technical documentation.\nParticipate in the coordination of the various project disciplines.\nAssist construction teams during plant and equipment installation phases.\nConduct site visits to monitor the progress of project activities.\nSupport the analysis and resolution of technical issues. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247723",
+   "score": 57,
+   "label": "Bonne adéquation",
+   "first_seen": "2026-10-29T19:37:42+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 45,
+    "qual": 0,
+    "calc": 27
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "calc1",
+     "axis": "calc",
+     "source": "Éléments finis (256-1, 24 h), TP simulation numérique (272-1, 285-5, 285-4, 63 h), Calculs numériques de mise en forme (277-1, 286-1, 50 h)",
+     "weight": 12,
+     "terms": [
+      "modelling"
+     ]
+    },
+    {
+     "id": "prod4",
+     "axis": "prod",
+     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
+     "weight": 10,
+     "terms": [
+      "plant"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "engineering"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "engineer",
+      "mechanical"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "industrial",
+      "mechanical"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
    "id": "245943",
    "title": "Ingénieur Usinage (H/F)",
    "company": "DECAYEUX S.T.I.",
@@ -8516,6 +8971,109 @@
      "label": "Secteur industriel compatible",
      "terms": [
       "industrial"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
+   "id": "247722",
+   "title": "Gas & Chemicals Engineer (H/F)",
+   "company": "ARTELIA",
+   "country": "ITALIE",
+   "city": "MILAN",
+   "description": "For our Industry Division, we are looking for a Junior Gas & Chemicals Site Inspector to join a major industrial project in the microelectronics sector, based in Milan.\n\nWe are seeking a bright, curious, and field-oriented professional interested in developing skills in construction supervision, site inspection, and quality control of gas, chemical, and process utility systems within a high-tech industrial environment.\n\nThe successful candidate will join an international multidisciplinary team involved in the construction of new cleanrooms for the microelectronics industry, working daily with professionals from various technical disciplines.\n\nSupported by senior specialists, the selected candidate will progressively gain autonomy in the inspection, verification, and acceptance of complex gas, chemical, and process utility installations.\n\nWhat You Will Do\n\nSupport site supervision and inspection activities related to gas and chemical utility systems.\nVerify the compliance of installations with project documentation, technical specifications, and applicable standards.\nMonitor the progress of works related to industrial gas production and distribution systems supporting microelectronics manufacturing processes.\nParticipate in the inspection of ultrapure water (UPW) production and distribution systems.\nSupport supervision activities related to wastewater treatment installations.\nParticipate in quality control activities for gas, chemical, and process utility installations.\nCarry out regular site inspections to verify construction progress and installation quality.\nAssist in the analysis and resolution of technical issues arising during construction and commissioning phases.\nPrepare technical progress, inspection, and non-conformance reports.\nParticipate in coordination meetings with contractors, suppliers, clients, and project teams.\nSupport testing, commissioning, and acceptance activities.\nPerform site checks in compliance with safety procedures.\nInteract daily with an international team using English.",
+   "mission": "",
+   "profile": "Requirements\nMaster's Degree in Chemical Engineering, Process Engineering, Mechanical Engineering, Environmental Engineering, or related disciplines.\nAlternatively, a degree specializing in industrial utilities or process engineering.\nPrevious experience (0 to 3 years) in gas and chemical systems, industrial utilities, water treatment, commissioning, or site activities would be appreciated.\nBasic knowledge of industrial gas systems, ultrapure water systems, and wastewater treatment installations.\nAbility to read technical drawings, P&IDs, layouts, and technical documentation.\nExcellent command of Italian.\nGood written and spoken English skills (minimum B2 level).\nGood knowledge of Microsoft Office, particularly Excel.\nAvailability to work on a permanent basis at the Agrate Brianza (MI) construction site.\n\nPreferred Qualifications\nPrevious experience, even limited, in utilities engineering, construction supervision, commissioning, or engineering design.\nKnowledge of AutoCAD and/or Revit.\nKnowledge of BIM environments and methodologies.\nConstruction site safety training.\nExperience or interest in cleanroom, semiconductor, industrial, pharmaceutical, or data center projects.\nExcellent command of Italian and English.\nKnowledge of French would be considered an advantage.\n\nKey Personal Attributes\nStrong interest in site-based activities.\nAccuracy and technical rigor.\nAnalytical mindset and problem-solving skills.\nProactive approach and ability to work independently.\nGood interpersonal and communication skills.\nAbility to interact effectively with contractors, suppliers, and clients.\nTeam spirit and ability to work in multidisciplinary and international environments.\nTechnical curiosity and a strong willingness to learn.",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-29T14:49:58Z",
+   "sector": "",
+   "specialization": "[\"63\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-29T14:49:58Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-29T00:00:00",
+    "endBroadcastDate": "2026-11-28T00:00:00"
+   },
+   "summary": "For our Industry Division, we are looking for a Junior Gas & Chemicals Site Inspector to join a major industrial project in the microelectronics sector, based in Milan.\n\nWe are seeking a bright, curious, and field-oriented professional interested in developing skills in construction supervision, site inspection, and quality control of gas, chemical, and process utility systems within a high-tech industrial environment.\n\nThe successful candidate will join an international multidisciplinary team involved in the construction of new cleanrooms for the microelectronics industry, working daily with professionals from various technical disciplines.\n\nSupported by senior specialists, the selected candidate will progressively gain autonomy in the inspection, verification, and acceptance of complex gas, chemical, and process utility installations.\n\nWhat You Will Do\n\nSupport site supervision and inspection activities related to gas and chemical utility systems.\nVerify the compliance of installations with project documentation, technical specifications, and applicable standards. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247722",
+   "score": 53,
+   "label": "Bonne adéquation",
+   "first_seen": "2026-10-29T19:37:42+00:00",
+   "axis_scores": {
+    "rd": 9,
+    "prod": 45,
+    "qual": 8,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod4",
+     "axis": "prod",
+     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
+     "weight": 10,
+     "terms": [
+      "process engineering"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "engineering",
+      "manufacturing"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "compliance",
+      "inspection",
+      "quality",
+      "standards"
+     ]
+    },
+    {
+     "id": "rd9",
+     "axis": "rd",
+     "source": "Vocabulaire de laboratoire courant",
+     "weight": 3,
+     "terms": [
+      "problem solving"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "engineer"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "chemical",
+      "industrial",
+      "mechanical"
      ],
      "points": 5
     },
@@ -10004,7 +10562,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-23T07:15:58Z",
    "sector": "",
-   "specialization": "66",
+   "specialization": "[\"66\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10433,7 +10991,7 @@
    "expiry_date": "",
    "publish_date": "2025-11-19T10:45:12Z",
    "sector": "",
-   "specialization": "77, 149, 207",
+   "specialization": "[\"77\",\"149\",\"207\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10996,7 +11554,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-26T15:04:30Z",
    "sector": "",
-   "specialization": "106",
+   "specialization": "[\"106\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -11204,7 +11762,7 @@
    "expiry_date": "",
    "publish_date": "2026-02-09T14:36:25Z",
    "sector": "",
-   "specialization": "65, 66, 71, 77, 117, 142, 143, 148, 153, 225",
+   "specialization": "[\"65\",\"66\",\"71\",\"77\",\"117\",\"142\",\"143\",\"148\",\"153\",\"225\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -11567,6 +12125,105 @@
      "label": "Niveau bac+5 / ingénieur annoncé",
      "terms": [],
      "points": 4
+    }
+   ]
+  },
+  {
+   "id": "247714",
+   "title": "SALES & TECHNICAL SUPPORT FOR TUNNELLING PROJECTS (H/F)",
+   "company": "CONDAT SA",
+   "country": "AUSTRALIE",
+   "city": "MELBOURNE",
+   "description": "Condat is an independent French international group that develops, manufactures and markets speciality chemical products, including a wide range of high value-added industrial lubricants and greases. Its products are used across a variety of industries—including tunnelling, wire drawing, machining, forging, foundry, public works and food processing—which have built the Group’s reputation.\r\nCommitted to the future, CONDAT takes a responsible approach by offering solutions that are aligned with its CSR commitments across numerous markets.\r\nSince 1854, the family-owned company has grown steadily while keeping its employees at the centre of its business. We value trust, teamwork, initiative and innovation to help the Group grow and move forward together.\r\n\r\nTogether, we share the same values and ambitions: Building for the long term, Acting responsibly, Driving the company forward, and Building strong relationships.\r\n\r\nYou are between 18 and 28 years old and interested by an international experience? We are offering a French International Corporate Volunteer Programme (V.I.E.) opportunity for a period of 18 to 24 months, based in Melbourne, Australia, starting in January 2027.\r\n\r\nThis opportunity is part of the major development of our TMSI (Tunnel and Mining Services & Industries) business in Australia. It will be preceded by an internal training period at our site in Chasse-sur-Rhône, France.\r\nSeveral major tunnelling projects will be underway in Australia in 2027. We want to strengthen our presence in Australia and provide better support to our customers and partners. You will be Condat’s main contact on site in Australia.\r\n\r\nKEY RESPONSIBILITIES\r\n\r\nYou will work at the interface between customers, local sales agents, logistics providers, and Condat’s Supply Chain and Technical teams based in France and China, with the objective of developing the tunnelling market in Australia.\r\nYour main responsibilities will include:\r\nContributing to business development and market intelligence\r\n• Supporting Condat’s Sales Manager for the Australian market, particularly during your onboarding period;\r\n• Building trusted relationships with Australian agents representing Condat’s offering;\r\n• Supporting these agents in identifying additional sales opportunities through regular site visits and the preparation of visit reports;\r\n• Monitoring competitors’ practices, organisations, products, strengths and differentiating factors;\r\n• Contributing to discussions on Condat’s medium-term commercial, technical and Supply Chain organisation in Australia.\r\n• Setup new sales channels \r\n\r\nProviding technical support to project sites\r\n• Conducting regular visits to project sites in order to maintain close contact with Production and Maintenance teams;\r\n• Monitoring consumption of Condat products;\r\n• Supporting customers in the use of our solutions and equipment;\r\n• Identifying and anticipating requirements for products, spare parts and equipment;\r\n• Organising transfer operations, with the support of Condat’s technical teams;\r\n• Monitoring equipment refurbishment, identifying suitable local service providers and arranging equipment storage.\r\n\r\nCoordinating the local Supply Chain\r\n• Acting as the main customer contact for all supply chain-related matters ;\r\n• Liaising between customers, local logistics providers, and Condat’s Supply Chain teams in France and China, while overseeing logistics flows ;\r\n• Monitoring stock levels and quantities held by our logistics provider, and anticipating project requirements;\r\n• Managing and updating tools used to track flows, forecasts and inventories;\r\n• Checking the accuracy of invoices related to storage and deliveries;\r\n• Monitoring product buy-back operations and contributing to negotiations with customers regarding buy-back terms and conditions.",
+   "mission": "",
+   "profile": "You hold a Master’s degree (or equivalent), ideally in one of the following fields:\r\n• Industrial Engineering,\r\n• Mechanical Engineering, or Civil Engineering/Public Works;\r\n• International Business, combined with a strong technical interest.\r\n\r\nIdeally, you have initial experience in an industrial or technical environment.\r\nYou recognise yourself in the following:\r\n• Fluent English, both written and spoken;\r\n• An interest in technical, industrial and international environments;\r\n• Big interest in sales \r\n• Sales skills\r\n• Strong interpersonal skills and the ability to build trusted relationships with a wide range of stakeholders;\r\n• Independence, a strong sense of responsibility and a hands-on approach;\r\n• Data oversight (stock levels and flows);\r\n• Ability to analyse situations, anticipate needs and propose practical solutions;\r\n• An interest in business development and in understanding customer needs;\r\n• Availability to travel regularly to project sites across Australia.\r\nThis V.I.E. assignment will provide you with a highly comprehensive international experience at the heart of a strategic market for Condat. You will simultaneously develop skills in Supply Chain, technical support, customer relations, partner coordination and business development.\r\nFollowing an onboarding period and training on our products, equipment and market, you will progressively be encouraged to take initiative and contribute ideas to help shape Condat’s future in Australia.\r\n\r\nYou’d like to help CONDAT grow in Australia and work on major tunnelling projects? Join us!",
+   "duration": 24,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2029-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-29T13:28:09Z",
+   "sector": "",
+   "specialization": "[\"77\",\"130\",\"149\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-29T13:28:09Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2029-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-29T00:00:00",
+    "endBroadcastDate": "2027-01-27T00:00:00"
+   },
+   "summary": "Condat is an independent French international group that develops, manufactures and markets speciality chemical products, including a wide range of high value-added industrial lubricants and greases. Its products are used across a variety of industries—including tunnelling, wire drawing, machining, forging, foundry, public works and food processing—which have built the Group’s reputation.\r\nCommitted to the future, CONDAT takes a responsible approach by offering solutions that are aligned with its CSR commitments across numerous markets.\r\nSince 1854, the family-owned company has grown steadily while keeping its employees at the centre of its business. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247714",
+   "score": 47,
+   "label": "À examiner",
+   "first_seen": "2026-10-29T19:37:42+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 100,
+    "qual": 0,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod1",
+     "axis": "prod",
+     "source": "Mise en forme par déformation plastique des métaux (281-1, 45 h), Physique de la mise en forme (290-1, 30 h)",
+     "weight": 12,
+     "terms": [
+      "forging"
+     ]
+    },
+    {
+     "id": "prod2",
+     "axis": "prod",
+     "source": "Mise en forme par solidification (288-1, 20 h)",
+     "weight": 7,
+     "terms": [
+      "foundry"
+     ]
+    },
+    {
+     "id": "prod6",
+     "axis": "prod",
+     "source": "Outils et moyens de fabrication (259-1, 30 h)",
+     "weight": 7,
+     "terms": [
+      "machining"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "engineering"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "chemical",
+      "industrial",
+      "mechanical"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    },
+    {
+     "label": "Intitulé hors formation",
+     "terms": [
+      "sales"
+     ],
+     "points": -22
     }
    ]
   },
@@ -12736,7 +13393,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-02T09:00:25Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12822,7 +13479,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-13T12:55:07Z",
    "sector": "",
-   "specialization": "77, 209",
+   "specialization": "[\"77\",\"209\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -13711,7 +14368,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-23T16:36:29Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -13792,7 +14449,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-10T12:08:07Z",
    "sector": "",
-   "specialization": "71",
+   "specialization": "[\"71\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -14330,7 +14987,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-12T13:36:38Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -14756,15 +15413,15 @@
    "expiry_date": "",
    "publish_date": "2026-10-09T13:20:34Z",
    "sector": "",
-   "specialization": "60",
+   "specialization": "[\"60\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-10-09T13:20:34Z",
     "missionStartDate": "2027-01-01T00:00:00",
     "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-28T00:00:00",
-    "endBroadcastDate": "2026-11-27T00:00:00"
+    "startBroadcastDate": "2026-10-29T00:00:00",
+    "endBroadcastDate": "2026-11-28T00:00:00"
    },
    "summary": "Mise en œuvre et accompagnement dans l'introduction de méthodologies MBSE telles qu'Arcadia, MOFLT et MagicGrid.\nModélisation d'architectures systèmes avec Capella et CATIA Magic.\nParticipation au Requirements Engineering : structuration, analyse et gestion des exigences.\nContribution au développement de standards de modélisation, de processus et de workflows.\nCollaboration avec les architectes systèmes, les équipes d'ingénierie et le management de projet.\nDocumentation et présentation des résultats de modélisation et des concepts systèmes.",
    "url": "https://mon-vie-via.businessfrance.fr/offres/246896",
@@ -14899,6 +15556,219 @@
      "label": "Niveau bac+5 / ingénieur annoncé",
      "terms": [],
      "points": 4
+    }
+   ]
+  },
+  {
+   "id": "247698",
+   "title": "Lifecycle product owner (H/F)",
+   "company": "ABYLSEN ST-RA",
+   "country": "ITALIE",
+   "city": "ROME",
+   "description": "As part of the growth of our Abylsen Italy entity, specializing in Transportation (Automotive, Aeronautics, Defence, Space and Railway), Heavy Industry (Metallurgy and Steelmaking), Energy and IT, we are looking for a Lifecycle Product Owner for a leading client operating in the Aerospace & Defence sector.\r\nWhat will be your challenge?\r\nTake end-to-end operational ownership of assigned products throughout their entire lifecycle, from stable release to end-of-life, ensuring configuration control, supportability, manufacturability, and long-term sustainability.\r\nDefine, update, and monitor Product Continuity Plans, coordinating cross-functional activities and managing timelines, critical issues, and escalations.\r\nDefine operational priorities and product maintenance plans in alignment with portfolio priorities.\r\nConduct regular Product Risk Reviews, identifying, monitoring, and mitigating product-related risks.\r\nManage the Engineering Change Management process (ECR/ECO/ECN) and oversee product configuration management, including technical baselines and documentation.\r\nMonitor product reproducibility, risks, and trends through KPIs to assess the effectiveness of corrective actions.\r\nSupport Bid & Proposal activities by providing assessments related to product configuration, production continuity, and industrial risks, while coordinating Product End-of-Life activities.\r\n\r\nTechnical Skills:\r\nMaster's Degree in Electronic Engineering or Telecommunications Engineering.\r\nAt least 5 years of professional experience in Product Lifecycle Management (PLM) or in coordinating multidisciplinary teams working on complex products.\r\nKnowledge of hardware design processes; previous experience in technical or design-related roles is considered a plus.\r\nExperience managing the lifecycle of complex products within the Aerospace & Defence, Aerospace, or Manufacturing industries.\r\nStrong knowledge of PLM processes, Configuration Management, and Engineering Change Management (ECR/ECO/ECN workflows).\r\nUnderstanding of Product Governance, Product Ownership, Risk Management, and industrial production processes.\r\nProficiency with analysis, planning, and reporting tools; experience with SAP, PLM systems, Jira, and Confluence is considered a plus.\r\n\r\nSoft Skills:\r\nExcellent command of the English language.\r\nStrong planning, organizational, prioritization, and cross-functional coordination skills.\r\nExcellent interpersonal, communication, negotiation, problem-solving, and escalation management abilities.\r\nResults-oriented mindset, commitment to continuous improvement, and motivation to take on increasing responsibilities with an overall product vision.\r\n\r\nAdditional Information:\r\nLocation: Rome, Lazio, Italy.\r\nHybrid working model: 1 day per week of remote work.",
+   "mission": "",
+   "profile": "Take end-to-end operational ownership of assigned products throughout their entire lifecycle, from stable release to end-of-life, ensuring configuration control, supportability, manufacturability, and long-term sustainability.\nDefine, update, and monitor Product Continuity Plans, coordinating cross-functional activities and managing timelines, critical issues, and escalations.\nDefine operational priorities and product maintenance plans in alignment with portfolio priorities.Conduct regular Product Risk Reviews, identifying, monitoring, and mitigating product-related risks.\nManage the Engineering Change Management process (ECR/ECO/ECN) and oversee product configuration management, including technical baselines and documentation.\nMonitor product reproducibility, risks, and trends through KPIs to assess the effectiveness of corrective actions.\nSupport Bid & Proposal activities by providing assessments related to product configuration, production continuity, and industrial risks, while coordinating Product End-of-Life activities.\nTechnical Skills:\nMaster's Degree in Electronic Engineering or Telecommunications Engineering.\nAt least 5 years of professional experience in Product Lifecycle Management (PLM) or in coordinating multidisciplinary teams working on complex products.\nKnowledge of hardware design processes; previous experience in technical or design-related roles is considered a plus.\nExperience managing the lifecycle of complex products within the Aerospace & Defence, Aerospace, or Manufacturing industries.\nStrong knowledge of PLM processes, Configuration Management, and Engineering Change Management (ECR/ECO/ECN workflows).\nUnderstanding of Product Governance, Product Ownership, Risk Management, and industrial production processes.\nProficiency with analysis, planning, and reporting tools; experience with SAP, PLM systems, Jira, and Confluence is considered a plus.\nSoft Skills:\nExcellent command of the English language.",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-29T09:57:49Z",
+   "sector": "",
+   "specialization": "[\"66\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-29T09:57:49Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-29T00:00:00",
+    "endBroadcastDate": "2026-11-28T00:00:00"
+   },
+   "summary": "As part of the growth of our Abylsen Italy entity, specializing in Transportation (Automotive, Aeronautics, Defence, Space and Railway), Heavy Industry (Metallurgy and Steelmaking), Energy and IT, we are looking for a Lifecycle Product Owner for a leading client operating in the Aerospace & Defence sector.\r\nWhat will be your challenge?",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247698",
+   "score": 35,
+   "label": "À examiner",
+   "first_seen": "2026-10-29T19:37:42+00:00",
+   "axis_scores": {
+    "rd": 43,
+    "prod": 10,
+    "qual": 0,
+    "calc": 0
+   },
+   "dominant_axis": "rd",
+   "matched_families": [
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "continuous improvement",
+      "engineering",
+      "manufacturing"
+     ]
+    },
+    {
+     "id": "rd1",
+     "axis": "rd",
+     "source": "Métallurgie 1 (280-1, 34 h), Métallurgie 2 (287-1, 45 h)",
+     "weight": 12,
+     "terms": [
+      "metallurgy"
+     ]
+    },
+    {
+     "id": "rd9",
+     "axis": "rd",
+     "source": "Vocabulaire de laboratoire courant",
+     "weight": 3,
+     "terms": [
+      "problem solving"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "aerospace",
+      "automotive",
+      "defence"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    },
+    {
+     "label": "Formation exigée hors cursus : score plafonné",
+     "terms": [
+      "electronic engineering",
+      "telecommunications"
+     ],
+     "points": -2,
+     "cap": 35
+    }
+   ]
+  },
+  {
+   "id": "247718",
+   "title": "Structural Engineer (H/F)",
+   "company": "ARTELIA",
+   "country": "ITALIE",
+   "city": "MILAN",
+   "description": "For our Industry Division, we are looking for a Junior Structural Site Inspector to join a major industrial project in the microelectronics sector, based in Milan.\n\nWe are seeking a bright, curious, and field-oriented professional interested in developing skills in construction supervision, site inspection, and quality control of industrial steel structures and facility support systems within a high-tech industrial environment.\n\nThe successful candidate will join an international multidisciplinary team involved in the construction of advanced industrial facilities and cleanroom environments. Supported by senior specialists, the selected candidate will progressively gain autonomy in the inspection, verification, and acceptance of structural works.\n\nWhat You Will Do\n\nSupport site supervision and inspection activities related to structural works.\nVerify the compliance of installations with project documentation, technical specifications, and applicable standards.\nMonitor works related to industrial steel structures.\nParticipate in the inspection of facility support structures serving mechanical, electrical, and process installations.\nMonitor construction quality and compliance with approved documentation.\nReview structural drawings, technical specifications, and engineering documentation.\nCarry out regular site inspections to verify construction progress and installation quality.\nAssist in the analysis and resolution of technical issues arising during construction.\nPrepare technical progress, inspection, and non-conformance reports.\nParticipate in coordination meetings with contractors, suppliers, clients, and project teams.\nSupport acceptance activities for structural works.\nPerform site checks in compliance with safety procedures.\nInteract daily with an international team using English.",
+   "mission": "",
+   "profile": "Requirements\n\nMaster's Degree in Civil Engineering or Structural Engineering.\nAlternatively, a degree specializing in structural design or construction engineering.\nPrevious experience (0 to 3 years) in structural engineering, construction supervision, or site activities would be appreciated.\nGood knowledge of industrial steel structures.\nAbility to read structural drawings, fabrication drawings, and technical documentation.\nExcellent command of Italian.\nGood written and spoken English skills (minimum B2 level).\nGood knowledge of Microsoft Office, particularly Excel.\nAvailability to work on a permanent basis at the Agrate Brianza (MI) construction site.\n\nPreferred Qualifications\nPrevious experience, even limited, in structural engineering, construction supervision, detailing, or engineering design.\nKnowledge of AutoCAD, Revit, or structural analysis software.\nKnowledge of BIM environments and methodologies.\nConstruction site safety training.\nExperience or interest in industrial, semiconductor, pharmaceutical, or data center projects.\nExcellent command of Italian and English.\nKnowledge of French would be considered an advantage.\n\nKey Personal Attributes\nStrong interest in site-based activities.\nAccuracy and technical rigor.\nAnalytical mindset and problem-solving skills.\nProactive approach and ability to work independently.\nGood interpersonal and communication skills.\nAbility to interact effectively with contractors, suppliers, and clients.\nTeam spirit and ability to work in multidisciplinary and international environments.\nTechnical curiosity and a strong willingness to learn.",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-29T14:35:22Z",
+   "sector": "",
+   "specialization": "[\"62\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-29T14:35:22Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-29T00:00:00",
+    "endBroadcastDate": "2026-11-28T00:00:00"
+   },
+   "summary": "For our Industry Division, we are looking for a Junior Structural Site Inspector to join a major industrial project in the microelectronics sector, based in Milan.\n\nWe are seeking a bright, curious, and field-oriented professional interested in developing skills in construction supervision, site inspection, and quality control of industrial steel structures and facility support systems within a high-tech industrial environment.\n\nThe successful candidate will join an international multidisciplinary team involved in the construction of advanced industrial facilities and cleanroom environments. Supported by senior specialists, the selected candidate will progressively gain autonomy in the inspection, verification, and acceptance of structural works.\n\nWhat You Will Do\n\nSupport site supervision and inspection activities related to structural works.\nVerify the compliance of installations with project documentation, technical specifications, and applicable standards.\nMonitor works related to industrial steel structures. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247718",
+   "score": 35,
+   "label": "À examiner",
+   "first_seen": "2026-10-29T19:37:42+00:00",
+   "axis_scores": {
+    "rd": 43,
+    "prod": 10,
+    "qual": 8,
+    "calc": 25
+   },
+   "dominant_axis": "rd",
+   "matched_families": [
+    {
+     "id": "calc3",
+     "axis": "calc",
+     "source": "Résistance des matériaux 1 et 2 (263-1, 270-1, 60 h), Élastoplasticité (279-1, 45 h)",
+     "weight": 11,
+     "terms": [
+      "structural analysis"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "engineering",
+      "fabrication"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "compliance",
+      "inspection",
+      "quality",
+      "standards"
+     ]
+    },
+    {
+     "id": "rd1",
+     "axis": "rd",
+     "source": "Métallurgie 1 (280-1, 34 h), Métallurgie 2 (287-1, 45 h)",
+     "weight": 12,
+     "terms": [
+      "steel"
+     ]
+    },
+    {
+     "id": "rd9",
+     "axis": "rd",
+     "source": "Vocabulaire de laboratoire courant",
+     "weight": 3,
+     "terms": [
+      "problem solving"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "engineer"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "industrial",
+      "mechanical"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    },
+    {
+     "label": "Formation exigée hors cursus : score plafonné",
+     "terms": [
+      "civil engineering"
+     ],
+     "points": -21,
+     "cap": 35
     }
    ]
   },
@@ -15560,112 +16430,6 @@
    ]
   },
   {
-   "id": "242126",
-   "title": "Digital Product Manager (H/F)",
-   "company": "CNH INDUSTRIAL FRANCE",
-   "country": "ITALIE",
-   "city": "TURIN",
-   "description": "CNH is a global leader in agricultural and construction equipment, recognized worldwide through its brands: Case IH, New Holland Agriculture, Steyr, Case Construction, and New Holland Construction. With a strong commitment to innovation, CNH is at the forefront of the digitalization and automation revolution — developing smart, connected solutions to feed, to build, to power, and to connect the world. This transformation journey is reshaping customer and dealer network experiences while redefining CNH's business model for the future. We are looking for a results-oriented product professional with a passion for building new aftermarket service models. If you thrive at the intersection of connected services, subscription monetization, and cross-functional delivery — and you are energized by turning complex service ecosystems into seamless, premium customer offerings — this role is for you. The Digital Product Manager – Premium Connected Service Contracts & Subscriptions is responsible for driving the development, integration, and monetization of CNH's premium connected service offerings, working in close collaboration with the Non-Connected Services team. The role focuses on building subscription-based service bundles that combine connected and non-connected capabilities into integrated aftermarket packages — while ensuring seamless alignment with the existing service systems and processes that underpin contract management, billing, and dealer activation.\n\nThis position operates at the intersection of product strategy, service innovation, and digital enablement. It leads the creation of new aftermarket offerings — including Inspection Services and premium connected service bundles — and drives the adoption of new monetization models and digital tools that support a B2C-ready subscription business. The role acts as a bridge between today's legacy service landscape and tomorrow's connected service portfolio, ensuring consistency, operational readiness, and cross-functional alignment.\nWorking in an agile environment, this product manager balances strategic roadmap ownership with hands-on delivery, governance of service system interactions, and continuous improvement of both new and existing service solutions. Inspection Services – New Aftermarket Offering\n\n• Lead the creation of Inspection Services as a structured global aftermarket offering, from product definition through go-to-market readiness.\n\n• Coordinate across regions, quality, IT, and business leads to design the product, define process flows, enable digital tooling, and ensure commercial launch readiness.\n\n• Serve as the primary product owner driving cross-regional discussions, decisions, and alignment throughout the development lifecycle.\n\nPremium Connected & Non-Connected Service Bundles\n\n• Build new premium service bundles, integrating connected and non-connected services into subscription-based packages for customers.\n\n• Ensure all systems, processes, and stakeholders — including Finance, Aftermarket, Connected Services teams, and regional representatives — are aligned for seamless service activation, renewals, and billing.\n\n• Oversee go-to-market readiness, internal communication, and field enablement for new bundle launches.\n\nNew Digital Capabilities & Subscription Model Innovation\n\n• Lead the investigation, evaluation, and integration strategy for new digital tools that enable B2C invoicing and expand CNH's subscription-based service business model.\n\n• Orchestrate collaboration across IT, Finance, Legal, regional teams, and Connected Services to assess feasibility and ensure integration with existing service systems.\n\n• Own progress tracking, issue resolution, and requirements alignment across all involved parties.\n\nReporting & Performance Tool Ownership\n\n• Maintain and improve global reporting tools for service contracts and quotations, ensuring stability, accuracy, and readiness for business management use.\n\n• Monitor system performance, coordinate bug fixes, and drive continuous enhancement of dashboards and KPIs.\n\n• Work closely with IT development teams and Services leadership to support data-driven decision-making across the service portfolio.\n\nDealer App Front-end Tool – Product Management\n\n• Act as product manager for all integrations related to service offering quoting within dealer-facing tools.\n\n• Align dealer tool capabilities with the service roadmap, ensuring correct representation of service products, pricing logic, and contract flows.\n\n• Coordinate technical teams and regional stakeholders for enhancements, updates, and deployment of new features.\n\nCross-functional & Regional Leadership\n\n• Serve as the central point of contact between Product, IT, regional teams, Marketing, Finance, dealers, and Services teams.\n\n• Lead alignment sessions, workshops, and decision-making forums to ensure the smooth rollout of new services across markets.\n\n• Support change management, communication plans, and training activities across all regions.",
-   "mission": "",
-   "profile": "Bachelor's degree in Engineering, Business, Computer Science, or a related field.\r\n\r\n• 3 years in digital product management, preferably in aftermarket services, service contracts, or SaaS environments.\r\n\r\n• Proven experience collaborating with agile development teams; solid backlog management and user story writing skills.\r\n\r\n• Demonstrated ability to translate complex business needs into clear digital requirements.\r\n\r\n• Experience managing cross-functional stakeholders across product, IT, finance, and regional teams.\r\n\r\n• Analytical mindset with experience in reporting tools and KPI tracking.\r\n\r\n• Excellent communication and facilitation skills in a global, multicultural environment.\r\n\r\n• Fluent in English; additional languages are a strong asset for multi-region rollouts.\r\nKnowledge of the agricultural or construction equipment aftermarket ecosystem.\r\n\r\n• Experience with subscription-based service models, B2C digital commerce, or connected service monetization.\r\n\r\n• Background in multi-market deployment programs or regional market rollouts.\r\n\r\n• Experience in product discovery methodologies, UX prototyping, or usability testing.\r\nNew service offering development and go-to-market execution.\r\n\r\n• Subscription model design and connected service monetization.\r\n\r\n• Cross-functional coordination across product, IT, finance, and regional teams.\r\n\r\n• Agile product management: backlog ownership, user story creation, sprint facilitation.\r\n\r\n• Dealer tool and service system integration management.\r\n\r\n• Reporting platform ownership and data-driven decision support.\r\n\r\n• Stakeholder influence and change management across global markets.\r\n\r\n• Customer-first and commercial mindset with strong problem-solving skills.",
-   "duration": 6,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2027-07-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-04-09T09:18:57Z",
-   "sector": "",
-   "specialization": "130",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-04-09T09:18:57Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2027-07-01T00:00:00",
-    "startBroadcastDate": "2026-10-22T00:00:00",
-    "endBroadcastDate": "2026-11-21T00:00:00"
-   },
-   "summary": "CNH is a global leader in agricultural and construction equipment, recognized worldwide through its brands: Case IH, New Holland Agriculture, Steyr, Case Construction, and New Holland Construction. With a strong commitment to innovation, CNH is at the forefront of the digitalization and automation revolution — developing smart, connected solutions to feed, to build, to power, and to connect the world. This transformation journey is reshaping customer and dealer network experiences while redefining CNH's business model for the future. We are looking for a results-oriented product professional with a passion for building new aftermarket service models. If you thrive at the intersection of connected services, subscription monetization, and cross-functional delivery — and you are energized by turning complex service ecosystems into seamless, premium customer offerings — this role is for you. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/242126",
-   "score": 35,
-   "label": "À examiner",
-   "first_seen": "2026-10-22T18:32:10+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 45,
-    "qual": 8,
-    "calc": 9
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
-     "weight": 4,
-     "terms": [
-      "automation"
-     ]
-    },
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
-     "weight": 10,
-     "terms": [
-      "tooling"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "continuous improvement",
-      "engineering"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "inspection",
-      "quality",
-      "testing"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "investigation",
-      "problem solving"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "industrial"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Intitulé de métier du numérique : score plafonné",
-     "terms": [
-      "digital"
-     ],
-     "points": -1,
-     "cap": 35
-    }
-   ]
-  },
-  {
    "id": "243616",
    "title": "Digital Transformation & Industrial AI Engineer (H/F)",
    "company": "CORREGE",
@@ -15680,7 +16444,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-08T11:09:48Z",
    "sector": "",
-   "specialization": "149, 330, 355",
+   "specialization": "[\"149\",\"330\",\"355\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -17514,7 +18278,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-07T15:09:37Z",
    "sector": "",
-   "specialization": "79, 150, 206, 207, 208",
+   "specialization": "[\"79\",\"150\",\"206\",\"207\",\"208\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -18683,7 +19447,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-16T09:46:27Z",
    "sector": "",
-   "specialization": "29",
+   "specialization": "[\"29\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19302,7 +20066,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-12T09:05:26Z",
    "sector": "",
-   "specialization": "327",
+   "specialization": "[\"327\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20875,6 +21639,99 @@
    ]
   },
   {
+   "id": "247724",
+   "title": "HVAC Engineer (H/F)",
+   "company": "ARTELIA",
+   "country": "ITALIE",
+   "city": "MILAN",
+   "description": "For our Industry Division, we are looking for a Junior HVAC Site Inspector to join a major industrial project in the microelectronics sector, based in Milan.\n\nWe are seeking a bright, curious, and field-oriented professional interested in developing skills in construction supervision, site inspection, and quality control of HVAC systems within a high-tech industrial environment.\n\nThe successful candidate will join an international multidisciplinary team involved in the construction of new cleanrooms for the microelectronics industry, working daily with professionals from various technical disciplines.\n\nSupported by senior specialists, the selected candidate will progressively gain autonomy in the inspection, verification, and acceptance of complex HVAC and utility systems.\n\nWhat You Will Do\n\nSupport site supervision and inspection activities related to HVAC and mechanical systems.\nVerify the compliance of installations with project documentation, technical specifications, and applicable standards.\nMonitor the progress of works related to air handling systems, particularly for cleanroom environments, as well as thermal fluid production and distribution systems.\nParticipate in the inspection of air handling units (AHUs), ventilation systems, chilled water and hot water networks, and associated utilities.\nSupport quality control activities for HVAC installations and mechanical equipment.\nCarry out regular site inspections to verify construction progress and installation quality.\nAssist in the analysis and resolution of technical issues arising during construction and commissioning phases.\nPrepare technical progress, inspection, and non-conformance reports.\nParticipate in coordination meetings with contractors, suppliers, clients, and project teams.\nSupport testing, commissioning, and acceptance activities for HVAC systems.\nPerform site checks in compliance with safety procedures.\nInteract daily with an international team using English.",
+   "mission": "",
+   "profile": "Requirements\nMaster's Degree in Mechanical Engineering, Energy Engineering, or HVAC-related disciplines.\nAlternatively, a degree specializing in building services engineering or mechanical systems.\nPrevious experience (0 to 3 years) in HVAC engineering, site supervision, commissioning, or utility systems engineering would be appreciated.\nGood knowledge of HVAC systems, air handling systems, and thermal fluid production and distribution systems.\nAbility to read technical drawings, hydraulic schematics, P&IDs, and technical documentation.\nExcellent command of Italian.\nGood written and spoken English skills (minimum B2 level).\nGood knowledge of Microsoft Office, particularly Excel.\nAvailability to work on a permanent basis at the Agrate Brianza (MI) construction site.\n\nPreferred Qualifications\nPrevious experience, even limited, in HVAC engineering, construction supervision, commissioning, or owner's engineering.\nKnowledge of AutoCAD and/or Revit.\nKnowledge of BIM environments and methodologies.\nConstruction site safety training.\nExperience or interest in cleanroom, semiconductor, industrial, pharmaceutical, or data center projects.\nExcellent command of Italian and English.\nKnowledge of French would be considered an advantage.\n\nKey Personal Attributes\nStrong interest in site-based activities.\nAccuracy and technical rigor.\nAnalytical mindset and problem-solving skills.\nProactive approach and ability to work independently.\nGood interpersonal and communication skills.\nAbility to interact effectively with contractors, suppliers, and clients.\nTeam spirit and ability to work in multidisciplinary and international environments.\nTechnical curiosity and a strong willingness to learn.",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-29T14:54:24Z",
+   "sector": "",
+   "specialization": "[\"161\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-29T14:54:24Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-29T00:00:00",
+    "endBroadcastDate": "2026-11-28T00:00:00"
+   },
+   "summary": "For our Industry Division, we are looking for a Junior HVAC Site Inspector to join a major industrial project in the microelectronics sector, based in Milan.\n\nWe are seeking a bright, curious, and field-oriented professional interested in developing skills in construction supervision, site inspection, and quality control of HVAC systems within a high-tech industrial environment.\n\nThe successful candidate will join an international multidisciplinary team involved in the construction of new cleanrooms for the microelectronics industry, working daily with professionals from various technical disciplines.\n\nSupported by senior specialists, the selected candidate will progressively gain autonomy in the inspection, verification, and acceptance of complex HVAC and utility systems.\n\nWhat You Will Do\n\nSupport site supervision and inspection activities related to HVAC and mechanical systems.\nVerify the compliance of installations with project documentation, technical specifications, and applicable standards. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247724",
+   "score": 32,
+   "label": "Périphérique",
+   "first_seen": "2026-10-29T19:37:42+00:00",
+   "axis_scores": {
+    "rd": 9,
+    "prod": 10,
+    "qual": 8,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "engineering"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "compliance",
+      "inspection",
+      "quality",
+      "standards"
+     ]
+    },
+    {
+     "id": "rd9",
+     "axis": "rd",
+     "source": "Vocabulaire de laboratoire courant",
+     "weight": 3,
+     "terms": [
+      "problem solving"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "engineer"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "energy",
+      "industrial",
+      "mechanical"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
    "id": "233039",
    "title": "INGENIEUR AUTOMATICIEN H/F (H/F)",
    "company": "EFE INTERNATIONAL",
@@ -21366,7 +22223,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-26T10:10:10Z",
    "sector": "",
-   "specialization": "327",
+   "specialization": "[\"327\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21879,7 +22736,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-20T07:14:32Z",
    "sector": "",
-   "specialization": "60, 77, 149, 150, 264",
+   "specialization": "[\"60\",\"77\",\"149\",\"150\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22793,7 +23650,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-08T08:03:39Z",
    "sector": "",
-   "specialization": "65, 73, 77, 107, 206, 207, 224, 264",
+   "specialization": "[\"65\",\"73\",\"77\",\"107\",\"206\",\"207\",\"224\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22957,7 +23814,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-21T12:18:30Z",
    "sector": "",
-   "specialization": "60",
+   "specialization": "[\"60\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -24308,6 +25165,288 @@
    ]
   },
   {
+   "id": "247721",
+   "title": "Water Treatment Engineer (WWT) (H/F)",
+   "company": "ARTELIA",
+   "country": "ITALIE",
+   "city": "MILAN",
+   "description": "For our Industry Division, we are looking for a Junior Water Treatment Site Inspector to join a major industrial project in the microelectronics sector, based in Milan.\n\nWe are seeking a bright, curious, and field-oriented professional interested in developing skills in construction supervision, site inspection, and quality control of water treatment and water utility systems within a high-tech industrial environment.\n\nThe successful candidate will join an international multidisciplinary team involved in the construction of new cleanrooms for the microelectronics industry, working daily with professionals from various technical disciplines.\n\nSupported by senior specialists, the selected candidate will progressively gain autonomy in the inspection, verification, and acceptance of complex water treatment and distribution systems.\n\nWhat You Will Do\n\nSupport site supervision and inspection activities related to water treatment and water utility systems.\nVerify the compliance of installations with project documentation, technical specifications, and applicable standards.\nMonitor works related to softened water production and distribution systems.\nParticipate in the inspection of ultrapure water (UPW) production and distribution systems.\nSupport supervision activities related to raw water treatment and purification systems.\nMonitor industrial and sanitary water distribution networks.\nParticipate in the inspection of industrial wastewater treatment installations.\nSupport activities related to the segregation and collection of industrial drains.\nCarry out regular site inspections to verify construction progress and installation quality.\nAssist in the analysis and resolution of technical issues arising during construction and commissioning phases.\nPrepare technical progress, inspection, and non-conformance reports.\nParticipate in coordination meetings with contractors, suppliers, clients, and project teams.\nSupport testing, commissioning, and acceptance activities.\nPerform site checks in compliance with safety procedures.\nInteract daily with an international team using English.",
+   "mission": "",
+   "profile": "Requirements\nMaster's Degree in Chemical Engineering, Process Engineering, Environmental Engineering, or related disciplines.\nAlternatively, a degree specializing in water treatment, industrial utilities, or process engineering.\nPrevious experience (0 to 3 years) in water treatment, industrial utilities, commissioning, or site activities would be appreciated.\nGood knowledge of industrial water treatment systems and water distribution networks.\nBasic knowledge of ultrapure water (UPW) systems and industrial wastewater treatment installations.\nAbility to read technical drawings, P&IDs, layouts, and technical documentation.\nExcellent command of Italian.\nGood written and spoken English skills (minimum B2 level).\nGood knowledge of Microsoft Office, particularly Excel.\nAvailability to work on a permanent basis at the Agrate Brianza (MI) construction site.\n\nPreferred Qualifications\nPrevious experience, even limited, in water treatment, industrial utilities, construction supervision, commissioning, or engineering design.\nKnowledge of AutoCAD and/or Revit.\nKnowledge of BIM environments and methodologies.\nConstruction site safety training.\nExperience or interest in cleanroom, semiconductor, industrial, pharmaceutical, or data center projects.\nExcellent command of Italian and English.\nKnowledge of French would be considered an advantage.\n\nKey Personal Attributes\nStrong interest in site-based activities.\nAccuracy and technical rigor.\nAnalytical mindset and problem-solving skills.\nProactive approach and ability to work independently.\nGood interpersonal and communication skills.\nAbility to interact effectively with contractors, suppliers, and clients.\nTeam spirit and ability to work in multidisciplinary and international environments.\nTechnical curiosity and a strong willingness to learn.",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-29T14:47:30Z",
+   "sector": "",
+   "specialization": "[\"134\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-29T14:47:30Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-29T00:00:00",
+    "endBroadcastDate": "2026-11-28T00:00:00"
+   },
+   "summary": "For our Industry Division, we are looking for a Junior Water Treatment Site Inspector to join a major industrial project in the microelectronics sector, based in Milan.\n\nWe are seeking a bright, curious, and field-oriented professional interested in developing skills in construction supervision, site inspection, and quality control of water treatment and water utility systems within a high-tech industrial environment.\n\nThe successful candidate will join an international multidisciplinary team involved in the construction of new cleanrooms for the microelectronics industry, working daily with professionals from various technical disciplines.\n\nSupported by senior specialists, the selected candidate will progressively gain autonomy in the inspection, verification, and acceptance of complex water treatment and distribution systems.\n\nWhat You Will Do\n\nSupport site supervision and inspection activities related to water treatment and water utility systems.\nVerify the compliance of installations with project documentation, technical specifications, and applicable standards. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247721",
+   "score": 30,
+   "label": "Périphérique",
+   "first_seen": "2026-10-29T19:37:42+00:00",
+   "axis_scores": {
+    "rd": 9,
+    "prod": 45,
+    "qual": 8,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod4",
+     "axis": "prod",
+     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
+     "weight": 10,
+     "terms": [
+      "process engineering"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "engineering"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "compliance",
+      "inspection",
+      "quality",
+      "standards"
+     ]
+    },
+    {
+     "id": "rd9",
+     "axis": "rd",
+     "source": "Vocabulaire de laboratoire courant",
+     "weight": 3,
+     "terms": [
+      "problem solving"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "engineer"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "chemical",
+      "industrial"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    },
+    {
+     "label": "Aucun terme industriel : score plafonné",
+     "terms": [],
+     "points": -23,
+     "cap": 30
+    }
+   ]
+  },
+  {
+   "id": "247719",
+   "title": "Electrical Engineer (H/F)",
+   "company": "ARTELIA",
+   "country": "ITALIE",
+   "city": "MILAN",
+   "description": "For our Industry Division, we are looking for a Junior Site Inspector - Electrical Systems to join our Milan office.\n\nWe are seeking a bright, curious, and field-oriented professional interested in developing skills in construction supervision, site inspection, and quality control of electrical installations within a major high-tech industrial project.\n\nThe successful candidate will join an international multidisciplinary team involved in the construction of new cleanrooms for the microelectronics industry, working daily alongside professionals from various technical disciplines.\n\nSupported by senior professionals, the selected candidate will have the opportunity to gain a comprehensive understanding of the construction, inspection, testing, and acceptance of electrical systems, while rapidly developing autonomy and responsibility within the project.\n\nWhat You Will Do\n\nSupport the supervision and inspection of electrical installations on site.\nVerify compliance of installations with design documentation, technical specifications, and applicable regulations.\nMonitor the progress of works related to medium- and low-voltage electrical systems.\nAssist in the inspection of electrical distribution systems and busbar trunking systems.\nParticipate in the verification of special systems, including access control, CCTV, data networks, and fire protection systems.\nPrepare technical progress, inspection, and non-conformance reports.\nParticipate in coordination meetings with contractors, suppliers, clients, and project teams.\nSupport testing, commissioning, and acceptance activities for electrical installations.\nCarry out regular site inspections and field checks in accordance with safety procedures.\nInteract daily with an international team using English.",
+   "mission": "",
+   "profile": "Requirements\nMaster's Degree in Electrical Engineering.\nAlternatively, Master's Degree in Energy Engineering or Electronic Engineering with a building services/electrical systems specialization.\nGood knowledge of medium- and low-voltage electrical systems.\nBasic knowledge of special systems (access control, CCTV, data networks, fire detection systems).\nAbility to read electrical schematics, layouts, and technical documentation.\nExcellent command of Italian.\nGood written and spoken English skills (minimum B2 level).\nGood knowledge of Microsoft Office, particularly Excel.\nAvailability to work on a permanent basis at the Agrate Brianza (Milan) project site.\n\nPreferred Qualifications\nApplications are welcome from recent graduates as well as professionals with initial experience (up to 3 years) in building services engineering or construction site activities (construction supervision, commissioning, or engineering design).\nKnowledge of AutoCAD.\nKnowledge of CEI regulations and standards.\nSite safety training.\nPES/PAV electrical safety qualification.\nKnowledge of Revit or other BIM tools.\nExperience or interest in the industrial, data center, pharmaceutical, or semiconductor sectors.\nExcellent command of both Italian and English.\nKnowledge of French would be considered an advantage.\n\nKey Personal Attributes\nStrong interest in site-based activities.\nAccuracy and technical rigor.\nProactive approach and problem-solving mindset.\nAbility to work independently and manage priorities.\nExcellent interpersonal and communication skills.\nAbility to interact effectively with contractors, suppliers, and clients.\nTeam spirit and ability to work within multidisciplinary and international environments.",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-29T14:38:29Z",
+   "sector": "",
+   "specialization": "[\"71\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-29T14:38:29Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-29T00:00:00",
+    "endBroadcastDate": "2026-11-28T00:00:00"
+   },
+   "summary": "For our Industry Division, we are looking for a Junior Site Inspector - Electrical Systems to join our Milan office.\n\nWe are seeking a bright, curious, and field-oriented professional interested in developing skills in construction supervision, site inspection, and quality control of electrical installations within a major high-tech industrial project.\n\nThe successful candidate will join an international multidisciplinary team involved in the construction of new cleanrooms for the microelectronics industry, working daily alongside professionals from various technical disciplines.\n\nSupported by senior professionals, the selected candidate will have the opportunity to gain a comprehensive understanding of the construction, inspection, testing, and acceptance of electrical systems, while rapidly developing autonomy and responsibility within the project.\n\nWhat You Will Do\n\nSupport the supervision and inspection of electrical installations on site.\nVerify compliance of installations with design documentation, technical specifications, and applicable regulations. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247719",
+   "score": 30,
+   "label": "Périphérique",
+   "first_seen": "2026-10-29T19:37:42+00:00",
+   "axis_scores": {
+    "rd": 9,
+    "prod": 10,
+    "qual": 8,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "engineering"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "compliance",
+      "inspection",
+      "qualification",
+      "quality"
+     ]
+    },
+    {
+     "id": "rd9",
+     "axis": "rd",
+     "source": "Vocabulaire de laboratoire courant",
+     "weight": 3,
+     "terms": [
+      "problem solving"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "engineer"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "energy",
+      "industrial"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    },
+    {
+     "label": "Aucun terme industriel : score plafonné",
+     "terms": [],
+     "points": -2,
+     "cap": 30
+    }
+   ]
+  },
+  {
+   "id": "247699",
+   "title": "Développeur IA (H/F)",
+   "company": "ASTEK FRANCE",
+   "country": "CANADA",
+   "city": "MONTREAL -QC",
+   "description": "Ce que nous allons accomplir ensemble : \r\nTu contribueras à concevoir, développer et industrialiser des solutions d’intelligence artificielle intégrées à des applications concrètes. Tu interviendras notamment sur des solutions d’IA générative, des LLM et des architectures RAG, de la preuve de concept jusqu’à la mise en production. \r\n\r\nTa mission (…si tu l’acceptes !) : \r\nDévelopper des solutions IA robustes, performantes et industrialisables en transformant les besoins d’affaires en applications concrètes. \r\n\r\nTon quotidien sera rythmé par : \r\nConcevoir et développer des applications utilisant l’intelligence artificielle, l’IA générative et les grands modèles de langage. \r\nDévelopper des architectures RAG permettant d’exploiter des données et sources documentaires dans des applications IA. \r\nIntégrer des modèles et services IA à travers des API et des composants applicatifs.\r\nConcevoir et optimiser les prompts, mécanismes de recherche, traitements de données et chaînes d’orchestration. \r\nDévelopper des tests et mécanismes d’évaluation permettant de mesurer la qualité, la pertinence et la robustesse des solutions. \r\nParticiper à l’industrialisation, au déploiement et au suivi des applications IA. \r\nCollaborer avec les équipes de développement, données, QA et architecture afin d’améliorer continuellement les solutions. \r\n\r\nTon Stack de Jeu : \r\nPython \r\nLLM et IA générative \r\nRAG et prompt engineering \r\nAPI REST et intégrations applicatives \r\nFrameworks de développement et d’orchestration IA \r\nBases de données SQL et vectorielles \r\nGit, CI/CD et Docker \r\nMachine Learning et traitement de données",
+   "mission": "",
+   "profile": "Tu possèdes une expérience pertinente en développement logiciel, intelligence artificielle ou machine learning. \r\nTu maîtrises Python et les bonnes pratiques de développement logiciel. \r\nTu comprends en profondeur les LLM, l’IA générative, le prompt engineering et les architectures RAG. \r\nTu sais développer et intégrer des API ainsi que manipuler et préparer des données destinées aux applications IA. \r\nTu comprends les enjeux propres aux solutions IA, notamment la qualité des réponses, les hallucinations, la performance et la traçabilité. \r\nTu sais mettre en place des tests et des mécanismes d’évaluation pour mesurer objectivement la performance d’une solution IA. \r\nTu maîtrises Git et comprends les pratiques CI/CD, la conteneurisation et l’industrialisation des applications. \r\nTu es capable de transformer un besoin fonctionnel en une solution technique IA maintenable et évolutive.",
+   "duration": 24,
+   "start_date": "2027-02-01T00:00:00",
+   "end_date": "2029-02-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-29T10:05:02Z",
+   "sector": "",
+   "specialization": "[\"355\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-29T10:05:02Z",
+    "missionStartDate": "2027-02-01T00:00:00",
+    "missionEndDate": "2029-02-01T00:00:00",
+    "startBroadcastDate": "2026-10-29T00:00:00",
+    "endBroadcastDate": "2026-11-28T00:00:00"
+   },
+   "summary": "Ce que nous allons accomplir ensemble : \r\nTu contribueras à concevoir, développer et industrialiser des solutions d’intelligence artificielle intégrées à des applications concrètes. Tu interviendras notamment sur des solutions d’IA générative, des LLM et des architectures RAG, de la preuve de concept jusqu’à la mise en production. \r\n\r\nTa mission (…si tu l’acceptes !) : \r\nDévelopper des solutions IA robustes, performantes et industrialisables en transformant les besoins d’affaires en applications concrètes. \r\n\r\nTon quotidien sera rythmé par : \r\nConcevoir et développer des applications utilisant l’intelligence artificielle, l’IA générative et les grands modèles de langage. \r\nDévelopper des architectures RAG permettant d’exploiter des données et sources documentaires dans des applications IA. \r\nIntégrer des modèles et services IA à travers des API et des composants applicatifs.\r\nConcevoir et optimiser les prompts, mécanismes de recherche, traitements de données et chaînes d’orchestration. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247699",
+   "score": 30,
+   "label": "Périphérique",
+   "first_seen": "2026-10-29T19:37:42+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 45,
+    "qual": 8,
+    "calc": 9
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "calc4",
+     "axis": "calc",
+     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
+     "weight": 4,
+     "terms": [
+      "python"
+     ]
+    },
+    {
+     "id": "prod4",
+     "axis": "prod",
+     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
+     "weight": 10,
+     "terms": [
+      "industrialisation"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "engineering"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "qualite"
+     ]
+    }
+   ],
+   "bonuses": []
+  },
+  {
    "id": "246978",
    "title": "Solutions Engineer (H/F)",
    "company": "ATEME",
@@ -24532,7 +25671,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-05T22:54:27Z",
    "sector": "",
-   "specialization": "35, 251, 327, 329, 330",
+   "specialization": "[\"35\",\"251\",\"327\",\"329\",\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -24643,7 +25782,7 @@
    "expiry_date": "",
    "publish_date": "2026-05-12T14:43:27Z",
    "sector": "",
-   "specialization": "5, 21, 49, 86, 125, 144, 150, 155, 208, 209, 244, 256, 262, 264",
+   "specialization": "[\"5\",\"21\",\"49\",\"86\",\"125\",\"144\",\"150\",\"155\",\"208\",\"209\",\"244\",\"256\",\"262\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25961,78 +27100,6 @@
    ]
   },
   {
-   "id": "247320",
-   "title": "SUPPORT TECHNIQUE LATAM (H/F)",
-   "company": "DIEHL METERING SAS",
-   "country": "COLOMBIE",
-   "city": "BOGOTA",
-   "description": "Entreprise:\r\nNotre entreprise est spécialisée dans le développement et la fabrication de compteurs à fortes qualités métrologiques tels que le compteur volumétrique ALTAIR et le compteur à ultrason Hydrus.\r\nVéritable pionnier dans le domaine du relevé automatique de compteurs, Diehl Metering S.A.S. a vendu près des millions de radios à ce jour, aussi bien sur les marchés de distribution d’eau que d’énergie thermique.\r\nEn fournissant des solutions de « Smart Metering » sur-mesure, adaptées aux environnements et aux infrastructures actuels à travers le monde, Diehl Metering S.A.S. répond aujourd’hui à la problématique de gestion responsable des ressources naturelles et énergétiques.\r\nPostulez chez Diehl et rejoignez un milieu de technologies fascinantes et une entreprise unique de tradition, de stabilité et de confiance.\r\n\r\nPoste et missions:\r\n\r\nLe candidat retenu interviendra en tant que support aux nouvelles solutions technologiques offertes par le groupe DIEHL METERING auprès des clients et partenaires de la zone Latino-Américaine. Il assurera le support technique à part entière et sera placé sous la responsabilité du Directeur du Customer Solution Center basé en France pour le déploiement des nouveaux projets AMR/AMI. Il agira par conséquent en amont des opportunités d’affaires, et du suivi avant et après projets en étroite collaboration avec ses collègues de la vante et du CSC installés en Amérique Latine.\r\n\nObjectifs spécifiques: \r\n\r\n• Présente les gammes systèmes et eau \r\n• Accompagne les partenaires pour le montage de sites pilotes AMR/AMI \r\n• Met en service sur site les projets AMR/AMI \r\n• Assure la démonstration et mise en place du logiciel IZAR@NET / Izar Plus PORTAL chez les clients\r\n• Assure la formation des partenaires hispanophones et anglophones.\r\n• Assure un suivi technique des projets AMR/AMI : assistance technique aux clients et partenaires\r\n• Répond aux problématiques techniques rencontrées de niveau 1 et en assure le suivi\r\n• Exécute des prestations techniques sur site\r\n• Identifie et propose des idées novatrices pour améliorer les services à valeur ajoutée",
-   "mission": "",
-   "profile": "Bac +5 Ecole Ingénieur réseaux et télécommunications ou équivalent.",
-   "duration": 18,
-   "start_date": "2027-02-01T00:00:00",
-   "end_date": "2028-08-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-21T07:16:38Z",
-   "sector": "",
-   "specialization": "[\"35\"]",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-21T07:16:38Z",
-    "missionStartDate": "2027-02-01T00:00:00",
-    "missionEndDate": "2028-08-01T00:00:00",
-    "startBroadcastDate": "2026-10-22T00:00:00",
-    "endBroadcastDate": "2026-11-21T00:00:00"
-   },
-   "summary": "Entreprise:\r\nNotre entreprise est spécialisée dans le développement et la fabrication de compteurs à fortes qualités métrologiques tels que le compteur volumétrique ALTAIR et le compteur à ultrason Hydrus.\r\nVéritable pionnier dans le domaine du relevé automatique de compteurs, Diehl Metering S.A.S. a vendu près des millions de radios à ce jour, aussi bien sur les marchés de distribution d’eau que d’énergie thermique.\r\nEn fournissant des solutions de « Smart Metering » sur-mesure, adaptées aux environnements et aux infrastructures actuels à travers le monde, Diehl Metering S.A.S. répond aujourd’hui à la problématique de gestion responsable des ressources naturelles et énergétiques.\r\nPostulez chez Diehl et rejoignez un milieu de technologies fascinantes et une entreprise unique de tradition, de stabilité et de confiance.\r\n\r\nPoste et missions:\r\n\r\nLe candidat retenu interviendra en tant que support aux nouvelles solutions technologiques offertes par le groupe DIEHL METERING auprès des clients et partenaires de la zone Latino-Américaine. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/247320",
-   "score": 30,
-   "label": "Périphérique",
-   "first_seen": "2026-10-22T11:50:05+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 10,
-    "qual": 30,
-    "calc": 0
-   },
-   "dominant_axis": "qual",
-   "matched_families": [
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "fabrication"
-     ]
-    },
-    {
-     "id": "qual1",
-     "axis": "qual",
-     "source": "Contrôles non destructifs (781-1, 30 h)",
-     "weight": 8,
-     "terms": [
-      "ultrason"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "energie"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "231372",
    "title": "INGÉNIEUR HVAC H/F (H/F)",
    "company": "EFE INTERNATIONAL",
@@ -26323,7 +27390,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-21T09:50:40Z",
    "sector": "",
-   "specialization": "66, 71, 143, 153",
+   "specialization": "[\"66\",\"71\",\"143\",\"153\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26880,7 +27947,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T09:54:46Z",
    "sector": "",
-   "specialization": "330",
+   "specialization": "[\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -28640,7 +29707,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-12T07:40:30Z",
    "sector": "",
-   "specialization": "330",
+   "specialization": "[\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31455,6 +32522,75 @@
    ]
   },
   {
+   "id": "247713",
+   "title": "Expert technique IA / MLOps / Architectures Data & Cybersécurité (H/F)",
+   "company": "ASTEK FRANCE",
+   "country": "CANADA",
+   "city": "MONTREAL -QC",
+   "description": "Ce que nous allons accomplir ensemble : \nTu occuperas un rôle de référent technique sur des sujets stratégiques d’IA, d’IA générative, de MLOps, d’architectures data complexes et de cybersécurité. Tu contribueras à la construction d’offres à forte valeur ajoutée tout en apportant ton expertise aux projets lors des phases où les choix techniques sont les plus structurants. \n\nTa mission (…si tu l’acceptes !) : \nMettre ton expertise IA, Data, MLOps et cybersécurité au service de la conception d’offres, du cadrage des architectures et de l’industrialisation de solutions complexes. \n\nTon quotidien sera rythmé par : \nConcevoir et structurer des offres autour de l’IA, de l’IA générative, du Machine Learning, du Deep Learning, du MLOps et des architectures data. \nAppuyer les équipes avant-vente et bid management pour bâtir des réponses techniques crédibles, différenciantes et adaptées aux contraintes de sécurité. \nIntervenir sur les phases de cadrage, conception, sécurisation et industrialisation des projets complexes. \nOrienter les architectures RAG, agents IA, workflows, architectures de données batch ou temps réel et leur intégration aux systèmes d’information. \nDéfinir les bonnes pratiques de gouvernance IA : qualité des données, explicabilité, évaluation, supervision, conformité et cycle de vie des modèles. \nIntégrer la cybersécurité aux architectures IA et data, notamment sur les données, pipelines, accès, environnements et modèles. \nFédérer les expertises nécessaires et contribuer au partage des connaissances au sein d’une communauté transverse. \n\nTa future équipe : \nTu évolueras au sein de la Direction Technique, en collaboration avec les équipes avant-vente, bid management, delivery et une communauté transverse d’experts. \n\nTon Stack de Jeu : \nIA générative : LLM, RAG, agents IA, guardrails et évaluation \nMachine Learning, Deep Learning et Computer Vision \nMLOps / LLMOps : pipelines, versioning, monitoring et reproductibilité \nData Engineering et architectures de flux batch, temps réel ou événementiels \nGouvernance IA, traçabilité et auditabilité \nCybersécurité appliquée à l’IA et à la Data \nCloud et plateformes d’industrialisation",
+   "mission": "",
+   "profile": "Tu possèdes au moins 5 ans d’expérience dans des environnements exigeants combinant IA, data, industrialisation et architecture technique. \n\nTu maîtrises plusieurs dimensions de l’IA générative, notamment les LLM, RAG, agents, évaluation et intégration aux systèmes d’information. \n\nTu possèdes une expertise en MLOps/LLMOps et comprends le cycle de vie complet des modèles, de l’entraînement au monitoring. \n\nTu comprends les architectures data complexes, les traitements distribués et les flux batch, temps réel ou événementiels. \n\nTu intègres les enjeux de sécurité, de gouvernance, de conformité, de traçabilité et de gestion des risques aux solutions IA. \n\nTu sais structurer et défendre des choix techniques complexes dans des contextes d’avant-vente et de conseil. \n\nTu es capable de mobiliser des experts et de travailler efficacement en transverse sans lien hiérarchique direct. \n\nTu disposes d’un anglais professionnel courant et d’excellentes capacités de communication.",
+   "duration": 24,
+   "start_date": "2027-02-01T00:00:00",
+   "end_date": "2029-02-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-29T13:26:26Z",
+   "sector": "",
+   "specialization": "[\"355\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-29T13:26:26Z",
+    "missionStartDate": "2027-02-01T00:00:00",
+    "missionEndDate": "2029-02-01T00:00:00",
+    "startBroadcastDate": "2026-10-29T00:00:00",
+    "endBroadcastDate": "2026-11-28T00:00:00"
+   },
+   "summary": "Ce que nous allons accomplir ensemble : \nTu occuperas un rôle de référent technique sur des sujets stratégiques d’IA, d’IA générative, de MLOps, d’architectures data complexes et de cybersécurité. Tu contribueras à la construction d’offres à forte valeur ajoutée tout en apportant ton expertise aux projets lors des phases où les choix techniques sont les plus structurants. \n\nTa mission (…si tu l’acceptes !) : \nMettre ton expertise IA, Data, MLOps et cybersécurité au service de la conception d’offres, du cadrage des architectures et de l’industrialisation de solutions complexes. \n\nTon quotidien sera rythmé par : \nConcevoir et structurer des offres autour de l’IA, de l’IA générative, du Machine Learning, du Deep Learning, du MLOps et des architectures data. \nAppuyer les équipes avant-vente et bid management pour bâtir des réponses techniques crédibles, différenciantes et adaptées aux contraintes de sécurité. \nIntervenir sur les phases de cadrage, conception, sécurisation et industrialisation des projets complexes. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247713",
+   "score": 29,
+   "label": "Périphérique",
+   "first_seen": "2026-10-29T19:37:42+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 45,
+    "qual": 8,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod4",
+     "axis": "prod",
+     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
+     "weight": 10,
+     "terms": [
+      "industrialisation"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "engineering"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "conformite",
+      "qualite"
+     ]
+    }
+   ],
+   "bonuses": []
+  },
+  {
    "id": "246644",
    "title": "PLM 3DExperience Testing Consultant (H/F)",
    "company": "CAPGEMINI TECHNOLOGY SERVICES",
@@ -31551,6 +32687,78 @@
       "industrial"
      ],
      "points": 5
+    }
+   ]
+  },
+  {
+   "id": "247693",
+   "title": "Ingénieur en maintenance industrielle (H/F)",
+   "company": "DIETSMANN TECHNOLOGIES",
+   "country": "GABON",
+   "city": "PORT GENTIL",
+   "description": "Sous la responsabilité du Responsable des Contrats maintenance, vous serez amené à travailler sur les axes suivants :\n\n- Planification des campagnes de maintenance : appui à la préparation, à l’ordonnancement et à l’amélioration des outils de planification.\n- Développement et amélioration des supports de gammes : mise à jour et développement de supports pour faciliter le travail des Responsables Métiers.\n\n- Digitalisation des outils :\n\no Préparation de campagnes avec les préparateurs métiers,\no Amélioration du support RTAAA (reporting avaries/anomalies/arrêts),\no Refonte des fiches de suivi matériel LOG (FSM),\no Analyse et digitalisation des KPI maintenance (Evaluation technique du contrat).\n\n- Méthodes maintenance : participation à des projets transverses d’amélioration continue.\n- Terrain : déplacements sur nos sites pour observer, recueillir les besoins et accompagner les équipes.",
+   "mission": "",
+   "profile": "Vous êtes issu(e) d’une école d’ingénieur ou titulaire d’un Master en maintenance, méthodes, production ou équivalent. \nVous êtes autonome, rigoureux(se) et apte à travailler dans un environnement multiculturel. \nVous avez acquis une première expérience professionnelle. Une expérience en environnement industriel constitue un plus.",
+   "duration": 12,
+   "start_date": "2027-03-01T00:00:00",
+   "end_date": "2028-03-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-29T09:30:31Z",
+   "sector": "",
+   "specialization": "[\"107\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-29T09:30:31Z",
+    "missionStartDate": "2027-03-01T00:00:00",
+    "missionEndDate": "2028-03-01T00:00:00",
+    "startBroadcastDate": "2026-10-29T00:00:00",
+    "endBroadcastDate": "2026-11-28T00:00:00"
+   },
+   "summary": "Sous la responsabilité du Responsable des Contrats maintenance, vous serez amené à travailler sur les axes suivants :\n\n- Planification des campagnes de maintenance : appui à la préparation, à l’ordonnancement et à l’amélioration des outils de planification.\n- Développement et amélioration des supports de gammes : mise à jour et développement de supports pour faciliter le travail des Responsables Métiers.\n\n- Digitalisation des outils :\n\no Préparation de campagnes avec les préparateurs métiers,\no Amélioration du support RTAAA (reporting avaries/anomalies/arrêts),\no Refonte des fiches de suivi matériel LOG (FSM),\no Analyse et digitalisation des KPI maintenance (Evaluation technique du contrat).\n\n- Méthodes maintenance : participation à des projets transverses d’amélioration continue.\n- Terrain : déplacements sur nos sites pour observer, recueillir les besoins et accompagner les équipes.",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247693",
+   "score": 29,
+   "label": "Périphérique",
+   "first_seen": "2026-10-29T19:37:42+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 10,
+    "qual": 0,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "amelioration continue",
+      "methodes"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "ingenieur",
+      "maintenance"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "industriel"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
     }
    ]
   },
@@ -31780,7 +32988,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-08T08:05:59Z",
    "sector": "",
-   "specialization": "68, 168",
+   "specialization": "[\"68\",\"168\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32691,7 +33899,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-23T13:13:41Z",
    "sector": "",
-   "specialization": "6",
+   "specialization": "[\"6\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32937,7 +34145,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-20T14:12:12Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33599,7 +34807,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T08:20:52Z",
    "sector": "",
-   "specialization": "64",
+   "specialization": "[\"64\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33819,103 +35027,6 @@
      "points": 4
     }
    ]
-  },
-  {
-   "id": "246779",
-   "title": "Technology Support Specialist – AI, Automation & Dashboards (H/F)",
-   "company": "JANSSEN CILAG",
-   "country": "BELGIQUE",
-   "city": "BEERSE",
-   "description": "Scientific & In Vivo Strategies (SIS) is a strategic partner that brings scientific, operational and ethical expertise to advance how research is designed and conducted at Johnson & Johnson. SIS collaborates with R&D teams to ensure innovation meets the highest standards while enabling the adoption of new methodologies and technologies that modernize research and strengthen outcomes for patients.\n\nTo strengthen our Preclinical Compliance & Safety team within SIS, we are looking for a motivated Technology Support Specialist to advance process automation initiatives in the team with focus on AI and Power Apps to streamline team data flows and metrics generation.\n \nThis two‑year V.I.E. placement at our Janssen Campus in Beerse, Belgium offers a dynamic, fast‑paced environment where you will gain hands‑on experience in the real‑world application of information systems, digital tools, and process optimization. It is an excellent experiential learning opportunity for someone who is eager to grow in the healthcare, technology, and science fields and who brings capability with some Microsoft platforms, along with a willingness to learn new tools and technologies.\n\nJoin us to deepen your career within a dynamic, fast-paced, and thrilling business environment, and gain insights into the real-world applications of information systems and process support within a leading pharmaceutical company.",
-   "mission": "",
-   "profile": "KEY RESPONSIBILITIES include:\r\n• Identify opportunities to use artificial intelligence, machine learning, Microsoft Copilot, and other emerging technologies to improve Compliance & Safety workflows, operational efficiency, and collaboration.\r\n• Contribute to the development of a knowledge management platform that supports processes such as training assignments, standard operating procedure management, and dashboard reporting.\r\n• Provide support, resolve high-priority incidents, and troubleshoot development and coding issues.\r\n• Create user-friendly digital resources that simplify compliance requirements for employees.\r\n• Maintain SharePoint content, including practical guidance, tips, frequently asked questions, and self-service resources. Help plan and deliver feasibility pilots that test innovative technologies for Compliance & Safety processes.\r\n• Assess existing digital solutions, review technical requirements and proposed enhancements, and recommend practical improvements.\r\n• Engage with users and stakeholders to understand needs, define solutions, establish success measures, and refine project workstreams.\r\n• Prepare clear end-user guidance, operating instructions, and supporting documentation.\r\nPlease note that specific duties may change depending on the evolving needs of the team.\r\n\r\nDESIRED SKILLS:\r\n• Capability with some platforms and applications—such as SharePoint, Power Apps, and Power Automate—with a willingness to learn additional tools as needed.\r\n• Familiarity with one of the core web development languages, including HTML5, CSS, PowerFx Low Code, JSON, etc.\r\n• Profound knowledge of Prompt Engineering\r\n• Strong willingness to learn and adapt to innovative technologies and methodologies.\r\n• Exceptional communication and collaboration skills.\r\n• Strong analytical and problem-solving skills.",
-   "duration": 12,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-07T10:47:34Z",
-   "sector": "",
-   "specialization": "[\"247\"]",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-07T10:47:34Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-12T00:00:00",
-    "endBroadcastDate": "2026-11-11T00:00:00"
-   },
-   "summary": "Scientific & In Vivo Strategies (SIS) is a strategic partner that brings scientific, operational and ethical expertise to advance how research is designed and conducted at Johnson & Johnson. SIS collaborates with R&D teams to ensure innovation meets the highest standards while enabling the adoption of new methodologies and technologies that modernize research and strengthen outcomes for patients.\n\nTo strengthen our Preclinical Compliance & Safety team within SIS, we are looking for a motivated Technology Support Specialist to advance process automation initiatives in the team with focus on AI and Power Apps to streamline team data flows and metrics generation.\n \nThis two‑year V.I.E. placement at our Janssen Campus in Beerse, Belgium offers a dynamic, fast‑paced environment where you will gain hands‑on experience in the real‑world application of information systems, digital tools, and process optimization. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246779",
-   "score": 28,
-   "label": "Périphérique",
-   "first_seen": "2026-10-12T15:21:50+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 24,
-    "qual": 34,
-    "calc": 9
-   },
-   "dominant_axis": "qual",
-   "matched_families": [
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
-     "weight": 4,
-     "terms": [
-      "automation"
-     ]
-    },
-    {
-     "id": "prod5",
-     "axis": "prod",
-     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
-     "weight": 4,
-     "terms": [
-      "process optimization"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "engineering"
-     ]
-    },
-    {
-     "id": "qual3",
-     "axis": "qual",
-     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
-     "weight": 7,
-     "terms": [
-      "capability"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "compliance",
-      "standards"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "problem solving",
-      "r&d"
-     ]
-    }
-   ],
-   "bonuses": []
   },
   {
    "id": "247493",
@@ -34246,7 +35357,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-15T08:40:23Z",
    "sector": "",
-   "specialization": "60",
+   "specialization": "[\"60\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34644,97 +35755,6 @@
    ]
   },
   {
-   "id": "247506",
-   "title": "Ingénieur R&D Application et Systèmes - Contrôleurs tactiles (H/F)",
-   "company": "STMICROELECTRONICS (GRENOBLE 2) SAS",
-   "country": "COREE DU SUD",
-   "city": "SUWON",
-   "description": "Vous participerez au développement de solutions de nouvelle génération pour les contrôleurs tactiles destinés à différentes applications. Vous intégrerez l’équipe Application des contrôleurs tactiles (Fingertip) au sein de la division Imaging, basée à Séoul, et serez rattaché(e) à l’équipe locale de recherche et de développement. La mission est prévue pour une durée de 18 mois à 24 mois.\n\nVotre rôle consistera notamment à :\n\nConstruire une expertise sur les produits de contrôleurs tactiles et les technologies d'écrans tactiles\nMettre à profit vos connaissances en ingénierie pour concevoir ou faire évoluer des nouvelles solutions techniques de solutions tactiles et améliorer l’expérience utilisateur.\nCoopérer avec d'autres equipes de développement internes et externes a ST sur des sujets d'innovation système\nAssurer un service technique aux équipes locales sur vos développements et les activités de support applicatif (support aux équipes R&D ou de développement des clients d'ST, documentation, firmware et logiciel, réglages et optimisation des écrans, etc.).",
-   "mission": "",
-   "profile": "A propos de vous\n\nDiplôme de niveau Master en physique, informatique ou génie électrique.\n3 ans d’expérience dans les domaines des algorithmes, des applications ou de l’ingénierie de validation (apprentissages et stages inclus).\nSolides compétences en débogage logiciel ainsi que sur matériel analogique et numérique.\nMaîtrise de la programmation en C et Python.\nDes connaissances en sciences des données appliquées aux systèmes embarqués constituent un atout.\nExcellente maîtrise de la suite d’outils Microsoft.\nAnglais professionnel courant.",
-   "duration": 24,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2029-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-26T09:04:05Z",
-   "sector": "",
-   "specialization": "143",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-26T09:04:05Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2029-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-26T00:00:00",
-    "endBroadcastDate": "2026-11-25T00:00:00"
-   },
-   "summary": "Vous participerez au développement de solutions de nouvelle génération pour les contrôleurs tactiles destinés à différentes applications. Vous intégrerez l’équipe Application des contrôleurs tactiles (Fingertip) au sein de la division Imaging, basée à Séoul, et serez rattaché(e) à l’équipe locale de recherche et de développement. La mission est prévue pour une durée de 18 mois à 24 mois.\n\nVotre rôle consistera notamment à :\n\nConstruire une expertise sur les produits de contrôleurs tactiles et les technologies d'écrans tactiles\nMettre à profit vos connaissances en ingénierie pour concevoir ou faire évoluer des nouvelles solutions techniques de solutions tactiles et améliorer l’expérience utilisateur.\nCoopérer avec d'autres equipes de développement internes et externes a ST sur des sujets d'innovation système\nAssurer un service technique aux équipes locales sur vos développements et les activités de support applicatif (support aux équipes R&D ou de développement des clients d'ST, documentation, firmware et logiciel, réglages et optimisation des écrans, etc.).",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/247506",
-   "score": 28,
-   "label": "Périphérique",
-   "first_seen": "2026-10-26T12:59:19+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 10,
-    "qual": 8,
-    "calc": 9
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
-     "weight": 4,
-     "terms": [
-      "python"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "ingenierie"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "validation"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "r&d"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur",
-      "r&d"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "245942",
    "title": "Database & Statistics Engineer (H/F)",
    "company": "SUEZ INTERNATIONAL",
@@ -35004,7 +36024,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-19T13:06:41Z",
    "sector": "",
-   "specialization": "17",
+   "specialization": "[\"17\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -36352,6 +37372,79 @@
      "weight": 2,
      "terms": [
       "validation"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "engineer"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
+   "id": "247700",
+   "title": "DevOps / Cloud / Site Reliability Engineer (H/F)",
+   "company": "ASTEK FRANCE",
+   "country": "CANADA",
+   "city": "MONTREAL -QC",
+   "description": "Ce que nous allons accomplir ensemble : \r\n\r\nTu contribueras à la modernisation et à la fiabilité de plateformes critiques dans un environnement AWS hautement gouverné. Ton expertise permettra d’améliorer l’automatisation, l’observabilité, la résilience et la sécurité, du code jusqu’à la production. \r\n\r\nTa mission (…si tu l’acceptes !) : \r\n\r\nFaire évoluer les pratiques DevOps et SRE en industrialisant les déploiements, l’infrastructure et les opérations cloud afin de rendre les environnements plus fiables, sécurisés et automatisés. \r\n\r\nTon quotidien sera rythmé par : \r\nConcevoir, maintenir et faire évoluer les pipelines CI/CD des applications et plateformes. \r\nAutomatiser le déploiement et la configuration des infrastructures AWS avec Terraform et l’Infrastructure as Code. \r\nAccompagner les équipes de développement dans la conteneurisation et les déploiements sur Kubernetes/EKS ou ECS. \r\nAméliorer l’observabilité, le monitoring, le logging et l’alerting avec CloudWatch et Splunk. \r\nDiagnostiquer et résoudre des incidents complexes dans des environnements de production critiques. \r\nAutomatiser les opérations récurrentes et renforcer la fiabilité des environnements. \r\nContribuer à la sécurisation des secrets, identités, rôles IAM, certificats et accès applicatifs avec HashiCorp Vault. \r\n\r\nTa future équipe : \r\nTu collaboreras étroitement avec les équipes de développement, d’architecture, de sécurité et d’infrastructure. \r\n\r\nTon Stack de Jeu : \r\nAWS : IAM, S3, Lambda, API Gateway, CloudWatch, ECS/EKS, RDS/Aurora, EventBridge/SQS et VPC \r\nTerraform et Infrastructure as Code \r\nDocker, Kubernetes et Helm \r\nGit, GitHub Actions et/ou Jenkins \r\nHashiCorp Vault \r\nCloudWatch et Splunk \r\nLinux, Python et Bash \r\nGitOps, CI/CD et DevSecOps",
+   "mission": "",
+   "profile": "Tu possèdes au moins 3 à d’expérience pertinente en DevOps, Cloud DevOps, SRE ou Platform Engineering. \r\nTu maîtrises AWS, Terraform, Docker et Kubernetes dans des environnements cloud et de production critiques. \r\nTu comprends les concepts de networking, DNS, TLS/certificats, load balancing, API REST, OAuth2/OIDC et IAM/RBAC. \r\nTu sais analyser des logs, métriques et alertes afin de diagnostiquer des incidents complexes en production. \r\nTu maîtrises les pratiques CI/CD, GitOps, Infrastructure as Code et DevSecOps. \r\nTu privilégies l’automatisation et les solutions durables plutôt que les interventions manuelles et les correctifs ponctuels. \r\nTu es autonome et capable de collaborer avec les équipes de développement, d’infrastructure, d’architecture et de sécurité. \r\nUne expérience dans un environnement bancaire ou fortement réglementé ainsi qu’une connaissance du domaine ECM constituent des atouts importants.",
+   "duration": 24,
+   "start_date": "2027-03-01T00:00:00",
+   "end_date": "2029-03-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-29T10:06:40Z",
+   "sector": "",
+   "specialization": "[\"327\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-29T10:06:40Z",
+    "missionStartDate": "2027-03-01T00:00:00",
+    "missionEndDate": "2029-03-01T00:00:00",
+    "startBroadcastDate": "2026-10-29T00:00:00",
+    "endBroadcastDate": "2026-11-28T00:00:00"
+   },
+   "summary": "Ce que nous allons accomplir ensemble : \r\n\r\nTu contribueras à la modernisation et à la fiabilité de plateformes critiques dans un environnement AWS hautement gouverné. Ton expertise permettra d’améliorer l’automatisation, l’observabilité, la résilience et la sécurité, du code jusqu’à la production. \r\n\r\nTa mission (…si tu l’acceptes !) : \r\n\r\nFaire évoluer les pratiques DevOps et SRE en industrialisant les déploiements, l’infrastructure et les opérations cloud afin de rendre les environnements plus fiables, sécurisés et automatisés. \r\n\r\nTon quotidien sera rythmé par : \r\nConcevoir, maintenir et faire évoluer les pipelines CI/CD des applications et plateformes. \r\nAutomatiser le déploiement et la configuration des infrastructures AWS avec Terraform et l’Infrastructure as Code. \r\nAccompagner les équipes de développement dans la conteneurisation et les déploiements sur Kubernetes/EKS ou ECS. \r\nAméliorer l’observabilité, le monitoring, le logging et l’alerting avec CloudWatch et Splunk. \r\nDiagnostiquer et résoudre des incidents complexes dans des environnements de production critiques. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247700",
+   "score": 26,
+   "label": "Périphérique",
+   "first_seen": "2026-10-29T19:37:42+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 10,
+    "qual": 0,
+    "calc": 9
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "calc4",
+     "axis": "calc",
+     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
+     "weight": 4,
+     "terms": [
+      "automatisation",
+      "python"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "engineering"
      ]
     }
    ],
@@ -38254,6 +39347,78 @@
      "label": "Intitulé technique ciblé",
      "terms": [
       "engineer"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
+   "id": "247702",
+   "title": "Ingénieur IAM (H/F)",
+   "company": "ASTEK FRANCE",
+   "country": "LUXEMBOURG",
+   "city": "LUXEMBOURG",
+   "description": "En tant qu’Ingénieur·e IAM Junior, tu participeras à :\n\nL’intégration et la configuration de solutions IAM (Azure AD / Entra ID, SailPoint, CyberArk, OneIdentity selon projets)\n\nLa gestion du cycle de vie des identités (onboarding, offboarding, provisioning automatisé)\n\nLa mise en place de politiques d’accès : RBAC, ABAC, MFA, SSO\n\nL’analyse et la résolution d’incidents liés aux identités et aux accès\n\nLa rédaction de procédures, documentation et bonnes pratiques\n\nLa participation aux projets de transformation IAM (modernisation, automatisation, Zero Trust)",
+   "mission": "",
+   "profile": "Tu es à l’aise si tu as :\n\nUne première expérience (stage, alternance ou 1er emploi) en IAM, AD, sécurité ou administration systèmes\n\nUne bonne compréhension des identités, groupes, droits, authentification\n\nUne appétence pour la cybersécurité et l’automatisation\n\nUne capacité à analyser, documenter et résoudre des problèmes\n\nUn bon relationnel et l’envie d’apprendre vite\n\nLes plus appréciés :\n\nConnaissances PowerShell\n\nNotions sur les protocoles d’authentification\n\nIntérêt pour les architectures Zero Trust\n\nCertification Microsoft (AZ-900, SC-900) ou équivalent",
+   "duration": 12,
+   "start_date": "2027-02-01T00:00:00",
+   "end_date": "2028-02-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-29T10:11:33Z",
+   "sector": "",
+   "specialization": "[\"330\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-29T10:11:33Z",
+    "missionStartDate": "2027-02-01T00:00:00",
+    "missionEndDate": "2028-02-01T00:00:00",
+    "startBroadcastDate": "2026-10-29T00:00:00",
+    "endBroadcastDate": "2026-11-28T00:00:00"
+   },
+   "summary": "En tant qu’Ingénieur·e IAM Junior, tu participeras à :\n\nL’intégration et la configuration de solutions IAM (Azure AD / Entra ID, SailPoint, CyberArk, OneIdentity selon projets)\n\nLa gestion du cycle de vie des identités (onboarding, offboarding, provisioning automatisé)\n\nLa mise en place de politiques d’accès : RBAC, ABAC, MFA, SSO\n\nL’analyse et la résolution d’incidents liés aux identités et aux accès\n\nLa rédaction de procédures, documentation et bonnes pratiques\n\nLa participation aux projets de transformation IAM (modernisation, automatisation, Zero Trust)",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247702",
+   "score": 25,
+   "label": "Périphérique",
+   "first_seen": "2026-10-29T19:37:42+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 0,
+    "qual": 8,
+    "calc": 9
+   },
+   "dominant_axis": "calc",
+   "matched_families": [
+    {
+     "id": "calc4",
+     "axis": "calc",
+     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
+     "weight": 4,
+     "terms": [
+      "automatisation"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "certification"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "ingenieur"
      ],
      "points": 14
     },
