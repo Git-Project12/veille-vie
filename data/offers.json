@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-30T12:53:11+00:00",
+ "generated_at": "2026-10-30T19:21:12+00:00",
  "source": "Business France — mon-vie-via.businessfrance.fr",
- "total_scanned": 917,
- "total_announced": 917,
- "total_kept": 408,
+ "total_scanned": 927,
+ "total_announced": 927,
+ "total_kept": 411,
  "threshold": 25,
  "axes": {
   "rd": {
@@ -558,7 +558,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-27T14:51:22Z",
    "sector": "",
-   "specialization": "68, 150, 208",
+   "specialization": "[\"68\",\"150\",\"208\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -3103,7 +3103,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-29T13:44:29Z",
    "sector": "",
-   "specialization": "110",
+   "specialization": "[\"110\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -3837,7 +3837,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-19T13:48:04Z",
    "sector": "",
-   "specialization": "60, 149, 208, 264",
+   "specialization": "[\"60\",\"149\",\"208\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -4194,7 +4194,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-29T10:41:15Z",
    "sector": "",
-   "specialization": "149",
+   "specialization": "[\"149\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6235,7 +6235,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-13T14:51:48Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6463,7 +6463,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T07:31:41Z",
    "sector": "",
-   "specialization": "206",
+   "specialization": "[\"206\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -7200,7 +7200,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-21T12:15:55Z",
    "sector": "",
-   "specialization": "208",
+   "specialization": "[\"208\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8465,7 +8465,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-13T15:23:11Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9872,7 +9872,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-26T10:16:15Z",
    "sector": "",
-   "specialization": "130",
+   "specialization": "[\"130\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10164,7 +10164,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-23T09:02:41Z",
    "sector": "",
-   "specialization": "52, 66, 114, 115, 143, 148, 153",
+   "specialization": "[\"52\",\"66\",\"114\",\"115\",\"143\",\"148\",\"153\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10254,7 +10254,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-23T07:33:29Z",
    "sector": "",
-   "specialization": "52, 66, 114, 115, 130, 148, 153",
+   "specialization": "[\"52\",\"66\",\"114\",\"115\",\"130\",\"148\",\"153\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10344,7 +10344,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-23T07:15:58Z",
    "sector": "",
-   "specialization": "66",
+   "specialization": "[\"66\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10547,7 +10547,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-21T16:27:04Z",
    "sector": "",
-   "specialization": "2",
+   "specialization": "[\"2\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10773,7 +10773,7 @@
    "expiry_date": "",
    "publish_date": "2025-11-19T10:45:12Z",
    "sector": "",
-   "specialization": "77, 149, 207",
+   "specialization": "[\"77\",\"149\",\"207\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12024,7 +12024,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T08:00:24Z",
    "sector": "",
-   "specialization": "114",
+   "specialization": "[\"114\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12884,7 +12884,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-21T09:50:46Z",
    "sector": "",
-   "specialization": "149",
+   "specialization": "[\"149\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -13175,7 +13175,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-02T09:00:25Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -13261,7 +13261,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-13T12:55:07Z",
    "sector": "",
-   "specialization": "77, 209",
+   "specialization": "[\"77\",\"209\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -13613,7 +13613,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-21T12:36:21Z",
    "sector": "",
-   "specialization": "225",
+   "specialization": "[\"225\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -14158,7 +14158,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-21T08:11:43Z",
    "sector": "",
-   "specialization": "76",
+   "specialization": "[\"76\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -14673,7 +14673,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-20T07:21:11Z",
    "sector": "",
-   "specialization": "149",
+   "specialization": "[\"149\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -15283,7 +15283,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-20T14:14:41Z",
    "sector": "",
-   "specialization": "70",
+   "specialization": "[\"70\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -16226,7 +16226,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-08T11:09:48Z",
    "sector": "",
-   "specialization": "149, 330, 355",
+   "specialization": "[\"149\",\"330\",\"355\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -16400,6 +16400,115 @@
      "label": "Niveau bac+5 / ingénieur annoncé",
      "terms": [],
      "points": 4
+    }
+   ]
+  },
+  {
+   "id": "247763",
+   "title": "PROJECT ENGINEER  (H/F)",
+   "company": "DAHER LOGISTICS",
+   "country": "ETATS-UNIS",
+   "city": "CHARLESTON      -SC-",
+   "description": "DAHER is an industrial group operating in Aircraft Manufacturing, Aerospace Systems & Equipment, Logistics & Services (3PL), and Energy & Industrial Services. \nOur Logistics Division supports major aerospace and industrial clients by providing warehouse operations, manufacturing support, supply chain support and cutting-edge process and storage solutions though “imagineering by DAHER”.\nTo support our international growth, we are offering a VIE opportunity for a Project Engineer to work on continuous improvement and warehouse optimisation projects in the USA.\n\nPOSITION\n\nReporting to the Engineering Manager, your main tasks could include:\n\n• Working on continuous improvement projects, optimising space and workflows.\n• Implementing new storage equipment and overseeing installations.\n• Time measurements and productivity calculations of existing and new activities.\n• Creating and documenting new operational procedures.\n• Training operational staff on new processes and best practices.\n• Optimising existing workflows to improve efficiency and reduce costs.\n\nHOW YOU WILL SUCCEED IN THIS ROLE\n\nYou will be analytically minded but not rigid:\n• Clearly visualising and explaining findings and future improvements.\n• Using data-driven analysis to assess the current state (\"AS-IS\") before implementing changes.\n• Presenting findings to internal and external stakeholders, adapting communication to different audiences.\n• Collaborating with all levels of the organisation, from senior project engineers to shop floor staff.\n• Working closely with customers, requiring strong interpersonal skills.\nThis role is an excellent opportunity to gain hands-on experience in logistics project management while working in an international environment.",
+   "mission": "",
+   "profile": "PROFILE \n\n• Recently graduated (or final year) in Logistics, Supply Chain, Industrial Engineering, or a related field. \n• Strong analytical skills and an interest in process optimisation and continuous improvement. \n• Proficiency in Excel (knowledge of WMS/TMS, SAP/Reflex is a plus). \n• Languages: B1 English minimum (due to frequent customer interactions). \n• Eligible for the VIE (Volontariat International en Entreprise) programme.\n• Willingness to relocate internationally and work in a multicultural environment.\n________________________________________\n\nWHY JOIN US?\n\n• Work abroad in an exciting international setting.\n• Gain hands-on experience in logistics project management and process improvement. \n• Interested? Apply now and be part of DAHER’s growing logistics team!",
+   "duration": 18,
+   "start_date": "2027-04-01T00:00:00",
+   "end_date": "2028-10-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-30T11:27:44Z",
+   "sector": "",
+   "specialization": "[\"109\",\"158\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-30T11:27:44Z",
+    "missionStartDate": "2027-04-01T00:00:00",
+    "missionEndDate": "2028-10-01T00:00:00",
+    "startBroadcastDate": "2026-10-30T00:00:00",
+    "endBroadcastDate": "2026-11-29T00:00:00"
+   },
+   "summary": "DAHER is an industrial group operating in Aircraft Manufacturing, Aerospace Systems & Equipment, Logistics & Services (3PL), and Energy & Industrial Services. \nOur Logistics Division supports major aerospace and industrial clients by providing warehouse operations, manufacturing support, supply chain support and cutting-edge process and storage solutions though “imagineering by DAHER”.\nTo support our international growth, we are offering a VIE opportunity for a Project Engineer to work on continuous improvement and warehouse optimisation projects in the USA.\n\nPOSITION\n\nReporting to the Engineering Manager, your main tasks could include:\n\n• Working on continuous improvement projects, optimising space and workflows.\n• Implementing new storage equipment and overseeing installations.\n• Time measurements and productivity calculations of existing and new activities.\n• Creating and documenting new operational procedures.\n• Training operational staff on new processes and best practices.\n• Optimising existing workflows to improve efficiency and reduce costs. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247763",
+   "score": 35,
+   "label": "À examiner",
+   "first_seen": "2026-10-30T19:20:55+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 83,
+    "qual": 0,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod4",
+     "axis": "prod",
+     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
+     "weight": 10,
+     "terms": [
+      "shop floor"
+     ]
+    },
+    {
+     "id": "prod6",
+     "axis": "prod",
+     "source": "Outils et moyens de fabrication (259-1, 30 h)",
+     "weight": 7,
+     "terms": [
+      "cutting"
+     ]
+    },
+    {
+     "id": "prod5",
+     "axis": "prod",
+     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
+     "weight": 4,
+     "terms": [
+      "productivity"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "continuous improvement",
+      "engineering",
+      "manufacturing"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "engineer"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "aerospace",
+      "energy",
+      "industrial"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    },
+    {
+     "label": "Formation exigée hors cursus : score plafonné",
+     "terms": [
+      "industrial engineering"
+     ],
+     "points": -38,
+     "cap": 35
     }
    ]
   },
@@ -16627,7 +16736,7 @@
    "expiry_date": "",
    "publish_date": "2025-11-12T08:45:10Z",
    "sector": "",
-   "specialization": "149, 208, 209",
+   "specialization": "[\"149\",\"208\",\"209\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -17699,7 +17808,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-10T14:00:20Z",
    "sector": "",
-   "specialization": "73",
+   "specialization": "[\"73\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -18135,7 +18244,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-07T15:09:37Z",
    "sector": "",
-   "specialization": "79, 150, 206, 207, 208",
+   "specialization": "[\"79\",\"150\",\"206\",\"207\",\"208\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19403,7 +19512,7 @@
    "expiry_date": "",
    "publish_date": "2024-06-26T16:57:21Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19492,7 +19601,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-22T14:14:40Z",
    "sector": "",
-   "specialization": "70",
+   "specialization": "[\"70\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20452,6 +20561,79 @@
      "terms": [
       "electronique",
       "informatique"
+     ],
+     "points": -3,
+     "cap": 35
+    }
+   ]
+  },
+  {
+   "id": "247752",
+   "title": "Process Engineer (H/F)",
+   "company": "UCB PHARMA",
+   "country": "BELGIQUE",
+   "city": "BRAINE L ALLEUD",
+   "description": "UCB cherchant à développer son pôle biopharmaceutique en Belgique a besoin de ressources humaines aux compétences spécifiques afin de gérer depuis ce pôle la production de ses produits actifs dans le traitement des maladies auto-immunes. UCB France cherche dès lors à renforcer les compétences locales par des ressources en VIE, dans un but de maîtrise et d'optimisation de la compétitivité de ses productions, distribuées à l'échelle mondiale.\n\nLa principale activité est liée aux opérations de préparations de milieux et tampons (opérations de process support), au sein du Bio Pilot Plant pour la production d'anticorps.\nSous la supervision d’ingénieurs process seniors, l’ingénieur process devra :\n- Implémenter des nouvelles recettes de milieux et tampons au Bio Pilot Plant pour les opérations de process support\n- Collecter des données de process et des équipements à travers des systèmes de contrôle d’équipements, des systèmes de contrôle de l’environnement et au travers des batch records\n- Vérifier la robustesse des données collectées\n- Analyser et présenter les données pour les rendre accessibles aux différentes parties prenantes\n- Organiser les informations générées en rapports (rapport de campagne, investigations,…)\n- Discuter les résultats en les comparant aux données historiques dans le but de suggérer des actions préventives et/ou correctives\n\nLe(la) volontaire sera chargé(e) de :\n- Implémenter des nouvelles recettes de milieux et tampons au Bio Pilot Plant pour les opérations de process support\n- Collecter des données de process et des équipement à travers des systèmes de contrôle d’équipements, des systèmes de contrôle de l’environnement et au travers des batch records.\n- Vérifier la robustesse des données collectées\n- Analyser et présenter les données pour les rendre accessibles aux différentes parties prenantes\n- Organiser les informations générées en rapports (rapport de campagne, investigations,…)\n- Discuter les résultats en les comparant aux données historiques dans le but de suggérer des actions préventives et/ou correctives",
+   "mission": "",
+   "profile": "Votre profil :\nBonne connaissance des procédés biologiques, idéalement en culture cellulaire, et en biochimie (protéines, solutions salines...)\nBonne connaissance de l’environnement GMP et des systèmes automatisés (Batch Management)\nCapacité à analyser les données et bonne connaissance de MS Excel\nEsprit organisé et systématique, avec une capacité à apprendre rapidement et intégrer une grande quantité d’informations\nExcellentes capacités de communication avec différentes parties prenantes et bon esprit d’équipe\nFluent en français et anglais, écrit et parlé\nBonne gestion du temps, proactivité et capacité à respecter les objectifs et étapes importantes\nAutonome, capable de travailler sous supervision limitée\nHabitué à respecter des dates définies et à gérer la pression liée aux activités de production\nFlexible",
+   "duration": 12,
+   "start_date": "2027-03-01T00:00:00",
+   "end_date": "2028-03-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-30T09:15:18Z",
+   "sector": "",
+   "specialization": "[\"113\",\"123\",\"169\",\"256\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-30T09:15:18Z",
+    "missionStartDate": "2027-03-01T00:00:00",
+    "missionEndDate": "2028-03-01T00:00:00",
+    "startBroadcastDate": "2026-10-30T00:00:00",
+    "endBroadcastDate": "2026-11-29T00:00:00"
+   },
+   "summary": "UCB cherchant à développer son pôle biopharmaceutique en Belgique a besoin de ressources humaines aux compétences spécifiques afin de gérer depuis ce pôle la production de ses produits actifs dans le traitement des maladies auto-immunes. UCB France cherche dès lors à renforcer les compétences locales par des ressources en VIE, dans un but de maîtrise et d'optimisation de la compétitivité de ses productions, distribuées à l'échelle mondiale.\n\nLa principale activité est liée aux opérations de préparations de milieux et tampons (opérations de process support), au sein du Bio Pilot Plant pour la production d'anticorps. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247752",
+   "score": 35,
+   "label": "À examiner",
+   "first_seen": "2026-10-30T19:20:55+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 34,
+    "qual": 0,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod4",
+     "axis": "prod",
+     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
+     "weight": 10,
+     "terms": [
+      "plant",
+      "process engineer"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "engineer",
+      "process"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    },
+    {
+     "label": "Formation exigée hors cursus : score plafonné",
+     "terms": [
+      "gestion"
      ],
      "points": -3,
      "cap": 35
@@ -22066,6 +22248,98 @@
    ]
   },
   {
+   "id": "247767",
+   "title": "Ingénieur(e) de projets en électricité (H/F)",
+   "company": "MOONGY",
+   "country": "BELGIQUE",
+   "city": "LIEGE",
+   "description": "agap2 est une société européenne de conseil en ingénierie, active dans différents secteurs industriels tels que les grands projets d’infrastructures, les industries de procédés (sciences de la vie, agroalimentaire, chimie), l’énergie et les transports.\nPrésente dans 13 pays européens et implantée en Belgique depuis 2013, nous collaborons avec des partenaires partout dans le pays, ce qui nous permet de vous proposer des projets proches de votre domicile.\n\nEn tant qu’ingénieur de projets en électricité, vous assurez la gestion et le suivi de l’ensemble du cycle de vie des projets électriques, de la conception et de la planification jusqu’à l’exécution et la mise en service. Vous veillez à ce que les installations électriques respectent les exigences techniques, les normes de sécurité, les délais et les budgets définis.\n\nPrincipales responsabilités\n- Élaborer et vérifier les plans électriques, les schémas et les spécifications techniques.\n- Participer aux études de faisabilité et définir le périmètre ainsi que les exigences des projets.\n- Coordonner les équipes pluridisciplinaires (mécanique, automatisation, construction, utilités…).\n- Préparer les dossiers d’appel d’offres, analyser les offres et participer à la sélection des sous-traitants.\n- Veiller à la bonne réalisation des installations électriques durant les phases de construction et de mise en service.\n- Réaliser des analyses techniques et des évaluations des risques, tout en garantissant le respect des normes applicables (RGIE, IEC…).\n- Assurer le suivi de l’avancement des projets, des budgets et des livrables.\n- Utiliser des logiciels techniques tels qu’EPLAN, Caneco, DIALux et AutoCAD.\n- Apporter un support technique lors des FAT/SAT, des tests, du dépannage et de la validation.\n- Être le point de contact technique auprès des clients, des entrepreneurs et des différentes parties prenantes internes.\n\nPourquoi nous rejoindre ?\n- En tant que consultant, vous bénéficiez d’un package salarial attractif et d’une stabilité contractuelle vous permettant d’aborder votre mission en toute sérénité.\n- Un accompagnement de proximité grâce à un double suivi : l’un assuré par les RH et l’autre par votre Business Manager.\n- Des formations continues sur mesure, adaptées aux besoins et aux objectifs de chacun.\n- Un véritable accélérateur de carrière offrant de nombreuses possibilités d’évolution et de développement.\n- Une culture d’entreprise forte : avant d’être consultant, vous faites avant tout partie de la communauté agap2, au sein de laquelle nous créons régulièrement des moments de rencontre et de convivialité.",
+   "mission": "",
+   "profile": "- Master en ingénieur civil ou industriel en électricité, électromécanique ou dans un domaine connexe.\n- Une première expérience en conception électrique, en ingénierie de projets ou dans le domaine des installations industrielles.\n- Bonne connaissance des systèmes électriques : basse tension, distribution électrique, instrumentation et systèmes de contrôle-commande.\n- Faire preuve d’adaptabilité, d’autonomie et de proactivité pour relever les différents défis liés à nos missions.\n- Assurer une communication claire et une collaboration efficace avec l’ensemble des parties prenantes.\n- Bonne maîtrise professionnelle du français et de l’anglais. La connaissance du néerlandais constitue un atout.",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-30T13:11:18Z",
+   "sector": "",
+   "specialization": "[\"71\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-30T13:11:18Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-30T00:00:00",
+    "endBroadcastDate": "2026-11-29T00:00:00"
+   },
+   "summary": "agap2 est une société européenne de conseil en ingénierie, active dans différents secteurs industriels tels que les grands projets d’infrastructures, les industries de procédés (sciences de la vie, agroalimentaire, chimie), l’énergie et les transports.\nPrésente dans 13 pays européens et implantée en Belgique depuis 2013, nous collaborons avec des partenaires partout dans le pays, ce qui nous permet de vous proposer des projets proches de votre domicile.\n\nEn tant qu’ingénieur de projets en électricité, vous assurez la gestion et le suivi de l’ensemble du cycle de vie des projets électriques, de la conception et de la planification jusqu’à l’exécution et la mise en service. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247767",
+   "score": 32,
+   "label": "Périphérique",
+   "first_seen": "2026-10-30T19:20:55+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 10,
+    "qual": 8,
+    "calc": 9
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "calc4",
+     "axis": "calc",
+     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
+     "weight": 4,
+     "terms": [
+      "automatisation"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "ingenierie",
+      "installations industrielles"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "normes",
+      "validation"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "ingenieur"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "chimie",
+      "energie",
+      "industriel"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
    "id": "247511",
    "title": "Data Engineer (H/F)",
    "company": "MOONGY",
@@ -22080,7 +22354,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-26T10:10:10Z",
    "sector": "",
-   "specialization": "327",
+   "specialization": "[\"327\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22593,7 +22867,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-20T07:14:32Z",
    "sector": "",
-   "specialization": "60, 77, 149, 150, 264",
+   "specialization": "[\"60\",\"77\",\"149\",\"150\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -23267,7 +23541,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-13T13:34:30Z",
    "sector": "",
-   "specialization": "65, 77, 149, 207, 244",
+   "specialization": "[\"65\",\"77\",\"149\",\"207\",\"244\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -23671,7 +23945,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-21T12:18:30Z",
    "sector": "",
-   "specialization": "60",
+   "specialization": "[\"60\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -24626,7 +24900,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-01T07:59:11Z",
    "sector": "",
-   "specialization": "244",
+   "specialization": "[\"244\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -24937,91 +25211,6 @@
    ]
   },
   {
-   "id": "246665",
-   "title": "Site Planning Engineer (H/F)",
-   "company": "ARABELLE SOLUTIONS FRANCE",
-   "country": "ROYAUME-UNI",
-   "city": "BRIDGWATER",
-   "description": "Arabelle Solutions offers a broad portfolio of turbine island technologies and services that are used in more than a third of nuclear power plants globally – helping customers across the world deliver reliable power as they transition to a lower-carbon future. The Arabelle steam turbine is the most advanced of its kind and the company provides turbine island lifecycle support solutions for all nuclear reactor types - improving power output, reducing environmental footprint, and lowering operational cost. Arabelle Solutions has around 3,300 employees across 16 countries and is a subsidiary of EDF Group. \nAt Arabelle Solutions, we’re proud to design services and solutions that are generating power not just for today and tomorrow but for generations to come. You’ll work alongside passionate bright minds. We offer a broad range of opportunities for those eager to build tomorrow’s world. We believe a supportive culture is key to reach common goals. Diversity and an inclusive mindset makes us and our business stronger. \nwww.arabellesolutions.com\nWe are seeking a motivated and enthusiastic VIE to join our team at Hinkley Point C (HPC). As an VIE you will be based at HPC and you will support the Lead site Planner in the preparation of site activity, the coordination on site and interface with both internal and external partners as well as the execution of subcontractors and partners. \nThis outstanding opportunity will give you hands-on experience with real-world projects, whilst enabling you to develop professional skills and build your resume all under the Mentorship and guidance from experienced professionals.\n\nMain Responsibilities:\n• Assist the Lead Site Planner to prepare guidelines for site reporting and coordination.\n• Coordinate and monitor the Subcontractor schedules, and ensure proper interfacing between the various subcontractors and AS schedules, under guidance of the Lead Site Planner.\n• Integrate detailed subcontractor schedule activities into the STS with proper alignment, structure, coding and weighting. under guidance of the Lead Site Planner.\n• Assist the Lead Site Planner on data on preparation the quarterly Construction project review …\n• Generate schedule analysis identifying subcontractor delays, critical paths, recovery plans and acceleration schedules.\n• Support the Site Construction Management team in the preparation of the mitigation plans to minimize impacts: NCR, Punch Items, forensic events\n• Assist the NCC Manager and the Site Contract Manager for the preparation of the claims (planning data) when needed.\n• Support the CMS Planner in the generation of periodic CMS reports.\n• Provide schedule, weighting and progress inputs and updates as required by the CMS Planner\n• Involvement in daily and weekly meetings with Site project shareholders.\n• Hold weekly meeting with EP function\n• Develop KPI's and tracking method where needed\n• Maintain a database for all schedule data and periodic updates.\n• Communicate directly with engineering to clarify any plannification issues\n• Participation in return of experience and process standardisation",
-   "mission": "",
-   "profile": "Qualifications and Experience \n• Engineering degree \n• Fluent in English \n• Strong communicator with the ability to communicate effectively in a number of formats\n• Logical mindset with strong problem solving skills\n• Excellent computer skills in using Office Applications (Excel, Word, Power Point, Planning tool).\n• Previous experience with Primavera Project Planner and other planning tools would be advangeous\n• Attention to detail and a commitment to safety.\nDesired skills\n• Previous internship or work experience in the nuclear industry or a related field would be advantageous but not essential\n• Strong interest in the nuclear services industry and a desire to learn and grow in this field.",
-   "duration": 12,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-05T06:51:18Z",
-   "sector": "",
-   "specialization": "109, 149, 150, 244, 264",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-05T06:51:18Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-07T00:00:00",
-    "endBroadcastDate": "2026-11-06T00:00:00"
-   },
-   "summary": "Arabelle Solutions offers a broad portfolio of turbine island technologies and services that are used in more than a third of nuclear power plants globally – helping customers across the world deliver reliable power as they transition to a lower-carbon future. The Arabelle steam turbine is the most advanced of its kind and the company provides turbine island lifecycle support solutions for all nuclear reactor types - improving power output, reducing environmental footprint, and lowering operational cost. Arabelle Solutions has around 3,300 employees across 16 countries and is a subsidiary of EDF Group. \nAt Arabelle Solutions, we’re proud to design services and solutions that are generating power not just for today and tomorrow but for generations to come. You’ll work alongside passionate bright minds. We offer a broad range of opportunities for those eager to build tomorrow’s world. We believe a supportive culture is key to reach common goals. Diversity and an inclusive mindset makes us and our business stronger. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246665",
-   "score": 30,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 10,
-    "qual": 0,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "engineering"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "problem solving"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineer"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "nuclear"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Aucun terme industriel : score plafonné",
-     "terms": [],
-     "points": -1,
-     "cap": 30
-    }
-   ]
-  },
-  {
    "id": "247721",
    "title": "Water Treatment Engineer (WWT) (H/F)",
    "company": "ARTELIA",
@@ -25318,7 +25507,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-12T21:53:06Z",
    "sector": "",
-   "specialization": "35, 251, 330",
+   "specialization": "[\"35\",\"251\",\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25528,7 +25717,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-05T22:54:27Z",
    "sector": "",
-   "specialization": "35, 251, 327, 329, 330",
+   "specialization": "[\"35\",\"251\",\"327\",\"329\",\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25639,7 +25828,7 @@
    "expiry_date": "",
    "publish_date": "2026-05-12T14:43:27Z",
    "sector": "",
-   "specialization": "5, 21, 49, 86, 125, 144, 150, 155, 208, 209, 244, 256, 262, 264",
+   "specialization": "[\"5\",\"21\",\"49\",\"86\",\"125\",\"144\",\"150\",\"155\",\"208\",\"209\",\"244\",\"256\",\"262\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27616,7 +27805,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T12:21:39Z",
    "sector": "",
-   "specialization": "330",
+   "specialization": "[\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27810,7 +27999,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T09:30:50Z",
    "sector": "",
-   "specialization": "330",
+   "specialization": "[\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -28394,7 +28583,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-21T06:56:59Z",
    "sector": "",
-   "specialization": "86, 123, 125, 150, 256, 264",
+   "specialization": "[\"86\",\"123\",\"125\",\"150\",\"256\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30117,7 +30306,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-28T18:25:06Z",
    "sector": "",
-   "specialization": "52, 63, 118, 125, 168, 225, 256",
+   "specialization": "[\"52\",\"63\",\"118\",\"125\",\"168\",\"225\",\"256\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30913,7 +31102,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-13T10:05:29Z",
    "sector": "",
-   "specialization": "155",
+   "specialization": "[\"155\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33878,7 +34067,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-15T14:49:18Z",
    "sector": "",
-   "specialization": "208",
+   "specialization": "[\"208\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35016,7 +35205,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-15T08:40:23Z",
    "sector": "",
-   "specialization": "60",
+   "specialization": "[\"60\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35066,99 +35255,6 @@
      ],
      "points": 5
     },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
-   "id": "247380",
-   "title": "Data Analyst (H/F)",
-   "company": "SAFRAN CABIN FRANCE",
-   "country": "ETATS-UNIS",
-   "city": "LOS ANGELES  -CA-",
-   "description": "Basé à Los Angeles (Californie), le/la VIE rejoindra la division Cabin Services et contribuera activement à la transformation et à l'optimisation de la performance grâce à la valorisation des données. Ses principales missions seront les suivantes :\n\nCollecter, consolider, nettoyer et structurer des données provenant de multiples sources afin d'en garantir la qualité et la fiabilité.\nConcevoir et développer des tableaux de bord dynamiques ainsi que des indicateurs clés de performance (KPI) permettant d'améliorer le pilotage des activités.\nRéaliser des analyses approfondies pour identifier les tendances, détecter les anomalies et mettre en évidence des opportunités d'amélioration opérationnelle.\nProduire des recommandations basées sur les données pour soutenir la prise de décision et l'amélioration continue des processus.\nCollaborer étroitement avec les équipes métiers afin de comprendre leurs enjeux, recueillir leurs besoins et les traduire en analyses et solutions exploitables.\nParticiper à l'automatisation des reportings et à l'amélioration des outils de suivi de la performance.\nContribuer à la diffusion d'une culture data-driven au sein de l'organisation en promouvant les bonnes pratiques d'analyse et de visualisation des données.",
-   "mission": "",
-   "profile": "Formation et expérience\nDiplôme de niveau Bac+5 (Master ou diplôme d’ingénieur) en Data Science, Statistiques, Business Intelligence ou dans une spécialité liée à la gestion et à l’analyse des données.\nUne première expérience en analyse de données (stage, alternance ou projet significatif) est souhaitée.\n\nCompétences techniques\nMaîtrise des outils d’analyse et de visualisation de données tels qu’Excel, SQL, Power BI ou équivalent.\nUne connaissance des langages de programmation Python et/ou R constitue un atout.\nBonne compréhension des principes de gestion, de qualité et d’exploitation des données.\n\nQualités personnelles\nEsprit analytique, rigueur et sens du détail.\nCuriosité intellectuelle et goût pour la résolution de problèmes.\nExcellentes qualités relationnelles et capacité à collaborer efficacement avec des interlocuteurs variés.\nCapacité à vulgariser des analyses complexes et à formuler des recommandations pertinentes.\n\nLangues\nAnglais courant, à l’écrit comme à l’oral.\n\nEnvironnement de travail\nIntérêt marqué pour les environnements internationaux et multiculturels.\nEnvie d’évoluer dans un contexte stimulant, au contact d’équipes pluridisciplinaires et de contribuer à des projets à forte valeur ajoutée pour l’activité.",
-   "duration": 18,
-   "start_date": "2027-06-01T00:00:00",
-   "end_date": "2028-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-22T09:53:45Z",
-   "sector": "",
-   "specialization": "[\"144\"]",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-22T09:53:45Z",
-    "missionStartDate": "2027-06-01T00:00:00",
-    "missionEndDate": "2028-12-01T00:00:00",
-    "startBroadcastDate": "2026-10-28T00:00:00",
-    "endBroadcastDate": "2026-11-27T00:00:00"
-   },
-   "summary": "Basé à Los Angeles (Californie), le/la VIE rejoindra la division Cabin Services et contribuera activement à la transformation et à l'optimisation de la performance grâce à la valorisation des données. Ses principales missions seront les suivantes :\n\nCollecter, consolider, nettoyer et structurer des données provenant de multiples sources afin d'en garantir la qualité et la fiabilité.\nConcevoir et développer des tableaux de bord dynamiques ainsi que des indicateurs clés de performance (KPI) permettant d'améliorer le pilotage des activités.\nRéaliser des analyses approfondies pour identifier les tendances, détecter les anomalies et mettre en évidence des opportunités d'amélioration opérationnelle.\nProduire des recommandations basées sur les données pour soutenir la prise de décision et l'amélioration continue des processus.\nCollaborer étroitement avec les équipes métiers afin de comprendre leurs enjeux, recueillir leurs besoins et les traduire en analyses et solutions exploitables.\nParticiper à l'automatisation des reportings et à l'amélioration des outils de suivi de la performance. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/247380",
-   "score": 28,
-   "label": "Périphérique",
-   "first_seen": "2026-10-28T19:33:26+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 10,
-    "qual": 34,
-    "calc": 9
-   },
-   "dominant_axis": "qual",
-   "matched_families": [
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
-     "weight": 4,
-     "terms": [
-      "automatisation",
-      "python"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "amelioration continue"
-     ]
-    },
-    {
-     "id": "qual3",
-     "axis": "qual",
-     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
-     "weight": 7,
-     "terms": [
-      "statistiques"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "qualite"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "resolution de problemes"
-     ]
-    }
-   ],
-   "bonuses": [
     {
      "label": "Niveau bac+5 / ingénieur annoncé",
      "terms": [],
@@ -35775,7 +35871,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-19T13:06:41Z",
    "sector": "",
-   "specialization": "17",
+   "specialization": "[\"17\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -36738,6 +36834,97 @@
       "engineer"
      ],
      "points": 14
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
+   "id": "238266",
+   "title": "Adjoint au Responsable des Opérations (H/F)",
+   "company": "UPERGY",
+   "country": "TUNISIE",
+   "city": "MANOUBA",
+   "description": "Qui sommes-nous ?\r\nActeur de la décarbonation et de la transition énergétique, membres de l’association NSE (Nouveaux Systèmes Energétiques). Upergy est un groupe français leader dans la vente de solutions d’énergie mobile et autonome à travers ses marques internationales : Allbatteries, Enix Energies, Enix Power Solutions, 1001 Piles Batteries et Hawk-Woods.\r\n\r\nRejoindre Upergy, c’est rejoindre une équipe de 300 collaborateurs passionnés et engagés, répartis dans nos filiales en France, Tunisie, Chine, Espagne et Royaume-Uni. \r\n\r\nDepuis 1996, Upergy est en constante évolution pour transformer le secteur de l’énergie, et aujourd’hui, nous vous offrons l’opportunité de contribuer à nos projets en tant qu’Adjoint au Responsable des Opérations (H/F) en contrat VIE pour notre site de la Tunisie.\r\n\r\nRattaché(e) directement au Directeur des opérations, vous l’accompagnez dans le pilotage et l’optimisation des activités industrielles du site.\r\n\r\nÀ ce titre, vos principales responsabilités sont les suivantes :\r\n• Contribuer à l’optimisation des processus de production, d’ordonnancement, d’approvisionnement et de logistique.\r\n• Participer aux projets d’amélioration continue visant à optimiser la productivité, la qualité et les coûts de production.\r\n• Contribuer à l’identification et à la mise en œuvre des leviers d’amélioration de la performance industrielle.\r\n• Veiller au respect des règles de sécurité, de qualité et des réglementations applicables.\r\n• Participer aux projets liés à la performance industrielle, à l’optimisation des processus et au développement du site.",
+   "mission": "",
+   "profile": "• Formation Bac+5 (école d’ingénieur, école de commerce ou équivalent universitaire), avec l’envie de développer une expérience internationale dans un environnement industriel dans le cadre d’un Volontariat International en Entreprise (VIE).\r\n• Une première expérience (stage, alternance ou premier emploi) en production, gestion des opérations ou amélioration continue serait appréciée.\r\n• une bonne compréhension des processus industriels et un intérêt pour les sujets liés à la production, l’ordonnancement, l’approvisionnement et la logistique.\r\n• Maitrise des outils informatiques et ERP avec de bonnes capacités d’analyse.\r\n• Un bon relationnel, capable de travailler en transversal avec les différents services du site dans un environnement international.\r\n• Maîtrise de l’anglais professionnel \r\n• Forte appétence pour les enjeux digitaux, la transformation des organisations et la conduite du changement\r\n• Excellentes capacités d’analyse, de synthèse et d’anticipation, avec une posture de business partner\r\n• Leadership reconnu, sens du terrain, pragmatisme et orientation résultats\r\nCe qu’Upergy vous propose :\r\n\r\n• Un environnement de travail stimulant, bienveillant et collaboratif\r\n• Un programme d’intégration structuré pour accompagner votre prise de poste\r\n• Un contexte international et multi-sites, en constante évolution\r\n\r\nUn parcours de recrutement simple et transparent en 3 étapes :\r\n1. Un premier échange téléphonique et/ou mail avec le service RH\r\n2. Un entretien avec le Directeur des opérations\r\n3. Un second entretien avec le Directeur des Ressources Humaines\r\n4. Un retour rapide dans un délai maximum de deux semaines\r\n5. Prêt(e) à embarquer dans l’aventure UPERGY ?\r\n\r\nRejoindre notre groupe, c’est partager nos valeurs : Ensemble, Respect, Convivialité, Ambition, Excellence et Créativité.",
+   "duration": 24,
+   "start_date": "2027-02-01T00:00:00",
+   "end_date": "2029-02-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-03-26T13:23:47Z",
+   "sector": "",
+   "specialization": "[\"130\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-03-26T13:23:47Z",
+    "missionStartDate": "2027-02-01T00:00:00",
+    "missionEndDate": "2029-02-01T00:00:00",
+    "startBroadcastDate": "2026-10-30T00:00:00",
+    "endBroadcastDate": "2026-11-29T00:00:00"
+   },
+   "summary": "Qui sommes-nous ?\r\nActeur de la décarbonation et de la transition énergétique, membres de l’association NSE (Nouveaux Systèmes Energétiques). Upergy est un groupe français leader dans la vente de solutions d’énergie mobile et autonome à travers ses marques internationales : Allbatteries, Enix Energies, Enix Power Solutions, 1001 Piles Batteries et Hawk-Woods.\r\n\r\nRejoindre Upergy, c’est rejoindre une équipe de 300 collaborateurs passionnés et engagés, répartis dans nos filiales en France, Tunisie, Chine, Espagne et Royaume-Uni. \r\n\r\nDepuis 1996, Upergy est en constante évolution pour transformer le secteur de l’énergie, et aujourd’hui, nous vous offrons l’opportunité de contribuer à nos projets en tant qu’Adjoint au Responsable des Opérations (H/F) en contrat VIE pour notre site de la Tunisie.\r\n\r\nRattaché(e) directement au Directeur des opérations, vous l’accompagnez dans le pilotage et l’optimisation des activités industrielles du site.\r\n\r\nÀ ce titre, vos principales responsabilités sont les suivantes : […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/238266",
+   "score": 27,
+   "label": "Périphérique",
+   "first_seen": "2026-10-30T19:20:55+00:00",
+   "axis_scores": {
+    "rd": 11,
+    "prod": 24,
+    "qual": 8,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod5",
+     "axis": "prod",
+     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
+     "weight": 4,
+     "terms": [
+      "productivite"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "amelioration continue"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "qualite"
+     ]
+    },
+    {
+     "id": "rd7",
+     "axis": "rd",
+     "source": "Recyclage des matériaux (8 h), Éco-conception (842-1, 8 h), Enjeux DDRS (838-1, 20 h)",
+     "weight": 4,
+     "terms": [
+      "decarbonation"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "energie",
+      "industriel"
+     ],
+     "points": 5
     },
     {
      "label": "Niveau bac+5 / ingénieur annoncé",
@@ -38889,6 +39076,79 @@
    ]
   },
   {
+   "id": "245623",
+   "title": "Local IT Engineer/Référent IT local (H/F)",
+   "company": "SOGEFI SUSPENSIONS",
+   "country": "ALLEMAGNE",
+   "city": "HAGEN",
+   "description": "1. Support aux utilisateurs\nRéceptionner les demandes et signalements d’incidents informatiques (Ticketing / Helpdesk).\n\nAnalyser les problèmes rencontrés et assister les utilisateurs afin de garantir la continuité des activités.\n\nRéparer les équipements informatiques en remplaçant et en testant les composants défectueux.\n\nInstaller et configurer des équipements de remplacement (matériel et logiciels).\n\nCoordonner les interventions de prestataires externes lorsque nécessaire.\n\nAssurer le suivi des incidents et informer régulièrement les utilisateurs de l’avancement de leur traitement.\n\nPlanifier et réaliser les installations informatiques.\n\nOrganiser les demandes de nouveaux équipements ou de renouvellement du matériel.\n\nEffectuer les tests techniques et former les utilisateurs à l’utilisation des équipements et logiciels installés.\n\nInstaller et assurer le support de diverses applications spécialisées.\n\nEscalader vers les équipes centrales IT en cas de nécessité\n\n2. Maintenance des systèmes\n\nMaintenir en conditions opérationnelles l’ensemble des systèmes informatiques : postes client, serveur, infrastructure réseau (firewall, switch et WIFI), téléphonie, parc d’imprimantes, IOT.\n\nInstaller les mises à jour et correctifs logiciels (Service Packs).\n\nMaintenir les scripts, paramètres et configurations systèmes.\n\nAssurer les sauvegardes régulières, les restauration et tests annuels, et l’ensemble de la documentation s’y reportant\n\nMettre à jour les procédures et documentations informatiques destinées aux équipes IT et aux utilisateurs.\n\nAssurer le respect des standard IT du groupe et la conformités des configurations locales\n\n3. Amélioration continue\n\nPréparer et accompagner le déploiement des projets initiés par l’IT central\n\nMise en place des projet locaux sur la base du processus ISMS de Change Management (approbation du projet, conditions et planning de déploiement, suivi et documentation)\n\n4. Gestion du parc informatique\n\nTenir à jour l’inventaire du matériel informatique.\n\nRéaliser des contrôles ponctuels de présence du matériel avec les responsables de service\n\n5. Cybersécurité et Conformité\n\nVeiller au respect des règles de sécurité, d’ordre et de propreté sur le poste de travail et dans le périmètre d’activité.\n\nAppliquer les exigences de l’ISMS Groupe\n\nDéployer et maintenir les mesures de sécurité (politiques AD, antivirus, patching, MFA, etc…)\n\nParticipation aux audit internes et externes et mise en œuvre des plan d’action",
+   "mission": "",
+   "profile": "Qualifications : \r\n· Langues :\r\nAllemand impératif (langue de travail quotidienne)\r\n\r\n· Diplôme :\r\nTechnicien ou ingénieur en systèmes informatiques, Technicien support informatique, Administrateur systèmes et réseaux ou équivalent.\r\n\r\nFormation complémentaire spécialisée dans le domaine informatique.\r\n\r\n· Expérience :\r\n1 à 3 ans minimum dans un poste similaire.\r\n\r\nMaîtrise du support utilisateurs, de l’administration des postes de travail et de la résolution d’incidents.",
+   "duration": 24,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2029-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-09-04T13:35:59Z",
+   "sector": "",
+   "specialization": "[\"328\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-09-04T13:35:59Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2029-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-30T00:00:00",
+    "endBroadcastDate": "2026-11-29T00:00:00"
+   },
+   "summary": "1. Support aux utilisateurs\nRéceptionner les demandes et signalements d’incidents informatiques (Ticketing / Helpdesk).\n\nAnalyser les problèmes rencontrés et assister les utilisateurs afin de garantir la continuité des activités.\n\nRéparer les équipements informatiques en remplaçant et en testant les composants défectueux.\n\nInstaller et configurer des équipements de remplacement (matériel et logiciels).\n\nCoordonner les interventions de prestataires externes lorsque nécessaire.\n\nAssurer le suivi des incidents et informer régulièrement les utilisateurs de l’avancement de leur traitement.\n\nPlanifier et réaliser les installations informatiques.\n\nOrganiser les demandes de nouveaux équipements ou de renouvellement du matériel.\n\nEffectuer les tests techniques et former les utilisateurs à l’utilisation des équipements et logiciels installés.\n\nInstaller et assurer le support de diverses applications spécialisées.\n\nEscalader vers les équipes centrales IT en cas de nécessité\n\n2. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/245623",
+   "score": 26,
+   "label": "Périphérique",
+   "first_seen": "2026-10-30T19:20:55+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 10,
+    "qual": 8,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "amelioration continue"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "audit",
+      "conformite"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "engineer"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
    "id": "245148",
    "title": "Junior Forward Deployed Engineer (H/F)",
    "company": "YOOBIC FRANCE",
@@ -39106,7 +39366,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-26T08:39:03Z",
    "sector": "",
-   "specialization": "66",
+   "specialization": "[\"66\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -39458,7 +39718,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-12T12:29:13Z",
    "sector": "",
-   "specialization": "7",
+   "specialization": "[\"7\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
