@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-31T15:45:24+00:00",
+ "generated_at": "2026-11-01T16:49:22+00:00",
  "source": "Business France — mon-vie-via.businessfrance.fr",
- "total_scanned": 904,
- "total_announced": 904,
- "total_kept": 404,
+ "total_scanned": 876,
+ "total_announced": 876,
+ "total_kept": 387,
  "threshold": 25,
  "axes": {
   "rd": {
@@ -558,7 +558,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-27T14:51:22Z",
    "sector": "",
-   "specialization": "68, 150, 208",
+   "specialization": "[\"68\",\"150\",\"208\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -869,7 +869,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-23T14:17:00Z",
    "sector": "",
-   "specialization": "77, 169",
+   "specialization": "[\"77\",\"169\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -1146,158 +1146,6 @@
       "aeronautique",
       "defense",
       "industriel"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
-   "id": "246570",
-   "title": "Ingénieur procédés (H/F)",
-   "company": "FAURECIA SIEGES D'AUTOMOBILE",
-   "country": "MEXIQUE",
-   "city": "SAN LUIS POTOSI",
-   "description": "Accompagner la conception et la validation des processus de fabrication pour le lancement de nouveaux produits et les transferts industriels.\nParticiper à la définition des processus, à la conception des postes de travail, aux cahiers des charges d’outillage et à la mise en place des équipements de fabrication.\nContribuer à la standardisation des processus et au déploiement des normes de fabrication FORVIA.\nAnalyser les indicateurs de performance de production et identifier les opportunités d’amélioration liées à la sécurité, à la qualité, aux coûts, aux délais de livraison et à l’environnement (SQCDE).\nDiriger et accompagner des projets d’amélioration continue en utilisant les méthodologies du Lean Manufacturing.\nParticiper à l’analyse des causes profondes et à la mise en œuvre d’actions correctives pour les problèmes de fabrication.\nApporter son soutien à la mise à jour des PFMEA, des plans de contrôle, des instructions de travail et de la documentation des processus.\nParticiper aux activités d’industrialisation pendant les phases de développement des programmes.\nCollaborer avec les équipes de maintenance afin d’améliorer l’efficacité et la fiabilité des équipements.\nContribuer aux initiatives d’amélioration de la productivité, de réduction des déchets et d’optimisation des coûts.\nApporter son soutien aux audits, aux études de capabilité des processus et au respect des exigences des clients, de qualité et réglementaires.\nParticiper à des réunions interfonctionnelles et à des revues techniques avec les parties prenantes internes.\nMener des activités d’analyse comparative et de veille technologique afin d’identifier des solutions de fabrication innovantes.\nPromouvoir une culture de sécurité forte et garantir le respect des exigences HSE.",
-   "mission": "",
-   "profile": "Première expérience acquise dans le cadre de stages, d'apprentissages ou de projets universitaires dans le domaine de la fabrication ou de l'ingénierie industrielle.\nUne connaissance des processus de fabrication automobile est appréciée.\nUne expérience dans le cadre de projets d'amélioration continue, de « Lean Manufacturing » ou de performance industrielle constitue un atout.\nLa connaissance des équipements industriels, des processus d'assemblage, de l'automatisation ou des systèmes de production est un plus.\nMaîtrise des outils qualité et des méthodologies de résolution de problèmes acquise dans le cadre d’activités universitaires ou de projets.\n\nCompétences techniques\nPrincipes fondamentaux de l’ingénierie de fabrication et de l’ingénierie industrielle.\nPrincipes de conception et d’industrialisation des processus.\nMéthodologies de production allégée (5S, Kaizen, cartographie de la chaîne de valeur, travail standardisé).\nTechniques de résolution de problèmes (8D, PDCA, diagramme d’Ishikawa, les 5 « pourquoi »).\n\nConnaissance de l’automatisation industrielle et des équipements de production.\nBonne maîtrise des outils Microsoft Office, en particulier Excel et PowerPoint.\nLa connaissance des logiciels de CAO et des outils de simulation de fabrication constitue un atout.\nCompétences comportementales\nEsprit d'analyse.\nRésolution structurée des problèmes.\nEsprit d'initiative et proactivité.\nCapacité d'apprentissage et curiosité.\nSolides compétences en communication.\nEsprit d'équipe et collaboration.\nCapacité à travailler dans des environnements multiculturels et interfonctionnels.\nLangues\nAnglais (niveau B2 minimum)\n\nLa maîtrise de l’espagnol est considérée comme un atout.",
-   "duration": 12,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-30T15:29:46Z",
-   "sector": "",
-   "specialization": "169",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-30T15:29:46Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-01T00:00:00",
-    "endBroadcastDate": "2026-10-31T00:00:00"
-   },
-   "summary": "Accompagner la conception et la validation des processus de fabrication pour le lancement de nouveaux produits et les transferts industriels.\nParticiper à la définition des processus, à la conception des postes de travail, aux cahiers des charges d’outillage et à la mise en place des équipements de fabrication.\nContribuer à la standardisation des processus et au déploiement des normes de fabrication FORVIA.\nAnalyser les indicateurs de performance de production et identifier les opportunités d’amélioration liées à la sécurité, à la qualité, aux coûts, aux délais de livraison et à l’environnement (SQCDE).\nDiriger et accompagner des projets d’amélioration continue en utilisant les méthodologies du Lean Manufacturing.\nParticiper à l’analyse des causes profondes et à la mise en œuvre d’actions correctives pour les problèmes de fabrication.\nApporter son soutien à la mise à jour des PFMEA, des plans de contrôle, des instructions de travail et de la documentation des processus.\nParticiper aux activités d’industrialisation pendant les phases de développement des programmes. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246570",
-   "score": 84,
-   "label": "Cœur de cible",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 83,
-    "qual": 34,
-    "calc": 29
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "calc2",
-     "axis": "calc",
-     "source": "CAO (278-1, 30 h), Conception mécanique (264-1, 43 h)",
-     "weight": 9,
-     "terms": [
-      "cao"
-     ]
-    },
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
-     "weight": 4,
-     "terms": [
-      "automatisation"
-     ]
-    },
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
-     "weight": 10,
-     "terms": [
-      "industrialisation",
-      "outillage"
-     ]
-    },
-    {
-     "id": "prod3",
-     "axis": "prod",
-     "source": "Assemblage des matériaux (297-2, 30 h)",
-     "weight": 7,
-     "terms": [
-      "assemblage"
-     ]
-    },
-    {
-     "id": "prod5",
-     "axis": "prod",
-     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
-     "weight": 4,
-     "terms": [
-      "5s",
-      "ingenierie industrielle",
-      "kaizen",
-      "lean"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "amelioration continue",
-      "equipements industriels",
-      "fabrication",
-      "ingenierie"
-     ]
-    },
-    {
-     "id": "qual3",
-     "axis": "qual",
-     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
-     "weight": 7,
-     "terms": [
-      "8d",
-      "capabilite"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "normes",
-      "qualite",
-      "validation"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "resolution de problemes"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "automobile"
      ],
      "points": 5
     },
@@ -1690,7 +1538,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-26T19:41:18Z",
    "sector": "",
-   "specialization": "[\"142\"]",
+   "specialization": "142",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -2618,7 +2466,7 @@
    "expiry_date": "",
    "publish_date": "2025-10-08T09:46:46Z",
    "sector": "",
-   "specialization": "77, 149",
+   "specialization": "[\"77\",\"149\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -3103,7 +2951,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-29T13:44:29Z",
    "sector": "",
-   "specialization": "110",
+   "specialization": "[\"110\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -4418,7 +4266,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-28T08:02:43Z",
    "sector": "",
-   "specialization": "149",
+   "specialization": "[\"149\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -4618,7 +4466,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-29T15:13:54Z",
    "sector": "",
-   "specialization": "49, 86, 109, 114, 123, 125, 206, 207, 208, 256, 262",
+   "specialization": "[\"49\",\"86\",\"109\",\"114\",\"123\",\"125\",\"206\",\"207\",\"208\",\"256\",\"262\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -7703,108 +7551,6 @@
    ]
   },
   {
-   "id": "246205",
-   "title": "Site Quality Engineer (H/F)",
-   "company": "GE HYDRO FRANCE",
-   "country": "AUTRICHE",
-   "city": "INNSBRUCK",
-   "description": "Roles & Responsibilities:\r\n• Work with the Project Manager to implement quality plans and procedures.\r\n• Monitor the distribution of documents, measuring instruments, material traceability, and quality records.\r\n• Manage Non-Conformance Management (NCM) registration and resolution.\r\n• Prepare inspection reports and maintain registers for instruments and welder qualifications.\r\n• Supervise inspectors and inspection companies on site.\r\n• Participate in audits and ensure that subcontractors use calibrated instruments.\r\n• Ensure that all special processes are identified and personnel are appropriately qualified.\r\n• Collect and organize quality records for the site quality book.\r\n• Conduct project audits and monitor corrective actions.\r\n• Manage deviations, root cause analyses, and corrective actions.\r\n• Providing QA performance statistics and handling customer complaints\r\n\r\nQualifications / Experiences :\r\nDegree in mechanical engineering. \r\nAbility to work in remote locations within a hydroelectric power plant. \r\nExtensive experience in quality engineering within construction or industrial projects. Sound knowledge of quality management systems and standards. \r\nSkills : \r\nAbility to work effectively in teams\r\nGerman and English skills are compulsory.\r\n1 to 3 years of experience installing heavy machinery. \r\nFriendly personality with quick learning ability. \r\nWillingness to install heavy machinery on construction sites.",
-   "mission": "",
-   "profile": "Degree in mechanical engineering. \nAbility to work in remote locations within a hydroelectric power plant. \nExtensive experience in quality engineering within construction or industrial projects. Sound knowledge of quality management systems and standards.",
-   "duration": 17,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2028-05-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-21T08:41:15Z",
-   "sector": "",
-   "specialization": "77",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-21T08:41:15Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2028-05-01T00:00:00",
-    "startBroadcastDate": "2026-10-01T00:00:00",
-    "endBroadcastDate": "2026-10-31T00:00:00"
-   },
-   "summary": "Roles & Responsibilities:\r\n• Work with the Project Manager to implement quality plans and procedures.\r\n• Monitor the distribution of documents, measuring instruments, material traceability, and quality records.\r\n• Manage Non-Conformance Management (NCM) registration and resolution.\r\n• Prepare inspection reports and maintain registers for instruments and welder qualifications.\r\n• Supervise inspectors and inspection companies on site.\r\n• Participate in audits and ensure that subcontractors use calibrated instruments.\r\n• Ensure that all special processes are identified and personnel are appropriately qualified.\r\n• Collect and organize quality records for the site quality book.\r\n• Conduct project audits and monitor corrective actions.\r\n• Manage deviations, root cause analyses, and corrective actions.\r\n• Providing QA performance statistics and handling customer complaints\r\n\r\nQualifications / Experiences :\r\nDegree in mechanical engineering. \r\nAbility to work in remote locations within a hydroelectric power plant. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246205",
-   "score": 56,
-   "label": "Bonne adéquation",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 45,
-    "qual": 23,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
-     "weight": 10,
-     "terms": [
-      "plant"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "engineering"
-     ]
-    },
-    {
-     "id": "qual2",
-     "axis": "qual",
-     "source": "Qualité et normes (774-1, 14 h, coefficient 0,5)",
-     "weight": 4,
-     "terms": [
-      "quality engineer"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "inspection",
-      "quality",
-      "root cause",
-      "standards"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineer",
-      "quality"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "industrial",
-      "mechanical"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "247318",
    "title": "Ingénieur mécanique (H/F)",
    "company": "MOONGY",
@@ -8029,7 +7775,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-21T08:13:10Z",
    "sector": "",
-   "specialization": "60, 208",
+   "specialization": "[\"60\",\"208\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8882,7 +8628,7 @@
    "expiry_date": "",
    "publish_date": "2026-03-09T15:10:01Z",
    "sector": "",
-   "specialization": "[\"78\"]",
+   "specialization": "78",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9380,95 +9126,6 @@
    ]
   },
   {
-   "id": "246560",
-   "title": "Project Engineer (H/F)",
-   "company": "LESAFFRE INTERNATIONAL",
-   "country": "TURQUIE",
-   "city": "AMASYA",
-   "description": "You will provide on‑site operational support to the Engineering Project Manager during the implementation of the AMASIS project in Turkey.\n\nReporting to a Project Manager in the Group Engineering Department, your main responsibilities will include:\n\n- Producing technical documents (drafting technical specifications and terms of reference),\n- Checking that suppliers’ tenders comply technically with the terms of reference or specifications,\n- Reviewing plans and documents issued by subcontractors and verifying their compliance with process plans (PFDs, PIDs),\n- Monitoring contractors on site (technical, equipment, personnel, health and safety, and scheduling aspects) in accordance with the specifications (quality, costs and deadlines),\n- Analyse deviations and report findings,\n- Attend handover procedures for works and equipment,\n- Participate in the commissioning of installations alongside suppliers and production teams,\n- Update the project’s technical file (supplier documentation, as-built plans, etc.)",
-   "mission": "",
-   "profile": "👀 Who we’re looking for : \n- Graduated from an engineering school, Arts & Métiers or equivalent\n- You have gained some initial experience in a design office, project management or industrial site supervision.\n\nSkills: \n- Your skills and technical sensitivity enable you to be a true hands-on engineer.\n- Solid knowledge of industrial plant and equipment, ideally in the food and drink sector.\n- Ability to work in a multicultural environment on projects requiring autonomy, initiative and team spirit.\n- Your ability to listen and your sense of responsibility enable you to ensure a project runs smoothly.\n- Fluency in English is essential, fluency in Turkish is a plus.",
-   "duration": 24,
-   "start_date": "2027-02-01T00:00:00",
-   "end_date": "2029-02-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-30T12:30:06Z",
-   "sector": "",
-   "specialization": "304",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-30T12:30:06Z",
-    "missionStartDate": "2027-02-01T00:00:00",
-    "missionEndDate": "2029-02-01T00:00:00",
-    "startBroadcastDate": "2026-10-01T00:00:00",
-    "endBroadcastDate": "2026-10-31T00:00:00"
-   },
-   "summary": "You will provide on‑site operational support to the Engineering Project Manager during the implementation of the AMASIS project in Turkey.\n\nReporting to a Project Manager in the Group Engineering Department, your main responsibilities will include:\n\n- Producing technical documents (drafting technical specifications and terms of reference),\n- Checking that suppliers’ tenders comply technically with the terms of reference or specifications,\n- Reviewing plans and documents issued by subcontractors and verifying their compliance with process plans (PFDs, PIDs),\n- Monitoring contractors on site (technical, equipment, personnel, health and safety, and scheduling aspects) in accordance with the specifications (quality, costs and deadlines),\n- Analyse deviations and report findings,\n- Attend handover procedures for works and equipment,\n- Participate in the commissioning of installations alongside suppliers and production teams,\n- Update the project’s technical file (supplier documentation, as-built plans, etc.)",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246560",
-   "score": 52,
-   "label": "Bonne adéquation",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 45,
-    "qual": 8,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
-     "weight": 10,
-     "terms": [
-      "plant"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "engineering"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "compliance",
-      "quality"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineer"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "industrial"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "245981",
    "title": "Ingénieur Projet / Ingénieur Système – Défense (H/F)",
    "company": "MISSION CONSEIL ASSISTANCE INGENIERIE",
@@ -9759,7 +9416,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-29T09:41:27Z",
    "sector": "",
-   "specialization": "[\"207\"]",
+   "specialization": "207",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9961,7 +9618,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-23T09:02:41Z",
    "sector": "",
-   "specialization": "52, 66, 114, 115, 143, 148, 153",
+   "specialization": "[\"52\",\"66\",\"114\",\"115\",\"143\",\"148\",\"153\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10141,7 +9798,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-23T07:15:58Z",
    "sector": "",
-   "specialization": "66",
+   "specialization": "[\"66\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10344,7 +10001,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-21T16:27:04Z",
    "sector": "",
-   "specialization": "[\"2\"]",
+   "specialization": "2",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10570,7 +10227,7 @@
    "expiry_date": "",
    "publish_date": "2025-11-19T10:45:12Z",
    "sector": "",
-   "specialization": "77, 149, 207",
+   "specialization": "[\"77\",\"149\",\"207\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10852,7 +10509,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-20T16:06:13Z",
    "sector": "",
-   "specialization": "68",
+   "specialization": "[\"68\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -11039,7 +10696,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-25T15:02:11Z",
    "sector": "",
-   "specialization": "[]",
+   "specialization": "",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -11510,92 +11167,6 @@
       "mecanique"
      ],
      "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
-   "id": "246585",
-   "title": "Electrical Documentation Engineer (H/F)",
-   "company": "ABYLSEN SIGMA",
-   "country": "ESPAGNE",
-   "city": "BARCELONE",
-   "description": "Nous recrutons un(e) Ingénieur(e) Documentation Électrique pour rédiger les documents techniques sur lesquels s'appuient les équipes terrain afin d'installer, tester et maintenir les turbines en toute sécurité et dans les règles de l'art.\n\nVous ferez le lien entre les ingénieurs qui conçoivent les équipements et les ingénieurs terrain qui interviennent dessus. Votre mission : transformer l'intention de conception en procédures claires, précises et exécutables, et les maintenir à jour au fil de l'évolution de la conception.\n\nResponsabilités principales\n\nCréer, revoir et maîtriser la documentation technique électrique relative à l'installation, à l'achèvement électrique, à la mise en service, aux essais et à la maintenance : instructions de maintenance terrain, analyses de risques et méthodes opératoires (RAMS), procédures, procédures d'essais et listes de contrôle numériques, couvrant les systèmes de puissance, de contrôle-commande et d'instrumentation.\nTransformer les schémas électriques, les schémas de câblage, les spécifications et les avis de modification technique en documents terrain clairs, détaillés étape par étape.\nMaintenir les documents alignés avec la conception au fur et à mesure de son évolution : évaluer l'impact des modifications, réviser, puis rééditer via le processus de gestion des modifications.\nAgir en tant qu'interlocuteur principal entre l'Ingénierie, le HSE, les Opérations terrain, le Support technique, l'Usine et les équipes Projet : recueillir les données techniques et s'assurer que les exigences documentaires sont prises en compte et intégrées.\nIntégrer les exigences de sécurité dans chaque document, en lien étroit avec les équipes HSE : étapes d'isolation électrique et de consignation, avertissements, points d'arrêt, mesures de maîtrise des risques et signalement des situations dangereuses.\nSoutenir les opérations terrain, à distance et sur site si nécessaire, afin que les documents reflètent la réalité opérationnelle. Recueillir les retours des ingénieurs de mise en service et de maintenance, et réintégrer les enseignements tirés dans les documents.\nAdministrer les documents et les flux de travail dans un système de GED et sur des plateformes de formulaires numériques : numérotation, gestion des versions, relecture et approbation, intégrité des données et traçabilité.\nCollaborer avec l'équipe de documentation numérique pour numériser les documents et améliorer les flux de travail.\nGarantir la cohérence de la terminologie, des modèles et des standards de qualité sur l'ensemble de la documentation.\nAssurer la continuité de service pendant les heures ouvrées, ainsi qu'un support d'astreinte occasionnel les week-ends ou jours fériés lorsque les besoins des projets l'exigent.",
-   "mission": "",
-   "profile": "Your profile\r\nYou are an electrical engineer who likes to write, and who can explain a complex task so that someone on a turbine can follow it without ambiguity.\r\n• A degree in electrical engineering or a related field.\r\n• 3 years of experience in technical documentation, procedure writing or commissioning in an electrical environment.\r\n• A solid grasp of electrical power, control and instrumentation systems, and the ability to read schematics, wiring diagrams and specifications.\r\n• Fluent professional English, written and spoken. It is our working language with international stakeholders.\r\n• A genuine taste for writing: precise, structured, plain language.\r\n• Strong communication and conflict-resolution skills. You will be in constant contact with field teams, design engineers, safety specialists and other stakeholders, and you can defend a technical position while finding common ground.\r\n• Rigour and organisation to manage several documents and deadlines at once.\r\n• Experience with an EDMS and document control practices, ideally with digital forms or checklist tools, and comfort with Microsoft Office.\r\n• Awareness of EHS practices and regulatory compliance, and the discipline to apply them in every document.",
-   "duration": 12,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2027-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-01T07:14:59Z",
-   "sector": "",
-   "specialization": "71",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-01T07:14:59Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-10-01T00:00:00",
-    "endBroadcastDate": "2026-10-31T00:00:00"
-   },
-   "summary": "Nous recrutons un(e) Ingénieur(e) Documentation Électrique pour rédiger les documents techniques sur lesquels s'appuient les équipes terrain afin d'installer, tester et maintenir les turbines en toute sécurité et dans les règles de l'art.\n\nVous ferez le lien entre les ingénieurs qui conçoivent les équipements et les ingénieurs terrain qui interviennent dessus. Votre mission : transformer l'intention de conception en procédures claires, précises et exécutables, et les maintenir à jour au fil de l'évolution de la conception.\n\nResponsabilités principales\n\nCréer, revoir et maîtriser la documentation technique électrique relative à l'installation, à l'achèvement électrique, à la mise en service, aux essais et à la maintenance : instructions de maintenance terrain, analyses de risques et méthodes opératoires (RAMS), procédures, procédures d'essais et listes de contrôle numériques, couvrant les systèmes de puissance, de contrôle-commande et d'instrumentation. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246585",
-   "score": 47,
-   "label": "À examiner",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 45,
-    "qual": 8,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
-     "weight": 10,
-     "terms": [
-      "usine"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "engineering",
-      "ingenierie",
-      "methodes"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "compliance",
-      "essais",
-      "qualite",
-      "standards"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineer"
-     ],
-     "points": 14
     },
     {
      "label": "Niveau bac+5 / ingénieur annoncé",
@@ -12505,7 +12076,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-26T09:57:29Z",
    "sector": "",
-   "specialization": "264",
+   "specialization": "[\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12972,7 +12543,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-02T09:00:25Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -13675,7 +13246,7 @@
    "expiry_date": "",
    "publish_date": "2025-10-08T10:46:44Z",
    "sector": "",
-   "specialization": "77, 149, 207",
+   "specialization": "[\"77\",\"149\",\"207\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -14037,7 +13608,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-23T16:36:29Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -14656,7 +14227,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-12T13:36:38Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -15080,7 +14651,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-20T14:14:41Z",
    "sector": "",
-   "specialization": "70",
+   "specialization": "[\"70\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -15153,7 +14724,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-29T09:57:49Z",
    "sector": "",
-   "specialization": "[\"66\"]",
+   "specialization": "66",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -15574,115 +15145,6 @@
    ]
   },
   {
-   "id": "246593",
-   "title": "PLM / Digital Continuity Solution Analyst (H/F)",
-   "company": "CAPGEMINI TECHNOLOGY SERVICES",
-   "country": "ROYAUME-UNI",
-   "city": "LONDRES",
-   "description": "Your role\nAs a PLM / Digital Continuity Solution Analyst, you will support the development of Product Lifecycle Management (PLM) and Digital Continuity solutions for global organizations across a range of industries. Working alongside Solution Architects, Practice Leaders, and Pre-Sales teams, you will contribute to solution development, business analysis, and proposal activities. \nThis role offers an excellent opportunity to build expertise in PLM, Digital Thread, Digital Continuity, and enterprise transformation while developing consulting, analytical, and stakeholder management skills. \nIn this role, you will:\n• Support the development of PLM and Digital Continuity solution proposals and presentations. \n• Analyse client requirements, engineering processes, and business challenges to help shape future solutions. \n• Contribute to process flows, architecture diagrams, solution overviews, and proposal materials. \n• Support bid and pre-sales activities, including RFP and RFI responses. \n• Research technology trends, digital engineering capabilities, and industry developments. \n• Collaborate with Solution Architects, Sales teams, Bid Managers, and subject matter experts. \n• Contribute to knowledge sharing and capability development initiatives.",
-   "mission": "",
-   "profile": "Your profile\r\nYou are analytical, curious, and eager to learn. You enjoy understanding engineering processes, exploring new technologies, and transforming complex information into clear and structured recommendations.\r\n\r\nYou bring\r\n• A Bachelor's or Master's degree in Engineering, Manufacturing, Computer Science, Information Systems, Aerospace, Mechanical Engineering, or a related technical discipline. \r\n• Initial experience through an internship, placement year, graduate project, or early-career role in engineering, technology, consulting, or digital transformation.\r\n• Exposure to PLM, PDM, CAD, ERP, ALM, or engineering data management environments.\r\n• Strong analytical, problem-solving, and communication skills, with the ability to create clear presentations and structured recommendations. \r\n• An interest in PLM, Digital Thread, Digital Twin, Systems Engineering, or enterprise solution architecture\r\n\r\nWhat you'll love about working here\r\n• Open access to digital learning platforms and continuous development opportunities. \r\n• Professional communities to connect, collaborate, and support your career growth. \r\n• Exposure to innovative engineering projects for leading global organizations.\r\n\r\nAbout Capgemini\r\nCapgemini is a global business and technology transformation partner, helping organizations accelerate their dual transition to a digital and sustainable world while creating tangible impact for enterprises and society. It is a responsible and diverse group of more than 340,000 team members in over 50 countries. With its strong over 55-year heritage, Capgemini is trusted by its clients to unlock the value of technology to address the entire breadth of their business needs. It delivers end-to-end services and solutions leveraging strengths from strategy and design to engineering, all fueled by its market-leading capabilities in AI, cloud and data, combined with its deep industry expertise and partner ecosystem.",
-   "duration": 12,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-01T09:19:25Z",
-   "sector": "",
-   "specialization": "29",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-01T09:19:25Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-01T00:00:00",
-    "endBroadcastDate": "2026-10-31T00:00:00"
-   },
-   "summary": "Your role\nAs a PLM / Digital Continuity Solution Analyst, you will support the development of Product Lifecycle Management (PLM) and Digital Continuity solutions for global organizations across a range of industries. Working alongside Solution Architects, Practice Leaders, and Pre-Sales teams, you will contribute to solution development, business analysis, and proposal activities. \nThis role offers an excellent opportunity to build expertise in PLM, Digital Thread, Digital Continuity, and enterprise transformation while developing consulting, analytical, and stakeholder management skills. \nIn this role, you will:\n• Support the development of PLM and Digital Continuity solution proposals and presentations. \n• Analyse client requirements, engineering processes, and business challenges to help shape future solutions. \n• Contribute to process flows, architecture diagrams, solution overviews, and proposal materials. \n• Support bid and pre-sales activities, including RFP and RFI responses. \n• Research technology trends, digital engineering capabilities, and industry developments. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246593",
-   "score": 35,
-   "label": "À examiner",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 10,
-    "qual": 27,
-    "calc": 47
-   },
-   "dominant_axis": "calc",
-   "matched_families": [
-    {
-     "id": "calc1",
-     "axis": "calc",
-     "source": "Éléments finis (256-1, 24 h), TP simulation numérique (272-1, 285-5, 285-4, 63 h), Calculs numériques de mise en forme (277-1, 286-1, 50 h)",
-     "weight": 12,
-     "terms": [
-      "digital twin"
-     ]
-    },
-    {
-     "id": "calc2",
-     "axis": "calc",
-     "source": "CAO (278-1, 30 h), Conception mécanique (264-1, 43 h)",
-     "weight": 9,
-     "terms": [
-      "cad"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "engineering",
-      "manufacturing"
-     ]
-    },
-    {
-     "id": "qual3",
-     "axis": "qual",
-     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
-     "weight": 7,
-     "terms": [
-      "capability"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "problem solving"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "aerospace",
-      "mechanical"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Intitulé de métier du numérique : score plafonné",
-     "terms": [
-      "digital"
-     ],
-     "points": -10,
-     "cap": 35
-    }
-   ]
-  },
-  {
    "id": "247523",
    "title": "INGENIEUR CHEF DE PROJETS ERP (H/F)",
    "company": "CLAYENS",
@@ -16023,7 +15485,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-08T11:09:48Z",
    "sector": "",
-   "specialization": "[\"149\",\"330\",\"355\"]",
+   "specialization": "149, 330, 355",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -16140,7 +15602,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-28T09:16:05Z",
    "sector": "",
-   "specialization": "[\"237\"]",
+   "specialization": "237",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -16435,7 +15897,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-25T09:21:50Z",
    "sector": "",
-   "specialization": "62, 138, 248, 328, 355",
+   "specialization": "[\"62\",\"138\",\"248\",\"328\",\"355\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -16533,7 +15995,7 @@
    "expiry_date": "",
    "publish_date": "2025-11-12T08:45:10Z",
    "sector": "",
-   "specialization": "149, 208, 209",
+   "specialization": "[\"149\",\"208\",\"209\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -18041,7 +17503,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-07T15:09:37Z",
    "sector": "",
-   "specialization": "79, 150, 206, 207, 208",
+   "specialization": "[\"79\",\"150\",\"206\",\"207\",\"208\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -18161,7 +17623,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-28T09:57:45Z",
    "sector": "",
-   "specialization": "29",
+   "specialization": "[\"29\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -18252,7 +17714,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-22T08:22:56Z",
    "sector": "",
-   "specialization": "[\"71\"]",
+   "specialization": "71",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -18361,7 +17823,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-23T16:11:55Z",
    "sector": "",
-   "specialization": "244",
+   "specialization": "[\"244\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19398,7 +18860,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-22T14:14:40Z",
    "sector": "",
-   "specialization": "[\"70\"]",
+   "specialization": "70",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20267,104 +19729,6 @@
    ]
   },
   {
-   "id": "246580",
-   "title": "Ingénieur systèmes embarqués (H/F)",
-   "company": "TLD EUROPE",
-   "country": "ROYAUME-UNI",
-   "city": "BEDFORD",
-   "description": "Dans le cadre du développement de nos nouveaux produits, nous sommes à la recherche d'un(e) Ingénieur(e) Systeme Embarqué H/F en VIE (Volontariat International en Entreprise) pour notre site TLD Powervamp situé à Kempston (Royaume-Uni).\r\nRattaché(e) au Senior Expert Engineer, vous intégrez une équipe d'ingénierie pluridisciplinaire (embarqué, électrique, mécanique) et travaillez en lien étroit avec les concepteurs hardware et les équipes d'ingénierie TLD dans le monde entier.\r\n\r\nA ce titre, vous serez en charge de :\r\n- Concevoir, développer et valider le firmware et les logiciels système des équipements embarqués de la gamme GSE Powervamp.\r\n- Analyser les interactions hardware/software, du niveau signal au comportement du système, pour garantir un fonctionnement fiable sur le terrain.\r\n- Contribuer aux choix d'architecture logicielle, aux spécifications techniques et aux revues de conception.\r\n- Optimiser et maintenir la qualité du code (refactoring, gestion de versions, revues par les pairs).\r\n- Valider vos développements au banc à l'aide d'oscilloscopes et d'analyseurs logiques avant leur déploiement en environnement aéroportuaire.\r\n- Soutenir le développement hardware : layout, conception et validation de PCB, dessins CAO électriques (dont faisceaux de câbles), choix et validation des composants.\r\n- Accompagner le passage du prototype à la production et rédiger la documentation technique du code et de l'architecture système.",
-   "mission": "",
-   "profile": "Issu(e) d'une école d'ingénieurs (Bac+5) en génie électrique ou en informatique, vous justifiez de bonnes bases en C embarqué, idéalement sur composants Microchip 16 et 32 bits. Une expérience sur plateformes STM32/ARM, des connaissances en conception électronique et PCB (ex. Altium Designer) ainsi que la maîtrise de Git/GitHub/GitLab sont des atouts.\r\nUn bon niveau d'anglais (oral et écrit) est indispensable pour ce poste.\r\n\r\nVous faites preuve d'une approche méthodique et rigoureuse : vous lisez les signaux, isolez les causes racines et documentez clairement vos conclusions ?\r\nVous avez l'esprit d'équipe, le sens du terrain et êtes à l'aise pour alterner entre développement de nouveaux produits et maintenance de code legacy ?",
-   "duration": 24,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2028-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-30T15:55:49Z",
-   "sector": "",
-   "specialization": "361",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-30T15:55:49Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2028-12-01T00:00:00",
-    "startBroadcastDate": "2026-10-01T00:00:00",
-    "endBroadcastDate": "2026-10-31T00:00:00"
-   },
-   "summary": "Dans le cadre du développement de nos nouveaux produits, nous sommes à la recherche d'un(e) Ingénieur(e) Systeme Embarqué H/F en VIE (Volontariat International en Entreprise) pour notre site TLD Powervamp situé à Kempston (Royaume-Uni).\r\nRattaché(e) au Senior Expert Engineer, vous intégrez une équipe d'ingénierie pluridisciplinaire (embarqué, électrique, mécanique) et travaillez en lien étroit avec les concepteurs hardware et les équipes d'ingénierie TLD dans le monde entier.\r\n\r\nA ce titre, vous serez en charge de :\r\n- Concevoir, développer et valider le firmware et les logiciels système des équipements embarqués de la gamme GSE Powervamp.\r\n- Analyser les interactions hardware/software, du niveau signal au comportement du système, pour garantir un fonctionnement fiable sur le terrain.\r\n- Contribuer aux choix d'architecture logicielle, aux spécifications techniques et aux revues de conception.\r\n- Optimiser et maintenir la qualité du code (refactoring, gestion de versions, revues par les pairs). […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246580",
-   "score": 35,
-   "label": "À examiner",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 10,
-    "qual": 8,
-    "calc": 20
-   },
-   "dominant_axis": "calc",
-   "matched_families": [
-    {
-     "id": "calc2",
-     "axis": "calc",
-     "source": "CAO (278-1, 30 h), Conception mécanique (264-1, 43 h)",
-     "weight": 9,
-     "terms": [
-      "cao"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "ingenierie"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "qualite",
-      "validation"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "mecanique"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Formation exigée hors cursus : score plafonné",
-     "terms": [
-      "electronique",
-      "informatique"
-     ],
-     "points": -3,
-     "cap": 35
-    }
-   ]
-  },
-  {
    "id": "247752",
    "title": "Process Engineer (H/F)",
    "company": "UCB PHARMA",
@@ -20379,7 +19743,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-30T09:15:18Z",
    "sector": "",
-   "specialization": "[\"113\",\"123\",\"169\",\"256\"]",
+   "specialization": "113, 123, 169, 256",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21682,7 +21046,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-21T09:15:10Z",
    "sector": "",
-   "specialization": "[\"149\",\"195\",\"264\"]",
+   "specialization": "149, 195, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21878,7 +21242,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-30T13:11:18Z",
    "sector": "",
-   "specialization": "71",
+   "specialization": "[\"71\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21970,7 +21334,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-26T10:10:10Z",
    "sector": "",
-   "specialization": "[\"327\"]",
+   "specialization": "327",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22483,7 +21847,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-20T07:14:32Z",
    "sector": "",
-   "specialization": "60, 77, 149, 150, 264",
+   "specialization": "[\"60\",\"77\",\"149\",\"150\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22741,7 +22105,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-27T14:55:20Z",
    "sector": "",
-   "specialization": "[\"168\"]",
+   "specialization": "168",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22996,7 +22360,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-21T14:28:55Z",
    "sector": "",
-   "specialization": "[\"70\"]",
+   "specialization": "70",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -23217,79 +22581,6 @@
      "terms": [
       "industriel",
       "mecanique"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
-   "id": "246604",
-   "title": "Responsable des achats de programmes (H/F)",
-   "company": "FAURECIA SYSTEMES D'ECHAPPEMENT",
-   "country": "TCHEQUIE / REPUBLIQUE TCHEQUE",
-   "city": "MLADA BOLESLAV",
-   "description": "Notre filiale européenne recherche un stagiaire VIE en achats pour son usine de Mlada Boleslav, en République tchèque.\n\n1. Processus d’appel d’offres et sélection des fournisseurs :\n\nSélectionner les fournisseurs en collaboration avec les acheteurs de matières premières et lancer les appels d’offres\nMener les négociations techniques et commerciales avec les fournisseurs\nDiriger le processus de sélection des fournisseurs\n\n2. Développement et exécution des programmes :\n\nAssurer le suivi du calendrier de développement des programmes et veiller au respect des délais de livraison par les fournisseurs\nVeiller à ce que les fournisseurs atteignent les objectifs QCD\nMettre en œuvre les contrats spécifiques aux achats de programmes\nGarantir la montée en puissance de la production des fournisseurs avant le démarrage de la production du programme et le passage à la production en série\n\n3. Gestion de la performance des achats de programmes :\n\nÉvaluation de la stratégie des fournisseurs\nRespect des délais de livraison (étapes clés du programme)\nPerformance économique",
-   "mission": "",
-   "profile": "Quelles sont les conditions requises pour nous rejoindre ?\n\nLa maîtrise de l'anglais est indispensable, car vous serez amené(e) à communiquer avec des personnes du monde entier.\nMaster ou diplôme d'ingénieur en achats\nAu moins 2 à 3 ans d'expérience dans le domaine des achats (de préférence dans le secteur automobile)\nQuel profil recherchons-nous ?\n\nEsprit d’innovation et capacité à formuler des propositions\nCapacité à animer des équipes de travail pluridisciplinaires\nOrientation client (interne et externe)\nMaîtrise de l’outil informatique\nEsprit d’analyse\nCompétences en négociation\nSoif d’apprendre\nOuverture d’esprit, proactivité et autonomie\nCapacité à apporter un regard neuf sur l’organisation actuelle\nEsprit d’équipe et ouverture à l’international\nConnaissance des produits et des technologies\nMaîtrise des processus d’audit des fournisseurs et de la gestion de la qualité",
-   "duration": 12,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-01T15:06:37Z",
-   "sector": "",
-   "specialization": "2",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-01T15:06:37Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-01T00:00:00",
-    "endBroadcastDate": "2026-10-31T00:00:00"
-   },
-   "summary": "Notre filiale européenne recherche un stagiaire VIE en achats pour son usine de Mlada Boleslav, en République tchèque.\n\n1. Processus d’appel d’offres et sélection des fournisseurs :\n\nSélectionner les fournisseurs en collaboration avec les acheteurs de matières premières et lancer les appels d’offres\nMener les négociations techniques et commerciales avec les fournisseurs\nDiriger le processus de sélection des fournisseurs\n\n2. Développement et exécution des programmes :\n\nAssurer le suivi du calendrier de développement des programmes et veiller au respect des délais de livraison par les fournisseurs\nVeiller à ce que les fournisseurs atteignent les objectifs QCD\nMettre en œuvre les contrats spécifiques aux achats de programmes\nGarantir la montée en puissance de la production des fournisseurs avant le démarrage de la production du programme et le passage à la production en série\n\n3. Gestion de la performance des achats de programmes :\n\nÉvaluation de la stratégie des fournisseurs\nRespect des délais de livraison (étapes clés du programme)\nPerformance économique",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246604",
-   "score": 31,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 34,
-    "qual": 8,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
-     "weight": 10,
-     "terms": [
-      "usine"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "audit",
-      "qualite"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "automobile"
      ],
      "points": 5
     },
@@ -23894,7 +23185,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-27T12:50:23Z",
    "sector": "",
-   "specialization": "49, 86, 109, 206, 208, 209, 264",
+   "specialization": "[\"49\",\"86\",\"109\",\"206\",\"208\",\"209\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -24408,132 +23699,6 @@
      "label": "Aucun terme industriel : score plafonné",
      "terms": [],
      "points": -19,
-     "cap": 30
-    }
-   ]
-  },
-  {
-   "id": "246588",
-   "title": "Supply Chain Process Engineer (H/F)",
-   "company": "ALTRAN TECHNOLOGIES",
-   "country": "BELGIQUE",
-   "city": "BRUXELLES",
-   "description": "We are looking for a hands-on Process Supply Chain Engineer to support and optimise vehicle logistics operations within a large automotive hub in Zeebrugge. Working closely with operational teams, you will analyse existing processes, identify improvement opportunities, and implement sustainable solutions that enhance efficiency, quality, and safety.\n\nIn this role you will play a key role in:\n\n- Analysing operational workflows and driving continuous improvement initiatives focused on productivity, efficiency, and service quality across the vehicle logistics hub\n- Monitoring operational KPIs and recommending corrective actions to ensure performance targets are consistently met\n- Collaborating closely with warehouse, yard, and logistics teams to improve vehicle flow and overall operational performance\n- Supporting the implementation of Lean, Kaizen, and operational excellence methodologies to embed a culture of continuous improvement\n- Coordinating improvement projects across departments, engaging stakeholders at all levels and benchmarking against best-in-class industry practices",
-   "mission": "",
-   "profile": "- Master's degree in Engineering, Supply Chain, Logistics, or a related field, with a minimum of 2 years of experience in a process engineering or operational improvement role\n- Solid analytical and problem-solving skills, with the ability to translate data and observations into actionable improvement plans\n- Strong communication and stakeholder management skills, comfortable engaging with both shopfloor teams and senior management\n- A proactive, hands-on, and solution-oriented mindset with a genuine passion for operational excellence and safety\n- Familiarity with Lean, Six Sigma, Kaizen, or other continuous improvement methodologies is a strong advantage\n- Start date: January 2027",
-   "duration": 24,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2029-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-01T07:59:11Z",
-   "sector": "",
-   "specialization": "244",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-01T07:59:11Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2029-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-01T00:00:00",
-    "endBroadcastDate": "2026-10-31T00:00:00"
-   },
-   "summary": "We are looking for a hands-on Process Supply Chain Engineer to support and optimise vehicle logistics operations within a large automotive hub in Zeebrugge. Working closely with operational teams, you will analyse existing processes, identify improvement opportunities, and implement sustainable solutions that enhance efficiency, quality, and safety.\n\nIn this role you will play a key role in:\n\n- Analysing operational workflows and driving continuous improvement initiatives focused on productivity, efficiency, and service quality across the vehicle logistics hub\n- Monitoring operational KPIs and recommending corrective actions to ensure performance targets are consistently met\n- Collaborating closely with warehouse, yard, and logistics teams to improve vehicle flow and overall operational performance\n- Supporting the implementation of Lean, Kaizen, and operational excellence methodologies to embed a culture of continuous improvement\n- Coordinating improvement projects across departments, engaging stakeholders at all levels and benchmarking against best-in-class industry practices",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246588",
-   "score": 30,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 59,
-    "qual": 34,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
-     "weight": 10,
-     "terms": [
-      "process engineer",
-      "process engineering"
-     ]
-    },
-    {
-     "id": "prod5",
-     "axis": "prod",
-     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
-     "weight": 4,
-     "terms": [
-      "kaizen",
-      "lean",
-      "productivity"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "continuous improvement",
-      "engineering"
-     ]
-    },
-    {
-     "id": "qual3",
-     "axis": "qual",
-     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
-     "weight": 7,
-     "terms": [
-      "six sigma"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "quality"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "problem solving"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineer",
-      "process"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "automotive"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Aucun terme industriel : score plafonné",
-     "terms": [],
-     "points": -38,
      "cap": 30
     }
    ]
@@ -26195,484 +25360,6 @@
    ]
   },
   {
-   "id": "246579",
-   "title": "AI Software Engineer – Aero (H/F)",
-   "company": "CS GROUP - FRANCE",
-   "country": "CANADA",
-   "city": "MONTREAL -QC",
-   "description": "Rejoignez notre équipe au Canada et participez au développement de solutions combinant IA générative, LLM, agents IA et systèmes distribués.\n\nCette mission VIE offre l’opportunité de travailler sur des projets technologiques à forte valeur ajoutée, notamment autour de l’intelligence artificielle, des grands modèles de langage (LLM) et des systèmes distribués, en collaboration avec des équipes multidisciplinaires.\n\nResponsabilités\nParticiper à la conception et à la mise en œuvre d’architectures logicielles robustes et maintenables.\nIntervenir à toutes les étapes du cycle de développement logiciel, incluant l’analyse des besoins, la conception, le développement, les essais, l’intégration et la maintenance.\nAppliquer les normes de codage, les procédures d’assurance qualité et les meilleures pratiques en génie logiciel.\nDévelopper des solutions logicielles adaptées aux besoins réels des utilisateurs en collaboration avec des équipes multidisciplinaires.\nContribuer au maintien et au déploiement des applications logicielles.\nParticiper à l’intégration de fonctionnalités basées sur l’intelligence artificielle au sein de logiciels en production.",
-   "mission": "",
-   "profile": "Expérience en développement logiciel orienté objet.\nMaîtrise des langages de programmation Python et Java.\nExpérience dans le développement d’applications distribuées.\nConnaissance de l’intégration d’agents d’intelligence artificielle ou de grands modèles de langage (LLM) dans des applications logicielles.\nConnaissance des architectures de génération augmentée par récupération (RAG).\nUne connaissance des flux de travail d’agents IA, des plateformes d’intégration de modèles ou des cadres d’orchestration de l’IA constitue un atout.\nMaîtrise des environnements Linux et Windows.\nUne connaissance des technologies de conteneurisation, telles que Docker, constitue un atout.\nExcellentes capacités d’analyse et de résolution de problèmes.",
-   "duration": 24,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2029-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-30T15:53:44Z",
-   "sector": "",
-   "specialization": "251, 330",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-30T15:53:44Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2029-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-01T00:00:00",
-    "endBroadcastDate": "2026-10-31T00:00:00"
-   },
-   "summary": "Rejoignez notre équipe au Canada et participez au développement de solutions combinant IA générative, LLM, agents IA et systèmes distribués.\n\nCette mission VIE offre l’opportunité de travailler sur des projets technologiques à forte valeur ajoutée, notamment autour de l’intelligence artificielle, des grands modèles de langage (LLM) et des systèmes distribués, en collaboration avec des équipes multidisciplinaires.\n\nResponsabilités\nParticiper à la conception et à la mise en œuvre d’architectures logicielles robustes et maintenables.\nIntervenir à toutes les étapes du cycle de développement logiciel, incluant l’analyse des besoins, la conception, le développement, les essais, l’intégration et la maintenance.\nAppliquer les normes de codage, les procédures d’assurance qualité et les meilleures pratiques en génie logiciel.\nDévelopper des solutions logicielles adaptées aux besoins réels des utilisateurs en collaboration avec des équipes multidisciplinaires.\nContribuer au maintien et au déploiement des applications logicielles. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246579",
-   "score": 30,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 0,
-    "qual": 23,
-    "calc": 9
-   },
-   "dominant_axis": "qual",
-   "matched_families": [
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
-     "weight": 4,
-     "terms": [
-      "python"
-     ]
-    },
-    {
-     "id": "qual2",
-     "axis": "qual",
-     "source": "Qualité et normes (774-1, 14 h, coefficient 0,5)",
-     "weight": 4,
-     "terms": [
-      "assurance qualite"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "essais",
-      "normes",
-      "qualite"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "resolution de problemes"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineer"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Aucun terme industriel : score plafonné",
-     "terms": [],
-     "points": -5,
-     "cap": 30
-    }
-   ]
-  },
-  {
-   "id": "246576",
-   "title": "Ingénieur logiciel - IA Advanced Mobility (H/F)",
-   "company": "CS GROUP - FRANCE",
-   "country": "CANADA",
-   "city": "MONTREAL -QC",
-   "description": "Rejoignez notre équipe au Canada et participez au développement de solutions combinant IA générative, LLM, agents IA et systèmes distribués.\n\nCette mission VIE offre l’opportunité de travailler sur des projets technologiques à forte valeur ajoutée, notamment autour de l’intelligence artificielle, des grands modèles de langage (LLM) et des systèmes distribués, en collaboration avec des équipes multidisciplinaires.\n\nResponsabilités\n\nParticiper à la conception et à la mise en œuvre d’architectures logicielles maintenables et évolutives.\nIntervenir à toutes les étapes du cycle de développement logiciel : analyse des besoins, conception, développement, tests, intégration, déploiement et maintenance.\nAppliquer les standards de développement, les processus d’assurance qualité et les bonnes pratiques en ingénierie logicielle.\nCollaborer avec des équipes multidisciplinaires afin de développer des solutions logicielles adaptées aux cas d’utilisation et aux besoins opérationnels réels.\nParticiper aux activités de maintenance, de dépannage, d’intégration et de déploiement des logiciels.\nContribuer à l’intégration de fonctionnalités basées sur l’intelligence artificielle dans des logiciels destinés à la production.\nParticiper au développement d’applications et de systèmes distribués.",
-   "mission": "",
-   "profile": "Expérience en développement logiciel orienté objet.\nMaîtrise des langages de programmation Python et Java.\nExpérience dans le développement d’applications distribuées.\nConnaissance de l’intégration d’agents d’intelligence artificielle et/ou de grands modèles de langage (LLM) dans des applications logicielles.\nConnaissance des flux de travail d’agents IA, des plateformes d’intégration de modèles ou des frameworks d’orchestration IA, gestion et de l’optimisation de la consommation de tokens.\nConnaissance des architectures RAG (Retrieval-Augmented Generation).\nConnaissance des technologies de conteneurisation, notamment Docker.\nBonne maîtrise des environnements Linux et Windows.\nExcellentes capacités d’analyse, de résolution de problèmes et de diagnostic.\nCapacité à travailler efficacement au sein d’une équipe multidisciplinaire et collaborative.",
-   "duration": 24,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2029-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-30T15:45:16Z",
-   "sector": "",
-   "specialization": "251, 330",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-30T15:45:16Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2029-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-01T00:00:00",
-    "endBroadcastDate": "2026-10-31T00:00:00"
-   },
-   "summary": "Rejoignez notre équipe au Canada et participez au développement de solutions combinant IA générative, LLM, agents IA et systèmes distribués.\n\nCette mission VIE offre l’opportunité de travailler sur des projets technologiques à forte valeur ajoutée, notamment autour de l’intelligence artificielle, des grands modèles de langage (LLM) et des systèmes distribués, en collaboration avec des équipes multidisciplinaires.\n\nResponsabilités\n\nParticiper à la conception et à la mise en œuvre d’architectures logicielles maintenables et évolutives.\nIntervenir à toutes les étapes du cycle de développement logiciel : analyse des besoins, conception, développement, tests, intégration, déploiement et maintenance.\nAppliquer les standards de développement, les processus d’assurance qualité et les bonnes pratiques en ingénierie logicielle.\nCollaborer avec des équipes multidisciplinaires afin de développer des solutions logicielles adaptées aux cas d’utilisation et aux besoins opérationnels réels.\nParticiper aux activités de maintenance, de dépannage, d’intégration et de déploiement des logiciels. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246576",
-   "score": 30,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 10,
-    "qual": 23,
-    "calc": 9
-   },
-   "dominant_axis": "qual",
-   "matched_families": [
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
-     "weight": 4,
-     "terms": [
-      "python"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "ingenierie"
-     ]
-    },
-    {
-     "id": "qual2",
-     "axis": "qual",
-     "source": "Qualité et normes (774-1, 14 h, coefficient 0,5)",
-     "weight": 4,
-     "terms": [
-      "assurance qualite"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "qualite",
-      "standards"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "resolution de problemes"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Aucun terme industriel : score plafonné",
-     "terms": [],
-     "points": -6,
-     "cap": 30
-    }
-   ]
-  },
-  {
-   "id": "246573",
-   "title": "INGÉNIEUR ÉTUDE EN DÉVELOPPEMENT, VÉRIFICATION ET VALIDATION DE LOGICIEL EN SYSTÈMES (H/F)",
-   "company": "CS GROUP - FRANCE",
-   "country": "CANADA",
-   "city": "MONTREAL -QC",
-   "description": "Présentation de la société :\n\nCS Group Canada, une filiale de CS Group, est un chef de file dans le développement et la certification de systèmes essentiels à la sécurité dans les industries de l'aérospatiale, de l'électricité et de la conduite autonome, et la Cybersécurité pour les entreprises développant des technologies embarquées critiques. Nos clients sont des OEM et des fournisseurs de premier rang dans les secteurs aérospatial, automobile, de la défense et ferroviaire, cherchant à obtenir les certifications de Sécurité Fonctionnelle (ISO 26262, DO-178C, DO-254, ARP-4761, ARP-4754, EN50128) et de cybersécurité (DO-326A, ISO 21434, UN-R155) pour commercialiser leurs technologies Description du post : CS Group Canada offre l'opportunité de rejoindre un groupe dynamique évoluant dans un secteur en constante croissance et de vivre l'expérience canadienne via un VIE pendant 2 ans.\n\nNous sommes à la recherche d'un Ingénieur Étude en Développement, Vérification et Validation de logiciel en systèmes embarqués.\n\nPoste et missions :\n\nLe candidat idéal aura 3 années d'expérience avec une bonne connaissance de l’ensemble du cycle en V. Missions principales :\n\nActivités de développement Contribuer à la préparation du plan de développement technique; Soutenir l'architecture logicielle de haut niveau d'un logiciel embarqué (en conformité avec la norme de développement DO-178C) ;\nRéaliser les différentes étapes du développement formel de logiciels (spécification, conception des composants et modules, codage et vérification) ;\nActivités de vérification et validation :\n\nEffectuer les tests logiciels conformément à la norme DO-178.\nDévelopper et exécuter les tests pertinents sur les plateformes de test afin de vérifier la justesse de la conception.\nAider à la traçabilité entre la conception logicielle et les tests.\nAider à la rédaction des documents techniques finaux.\nFournir un état clair et une charge de travail à votre responsable.\nParticiper à l'amélioration continue de la performance de l'équipe (qualité, efficacité, respect des délais).",
-   "mission": "",
-   "profile": "Diplôme en ingénierie étude, aéronautique, systèmes et réseaux ou domaine connexe.\n3 ans d'expérience en développement, en vérification et validation de logiciels embarqués\nConnaissance de la norme DO-178 C / DO-178B\nBonnes connaissances de Matlab/Simulink\nConnaissance des outils de tests Rational RTRT et/ou LDRA\nBonnes connaissances des protocoles de communication ARINC 429, CANbus et Power PC\nConnaissance du langage de programmation C",
-   "duration": 24,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2029-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-30T15:40:04Z",
-   "sector": "",
-   "specialization": "213, 251, 330",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-30T15:40:04Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2029-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-01T00:00:00",
-    "endBroadcastDate": "2026-10-31T00:00:00"
-   },
-   "summary": "Présentation de la société :\n\nCS Group Canada, une filiale de CS Group, est un chef de file dans le développement et la certification de systèmes essentiels à la sécurité dans les industries de l'aérospatiale, de l'électricité et de la conduite autonome, et la Cybersécurité pour les entreprises développant des technologies embarquées critiques. Nos clients sont des OEM et des fournisseurs de premier rang dans les secteurs aérospatial, automobile, de la défense et ferroviaire, cherchant à obtenir les certifications de Sécurité Fonctionnelle (ISO 26262, DO-178C, DO-254, ARP-4761, ARP-4754, EN50128) et de cybersécurité (DO-326A, ISO 21434, UN-R155) pour commercialiser leurs technologies Description du post : CS Group Canada offre l'opportunité de rejoindre un groupe dynamique évoluant dans un secteur en constante croissance et de vivre l'expérience canadienne via un VIE pendant 2 ans.\n\nNous sommes à la recherche d'un Ingénieur Étude en Développement, Vérification et Validation de logiciel en systèmes embarqués. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246573",
-   "score": 30,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 10,
-    "qual": 8,
-    "calc": 9
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
-     "weight": 4,
-     "terms": [
-      "matlab"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "amelioration continue",
-      "ingenierie"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "certification",
-      "conformite",
-      "qualite",
-      "validation"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "aeronautique",
-      "automobile",
-      "defense"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Aucun terme industriel : score plafonné",
-     "terms": [],
-     "points": -2,
-     "cap": 30
-    }
-   ]
-  },
-  {
-   "id": "246572",
-   "title": "ISO 21434 Cybersecurity Engineer (H/F)",
-   "company": "CS GROUP - FRANCE",
-   "country": "CANADA",
-   "city": "MONTREAL -QC",
-   "description": "Dans le cadre du développement de systèmes embarqués pour véhicules électriques et autonomes, vous contribuerez aux activités de cybersécurité automobile conformément à la norme ISO/SAE 21434, en support des équipes projet et des experts cybersécurité.\n\nResponsabilités principales\n\nParticiper à la mise en œuvre des activités de cybersécurité tout au long du cycle de développement produit conformément à l’ISO/SAE 21434.\nContribuer à l’analyse des exigences de cybersécurité et à leur déclinaison aux niveaux système, logiciel et matériel.\nParticiper aux activités d’analyse de risques cybersécurité (TARA – Threat Analysis and Risk Assessment) sous supervision d’experts.\nAider à l’identification des menaces, scénarios d’attaque et niveaux de risque associés aux systèmes embarqués.\nContribuer à la définition et au suivi des mesures de mitigation (cybersecurity controls) et exigences de sécurité.\nParticiper à la rédaction, la mise à jour et la traçabilité des livrables de cybersécurité.\nSupporter la mise en œuvre des concepts de sécurité (security concepts) et des exigences associées.\nContribuer aux activités de validation cybersécurité et aux revues techniques.\nParticiper à la préparation des dossiers de conformité et à la documentation pour audits internes ou clients.\nCollaborer avec les équipes systèmes, software, hardware et validation afin d’assurer l’intégration des exigences de cybersécurité.",
-   "mission": "",
-   "profile": "Formation en ingénierie (cybersécurité, systèmes embarqués, logiciel, électronique ou équivalent).\nIntérêt ou première expérience en cybersécurité embarquée ou automobile.\nConnaissances de base des concepts de sécurité (menaces, vulnérabilités, risques) appréciées.\nFamiliarité avec les normes ISO/SAE 21434 ou ISO 26262 est un atout.\nEsprit analytique, rigueur et capacité à travailler en environnement multi-équipe.\nBon niveau d’anglais technique requis.",
-   "duration": 24,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2029-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-30T15:36:59Z",
-   "sector": "",
-   "specialization": "213, 251, 330",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-30T15:36:59Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2029-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-01T00:00:00",
-    "endBroadcastDate": "2026-10-31T00:00:00"
-   },
-   "summary": "Dans le cadre du développement de systèmes embarqués pour véhicules électriques et autonomes, vous contribuerez aux activités de cybersécurité automobile conformément à la norme ISO/SAE 21434, en support des équipes projet et des experts cybersécurité.\n\nResponsabilités principales\n\nParticiper à la mise en œuvre des activités de cybersécurité tout au long du cycle de développement produit conformément à l’ISO/SAE 21434.\nContribuer à l’analyse des exigences de cybersécurité et à leur déclinaison aux niveaux système, logiciel et matériel.\nParticiper aux activités d’analyse de risques cybersécurité (TARA – Threat Analysis and Risk Assessment) sous supervision d’experts.\nAider à l’identification des menaces, scénarios d’attaque et niveaux de risque associés aux systèmes embarqués.\nContribuer à la définition et au suivi des mesures de mitigation (cybersecurity controls) et exigences de sécurité.\nParticiper à la rédaction, la mise à jour et la traçabilité des livrables de cybersécurité.\nSupporter la mise en œuvre des concepts de sécurité (security concepts) et des exigences associées. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246572",
-   "score": 30,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 10,
-    "qual": 8,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "developpement produit",
-      "ingenierie"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "conformite",
-      "normes",
-      "validation"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineer"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "automobile"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Aucun terme industriel : score plafonné",
-     "terms": [],
-     "points": -1,
-     "cap": 30
-    }
-   ]
-  },
-  {
-   "id": "246571",
-   "title": "ISO 26262 Functional Safety Engineer (H/F)",
-   "company": "CS GROUP - FRANCE",
-   "country": "CANADA",
-   "city": "MONTREAL -QC",
-   "description": "Nous recherchons un Ingénieur Sûreté de Fonctionnement (FuSa Engineer) pour contribuer aux activités de sécurité fonctionnelle sur des systèmes embarqués complexes destinés aux véhicules électriques et autonomes. Sous la supervision d'experts en sécurité fonctionnelle, vous participerez à la mise en œuvre des exigences ISO 26262 tout au long du cycle de développement produit.",
-   "mission": "",
-   "profile": "Formation en ingénierie (électronique, logiciel embarqué, systèmes embarqués ou domaine connexe).\nConnaissance des principes de sécurité fonctionnelle et de la norme ISO 26262.\nPremière expérience ou stage dans le développement de systèmes embarqués, idéalement dans le secteur automobile.\nConnaissance des analyses de sûreté de fonctionnement (FMEA, FTA, HARA, FMEDA) appréciée.\nBonnes capacités d'analyse, de rédaction technique et de travail en équipe.\nAnglais professionnel requis.",
-   "duration": 24,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2029-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-30T15:33:14Z",
-   "sector": "",
-   "specialization": "251, 330",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-30T15:33:14Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2029-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-01T00:00:00",
-    "endBroadcastDate": "2026-10-31T00:00:00"
-   },
-   "summary": "Nous recherchons un Ingénieur Sûreté de Fonctionnement (FuSa Engineer) pour contribuer aux activités de sécurité fonctionnelle sur des systèmes embarqués complexes destinés aux véhicules électriques et autonomes. Sous la supervision d'experts en sécurité fonctionnelle, vous participerez à la mise en œuvre des exigences ISO 26262 tout au long du cycle de développement produit.",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246571",
-   "score": 30,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 10,
-    "qual": 27,
-    "calc": 0
-   },
-   "dominant_axis": "qual",
-   "matched_families": [
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "developpement produit",
-      "ingenierie"
-     ]
-    },
-    {
-     "id": "qual3",
-     "axis": "qual",
-     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
-     "weight": 7,
-     "terms": [
-      "fmea"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineer"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "automobile"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Aucun terme industriel : score plafonné",
-     "terms": [],
-     "points": -12,
-     "cap": 30
-    }
-   ]
-  },
-  {
    "id": "231372",
    "title": "INGÉNIEUR HVAC H/F (H/F)",
    "company": "EFE INTERNATIONAL",
@@ -26687,7 +25374,7 @@
    "expiry_date": "",
    "publish_date": "2025-09-30T14:46:47Z",
    "sector": "",
-   "specialization": "[\"62\",\"71\",\"77\",\"161\"]",
+   "specialization": "62, 71, 77, 161",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27526,7 +26213,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T09:30:50Z",
    "sector": "",
-   "specialization": "330",
+   "specialization": "[\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29625,7 +28312,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-21T04:54:54Z",
    "sector": "",
-   "specialization": "[\"149\",\"327\",\"328\",\"329\"]",
+   "specialization": "149, 327, 328, 329",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29738,7 +28425,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-28T18:25:06Z",
    "sector": "",
-   "specialization": "[\"52\",\"63\",\"118\",\"125\",\"168\",\"225\",\"256\"]",
+   "specialization": "52, 63, 118, 125, 168, 225, 256",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29904,336 +28591,6 @@
      "label": "Aucun terme industriel : score plafonné",
      "terms": [],
      "points": -16,
-     "cap": 30
-    }
-   ]
-  },
-  {
-   "id": "242637",
-   "title": "INGENIEUR IVVQ (H/F)",
-   "company": "SCALIAN",
-   "country": "BELGIQUE",
-   "city": "BRUXELLES",
-   "description": "À propos de Scalian\nRejoignez Scalian, où depuis plus de 30 ans, l'innovation et l'expertise se rejoignent.\nEn tant que cabinet de conseil en ingénierie multinational de premier plan, nous comptons plus de 6000 spécialistes hautement qualifiés.\nNotre concentration sur l'IT et la OT, comprenant l'informatique, l'ingénierie logicielle et des systèmes, l'assurance qualité, la gestion de la chaîne d'approvisionnement et la gestion de projets, nous distingue dans l'industrie.\n\nDescription du projet \nDans le cadre du développement de systèmes complexes et critiques, vous interviendrez au sein d’équipes d’ingénierie sur des projets à forte dimension technologique.\nVous participerez aux activités d’intégration, de vérification, de validation et de qualification, depuis la phase de spécification jusqu’aux essais et à la mise en service.\nLes environnements techniques peuvent inclure des systèmes embarqués temps réel, des systèmes de signalisation ferroviaire, des systèmes de défense ou des architectures électroniques et logicielles critiques.\n\nVos missions : \n- Intégration \nPréparer et exécuter les activités d’intégration système et/ou logiciel \nAssembler les composants (logiciels, matériels) selon les architectures définies \nIdentifier et analyser les anomalies d’intégration \nAssurer la cohérence des environnements de test \n\n- Vérification\n Rédiger et exécuter les procédures de test (tests fonctionnels, techniques, automatisés) \nVérifier la conformité du système par rapport aux spécifications \nAnalyser les résultats et documenter les écarts Participer à la gestion des faits techniques \n\n- Validation \nS’assurer que le système répond au besoin utilisateur \nParticiper aux campagnes de validation avec le client \nDéfinir les scénarios d’usage et cas métiers \n\n- Qualification \nContribuer à la démonstration de conformité réglementaire \nProduire les livrables de qualification (rapports, matrices de traçabilité) \nParticiper aux audits et revues qualité \n\n- Activités transverses \nGestion des exigences (outil type DOORS) \nTraçabilité exigences ↔ tests ↔ anomalies \nParticipation aux revues projet (revues IVVQ, jalons qualité) \nAmélioration continue des processus IVVQ \nCollaboration avec équipes système, logiciel, hardware et sûreté",
-   "mission": "",
-   "profile": "Bac+5 en systèmes embarqués\nExpérience en développement embarqué (stage accepté)\nBonne maîtrise de C / C++ et Linux\nConnaissances en systèmes temps réel (RTOS) et concurrence\nEsprit analytique, rigueur, goût pour les défis techniques",
-   "duration": 18,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2028-06-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-04-27T13:31:01Z",
-   "sector": "",
-   "specialization": "251",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-04-27T13:31:01Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2028-06-01T00:00:00",
-    "startBroadcastDate": "2026-10-01T00:00:00",
-    "endBroadcastDate": "2026-10-31T00:00:00"
-   },
-   "summary": "À propos de Scalian\nRejoignez Scalian, où depuis plus de 30 ans, l'innovation et l'expertise se rejoignent.\nEn tant que cabinet de conseil en ingénierie multinational de premier plan, nous comptons plus de 6000 spécialistes hautement qualifiés.\nNotre concentration sur l'IT et la OT, comprenant l'informatique, l'ingénierie logicielle et des systèmes, l'assurance qualité, la gestion de la chaîne d'approvisionnement et la gestion de projets, nous distingue dans l'industrie.\n\nDescription du projet \nDans le cadre du développement de systèmes complexes et critiques, vous interviendrez au sein d’équipes d’ingénierie sur des projets à forte dimension technologique.\nVous participerez aux activités d’intégration, de vérification, de validation et de qualification, depuis la phase de spécification jusqu’aux essais et à la mise en service.\nLes environnements techniques peuvent inclure des systèmes embarqués temps réel, des systèmes de signalisation ferroviaire, des systèmes de défense ou des architectures électroniques et logicielles critiques. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/242637",
-   "score": 30,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 10,
-    "qual": 23,
-    "calc": 0
-   },
-   "dominant_axis": "qual",
-   "matched_families": [
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "amelioration continue",
-      "ingenierie"
-     ]
-    },
-    {
-     "id": "qual2",
-     "axis": "qual",
-     "source": "Qualité et normes (774-1, 14 h, coefficient 0,5)",
-     "weight": 4,
-     "terms": [
-      "assurance qualite"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "conformite",
-      "essais",
-      "qualification",
-      "qualite"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "defense",
-      "ferroviaire"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Aucun terme industriel : score plafonné",
-     "terms": [],
-     "points": -9,
-     "cap": 30
-    }
-   ]
-  },
-  {
-   "id": "237577",
-   "title": "INGENIEUR SYSTEME EMBARQUE (H/F)",
-   "company": "SCALIAN",
-   "country": "BELGIQUE",
-   "city": "BRUXELLES",
-   "description": "À propos de Scalian\n Rejoignez Scalian, où depuis plus de 30 ans, l'innovation et l'expertise se rejoignent.\nEn tant que cabinet de conseil en ingénierie multinational de premier plan, nous comptons plus de 6000 spécialistes hautement qualifiés.\nNotre concentration sur l'IT et la OT, comprenant l'informatique, l'ingénierie logicielle et des systèmes, l'assurance qualité, la gestion de la chaîne d'approvisionnement et la gestion de projets, nous distingue dans l'industrie.\n\nDescription du projet\nDans le cadre du développement de systèmes embarqués critiques, vous interviendrez au sein d’équipes d’ingénierie sur des projets à forte dimension technologique. \nVous participerez au développement, à l’intégration et à la validation de solutions embarquées, depuis la phase de conception jusqu’aux essais et à la mise en service.\nLes environnements techniques peuvent inclure des systèmes temps réel, avioniques, systèmes de contrôle commande, calculateurs embarqués ou systèmes électroniques complexes.\n\nVos missions : \nParticiper à la conception et à l’architecture de systèmes embarqués (logiciel et/ou matériel).\nDévelopper et intégrer des logiciels embarqués en environnement temps réel.\nConcevoir et implémenter des algorithmes ou fonctions de contrôle/traitement embarqués.\nRéaliser des modélisations et simulations afin de valider les choix techniques.\nParticiper à l’intégration des fonctions sur plateformes embarquées (microcontrôleurs, calculateurs, cartes électroniques).\nDéfinir et exécuter les stratégies de tests, vérification et validation (V&V, IVVQ).\nParticiper aux essais système et à l’analyse des résultats.\nRédiger la documentation technique (spécifications, dossiers de conception, rapports de tests).\nCollaborer avec les différentes équipes projet : système, logiciel, électronique, validation.",
-   "mission": "",
-   "profile": "Diplômé(e) d’une école d’ingénieur ou titulaire d’un Master en systèmes embarqués, électronique, informatique industrielle, aéronautique ou domaine équivalent, vous disposez de connaissances en développement logiciel embarqué et systèmes temps réel.\nVous maîtrisez idéalement des langages comme C/C++ et avez une première expérience avec des outils de modélisation et simulation (MATLAB/Simulink) ainsi qu’avec des environnements embarqués (microcontrôleurs, RTOS, protocoles de communication).\nRigoureux(se) et doté(e) d’un bon esprit d’analyse, vous êtes à l’aise dans des environnements techniques exigeants et appréciez le travail en équipe sur des projets complexes.\nUn anglais professionnel est nécessaire pour évoluer dans un contexte international.",
-   "duration": 24,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2028-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-03-05T13:22:50Z",
-   "sector": "",
-   "specialization": "251",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-03-05T13:22:50Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2028-12-01T00:00:00",
-    "startBroadcastDate": "2026-10-01T00:00:00",
-    "endBroadcastDate": "2026-10-31T00:00:00"
-   },
-   "summary": "À propos de Scalian\n Rejoignez Scalian, où depuis plus de 30 ans, l'innovation et l'expertise se rejoignent.\nEn tant que cabinet de conseil en ingénierie multinational de premier plan, nous comptons plus de 6000 spécialistes hautement qualifiés.\nNotre concentration sur l'IT et la OT, comprenant l'informatique, l'ingénierie logicielle et des systèmes, l'assurance qualité, la gestion de la chaîne d'approvisionnement et la gestion de projets, nous distingue dans l'industrie.\n\nDescription du projet\nDans le cadre du développement de systèmes embarqués critiques, vous interviendrez au sein d’équipes d’ingénierie sur des projets à forte dimension technologique. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/237577",
-   "score": 30,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 10,
-    "qual": 23,
-    "calc": 36
-   },
-   "dominant_axis": "calc",
-   "matched_families": [
-    {
-     "id": "calc1",
-     "axis": "calc",
-     "source": "Éléments finis (256-1, 24 h), TP simulation numérique (272-1, 285-5, 285-4, 63 h), Calculs numériques de mise en forme (277-1, 286-1, 50 h)",
-     "weight": 12,
-     "terms": [
-      "modelisation"
-     ]
-    },
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
-     "weight": 4,
-     "terms": [
-      "matlab"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "ingenierie"
-     ]
-    },
-    {
-     "id": "qual2",
-     "axis": "qual",
-     "source": "Qualité et normes (774-1, 14 h, coefficient 0,5)",
-     "weight": 4,
-     "terms": [
-      "assurance qualite"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "essais",
-      "qualite",
-      "validation"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "aeronautique"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Aucun terme industriel : score plafonné",
-     "terms": [],
-     "points": -21,
-     "cap": 30
-    }
-   ]
-  },
-  {
-   "id": "232332",
-   "title": "INGÉNIEUR LOGICIEL EMBARQUÉ AERO (H/F)",
-   "company": "SCALIAN",
-   "country": "BELGIQUE",
-   "city": "BRUXELLES",
-   "description": "À propos de Scalian\r\n\r\nRejoignez Scalian, où innovation et expertise se conjuguent depuis plus de 30 ans. Leader multinational du conseil en ingénierie, nous comptons plus de 6 000 spécialistes hautement qualifiés. Notre expertise couvre les domaines de l’IT et de l’OT, incluant l’informatique, le développement logiciel et systèmes, l’assurance qualité, la gestion de la chaîne d’approvisionnement et le management de projet.\r\n\r\nNous intervenons dans divers secteurs technologiques tels que l’automobile, l’aéronautique, le médical, la défense, le ferroviaire et l’énergie, en apportant un soutien distinctif au développement et aux opérations de nos clients.\r\n\r\nDescription du projet\r\n\r\nNous recherchons actuellement un Ingénieur Logiciel Embarqué. Dans ce rôle, vous rejoindrez l’équipe d’ingénierie logicielle et participerez à l’ensemble du cycle de développement de produits de pointe. Vous aurez l’opportunité de travailler sur une grande variété d’applications, de plateformes et de langages de programmation, en contribuant à des solutions innovantes dans un environnement technologique de haut niveau.\r\n\r\nVos missions comprendront :\r\n- Analyse & conception\r\nAnalyser les besoins et exigences système\r\nRédiger les spécifications fonctionnelles et techniques\r\nParticiper à la définition de l’architecture logicielle\r\nAssurer la cohérence avec les contraintes temps réel et matérielles\r\n\r\n- Développement embarqué\r\nConcevoir et développer des logiciels en C / C++\r\nDévelopper des composants logiciels bas niveau performants\r\nDévelopper et intégrer des logiciels sous Linux (user space / kernel)\r\nInteragir avec des systèmes temps réel (RTOS)\r\nManipuler des interfaces matérielles et drivers\r\nDévelopper des scripts d’automatisation (Bash, Python)\r\n\r\n- Performance & optimisation\r\nOptimiser l’utilisation des ressources (CPU, mémoire)\r\nAnalyser et améliorer les performances (latence, throughput)\r\nRéaliser des activités de debugging et de profiling\r\nGarantir la stabilité et la fiabilité du logiciel\r\n\r\n- Intégration & validation\r\nParticiper à l’intégration logicielle sur cible embarquée\r\nRéaliser les tests unitaires et d’intégration\r\nAnalyser les anomalies et proposer des corrections\r\nAssurer la traçabilité entre exigences, code et tests",
-   "mission": "",
-   "profile": "Votre profil\n\n- Diplôme de niveau Master en Systèmes Embarqués ou expérience équivalente.\n\n- Maîtrise de la programmation orientée objet, avec expérience en C, C++ et Python.\n\n- Solides compétences Linux et scripting, avec connaissance de l’outil de versioning GIT.\n\n- Expérience avec les systèmes d’exploitation temps réel et le traitement d’images est un atout.\n\n- Esprit créatif, sens de la résolution de problèmes, excellentes capacités de communication et goût pour le travail en équipe.\n\n- Orienté résultats et capable de respecter des délais stricts.\n\n- Maîtrise de l’anglais, à l’écrit comme à l’oral.",
-   "duration": 12,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2027-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2025-10-28T09:46:40Z",
-   "sector": "",
-   "specialization": "248",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2025-10-28T09:46:40Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-10-01T00:00:00",
-    "endBroadcastDate": "2026-10-31T00:00:00"
-   },
-   "summary": "À propos de Scalian\r\n\r\nRejoignez Scalian, où innovation et expertise se conjuguent depuis plus de 30 ans. Leader multinational du conseil en ingénierie, nous comptons plus de 6 000 spécialistes hautement qualifiés. Notre expertise couvre les domaines de l’IT et de l’OT, incluant l’informatique, le développement logiciel et systèmes, l’assurance qualité, la gestion de la chaîne d’approvisionnement et le management de projet.\r\n\r\nNous intervenons dans divers secteurs technologiques tels que l’automobile, l’aéronautique, le médical, la défense, le ferroviaire et l’énergie, en apportant un soutien distinctif au développement et aux opérations de nos clients.\r\n\r\nDescription du projet\r\n\r\nNous recherchons actuellement un Ingénieur Logiciel Embarqué. Dans ce rôle, vous rejoindrez l’équipe d’ingénierie logicielle et participerez à l’ensemble du cycle de développement de produits de pointe. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/232332",
-   "score": 30,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 10,
-    "qual": 23,
-    "calc": 9
-   },
-   "dominant_axis": "qual",
-   "matched_families": [
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
-     "weight": 4,
-     "terms": [
-      "automatisation",
-      "python",
-      "scripting"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "ingenierie"
-     ]
-    },
-    {
-     "id": "qual2",
-     "axis": "qual",
-     "source": "Qualité et normes (774-1, 14 h, coefficient 0,5)",
-     "weight": 4,
-     "terms": [
-      "assurance qualite"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "qualite",
-      "validation"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "resolution de problemes"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "aeronautique",
-      "automobile",
-      "defense"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Aucun terme industriel : score plafonné",
-     "terms": [],
-     "points": -11,
      "cap": 30
     }
    ]
@@ -30427,7 +28784,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-21T13:27:37Z",
    "sector": "",
-   "specialization": "73",
+   "specialization": "[\"73\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31701,7 +30058,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-29T13:26:26Z",
    "sector": "",
-   "specialization": "355",
+   "specialization": "[\"355\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32153,7 +30510,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-08T08:05:59Z",
    "sector": "",
-   "specialization": "[\"68\",\"168\"]",
+   "specialization": "68, 168",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32992,7 +31349,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-28T18:24:36Z",
    "sector": "",
-   "specialization": "[\"60\",\"65\",\"66\",\"71\",\"77\",\"110\",\"142\",\"149\"]",
+   "specialization": "60, 65, 66, 71, 77, 110, 142, 149",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33138,7 +31495,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-20T20:29:06Z",
    "sector": "",
-   "specialization": "[\"49\",\"56\",\"157\"]",
+   "specialization": "49, 56, 157",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34757,7 +33114,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-29T10:37:20Z",
    "sector": "",
-   "specialization": "66, 71, 74, 115, 149, 169, 262, 351",
+   "specialization": "[\"66\",\"71\",\"74\",\"115\",\"149\",\"169\",\"262\",\"351\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35517,7 +33874,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T13:20:38Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35925,7 +34282,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-15T14:51:50Z",
    "sector": "",
-   "specialization": "[\"251\"]",
+   "specialization": "251",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -36660,7 +35017,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-29T10:06:40Z",
    "sector": "",
-   "specialization": "[\"327\"]",
+   "specialization": "327",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -36797,7 +35154,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T07:43:54Z",
    "sector": "",
-   "specialization": "[\"70\"]",
+   "specialization": "70",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -36943,7 +35300,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-22T15:10:23Z",
    "sector": "",
-   "specialization": "57",
+   "specialization": "[\"57\"]",
    "contract": "VIA",
    "dates_raw": {
     "candidateCounter": 0,
@@ -37899,7 +36256,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T09:15:57Z",
    "sector": "",
-   "specialization": "327",
+   "specialization": "[\"327\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -37972,7 +36329,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-29T09:14:24Z",
    "sector": "",
-   "specialization": "246",
+   "specialization": "[\"246\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -38046,7 +36403,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-23T09:30:53Z",
    "sector": "",
-   "specialization": "70, 155",
+   "specialization": "[\"70\",\"155\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -38816,69 +37173,6 @@
    ]
   },
   {
-   "id": "246260",
-   "title": "INVESTMENT ANALYST / ANALYSTE EN INVESTISSEMENT (H/F)",
-   "company": "HELEXIA CORPORATE",
-   "country": "ESPAGNE",
-   "city": "MADRID",
-   "description": "Fondé en 2010 avec la volonté d’allier économies & écologie, Helexia est un acteur indépendant majeur du marché de la transition énergétique.\nL’entreprise, qui compte aujourd’hui plus de 350 collaborateurs présents dans 7 pays, offre à ses clients la possibilité de décarboner leur activité à travers la production d’énergie renouvelable sur site ainsi que des projets d’efficacité énergétique.\nS’inscrivant dans la stratégie d’expansion géographique du groupe, Helexia España a été créée en 2019 avec pour objectif de devenir un acteur incontournable du marché de la transition énergétique en Espagne. La filiale de 16 personnes compte déjà sur plus de 75 projets photovoltaïques en opération pour un total de 40 MW.\n\nPoste et missions :\n\n1/ Analyse de l’ensemble des éléments financiers et stratégiques des opportunités d’investissement sur des centrales solaires en toitures, ombrières ou au sol et sur des projets d’efficacité énergétique:\no Réalisation du Business Plan en collaboration avec les équipes de la BU Espagne\no Analyse du risque de contrepartie\no Réalisation de sensibilités financières et extra-financières sur le Business Plan en fonction de l’opportunité et des risques identifiés\no Préparation de la présentation interne pour le Comité d’investissement\n\n2/ Participation au pilotage financier de la filiale :\no Reporting financier et commercial mensuel/trimestriel et analyse des écarts par rapport au budget ou aux prévisions\no Implication dans le processus budgétaire et la planification financière\no Analyse de la performance financière et suivi des opportunités post-investissement (Asset Management financier)\n\n3/ Réalisation d’études de marché\no Veille concurrentielle\no Analyse de tendances\no Suivi de l’innovation et des nouvelles solutions\n\n4/ Participation aux opérations de financement des actifs espagnols en collaboration avec l’ensemble des parties prenantes (services juridique, technique et financier).\n\n5/ Implication aux différents niveaux du cycle des transactions M&A, en collaboration avec l’équipe d’investissement Groupe :\no Screening de marché et analyse d’opportunités\no Modélisation financière\no Participation aux travaux d’audits\no Soumission du projet aux forums de décision pertinents",
-   "mission": "",
-   "profile": "Issu(e) d'une Ecole de Commerce ou d’Ingénieur, Bac +5\nUne 1ère expérience en finance d’entreprise et/ou dans le secteur des Renouvelables ou de l’Infrastructure est souhaitée.\nAttrait particulier pour la transition énergétique et les énergies renouvelables\nLangues : Espagnol avancé (niveau B2/C1) & Anglais courant (niveau C1).\nCapacités requises : autonomie, analyse de données, appétence pour le travail en équipe, adaptabilité aux situations et aux interlocuteurs et capacités organisationnelles.",
-   "duration": 12,
-   "start_date": "2027-02-01T00:00:00",
-   "end_date": "2028-02-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-22T11:31:02Z",
-   "sector": "",
-   "specialization": "[\"259\"]",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-22T11:31:02Z",
-    "missionStartDate": "2027-02-01T00:00:00",
-    "missionEndDate": "2028-02-01T00:00:00",
-    "startBroadcastDate": "2026-10-01T00:00:00",
-    "endBroadcastDate": "2026-10-31T00:00:00"
-   },
-   "summary": "Fondé en 2010 avec la volonté d’allier économies & écologie, Helexia est un acteur indépendant majeur du marché de la transition énergétique.\nL’entreprise, qui compte aujourd’hui plus de 350 collaborateurs présents dans 7 pays, offre à ses clients la possibilité de décarboner leur activité à travers la production d’énergie renouvelable sur site ainsi que des projets d’efficacité énergétique.\nS’inscrivant dans la stratégie d’expansion géographique du groupe, Helexia España a été créée en 2019 avec pour objectif de devenir un acteur incontournable du marché de la transition énergétique en Espagne. La filiale de 16 personnes compte déjà sur plus de 75 projets photovoltaïques en opération pour un total de 40 MW. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246260",
-   "score": 25,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 0,
-    "qual": 0,
-    "calc": 27
-   },
-   "dominant_axis": "calc",
-   "matched_families": [
-    {
-     "id": "calc1",
-     "axis": "calc",
-     "source": "Éléments finis (256-1, 24 h), TP simulation numérique (272-1, 285-5, 285-4, 63 h), Calculs numériques de mise en forme (277-1, 286-1, 50 h)",
-     "weight": 12,
-     "terms": [
-      "modelisation"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "energie"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "247729",
    "title": "Ingénieur essais, intégration & validation – Systèmes embarqués (H/F)",
    "company": "INNOVATEAM",
@@ -38893,7 +37187,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-29T16:46:46Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -39035,7 +37329,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-12T12:29:13Z",
    "sector": "",
-   "specialization": "[\"7\"]",
+   "specialization": "7",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
