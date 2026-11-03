@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-02T15:48:22+00:00",
+ "generated_at": "2026-11-03T14:11:16+00:00",
  "source": "Business France — mon-vie-via.businessfrance.fr",
- "total_scanned": 861,
- "total_announced": 861,
- "total_kept": 376,
+ "total_scanned": 862,
+ "total_announced": 862,
+ "total_kept": 375,
  "threshold": 25,
  "axes": {
   "rd": {
@@ -1029,7 +1029,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-29T09:28:13Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -1135,6 +1135,134 @@
      "terms": [
       "industriel",
       "mecanique"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
+   "id": "247828",
+   "title": "LOGISTICS PROCESSES AND DIGITALIZATION ENGINEER (H/F)",
+   "company": "MOTHERSON SAS AUTOMOTIVE SERVICE AND MODULE SYSTEMS RENNES S.A.S.U.",
+   "country": "ALLEMAGNE",
+   "city": "KARLSRUHE",
+   "description": "At Motherson, we’re committed to creating long-term jobs and advancing global careers. Featured on TIME’s World’s Best Companies list, we are a diversified global design, engineering, manufacturing, assembly and logistics specialist, delivering full-system solutions to customers across industries. With a focus on innovation, quality and sustainability, we strive to be a trusted industrialisation partner and an employer that nurtures a diverse, inclusive workplace.\n\nOur Integrated Assemblies division leads in automotive innovation, specialising in premium module assembly and cockpit module integration. We collaborate with customers to deliver cutting-edge solutions supporting electrification. Join us to work with advanced technology and shape the future of automotive innovation.\n\nOur HQ (Karlsruhe) location is looking for a highly motivated and results driven VIE LOGISTICS PROCESSES & DIGITALIZATION ENGINEER (M/F) to join our team! The VIE will provide support to overall logistics process improvements during tendering phase up to SOP (Start of Production) of each project. \n\nResponsibilities:\nDrive continuous improvement: support the improvement of ways of working, KPIs and reporting, and run process improvement training for team members and senior stakeholders\nOptimize intralogistics: analyze and improve intralogistics processes in our plants, and review and approve layout plans\nSupport Motherson Efficiency Systems (MSES): help roll out MSES (Logistics) in the plants and support MSES and Internal Control Basics (ICB) audits\nBoost plant performance: work cross-functionally to increase productivity and support under-performing plants\nShape our Smart Factory strategy: work with IT and Engineering to embed digitalization, automation and real-time visibility into logistics improvement projects\nContribute to global processes: gather and clarify business requirements and ideas for improving global processes, and support budget preparation",
+   "mission": "",
+   "profile": "•Bachelor’s or master’s degree in Logistics/Supply Chain or IT.\n•Ideally a professional experience in project management.\n•Data analysis oriented, accuracy with numbers, agility with digital tools.",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-11-02T13:21:16Z",
+   "sector": "",
+   "specialization": "[\"150\",\"262\",\"264\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-11-02T13:21:16Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-11-03T00:00:00",
+    "endBroadcastDate": "2026-12-03T00:00:00"
+   },
+   "summary": "At Motherson, we’re committed to creating long-term jobs and advancing global careers. Featured on TIME’s World’s Best Companies list, we are a diversified global design, engineering, manufacturing, assembly and logistics specialist, delivering full-system solutions to customers across industries. With a focus on innovation, quality and sustainability, we strive to be a trusted industrialisation partner and an employer that nurtures a diverse, inclusive workplace.\n\nOur Integrated Assemblies division leads in automotive innovation, specialising in premium module assembly and cockpit module integration. We collaborate with customers to deliver cutting-edge solutions supporting electrification. Join us to work with advanced technology and shape the future of automotive innovation.\n\nOur HQ (Karlsruhe) location is looking for a highly motivated and results driven VIE LOGISTICS PROCESSES & DIGITALIZATION ENGINEER (M/F) to join our team! The VIE will provide support to overall logistics process improvements during tendering phase up to SOP (Start of Production) of each project. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247828",
+   "score": 86,
+   "label": "Cœur de cible",
+   "first_seen": "2026-11-03T14:11:05+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 100,
+    "qual": 8,
+    "calc": 9
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "calc4",
+     "axis": "calc",
+     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
+     "weight": 4,
+     "terms": [
+      "automation",
+      "data analysis"
+     ]
+    },
+    {
+     "id": "prod4",
+     "axis": "prod",
+     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
+     "weight": 10,
+     "terms": [
+      "industrialisation",
+      "plant"
+     ]
+    },
+    {
+     "id": "prod3",
+     "axis": "prod",
+     "source": "Assemblage des matériaux (297-2, 30 h)",
+     "weight": 7,
+     "terms": [
+      "assembly"
+     ]
+    },
+    {
+     "id": "prod6",
+     "axis": "prod",
+     "source": "Outils et moyens de fabrication (259-1, 30 h)",
+     "weight": 7,
+     "terms": [
+      "cutting"
+     ]
+    },
+    {
+     "id": "prod5",
+     "axis": "prod",
+     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
+     "weight": 4,
+     "terms": [
+      "productivity"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "continuous improvement",
+      "engineering",
+      "manufacturing"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "quality"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "engineer"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "automotive"
      ],
      "points": 5
     },
@@ -1302,7 +1430,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-14T12:42:19Z",
    "sector": "",
-   "specialization": "[\"65\",\"206\",\"264\"]",
+   "specialization": "65, 206, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -1422,20 +1550,20 @@
    "mission": "",
    "profile": "Ingénieur de formation ou Universitaire (Bac+5) avec une spécialité technique, vous avez une expérience (stages, alternances et premiers postes) dans un rôle similaire:\n\nSoit conception d'outillages\nSoit Industrialisation de nouveaux produits à forte valeur ajoutée technique\nSoit Amélioration des procédés de fabrication (Assemblage ; Usinage ; Forge ; Fonderie ; Assemblage composites ; Impression 3D métallique)",
    "duration": 24,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2028-12-01T00:00:00",
+   "start_date": "2027-02-01T00:00:00",
+   "end_date": "2029-02-01T00:00:00",
    "expiry_date": "",
    "publish_date": "2026-09-02T06:59:08Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-09-02T06:59:08Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2028-12-01T00:00:00",
-    "startBroadcastDate": "2026-10-06T00:00:00",
-    "endBroadcastDate": "2026-11-05T00:00:00"
+    "missionStartDate": "2027-02-01T00:00:00",
+    "missionEndDate": "2029-02-01T00:00:00",
+    "startBroadcastDate": "2026-11-03T00:00:00",
+    "endBroadcastDate": "2026-12-03T00:00:00"
    },
    "summary": "Présentation de la société :\n\nSpécialiste de la performance industrielle et de l’excellence opérationnelle, nous avons l’ambition de devenir le premier partenaire 100 % intégré de nos clients industriels. Baignés dans une politique d’entreprise axée sur l’humain, le bien-être et le partage, nous développons une relation de confiance unique avec nos clients et nos collaborateurs. Nous ciblons notamment des projets ambitieux et à forte valeurs ajoutée afin que nos salariés puissent se challenger, évoluer et s’épanouir personnellement. C’est pourquoi, nous faisons le choix de nous entourer de consultants dynamiques et adaptables, avides d'apprendre et de s'impliquer dans les projets de notre entreprise. Conscients des enjeux environnementaux et sociétaux actuels, nous avons pour ambition d’être certifié par un label RSE dans les prochains mois. […]",
    "url": "https://mon-vie-via.businessfrance.fr/offres/245559",
@@ -2707,7 +2835,7 @@
    "expiry_date": "",
    "publish_date": "2025-10-08T09:46:46Z",
    "sector": "",
-   "specialization": "[\"77\",\"149\"]",
+   "specialization": "77, 149",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -3320,20 +3448,20 @@
    "mission": "",
    "profile": "Ingénieur de formation ou Universitaire (Bac+5) avec une spécialité technique, vous avez une expérience (stages, alternances et premiers postes) dans un rôle similaire:\n\nSoit Qualité Fournisseurs\nSoit Qualité Projet (connaissances des processus PPAP ; F.A.I.) \nSoit Qualité Production (Assemblage ; Usinage ; Forge ; Fonderie ; Assemblage composites ; Impression 3D métallique)\n\nVous connaissez les outils qualités inhérents à l'industrie:\n5Why ; ISHIKAWA ; QRQC ; PDCA … \nAPQP ; AMDEC ; F.A.I. ; 8D …",
    "duration": 24,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2028-12-01T00:00:00",
+   "start_date": "2027-02-01T00:00:00",
+   "end_date": "2029-02-01T00:00:00",
    "expiry_date": "",
    "publish_date": "2026-03-03T08:40:40Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-03-03T08:40:40Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2028-12-01T00:00:00",
-    "startBroadcastDate": "2026-10-06T00:00:00",
-    "endBroadcastDate": "2026-11-05T00:00:00"
+    "missionStartDate": "2027-02-01T00:00:00",
+    "missionEndDate": "2029-02-01T00:00:00",
+    "startBroadcastDate": "2026-11-03T00:00:00",
+    "endBroadcastDate": "2026-12-03T00:00:00"
    },
    "summary": "Présentation de la société :\n\nSpécialiste de la performance industrielle et de l’excellence opérationnelle, nous avons l’ambition de devenir le premier partenaire 100 % intégré de nos clients industriels. Baignés dans une politique d’entreprise axée sur l’humain, le bien-être et le partage, nous développons une relation de confiance unique avec nos clients et nos collaborateurs. Nous ciblons notamment des projets ambitieux et à forte valeurs ajoutée afin que nos salariés puissent se challenger, évoluer et s’épanouir personnellement. C’est pourquoi, nous faisons le choix de nous entourer de consultants dynamiques et adaptables, avides d'apprendre et de s'impliquer dans les projets de notre entreprise. Conscients des enjeux environnementaux et sociétaux actuels, nous avons pour ambition d’être certifié par un label RSE dans les prochains mois. […]",
    "url": "https://mon-vie-via.businessfrance.fr/offres/237459",
@@ -4822,7 +4950,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T07:35:28Z",
    "sector": "",
-   "specialization": "[\"155\",\"208\",\"209\"]",
+   "specialization": "155, 208, 209",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -4935,7 +5063,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-27T15:03:59Z",
    "sector": "",
-   "specialization": "[\"209\"]",
+   "specialization": "209",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5056,7 +5184,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-10T09:56:17Z",
    "sector": "",
-   "specialization": "49, 63, 86, 125, 207, 208, 256, 366",
+   "specialization": "[\"49\",\"63\",\"86\",\"125\",\"207\",\"208\",\"256\",\"366\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5707,7 +5835,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-26T10:16:33Z",
    "sector": "",
-   "specialization": "[\"114\"]",
+   "specialization": "114",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -7961,7 +8089,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-13T15:23:11Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8899,7 +9027,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-10T14:13:50Z",
    "sector": "",
-   "specialization": "[\"107\"]",
+   "specialization": "107",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9180,7 +9308,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-26T10:16:15Z",
    "sector": "",
-   "specialization": "[\"130\"]",
+   "specialization": "130",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9472,7 +9600,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-23T09:02:41Z",
    "sector": "",
-   "specialization": "[\"52\",\"66\",\"114\",\"115\",\"143\",\"148\",\"153\"]",
+   "specialization": "52, 66, 114, 115, 143, 148, 153",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10081,7 +10209,7 @@
    "expiry_date": "",
    "publish_date": "2025-11-19T10:45:12Z",
    "sector": "",
-   "specialization": "[\"77\",\"149\",\"207\"]",
+   "specialization": "77, 149, 207",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10955,7 +11083,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-28T11:49:01Z",
    "sector": "",
-   "specialization": "[\"149\"]",
+   "specialization": "149",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -11263,7 +11391,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T08:00:24Z",
    "sector": "",
-   "specialization": "[\"114\"]",
+   "specialization": "114",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -11759,20 +11887,20 @@
    "mission": "",
    "profile": "Ingénieur de formation (Ecoles, Universités)",
    "duration": 24,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2028-12-01T00:00:00",
+   "start_date": "2027-02-01T00:00:00",
+   "end_date": "2029-02-01T00:00:00",
    "expiry_date": "",
    "publish_date": "2026-09-11T13:43:34Z",
    "sector": "",
-   "specialization": "64",
+   "specialization": "[\"64\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-09-11T13:43:34Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2028-12-01T00:00:00",
-    "startBroadcastDate": "2026-10-06T00:00:00",
-    "endBroadcastDate": "2026-11-05T00:00:00"
+    "missionStartDate": "2027-02-01T00:00:00",
+    "missionEndDate": "2029-02-01T00:00:00",
+    "startBroadcastDate": "2026-11-03T00:00:00",
+    "endBroadcastDate": "2026-12-03T00:00:00"
    },
    "summary": "• Réaliser des études d avant-projets, prendre connaissance des besoins client et analyser le cahier des charges\n• Définir des solutions techniques adaptées aux différents besoins\n• Définir les matériaux, processus et méthodes nécessaires à la réalisation du projet\n• Concevoir les prototypes (2D et 3D) et procéder aux phases de tests afin d’y apporter d’éventuelles améliorations\n• Réaliser et suivre la documentation technique liée aux projets\n• Participer à l’amélioration des processus et produits existants\n• Effectuer une veille technologique afin d’innover sur les produits et processus",
    "url": "https://mon-vie-via.businessfrance.fr/offres/245858",
@@ -12297,7 +12425,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-02T09:00:25Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12735,7 +12863,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-21T12:36:21Z",
    "sector": "",
-   "specialization": "225",
+   "specialization": "[\"225\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -13000,7 +13128,7 @@
    "expiry_date": "",
    "publish_date": "2025-10-08T10:46:44Z",
    "sector": "",
-   "specialization": "[\"77\",\"149\",\"207\"]",
+   "specialization": "77, 149, 207",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -13104,7 +13232,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-30T08:31:23Z",
    "sector": "",
-   "specialization": "[\"65\",\"77\"]",
+   "specialization": "65, 77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -13625,7 +13753,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-20T08:28:02Z",
    "sector": "",
-   "specialization": "56",
+   "specialization": "[\"56\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -13900,7 +14028,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-12T13:36:38Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -14049,94 +14177,6 @@
      "terms": [
       "automobile",
       "industriel",
-      "mecanique"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
-   "id": "246130",
-   "title": "Ingénieur Flow Assurance (H/F) – Norvège",
-   "company": "TOTALENERGIES SE",
-   "country": "NORVEGE",
-   "city": "STAVANGER",
-   "description": "Rejoignez les équipes R&D Flow Assurance de la branche Exploration-Production de TotalEnergies à Stavanger, en Norvège.  \n\nVous contribuez à l’évaluation et à l’amélioration de modèles de simulation d’écoulements multiphasiques. Vous intervenez dans un environnement international dédié au transport de CO₂, aux technologies subsea et à la décarbonation des installations offshore.    \n\nMerci de candidater en anglais.   \nLe logement sera fourni par la filiale.    \n\nEn tant qu’Ingénieur Flow Assurance, vos principales responsabilités seront :   \n- Utiliser des logiciels de simulation d’écoulements multiphasiques ;    \n- Analyser des données de production provenant des champs opérés ;   \n- Comparer les résultats des simulations aux données de terrain ;   \n- Valider la précision des modèles de calcul ;   \n- Tester de nouveaux modules et fonctionnalités de simulation ;   \n- Évaluer l’impact de nouveaux schémas numériques sur les performances des modèles ;    \n- Contribuer à l’amélioration des outils de simulation utilisés par les équipes R&D ;   \n- Participer à des projets de recherche sur l’optimisation des installations offshore ;   \n- Présenter les résultats des études aux équipes internes et partenaires techniques.    \n\nPOURQUOI NOUS REJOINDRE   \nLa branche Exploration-Production (EP) de TotalEnergies couvre l’exploration et la production de pétrole et de gaz naturel, ainsi que les activités contribuant à la neutralité carbone. Présents dans une cinquantaine de pays, ses 9 000 collaboratrices et collaborateurs ont pour mission de produire de manière responsable les hydrocarbures dont le monde a besoin aujourd’hui tout en contribuant à la transition énergétique de la Compagnie. La branche EP agit pour réduire les émissions de gaz à effet de serre, en particulier le méthane, et améliorer la performance environnementale de ses opérations.",
-   "mission": "",
-   "profile": "Vous êtes diplômé d’un Bac+5 minimum (école d’ingénieurs ou formation universitaire) avec une spécialité en mécanique des fluides, hydraulique, thermodynamique, génie des procédés ou génie chimique.    \n\nVous avez une première expérience professionnelle ou une formation académique en mécanique des fluides ou hydraulique pour justifier de solides connaissances dans ces domaines.   \n\nVous avez une bonne connaissance d’Excel (Macros), d’Office et de Python.    \n\nLa connaissance de LedaFlow, OLGA ou d’un logiciel de simulation similaire, constitue un atout.    \n\nAnglais niveau B2 à C1 requis.    \n\nFrançais niveau B2 minimum requis.",
-   "duration": 18,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2028-06-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-18T13:15:17Z",
-   "sector": "",
-   "specialization": "63, 72, 225",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-18T13:15:17Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2028-06-01T00:00:00",
-    "startBroadcastDate": "2026-10-13T00:00:00",
-    "endBroadcastDate": "2026-11-12T00:00:00"
-   },
-   "summary": "Rejoignez les équipes R&D Flow Assurance de la branche Exploration-Production de TotalEnergies à Stavanger, en Norvège.  \n\nVous contribuez à l’évaluation et à l’amélioration de modèles de simulation d’écoulements multiphasiques. Vous intervenez dans un environnement international dédié au transport de CO₂, aux technologies subsea et à la décarbonation des installations offshore.    \n\nMerci de candidater en anglais.   \nLe logement sera fourni par la filiale.    \n\nEn tant qu’Ingénieur Flow Assurance, vos principales responsabilités seront :   \n- Utiliser des logiciels de simulation d’écoulements multiphasiques ;    \n- Analyser des données de production provenant des champs opérés ;   \n- Comparer les résultats des simulations aux données de terrain ;   \n- Valider la précision des modèles de calcul ;   \n- Tester de nouveaux modules et fonctionnalités de simulation ;   \n- Évaluer l’impact de nouveaux schémas numériques sur les performances des modèles ;    \n- Contribuer à l’amélioration des outils de simulation utilisés par les équipes R&D ; […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246130",
-   "score": 37,
-   "label": "À examiner",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 20,
-    "prod": 0,
-    "qual": 0,
-    "calc": 9
-   },
-   "dominant_axis": "rd",
-   "matched_families": [
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
-     "weight": 4,
-     "terms": [
-      "python"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "r&d"
-     ]
-    },
-    {
-     "id": "rd7",
-     "axis": "rd",
-     "source": "Recyclage des matériaux (8 h), Éco-conception (842-1, 8 h), Enjeux DDRS (838-1, 20 h)",
-     "weight": 4,
-     "terms": [
-      "decarbonation"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
       "mecanique"
      ],
      "points": 5
@@ -14397,7 +14437,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-29T09:57:49Z",
    "sector": "",
-   "specialization": "[\"66\"]",
+   "specialization": "66",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -15554,7 +15594,7 @@
    "expiry_date": "",
    "publish_date": "2025-11-12T08:45:10Z",
    "sector": "",
-   "specialization": "[\"149\",\"208\",\"209\"]",
+   "specialization": "149, 208, 209",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -17062,7 +17102,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-07T15:09:37Z",
    "sector": "",
-   "specialization": "[\"79\",\"150\",\"206\",\"207\",\"208\"]",
+   "specialization": "79, 150, 206, 207, 208",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -18419,7 +18459,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-22T14:14:40Z",
    "sector": "",
-   "specialization": "70",
+   "specialization": "[\"70\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20314,7 +20354,7 @@
    "expiry_date": "",
    "publish_date": "2025-10-08T09:46:46Z",
    "sector": "",
-   "specialization": "[\"71\",\"73\",\"224\"]",
+   "specialization": "71, 73, 224",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21561,7 +21601,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-27T14:55:20Z",
    "sector": "",
-   "specialization": "[\"168\"]",
+   "specialization": "168",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -24647,7 +24687,7 @@
    "expiry_date": "",
    "publish_date": "2025-09-30T14:46:47Z",
    "sector": "",
-   "specialization": "62, 71, 77, 161",
+   "specialization": "[\"62\",\"71\",\"77\",\"161\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25195,7 +25235,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-09T13:20:04Z",
    "sector": "",
-   "specialization": "[\"327\"]",
+   "specialization": "327",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25389,7 +25429,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T09:54:46Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26468,7 +26508,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-13T14:31:50Z",
    "sector": "",
-   "specialization": "70",
+   "specialization": "[\"70\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26558,7 +26598,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-10T14:22:44Z",
    "sector": "",
-   "specialization": "[\"168\"]",
+   "specialization": "168",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27610,7 +27650,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-28T18:25:06Z",
    "sector": "",
-   "specialization": "52, 63, 118, 125, 168, 225, 256",
+   "specialization": "[\"52\",\"63\",\"118\",\"125\",\"168\",\"225\",\"256\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -28076,7 +28116,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-13T10:05:29Z",
    "sector": "",
-   "specialization": "[\"155\"]",
+   "specialization": "155",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29137,7 +29177,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-29T13:26:26Z",
    "sector": "",
-   "specialization": "[\"355\"]",
+   "specialization": "355",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29797,7 +29837,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-14T12:45:10Z",
    "sector": "",
-   "specialization": "[\"206\"]",
+   "specialization": "206",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30375,80 +30415,6 @@
      "terms": [
       "energy",
       "mechanical"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
-   "id": "247433",
-   "title": "Bid Engineer (H/F)",
-   "company": "SAFT",
-   "country": "JAPON",
-   "city": "TOKYO",
-   "description": "L'Ingénieur offre Energy Storage Systems (ESS) participe au développement des offres techniques et commerciales pour des projets de stockage d’énergie par batteries à l’échelle industrielle (utility-scale) et commerciale au Japon.\r\n\r\nMissions principales :\r\nSous la supervision du Bid & Application Manager, le VIE participera à :\r\n\r\n- L'analyse des besoins clients et des cahiers des charges.\r\n- La préparation des offres techniques et commerciales pour des projets de stockage d'énergie au Japon.\r\n- La coordination des contributions des équipes internes (Ventes, Ingénierie, Achats, Finance, Opérations).\r\n- Le suivi des consultations fournisseurs et partenaires.\r\n- La préparation des analyses de risques techniques et commerciaux.\r\n- Le support aux échanges techniques avec les clients pendant les phases d'appel d'offres.\r\n- L'amélioration continue des outils, méthodes et bonnes pratiques de réponse aux appels d'offres.",
-   "mission": "",
-   "profile": "Formation et expérience : \r\nDiplôme d'Ingénieur ou Master (Bac+5) en Energie, Génie Electrique, Génie Industriel ou domaine technique connexe.\r\nPremière expérience (stage, alternance ou 1 à 3 ans d'expérience) dans les secteurs de l'énergie, des systèmes électriques, des infrastructures, des projets industriels ou des énergies renouvelables.\r\nUne expérience dans la préparation d'offres techniques, la gestion de projets ou l'ingénierie d'application serait un atout.\r\nUne connaissance du stockage d'énergie par batteries (BESS) \r\n\r\nLangues:\r\nAnglais professionnel courant (écrit et oral).\r\nCapacité à évoluer dans un environnement multiculturel et international.st appréciée mais non indispensable.",
-   "duration": 24,
-   "start_date": "2027-02-01T00:00:00",
-   "end_date": "2029-02-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-23T13:13:41Z",
-   "sector": "",
-   "specialization": "[\"6\"]",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-23T13:13:41Z",
-    "missionStartDate": "2027-02-01T00:00:00",
-    "missionEndDate": "2029-02-01T00:00:00",
-    "startBroadcastDate": "2026-10-26T00:00:00",
-    "endBroadcastDate": "2026-11-10T00:00:00"
-   },
-   "summary": "L'Ingénieur offre Energy Storage Systems (ESS) participe au développement des offres techniques et commerciales pour des projets de stockage d’énergie par batteries à l’échelle industrielle (utility-scale) et commerciale au Japon.\r\n\r\nMissions principales :\r\nSous la supervision du Bid & Application Manager, le VIE participera à :\r\n\r\n- L'analyse des besoins clients et des cahiers des charges.\r\n- La préparation des offres techniques et commerciales pour des projets de stockage d'énergie au Japon.\r\n- La coordination des contributions des équipes internes (Ventes, Ingénierie, Achats, Finance, Opérations).\r\n- Le suivi des consultations fournisseurs et partenaires.\r\n- La préparation des analyses de risques techniques et commerciaux.\r\n- Le support aux échanges techniques avec les clients pendant les phases d'appel d'offres.\r\n- L'amélioration continue des outils, méthodes et bonnes pratiques de réponse aux appels d'offres.",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/247433",
-   "score": 29,
-   "label": "Périphérique",
-   "first_seen": "2026-10-23T18:20:08+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 10,
-    "qual": 0,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "amelioration continue",
-      "ingenierie",
-      "methodes"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineer"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "energie",
-      "energy",
-      "industriel"
      ],
      "points": 5
     },
@@ -31216,7 +31182,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T08:20:52Z",
    "sector": "",
-   "specialization": "[\"64\"]",
+   "specialization": "64",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31303,7 +31269,7 @@
    "expiry_date": "",
    "publish_date": "2025-09-03T10:46:42Z",
    "sector": "",
-   "specialization": "[\"112\",\"245\",\"248\"]",
+   "specialization": "112, 245, 248",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32432,7 +32398,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-19T13:06:41Z",
    "sector": "",
-   "specialization": "[\"17\"]",
+   "specialization": "17",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32679,7 +32645,7 @@
    "expiry_date": "",
    "publish_date": "2025-10-13T08:46:35Z",
    "sector": "",
-   "specialization": "[\"245\",\"248\"]",
+   "specialization": "245, 248",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32761,7 +32727,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T13:20:38Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33418,7 +33384,7 @@
    "expiry_date": "",
    "publish_date": "2026-03-26T13:23:47Z",
    "sector": "",
-   "specialization": "[\"130\"]",
+   "specialization": "130",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33904,7 +33870,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-29T10:06:40Z",
    "sector": "",
-   "specialization": "[\"327\"]",
+   "specialization": "327",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35143,7 +35109,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T09:15:57Z",
    "sector": "",
-   "specialization": "[\"327\"]",
+   "specialization": "327",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35797,7 +35763,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-29T10:11:33Z",
    "sector": "",
-   "specialization": "330",
+   "specialization": "[\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -36074,7 +36040,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-29T16:46:46Z",
    "sector": "",
-   "specialization": "330",
+   "specialization": "[\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -36216,7 +36182,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-12T12:29:13Z",
    "sector": "",
-   "specialization": "7",
+   "specialization": "[\"7\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
