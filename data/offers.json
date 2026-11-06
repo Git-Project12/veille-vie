@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-06T14:15:13+00:00",
+ "generated_at": "2026-11-06T20:27:46+00:00",
  "source": "Business France — mon-vie-via.businessfrance.fr",
- "total_scanned": 934,
- "total_announced": 934,
- "total_kept": 399,
+ "total_scanned": 936,
+ "total_announced": 936,
+ "total_kept": 400,
  "threshold": 25,
  "axes": {
   "rd": {
@@ -2433,7 +2433,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-04T08:26:50Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -3994,7 +3994,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-19T13:48:04Z",
    "sector": "",
-   "specialization": "60, 149, 208, 264",
+   "specialization": "[\"60\",\"149\",\"208\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6298,7 +6298,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-29T09:21:19Z",
    "sector": "",
-   "specialization": "66",
+   "specialization": "[\"66\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9087,7 +9087,7 @@
    "expiry_date": "",
    "publish_date": "2026-05-12T08:05:46Z",
    "sector": "",
-   "specialization": "66",
+   "specialization": "[\"66\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10356,7 +10356,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-23T07:15:58Z",
    "sector": "",
-   "specialization": "66",
+   "specialization": "[\"66\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -11259,7 +11259,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-26T15:04:30Z",
    "sector": "",
-   "specialization": "106",
+   "specialization": "[\"106\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12047,97 +12047,6 @@
       "aeronautique",
       "automobile",
       "chimie"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
-   "id": "247277",
-   "title": "Ingénieur Matériaux et Environnement (H/F)",
-   "company": "RENAULT SAS",
-   "country": "INDE",
-   "city": "CHENNAI",
-   "description": "Vos missions : \n\nRéaliser une cartographie stratégique de l’écosystème indien du recyclage des polymères, incluant les recycleurs, les compoundeurs, les fournisseurs de matières premières, les fournisseurs de technologies et les acteurs émergents de l’économie circulaire.\n\nEffectuer une veille marché et technologique afin d’identifier les procédés de recyclage innovants, les modèles économiques circulaires et les solutions avancées liées aux polymères recyclés.\n\nÉvaluer les matériaux recyclés et les flux de matières premières secondaires adaptés aux applications automobiles, notamment les matériaux recyclés post-consommation (PCR), les matériaux issus des véhicules en fin de vie (ELV) et les matériaux recyclés chimiquement.\n\nAnalyser les performances techniques, la maturité industrielle, la compétitivité et les bénéfices environnementaux des technologies de recyclage et des grades de polymères recyclés.\n\nIdentifier les opportunités d’augmentation de la teneur en matières recyclées tout en respectant les exigences du Groupe Renault en matière de qualité, de durabilité et de performance.\n\nÉtudier les leviers de décarbonation et les initiatives d’économie circulaire développés au sein de l’écosystème indien.\n\nContribuer au développement de partenariats et d’opportunités de collaboration avec les acteurs stratégiques de la chaîne de valeur du recyclage.\n\nParticiper aux feuilles de route du Groupe Renault et du programme « Future is NEUTRAL » relatives à la circularité, aux matériaux recyclés et aux matériaux durables. \n\nPréparer des analyses stratégiques, des rapports techniques et des présentations destinées à la direction, synthétisant les tendances du marché, les opportunités d’innovation et les recommandations business.",
-   "mission": "",
-   "profile": "Vous êtes actuellement en dernière année d’école d’ingénieur ou de Master (Bac+5) et recherchez un stage de fin d’études à l’international vous permettant de développer une expertise technique tout en découvrant un environnement multiculturel.\r\n\nFormation technique — Matériaux et économie circulaire\r\n\r\nConnaissances matériaux – Intérêt marqué pour les polymères, les matériaux recyclés, les procédés industriels et les technologies de recyclage.\r\n\r\nAisance relationnelle – Vous appréciez les échanges avec des partenaires industriels, fournisseurs et experts techniques dans un contexte international.\r\n\r\nMobilité — Disponible pour 24 mois (12 mois + 12 mois) à partir de janvier 2027, basé à Chennai.\r\n\r\nLangues — Anglais courant ; le français est un plus. La connaissance du hindi et/ou du tamoul est appréciée pour les interactions locales.\r\n\nVous souhaitez participer à l’aventure de l’automobile de demain ? Rejoignez-nous ! 🚗💡",
-   "duration": 6,
-   "start_date": "2027-02-01T00:00:00",
-   "end_date": "2027-08-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-20T09:47:53Z",
-   "sector": "",
-   "specialization": "150",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-20T09:47:53Z",
-    "missionStartDate": "2027-02-01T00:00:00",
-    "missionEndDate": "2027-08-01T00:00:00",
-    "startBroadcastDate": "2026-10-20T00:00:00",
-    "endBroadcastDate": "2026-11-19T00:00:00"
-   },
-   "summary": "Vos missions : \n\nRéaliser une cartographie stratégique de l’écosystème indien du recyclage des polymères, incluant les recycleurs, les compoundeurs, les fournisseurs de matières premières, les fournisseurs de technologies et les acteurs émergents de l’économie circulaire.\n\nEffectuer une veille marché et technologique afin d’identifier les procédés de recyclage innovants, les modèles économiques circulaires et les solutions avancées liées aux polymères recyclés.\n\nÉvaluer les matériaux recyclés et les flux de matières premières secondaires adaptés aux applications automobiles, notamment les matériaux recyclés post-consommation (PCR), les matériaux issus des véhicules en fin de vie (ELV) et les matériaux recyclés chimiquement.\n\nAnalyser les performances techniques, la maturité industrielle, la compétitivité et les bénéfices environnementaux des technologies de recyclage et des grades de polymères recyclés. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/247277",
-   "score": 47,
-   "label": "À examiner",
-   "first_seen": "2026-11-04T14:29:48+00:00",
-   "axis_scores": {
-    "rd": 37,
-    "prod": 0,
-    "qual": 8,
-    "calc": 0
-   },
-   "dominant_axis": "rd",
-   "matched_families": [
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "qualite"
-     ]
-    },
-    {
-     "id": "rd2",
-     "axis": "rd",
-     "source": "Propriétés mécaniques et physique des matériaux (262-1, 30 h), Critères de choix des matériaux (265-1, 15 h)",
-     "weight": 9,
-     "terms": [
-      "materiaux"
-     ]
-    },
-    {
-     "id": "rd7",
-     "axis": "rd",
-     "source": "Recyclage des matériaux (8 h), Éco-conception (842-1, 8 h), Enjeux DDRS (838-1, 20 h)",
-     "weight": 4,
-     "terms": [
-      "decarbonation",
-      "economie circulaire",
-      "recyclage"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur",
-      "materiaux"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "automobile"
      ],
      "points": 5
     },
@@ -13530,7 +13439,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-21T12:36:21Z",
    "sector": "",
-   "specialization": "225",
+   "specialization": "[\"225\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -15317,7 +15226,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-09T14:58:34Z",
    "sector": "",
-   "specialization": "327",
+   "specialization": "[\"327\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -16051,7 +15960,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-30T11:27:44Z",
    "sector": "",
-   "specialization": "109, 158",
+   "specialization": "[\"109\",\"158\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -16160,7 +16069,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-29T11:46:13Z",
    "sector": "",
-   "specialization": "137, 149, 150, 244, 264",
+   "specialization": "[\"137\",\"149\",\"150\",\"244\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -16591,7 +16500,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-12T12:25:28Z",
    "sector": "",
-   "specialization": "66",
+   "specialization": "[\"66\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21769,7 +21678,7 @@
    "expiry_date": "",
    "publish_date": "2025-11-19T10:45:12Z",
    "sector": "",
-   "specialization": "71, 73, 224",
+   "specialization": "[\"71\",\"73\",\"224\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22778,7 +22687,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T09:12:56Z",
    "sector": "",
-   "specialization": "259",
+   "specialization": "[\"259\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -23109,7 +23018,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-27T14:55:20Z",
    "sector": "",
-   "specialization": "168",
+   "specialization": "[\"168\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -23586,6 +23495,79 @@
      "terms": [
       "industriel",
       "mecanique"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
+   "id": "248041",
+   "title": "Responsable des achats de programmes (H/F)",
+   "company": "FAURECIA SYSTEMES D'ECHAPPEMENT",
+   "country": "TCHEQUIE / REPUBLIQUE TCHEQUE",
+   "city": "MLADA BOLESLAV",
+   "description": "Notre filiale européenne recherche un VIE en achats pour son usine de Mlada Boleslav, en République tchèque.\n\n1. Processus d’appel d’offres et sélection des fournisseurs :\n\nSélectionner les fournisseurs en collaboration avec les acheteurs de matières premières et lancer les appels d’offres\nMener les négociations techniques et commerciales avec les fournisseurs\nDiriger le processus de sélection des fournisseurs\n\n2. Développement et exécution des programmes :\n\nAssurer le suivi du calendrier de développement des programmes et veiller au respect des délais de livraison par les fournisseurs\nVeiller à ce que les fournisseurs atteignent les objectifs QCD\nMettre en œuvre les contrats spécifiques aux achats de programmes\nGarantir la montée en puissance de la production des fournisseurs avant le démarrage de la production du programme et le passage à la production en série\n\n3. Gestion de la performance des achats de programmes :\n\nÉvaluation de la stratégie des fournisseurs\nRespect des délais de livraison (étapes clés du programme)\nPerformance économique",
+   "mission": "",
+   "profile": "Quelles sont les conditions requises pour nous rejoindre ?\n\nLa maîtrise de l'anglais est indispensable, car vous serez amené(e) à communiquer avec des personnes du monde entier.\nMaster ou diplôme d'ingénieur en achats\nAu moins 2 à 3 ans d'expérience dans le domaine des achats (de préférence dans le secteur automobile)\nQuel profil recherchons-nous ?\n\nEsprit d’innovation et capacité à formuler des propositions\nCapacité à animer des équipes de travail pluridisciplinaires\nOrientation client (interne et externe)\nMaîtrise de l’outil informatique\nEsprit d’analyse\nCompétences en négociation\nSoif d’apprendre\nOuverture d’esprit, proactivité et autonomie\nCapacité à apporter un regard neuf sur l’organisation actuelle\nEsprit d’équipe et ouverture à l’international\nConnaissance des produits et des technologies\nMaîtrise des processus d’audit des fournisseurs et de la gestion de la qualité",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-11-06T10:03:36Z",
+   "sector": "",
+   "specialization": "[\"2\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-11-06T10:03:36Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-11-06T00:00:00",
+    "endBroadcastDate": "2026-12-06T00:00:00"
+   },
+   "summary": "Notre filiale européenne recherche un VIE en achats pour son usine de Mlada Boleslav, en République tchèque.\n\n1. Processus d’appel d’offres et sélection des fournisseurs :\n\nSélectionner les fournisseurs en collaboration avec les acheteurs de matières premières et lancer les appels d’offres\nMener les négociations techniques et commerciales avec les fournisseurs\nDiriger le processus de sélection des fournisseurs\n\n2. Développement et exécution des programmes :\n\nAssurer le suivi du calendrier de développement des programmes et veiller au respect des délais de livraison par les fournisseurs\nVeiller à ce que les fournisseurs atteignent les objectifs QCD\nMettre en œuvre les contrats spécifiques aux achats de programmes\nGarantir la montée en puissance de la production des fournisseurs avant le démarrage de la production du programme et le passage à la production en série\n\n3. Gestion de la performance des achats de programmes :\n\nÉvaluation de la stratégie des fournisseurs\nRespect des délais de livraison (étapes clés du programme)\nPerformance économique",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/248041",
+   "score": 31,
+   "label": "Périphérique",
+   "first_seen": "2026-11-06T20:27:28+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 34,
+    "qual": 8,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod4",
+     "axis": "prod",
+     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
+     "weight": 10,
+     "terms": [
+      "usine"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "audit",
+      "qualite"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "automobile"
      ],
      "points": 5
     },
@@ -25002,7 +24984,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-03T11:28:24Z",
    "sector": "",
-   "specialization": "62",
+   "specialization": "[\"62\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26179,7 +26161,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-12T13:41:19Z",
    "sector": "",
-   "specialization": "351",
+   "specialization": "[\"351\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26996,7 +26978,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-21T09:47:43Z",
    "sector": "",
-   "specialization": "66, 71, 143",
+   "specialization": "[\"66\",\"71\",\"143\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27182,7 +27164,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-21T09:50:40Z",
    "sector": "",
-   "specialization": "66, 71, 143, 153",
+   "specialization": "[\"66\",\"71\",\"143\",\"153\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27748,7 +27730,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T09:30:50Z",
    "sector": "",
-   "specialization": "330",
+   "specialization": "[\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -28530,7 +28512,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-14T08:34:30Z",
    "sector": "",
-   "specialization": "65",
+   "specialization": "[\"65\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29316,7 +29298,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-12T07:40:30Z",
    "sector": "",
-   "specialization": "330",
+   "specialization": "[\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31093,7 +31075,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-29T13:26:26Z",
    "sector": "",
-   "specialization": "355",
+   "specialization": "[\"355\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32040,7 +32022,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-15T13:57:57Z",
    "sector": "",
-   "specialization": "73",
+   "specialization": "[\"73\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33977,98 +33959,6 @@
    ]
   },
   {
-   "id": "247050",
-   "title": "Ingénieur support technique H/F (H/F)",
-   "company": "SAGEMCOM BROADBAND SAS",
-   "country": "MEXIQUE",
-   "city": "MEXICO",
-   "description": "Notre département Audio et Vidéo poursuit sa croissance et étend sa gamme de produit Décodeurs numériques pour opérateur TV avec des enceintes connectées et des assistants vocaux révolutionnant l'expérience utilisateur et l'accès aux contenus des médias audio et vidéos. Ces produits sont réalisés en collaboration avec les leaders sur ces marchés (Netflix, Broadcom, Amazon, Apple, …).\nVotre mission se déroulera à Mexico, au sein de l'équipe support Audio et Vidéo Solutions de Sagemcom MEXICO basée dans la ville de Mexico. Vous travaillerez en collaboration avec la R&D Audio et Vidéo Solutions basée à Bécon-les-Bruyères et Tunis.\n\nContexte:\nSAIA est une plateforme cloud de support et de diagnostic pour équipements connectés (STB). Elle s'appuie sur des systèmes agentiques basés sur des LLMs, des données terrain collectées sur les équipements et des outils d'analyse destinés aux techniciens, aux équipes d'exploitation et aux opérateurs.\n\nMission:\nContribuer à l'amélioration des systèmes agentiques SAIA et à l'exploitation des données de diagnostic afin d'optimiser la qualité des analyses, des recommandations et des indicateurs métier.\n\nActivités principales:\n- Analyse des données issues des sessions SAIA.\n- Évaluation et amélioration des performances des agents IA.\n- Optimisation des prompts et workflows agentiques.\n- Création d'indicateurs, rapports et tableaux de bord.\n- Construction de jeux de données et d'outils d'évaluation des LLM.\n- Collaboration avec les équipes Backend, Data et Validation.\n\nRattaché(e) à l’équipe R&D SAIA en France, le ou la VIE intervient sur cinq axes:\n1. Développement de nouvelles fonctionnalités\nConcevoir et développer, avec la R&D en France, les fonctionnalités SAIA dont la zone Amériques a besoin\n2. Tests automatisés et reporting\nExécuter les tests automatisés pendant la nuit française\nDévelopper le monitoring et les alertes, et contrôler automatiquement l’état des serveurs dans le monde\n3. Support des clients américains\nCorriger les bugs et réaliser les petites évolutions du backlog\nAnalyser les tickets des parcs de la zone\nAnimer les workshops clients\n4. Gestion des incidents\nRétablir le service quand un serveur SAIA est indisponible pendant les heures américaines, puis documenter l’incident\n5. Passage de relais quotidien avec la France\nFaire le point de 16h à 18h (heure de Paris) : incidents en cours, priorités, retours clients",
-   "mission": "",
-   "profile": "De formation Ingénieur, vous avez des connaissances en LLM, machine learning, télécommunications, réseaux IP, TV numérique.\n\nUne première expérience dans l’environnement technologique suivant sera fortement appréciée : Linux Embarqué, Temps réel, Réseaux, Langage C, IA , LLM, machine learning\n\nLangages : C/C++ (maîtrise avancée), scripts Shell.\nSystèmes embarqués : Linux embarqué (Buildroot), cross-compilation, gestion des drivers, Python, PostgreSQL, Data Analysis, Prompt Engineering, LLM / Agents (ReAct, MCP, A2A)\nOutils de développement : Git/GitLab, CI/CD, GDB, Valgrind, outils de profiling et debugging.\nProtocoles et connectivité : TCP/IP, Wi-Fi, EasyMesh, DHCP, DNS.\nArchitecture logicielle : intégration de modules, adaptation aux contraintes matérielles.\nCompétences complémentaires :\nConnaissance des environnements STB, routeurs ou IoT.\nFamiliarité avec Jira pour la gestion des tickets et suivi des développements.\nBonne compréhension des architectures réseau et des contraintes temps réel.\n\nDoté de capacités de communication, vous êtes rigoureux, avez le souci du détail.\nVous avez un fort esprit de synthèse et savez travailler en autonomie.\nVous parlez anglais et espagnol couramment.\nEnfin, des déplacements pourront être envisagés dans d’autres pays d’Europe.\nA l’issu du VIE de nombreuses opportunités pourront vous être proposé des postes en local ou dans d’autres filiales, au siège dans notre service R&D.\n\nSagemcom est une entreprise handi-accueillante.",
-   "duration": 12,
-   "start_date": "2027-02-01T00:00:00",
-   "end_date": "2028-02-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-14T07:37:40Z",
-   "sector": "",
-   "specialization": "248",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-14T07:37:40Z",
-    "missionStartDate": "2027-02-01T00:00:00",
-    "missionEndDate": "2028-02-01T00:00:00",
-    "startBroadcastDate": "2026-10-14T00:00:00",
-    "endBroadcastDate": "2026-11-13T00:00:00"
-   },
-   "summary": "Notre département Audio et Vidéo poursuit sa croissance et étend sa gamme de produit Décodeurs numériques pour opérateur TV avec des enceintes connectées et des assistants vocaux révolutionnant l'expérience utilisateur et l'accès aux contenus des médias audio et vidéos. Ces produits sont réalisés en collaboration avec les leaders sur ces marchés (Netflix, Broadcom, Amazon, Apple, …).\nVotre mission se déroulera à Mexico, au sein de l'équipe support Audio et Vidéo Solutions de Sagemcom MEXICO basée dans la ville de Mexico. Vous travaillerez en collaboration avec la R&D Audio et Vidéo Solutions basée à Bécon-les-Bruyères et Tunis.\n\nContexte:\nSAIA est une plateforme cloud de support et de diagnostic pour équipements connectés (STB). […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/247050",
-   "score": 28,
-   "label": "Périphérique",
-   "first_seen": "2026-10-14T11:50:13+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 10,
-    "qual": 8,
-    "calc": 9
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
-     "weight": 4,
-     "terms": [
-      "data analysis",
-      "python"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "engineering"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "qualite",
-      "validation"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "r&d"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "245403",
    "title": "Ingenieur(e) support technique (H/F)",
    "company": "SAGEMCOM ENERGY & TELECOM SAS",
@@ -34312,6 +34202,97 @@
       "space"
      ],
      "points": 5
+    }
+   ]
+  },
+  {
+   "id": "247506",
+   "title": "Ingénieur R&D Application et Systèmes - Contrôleurs tactiles (H/F)",
+   "company": "STMICROELECTRONICS (GRENOBLE 2) SAS",
+   "country": "COREE DU SUD",
+   "city": "SUWON",
+   "description": "Vous participerez au développement de solutions de nouvelle génération pour les contrôleurs tactiles destinés à différentes applications. Vous intégrerez l’équipe Application des contrôleurs tactiles (Fingertip) au sein de la division Imaging, basée à Séoul, et serez rattaché(e) à l’équipe locale de recherche et de développement. La mission est prévue pour une durée de 18 mois à 24 mois.\n\nVotre rôle consistera notamment à :\n\nConstruire une expertise sur les produits de contrôleurs tactiles et les technologies d'écrans tactiles\nMettre à profit vos connaissances en ingénierie pour concevoir ou faire évoluer des nouvelles solutions techniques de solutions tactiles et améliorer l’expérience utilisateur.\nCoopérer avec d'autres equipes de développement internes et externes a ST sur des sujets d'innovation système\nAssurer un service technique aux équipes locales sur vos développements et les activités de support applicatif (support aux équipes R&D ou de développement des clients d'ST, documentation, firmware et logiciel, réglages et optimisation des écrans, etc.).",
+   "mission": "",
+   "profile": "A propos de vous\n\nDiplôme de niveau Master en physique, informatique ou génie électrique.\n3 ans d’expérience dans les domaines des algorithmes, des applications ou de l’ingénierie de validation (apprentissages et stages inclus).\nSolides compétences en débogage logiciel ainsi que sur matériel analogique et numérique.\nMaîtrise de la programmation en C et Python.\nDes connaissances en sciences des données appliquées aux systèmes embarqués constituent un atout.\nExcellente maîtrise de la suite d’outils Microsoft.\nAnglais professionnel courant.",
+   "duration": 24,
+   "start_date": "2027-02-01T00:00:00",
+   "end_date": "2029-02-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-26T09:04:05Z",
+   "sector": "",
+   "specialization": "[\"143\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-26T09:04:05Z",
+    "missionStartDate": "2027-02-01T00:00:00",
+    "missionEndDate": "2029-02-01T00:00:00",
+    "startBroadcastDate": "2026-11-06T00:00:00",
+    "endBroadcastDate": "2026-12-06T00:00:00"
+   },
+   "summary": "Vous participerez au développement de solutions de nouvelle génération pour les contrôleurs tactiles destinés à différentes applications. Vous intégrerez l’équipe Application des contrôleurs tactiles (Fingertip) au sein de la division Imaging, basée à Séoul, et serez rattaché(e) à l’équipe locale de recherche et de développement. La mission est prévue pour une durée de 18 mois à 24 mois.\n\nVotre rôle consistera notamment à :\n\nConstruire une expertise sur les produits de contrôleurs tactiles et les technologies d'écrans tactiles\nMettre à profit vos connaissances en ingénierie pour concevoir ou faire évoluer des nouvelles solutions techniques de solutions tactiles et améliorer l’expérience utilisateur.\nCoopérer avec d'autres equipes de développement internes et externes a ST sur des sujets d'innovation système\nAssurer un service technique aux équipes locales sur vos développements et les activités de support applicatif (support aux équipes R&D ou de développement des clients d'ST, documentation, firmware et logiciel, réglages et optimisation des écrans, etc.).",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247506",
+   "score": 28,
+   "label": "Périphérique",
+   "first_seen": "2026-11-06T20:27:28+00:00",
+   "axis_scores": {
+    "rd": 9,
+    "prod": 10,
+    "qual": 8,
+    "calc": 9
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "calc4",
+     "axis": "calc",
+     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
+     "weight": 4,
+     "terms": [
+      "python"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "ingenierie"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "validation"
+     ]
+    },
+    {
+     "id": "rd9",
+     "axis": "rd",
+     "source": "Vocabulaire de laboratoire courant",
+     "weight": 3,
+     "terms": [
+      "r&d"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "ingenieur",
+      "r&d"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
     }
    ]
   },
@@ -34835,7 +34816,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-19T13:06:41Z",
    "sector": "",
-   "specialization": "17",
+   "specialization": "[\"17\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35082,7 +35063,7 @@
    "expiry_date": "",
    "publish_date": "2025-10-13T08:46:35Z",
    "sector": "",
-   "specialization": "245, 248",
+   "specialization": "[\"245\",\"248\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35462,6 +35443,90 @@
      "weight": 2,
      "terms": [
       "quality"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
+   "id": "248044",
+   "title": "Logistics Transformation Project Analyst (H/F)",
+   "company": "SANOFI WINTHROP INDUSTRIE",
+   "country": "ESPAGNE",
+   "city": "BARCELONE",
+   "description": "About the job\r\n\r\nAs Logistics Transformation Project Analyst VIE within our Global Logistics Transformation team, you’ll support the delivery of two strategic digital transformation projects: the CO2 Logistics Accounting & Management Solution Implementation and the Coldstream Select Temperature Monitoring Solution Upgrade. You will provide project management support, coordinate cross-functional activities, and contribute to business case development, working closely with the Project Lead, vendors, and internal stakeholders across HSE, Digital, Transportation, Procurement, and SC Sustainability.\r\n\r\nThis is a great opportunity for a young professional to gain exposure to global supply chain operations, vendor management, cross-functional governance, and sustainability/compliance-driven digital transformation within a leading global healthcare company.\r\n\r\nWhat we offer:\r\n\r\n- An international assignment in Barcelona within a global healthcare leader.\r\n- Hands-on experience in project coordination, governance management, and business case development.\r\n- Direct collaboration with cross-functional teams (HSE, Digital, Transportation, Procurement) and external vendors.\r\n- A collaborative, learning-oriented environment supporting your professional growth.\r\n\r\nReady to get started?\r\n\r\nAbout Sanofi\r\n\r\nWe’re an R&D-driven, AI-powered biopharma company committed to improving people’s lives and delivering compelling growth. Our deep understanding of the immune system – and innovative pipeline – enables us to invent medicines and vaccines that treat and protect millions of people around the world. Together, we chase the miracles of science to improve people’s lives. \r\n\r\nMain responsibilities:\r\n\r\n1. CO2 Logistics Accounting & Management Solution Implementation:\r\n\r\n- Support the Project Lead in coordinating activities across Sanofi teams (HSE, Digital, Transportation, Procurement, SC Sustainability) and vendor (VesselBot).\r\n- Attend project meetings, capture key decisions and action items, and ensure timely follow-up with stakeholders.\r\n- Track project milestones against the implementation timeline (Project Planning, Build & Integration, UAT, Go-Live, Rollout).\r\n- Support coordination of logistics provider onboarding activities and data integration follow-ups.\r\n- Prepare status updates and reporting materials ahead of governance meetings (Steering Committee, Program Management Committee, Delivery Team, All Hands, Technical Working Sessions).\r\n\r\n2. Coldstream Select Temperature Monitoring Solution Upgrade:\r\n\r\n- Support the Project Lead in coordinating activities related to the Sensitech CCM to Sensitech Select upgrade.\r\n- Attend project meetings, document key outcomes, and ensure follow-through on action items across Digital, Sites, and Quality stakeholders.\r\n- Contribute to building the business case for real-time logger implementation and control tower monitoring.\r\n- Prepare status updates and reporting materials ahead of governance meetings.\r\n- Support tracking of project budget, scope, and timeline (Go-Live Oct 2026, Target Architecture Feb-Jul 2027, Real Time Loggers within 2027).\r\n\r\nWhy choose us?\r\n\r\n- Be part of a pioneering biopharma company where patient insights shape drug development.\r\n- Work at the forefront of AI-powered science that accelerates discovery and improves outcomes.\r\n- Collaborate beyond your expertise, sparking new ideas with diverse, multidisciplinary teams.\r\n- Shape the future of medicine and vaccine delivery with cutting-edge technology, ensuring seamless launches and a resilient global supply.\r\n- Power industry-leading performance by leveraging digital, data, and AI-driven innovation – at speed and scale.\r\n- Transform lives worldwide by delivering life-changing treatments anywhere, anytime.\r\n\r\niMove is a unique program tailored for European youth interested in challenging themselves with meaningful assignments across the globe. At Sanofi we have a strong ambition to invest in young talents who will drive the success of Sanofi tomorrow. \r\n\r\nSanofi’s Work Abroad Program, iMove, offers jobs-assignments with actual responsibilities and a perspective to grow. We provide those opportunities in various functions such as: marketing, finance, regulatory, supply chain, clinical trials, production, etc. and in more than 40 countries. Sanofi unites people who are passionate about solving healthcare needs across the world. Joining our iMove Work Abroad Program is a unique opportunity to make a difference through your work. \r\n\r\nPursue Progress. Discover Extraordinary. \r\n\r\nProgress doesn’t happen without people – people from different backgrounds, in different locations, doing different roles, all united by one thing: a desire to make miracles happen. You can be one of those people. Chasing change, embracing new ideas and exploring all the opportunities we have to offer. Let’s pursue progress. And let’s discover extraordinary together. \r\n\r\nAt Sanofi, we provide equal opportunities to all regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, or gender identity. \r\n \r\nWatch our ALL IN video and check out our Diversity Equity and Inclusion actions at sanofi.com!",
+   "mission": "",
+   "profile": "About you\n\nExperience:\n\n- Previous experience related to the position.\n\nSoft and technical skills:\n\n- Strong communication skills and comfort working in an international, cross-cultural environment.\n- Autonomous, proactive, and detail-oriented, with the ability to manage competing priorities across two parallel projects.\n- Strong organizational and coordination skills; ability to manage multiple stakeholders across functions and geographies.\n- Interest in sustainability, digital transformation, and supply chain innovation.\n- Proficiency in Excel and PowerPoint; familiarity with project management tools is a plus.\n\nEducation:\n\n- Master's degree in Supply Chain, Logistics, Engineering, Business Analytics, or a related field.\n\nLanguages:\n\n- Fluent in English, French and Spanish are a plus.\n\nTo facilitate the examination of your application by our English-speaking managers, thank you for applying in English.",
+   "duration": 24,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2029-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-11-06T10:38:35Z",
+   "sector": "",
+   "specialization": "[\"6\",\"7\",\"86\",\"125\",\"130\",\"158\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-11-06T10:38:35Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2029-01-01T00:00:00",
+    "startBroadcastDate": "2026-11-06T00:00:00",
+    "endBroadcastDate": "2026-12-06T00:00:00"
+   },
+   "summary": "About the job\r\n\r\nAs Logistics Transformation Project Analyst VIE within our Global Logistics Transformation team, you’ll support the delivery of two strategic digital transformation projects: the CO2 Logistics Accounting & Management Solution Implementation and the Coldstream Select Temperature Monitoring Solution Upgrade. You will provide project management support, coordinate cross-functional activities, and contribute to business case development, working closely with the Project Lead, vendors, and internal stakeholders across HSE, Digital, Transportation, Procurement, and SC Sustainability.\r\n\r\nThis is a great opportunity for a young professional to gain exposure to global supply chain operations, vendor management, cross-functional governance, and sustainability/compliance-driven digital transformation within a leading global healthcare company.\r\n\r\nWhat we offer:\r\n\r\n- An international assignment in Barcelona within a global healthcare leader.\r\n- Hands-on experience in project coordination, governance management, and business case development. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/248044",
+   "score": 27,
+   "label": "Périphérique",
+   "first_seen": "2026-11-06T20:27:28+00:00",
+   "axis_scores": {
+    "rd": 9,
+    "prod": 34,
+    "qual": 8,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod6",
+     "axis": "prod",
+     "source": "Outils et moyens de fabrication (259-1, 30 h)",
+     "weight": 7,
+     "terms": [
+      "cutting"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "engineering"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "compliance",
+      "quality"
+     ]
+    },
+    {
+     "id": "rd9",
+     "axis": "rd",
+     "source": "Vocabulaire de laboratoire courant",
+     "weight": 3,
+     "terms": [
+      "r&d"
      ]
     }
    ],
@@ -37217,98 +37282,6 @@
    ]
   },
   {
-   "id": "247659",
-   "title": "Supply Chain Project Coordinator (H/F)",
-   "company": "LEGRAND FRANCE",
-   "country": "THAILANDE",
-   "city": "BANGKOK",
-   "description": "As part of the Southeast Asia Operations team, the VIE Supply Chain Project Coordinator will support regional supply chain transformation and continuous improvement initiatives across multiple countries and manufacturing sites in Southeast Asia. Working closely with Supply Chain, Procurement, Manufacturing, Planning, Logistics and Operations teams, the VIE will contribute to the coordination and execution of strategic projects aimed at improving operational performance, inventory management, service levels, procurement efficiency, supply chain processes and data reliability throughout the region. \nRole Responsibilities:\n• Coordinate regional supply chain improvement projects across Southeast Asia\n• Standardize procedure and KPIs throughout SouthEast Asia entities \n• Analyze operational and supply chain performance data and prepare management reports and dashboards \n• Identify data quality issues, implement corrective actions, and drive continuous improvement initiatives \n• Improve the reliability, accuracy, and consistency of supply chain and procurement data across systems, reports, and dashboards. \n• Support change management and communication activities related to transformation projects. \n• Facilitate collaboration between manufacturing sites, procurement teams and regional stakeholders. \n• Participate in inventory optimization, logistics improvement and procurement productivity initiatives. \n• Contribute to the deployment of best practices and standardization of supply chain processes across the region. \n• Prepare presentations and business cases for regional management reviews.",
-   "mission": "",
-   "profile": "Role Requirements:\n• Master’s degree in Supply Chain, Industrial Engineering, Operations Management or related field. \n• Strong analytical and problem-solving skills. \n• Interest in project management and operational excellence. \n• Excellent verbal and written communication skills, to engage confidently with internal stakeholders, customers, partners, and senior management. Proficiency in additional regional languages is an advantage. Fluency in English is a must. \n• Advanced proficiency in Excel and PowerPoint; knowledge of Power BI is a plus. \n• Proactive, resourceful, and hands-on, with strong attention to detail \n• Demonstrates a strong can-do attitude, ownership mindset, and solid work ethic, consistently driving results.",
-   "duration": 12,
-   "start_date": "2027-02-01T00:00:00",
-   "end_date": "2028-02-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-28T17:22:52Z",
-   "sector": "",
-   "specialization": "[\"244\"]",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-28T17:22:52Z",
-    "missionStartDate": "2027-02-01T00:00:00",
-    "missionEndDate": "2028-02-01T00:00:00",
-    "startBroadcastDate": "2026-10-29T00:00:00",
-    "endBroadcastDate": "2026-11-28T00:00:00"
-   },
-   "summary": "As part of the Southeast Asia Operations team, the VIE Supply Chain Project Coordinator will support regional supply chain transformation and continuous improvement initiatives across multiple countries and manufacturing sites in Southeast Asia. Working closely with Supply Chain, Procurement, Manufacturing, Planning, Logistics and Operations teams, the VIE will contribute to the coordination and execution of strategic projects aimed at improving operational performance, inventory management, service levels, procurement efficiency, supply chain processes and data reliability throughout the region. \nRole Responsibilities:\n• Coordinate regional supply chain improvement projects across Southeast Asia\n• Standardize procedure and KPIs throughout SouthEast Asia entities \n• Analyze operational and supply chain performance data and prepare management reports and dashboards \n• Identify data quality issues, implement corrective actions, and drive continuous improvement initiatives […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/247659",
-   "score": 26,
-   "label": "Périphérique",
-   "first_seen": "2026-10-29T12:58:34+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 24,
-    "qual": 8,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod5",
-     "axis": "prod",
-     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
-     "weight": 4,
-     "terms": [
-      "productivity"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "continuous improvement",
-      "engineering",
-      "manufacturing"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "quality"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "problem solving"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "industrial"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "243663",
    "title": "INGÉNIEUR(E) PROJETS (H/F)",
    "company": "MISSION CONSEIL ASSISTANCE INGENIERIE",
@@ -37395,7 +37368,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T09:15:57Z",
    "sector": "",
-   "specialization": "327",
+   "specialization": "[\"327\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -38049,7 +38022,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-29T10:11:33Z",
    "sector": "",
-   "specialization": "330",
+   "specialization": "[\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -38326,7 +38299,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-29T16:46:46Z",
    "sector": "",
-   "specialization": "330",
+   "specialization": "[\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -38377,6 +38350,78 @@
       "ingenieur"
      ],
      "points": 14
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
+   "id": "246863",
+   "title": "Chargé(e) de mission numérique (H/F)",
+   "company": "MINISTERE DE L'EUROPE ET DES AFFAIRES ETRANGERES",
+   "country": "SENEGAL",
+   "city": "DAKAR",
+   "description": "ATTENTION : Veillez à postuler via cette plate-forme pendant que l’offre est en ligne, celle-ci disparaîtra de ce site le jour d’expiration mentionné dans l’annonce à 00h01.\n\n*************************************************\n\nSous l’autorité du Conseiller de coopération et d’action culturelle (COCAC) et Directeur de l’Institut français du Sénégal, de son adjoint, et de l’Attaché de coopération « Innovation et Économie numérique », le/la chargé/e de mission soutient la politique de coopération dans les domaines de l’innovation et de l’économie numérique et contribue à la politique de communication, en qualité de référent/e communication du SCAC. Il s’agit en particulier d’accompagner le développement du réseau d’incubateurs de l’Institut français du Sénégal et des Alliances françaises au Sénégal et en Gambie (Réseau Teranga Tech Incub), d’accompagner les différents projets « Innovation et Économie numérique » soutenus dans le cadre de projet Fonds Équipe France « FEF » et de contribuer à la cohésion de la communication du réseau autour de thématiques d’avenir.\n\nLes activités principales du/de la chargé/e de mission seront les suivantes :\n\n- Piloter et animer le réseau Teranga Tech Incub, réseau d’incubateurs porté par l’Ambassade de France et déployé sur l’ensemble du territoire sénégalais et en Gambie (4 pôles d’incubation à Dakar, Saint-Louis, Banjul et Ziguinchor) : soutenir son développement, sa montée en puissance et sa visibilité ; appuyer la montée en compétence des quatre responsables d’incubateurs ; développer le réseau de partenaires de Teranga Tech Incub (entreprises, banques, institutions internationales, autorités sénégalaises et gambiennes, collectivités territoriales françaises/coopération décentralisée) ;\n\n- Accompagner la structuration et le rayonnement de la communauté Jambaar Créa consacrée aux Industries Culturelles et Créatives (ICC), en partenariat avec Euroquity / BPIFrance. Animer cette communauté ; assurer un suivi particulier de l’entrepreneuriat féminin et autres sujets identifiés en lien avec l’Attaché de coopération « Innovation et Économie numérique » (Intelligence artificielle, spatial, etc.) ;\n\n- Soutenir la mise en place de projets du Fonds Equipe France (FEF) ou autre fonds de coopération dans le domaine de l’innovation et l’économie numérique ; soutenir la participation de délégations sénégalaises à des événements internationaux (Vivatech, We Are French Touch, BIG, etc.) ;\n\n- Assurer conjointement avec l’Attaché de coopération « Innovation et Economie numérique » une veille sectorielle selon les priorités du moment.\n\nEn qualité de référent/e communication du SCAC, contribuer à la politique de communication :\n \n- Décliner la stratégie de communication définie et dont la mise en œuvre est coordonnée par le Service presse et communication à l’échelle du service, du réseau (établissements scolaires et alliances françaises), des opérateurs – Institut Français du Sénégal, groupe AFD (dont Expertise France et Proparco), Campus France, France Volontaires, IRD, CIRAD, CNRS – et des ETI ;\n- Veiller à la cohérence des actions de communication et à leur inscription dans l’agenda du renouveau, y compris dans l’utilisation des crédits alloués à la communication dans les projets soutenus par le service ;\n- Participer aux réunions des référents communication, qui préparent le planning éditorial, arbitré par le Service presse et communication, garant de la politique de presse et de communication du poste ;\n- Signaler les interlocuteurs pertinents et leur positionnement, alimenter la cartographie des relais d’influence et contribuer au tableau de bord d’impact tenu par le Service presse et communication.\n\nObservations particulières sur le poste :\n\n- Environnement de travail : le bureau du/de la VIA est situé dans les locaux de l’Ambassade.\n\n- Horaires de travail : disponibilité à prévoir certains soirs et weekends pour des évènements de représentation. Des missions devront également être prévues en région et en Gambie.\n\n- Composition de l’équipe de travail : Le Service de coopération et d’action culturelle (SCAC) est composé d’un Conseiller de coopération et d’action culturel et Directeur de l’Institut français du Sénégal, d’un Conseiller adjoint de coopération et d’action culturelle, de 10 attachés de coopération, de 5 VIA et de 5 agents de droit local. Le/la VIA numérique travaille en lien fonctionnel avec le/la chargé/e de mission communication du Service presse et communication. La stratégie, le porte-parolat et le planning éditorial relèvent du Service presse et communication ; la déclinaison au sein du SCAC, du réseau, des opérateurs et par les ETI relève du/de la référent/e.\n\n- RTT – 11 jours de RTT sur une base de travail Hebdomadaire de 38h30\n\n- Congés : La prise de congés doit se faire en cohérence avec la nécessité de continuité de service (présence d’un binôme), et de la charge de travail planifié. Pas d’autre contrainte. 30 jours de congés.\n\n- Déplacements : Le/la VIA devra prévoir de fréquents déplacements dans différentes régions du Sénégal et en Gambie.\n\n*************************************************\n\nATTENTION : Veillez à postuler via cette plate-forme pendant que l’offre est en ligne. Passé ce délai, il ne sera plus possible de candidater. Les transmissions de candidatures aux conseillers RH ou aux structures d’accueils ne seront pas prises en compte.\nToute candidature à cette offre suppose obligatoirement une inscription préalable sur le site https://monvievia.businessfrance.fr/ Les candidat(e)s non inscrit(e)s ne seront pas retenu(e)s.\n• Les niveaux de langues étrangères devront être OBLIGATOIREMENT précisés selon le cadre européen de référence pour les langues (CECRL) A1, A2, B1, B2, C1, C2.\n• Merci d'adresser ==IMPERATIVEMENT== votre CV et lettre de motivation EN FRANÇAIS, au format PDF en respectant le format de fichiers ci-après :\nNOM Prénom CV.pdf\nNOM Prénom LM.pdf\n• Tout dossier de candidature adressé directement à l’organisme d’affectation et/ou qui serait incomplet ou non conforme NE SERA PAS RETENU.\n• Les lettres de recommandation, prises de contact via les réseaux sociaux (Linkedin, Instagram, etc...) ou autres formes d’intervention auprès des organismes d’affectation (ce qui inclut la DRH) sont proscrites.\n• Si vous ne recevez pas d'information de notre part sous 8 semaines après expiration de l’annonce, vous pourrez considérer que, malgré tout l'intérêt que présente votre profil, il ne correspond pas à nos besoins actuels.\n• Les entretiens auront lieu principalement en visioconférence.\n• Dans le cadre du processus de recrutement, le ministère de l’Europe et des affaires étrangères est susceptible de procéder à une prise de référence auprès des anciens employeurs des candidats, conformément aux articles 1221-8 et 1221-9 du code du travail, en l’absence de disposition dans le code général de la fonction publique ou dans le code du service national.\n• Le/la candidat(e) devra être éligible à l'obtention d'un passeport de service/diplomatique pour le pays de destination.\n• La consultation de la fiche « conseils aux voyageurs » sur le site du MEAE est ==INDISPENSABLE== au moment de postuler : https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/\n\n*************************************************",
+   "mission": "",
+   "profile": "Diplômes demandés : Bac +5 d’une Université, Sciences Po, d’une école de commerce ou d’ingénieurs dans le domaine de l’innovation, de la communication, de la gestion ou de l’entreprenariat.\n\nCompétences attendues :\n• Numérique, innovation, entreprenariat et gestion d’entreprise ;\n• Communication institutionnelle et numérique ;\n• Animation de réseau ;\n• Suivi et gestion de portefeuille de projets ;\n• Très bon niveau d’expression orale et écrite et une capacité à prendre la parole en public ;\n• Une connaissance de l’écosystème d’innovation du Sénégal et de la Gambie serait un plus ;\n• Implication, esprit d’initiative, créativité ;\n• Autonomie ;\n• Esprit d’équipe, discrétion et respect de la confidentialité ;\n• Rigueur et précision ;\n• Sens critique et esprit de synthèse ;\n• Réactivité et rapidité d’exécution.\n\nLangues : Français, Anglais (bon niveau - C1/C2), la maîtrise du Wolof ou de toute autre langue locale parlée au Sénégal sera un atout.\n\nCompétences informatiques : Très bonne maîtrise de la suite Office. La maîtrise des outils de production de contenus (Canva, montage vidéo court) serait un plus.",
+   "duration": 12,
+   "start_date": "2027-02-01T00:00:00",
+   "end_date": "2028-02-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-08T15:43:12Z",
+   "sector": "",
+   "specialization": "[\"57\",\"139\",\"171\",\"182\",\"228\"]",
+   "contract": "VIA",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-08T15:43:12Z",
+    "missionStartDate": "2027-02-01T00:00:00",
+    "missionEndDate": "2028-02-01T00:00:00",
+    "startBroadcastDate": "2026-11-06T00:00:00",
+    "endBroadcastDate": "2026-11-15T00:00:00"
+   },
+   "summary": "ATTENTION : Veillez à postuler via cette plate-forme pendant que l’offre est en ligne, celle-ci disparaîtra de ce site le jour d’expiration mentionné dans l’annonce à 00h01.\n\n*************************************************\n\nSous l’autorité du Conseiller de coopération et d’action culturelle (COCAC) et Directeur de l’Institut français du Sénégal, de son adjoint, et de l’Attaché de coopération « Innovation et Économie numérique », le/la chargé/e de mission soutient la politique de coopération dans les domaines de l’innovation et de l’économie numérique et contribue à la politique de communication, en qualité de référent/e communication du SCAC. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/246863",
+   "score": 25,
+   "label": "Périphérique",
+   "first_seen": "2026-11-06T20:27:28+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 24,
+    "qual": 8,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod6",
+     "axis": "prod",
+     "source": "Outils et moyens de fabrication (259-1, 30 h)",
+     "weight": 7,
+     "terms": [
+      "presse"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "qualite"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "spatial"
+     ],
+     "points": 5
     },
     {
      "label": "Niveau bac+5 / ingénieur annoncé",
