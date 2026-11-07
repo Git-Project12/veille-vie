@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-06T20:27:46+00:00",
+ "generated_at": "2026-11-07T16:28:25+00:00",
  "source": "Business France — mon-vie-via.businessfrance.fr",
- "total_scanned": 936,
- "total_announced": 936,
- "total_kept": 400,
+ "total_scanned": 912,
+ "total_announced": 912,
+ "total_kept": 393,
  "threshold": 25,
  "axes": {
   "rd": {
@@ -2074,7 +2074,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-29T15:18:47Z",
    "sector": "",
-   "specialization": "[\"65\"]",
+   "specialization": "65",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -2184,7 +2184,7 @@
    "expiry_date": "",
    "publish_date": "2025-11-19T10:45:12Z",
    "sector": "",
-   "specialization": "[\"77\",\"149\"]",
+   "specialization": "77, 149",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -2308,7 +2308,7 @@
    "expiry_date": "",
    "publish_date": "2025-10-08T09:46:46Z",
    "sector": "",
-   "specialization": "77, 149",
+   "specialization": "[\"77\",\"149\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -2433,7 +2433,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-04T08:26:50Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -3307,7 +3307,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-16T13:20:47Z",
    "sector": "",
-   "specialization": "[\"64\",\"77\",\"149\",\"175\",\"264\"]",
+   "specialization": "64, 77, 149, 175, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -3654,7 +3654,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T15:32:41Z",
    "sector": "",
-   "specialization": "70",
+   "specialization": "[\"70\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -3994,7 +3994,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-19T13:48:04Z",
    "sector": "",
-   "specialization": "[\"60\",\"149\",\"208\",\"264\"]",
+   "specialization": "60, 149, 208, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -4483,7 +4483,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-29T10:41:15Z",
    "sector": "",
-   "specialization": "[\"149\"]",
+   "specialization": "149",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -4907,7 +4907,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-29T15:13:54Z",
    "sector": "",
-   "specialization": "49, 86, 109, 114, 123, 125, 206, 207, 208, 256, 262",
+   "specialization": "[\"49\",\"86\",\"109\",\"114\",\"123\",\"125\",\"206\",\"207\",\"208\",\"256\",\"262\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5029,7 +5029,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-04T14:36:53Z",
    "sector": "",
-   "specialization": "[\"114\"]",
+   "specialization": "114",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5153,7 +5153,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-04T11:11:03Z",
    "sector": "",
-   "specialization": "[\"114\"]",
+   "specialization": "114",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6298,7 +6298,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-29T09:21:19Z",
    "sector": "",
-   "specialization": "[\"66\"]",
+   "specialization": "66",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -7608,7 +7608,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-21T12:15:55Z",
    "sector": "",
-   "specialization": "[\"208\"]",
+   "specialization": "208",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -7810,7 +7810,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-14T17:08:48Z",
    "sector": "",
-   "specialization": "[\"149\",\"169\"]",
+   "specialization": "149, 169",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8129,7 +8129,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-21T08:13:10Z",
    "sector": "",
-   "specialization": "60, 208",
+   "specialization": "[\"60\",\"208\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8351,7 +8351,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-27T09:17:46Z",
    "sector": "",
-   "specialization": "73, 107, 224, 251, 330, 331",
+   "specialization": "[\"73\",\"107\",\"224\",\"251\",\"330\",\"331\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8647,116 +8647,6 @@
       "aeronautique",
       "automobile",
       "defense"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
-   "id": "246763",
-   "title": "VIE - Smart Factory & Maintenance Engineer - Szczecinek (Poland) (H/F)",
-   "company": "SCHNEIDER ELECTRIC INDUSTRIES SAS",
-   "country": "POLOGNE",
-   "city": "SZCZECIN",
-   "description": "As part of the Maintenance and Industrial Engineering team, you will support the continuous improvement of manufacturing operations through automation projects, Smart Factory initiatives, and maintenance optimization activities.\n \nYou will work closely with maintenance technicians, engineers, project managers, suppliers, and system integrators to help drive operational excellence and digital transformation within the plant.\nYour Responsibilities\nAutomation & Industrial Projects\nParticipate in projects related to the design and implementation of automated workstations.\nSupport the automation of existing production processes.\nCollaborate with suppliers and system integrators during installation, testing, and commissioning activities.\nContribute to continuous improvement initiatives aimed at increasing process efficiency and equipment reliability.\nSmart Factory & AI-Based Solutions\nActively participate in Smart Factory projects.\nCollect and analyze data from production equipment and manufacturing systems.\nSupport the implementation of predictive maintenance and condition monitoring solutions.\nContribute to projects involving AI-based tools for maintenance planning, diagnostics, and performance optimization.\nAssist in the development of digital dashboards and maintenance KPIs.\nMaintenance Operations\nWork closely with the maintenance team on daily operational activities.\nSupport machine diagnostics and troubleshooting activities.\nParticipate in preventive and corrective maintenance interventions.\nContribute to initiatives aimed at improving machine availability and performance.\nParticipate in Root Cause Analysis (RCA) activities and corrective action plans.\nGain exposure to a wide range of industrial equipment, including:\nSchneider Electric PLC-controlled machines.\nIndustrial robots and collaborative robots (cobots), including Schneider Electric and FANUC technologies.",
-   "mission": "",
-   "profile": "Engineering degree in Industry, Smart factory, Automation.\nFirst experience in industrial environment required (internship, apprenticeship)\nPassionate about industrial automation, manufacturing technologies, and digital transformation.\nInterested in Industry 4.0, Smart Factory solutions, and data-driven maintenance strategies.\nEnglish B2 required\nStrong analytical and problem-solving mindset.\nEager to learn and work in a dynamic industrial environment.\nTeam player with excellent communication and collaboration skills.\nProactive, curious, and results-oriented.",
-   "duration": 12,
-   "start_date": "2027-02-01T00:00:00",
-   "end_date": "2028-02-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-07T07:33:18Z",
-   "sector": "",
-   "specialization": "29",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-07T07:33:18Z",
-    "missionStartDate": "2027-02-01T00:00:00",
-    "missionEndDate": "2028-02-01T00:00:00",
-    "startBroadcastDate": "2026-10-07T00:00:00",
-    "endBroadcastDate": "2026-11-06T00:00:00"
-   },
-   "summary": "As part of the Maintenance and Industrial Engineering team, you will support the continuous improvement of manufacturing operations through automation projects, Smart Factory initiatives, and maintenance optimization activities.\n \nYou will work closely with maintenance technicians, engineers, project managers, suppliers, and system integrators to help drive operational excellence and digital transformation within the plant.\nYour Responsibilities\nAutomation & Industrial Projects\nParticipate in projects related to the design and implementation of automated workstations.\nSupport the automation of existing production processes.\nCollaborate with suppliers and system integrators during installation, testing, and commissioning activities.\nContribute to continuous improvement initiatives aimed at increasing process efficiency and equipment reliability.\nSmart Factory & AI-Based Solutions\nActively participate in Smart Factory projects.\nCollect and analyze data from production equipment and manufacturing systems. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246763",
-   "score": 54,
-   "label": "Bonne adéquation",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 45,
-    "qual": 8,
-    "calc": 9
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
-     "weight": 4,
-     "terms": [
-      "automation"
-     ]
-    },
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
-     "weight": 10,
-     "terms": [
-      "plant"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "continuous improvement",
-      "engineering",
-      "manufacturing"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "root cause",
-      "testing"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "problem solving"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineer",
-      "maintenance"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "industrial"
      ],
      "points": 5
     },
@@ -9087,7 +8977,7 @@
    "expiry_date": "",
    "publish_date": "2026-05-12T08:05:46Z",
    "sector": "",
-   "specialization": "[\"66\"]",
+   "specialization": "66",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10266,7 +10156,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-23T07:33:29Z",
    "sector": "",
-   "specialization": "[\"52\",\"66\",\"114\",\"115\",\"130\",\"148\",\"153\"]",
+   "specialization": "52, 66, 114, 115, 130, 148, 153",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10356,7 +10246,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-23T07:15:58Z",
    "sector": "",
-   "specialization": "[\"66\"]",
+   "specialization": "66",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10559,7 +10449,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-21T16:27:04Z",
    "sector": "",
-   "specialization": "[\"2\"]",
+   "specialization": "2",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -11967,7 +11857,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T08:00:24Z",
    "sector": "",
-   "specialization": "[\"114\"]",
+   "specialization": "114",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12468,7 +12358,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T13:43:34Z",
    "sector": "",
-   "specialization": "[\"64\"]",
+   "specialization": "64",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12987,92 +12877,6 @@
    ]
   },
   {
-   "id": "246634",
-   "title": "Superviseur Adjoint de Chantier Mécanique (H/F) - Centrale Hydroélectrique Chira Soria",
-   "company": "GE HYDRO FRANCE",
-   "country": "ESPAGNE",
-   "city": "MASPALOMAS",
-   "description": "Au sein de l’équipe Construction & Mise en Service, sous la responsabilité du superviseur et du chef de chantier, vous interviendrez sur le chantier de Chira Soria situé à Gran Canaria (Maspalomas) pour accompagner la construction d'une nouvelle centrale hydroélectrique pompage-turbinage composée de 6 turbines de 36 MW.\r\n\r\nEn début de mission, vous serez particulièrement impliqué(e) dans :\r\n- L’inspection et le contrôle qualité des pièces mécaniques livrées sur site (turbines, alternateurs, composants, pièces d’assemblage, …)\r\n- La vérification de la conformité des pièces avec les plans d’exécution et spécifications techniques\r\n- Reporting quotidien de l’avancement du chantier et gestion documentaire (Non-conformités, rapports d'inspection).\r\n\r\nPar la suite, vos missions s’élargiront à :\r\n- La supervision des travaux mécaniques d’installation des turbines\r\n- Le suivi du partenaire de consortium et des sous-traitants pour les opérations de montage\r\n- La participation aux contrôles de la ligne d'arbre, essais mécaniques et à la mise en service des équipements\r\n- Le suivi des règles EHS et la rédaction de rapports d’activité (GPI , NCR …). Vous intervenez proactivement pour prévenir les risques.",
-   "mission": "",
-   "profile": "Description du profil :\n• Intérêt à travailler dans un environnement technique (centrale hydroélectrique) et multiculturel\n• Goût pour le travail de chantier en conditions réelles.\n• Aptitudes comportementales et techniques / Compétences\n• Capacité de travailler en équipe\n• Forte réactivité et proactivité.\n \nProfil recherché Bac+2/+3 - Spécialisation : Mécanique, Second Oeuvre, Construction, Travaux publics ou Bâtiment \nLangues parlées : Niveau bilingue français / Espagnol requis + un niveau Anglais B2 minimum",
-   "duration": 12,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-02T09:00:25Z",
-   "sector": "",
-   "specialization": "77",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-02T09:00:25Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-07T00:00:00",
-    "endBroadcastDate": "2026-11-06T00:00:00"
-   },
-   "summary": "Au sein de l’équipe Construction & Mise en Service, sous la responsabilité du superviseur et du chef de chantier, vous interviendrez sur le chantier de Chira Soria situé à Gran Canaria (Maspalomas) pour accompagner la construction d'une nouvelle centrale hydroélectrique pompage-turbinage composée de 6 turbines de 36 MW.\r\n\r\nEn début de mission, vous serez particulièrement impliqué(e) dans :\r\n- L’inspection et le contrôle qualité des pièces mécaniques livrées sur site (turbines, alternateurs, composants, pièces d’assemblage, …)\r\n- La vérification de la conformité des pièces avec les plans d’exécution et spécifications techniques\r\n- Reporting quotidien de l’avancement du chantier et gestion documentaire (Non-conformités, rapports d'inspection).\r\n\r\nPar la suite, vos missions s’élargiront à :\r\n- La supervision des travaux mécaniques d’installation des turbines\r\n- Le suivi du partenaire de consortium et des sous-traitants pour les opérations de montage\r\n- La participation aux contrôles de la ligne d'arbre, essais mécaniques et à la mise en service des équipements […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246634",
-   "score": 43,
-   "label": "À examiner",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 29,
-    "prod": 24,
-    "qual": 8,
-    "calc": 0
-   },
-   "dominant_axis": "rd",
-   "matched_families": [
-    {
-     "id": "prod3",
-     "axis": "prod",
-     "source": "Assemblage des matériaux (297-2, 30 h)",
-     "weight": 7,
-     "terms": [
-      "assemblage"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "conformite",
-      "essais",
-      "inspection",
-      "qualite"
-     ]
-    },
-    {
-     "id": "rd4",
-     "axis": "rd",
-     "source": "Rupture et fatigue des matériaux (291-1, 47 h)",
-     "weight": 10,
-     "terms": [
-      "essais mecaniques"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "mecanique"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "mecanique"
-     ],
-     "points": 5
-    }
-   ]
-  },
-  {
    "id": "247017",
    "title": "Quality Engineer H/F (H/F)",
    "company": "HUTCHINSON",
@@ -13087,7 +12891,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-13T12:55:07Z",
    "sector": "",
-   "specialization": "77, 209",
+   "specialization": "[\"77\",\"209\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -13439,7 +13243,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-21T12:36:21Z",
    "sector": "",
-   "specialization": "[\"225\"]",
+   "specialization": "225",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -14940,7 +14744,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-20T14:14:41Z",
    "sector": "",
-   "specialization": "[\"70\"]",
+   "specialization": "70",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -15013,7 +14817,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-29T09:57:49Z",
    "sector": "",
-   "specialization": "[\"66\"]",
+   "specialization": "66",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -15226,7 +15030,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-09T14:58:34Z",
    "sector": "",
-   "specialization": "[\"327\"]",
+   "specialization": "327",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -15754,123 +15558,6 @@
    ]
   },
   {
-   "id": "243616",
-   "title": "Digital Transformation & Industrial AI Engineer (H/F)",
-   "company": "CORREGE",
-   "country": "ETATS-UNIS",
-   "city": "WEST CHESTER -PA",
-   "description": "Location & Mobility\r\n\r\n- 2 months onboarding program in France to gain hand-on experience with our products, manufacturing processes, ERP systems and operational teams\r\n- Primary role location: USA – West Chester, PA (Philadelphia region) (12 months)\r\n- Frequent collaboration with teams in France (Engineering, Operations, Sales)\r\n\nAbout Cotemp Sensing\r\n\r\nCotemp Sensing is a specialized provider of temperature measurement and control solutions, serving industrial applications where accuracy, reliability, and durability are critical.\r\nAs part of a growing international group, Cotemp combines engineering expertise, manufacturing capabilities, and customer-focused solutions to support clients across a wide range of industries.\r\nWith operations in France, the United States, India, and the United Kingdom, the company is actively investing in digital transformation and AI-driven process improvement to enhance operational efficiency, data quality, and scalability across all business units.\r\nThe US business unit called Thermo Electric is based in West Chester (Philadelphia area) with 60 employees (2/3 in Production and 1/3 in support function). We develop and manufacture customized temperature sensors for high end customers in various industrial sectors like Semicon, Energy, etc…\r\n\nRole Summary\r\n\r\nWe are looking for a hands-on AI & Process Automation Engineer to support the deployment of AI-driven automation across our operations. The US business unit implemented various IA based tools allowing them to better use the ERP data with the objective to improve the order workflow (from offer to payment stage).\r\n\r\nThe role reports directly to the Director of Operations and Digital Process Improvement (USA), who is leading the group’s AI transformation. The engineer will work in close partnership with this role to design, develop, and deploy automation solutions across all business units, with a strong focus on supporting our French operations. The goal will be to implement similar tools in the French factory.\r\n\r\nThis position sits at the intersection of data, systems, and operations, with frequent interaction across Engineering, Operations, and Sales teams in both the US and France.\r\nThis is not a purely technical role as the objective is to translate business needs into practical, reliable AI-enabled workflows that improve efficiency and decision-making.\r\n\nKey Responsibilities\r\n\r\n- Work closely with the Director of Operations and Digital Process Improvement in driving the group’s AI and digital transformation and automation initiatives\r\n- Identify opportunities to improve business and manufacturing processes through automation and AI\r\n- Connect and optimize business systems, databases, and ERP solutions\r\n- Develop and deploy digital tools that improve productivity and decision-making\r\n- Ensure implementation of AI tools in the French factory to improve internal operational efficiency and business processes\r\n- Work with teams to translate operational needs into scalable solutions\r\n- Test, improve, and validate automation and digital solutions before deployment\r\n- Collaborate with teams in the US and France on digital transformation initiatives\r\n- Improve system performance, data quality, and usability\r\n\r\nWhy Join Cotemp Sensing\r\n\r\n- Work directly with the leader driving AI and digital transformation across the group\r\n- Gain hands-on experience deploying AI and automation solutions in a real industrial environment\r\n- Contribute to high-impact projects across manufacturing, engineering, and business operations\r\n- Develop an international profile through close collaboration between France and the United States\r\n- Take ownership of projects and see the direct impact of your work on operational performance\r\n- Possibility to become permanent employee in USA or France if the job is validated\r\n- Join a growing international company investing in digital transformation and innovation and join a dynamic and motivated US team driven by our core values: Respect, Trust and Empowerment",
-   "mission": "",
-   "profile": "Required Skills\r\n\r\n- Strong analytical and problem-solving skills\r\n- SQL knowledge\r\n- Understanding of APIs\r\n- Basic Python or JavaScript\r\n- AI tools familiarity\r\n- Data structure understanding\r\n- Fluent English\r\n\r\nPreferred Skills\r\n- Azure or cloud exposure\r\n- ERP experience\r\n- Automation project experience\r\n- Debugging skills\r\n\r\nKey Traits\r\n- Process-oriented\r\n- Curious and proactive\r\n- Comfortable in international environments\r\n- Strong communication skills\r\n- Execution-focused\r\n\r\nIdeal Background\r\n\r\n- Degree in Engineering, Computer Science, or similar, with a strong interest in industry, data, AI, automation and digital transformation.\r\n- Or strong hands-on project experience in automation",
-   "duration": 14,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-03-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-06-08T11:09:48Z",
-   "sector": "",
-   "specialization": "149, 330, 355",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-06-08T11:09:48Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-03-01T00:00:00",
-    "startBroadcastDate": "2026-10-07T00:00:00",
-    "endBroadcastDate": "2026-11-06T00:00:00"
-   },
-   "summary": "Location & Mobility\r\n\r\n- 2 months onboarding program in France to gain hand-on experience with our products, manufacturing processes, ERP systems and operational teams\r\n- Primary role location: USA – West Chester, PA (Philadelphia region) (12 months)\r\n- Frequent collaboration with teams in France (Engineering, Operations, Sales)\r\n\nAbout Cotemp Sensing\r\n\r\nCotemp Sensing is a specialized provider of temperature measurement and control solutions, serving industrial applications where accuracy, reliability, and durability are critical.\r\nAs part of a growing international group, Cotemp combines engineering expertise, manufacturing capabilities, and customer-focused solutions to support clients across a wide range of industries.\r\nWith operations in France, the United States, India, and the United Kingdom, the company is actively investing in digital transformation and AI-driven process improvement to enhance operational efficiency, data quality, and scalability across all business units. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/243616",
-   "score": 35,
-   "label": "À examiner",
-   "first_seen": "2026-10-07T12:24:42+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 24,
-    "qual": 8,
-    "calc": 9
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
-     "weight": 4,
-     "terms": [
-      "automation",
-      "python"
-     ]
-    },
-    {
-     "id": "prod5",
-     "axis": "prod",
-     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
-     "weight": 4,
-     "terms": [
-      "productivity"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "engineering",
-      "manufacturing"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "quality"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "problem solving"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineer"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "energy",
-      "industrial"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Intitulé de métier du numérique : score plafonné",
-     "terms": [
-      "digital"
-     ],
-     "points": -6,
-     "cap": 35
-    }
-   ]
-  },
-  {
    "id": "247600",
    "title": "HR Manager (H/F)",
    "company": "CRONITE HOLDING",
@@ -15960,7 +15647,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-30T11:27:44Z",
    "sector": "",
-   "specialization": "[\"109\",\"158\"]",
+   "specialization": "109, 158",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -16069,7 +15756,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-29T11:46:13Z",
    "sector": "",
-   "specialization": "[\"137\",\"149\",\"150\",\"244\",\"264\"]",
+   "specialization": "137, 149, 150, 244, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -16500,7 +16187,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-12T12:25:28Z",
    "sector": "",
-   "specialization": "[\"66\"]",
+   "specialization": "66",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -16619,7 +16306,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-27T07:36:26Z",
    "sector": "",
-   "specialization": "[\"244\"]",
+   "specialization": "244",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -16736,7 +16423,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-27T07:28:59Z",
    "sector": "",
-   "specialization": "[\"244\"]",
+   "specialization": "244",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -16947,99 +16634,6 @@
       "gestion"
      ],
      "points": -8,
-     "cap": 35
-    }
-   ]
-  },
-  {
-   "id": "246791",
-   "title": "Planificateur de matériaux (H/F)",
-   "company": "FAURECIA CLARION ELECTRONICS EUROPE",
-   "country": "HONGRIE",
-   "city": "NAGYKATA",
-   "description": "Veiller à la disponibilité et au suivi des matériaux afin de soutenir le plan de production dans les délais impartis et d’assurer la gestion des stocks.\nÉlaborer et mettre en œuvre des plans d’approvisionnement en matériaux afin de soutenir les calendriers de production et de répondre aux demandes des clients.\nSurveiller et analyser les niveaux de stock afin d’optimiser les niveaux de stock et de minimiser les excédents.\nAssurer la coordination avec les fournisseurs pour garantir la livraison en temps voulu des matériaux et des composants, tout en évaluant les performances des fournisseurs.\nCollaborer avec des équipes interfonctionnelles, notamment celles de la production, de la logistique et de l’assurance qualité, afin de résoudre les problèmes liés aux matériaux et d’améliorer l’efficacité opérationnelle.\nUtiliser des systèmes et autres outils logiciels pour gérer les stocks, suivre les matériaux et générer des rapports.\nIdentifier en permanence les opportunités d’amélioration des processus et les initiatives de réduction des coûts au sein de la chaîne d’approvisionnement.\nConnaître et respecter les exigences définies par les systèmes de gestion environnementale intégrée (ISO 14001) et de gestion de la santé et de la sécurité au travail (ISO 45001) mis en œuvre par la SARL, et participer à leur amélioration continue.",
-   "mission": "",
-   "profile": "Esprit d'innovation et capacité à formuler des propositions\nCapacité à animer des équipes de travail pluridisciplinaires\nSolides compétences en communication et en négociation\nOrientation client (interne et externe)\nConnaissances en électronique\nCompétences informatiques\nCapacités d'analyse\nCompétences en négociation\nSoif d'apprendre\nOuverture d'esprit, proactivité et autonomie\nCapacité à apporter un regard neuf sur l'organisation actuelle\nEsprit d'équipe et ouverture d'esprit internationale\nConnaissance des produits et des technologies",
-   "duration": 12,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-07T13:28:23Z",
-   "sector": "",
-   "specialization": "149",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-07T13:28:23Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-07T00:00:00",
-    "endBroadcastDate": "2026-11-06T00:00:00"
-   },
-   "summary": "Veiller à la disponibilité et au suivi des matériaux afin de soutenir le plan de production dans les délais impartis et d’assurer la gestion des stocks.\nÉlaborer et mettre en œuvre des plans d’approvisionnement en matériaux afin de soutenir les calendriers de production et de répondre aux demandes des clients.\nSurveiller et analyser les niveaux de stock afin d’optimiser les niveaux de stock et de minimiser les excédents.\nAssurer la coordination avec les fournisseurs pour garantir la livraison en temps voulu des matériaux et des composants, tout en évaluant les performances des fournisseurs.\nCollaborer avec des équipes interfonctionnelles, notamment celles de la production, de la logistique et de l’assurance qualité, afin de résoudre les problèmes liés aux matériaux et d’améliorer l’efficacité opérationnelle.\nUtiliser des systèmes et autres outils logiciels pour gérer les stocks, suivre les matériaux et générer des rapports.\nIdentifier en permanence les opportunités d’amélioration des processus et les initiatives de réduction des coûts au sein de la chaîne d’approvisionnement. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246791",
-   "score": 35,
-   "label": "À examiner",
-   "first_seen": "2026-10-07T17:25:48+00:00",
-   "axis_scores": {
-    "rd": 26,
-    "prod": 10,
-    "qual": 23,
-    "calc": 0
-   },
-   "dominant_axis": "rd",
-   "matched_families": [
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "amelioration continue"
-     ]
-    },
-    {
-     "id": "qual2",
-     "axis": "qual",
-     "source": "Qualité et normes (774-1, 14 h, coefficient 0,5)",
-     "weight": 4,
-     "terms": [
-      "assurance qualite"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "qualite"
-     ]
-    },
-    {
-     "id": "rd2",
-     "axis": "rd",
-     "source": "Propriétés mécaniques et physique des matériaux (262-1, 30 h), Critères de choix des matériaux (265-1, 15 h)",
-     "weight": 9,
-     "terms": [
-      "materiaux"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "materiaux"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Formation exigée hors cursus : score plafonné",
-     "terms": [
-      "electronique"
-     ],
-     "points": -1,
      "cap": 35
     }
    ]
@@ -17405,7 +16999,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-05T12:57:05Z",
    "sector": "",
-   "specialization": "[\"244\"]",
+   "specialization": "244",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -17720,7 +17314,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-14T07:36:46Z",
    "sector": "",
-   "specialization": "[\"365\"]",
+   "specialization": "365",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -18245,7 +17839,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-22T08:22:56Z",
    "sector": "",
-   "specialization": "[\"71\"]",
+   "specialization": "71",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -18354,7 +17948,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-23T16:11:55Z",
    "sector": "",
-   "specialization": "[\"244\"]",
+   "specialization": "244",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -18975,7 +18569,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-05T10:32:04Z",
    "sector": "",
-   "specialization": "[\"2\",\"21\",\"244\"]",
+   "specialization": "2, 21, 244",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19402,7 +18996,7 @@
    "expiry_date": "",
    "publish_date": "2024-06-26T16:57:21Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20554,7 +20148,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-05T09:08:23Z",
    "sector": "",
-   "specialization": "[\"2\"]",
+   "specialization": "2",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20943,7 +20537,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-15T13:38:37Z",
    "sector": "",
-   "specialization": "73, 109, 149, 150, 206, 207, 262, 264, 330",
+   "specialization": "[\"73\",\"109\",\"149\",\"150\",\"206\",\"207\",\"262\",\"264\",\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21300,97 +20894,6 @@
    ]
   },
   {
-   "id": "246770",
-   "title": "System Safety Engineer (H/F)",
-   "company": "ALTEN",
-   "country": "ALLEMAGNE",
-   "city": "MANCHING",
-   "description": "ALTEN, a leader in engineering and IT services, brings together nearly 60,000 employees, 88% of whom are engineers. Present in over 30 countries, the Group supports its clients' development strategies in innovation, R&D, and advanced IT systems.\n\nJob Description\n\nYour responsibilities will include:\n\nAnalyzing systems, identifying hazards and risks, and deriving appropriate safety measures.\nEvaluating safety concepts and system architectures in the context of overall requirements.\nDeriving safety requirements from customer specifications and internal analyses for hardware, software, and mechanical components.\nCreating safety-related, approval-based documentation and supporting development projects until safety objectives are secured.\nMonitoring processes to ensure compliance with safety regulations and systematically evaluating verification and validation results.\nConducting impact analyses for product changes and ensuring safety-relevant interface communication.\nActively contributing to the advancement of internal safety methods, processes, and standard implementations.",
-   "mission": "",
-   "profile": "Hold a completed technical degree (bachelor or equivalent) in Mechanical Engineering, Electrical Engineering, or Computer Science.\nBring initial experience in product safety and knowledge of product safety laws.\nAre proficient in SysML/UML and modern development and testing methods.\nHave experience with analysis tools and a foundational understanding of quality and configuration management.\nCommunicate fluently in English (written and spoken) and work in a structured, analytical, and responsible manner.",
-   "duration": 24,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2029-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-07T08:56:58Z",
-   "sector": "",
-   "specialization": "60",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-07T08:56:58Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2029-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-07T00:00:00",
-    "endBroadcastDate": "2026-11-06T00:00:00"
-   },
-   "summary": "ALTEN, a leader in engineering and IT services, brings together nearly 60,000 employees, 88% of whom are engineers. Present in over 30 countries, the Group supports its clients' development strategies in innovation, R&D, and advanced IT systems.\n\nJob Description\n\nYour responsibilities will include:\n\nAnalyzing systems, identifying hazards and risks, and deriving appropriate safety measures.\nEvaluating safety concepts and system architectures in the context of overall requirements.\nDeriving safety requirements from customer specifications and internal analyses for hardware, software, and mechanical components.\nCreating safety-related, approval-based documentation and supporting development projects until safety objectives are secured.\nMonitoring processes to ensure compliance with safety regulations and systematically evaluating verification and validation results.\nConducting impact analyses for product changes and ensuring safety-relevant interface communication.\nActively contributing to the advancement of internal safety methods, processes, and standard implementations.",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246770",
-   "score": 32,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T17:25:48+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 10,
-    "qual": 8,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "engineering"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "compliance",
-      "quality",
-      "testing",
-      "validation"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "r&d"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineer"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "mechanical"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "246569",
    "title": "Manufacturing Project Coordinator | Life Sciences (H/F)",
    "company": "ALTRAN TECHNOLOGIES",
@@ -21405,7 +20908,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T15:08:09Z",
    "sector": "",
-   "specialization": "149",
+   "specialization": "[\"149\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21589,7 +21092,7 @@
    "expiry_date": "",
    "publish_date": "2026-03-26T16:26:49Z",
    "sector": "",
-   "specialization": "[\"245\",\"248\",\"249\",\"251\",\"330\",\"356\"]",
+   "specialization": "245, 248, 249, 251, 330, 356",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21678,7 +21181,7 @@
    "expiry_date": "",
    "publish_date": "2025-11-19T10:45:12Z",
    "sector": "",
-   "specialization": "[\"71\",\"73\",\"224\"]",
+   "specialization": "71, 73, 224",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22155,7 +21658,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-30T13:11:18Z",
    "sector": "",
-   "specialization": "[\"71\"]",
+   "specialization": "71",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22337,7 +21840,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-21T07:17:18Z",
    "sector": "",
-   "specialization": "[\"71\"]",
+   "specialization": "71",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -23018,7 +22521,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-27T14:55:20Z",
    "sector": "",
-   "specialization": "[\"168\"]",
+   "specialization": "168",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -24252,7 +23755,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-27T12:50:23Z",
    "sector": "",
-   "specialization": "49, 86, 109, 206, 208, 209, 264",
+   "specialization": "[\"49\",\"86\",\"109\",\"206\",\"208\",\"209\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -24883,88 +24386,6 @@
      "label": "Aucun terme industriel : score plafonné",
      "terms": [],
      "points": -14,
-     "cap": 30
-    }
-   ]
-  },
-  {
-   "id": "246739",
-   "title": "HR AI & Process Automation Specialist VIE (H/F)",
-   "company": "AMUNDI ASSET MANAGEMENT",
-   "country": "IRLANDE",
-   "city": "DUBLIN",
-   "description": "Who we are looking for \r\n\r\nWe are seeking an experienced and proactive HR professional with strong expertise in AI, automation, and \r\nprocess improvement to join our HR team in Dublin for 2 years. The position will suit someone who is \r\ncurious and innovative and is passionate about improving the way HR works. \r\n\r\nWhy this role is important to us \r\nThis is a great opportunity to join the HR team at an exciting time where the future of how we work will be \r\nshaped. This role will focus on enhancing and streamlining HR processes, reducing manual and repetitive \r\ntasks, and improving the efficiency and consistency of how the HR function operates. The successful \r\ncandidate will combine a strong understanding of core HR processes with the technical capability to \r\ndesign, build, and implement scalable automation solutions using AI, Power Automate and other \r\ntechnologies. \r\n\r\nWhat you will be responsible for \r\n• Review existing HR processes and identify opportunities to simplify, streamline, and automate \r\nroutine and repetitive tasks. \r\n• Design and build automation solutions using **Power Automate** and other relevant AI-enabled \r\ntools. \r\n• Work closely with HR colleagues and business stakeholders to understand current workflows, pain \r\npoints, and process requirements. \r\n• Develop practical solutions that improve efficiency, reduce administrative burden, and increase \r\nconsistency across HR operations. \r\n• Support the implementation of AI-driven tools and automation initiatives within the HR function. \r\n• Ensure solutions are scalable and can be adapted for use across other Amundi locations. \r\n• Document processes, workflows, and solution designs clearly to support governance, handover, \r\nand ongoing maintenance. \r\n• Test, refine, and troubleshoot automation solutions to ensure reliability and user adoption. \r\n• Provide guidance and training to HR team members on new tools, workflows, and ways of working. \r\n• Stay informed on developments in AI, automation, and HR technology, and proactively suggest new \r\nopportunities for innovation. \r\n• Partner with HR and technology stakeholders to ensure proposed solutions align with business \r\nneeds, data privacy requirements, and internal governance standards. \r\n• Develop AI and Power Automate skills within the HR team.",
-   "mission": "",
-   "profile": "What we do. With close to 5,500 team members, and market experts in 35 countries, Amundi provides retail, institutional and corporate clients with innovative investment strategies and solutions tailored to their needs, targeted outcomes and risk profiles. Amundi manages 1.934 trillion euros of assets across six main investment hubs. \nWhat we offer. We make all efforts to create a great and positive work environment, focusing on retaining, nurturing and rewarding talent. As a member of our team, you will shave access to competitive and comprehensive benefits package inclusive of flexible work options, mentorship as well as an opportunity for cross-functional and geographical internal mobility and a range of development programmes to help you reach your full potential.",
-   "duration": 24,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2028-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-06T14:09:33Z",
-   "sector": "",
-   "specialization": "178",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-06T14:09:33Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2028-12-01T00:00:00",
-    "startBroadcastDate": "2026-10-07T00:00:00",
-    "endBroadcastDate": "2026-11-06T00:00:00"
-   },
-   "summary": "Who we are looking for \r\n\r\nWe are seeking an experienced and proactive HR professional with strong expertise in AI, automation, and \r\nprocess improvement to join our HR team in Dublin for 2 years. The position will suit someone who is \r\ncurious and innovative and is passionate about improving the way HR works. \r\n\r\nWhy this role is important to us \r\nThis is a great opportunity to join the HR team at an exciting time where the future of how we work will be \r\nshaped. This role will focus on enhancing and streamlining HR processes, reducing manual and repetitive \r\ntasks, and improving the efficiency and consistency of how the HR function operates. The successful \r\ncandidate will combine a strong understanding of core HR processes with the technical capability to \r\ndesign, build, and implement scalable automation solutions using AI, Power Automate and other \r\ntechnologies. \r\n\r\nWhat you will be responsible for \r\n• Review existing HR processes and identify opportunities to simplify, streamline, and automate \r\nroutine and repetitive tasks. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246739",
-   "score": 30,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 0,
-    "qual": 34,
-    "calc": 9
-   },
-   "dominant_axis": "qual",
-   "matched_families": [
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
-     "weight": 4,
-     "terms": [
-      "automation"
-     ]
-    },
-    {
-     "id": "qual3",
-     "axis": "qual",
-     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
-     "weight": 7,
-     "terms": [
-      "capability"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "standards"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "process"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Aucun terme industriel : score plafonné",
-     "terms": [],
-     "points": -7,
      "cap": 30
     }
    ]
@@ -26161,7 +25582,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-12T13:41:19Z",
    "sector": "",
-   "specialization": "[\"351\"]",
+   "specialization": "351",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26978,7 +26399,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-21T09:47:43Z",
    "sector": "",
-   "specialization": "[\"66\",\"71\",\"143\"]",
+   "specialization": "66, 71, 143",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27164,7 +26585,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-21T09:50:40Z",
    "sector": "",
-   "specialization": "[\"66\",\"71\",\"143\",\"153\"]",
+   "specialization": "66, 71, 143, 153",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27633,7 +27054,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T09:54:46Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27730,7 +27151,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T09:30:50Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -28314,7 +27735,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-21T06:56:59Z",
    "sector": "",
-   "specialization": "86, 123, 125, 150, 256, 264",
+   "specialization": "[\"86\",\"123\",\"125\",\"150\",\"256\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -28512,7 +27933,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-14T08:34:30Z",
    "sector": "",
-   "specialization": "[\"65\"]",
+   "specialization": "65",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29298,7 +28719,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-12T07:40:30Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31075,7 +30496,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-29T13:26:26Z",
    "sector": "",
-   "specialization": "[\"355\"]",
+   "specialization": "355",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31509,7 +30930,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-03T11:52:59Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31737,7 +31158,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-03T16:05:59Z",
    "sector": "",
-   "specialization": "[\"109\",\"248\",\"262\",\"328\",\"330\",\"338\",\"315\"]",
+   "specialization": "109, 248, 262, 328, 330, 338, 315",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31947,7 +31368,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-14T12:45:10Z",
    "sector": "",
-   "specialization": "[\"206\"]",
+   "specialization": "206",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32022,7 +31443,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-15T13:57:57Z",
    "sector": "",
-   "specialization": "[\"73\"]",
+   "specialization": "73",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32550,7 +31971,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-05T13:36:17Z",
    "sector": "",
-   "specialization": "[\"2\"]",
+   "specialization": "2",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32670,101 +32091,6 @@
     }
    ],
    "bonuses": []
-  },
-  {
-   "id": "246776",
-   "title": "VIE/PANGEO - QHSE / HSE Compliance (M/W) (H/F)",
-   "company": "VEOLIA ENERGIE PERFORMANCE",
-   "country": "SUISSE",
-   "city": "BALE",
-   "description": "As a global leader in environmental services, Veolia operates across all 5 continents with nearly 218,000 employees. An expert in water, energy, and waste management, the Group designs and implements innovative solutions for decarbonization, depollution and resource regeneration to support communities and industries in their ecological transformation.\n\nAmbitious graduates and young professionals: Ready to challenge yourself and accelerate your career growth?🚀🌍\nLaunch your international journey with a world leader in ecological transformation!\nThe VIE/PANGEO program offers you:\n• Highly sought-after international expertise\n• Innovative and sustainable projects\n• Multicultural teamwork\n• Worldwide networking\nYour passport to a thrilling career awaits. Join us and make a global impact!\n\nVeolia Industry Building - Switzerland AG is looking for a VIE/PANGEO - QHSE / HSE Compliance (M/W) in Basel, Switzerland.\n\n🎯 THE MISSION\nJoin a leading international organization and directly contribute to the harmonization of QHSE practices and legal compliance on a global scale. You'll work alongside the QHSE Manager in a stimulating industrial environment where you can:\n✅ Start with legal compliance management: maintenance and development of the legal register, identification of new Swiss regulatory requirements, follow-up of corrective actions\n✅ Progress toward expanded responsibilities: incident management, environmental compliance, major accident prevention, QHSE data management, KPI reporting, internal audits\n✅ Develop recognized expertise in Swiss law and regulations, while contributing to the exchange of QHSE best practices across the international group\n\n💼 YOUR RESPONSIBILITIES\nMaintain and develop the legal register (Red-On-Line) and identify new regulatory requirements\nSupport the assessment and implementation of QHSE requirements\nParticipate in incident management: documentation, data analysis, corrective action follow-up\nManage environmental compliance and reporting data (thermal and river parameters)\nPrepare and maintain QHSE documentation (procedures, instructions, checklists)\nDevelop QHSE data management tools and Smartsheet dashboards\nCollect, analyze and report QHSE KPIs (monthly, quarterly, and customer-specific reports)\nParticipate in internal audits, inspections, and continuous improvement initiatives\nConduct research on HSE, environmental and regulatory topics\nProgressively, you'll gain autonomy and take responsibility for clearly defined QHSE areas.\n\n👤 THE IDEAL PROFILE\nEducation:\nUniversity or engineering school degree recently obtained (or in final stages) in:\nEnvironmental Sciences\nChemistry / Chemical Engineering\nEngineering / Industrial Engineering\nSafety / HSE\nOr comparable technical/scientific discipline\nExperience:\nInitial practical experience through internships, university projects or previous roles in QHSE, HSE, regulatory compliance or industrial operations (advantageous, not mandatory)\nKey Skills:\n🧠 Excellent analytical and organizational abilities\n📊 Proficiency in MS Office (particularly Excel)\n💻 Interest in digital tools and data management (Smartsheet or similar: a plus)\n📋 Attention to detail, reliability, proactivity and excellent communication\n🤝 Team spirit and ability to collaborate across departments\nLanguages:\n🇩🇪 German: minimum B2 level (written and spoken)\n🇬🇧 English: minimum C1 level (written and spoken)\n🇫🇷 French\n\n🌟 READY FOR THE CHALLENGE?\nIf you're passionate about regulatory compliance, QHSE management and dream of starting your career in an international environment, this opportunity is for you!\nWe're waiting for you! 🚀",
-   "mission": "",
-   "profile": "👤 THE IDEAL PROFILE\nEducation:\nUniversity or engineering school degree recently obtained (or in final stages) in:\nEnvironmental Sciences\nChemistry / Chemical Engineering\nEngineering / Industrial Engineering\nSafety / HSE\nOr comparable technical/scientific discipline\nExperience:\nInitial practical experience through internships, university projects or previous roles in QHSE, HSE, regulatory compliance or industrial operations (advantageous, not mandatory)\nKey Skills:\n🧠 Excellent analytical and organizational abilities\n📊 Proficiency in MS Office (particularly Excel)\n💻 Interest in digital tools and data management (Smartsheet or similar: a plus)\n📋 Attention to detail, reliability, proactivity and excellent communication\n🤝 Team spirit and ability to collaborate across departments",
-   "duration": 18,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-07-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-07T09:43:42Z",
-   "sector": "",
-   "specialization": "155",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-07T09:43:42Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-07-01T00:00:00",
-    "startBroadcastDate": "2026-10-07T00:00:00",
-    "endBroadcastDate": "2026-11-06T00:00:00"
-   },
-   "summary": "As a global leader in environmental services, Veolia operates across all 5 continents with nearly 218,000 employees. An expert in water, energy, and waste management, the Group designs and implements innovative solutions for decarbonization, depollution and resource regeneration to support communities and industries in their ecological transformation.\n\nAmbitious graduates and young professionals: Ready to challenge yourself and accelerate your career growth?🚀🌍\nLaunch your international journey with a world leader in ecological transformation!\nThe VIE/PANGEO program offers you:\n• Highly sought-after international expertise\n• Innovative and sustainable projects\n• Multicultural teamwork\n• Worldwide networking\nYour passport to a thrilling career awaits. Join us and make a global impact!\n\nVeolia Industry Building - Switzerland AG is looking for a VIE/PANGEO - QHSE / HSE Compliance (M/W) in Basel, Switzerland.\n\n🎯 THE MISSION\nJoin a leading international organization and directly contribute to the harmonization of QHSE practices and legal compliance on a global scale. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246776",
-   "score": 29,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T09:55:56+00:00",
-   "axis_scores": {
-    "rd": 11,
-    "prod": 10,
-    "qual": 8,
-    "calc": 9
-   },
-   "dominant_axis": "rd",
-   "matched_families": [
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
-     "weight": 4,
-     "terms": [
-      "data analysis"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "continuous improvement",
-      "engineering"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "compliance"
-     ]
-    },
-    {
-     "id": "rd7",
-     "axis": "rd",
-     "source": "Recyclage des matériaux (8 h), Éco-conception (842-1, 8 h), Enjeux DDRS (838-1, 20 h)",
-     "weight": 4,
-     "terms": [
-      "decarbonization"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "hse"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "chemical",
-      "energie",
-      "energy"
-     ],
-     "points": 5
-    }
-   ]
   },
   {
    "id": "247287",
@@ -34220,7 +33546,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-26T09:04:05Z",
    "sector": "",
-   "specialization": "[\"143\"]",
+   "specialization": "143",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34648,7 +33974,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-05T10:10:13Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34732,7 +34058,7 @@
    "expiry_date": "",
    "publish_date": "2026-03-16T16:54:32Z",
    "sector": "",
-   "specialization": "[\"247\",\"248\",\"249\",\"251\",\"328\",\"329\",\"330\",\"331\"]",
+   "specialization": "247, 248, 249, 251, 328, 329, 330, 331",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34816,7 +34142,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-19T13:06:41Z",
    "sector": "",
-   "specialization": "[\"17\"]",
+   "specialization": "17",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34890,7 +34216,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-26T08:49:56Z",
    "sector": "",
-   "specialization": "[\"109\"]",
+   "specialization": "109",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35313,7 +34639,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-22T16:05:20Z",
    "sector": "",
-   "specialization": "[\"68\",\"77\",\"109\",\"130\",\"149\",\"169\"]",
+   "specialization": "68, 77, 109, 130, 149, 169",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35469,7 +34795,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-06T10:38:35Z",
    "sector": "",
-   "specialization": "[\"6\",\"7\",\"86\",\"125\",\"130\",\"158\"]",
+   "specialization": "6, 7, 86, 125, 130, 158",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35886,7 +35212,7 @@
    "expiry_date": "",
    "publish_date": "2026-03-26T13:23:47Z",
    "sector": "",
-   "specialization": "[\"130\"]",
+   "specialization": "130",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -36509,7 +35835,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-22T15:17:00Z",
    "sector": "",
-   "specialization": "[\"57\",\"68\",\"168\",\"171\",\"365\"]",
+   "specialization": "57, 68, 168, 171, 365",
    "contract": "VIA",
    "dates_raw": {
     "candidateCounter": 0,
@@ -36582,7 +35908,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-22T15:10:23Z",
    "sector": "",
-   "specialization": "[\"57\"]",
+   "specialization": "57",
    "contract": "VIA",
    "dates_raw": {
     "candidateCounter": 0,
@@ -37152,7 +36478,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-03T15:39:45Z",
    "sector": "",
-   "specialization": "[\"6\"]",
+   "specialization": "6",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -38022,7 +37348,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-29T10:11:33Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -38513,7 +37839,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-12T12:29:13Z",
    "sector": "",
-   "specialization": "7",
+   "specialization": "[\"7\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
