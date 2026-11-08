@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-07T16:28:25+00:00",
+ "generated_at": "2026-11-08T16:41:37+00:00",
  "source": "Business France — mon-vie-via.businessfrance.fr",
- "total_scanned": 912,
- "total_announced": 912,
- "total_kept": 393,
+ "total_scanned": 892,
+ "total_announced": 892,
+ "total_kept": 389,
  "threshold": 25,
  "axes": {
   "rd": {
@@ -2184,7 +2184,7 @@
    "expiry_date": "",
    "publish_date": "2025-11-19T10:45:12Z",
    "sector": "",
-   "specialization": "77, 149",
+   "specialization": "[\"77\",\"149\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -2308,7 +2308,7 @@
    "expiry_date": "",
    "publish_date": "2025-10-08T09:46:46Z",
    "sector": "",
-   "specialization": "[\"77\",\"149\"]",
+   "specialization": "77, 149",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -2433,7 +2433,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-04T08:26:50Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -3654,7 +3654,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T15:32:41Z",
    "sector": "",
-   "specialization": "[\"70\"]",
+   "specialization": "70",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -4483,7 +4483,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-29T10:41:15Z",
    "sector": "",
-   "specialization": "149",
+   "specialization": "[\"149\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -4907,7 +4907,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-29T15:13:54Z",
    "sector": "",
-   "specialization": "[\"49\",\"86\",\"109\",\"114\",\"123\",\"125\",\"206\",\"207\",\"208\",\"256\",\"262\"]",
+   "specialization": "49, 86, 109, 114, 123, 125, 206, 207, 208, 256, 262",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5153,7 +5153,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-04T11:11:03Z",
    "sector": "",
-   "specialization": "114",
+   "specialization": "[\"114\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5647,7 +5647,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-10T09:56:17Z",
    "sector": "",
-   "specialization": "49, 63, 86, 125, 207, 208, 256, 366",
+   "specialization": "[\"49\",\"63\",\"86\",\"125\",\"207\",\"208\",\"256\",\"366\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6627,7 +6627,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-10T13:46:15Z",
    "sector": "",
-   "specialization": "[\"152\"]",
+   "specialization": "152",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -7489,7 +7489,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-16T01:06:57Z",
    "sector": "",
-   "specialization": "60, 64, 76, 77, 110, 142, 224",
+   "specialization": "[\"60\",\"64\",\"76\",\"77\",\"110\",\"142\",\"224\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8129,7 +8129,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-21T08:13:10Z",
    "sector": "",
-   "specialization": "[\"60\",\"208\"]",
+   "specialization": "60, 208",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8351,7 +8351,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-27T09:17:46Z",
    "sector": "",
-   "specialization": "[\"73\",\"107\",\"224\",\"251\",\"330\",\"331\"]",
+   "specialization": "73, 107, 224, 251, 330, 331",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9573,7 +9573,7 @@
    "expiry_date": "",
    "publish_date": "2026-05-11T14:34:37Z",
    "sector": "",
-   "specialization": "[\"123\"]",
+   "specialization": "123",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9855,7 +9855,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T15:29:09Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9958,7 +9958,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-04T18:10:03Z",
    "sector": "",
-   "specialization": "[\"208\"]",
+   "specialization": "208",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10675,7 +10675,7 @@
    "expiry_date": "",
    "publish_date": "2025-11-19T10:45:12Z",
    "sector": "",
-   "specialization": "77, 149, 207",
+   "specialization": "[\"77\",\"149\",\"207\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12065,7 +12065,7 @@
    "expiry_date": "",
    "publish_date": "2026-05-06T16:27:06Z",
    "sector": "",
-   "specialization": "64, 65, 71, 77, 107, 149, 153, 224",
+   "specialization": "[\"64\",\"65\",\"71\",\"77\",\"107\",\"149\",\"153\",\"224\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12358,7 +12358,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T13:43:34Z",
    "sector": "",
-   "specialization": "64",
+   "specialization": "[\"64\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12891,7 +12891,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-13T12:55:07Z",
    "sector": "",
-   "specialization": "[\"77\",\"209\"]",
+   "specialization": "77, 209",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -14133,7 +14133,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-20T08:28:02Z",
    "sector": "",
-   "specialization": "56",
+   "specialization": "[\"56\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -15647,7 +15647,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-30T11:27:44Z",
    "sector": "",
-   "specialization": "109, 158",
+   "specialization": "[\"109\",\"158\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -16423,7 +16423,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-27T07:28:59Z",
    "sector": "",
-   "specialization": "244",
+   "specialization": "[\"244\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -17628,7 +17628,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-07T15:09:37Z",
    "sector": "",
-   "specialization": "79, 150, 206, 207, 208",
+   "specialization": "[\"79\",\"150\",\"206\",\"207\",\"208\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -17948,7 +17948,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-23T16:11:55Z",
    "sector": "",
-   "specialization": "244",
+   "specialization": "[\"244\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19085,7 +19085,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-22T14:14:40Z",
    "sector": "",
-   "specialization": "[\"70\"]",
+   "specialization": "70",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20148,7 +20148,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-05T09:08:23Z",
    "sector": "",
-   "specialization": "2",
+   "specialization": "[\"2\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20259,7 +20259,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-05T09:04:27Z",
    "sector": "",
-   "specialization": "[\"2\"]",
+   "specialization": "2",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20537,7 +20537,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-15T13:38:37Z",
    "sector": "",
-   "specialization": "[\"73\",\"109\",\"149\",\"150\",\"206\",\"207\",\"262\",\"264\",\"330\"]",
+   "specialization": "73, 109, 149, 150, 206, 207, 262, 264, 330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20908,7 +20908,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T15:08:09Z",
    "sector": "",
-   "specialization": "[\"149\"]",
+   "specialization": "149",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21750,7 +21750,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-26T10:10:10Z",
    "sector": "",
-   "specialization": "[\"327\"]",
+   "specialization": "327",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22190,7 +22190,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T09:12:56Z",
    "sector": "",
-   "specialization": "[\"259\"]",
+   "specialization": "259",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -23023,7 +23023,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-06T10:03:36Z",
    "sector": "",
-   "specialization": "[\"2\"]",
+   "specialization": "2",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -23755,7 +23755,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-27T12:50:23Z",
    "sector": "",
-   "specialization": "[\"49\",\"86\",\"109\",\"206\",\"208\",\"209\",\"264\"]",
+   "specialization": "49, 86, 109, 206, 208, 209, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -23825,122 +23825,6 @@
       "quality"
      ],
      "points": 14
-    }
-   ]
-  },
-  {
-   "id": "246837",
-   "title": "Ingénieur Systeme - Ferroviaire (H/F)",
-   "company": "AKKODIS HIGH TECH SAS",
-   "country": "BELGIQUE",
-   "city": "CHARLEROI",
-   "description": "🌟 Who we are\nAt Akkodis, we are one of the global leaders in engineering in various sectors such as IT, aeronautics, energy and many others. With 50,000 experts in 30 countries, we develop innovative and sustainable technological solutions for our customers.\n\n🎯 Assignments\n\nWe are looking for a System Engineer to support long-term projects for one of our clients in the railway sector, working on safety-critical signaling systems.\n\nYour main responsibilities include:\nAnalyzing customer requirements and documentation (functional specifications, technical requirements)\nIdentifying gaps between customer needs and existing generic signaling solutions\nDefining system and sub-system specifications, architectures, and interface requirements\nContributing to system adaptation in collaboration with development and software teams\nEnsuring requirement traceability throughout the project lifecycle\nConfiguring onboard signaling equipment to meet project-specific needs\nPreparing and executing integration and design-level tests in laboratory environments\nSupporting system testing activities and technical investigations when required\nParticipating in technical reviews (design, documentation, validation)\nWorking closely with RAM, Safety, Cybersecurity, Software, and V&V teams\n\n🌍 Working environment at Akkodis :\nA direct link with a Business Manager for personalised support.\nTechnical training to develop your skills.\nCareer prospects and a stimulating environment.\nA corporate culture focused on safety, quality and innovation.\n\n🔎 Our recruitment process:\nStage 1: Initial telephone interview (15 min) with @Kenny, Talent Acquisition.\nStep 2: Interview (60 min) with a Business Manager.\nStep 3: Interview (60 min) with the client.",
-   "mission": "",
-   "profile": "👤 The profile\n\nBackground :\nYou hold a Master’s degree in Engineering (Electronics, Automation, Systems, Computer Science or similar) and are interested in complex, regulated environments.\n\nMust Have :\nStrong analytical skills and ability to understand complex technical systems\nExperience or strong interest in railway, aerospace, defense, or safety-critical systems\nAbility to translate customer needs into structured system requirements\nFluency in English and French\nRigorous, reliable, proactive mindset with strong communication skills\n\nNice to Have :\nKnowledge of ERTMS / ETCS principles\nExperience with system modeling methodologies (UML, SysML)\nFamiliarity with requirements and traceability tools (DOORS, ClearQuest or similar)\nExposure to RAMS, Safety, or Cybersecurity engineering",
-   "duration": 24,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2028-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-08T09:01:30Z",
-   "sector": "",
-   "specialization": "251",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-08T09:01:30Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2028-12-01T00:00:00",
-    "startBroadcastDate": "2026-10-08T00:00:00",
-    "endBroadcastDate": "2026-11-07T00:00:00"
-   },
-   "summary": "🌟 Who we are\nAt Akkodis, we are one of the global leaders in engineering in various sectors such as IT, aeronautics, energy and many others. With 50,000 experts in 30 countries, we develop innovative and sustainable technological solutions for our customers.\n\n🎯 Assignments\n\nWe are looking for a System Engineer to support long-term projects for one of our clients in the railway sector, working on safety-critical signaling systems.\n\nYour main responsibilities include:\nAnalyzing customer requirements and documentation (functional specifications, technical requirements)\nIdentifying gaps between customer needs and existing generic signaling solutions\nDefining system and sub-system specifications, architectures, and interface requirements\nContributing to system adaptation in collaboration with development and software teams\nEnsuring requirement traceability throughout the project lifecycle\nConfiguring onboard signaling equipment to meet project-specific needs\nPreparing and executing integration and design-level tests in laboratory environments […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246837",
-   "score": 30,
-   "label": "Périphérique",
-   "first_seen": "2026-10-08T13:27:14+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 10,
-    "qual": 8,
-    "calc": 36
-   },
-   "dominant_axis": "calc",
-   "matched_families": [
-    {
-     "id": "calc1",
-     "axis": "calc",
-     "source": "Éléments finis (256-1, 24 h), TP simulation numérique (272-1, 285-5, 285-4, 63 h), Calculs numériques de mise en forme (277-1, 286-1, 50 h)",
-     "weight": 12,
-     "terms": [
-      "modeling"
-     ]
-    },
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
-     "weight": 4,
-     "terms": [
-      "automation"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "engineering"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "quality",
-      "testing",
-      "validation"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "laboratory"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "aerospace",
-      "defense",
-      "energy"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Aucun terme industriel : score plafonné",
-     "terms": [],
-     "points": -18,
-     "cap": 30
     }
    ]
   },
@@ -25582,7 +25466,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-12T13:41:19Z",
    "sector": "",
-   "specialization": "351",
+   "specialization": "[\"351\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25967,7 +25851,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-21T07:16:38Z",
    "sector": "",
-   "specialization": "[\"35\"]",
+   "specialization": "35",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27735,7 +27619,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-21T06:56:59Z",
    "sector": "",
-   "specialization": "[\"86\",\"123\",\"125\",\"150\",\"256\",\"264\"]",
+   "specialization": "86, 123, 125, 150, 256, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29275,7 +29159,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-28T18:25:06Z",
    "sector": "",
-   "specialization": "52, 63, 118, 125, 168, 225, 256",
+   "specialization": "[\"52\",\"63\",\"118\",\"125\",\"168\",\"225\",\"256\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30185,113 +30069,6 @@
    ]
   },
   {
-   "id": "246799",
-   "title": "Ingénieur Méthodes Logistiques (H/F) – Danemark",
-   "company": "TOTALENERGIES SE",
-   "country": "DANEMARK",
-   "city": "ESBJERG",
-   "description": "Rejoignez TotalEnergies EP Danmark, acteur de la production d'énergie en mer du Nord.\r\nAu sein de l'équipe Logistics & Support to Operations (LSO) basée à Esbjerg et rattaché au Head of Methods, vous contribuez à l'amélioration de la performance logistique de la filiale à travers l'analyse des données, l'optimisation des processus, le développement d'outils digitaux et la mise en œuvre de projets d'amélioration continue au service des opérations offshore.\r\n\r\nMerci de candidater en anglais.\r\nLe logement sera fourni par la filiale.\r\n\r\nVos principales missions :\r\n• Contribuer au suivi des activités quotidiennes de l’équipe.\r\n• Analyser les données logistiques et les indicateurs de performance.\r\n• Développer et maintenir des tableaux de bord de pilotage.\r\n• Participer à l’automatisation du reporting et à l’amélioration de la qualité des données.\r\n• Réaliser des analyses de coûts et d’efficacité opérationnelle.\r\n• Cartographier et optimiser les processus de la chaîne logistique.\r\n• Participer à l’amélioration des outils digitaux et des solutions SAP.\r\n• Contribuer au développement de projets de digitalisation sous SharePoint.\r\n• Accompagner le déploiement de nouveaux outils logistiques et analytiques.\r\n• Mettre à jour les procédures, modes opératoires et documentations métiers.\r\n\r\nPourquoi nous rejoindre ?\r\n\r\n. Une opportunité unique de combiner le soutien opérationnel en logistique avec des projets d'amélioration continue et de transformation digitale dans un environnement international lié à l'énergie offshore.\r\n. Une exposition à un large périmètre logistique couvrant les activités maritimes, aériennes, les bases logistiques (Supply Base), le transport de marchandises, les CCU (Cargo Carrying Units) ainsi que la chaîne d'approvisionnement (Supply Chain).\r\n. Une implication active dans des initiatives stratégiques de digitalisation, notamment les projets de Track & Trace, d’Asset Logistics et de la LSO Control Tower.\r\n. Une contribution au développement d’un jumeau numérique (Digital Twin) de la base logistique afin d’optimiser les opérations d’entreposage, les flux de matériels et l’utilisation des espaces.\r\n. Une participation aux projets d’amélioration des processus, d’analyse des données, de développement des indicateurs de performance (KPI) et d’amélioration de la performance opérationnelle.\r\n. L’opportunité de travailler en étroite collaboration avec les équipes opérationnelles et les différentes parties prenantes tout en apportant des améliorations concrètes ayant un impact visible sur les résultats de l’activité.",
-   "mission": "",
-   "profile": "Vous êtes à minima diplômé d’un Master ou d’un diplôme d’ingénieurs dans le domaine de la logistique / supply chain ou du génie industriel.\n\nVous avez une première expérience académique ou professionnelle en analyse de données (data analytics) et management d’indicateurs de performance (KPI).\n\nUne expérience dans le secteur pétrole et gaz constitue un plus.\n\nVous avez une maîtrise avancée d’Excel.\n\nVous avez une bonne connaissance de Power BI et une connaissance ou un intérêt pour SAP.\n\nDes notions en programmation constituent un atout.\n\nUn niveau d'anglais C1 minimum est requis. Un niveau de français B2 minimum est également demandé.",
-   "duration": 24,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2028-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-07T14:17:34Z",
-   "sector": "",
-   "specialization": "149, 244",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-07T14:17:34Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2028-12-01T00:00:00",
-    "startBroadcastDate": "2026-10-08T00:00:00",
-    "endBroadcastDate": "2026-11-07T00:00:00"
-   },
-   "summary": "Rejoignez TotalEnergies EP Danmark, acteur de la production d'énergie en mer du Nord.\r\nAu sein de l'équipe Logistics & Support to Operations (LSO) basée à Esbjerg et rattaché au Head of Methods, vous contribuez à l'amélioration de la performance logistique de la filiale à travers l'analyse des données, l'optimisation des processus, le développement d'outils digitaux et la mise en œuvre de projets d'amélioration continue au service des opérations offshore.\r\n\r\nMerci de candidater en anglais.\r\nLe logement sera fourni par la filiale.\r\n\r\nVos principales missions :\r\n• Contribuer au suivi des activités quotidiennes de l’équipe.\r\n• Analyser les données logistiques et les indicateurs de performance.\r\n• Développer et maintenir des tableaux de bord de pilotage.\r\n• Participer à l’automatisation du reporting et à l’amélioration de la qualité des données.\r\n• Réaliser des analyses de coûts et d’efficacité opérationnelle.\r\n• Cartographier et optimiser les processus de la chaîne logistique.\r\n• Participer à l’amélioration des outils digitaux et des solutions SAP. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246799",
-   "score": 30,
-   "label": "Périphérique",
-   "first_seen": "2026-10-07T17:25:48+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 10,
-    "qual": 8,
-    "calc": 36
-   },
-   "dominant_axis": "calc",
-   "matched_families": [
-    {
-     "id": "calc1",
-     "axis": "calc",
-     "source": "Éléments finis (256-1, 24 h), TP simulation numérique (272-1, 285-5, 285-4, 63 h), Calculs numériques de mise en forme (277-1, 286-1, 50 h)",
-     "weight": 12,
-     "terms": [
-      "digital twin",
-      "jumeau numerique"
-     ]
-    },
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
-     "weight": 4,
-     "terms": [
-      "automatisation"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "amelioration continue",
-      "methodes"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "qualite"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur",
-      "methodes"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "energie",
-      "industriel"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Aucun terme industriel : score plafonné",
-     "terms": [],
-     "points": -18,
-     "cap": 30
-    }
-   ]
-  },
-  {
    "id": "247425",
    "title": "Scientist: Biochemistry and Biophysics (H/F)",
    "company": "UCB PHARMA",
@@ -31158,7 +30935,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-03T16:05:59Z",
    "sector": "",
-   "specialization": "109, 248, 262, 328, 330, 338, 315",
+   "specialization": "[\"109\",\"248\",\"262\",\"328\",\"330\",\"338\",\"315\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32325,7 +32102,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-12T13:45:29Z",
    "sector": "",
-   "specialization": "29",
+   "specialization": "[\"29\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33892,7 +33669,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-05T10:13:04Z",
    "sector": "",
-   "specialization": "[\"229\"]",
+   "specialization": "229",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34142,7 +33919,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-19T13:06:41Z",
    "sector": "",
-   "specialization": "17",
+   "specialization": "[\"17\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34276,105 +34053,6 @@
    ]
   },
   {
-   "id": "246859",
-   "title": "VIE Credit Risk Analyst (H/F)",
-   "company": "ENGIE GLOBAL MARKETS",
-   "country": "ESPAGNE",
-   "city": "MADRID",
-   "description": "About ENGIE and Supply & Energy Management\n\nENGIE is a leading global group in low-carbon energy and services. Together with our employees, customers, partners and stakeholders, we are committed every day to accelerating the transition towards a carbon-neutral world through more energy-efficient and environmentally friendly solutions.\n\nGuided by our purpose, we combine economic performance with a positive impact on people and the planet, leveraging our core businesses, including gas, renewable energies and services, to provide competitive solutions to our customers.\n\nSupply & Energy Management (S&EM) is ENGIE’s Global Business Unit dedicated to delivering reliable, sustainable and affordable energy solutions. The business unit optimizes both ENGIE’s and its clients’ assets while designing tailor-made energy solutions for more than 200,000 professional clients and 15 million consumers.\n\nOperating in 20 countries and bringing together more than 10,000 experts, S&EM leverages ENGIE’s asset portfolio and market expertise to deliver decarbonized electricity 24/7, supporting customers in their energy transition journey.\n\nJoining Supply & Energy Management means becoming part of an international team of passionate professionals committed to shaping a greener and more efficient energy future.\n\nContext\n\nAs part of the Credit Risk Analysis team, you will play a key role in assessing the creditworthiness of counterparties and ensuring effective management of credit risk exposure across S&EM's activities.\n\nReporting to the Head of Credit Risk Analysis, you will work closely with Front Office, Legal, KYC/AML and Risk stakeholders in a dynamic and international trading environment.\n\nWhat You Will Do\nCurrent Portfolio Management\nMonitor and analyze existing counterparties' credit exposure and risk evolution.\nManage and review credit limits.\nAssess and approve Front Office transactions and contractual agreements from a credit risk perspective.\nEnsure continuous monitoring of portfolio risk and identify mitigation actions where necessary.\nCounterparty Onboarding & Risk Assessment\nSupport business development activities before contract execution.\nAnalyze prospects' financial situation, business model and regulatory environment.\nEvaluate creditworthiness and determine appropriate risk limits.\nPrepare recommendations for Credit Risk Management and Credit Committees.\nCredit Documentation & Negotiation\nNegotiate credit-related documentation and netting agreements with counterparties.\nCollaborate closely with Legal teams to ensure appropriate contractual protections.\nDigitalization & Continuous Improvement\nContribute to the development and enhancement of risk management tools.\nParticipate in digital transformation initiatives in partnership with Credit Reporting and IT teams.\nSupport process optimization and automation projects.\nBusiness Support Activities\nProduce daily risk reports.\nRespond to urgent Front Office requests regarding transaction impacts on exposure levels.\nProvide timely trading approvals based on risk assessments.\nKey Stakeholders\nInternal Interfaces\nFront Office\nCredit Reporting Team\nKYC / AML Team\nLegal Department\nIT Support\nExternal Interfaces\nClients and counterparties\nBusiness development teams\nLegal advisors\nFinancial institutions and lenders",
-   "mission": "",
-   "profile": "Education & Qualifications\nMaster's degree in Finance, Economics, Accounting, Business Administration or a related discipline.\nPrevious experience in Credit Risk Analysis, Corporate Finance, Financial Analysis, Audit or Accounting.\nExperience in trading, commodities, energy markets or banking environments would be highly valued.\nSkills & Experience\nTechnical Skills\nStrong financial analysis capabilities.\nSolid understanding of credit risk assessment methodologies.\nKnowledge of Project Finance structures.\nAdvanced Excel skills, including the ability to review and audit financial models.\nInterest in digital transformation and data-driven risk management tools.\nLanguages\nFluent French (written and spoken).\nProfessional proficiency in English (written and spoken).\nSpanish would be considered a strong asset.\nPersonal Attributes\n\nWe are looking for a professional who demonstrates:\n\nStrong analytical and problem-solving skills.\nExcellent communication and interpersonal abilities.\nAbility to influence and convince stakeholders.\nNegotiation skills.\nTeam spirit and collaborative mindset.\nStrong organizational and planning capabilities.\nResilience in a fast-paced and demanding environment.\nInitiative and continuous improvement mindset.\nCuriosity, adaptability and openness to innovation.\nWhy Join Us?\n\nAt ENGIE, every talent contributes to accelerating the energy transition. Joining S&EM means working in an international environment at the heart of global energy markets while contributing to building sustainable solutions for the future.\n\nYou will have the opportunity to develop your expertise, work alongside recognized professionals and build a career path aligned with your ambitions.\n\nAdditional Information\n\nLocation: S&EM Campus, La Garenne-Colombes, France\n\nContract: Full-time position\n\nRemote Working: Hybrid working arrangements available in accordance with applicable company policies.",
-   "duration": 12,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2027-12-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-08T14:46:26Z",
-   "sector": "",
-   "specialization": "259",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-08T14:46:26Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-10-08T00:00:00",
-    "endBroadcastDate": "2026-11-07T00:00:00"
-   },
-   "summary": "About ENGIE and Supply & Energy Management\n\nENGIE is a leading global group in low-carbon energy and services. Together with our employees, customers, partners and stakeholders, we are committed every day to accelerating the transition towards a carbon-neutral world through more energy-efficient and environmentally friendly solutions.\n\nGuided by our purpose, we combine economic performance with a positive impact on people and the planet, leveraging our core businesses, including gas, renewable energies and services, to provide competitive solutions to our customers.\n\nSupply & Energy Management (S&EM) is ENGIE’s Global Business Unit dedicated to delivering reliable, sustainable and affordable energy solutions. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246859",
-   "score": 27,
-   "label": "Périphérique",
-   "first_seen": "2026-10-08T19:56:56+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 24,
-    "qual": 8,
-    "calc": 9
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
-     "weight": 4,
-     "terms": [
-      "automation"
-     ]
-    },
-    {
-     "id": "prod5",
-     "axis": "prod",
-     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
-     "weight": 4,
-     "terms": [
-      "process optimization"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "continuous improvement"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "audit"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "problem solving"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "energy"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "231808",
    "title": "FULL STACK ENGINEER (H/F)",
    "company": "HELLO POMELO",
@@ -34389,7 +34067,7 @@
    "expiry_date": "",
    "publish_date": "2025-10-13T08:46:35Z",
    "sector": "",
-   "specialization": "[\"245\",\"248\"]",
+   "specialization": "245, 248",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35625,7 +35303,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-29T10:06:40Z",
    "sector": "",
-   "specialization": "327",
+   "specialization": "[\"327\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35835,7 +35513,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-22T15:17:00Z",
    "sector": "",
-   "specialization": "57, 68, 168, 171, 365",
+   "specialization": "[\"57\",\"68\",\"168\",\"171\",\"365\"]",
    "contract": "VIA",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35908,7 +35586,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-22T15:10:23Z",
    "sector": "",
-   "specialization": "57",
+   "specialization": "[\"57\"]",
    "contract": "VIA",
    "dates_raw": {
     "candidateCounter": 0,
@@ -36054,7 +35732,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-15T08:23:50Z",
    "sector": "",
-   "specialization": "251",
+   "specialization": "[\"251\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -36359,103 +36037,6 @@
     }
    ],
    "bonuses": [
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
-   "id": "246459",
-   "title": "Spécialiste Amélioration Continue (H/F)",
-   "company": "ESSILOR INTERNATIONAL",
-   "country": "CANADA",
-   "city": "MONTREAL -QC",
-   "description": "Votre rôle :\n\nLe/La spécialiste en Amélioration Continue travaille en étroite collaboration avec les responsables de site et les collaborateurs locaux afin d’identifier, mettre en œuvre et pérenniser des améliorations de processus visant à renforcer la performance opérationnelle, la qualité, la productivité, l’efficacité des coûts et le niveau de service. Véritable coach, facilitateur(trice) et conseiller(ère) de confiance, cette personne accompagne les équipes dans l’adoption des méthodologies d’amélioration continue telles que le Lean Manufacturing et les outils de résolution de problèmes.\n\nVos missions :\n\n• Identifier les opportunités d’amélioration et les défis opérationnels.\n• Animer des événements Kaizen, des ateliers de résolution de problèmes et des initiatives d’amélioration des processus.\n• Analyser les données opérationnelles et les indicateurs clés de performance (KPI) afin d’identifier les tendances, les causes profondes et les opportunités d’amélioration.\n• Accompagner les démarches de conduite du changement pour garantir l’adoption réussie des nouveaux processus et pratiques.\n• Former et coacher les équipes terrain aux principes et bonnes pratiques de l’amélioration continue.\n• Promouvoir une culture d’amélioration continue, de responsabilisation et d’engagement des collaborateurs.\n• Suivre les résultats des projets et mesurer les bénéfices réalisés au regard des objectifs de l’entreprise.\n• Collaborer de manière transversale avec les différentes fonctions afin de standardiser les processus et partager les meilleures pratiques.\n\nPrincipales difficultés de la mission : \n\n• Maturité limitée des outils Lean Manufacturing : nécessite des efforts importants pour ancrer durablement les changements et les améliorations dans les pratiques quotidiennes.\n• Influencer sans autorité hiérarchique : demande un fort leadership fonctionnel afin d’obtenir une meilleure adhésion grâce au coaching et au partenariat plutôt qu’à une approche descendante.\n• Langue et terminologie : le vocabulaire professionnel québécois diffère de celui utilisé en France ; il est nécessaire d’être à l’aise dans un environnement de travail bilingue français-anglais.\n• Conduite du changement : nécessité de créer des relations de confiance solides avant de mettre en œuvre et piloter les transformations.",
-   "mission": "",
-   "profile": "Profil : \n\n• Diplôme de niveau Master dans l’un des domaines suivants :\n- Ingénierie (industrielle, mécanique, manufacturière ou des procédés)\n- Production industrielle / Manufacturing\n\nConnaissances spécifiques ou expériences : \n\n• Méthodologies Lean Manufacturing et d’amélioration continue\n• Outils d’analyse des causes racines (Root Cause Analysis) : méthode des 5 Pourquoi, diagramme d’Ishikawa (Fishbone), méthodologie A3\n• Maîtrise avancée de Microsoft Excel\n• Connaissances de base des opérations de production, de distribution, de services ou de laboratoire\n\nCompétences requises pour le poste :\n• Compétences en coaching\n• Expérience en amélioration des processus et en gestion de projet\n• Capacité d’analyse de données et de résolution de problèmes\n• Compétences en conduite du changement\n• Aptitudes à l’animation d’ateliers, à la facilitation et à la formation des équipes.",
-   "duration": 12,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-28T07:56:10Z",
-   "sector": "",
-   "specialization": "208",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-28T07:56:10Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-08T00:00:00",
-    "endBroadcastDate": "2026-11-07T00:00:00"
-   },
-   "summary": "Votre rôle :\n\nLe/La spécialiste en Amélioration Continue travaille en étroite collaboration avec les responsables de site et les collaborateurs locaux afin d’identifier, mettre en œuvre et pérenniser des améliorations de processus visant à renforcer la performance opérationnelle, la qualité, la productivité, l’efficacité des coûts et le niveau de service. Véritable coach, facilitateur(trice) et conseiller(ère) de confiance, cette personne accompagne les équipes dans l’adoption des méthodologies d’amélioration continue telles que le Lean Manufacturing et les outils de résolution de problèmes.\n\nVos missions :\n\n• Identifier les opportunités d’amélioration et les défis opérationnels.\n• Animer des événements Kaizen, des ateliers de résolution de problèmes et des initiatives d’amélioration des processus.\n• Analyser les données opérationnelles et les indicateurs clés de performance (KPI) afin d’identifier les tendances, les causes profondes et les opportunités d’amélioration. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246459",
-   "score": 26,
-   "label": "Périphérique",
-   "first_seen": "2026-10-08T19:56:56+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 24,
-    "qual": 8,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod5",
-     "axis": "prod",
-     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
-     "weight": 4,
-     "terms": [
-      "ingenierie industrielle",
-      "kaizen",
-      "lean",
-      "productivite"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "amelioration continue",
-      "ingenierie",
-      "manufacturing"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "qualite",
-      "root cause"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "laboratoire",
-      "resolution de problemes"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "mecanique"
-     ],
-     "points": 5
-    },
     {
      "label": "Niveau bac+5 / ingénieur annoncé",
      "terms": [],
@@ -37348,7 +36929,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-29T10:11:33Z",
    "sector": "",
-   "specialization": "330",
+   "specialization": "[\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -37478,7 +37059,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-26T08:39:03Z",
    "sector": "",
-   "specialization": "66",
+   "specialization": "[\"66\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -37625,7 +37206,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-29T16:46:46Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -37839,7 +37420,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-12T12:29:13Z",
    "sector": "",
-   "specialization": "[\"7\"]",
+   "specialization": "7",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
