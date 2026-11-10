@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-09T16:15:25+00:00",
+ "generated_at": "2026-11-10T14:51:22+00:00",
  "source": "Business France — mon-vie-via.businessfrance.fr",
- "total_scanned": 884,
- "total_announced": 884,
- "total_kept": 384,
+ "total_scanned": 905,
+ "total_announced": 905,
+ "total_kept": 396,
  "threshold": 25,
  "axes": {
   "rd": {
@@ -710,166 +710,6 @@
    ]
   },
   {
-   "id": "247434",
-   "title": "Operations Support Engineer (H/F)",
-   "company": "HUTCHINSON",
-   "country": "ETATS-UNIS",
-   "city": "GRAND RAPIDS    -MI-",
-   "description": "Position Location: \r\nHutchinson ABS is seeking a VIE to fill the position, Operations Support Engineer This position reports to the Sr, Plant Manager. The position is located in Grand Rapids, Michigan, United States. \r\n\r\nPosition Description: \r\nThe Operations Support Engineer provides technical and analytical support across production, process improvement, and daily operational activities. This role bridges engineering and operations by troubleshooting issues, optimizing processes, supporting continuous improvement initiatives, and ensuring smooth plant performance. The Operations Support Engineer works closely with production teams, maintenance, quality, and engineering to drive efficiency, reduce downtime, and improve overall operational reliability.\r\n\r\nAbout Hutchinson:\r\nHutchinson is a Tier One manufacturer of automotive anti-vibration systems. We design and manufacture in three locations with Grand Rapids established as corporate headquarters and technology center. The Grand Rapids is the technology center for AVS. The corporate headquarters for AVS is a full-service design, test, and manufacture of anti-vibration components for automotive ICE engines, BEV, PHEV, and anti-vibration bracketry for mounting accessory items. Processes you will find here are Rubber Mixing, Rubber Injection, Plastic Injection and complex automated assembly.\r\n\r\nMission:\r\n • Support day to day plant operations by resolving process, equipment, and workflow issues.\r\n • Analyze production data to identify bottlenecks, waste, and improvement opportunities.\r\n • Lead or support continuous improvement (CI) projects using Lean, Six Sigma, or similar tools.\r\n • Assist in developing and optimizing standard operating procedures (SOPs) and work instructions.\r\n • Collaborate with engineering on process changes, equipment upgrades, and new product introductions.\r\n • Support root cause analysis and corrective actions for operational or quality issues.\r\n • Monitor key performance indicators (KPIs) and recommend actions to improve performance.\r\n • Provide technical support to production teams and help train operators on new processes or tools.",
-   "mission": "",
-   "profile": "Specialization / Specialization :\n • Background in Industrial Engineering, Mechanical Engineering, Manufacturing Engineering, or related field.\n • Strong interest in operations, process optimization, and continuous improvement.\n \nLevel of education : Bachelor’s or Master’s degree in Engineering, Quality, Industrial Engineering, or a related technical field\n \nTechnical skills : \n • Knowledge of Lean Manufacturing, Kaizen, 5S, Value Stream Mapping, or Six Sigma tools.\n • Understanding of manufacturing processes, equipment, and workflow optimization.\n • Ability to read and interpret technical drawings, process maps, and engineering documentation.\n • Experience with data analysis tools (Excel, Power BI, Minitab, or similar).\n • Familiarity with root cause analysis methods (5 Why, Fishbone, DMAIC).\n • Basic understanding of PLCs, automation, or industrial systems (optional but valuable).\n • Ability to create or update SOPs, work instructions, and process documentation.\n • Comfortable with ERP/MES systems for production tracking and reporting.\n\nSpoken languages ; English \n\nSoft skills :\n- Attention to Detail\n- Analytical Thinking\n- Problem‑Solving\n- Communication Skills\n- Collaboration & Teamwork\n- Organizational Skills\n- Adaptability\n- Proactive Mindset\n- Integrity & Objectivity\n- Training & Coaching Ability",
-   "duration": 18,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-07-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-23T14:17:00Z",
-   "sector": "",
-   "specialization": "77, 169",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-23T14:17:00Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-07-01T00:00:00",
-    "startBroadcastDate": "2026-10-23T00:00:00",
-    "endBroadcastDate": "2026-11-22T00:00:00"
-   },
-   "summary": "Position Location: \r\nHutchinson ABS is seeking a VIE to fill the position, Operations Support Engineer This position reports to the Sr, Plant Manager. The position is located in Grand Rapids, Michigan, United States. \r\n\r\nPosition Description: \r\nThe Operations Support Engineer provides technical and analytical support across production, process improvement, and daily operational activities. This role bridges engineering and operations by troubleshooting issues, optimizing processes, supporting continuous improvement initiatives, and ensuring smooth plant performance. The Operations Support Engineer works closely with production teams, maintenance, quality, and engineering to drive efficiency, reduce downtime, and improve overall operational reliability.\r\n\r\nAbout Hutchinson:\r\nHutchinson is a Tier One manufacturer of automotive anti-vibration systems. We design and manufacture in three locations with Grand Rapids established as corporate headquarters and technology center. The Grand Rapids is the technology center for AVS. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/247434",
-   "score": 95,
-   "label": "Cœur de cible",
-   "first_seen": "2026-10-23T18:20:08+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 100,
-    "qual": 34,
-    "calc": 34
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "calc3",
-     "axis": "calc",
-     "source": "Résistance des matériaux 1 et 2 (263-1, 270-1, 60 h), Élastoplasticité (279-1, 45 h)",
-     "weight": 11,
-     "terms": [
-      "vibration"
-     ]
-    },
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
-     "weight": 4,
-     "terms": [
-      "automation",
-      "data analysis"
-     ]
-    },
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
-     "weight": 10,
-     "terms": [
-      "plant"
-     ]
-    },
-    {
-     "id": "prod2",
-     "axis": "prod",
-     "source": "Mise en forme par solidification (288-1, 20 h)",
-     "weight": 7,
-     "terms": [
-      "injection"
-     ]
-    },
-    {
-     "id": "prod3",
-     "axis": "prod",
-     "source": "Assemblage des matériaux (297-2, 30 h)",
-     "weight": 7,
-     "terms": [
-      "assembly"
-     ]
-    },
-    {
-     "id": "prod5",
-     "axis": "prod",
-     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
-     "weight": 4,
-     "terms": [
-      "5s",
-      "kaizen",
-      "lean",
-      "process optimization"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "continuous improvement",
-      "engineering",
-      "manufacturing"
-     ]
-    },
-    {
-     "id": "qual3",
-     "axis": "qual",
-     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
-     "weight": 7,
-     "terms": [
-      "six sigma"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "quality",
-      "root cause"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "problem solving"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineer"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "automotive",
-      "industrial",
-      "mechanical"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "247692",
    "title": "Ingénieur Méthodes Industrialisation (H/F)",
    "company": "STAUBLI FAVERGES",
@@ -1551,7 +1391,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-27T07:35:39Z",
    "sector": "",
-   "specialization": "[\"114\"]",
+   "specialization": "114",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -2314,7 +2154,7 @@
    "expiry_date": "",
    "publish_date": "2025-11-19T10:45:12Z",
    "sector": "",
-   "specialization": "[\"77\",\"149\"]",
+   "specialization": "77, 149",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -2438,7 +2278,7 @@
    "expiry_date": "",
    "publish_date": "2025-10-08T09:46:46Z",
    "sector": "",
-   "specialization": "[\"77\",\"149\"]",
+   "specialization": "77, 149",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -3560,7 +3400,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-16T13:20:47Z",
    "sector": "",
-   "specialization": "[\"64\",\"77\",\"149\",\"175\",\"264\"]",
+   "specialization": "64, 77, 149, 175, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5040,7 +4880,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-29T15:13:54Z",
    "sector": "",
-   "specialization": "[\"49\",\"86\",\"109\",\"114\",\"123\",\"125\",\"206\",\"207\",\"208\",\"256\",\"262\"]",
+   "specialization": "49, 86, 109, 114, 123, 125, 206, 207, 208, 256, 262",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5286,7 +5126,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-04T11:11:03Z",
    "sector": "",
-   "specialization": "114",
+   "specialization": "[\"114\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6209,7 +6049,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-27T14:59:09Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6431,7 +6271,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-29T09:21:19Z",
    "sector": "",
-   "specialization": "[\"66\"]",
+   "specialization": "66",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6854,118 +6694,6 @@
       "nuclear"
      ],
      "points": 5
-    }
-   ]
-  },
-  {
-   "id": "246728",
-   "title": "Tulip Solution Engineer (H/F)",
-   "company": "CEVA SANTE ANIMALE",
-   "country": "HONGRIE",
-   "city": "BUDAPEST",
-   "description": "As part of its manufacturing digital transformation, Ceva Santé Animale is deploying Tulip as a strategic platform to digitalize manufacturing operations across its global manufacturing network. We are looking for a VIE Tulip solution Engineer to join the global digital Center of Excellence. \r\n\r\nBased in Hungary, the VIE will work primarily with the Hungarian manufacturing sites while also contributing to the development and deployment of global Tulip solutions. \r\n\r\nThis position is at the intersection of manufacturing processes, digital solutions, and continuous improvement. It is therefore particularly suited to an engineer who understands industrial operations and is interested in using digital technologies to improve the way manufacturing teams work. \r\n\r\nMissions : \r\n\r\nWorking closely with Production, Quality, Engineering, IT/OT and the Global Manufacturing Digital CoE, you will contribute to the design, development and deployment of digital solutions supporting manufacturing operations. Your main responsibilities will include: \r\n\r\nUnderstand manufacturing processes and work directly with shopfloor teams to map their processes. \r\n\r\nLearn and develop applications using the Tulip no-code/low-code platform. \r\n\r\nWork with process experts to simplify and standardize processes before digitalization. \r\n\r\nTranslate business and process requirements into simple, robust and user-friendly digital solutions. \r\n\r\nParticipate in testing, documentation, validation, and deployment activities in a regulated manufacturing environment. \r\n\r\nContribute to the definition and improvement of global standards, templates, core applications and data models. \r\n\r\nSupport the implementation and continuous improvement of Tulip solutions. \r\n\r\nParticipate actively in the global Tulip / manufacturing digital community and share experience and best practices.",
-   "mission": "",
-   "profile": "Education \r\n\r\nMaster's degree / Engineering degree in Industrial Engineering, Manufacturing, Process Engineering, Chemical Engineering, Biotechnology or a related field. \r\n \r\nExperience & knowledge \r\n\r\nGood understanding of industrial and manufacturing processes. \r\n\r\nPrevious experience in a manufacturing environment through an internship, apprenticeship or first professional experience would be highly appreciated. \r\n\r\nExperience in the pharmaceutical or other regulated industry would be a strong plus. \r\n\r\nUnderstanding continuous improvement and lean principles would be appreciated. \r\n\r\nBasic understanding of manufacturing information systems such as ERP, MES or industrial data systems would be an advantage. Having experience with Tulip is a plus. \r\n\r\nBeyond technical knowledge, we are looking for someone who: \r\n\r\nIs curious about how manufacturing processes work and is able to challenge them and translate it into a digital solution. \r\n\r\nHas a pragmatic and problem-solving mindset. \r\n\r\nIs autonomous, structured and willing to take initiative. \r\n\r\nEnjoys learning new technologies. \r\n\r\nHas strong communication and collaboration skills. \r\n\r\nIs comfortable working in an international and multicultural environment. \r\n\r\nEnglish: Good Level mandatory",
-   "duration": 24,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2029-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-06T09:16:52Z",
-   "sector": "",
-   "specialization": "63",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-06T09:16:52Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2029-01-01T00:00:00",
-    "startBroadcastDate": "2026-11-02T00:00:00",
-    "endBroadcastDate": "2026-11-09T00:00:00"
-   },
-   "summary": "As part of its manufacturing digital transformation, Ceva Santé Animale is deploying Tulip as a strategic platform to digitalize manufacturing operations across its global manufacturing network. We are looking for a VIE Tulip solution Engineer to join the global digital Center of Excellence. \r\n\r\nBased in Hungary, the VIE will work primarily with the Hungarian manufacturing sites while also contributing to the development and deployment of global Tulip solutions. \r\n\r\nThis position is at the intersection of manufacturing processes, digital solutions, and continuous improvement. It is therefore particularly suited to an engineer who understands industrial operations and is interested in using digital technologies to improve the way manufacturing teams work. \r\n\r\nMissions : \r\n\r\nWorking closely with Production, Quality, Engineering, IT/OT and the Global Manufacturing Digital CoE, you will contribute to the design, development and deployment of digital solutions supporting manufacturing operations. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246728",
-   "score": 61,
-   "label": "Bonne adéquation",
-   "first_seen": "2026-11-02T15:48:06+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 59,
-    "qual": 8,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
-     "weight": 10,
-     "terms": [
-      "process engineering"
-     ]
-    },
-    {
-     "id": "prod5",
-     "axis": "prod",
-     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
-     "weight": 4,
-     "terms": [
-      "lean"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "continuous improvement",
-      "engineering",
-      "manufacturing"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "quality",
-      "standards",
-      "testing",
-      "validation"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "problem solving"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineer"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "chemical",
-      "industrial"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
     }
    ]
   },
@@ -7521,7 +7249,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-21T12:28:26Z",
    "sector": "",
-   "specialization": "[\"73\"]",
+   "specialization": "73",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -7622,7 +7350,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-16T01:06:57Z",
    "sector": "",
-   "specialization": "[\"60\",\"64\",\"76\",\"77\",\"110\",\"142\",\"224\"]",
+   "specialization": "60, 64, 76, 77, 110, 142, 224",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -7828,6 +7556,95 @@
       "aerospace",
       "automotive",
       "defence"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
+   "id": "246603",
+   "title": "Ingénieur chef de projet industriel (H/F)",
+   "company": "STELLAGROUP",
+   "country": "ALLEMAGNE",
+   "city": "BURTENBACH",
+   "description": "Partie prenante des équipes d'opérations industrielles, tu seras immergé(e) dans la gestion de projets industriels avec un maximum d'autonomie. Dans une démarche d'amélioration continue, tu seras amené à effectuer les tâches suivantes\n\n- Réaliser un plan de transfert industriel pour implanter une ligne de laquage poudre\n- Effectuer un diagnostic de la production des screen et intégration à moyen terme de la confection des toiles dans le processus d'industrialisation et de production.\n- Gérer un projet de A à Z sur tout type de problématiques liées à la productivité et aux enjeux industriels de nos sociétés : états des lieux, diagnostics, études de faisabilité, documentations, chiffrages de solutions, déploiement opérationnel du plan d'action retenu",
+   "mission": "",
+   "profile": "- Tu es étudiant(e) en école d’ingénieur généraliste, spécialité Génie Industriel, mécanique, électronique, ou équivalent universitaire, et tu recherches un stage de fin d'études\n- Tu as un niveau d'anglais professionnel (B2/C1 attendu)\n- Tu aimes la gestion de projets et tu as une véritable sensibilité pour les environnements industriels\n- Tu as déjà développé un certain esprit d’initiative\n- Tu as le sens des responsabilités\n- Tu es capable de travailler en autonomie",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-01T14:34:14Z",
+   "sector": "",
+   "specialization": "[\"149\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-01T14:34:14Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-11-10T00:00:00",
+    "endBroadcastDate": "2026-12-10T00:00:00"
+   },
+   "summary": "Partie prenante des équipes d'opérations industrielles, tu seras immergé(e) dans la gestion de projets industriels avec un maximum d'autonomie. Dans une démarche d'amélioration continue, tu seras amené à effectuer les tâches suivantes\n\n- Réaliser un plan de transfert industriel pour implanter une ligne de laquage poudre\n- Effectuer un diagnostic de la production des screen et intégration à moyen terme de la confection des toiles dans le processus d'industrialisation et de production.\n- Gérer un projet de A à Z sur tout type de problématiques liées à la productivité et aux enjeux industriels de nos sociétés : états des lieux, diagnostics, études de faisabilité, documentations, chiffrages de solutions, déploiement opérationnel du plan d'action retenu",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/246603",
+   "score": 58,
+   "label": "Bonne adéquation",
+   "first_seen": "2026-11-10T14:51:04+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 59,
+    "qual": 0,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod4",
+     "axis": "prod",
+     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
+     "weight": 10,
+     "terms": [
+      "industrialisation"
+     ]
+    },
+    {
+     "id": "prod5",
+     "axis": "prod",
+     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
+     "weight": 4,
+     "terms": [
+      "productivite"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "amelioration continue"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "ingenieur"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "industriel",
+      "mecanique"
      ],
      "points": 5
     },
@@ -8052,7 +7869,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-21T07:02:12Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8383,7 +8200,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-09T14:31:35Z",
    "sector": "",
-   "specialization": "[\"149\"]",
+   "specialization": "149",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8484,7 +8301,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-27T09:17:46Z",
    "sector": "",
-   "specialization": "[\"73\",\"107\",\"224\",\"251\",\"330\",\"331\"]",
+   "specialization": "73, 107, 224, 251, 330, 331",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9706,7 +9523,7 @@
    "expiry_date": "",
    "publish_date": "2026-05-11T14:34:37Z",
    "sector": "",
-   "specialization": "[\"123\"]",
+   "specialization": "123",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9985,7 +9802,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-26T10:16:15Z",
    "sector": "",
-   "specialization": "[\"130\"]",
+   "specialization": "130",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10277,7 +10094,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-04T18:10:03Z",
    "sector": "",
-   "specialization": "208",
+   "specialization": "[\"208\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10385,7 +10202,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-23T09:02:41Z",
    "sector": "",
-   "specialization": "[\"52\",\"66\",\"114\",\"115\",\"143\",\"148\",\"153\"]",
+   "specialization": "52, 66, 114, 115, 143, 148, 153",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10768,7 +10585,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-21T16:27:04Z",
    "sector": "",
-   "specialization": "2",
+   "specialization": "[\"2\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12176,7 +11993,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T08:00:24Z",
    "sector": "",
-   "specialization": "114",
+   "specialization": "[\"114\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12384,7 +12201,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-08T13:25:41Z",
    "sector": "",
-   "specialization": "[\"153\"]",
+   "specialization": "153",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12660,6 +12477,101 @@
       "buyer"
      ],
      "points": -22
+    }
+   ]
+  },
+  {
+   "id": "248139",
+   "title": "Chargé(e) d'Amélioration continue (H/F)",
+   "company": "FAURECIA SYSTEMES D'ECHAPPEMENT",
+   "country": "PORTUGAL",
+   "city": "BRAGANCA",
+   "description": "L'ingénieur en production allégée (VIE) contribue à la performance et à la rentabilité de l'usine en mettant l'accent sur la main-d'œuvre directe (MOD) et en appliquant les principes opérationnels du Faurecia Excellence System (FES). \n \nAu sein d'une équipe FES&P solide, vous serez amené(e) à :\n• Assurer le suivi du plan de déploiement du FES, afin de soutenir la mise en œuvre du programme d'amélioration de l'usine (PIP).\n• Transmettre, en fonction des besoins, les connaissances et compétences relatives au FES à l’équipe de l’usine par le biais de formations, d’accompagnement et de sensibilisation.\n• Participer à la mise en œuvre des principes du FES dans les programmes dès la phase de conception (conception de processus Lean, MFD, validation de la conception des équipements, ateliers de maquettes en carton, travail standardisé, OHP, agencement des processus, emballage, etc.).\n• Veiller à ce que la méthodologie de gestion des données de routage et des coefficients soit correctement appliquée et respectée, afin de garantir la précision des coûts de main-d’œuvre directe standard et réels.\n• Veiller au processus de suivi DLE/DLP lié aux résultats en pourcentage des coûts DL.\n• Soutenir la mise en place et le respect du travail standardisé (SW), ainsi que le développement des procédures opérationnelles (OHP) (principalement les rôles et routines des responsables de ligne [GL] et des superviseurs), en tant que fondements essentiels pour atteindre des niveaux élevés de performance opérationnelle.\n• Soutenir la mise en œuvre des outils d’amélioration FES pour la fiabilité de la production, les normes de changement de série (flexibilité), la réduction des arrêts de ligne, l’équilibrage des lignes et l’efficacité globale des MOD.\n• Veiller à l’identification du « potentiel de productivité » des MOD.\n• Contribuer à la réduction des délais de production grâce à la mise en œuvre du flux continu, à l’optimisation de l’agencement, au système « pull » et aux travaux d’accélération des flux.\n• Mise en place d'outils de numérisation et formation/accompagnement des autres collaborateurs de l'usine\n• Diffusion du questionnaire et du guide FES 4.0 à tous les niveaux hiérarchiques et dans tous les services de l'usine\n• Mise en œuvre de la méthode 5S et collaboration avec les autres services\n• Analyse comparative avec d'autres usines et apport d'idées nouvelles et d'inspiration pour l'excellence opérationnelle",
+   "mission": "",
+   "profile": "Master en ingénierie (par exemple : génie industriel, génie mécanique ou domaine connexe)\nBonnes compétences relationnelles et aptitudes à la présentation et à la formation, associées à un haut niveau d’autonomie\nOuverture d’esprit internationale\nCompétences informatiques (MS Office, Excel, PowerPoint, Access, AutoCAD ou équivalent)\nMaîtrise de l’anglais\nEngagement envers les normes éthiques les plus strictes et volonté de respecter le Code d’éthique et le Code de gestion de Faurecia",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-11-09T09:37:24Z",
+   "sector": "",
+   "specialization": "[\"206\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-11-09T09:37:24Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-11-10T00:00:00",
+    "endBroadcastDate": "2026-12-10T00:00:00"
+   },
+   "summary": "L'ingénieur en production allégée (VIE) contribue à la performance et à la rentabilité de l'usine en mettant l'accent sur la main-d'œuvre directe (MOD) et en appliquant les principes opérationnels du Faurecia Excellence System (FES). \n \nAu sein d'une équipe FES&P solide, vous serez amené(e) à :\n• Assurer le suivi du plan de déploiement du FES, afin de soutenir la mise en œuvre du programme d'amélioration de l'usine (PIP).\n• Transmettre, en fonction des besoins, les connaissances et compétences relatives au FES à l’équipe de l’usine par le biais de formations, d’accompagnement et de sensibilisation.\n• Participer à la mise en œuvre des principes du FES dans les programmes dès la phase de conception (conception de processus Lean, MFD, validation de la conception des équipements, ateliers de maquettes en carton, travail standardisé, OHP, agencement des processus, emballage, etc.). […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/248139",
+   "score": 46,
+   "label": "À examiner",
+   "first_seen": "2026-11-10T14:51:04+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 59,
+    "qual": 8,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod4",
+     "axis": "prod",
+     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
+     "weight": 10,
+     "terms": [
+      "usine"
+     ]
+    },
+    {
+     "id": "prod5",
+     "axis": "prod",
+     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
+     "weight": 4,
+     "terms": [
+      "5s",
+      "lean",
+      "productivite"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "amelioration continue",
+      "ingenierie"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "normes",
+      "validation"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "industriel",
+      "mecanique"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
     }
    ]
   },
@@ -13298,105 +13210,6 @@
    ]
   },
   {
-   "id": "247017",
-   "title": "Quality Engineer H/F (H/F)",
-   "company": "HUTCHINSON",
-   "country": "MALTE",
-   "city": "IX-XEWKIJA",
-   "description": "Hutchinson Gozo (Malta) is one of the 100 plants of the group, which specialises in the production of bonded seals (metallic insert with a vulcanized rubber compound profile). The Operational Excellence is one of the most important focus to help us achieve our targets: satisfy our customer’s needs, improve our employee’s safety, sustain our quality, improve our performance and delivery. In order to meet our customer’s needs and improve our performance (from raw materials to customer delivery), we must rethink our internal supply chain and challenge our process flow management. \n\nMain target is to analyse and improve the manufacturing and purchasing flows to optimise the ERP calculation and improve data reliability. The second objective is to work on the monitoring system, to deploy supervision and management KPI with a lean mentality.\n\nYour main missions are : \n-Review of control plans and related documents\n-Updating of control plans to reflect the actual steps being undertaken in the manfuacturing processes\n-Calibration of instruments and maintenance of calibration database\n-Support in internal quality issues (trials, data collection, analysis) etc. \n-Support other Quality Engineers in their daily tasks",
-   "mission": "",
-   "profile": "Specialisation : Mechanical Engineering\nLevel of education : Bachelor Degree\nTechnical skills : Understanding of Quality aspects, Knowledge on ISO Certifications\nSpoken languages : English\nSoft skills : Communication, Team player, Organised",
-   "duration": 24,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2029-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-13T12:55:07Z",
-   "sector": "",
-   "specialization": "77, 209",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-13T12:55:07Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2029-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-13T00:00:00",
-    "endBroadcastDate": "2026-11-12T00:00:00"
-   },
-   "summary": "Hutchinson Gozo (Malta) is one of the 100 plants of the group, which specialises in the production of bonded seals (metallic insert with a vulcanized rubber compound profile). The Operational Excellence is one of the most important focus to help us achieve our targets: satisfy our customer’s needs, improve our employee’s safety, sustain our quality, improve our performance and delivery. In order to meet our customer’s needs and improve our performance (from raw materials to customer delivery), we must rethink our internal supply chain and challenge our process flow management. \n\nMain target is to analyse and improve the manufacturing and purchasing flows to optimise the ERP calculation and improve data reliability. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/247017",
-   "score": 43,
-   "label": "À examiner",
-   "first_seen": "2026-10-13T20:15:05+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 24,
-    "qual": 23,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod5",
-     "axis": "prod",
-     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
-     "weight": 4,
-     "terms": [
-      "lean"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "engineering",
-      "manufacturing"
-     ]
-    },
-    {
-     "id": "qual2",
-     "axis": "qual",
-     "source": "Qualité et normes (774-1, 14 h, coefficient 0,5)",
-     "weight": 4,
-     "terms": [
-      "quality engineer"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "quality"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineer",
-      "quality"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "mechanical"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "245557",
    "title": "Ingénieur industrialisation (H/F)",
    "company": "SERAP INDUSTRIES",
@@ -13929,7 +13742,7 @@
    "expiry_date": "",
    "publish_date": "2025-10-08T10:46:44Z",
    "sector": "",
-   "specialization": "[\"77\",\"149\",\"207\"]",
+   "specialization": "77, 149, 207",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -14033,7 +13846,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-30T08:31:23Z",
    "sector": "",
-   "specialization": "[\"65\",\"77\"]",
+   "specialization": "65, 77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -15090,6 +14903,96 @@
    ]
   },
   {
+   "id": "248194",
+   "title": "Operational Excellence Specialist (H/F)",
+   "company": "SERVIER INTERNATIONAL",
+   "country": "POLOGNE",
+   "city": "VARSOVIE",
+   "description": "Description of the mission: \nAs part of the Operational Excellence team at the Anpharm manufacturing site, you will contribute to continuous improvement initiatives across production, quality and support processes. Your main tasks will include:\n• Coordinating selected improvement projects and contributing as a team member to site-wide initiatives\n• Applying Lean tools on the shop floor (Visual Management, Problem Solving / Root Cause Analysis, Standard work,)\n• Developing and maintaining Power BI dashboards to track KPIs and operational performance\n• Analysing process data to identify losses and improvement opportunities, and supporting data-driven decision-making\n• Collaborating with production, quality, engineering and maintenance teams to develop standards and training materials\n• Contributing to the deployment of Group Operational Excellence initiatives at site level\n\nDuration of the mission: 12 months (renewable)",
+   "mission": "",
+   "profile": "Educational background: University degree\n\nSpecialization: Pharmaceutical Industry / Chemistry\n\nField of study: Engineering, Pharmaceutical, Chemistry, Lean Management\n\nLanguages: English, Polish would be an asset \n\nExperience required: at least few months in Performance/Operational Excellence management, project management, lean management, Green Belt, Yellow Belt would be additional asset\n\nComputer skills: Microsoft applications (Excel advanced, Word, PowerPoint, Outlook, SharePoint), ERP, Power BI Reports",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-11-10T12:09:01Z",
+   "sector": "",
+   "specialization": "[\"86\",\"264\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-11-10T12:09:01Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-11-10T00:00:00",
+    "endBroadcastDate": "2026-12-10T00:00:00"
+   },
+   "summary": "Description of the mission: \nAs part of the Operational Excellence team at the Anpharm manufacturing site, you will contribute to continuous improvement initiatives across production, quality and support processes. Your main tasks will include:\n• Coordinating selected improvement projects and contributing as a team member to site-wide initiatives\n• Applying Lean tools on the shop floor (Visual Management, Problem Solving / Root Cause Analysis, Standard work,)\n• Developing and maintaining Power BI dashboards to track KPIs and operational performance\n• Analysing process data to identify losses and improvement opportunities, and supporting data-driven decision-making\n• Collaborating with production, quality, engineering and maintenance teams to develop standards and training materials\n• Contributing to the deployment of Group Operational Excellence initiatives at site level\n\nDuration of the mission: 12 months (renewable)",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/248194",
+   "score": 38,
+   "label": "À examiner",
+   "first_seen": "2026-11-10T14:51:04+00:00",
+   "axis_scores": {
+    "rd": 9,
+    "prod": 59,
+    "qual": 8,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod4",
+     "axis": "prod",
+     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
+     "weight": 10,
+     "terms": [
+      "shop floor"
+     ]
+    },
+    {
+     "id": "prod5",
+     "axis": "prod",
+     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
+     "weight": 4,
+     "terms": [
+      "lean"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "continuous improvement",
+      "engineering",
+      "manufacturing"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "quality",
+      "root cause",
+      "standards"
+     ]
+    },
+    {
+     "id": "rd9",
+     "axis": "rd",
+     "source": "Vocabulaire de laboratoire courant",
+     "weight": 3,
+     "terms": [
+      "problem solving"
+     ]
+    }
+   ],
+   "bonuses": []
+  },
+  {
    "id": "247769",
    "title": "Product Development Engineer - Cooling Systems  (H/F)",
    "company": "HUTCHINSON",
@@ -15345,7 +15248,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-29T09:57:49Z",
    "sector": "",
-   "specialization": "[\"66\"]",
+   "specialization": "66",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -15558,7 +15461,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-09T14:58:34Z",
    "sector": "",
-   "specialization": "[\"327\"]",
+   "specialization": "327",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -15881,7 +15784,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-28T07:30:04Z",
    "sector": "",
-   "specialization": "71",
+   "specialization": "[\"71\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -16174,7 +16077,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-29T11:46:13Z",
    "sector": "",
-   "specialization": "137, 149, 150, 244, 264",
+   "specialization": "[\"137\",\"149\",\"150\",\"244\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -17403,69 +17306,50 @@
    ]
   },
   {
-   "id": "247994",
-   "title": "Ingénieur(e) chargé(e) du contrôle de la production et logistique (H/F)",
-   "company": "FAURECIA SYSTEMES D'ECHAPPEMENT",
-   "country": "TCHEQUIE / REPUBLIQUE TCHEQUE",
-   "city": "MLADA BOLESLAV",
-   "description": "Mise en œuvre des principes fondamentaux PC&L au sein de la division : organisation de formations et apport d’expertise aux usines présentant les plus grandes lacunes, par la création et le suivi d’un plan d’actions d’amélioration.\nDiriger les initiatives numériques (notamment les cas d’utilisation de l’IA, la numérisation de l’atelier, le tableau de bord Palantir) pour la division, conformément aux normes de la BG/du Groupe et à l’approche ascendante des usines. Ce volet comprend la définition de la stratégie ainsi que la gestion et le déploiement des projets à l’échelle de l’usine.\nGénérer et analyser des rapports quotidiens/mensuels (stocks, performances de transport…) afin d’accompagner la division et les équipes des usines dans leur processus décisionnel. Cela inclut l’automatisation des rapports afin de réduire la charge de travail et de se concentrer sur des tâches à forte valeur ajoutée.\nDiriger le plan de productivité de la main-d’œuvre directe de l’entrepôt en collaboration avec les responsables de pôle : organiser des ateliers sur site à travers l’Europe afin d’identifier les gains de productivité potentiels et assurer un suivi régulier avec l’usine.\nVeiller au respect de la norme Forvia Supply Chain dans toutes les usines : principes fondamentaux en matière de stocks et de livraisons.\nAssurer la liaison entre l’organisation de la division et l’équipe centrale d’approvisionnement et de transport du groupe : gérer les performances, identifier les écarts et piloter les actions correctives.",
+   "id": "248157",
+   "title": "INGÉNIEUR.E PROCESS (H/F)",
+   "company": "FORTIL GROUP",
+   "country": "BELGIQUE",
+   "city": "BRUXELLES",
+   "description": "VOTRE PREMIER PROJET EN TANT QUE CONSULTANT FORTIL\nAfin de renforcer nos équipes, nous recherchons un consultant « Ingénieur process / clean utilities ». Vous êtes communiquant, proactif et vous n’avez pas peur de relever des défis, alors bienvenue dans nos équipes.\n\nCONTEXTE CLIENT : Vous intervenez auprès de nos clients (Biotech, pharma, cosmétique, DM nutraceutique) dans le cadre de projets de revamping ou de nouvelles unités de production ou R&D.\n\nVOTRE QUOTIDIEN DANS NOS EQUIPES\n• Support à la définition du besoin utilisateur\n• Participation et/ou réalisation des études APS/APD\n• Rédaction des dossiers de consultation\n• Réalisation des alignements techniques des offres fournisseurs et préconisations pour le choix du fournisseur à retenir\n• Pilotage des fournisseurs pendant les études de conception\n• Rédaction des protocoles et rapports de commissioning/qualification\n• Participation aux FAT/SAT, QI/QO/QP\n• Pilotage et reporting nécessaire au suivi du ou des lots concernés.",
    "mission": "",
-   "profile": "Quelles sont les conditions requises pour nous rejoindre ?\n\nLa maîtrise de l'anglais est indispensable, car vous serez amené(e) à communiquer avec des personnes du monde entier.\nMaster ou diplôme d'ingénieur en gestion de la chaîne d'approvisionnement\n\nQuel profil recherchons-nous ?\n\nEsprit d’innovation et capacité à formuler des propositions\nCapacité à animer des équipes de travail pluridisciplinaires\nOrientation client (interne et externe)\nConnaissances en électronique\nCompétences informatiques\nCapacité d’analyse\nCompétences en négociation\nSoif d’apprendre\nOuverture d’esprit, proactivité et autonomie\nCapacité à apporter un regard neuf sur l’organisation actuelle\nEsprit d’équipe et ouverture d’esprit internationale\nConnaissance des produits et des technologies\nProcessus d’audit des fournisseurs et gestion de la qualité",
-   "duration": 12,
+   "profile": "VOTRE PROFIL ET VOTRE PERSONNALITE\r\nDe formation ingénieur ou équivalente, vous justifiez d’au moins une première expérience réussie dans la gestion d’affaire de lots utilités propres dans un environnement réglementé pharmaceutique, biotech, Cosmétique, Dispositifs Médicaux.\r\nVous avez au moins une compétence particulière dans la gestion d’affaires complète d’une de ses utilités : Vapeur propres, Eaux Pharma (EPPI, EHP, EPUR,…). De plus votre maitrise des relations fournisseurs et la connaissance en dimensionnement et en technologie de production d’eaux est un plus. Votre capacité d’adaptation et votre autonomie seront un atout indispensable pour mener à bien les projets confiés.",
+   "duration": 24,
    "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-01-01T00:00:00",
+   "end_date": "2029-01-01T00:00:00",
    "expiry_date": "",
-   "publish_date": "2026-11-05T12:57:05Z",
+   "publish_date": "2026-11-09T15:59:21Z",
    "sector": "",
-   "specialization": "244",
+   "specialization": "[\"63\",\"86\",\"106\",\"113\",\"123\",\"134\",\"149\",\"169\",\"192\",\"256\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
-    "creationDate": "2026-11-05T12:57:05Z",
+    "creationDate": "2026-11-09T15:59:21Z",
     "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-11-05T00:00:00",
-    "endBroadcastDate": "2026-12-05T00:00:00"
+    "missionEndDate": "2029-01-01T00:00:00",
+    "startBroadcastDate": "2026-11-09T00:00:00",
+    "endBroadcastDate": "2026-12-09T00:00:00"
    },
-   "summary": "Mise en œuvre des principes fondamentaux PC&L au sein de la division : organisation de formations et apport d’expertise aux usines présentant les plus grandes lacunes, par la création et le suivi d’un plan d’actions d’amélioration.\nDiriger les initiatives numériques (notamment les cas d’utilisation de l’IA, la numérisation de l’atelier, le tableau de bord Palantir) pour la division, conformément aux normes de la BG/du Groupe et à l’approche ascendante des usines. Ce volet comprend la définition de la stratégie ainsi que la gestion et le déploiement des projets à l’échelle de l’usine.\nGénérer et analyser des rapports quotidiens/mensuels (stocks, performances de transport…) afin d’accompagner la division et les équipes des usines dans leur processus décisionnel. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/247994",
+   "summary": "VOTRE PREMIER PROJET EN TANT QUE CONSULTANT FORTIL\nAfin de renforcer nos équipes, nous recherchons un consultant « Ingénieur process / clean utilities ». Vous êtes communiquant, proactif et vous n’avez pas peur de relever des défis, alors bienvenue dans nos équipes.\n\nCONTEXTE CLIENT : Vous intervenez auprès de nos clients (Biotech, pharma, cosmétique, DM nutraceutique) dans le cadre de projets de revamping ou de nouvelles unités de production ou R&D.\n\nVOTRE QUOTIDIEN DANS NOS EQUIPES\n• Support à la définition du besoin utilisateur\n• Participation et/ou réalisation des études APS/APD\n• Rédaction des dossiers de consultation\n• Réalisation des alignements techniques des offres fournisseurs et préconisations pour le choix du fournisseur à retenir\n• Pilotage des fournisseurs pendant les études de conception\n• Rédaction des protocoles et rapports de commissioning/qualification\n• Participation aux FAT/SAT, QI/QO/QP\n• Pilotage et reporting nécessaire au suivi du ou des lots concernés.",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/248157",
    "score": 35,
    "label": "À examiner",
-   "first_seen": "2026-11-05T14:37:40+00:00",
+   "first_seen": "2026-11-10T14:51:04+00:00",
    "axis_scores": {
-    "rd": 0,
-    "prod": 48,
+    "rd": 9,
+    "prod": 0,
     "qual": 8,
-    "calc": 9
+    "calc": 25
    },
-   "dominant_axis": "prod",
+   "dominant_axis": "calc",
    "matched_families": [
     {
-     "id": "calc4",
+     "id": "calc3",
      "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
-     "weight": 4,
+     "source": "Résistance des matériaux 1 et 2 (263-1, 270-1, 60 h), Élastoplasticité (279-1, 45 h)",
+     "weight": 11,
      "terms": [
-      "automatisation"
-     ]
-    },
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
-     "weight": 10,
-     "terms": [
-      "atelier",
-      "usine"
-     ]
-    },
-    {
-     "id": "prod5",
-     "axis": "prod",
-     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
-     "weight": 4,
-     "terms": [
-      "productivite"
+      "dimensionnement"
      ]
     },
     {
@@ -17474,9 +17358,16 @@
      "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
      "weight": 2,
      "terms": [
-      "audit",
-      "normes",
-      "qualite"
+      "qualification"
+     ]
+    },
+    {
+     "id": "rd9",
+     "axis": "rd",
+     "source": "Vocabulaire de laboratoire courant",
+     "weight": 3,
+     "terms": [
+      "r&d"
      ]
     }
    ],
@@ -17485,7 +17376,7 @@
      "label": "Intitulé technique ciblé",
      "terms": [
       "ingenieur",
-      "production"
+      "process"
      ],
      "points": 14
     },
@@ -17497,10 +17388,9 @@
     {
      "label": "Formation exigée hors cursus : score plafonné",
      "terms": [
-      "electronique",
       "gestion"
      ],
-     "points": -15,
+     "points": -1,
      "cap": 35
     }
    ]
@@ -18804,7 +18694,7 @@
    "expiry_date": "",
    "publish_date": "2026-05-11T14:33:59Z",
    "sector": "",
-   "specialization": "86, 123, 125, 150, 155, 169, 206, 208, 209, 264",
+   "specialization": "[\"86\",\"123\",\"125\",\"150\",\"155\",\"169\",\"206\",\"208\",\"209\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19601,6 +19491,119 @@
    ]
   },
   {
+   "id": "237220",
+   "title": "Middle Developer (H/F)",
+   "company": "SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE",
+   "country": "ESPAGNE",
+   "city": "BARCELONE",
+   "description": "Want to kick-start your career in an international and dynamic environment?\r\nJoin SII through a V.I.E program and enjoy a unique human and technological experience!\r\n\r\nRole Summary\r\n\r\nThe Middle Developer is an experienced and autonomous software engineer capable of delivering medium‑to‑large technical tasks with minimal supervision. This role requires solid knowledge of software development principles, hands‑on expertise with modern technologies, and the ability to collaborate effectively within cross‑functional teams.\r\n Middle Developers play a critical role in designing, implementing, maintaining, and optimizing applications, while contributing to technical decision‑making, code quality, and continuous improvement initiatives.\r\n\r\nKey Responsibilities\r\n\r\n1. Software Design & Implementation\r\n• Independently design and implement scalable, maintainable, and high‑quality software solutions.\r\n• Translate functional requirements into technical specifications and well‑structured code components.\r\n• Lead medium‑complexity features from concept to deployment, ensuring best practices are consistently applied.\r\n• Refactor legacy components to improve performance, reliability, and maintainability.\r\n\r\n2. Code Quality & Reviews\r\n• Actively participate in code reviews, providing constructive feedback and ensuring adherence to coding standards.\r\n• Mentor junior developers by guiding them through coding patterns, best practices, and architectural decisions.\r\n• Identify technical risks, propose mitigation strategies, and ensure early detection of potential issues.\r\n\r\n3. Testing & Quality Assurance\r\n• Develop comprehensive unit, integration, and API tests to ensure robustness and maintainability.\r\n• Collaborate with QA engineers to analyze defects, reproduce issues, and drive solutions efficiently.\r\n• Contribute to improving the testing framework and automation coverage across services.\r\n\r\n4. Maintenance & Troubleshooting\r\n• Diagnose performance bottlenecks, memory leaks, and runtime issues across distributed systems.\r\n• Investigate and resolve production incidents, ensuring root‑cause analysis and permanent fixes.\r\n• Optimize application performance and reduce operational costs where applicable.\r\n\r\n5. Collaboration & Cross‑Team Alignment\r\n• Work closely with product owners, UX designers, architects, and engineering leads to align on technical direction and business priorities.\r\n• Contribute to sprint ceremonies: estimation, planning, retrospectives, and demos.\r\n• Communicate progress and blockers effectively to maintain transparency within the team.\r\n\r\n6. Continuous Improvement & Innovation\r\n• Stay informed about new tools, frameworks, and industry trends relevant to the tech stack.\r\n• Propose improvements to the development workflow, architecture, or tooling (CI/CD, testing, monitoring, etc.).\r\n• Actively participate in architecture discussions, sharing insights and best practices.",
+   "mission": "",
+   "profile": "Required Skills & Experience\r\n\r\nTechnical Skills\r\n• 3 years of professional experience in software development.\r\n• Strong proficiency in one or more core programming languages (e.g., Java, JavaScript/TypeScript, C#, or similar depending on the team).\r\n• Solid understanding of object‑oriented design, clean architecture, SOLID principles, and design patterns.\r\n• Experience building and maintaining REST APIs, microservices, and event‑driven systems.\r\n• Knowledge of SQL and NoSQL databases, including performance optimization techniques.\r\n• Experience with Git and modern branching strategies (Gitflow, trunk‑based, etc.).\r\n• Strong debugging and problem‑solving skills, with the ability to analyze complex technical scenarios.\r\n\r\nSoft Skills\r\n• Ability to work autonomously while collaborating efficiently with the team.\r\n• Strong communication and documentation skills.\r\n• Proactive mindset with focus on quality, ownership, and continuous improvement.\r\n• Ability to mentor and support junior developers.\r\n• Solid decision‑making and prioritization abilities.\r\n• Language: Spanish and English professional level.\r\n\r\nNice to Have\r\n• Experience with CI/CD pipelines (Azure DevOps, GitHub Actions, GitLab, Jenkins, etc.).\r\n• Hands‑on work with cloud platforms such as Azure, AWS, or GCP.\r\n• Familiarity with containerization and orchestration (Docker, Kubernetes).\r\n• Exposure to modern frontend frameworks like Angular, React, or Vue.js.\r\n• Knowledge of monitoring tools (Grafana, Prometheus, ELK, Application Insights).\r\n• Experience working in Agile environments (Scrum or Kanban)",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-02-23T15:38:40Z",
+   "sector": "",
+   "specialization": "[\"330\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-02-23T15:38:40Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-11-10T00:00:00",
+    "endBroadcastDate": "2026-12-10T00:00:00"
+   },
+   "summary": "Want to kick-start your career in an international and dynamic environment?\r\nJoin SII through a V.I.E program and enjoy a unique human and technological experience!\r\n\r\nRole Summary\r\n\r\nThe Middle Developer is an experienced and autonomous software engineer capable of delivering medium‑to‑large technical tasks with minimal supervision. This role requires solid knowledge of software development principles, hands‑on expertise with modern technologies, and the ability to collaborate effectively within cross‑functional teams.\r\n Middle Developers play a critical role in designing, implementing, maintaining, and optimizing applications, while contributing to technical decision‑making, code quality, and continuous improvement initiatives.\r\n\r\nKey Responsibilities\r\n\r\n1. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/237220",
+   "score": 35,
+   "label": "À examiner",
+   "first_seen": "2026-11-10T14:51:04+00:00",
+   "axis_scores": {
+    "rd": 9,
+    "prod": 45,
+    "qual": 23,
+    "calc": 9
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "calc4",
+     "axis": "calc",
+     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
+     "weight": 4,
+     "terms": [
+      "automation"
+     ]
+    },
+    {
+     "id": "prod4",
+     "axis": "prod",
+     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
+     "weight": 10,
+     "terms": [
+      "tooling"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "continuous improvement",
+      "engineering"
+     ]
+    },
+    {
+     "id": "qual2",
+     "axis": "qual",
+     "source": "Qualité et normes (774-1, 14 h, coefficient 0,5)",
+     "weight": 4,
+     "terms": [
+      "quality assurance"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "quality",
+      "root cause",
+      "standards",
+      "testing"
+     ]
+    },
+    {
+     "id": "rd9",
+     "axis": "rd",
+     "source": "Vocabulaire de laboratoire courant",
+     "weight": 3,
+     "terms": [
+      "problem solving"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    },
+    {
+     "label": "Intitulé de métier du numérique : score plafonné",
+     "terms": [
+      "developer"
+     ],
+     "points": -3,
+     "cap": 35
+    }
+   ]
+  },
+  {
    "id": "247810",
    "title": "Ingénieur CAD (H/F)",
    "company": "STMICROELECTRONICS (CROLLES 2) SAS",
@@ -20284,7 +20287,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-13T09:28:11Z",
    "sector": "",
-   "specialization": "[\"86\",\"113\",\"123\",\"138\",\"144\",\"248\",\"256\",\"327\",\"332\",\"335\",\"367\"]",
+   "specialization": "86, 113, 123, 138, 144, 248, 256, 327, 332, 335, 367",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20465,7 +20468,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-06T08:46:09Z",
    "sector": "",
-   "specialization": "[\"175\"]",
+   "specialization": "175",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20777,6 +20780,91 @@
    ]
   },
   {
+   "id": "248158",
+   "title": "INGÉNIEUR(E) CSV (H/F)",
+   "company": "FORTIL GROUP",
+   "country": "BELGIQUE",
+   "city": "BRUXELLES",
+   "description": "Votre environnement technique\n\nNos ingénieurs CSV participent au pilotage des activités de « QHSES & Compliance ». Nous prenons actuellement en main des sujets d’envergure dans de nombreux domaines tels que la pharmaceutique, les dispositifs médicaux, la biotechnologie, nutraceutique etc. Notre expertise s’applique à la production et/ou à la chefferie de projet notamment dans des environnements techniques complexes.\n\nNos interventions s’articulent autour de problématiques techniques liées aux dimensions :\n\n- Quality system & Regulatory\n- Operational, product & Supplier Quality\n- Audit, Certification & formation\n- Cybersecurity\n- HSE\n- Qualification, tests & validation\n\nVos responsabilités métier\n\nPour accompagner l’équipe à mettre en place une stratégie de validation des systèmes informatisés. (VSI), vous êtes capable de prendre le lead sur tout ou partie des responsabilités métiers suivantes :\n\n- La Validation d'automates, de superviseurs et de MES (Manufacturing Execution System)\n- Les Analyses fonctionnelles\n- La rédaction des protocoles de tests, change control et rapport de validation\n- L'exécution des tests IQ OQ PQ\n- La compliance GAMP, 21 CFR part 11, BPx\n- L'interface avec les fournisseurs et/ou les clients\n\nVous avez une volonté de vous professionnaliser sur les éventuelles compétences manquantes.\nVos atouts pour réussir\nVous maitrisez référentiels (BPF, GMP, 21 CFR Part11, GAMP), de la réglementation spécifique du domaine de la validation informatique.\n\nVous avez déjà rédigé des fiches de tests et participé au déroulement des tests de qualification.",
+   "mission": "",
+   "profile": "Diplômé(e) d’une Ecole d’Ingénieur, d’un équivalent bac+5 ou d’une Faculté de Pharmacie, orientée management de la qualité, qualité du médicament, maitrise des risques qualité.\n\nVous avez une appétence forte pour les projets complexes et la résolution de problématiques. On reconnait votre curiosité et votre culture technique dans le milieu professionnel mais aussi dans le milieu personnel. Vous avez une remise en cause facile et cherchez constamment à vous améliorer.\n\nVous entreprenez, portez des projets, des engagements. Vous challengez vos méthodes et vos idées pour vous dépasser et atteindre un haut niveau d’excellence. Dans ce contexte, vos moteurs peuvent être techniques, financiers ou humains, vous serez valorisé(e) sur votre performance et/ou celle de votre équipe.\n\nCe poste est ouvert aux personnes en situation de handicap, des adaptations de poste peuvent facilement être mises en place.",
+   "duration": 24,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2029-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-11-09T16:00:19Z",
+   "sector": "",
+   "specialization": "[\"63\",\"86\",\"106\",\"123\",\"192\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-11-09T16:00:19Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2029-01-01T00:00:00",
+    "startBroadcastDate": "2026-11-09T00:00:00",
+    "endBroadcastDate": "2026-12-09T00:00:00"
+   },
+   "summary": "Votre environnement technique\n\nNos ingénieurs CSV participent au pilotage des activités de « QHSES & Compliance ». Nous prenons actuellement en main des sujets d’envergure dans de nombreux domaines tels que la pharmaceutique, les dispositifs médicaux, la biotechnologie, nutraceutique etc. Notre expertise s’applique à la production et/ou à la chefferie de projet notamment dans des environnements techniques complexes.\n\nNos interventions s’articulent autour de problématiques techniques liées aux dimensions :\n\n- Quality system & Regulatory\n- Operational, product & Supplier Quality\n- Audit, Certification & formation\n- Cybersecurity\n- HSE\n- Qualification, tests & validation\n\nVos responsabilités métier\n\nPour accompagner l’équipe à mettre en place une stratégie de validation des systèmes informatisés. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/248158",
+   "score": 34,
+   "label": "Périphérique",
+   "first_seen": "2026-11-10T14:51:04+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 10,
+    "qual": 23,
+    "calc": 0
+   },
+   "dominant_axis": "qual",
+   "matched_families": [
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "manufacturing",
+      "methodes"
+     ]
+    },
+    {
+     "id": "qual2",
+     "axis": "qual",
+     "source": "Qualité et normes (774-1, 14 h, coefficient 0,5)",
+     "weight": 4,
+     "terms": [
+      "supplier quality"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "audit",
+      "certification",
+      "compliance",
+      "qualification"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "ingenieur"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
    "id": "243999",
    "title": "Ingénieur BE (H/F)",
    "company": "GANTOIS INDUSTRIES",
@@ -21077,7 +21165,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-03T13:47:44Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21428,7 +21516,7 @@
    "expiry_date": "",
    "publish_date": "2026-03-26T16:26:49Z",
    "sector": "",
-   "specialization": "[\"245\",\"248\",\"249\",\"251\",\"330\",\"356\"]",
+   "specialization": "245, 248, 249, 251, 330, 356",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21517,7 +21605,7 @@
    "expiry_date": "",
    "publish_date": "2025-11-19T10:45:12Z",
    "sector": "",
-   "specialization": "[\"71\",\"73\",\"224\"]",
+   "specialization": "71, 73, 224",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21980,6 +22068,187 @@
    ]
   },
   {
+   "id": "247018",
+   "title": "Analyst - Transaction Services (H/F)",
+   "company": "JOLT CAPITAL",
+   "country": "CANADA",
+   "city": "MONTREAL -QC",
+   "description": "Jolt Capital is an independent European private equity platform dedicated to scaling responsible deeptech companies. Founded in 2011, the firm invests in technology-rich B2B growth companies with strong intellectual property, sound fundamentals and global ambitions. Beyond capital, Jolt provides hands-on strategic and operational support to help its portfolio companies become international leaders. Its investment approach combines sector expertise, rigorous transaction execution and data-driven capabilities, including its proprietary AI platform, Jolt.Ninja. With teams across Europe, North America and Asia, Jolt offers an entrepreneurial, international and demanding environment at the intersection of finance, technology and industrial transformation.\r\nJoin Jolt Capital in Montreal\r\n\r\nAs part of our international development, we are looking for a VIE Transaction Services Analyst to join our Montreal office. You will be fully integrated into the Canadian team and work closely with colleagues across Jolt’s international platform. For all Transaction Services assignments, methodologies and deliverables, you will work under the functional and technical supervision of the Director of Transaction Services.\r\n\r\nYour Mission\r\nAs a VIE Transaction Services Analyst, you will support the analysis and execution of investments, add-on acquisitions and selected exit processes. You will work on live transactions and portfolio projects, turning complex financial information into clear insights for investment decisions. This is a hands-on role offering early responsibility, direct exposure to senior professionals and a unique opportunity to understand how deeptech companies scale internationally.\r\n\r\nWhat You Will Do\r\n• Support financial due diligence on potential investments, add-on acquisitions and selected exit processes.\r\n• Analyse historical and forecast financial performance, including revenue quality, margins, working capital, cash conversion and key operating drivers.\r\n• Review financial models, business plans, accounting data and management information, and identify the principal risks, sensitivities and value drivers.\r\n• Contribute to quality of earnings, net debt and working-capital analyses, adapting standard approaches to the specific economics of deeptech and high-growth businesses.\r\n• Prepare clear, decision-oriented analyses and materials for deal teams, partners and Investment Committees.\r\n• Coordinate selected workstreams with portfolio company management teams, external advisers, accountants and other due diligence providers.\r\n• Support portfolio companies on ad hoc finance and transaction-related projects, including KPI structuring, reporting, financing, bolt-on acquisitions and exit readiness.\r\n• Develop transaction benchmarks, analytical tools and repeatable methodologies for the Transaction Services team.\r\n• Use Jolt.Ninja and other data sources to enrich financial analysis, market understanding and investment decision-making.\r\n• Contribute actively to the firm’s international platform by working across teams, geographies and areas of expertise.\r\n\r\nWhy Join Us?\r\nAt Jolt, you will join a lean, entrepreneurial and international team where high standards go hand in hand with collaboration. We value people who ask the right questions, take ownership and are willing to go beyond the numbers to understand a technology, a market and a business model. You will be trusted with meaningful work from the outset and encouraged to contribute your point of view.\r\n\r\nWhat This VIE Will Offer You\r\n• Hands-on exposure to live growth private equity transactions and strategic portfolio projects.\r\n• Close collaboration with Jolt’s Transaction Services leadership, investment professionals and senior operating experts.\r\n• A distinctive learning environment combining financial analysis, deeptech, international growth and value creation.\r\n• Meaningful responsibility in a lean team, with direct visibility on how analytical work informs investment decisions.\r\n• An international experience in Montreal, connected to Jolt’s teams and portfolio across Europe, North America and Asia.\r\n\r\n• Team: Integrated into the Canadian team, with a functional and technical reporting line to the Director of Transaction Services for all Transaction Services matters.",
+   "mission": "",
+   "profile": "What We Are Looking For\r\n• Master’s degree from a leading business school, engineering school or university, with strong exposure to finance, accounting or corporate finance.\r\n• A first significant experience in Transaction Services, audit, M&A, private equity, leveraged finance or corporate finance; experience within a Big Four or recognised advisory firm would be particularly relevant.\r\n• Strong accounting and financial analysis skills, with the ability to understand the operational story behind the numbers.\r\n• Excellent analytical and modelling capabilities, advanced proficiency in Excel and the ability to prepare concise, high-quality presentations.\r\n• Fluent English is required; French is strongly preferred for collaboration across the Montreal and Paris teams.\r\n• A genuine interest in technology, industrial innovation and high-growth B2B companies.\r\n• A rigorous, curious and pragmatic mindset, with strong attention to detail and a collaborative approach.",
+   "duration": 18,
+   "start_date": "2027-02-01T00:00:00",
+   "end_date": "2028-08-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-13T13:27:32Z",
+   "sector": "",
+   "specialization": "[\"259\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-13T13:27:32Z",
+    "missionStartDate": "2027-02-01T00:00:00",
+    "missionEndDate": "2028-08-01T00:00:00",
+    "startBroadcastDate": "2026-11-10T00:00:00",
+    "endBroadcastDate": "2026-11-15T00:00:00"
+   },
+   "summary": "Jolt Capital is an independent European private equity platform dedicated to scaling responsible deeptech companies. Founded in 2011, the firm invests in technology-rich B2B growth companies with strong intellectual property, sound fundamentals and global ambitions. Beyond capital, Jolt provides hands-on strategic and operational support to help its portfolio companies become international leaders. Its investment approach combines sector expertise, rigorous transaction execution and data-driven capabilities, including its proprietary AI platform, Jolt.Ninja. With teams across Europe, North America and Asia, Jolt offers an entrepreneurial, international and demanding environment at the intersection of finance, technology and industrial transformation.\r\nJoin Jolt Capital in Montreal\r\n\r\nAs part of our international development, we are looking for a VIE Transaction Services Analyst to join our Montreal office. You will be fully integrated into the Canadian team and work closely with colleagues across Jolt’s international platform. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/247018",
+   "score": 32,
+   "label": "Périphérique",
+   "first_seen": "2026-11-10T14:51:04+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 24,
+    "qual": 8,
+    "calc": 27
+   },
+   "dominant_axis": "calc",
+   "matched_families": [
+    {
+     "id": "calc1",
+     "axis": "calc",
+     "source": "Éléments finis (256-1, 24 h), TP simulation numérique (272-1, 285-5, 285-4, 63 h), Calculs numériques de mise en forme (277-1, 286-1, 50 h)",
+     "weight": 12,
+     "terms": [
+      "modelling"
+     ]
+    },
+    {
+     "id": "prod5",
+     "axis": "prod",
+     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
+     "weight": 4,
+     "terms": [
+      "lean"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "engineering"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "audit",
+      "quality",
+      "standards"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "industrial"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
+   "id": "248148",
+   "title": "Industrial automation engineer (H/F)",
+   "company": "MOONGY",
+   "country": "BELGIQUE",
+   "city": "BRUXELLES",
+   "description": "agap2 is a European engineering consultancy active across various industrial sectors such as large infrastructure works, process industries (life science, food & beverage, chemistry), energy, and transport. \n\nPresent in 13 European countries and established in Belgium since 2013, we collaborate with partners across the country — ensuring we can offer a project close to your home.\n\nAs an Industrial Automation Engineer, you will design, implement, and optimize automation systems to enhance the performance and reliability of industrial processes. You will contribute to improving efficiency, reducing downtime, and driving innovation across diverse projects.\n\nMain Responsibilities:\n• Program, configure, and optimize automation systems and PLCs.\n• Write test specifications and perform on-site testing and commissioning.\n• Conduct functional analyses and configure process simulation/emulation software.\n• Configure industrial networks and parameterize drives (VFDs).\n• Support customers during commissioning phases and develop user guides and documentation.",
+   "mission": "",
+   "profile": "Your profile:\n- Master’s degree in civil engineering, Industrial Engineering, or related field, ideally with a specialization in automation.\n- First professional experience in a similar function within industrial automation.\n- Practical knowledge in PLC programming, configuration, and commissioning.\n- Be adaptable, autonomous, and proactive to meet the diverse challenges of our missions. \n- Ensure clear communication and effective collaboration with all stakeholders.\n- French + English (full professional proficiency)\n\nWhy joining us? \n- Close support with dual follow-up: one from HR and the other from your Business Manager.\n- Tailor-made continuous training, adapted to everyone’s needs.\n- A true career catalyst offering multiple opportunities for growth and development.\n- A strong company culture: before being a consultant, you are first and foremost part of the agap2 community, where we create moments of connection and conviviality.",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-11-09T12:57:48Z",
+   "sector": "",
+   "specialization": "[\"73\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-11-09T12:57:48Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-11-10T00:00:00",
+    "endBroadcastDate": "2026-12-10T00:00:00"
+   },
+   "summary": "agap2 is a European engineering consultancy active across various industrial sectors such as large infrastructure works, process industries (life science, food & beverage, chemistry), energy, and transport. \n\nPresent in 13 European countries and established in Belgium since 2013, we collaborate with partners across the country — ensuring we can offer a project close to your home.\n\nAs an Industrial Automation Engineer, you will design, implement, and optimize automation systems to enhance the performance and reliability of industrial processes. You will contribute to improving efficiency, reducing downtime, and driving innovation across diverse projects.\n\nMain Responsibilities:\n• Program, configure, and optimize automation systems and PLCs.\n• Write test specifications and perform on-site testing and commissioning.\n• Conduct functional analyses and configure process simulation/emulation software.\n• Configure industrial networks and parameterize drives (VFDs).\n• Support customers during commissioning phases and develop user guides and documentation.",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/248148",
+   "score": 32,
+   "label": "Périphérique",
+   "first_seen": "2026-11-10T14:51:04+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 10,
+    "qual": 8,
+    "calc": 9
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "calc4",
+     "axis": "calc",
+     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
+     "weight": 4,
+     "terms": [
+      "automation"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "engineering"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "testing"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "engineer"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "energy",
+      "industrial"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
    "id": "247767",
    "title": "Ingénieur(e) de projets en électricité (H/F)",
    "company": "MOONGY",
@@ -22086,7 +22355,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-26T10:10:10Z",
    "sector": "",
-   "specialization": "327",
+   "specialization": "[\"327\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22795,7 +23064,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-21T14:28:55Z",
    "sector": "",
-   "specialization": "[\"70\"]",
+   "specialization": "70",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22956,7 +23225,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-13T13:34:30Z",
    "sector": "",
-   "specialization": "[\"65\",\"77\",\"149\",\"207\",\"244\"]",
+   "specialization": "65, 77, 149, 207, 244",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -23773,7 +24042,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-27T12:50:23Z",
    "sector": "",
-   "specialization": "[\"49\",\"86\",\"109\",\"206\",\"208\",\"209\",\"264\"]",
+   "specialization": "49, 86, 109, 206, 208, 209, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -23861,7 +24130,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-08T14:28:21Z",
    "sector": "",
-   "specialization": "[\"251\"]",
+   "specialization": "251",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -23965,7 +24234,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-08T13:13:21Z",
    "sector": "",
-   "specialization": "[\"208\"]",
+   "specialization": "208",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -24382,7 +24651,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-03T11:28:24Z",
    "sector": "",
-   "specialization": "62",
+   "specialization": "[\"62\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -24672,7 +24941,7 @@
    "expiry_date": "",
    "publish_date": "2026-03-26T17:06:15Z",
    "sector": "",
-   "specialization": "[\"29\",\"35\",\"247\",\"249\",\"251\",\"330\",\"331\",\"356\"]",
+   "specialization": "29, 35, 247, 249, 251, 330, 331, 356",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25391,7 +25660,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-24T16:04:18Z",
    "sector": "",
-   "specialization": "[\"73\"]",
+   "specialization": "73",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25841,7 +26110,7 @@
    "expiry_date": "",
    "publish_date": "2025-09-30T14:46:47Z",
    "sector": "",
-   "specialization": "62, 71, 77, 161",
+   "specialization": "[\"62\",\"71\",\"77\",\"161\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26759,15 +27028,15 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T12:21:39Z",
    "sector": "",
-   "specialization": "330",
+   "specialization": "[\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-09-30T12:21:39Z",
     "missionStartDate": "2027-01-01T00:00:00",
     "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-27T00:00:00",
-    "endBroadcastDate": "2026-11-26T00:00:00"
+    "startBroadcastDate": "2026-11-10T00:00:00",
+    "endBroadcastDate": "2026-12-10T00:00:00"
    },
    "summary": "Are you ready to accelerate your career in one of Europe’s most thriving tech hubs? At Extia, our motto is \"First who, then what!\" We believe in nurturing talent and fostering an environment where innovation thrives. We are currently looking for a meticulous and quality-driven QA Engineer / Test Analyst to join our team in Lisbon through a V.I.E contract.\n\nOften referred to as the \"California of Europe\" and proud host of the Web Summit, Lisbon is a booming technological capital. It offers a unique blend of vibrant professional dynamism, cutting-edge startup ecosystems, and an unparalleled quality of life. By joining us here, you won't just be taking a job; you will be immersing yourself in a highly stimulating, fast-paced international tech community that will fast-track your career, all while enjoying the sun, the ocean, and a rich cultural city.\n\nWorking in a hybrid model and operating on highly strategic software projects, you will act as the ultimate gatekeeper for software quality. […]",
    "url": "https://mon-vie-via.businessfrance.fr/offres/246558",
@@ -26856,7 +27125,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T09:54:46Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27137,6 +27406,311 @@
      "label": "Aucun terme industriel : score plafonné",
      "terms": [],
      "points": -11,
+     "cap": 30
+    }
+   ]
+  },
+  {
+   "id": "246907",
+   "title": "Responsable adjoint de programme (H/F)",
+   "company": "FAURECIA SIEGES D'AUTOMOBILE",
+   "country": "PORTUGAL",
+   "city": "SAO JOAO DA MADEIRA",
+   "description": "Mettre en place le calendrier du programme et assurer son suivi\nRassembler la documentation relative au programme (plan d’affaires, analyse des risques et des opportunités, tableau de bord du programme, rapport de lancement du programme (PLR), rapport de suivi des performances au lancement et indicateurs KPI) à l’intention du responsable de programme, et organiser des réunions d’examen sur ces sujets lorsque cela s’avère nécessaire\nVeiller à la mise à jour régulière de cette documentation\nGérer des dossiers internes spécifiques à la demande du responsable de programme (tels que le développement et la livraison de prototypes)\nVeiller à ce que les processus définis dans le système de gestion de programmes (PMS) de Faurecia soient appliqués à toutes les étapes\nOrganiser la documentation afin d’assurer la continuité du programme et de contribuer à la gestion des connaissances\nVeiller à la conformité des programmes avec les systèmes qualité des clients, ainsi qu’avec les normes HSE, de sécurité et réglementaires\nParticiper aux réunions de revue du programme (quotidiennes ou hebdomadaires)\nSoutenir les routines et la documentation ECM\nParticiper activement aux réunions avec les clients\nFaciliter la communication avec les clients concernant les livraisons, les performances qualité, les modifications techniques et les retards de production\nContribuer au maintien d’une relation client positive et professionnelle",
+   "mission": "",
+   "profile": "Le candidat idéal devra posséder les qualités suivantes :\n\nNiveau d’études minimum : master en ingénierie, économie ou gestion.\n\nCompétences et aptitudes \n\nDynamique de groupe et gestion des relations : bonne compréhension de la dynamique d’équipe et capacité à gérer efficacement les relations, en particulier au sein d’équipes de grande taille. \nCompétences en communication et en organisation : excellentes aptitudes à la communication orale et écrite, ainsi qu’un sens aigu de l’organisation, de l’efficacité et de la hiérarchisation des tâches. Capacité à préparer des présentations destinées à la direction. \nPlanification et résolution de problèmes : capacité à définir des objectifs clairs et mesurables et à résoudre efficacement les problèmes. \nSolide connaissance des processus de gestion de programmes dans l’industrie automobile. \nMéthodologie 8D et, de préférence, maîtrise d’outils plus détaillés (5W2H, Ishikawa, etc.). \nGestion du temps et assurance qualité : capacité à gérer efficacement son temps sans compromettre la qualité.\nNégociation et diplomatie : Solides compétences en négociation et capacité à gérer les problèmes avec diplomatie et tact.\nSouci du détail et analyse des données : Sens aigu du détail et capacité à analyser les données avec précision. \nOutils : Outils de gestion de programme et MS Office (Excel et PowerPoint). \nAnglais : Maîtrise parfaite de l’anglais et capacité à comprendre et à s’exprimer dans un anglais des affaires de bon niveau.",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-10-09T14:40:36Z",
+   "sector": "",
+   "specialization": "[\"21\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-10-09T14:40:36Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-11-10T00:00:00",
+    "endBroadcastDate": "2026-12-10T00:00:00"
+   },
+   "summary": "Mettre en place le calendrier du programme et assurer son suivi\nRassembler la documentation relative au programme (plan d’affaires, analyse des risques et des opportunités, tableau de bord du programme, rapport de lancement du programme (PLR), rapport de suivi des performances au lancement et indicateurs KPI) à l’intention du responsable de programme, et organiser des réunions d’examen sur ces sujets lorsque cela s’avère nécessaire\nVeiller à la mise à jour régulière de cette documentation\nGérer des dossiers internes spécifiques à la demande du responsable de programme (tels que le développement et la livraison de prototypes)\nVeiller à ce que les processus définis dans le système de gestion de programmes (PMS) de Faurecia soient appliqués à toutes les étapes\nOrganiser la documentation afin d’assurer la continuité du programme et de contribuer à la gestion des connaissances\nVeiller à la conformité des programmes avec les systèmes qualité des clients, ainsi qu’avec les normes HSE, de sécurité et réglementaires […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/246907",
+   "score": 30,
+   "label": "Périphérique",
+   "first_seen": "2026-11-10T14:51:04+00:00",
+   "axis_scores": {
+    "rd": 9,
+    "prod": 10,
+    "qual": 49,
+    "calc": 0
+   },
+   "dominant_axis": "qual",
+   "matched_families": [
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "ingenierie"
+     ]
+    },
+    {
+     "id": "qual3",
+     "axis": "qual",
+     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
+     "weight": 7,
+     "terms": [
+      "8d"
+     ]
+    },
+    {
+     "id": "qual2",
+     "axis": "qual",
+     "source": "Qualité et normes (774-1, 14 h, coefficient 0,5)",
+     "weight": 4,
+     "terms": [
+      "assurance qualite"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "conformite",
+      "normes",
+      "qualite"
+     ]
+    },
+    {
+     "id": "rd9",
+     "axis": "rd",
+     "source": "Vocabulaire de laboratoire courant",
+     "weight": 3,
+     "terms": [
+      "resolution de problemes"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "automobile"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    },
+    {
+     "label": "Aucun terme industriel : score plafonné",
+     "terms": [],
+     "points": -12,
+     "cap": 30
+    }
+   ]
+  },
+  {
+   "id": "248156",
+   "title": "INGÉNIEUR(E) ASSURANCE QUALITÉ (H/F)",
+   "company": "FORTIL GROUP",
+   "country": "BELGIQUE",
+   "city": "BRUXELLES",
+   "description": "Votre environnement technique\nNos ingénieurs assurance qualité participent au pilotage des activités de « QHSES & Compliance ». Nous prenons actuellement en main des sujets d’envergure dans de nombreux domaines tels que la pharmaceutique, les dispositifs médicaux, la biotechnologie, nutraceutique etc. Notre expertise s’applique à la production et/ou à la chefferie de projet notamment dans des environnements techniques complexes.\n\nNos interventions s’articulent autour de problématiques techniques liées aux dimensions :\n\n- Quality system & Regulatory\n- Operational, product & Supplier Quality\n- Audit, Certification & formation\n- Cybersecurity\n- HSE\n- Qualification, tests & validation\n\nVos responsabilités métier\n\nPour accompagner l’équipe, vous êtes capable de prendre le lead sur tout ou partie des responsabilités métiers suivantes : \n\n- Mettre en place la stratégie de validation procédé notamment avec une approche de risque QBD \n- Rédiger les protocoles et rapports de validation de procédés, ainsi que les fiches de déviations \n- S’assurer que les livrables ou les prérequis à la démarche de Validation de procédés sont disponibles \n- Suivre et challenger le plan d’actions correctives identifiées dans les fiches de déviation \n- Suivre les actions de change control \n- Assurer le suivi, l’analyse d’impact et la reprise d’essai en cas de déviation \n- Revoir et consolider les protocoles existants \n- Mettre à jour les documents qualité \n\n Vous avez une volonté de vous professionnaliser sur les éventuelles compétences manquantes. \nVos atouts pour réussir\n\nVous maîtrisez les étapes de validation de procédés (définition des CQA et CPP)\n\nVous avez d’excellentes compétences rédactionnelles pour les protocoles à prévoir\n\nVous avez des connaissances en analyse statistique\n\nVous avez de très bonnes capacités d’analyse dans le cas de déviations",
+   "mission": "",
+   "profile": "Titulaire d’un Bac+5 (ingénieur ou Master), vous justifiez d’un stage ou d'une alternance réussie en industrie pharmaceutique / Biotechnologique.\nVous avez une bonne connaissance des procédés de type : formes liquide stérile Formes sèches, liquide, pâteuse, liquide non stérile ; Votre connaissance de l’asepsie d’un procédé est un plus.\n\nVous avez une appétence forte pour les projets complexes et la résolution de problématiques. On reconnait votre curiosité et votre culture technique dans le milieu professionnel mais aussi dans le milieu personnel. Vous avez une remise en cause facile et cherchez constamment à vous améliorer.\nVous entreprenez, portez des projets, des engagements. Vous challenger vos méthodes et vos idées pour vous dépasser et atteindre un haut niveau d’excellence. Dans ce contexte, vos moteurs peuvent être techniques, financiers ou humains, vous serez valorisé sur votre performance et/ou celle de votre équipe.\n\nCe poste est ouvert aux personnes en situation de handicap, des adaptations de poste peuvent facilement être mises en place.",
+   "duration": 24,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2029-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-11-09T15:58:45Z",
+   "sector": "",
+   "specialization": "[\"86\",\"123\",\"125\",\"256\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-11-09T15:58:45Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2029-01-01T00:00:00",
+    "startBroadcastDate": "2026-11-09T00:00:00",
+    "endBroadcastDate": "2026-12-09T00:00:00"
+   },
+   "summary": "Votre environnement technique\nNos ingénieurs assurance qualité participent au pilotage des activités de « QHSES & Compliance ». Nous prenons actuellement en main des sujets d’envergure dans de nombreux domaines tels que la pharmaceutique, les dispositifs médicaux, la biotechnologie, nutraceutique etc. Notre expertise s’applique à la production et/ou à la chefferie de projet notamment dans des environnements techniques complexes.\n\nNos interventions s’articulent autour de problématiques techniques liées aux dimensions :\n\n- Quality system & Regulatory\n- Operational, product & Supplier Quality\n- Audit, Certification & formation\n- Cybersecurity\n- HSE\n- Qualification, tests & validation\n\nVos responsabilités métier\n\nPour accompagner l’équipe, vous êtes capable de prendre le lead sur tout ou partie des responsabilités métiers suivantes : \n\n- Mettre en place la stratégie de validation procédé notamment avec une approche de risque QBD \n- Rédiger les protocoles et rapports de validation de procédés, ainsi que les fiches de déviations […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/248156",
+   "score": 30,
+   "label": "Périphérique",
+   "first_seen": "2026-11-10T14:51:04+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 45,
+    "qual": 23,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod4",
+     "axis": "prod",
+     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
+     "weight": 10,
+     "terms": [
+      "procede"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "methodes"
+     ]
+    },
+    {
+     "id": "qual2",
+     "axis": "qual",
+     "source": "Qualité et normes (774-1, 14 h, coefficient 0,5)",
+     "weight": 4,
+     "terms": [
+      "assurance qualite",
+      "supplier quality"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "audit",
+      "certification",
+      "compliance",
+      "qualification"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "ingenieur",
+      "qualite"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    },
+    {
+     "label": "Aucun terme industriel : score plafonné",
+     "terms": [],
+     "points": -21,
+     "cap": 30
+    }
+   ]
+  },
+  {
+   "id": "248155",
+   "title": "INGÉNIEUR(E) QUALIFICATION / VALIDATION (H/F)",
+   "company": "FORTIL GROUP",
+   "country": "BELGIQUE",
+   "city": "BRUXELLES",
+   "description": "Votre environnement technique\n\nNous prenons actuellement en main des sujets d’envergure dans de nombreux domaines tels que la la chimie fine, les dispositifs médicaux, la biotechnologie, cosmétique etc. Notre expertise s’applique à la production, logistique, labo R&D, labo Contrôle-Qualité notamment dans des environnements techniques complexes : revamping ou de nouvelles unités.\n\nNos interventions s’articulent autour de problématiques techniques liées aux dimensions :\n\n- Locaux\n- Utilités\n- Automatisme\n- HVAC / CVC\n- Equipements Process\n- Project management\n\nVos responsabilités métier\n\nPour accompagner l’équipe, vous êtes capable de prendre le lead sur tout ou partie des responsabilités métiers suivantes :\n\n- Représenter le service lors des réunions de lancement et de suivi des projets\n- Etablir, rédiger, mettre à jour et archiver les documents de qualification selon procédures en vigueur :\n- Plans de qualification /validation (VP)\n- Protocoles / rapports de qualification (DQ,FAT/SAT, IQ, OQ, PQ)\n- Matrices de traçabilité (TM)\n- Data review (DR)\n- Programmer, organiser et conduire l’exécution de tests de qualification DQ/FAT/SAT/IQ/OQ/PQ.\n- Coordonner les prestataires externes participant aux qualifications initiales.\n- Rédiger et gérer les déviations selon le système en place lors des qualifications initiales.\n- Assurer le maintien des indicateurs de performance du service.\n- Participe activement à l’amélioration des processus de qualification en place dans un soucis d’efficience et de réduction des coûts\n\nVos atouts pour réussir\n\nVous avez le sens de l’organisation, l’esprit d’analyse et de synthèse\n\nVous savez travailler en autonomie, en équipe et communiquer en transverse\n\nVous êtes force de proposition pour contribuer à l’amélioration des processus\n\nVous avez des connaissances des référentiels BPF, ISO et des bonnes pratiques d’Ingénierie\n\nVous avez des connaissances des opérations unitaires et des installations pharmaceutiques et de chimie fine\n\nVous faites preuve de qualités rédactionnelles et relationnelle\n\nVous avez une maitrise de l’anglais technique",
+   "mission": "",
+   "profile": "Issu(e) d’une formation Bac+5 (Master ou cycle d’Ingénieur). Vous avez eu un stage ou une alternance en industrie pharmaceutique ou dispositifs médicaux, sur des projets de qualification d’équipements (procédés, conditionnement), zone classée HVAC, utilités (eau purifié, eau de préparation injectable, vapeur pure, NEP...).\n\nVous avez une appétence forte pour les projets complexes et la résolution de problématiques. On reconnait votre curiosité et votre culture technique dans le milieu professionnel mais aussi dans le milieu personnel. Vous avez une remise en cause facile et cherchez constamment à vous améliorer.\n\nVous entreprenez, portez des projets, des engagements. Vous challengez vos méthodes et vos idées pour vous dépasser et atteindre un haut niveau d’excellence. Dans ce contexte, vos moteurs peuvent être techniques, financiers ou humains, vous serez valorisé(e) sur votre performance et/ou celle de votre équipe.\n\nCe poste est ouvert aux personnes en situation de handicap, des adaptations de poste peuvent facilement être mises en place.",
+   "duration": 24,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2029-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-11-09T15:57:29Z",
+   "sector": "",
+   "specialization": "[\"86\",\"123\",\"125\",\"150\",\"256\",\"264\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-11-09T15:57:29Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2029-01-01T00:00:00",
+    "startBroadcastDate": "2026-11-09T00:00:00",
+    "endBroadcastDate": "2026-12-09T00:00:00"
+   },
+   "summary": "Votre environnement technique\n\nNous prenons actuellement en main des sujets d’envergure dans de nombreux domaines tels que la la chimie fine, les dispositifs médicaux, la biotechnologie, cosmétique etc. Notre expertise s’applique à la production, logistique, labo R&D, labo Contrôle-Qualité notamment dans des environnements techniques complexes : revamping ou de nouvelles unités.\n\nNos interventions s’articulent autour de problématiques techniques liées aux dimensions :\n\n- Locaux\n- Utilités\n- Automatisme\n- HVAC / CVC\n- Equipements Process\n- Project management\n\nVos responsabilités métier\n\nPour accompagner l’équipe, vous êtes capable de prendre le lead sur tout ou partie des responsabilités métiers suivantes :\n\n- Représenter le service lors des réunions de lancement et de suivi des projets\n- Etablir, rédiger, mettre à jour et archiver les documents de qualification selon procédures en vigueur :\n- Plans de qualification /validation (VP)\n- Protocoles / rapports de qualification (DQ,FAT/SAT, IQ, OQ, PQ)\n- Matrices de traçabilité (TM)\n- Data review (DR) […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/248155",
+   "score": 30,
+   "label": "Périphérique",
+   "first_seen": "2026-11-10T14:51:04+00:00",
+   "axis_scores": {
+    "rd": 9,
+    "prod": 10,
+    "qual": 8,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "ingenierie",
+      "methodes"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "qualification",
+      "qualite",
+      "validation"
+     ]
+    },
+    {
+     "id": "rd9",
+     "axis": "rd",
+     "source": "Vocabulaire de laboratoire courant",
+     "weight": 3,
+     "terms": [
+      "r&d"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "ingenieur"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "chimie"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    },
+    {
+     "label": "Aucun terme industriel : score plafonné",
+     "terms": [],
+     "points": -2,
      "cap": 30
     }
    ]
@@ -27917,7 +28491,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T10:01:20Z",
    "sector": "",
-   "specialization": "[\"161\"]",
+   "specialization": "161",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -28378,6 +28952,111 @@
    ]
   },
   {
+   "id": "248068",
+   "title": "Analyste junior en performance industrielle et KPI (H/F)",
+   "company": "LYNXEO FRANCE",
+   "country": "MAROC",
+   "city": "MOHAMMEDIA",
+   "description": "Analyste junior en performance industrielle et KPI – Maroc\n\nAu sein du département industriel du groupe Lynxeo, vous participerez au suivi et à l'analyse des indicateurs clés de performance (KPI) industriels, ainsi qu'à la coordination de projets d'amélioration continue et de projets transversaux.\n\nVos principales missions :\n\nAssurer le suivi et le reporting des indicateurs clés de performance (KPI) industriels, avec une possibilité d'extension aux activités Achats et R&D.\n\nÉlaborer des tableaux de bord, des rapports de performance et des présentations destinés au management.\n\nAnalyser les tendances, identifier les écarts de performance et les axes d'amélioration.\n\nParticiper à l'analyse des données relatives aux coûts, aux processus industriels, à la qualité, aux délais de livraison et à la productivité.\n\nAssurer le suivi des projets d'amélioration industrielle, des plans d'action, des échéances et des livrables.\n\nSuivre l'avancement des projets en coordination avec les différents départements concernés.\n\nUtiliser Excel, des outils de reporting et des solutions d'intelligence artificielle pour améliorer l'analyse des données, le reporting et l'efficacité opérationnelle.\n\nContribuer à des analyses ponctuelles et à des projets industriels transversaux.\n\nProfil recherché :\n\nDiplôme de niveau Bachelor ou Master en génie industriel, analyse de données, supply chain, économie, management, statistiques ou dans un domaine connexe.\n\nExcellentes capacités d'analyse, d'organisation et de structuration.\n\nBonne maîtrise de Microsoft Excel (formules, tableaux croisés dynamiques, graphiques et outils d'analyse).\n\nLa connaissance de Power BI ou d'autres outils de reporting constitue un atout.\n\nIntérêt pour les outils numériques et les solutions d'intelligence artificielle.\n\nExcellentes compétences en communication écrite et orale.\n\nMaîtrise courante de l'anglais indispensable.\n\nRigueur, autonomie, curiosité et esprit d'initiative.\n\nCapacité à collaborer avec des interlocuteurs techniques et non techniques.\n\nLieu de mission : Mohammedia, Maroc, avec un transfert prévu à Casablanca.",
+   "mission": "",
+   "profile": "Nous recherchons un(e) candidat(e) junior, rigoureux(se), organisé(e) et doté(e) d'un excellent esprit d'analyse, souhaitant évoluer dans un environnement industriel international.\n\nFormation :\n- Diplôme de niveau Bac+3 à Bac+5 en génie industriel, analyse de données, supply chain, économie, management, statistiques ou domaine équivalent.\nCompétences requises :\n- Excellentes capacités d'analyse, d'organisation et de synthèse.\n- Bonne maîtrise de Microsoft Excel (formules, tableaux croisés dynamiques, graphiques et analyse de données).\n- Capacité à traiter et analyser des volumes importants de données.\n- Connaissance de Power BI ou d'autres outils de reporting appréciée.\n- Aisance avec les outils numériques et intérêt pour les solutions d'intelligence artificielle.\n- Excellentes compétences en communication écrite et orale.\n- Maîtrise courante de l'anglais indispensable.\nQualités personnelles :\n- Rigueur, méthode et souci du détail.\n- Autonomie, curiosité et esprit d'initiative.\n- Capacité à gérer plusieurs tâches et échéances.\n- Aptitude à collaborer avec des interlocuteurs techniques et non techniques.",
+   "duration": 24,
+   "start_date": "2027-03-01T00:00:00",
+   "end_date": "2029-03-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-11-06T16:41:17Z",
+   "sector": "",
+   "specialization": "[\"149\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-11-06T16:41:17Z",
+    "missionStartDate": "2027-03-01T00:00:00",
+    "missionEndDate": "2029-03-01T00:00:00",
+    "startBroadcastDate": "2026-11-10T00:00:00",
+    "endBroadcastDate": "2026-12-10T00:00:00"
+   },
+   "summary": "Analyste junior en performance industrielle et KPI – Maroc\n\nAu sein du département industriel du groupe Lynxeo, vous participerez au suivi et à l'analyse des indicateurs clés de performance (KPI) industriels, ainsi qu'à la coordination de projets d'amélioration continue et de projets transversaux.\n\nVos principales missions :\n\nAssurer le suivi et le reporting des indicateurs clés de performance (KPI) industriels, avec une possibilité d'extension aux activités Achats et R&D.\n\nÉlaborer des tableaux de bord, des rapports de performance et des présentations destinés au management.\n\nAnalyser les tendances, identifier les écarts de performance et les axes d'amélioration.\n\nParticiper à l'analyse des données relatives aux coûts, aux processus industriels, à la qualité, aux délais de livraison et à la productivité.\n\nAssurer le suivi des projets d'amélioration industrielle, des plans d'action, des échéances et des livrables.\n\nSuivre l'avancement des projets en coordination avec les différents départements concernés. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/248068",
+   "score": 30,
+   "label": "Périphérique",
+   "first_seen": "2026-11-10T14:51:04+00:00",
+   "axis_scores": {
+    "rd": 9,
+    "prod": 24,
+    "qual": 34,
+    "calc": 0
+   },
+   "dominant_axis": "qual",
+   "matched_families": [
+    {
+     "id": "prod5",
+     "axis": "prod",
+     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
+     "weight": 4,
+     "terms": [
+      "productivite"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "amelioration continue"
+     ]
+    },
+    {
+     "id": "qual3",
+     "axis": "qual",
+     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
+     "weight": 7,
+     "terms": [
+      "statistiques"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "qualite"
+     ]
+    },
+    {
+     "id": "rd9",
+     "axis": "rd",
+     "source": "Vocabulaire de laboratoire courant",
+     "weight": 3,
+     "terms": [
+      "r&d"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "industriel"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    },
+    {
+     "label": "Aucun terme industriel : score plafonné",
+     "terms": [],
+     "points": -6,
+     "cap": 30
+    }
+   ]
+  },
+  {
    "id": "243647",
    "title": "INGÉNIEUR PRODUCTION / AMELIORATION (H/F)",
    "company": "MISSION CONSEIL ASSISTANCE INGENIERIE",
@@ -28580,7 +29259,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-26T10:28:34Z",
    "sector": "",
-   "specialization": "[\"29\"]",
+   "specialization": "29",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29696,7 +30375,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-14T08:28:03Z",
    "sector": "",
-   "specialization": "[\"113\",\"123\",\"125\",\"256\"]",
+   "specialization": "113, 123, 125, 256",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29886,7 +30565,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-07T14:39:51Z",
    "sector": "",
-   "specialization": "[\"5\",\"9\",\"205\",\"259\"]",
+   "specialization": "5, 9, 205, 259",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30589,7 +31268,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-03T16:05:59Z",
    "sector": "",
-   "specialization": "[\"109\",\"248\",\"262\",\"328\",\"330\",\"338\",\"315\"]",
+   "specialization": "109, 248, 262, 328, 330, 338, 315",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31316,6 +31995,89 @@
    ]
   },
   {
+   "id": "248142",
+   "title": "Consultant Data Foundation & Governance (H/F)",
+   "company": "ORANGE",
+   "country": "ESPAGNE",
+   "city": "MADRID",
+   "description": "• Organiser et inventorier les données du département, puis piloter leur qualité et leur\nremédiation.\n• Construire des jeux de données partagés par domaine et des modèles de données.\n• Construire et maintenir le data lineage, au-delà de sa documentation, et formaliser les règles\nmétier.\n• Respecter les guidelines de gouvernance de la donnée du client et de sa plateforme data.\n• Animer des ateliers avec les départements, rédiger les spécifications et réaliser les tests.\n• Proposer des pistes pour accélérer les tâches data, avec des outils d'IA et d'agents.",
+   "mission": "",
+   "profile": "• Diplôme bac+5 en data, informatique, ingénierie ou sciences de la vie avec une forte\ncomposante data.\n• Bonnes bases en SQL, modélisation de données et qualité des données. Une première\nexpérience avec Python, GCP et Git est nécessaire. L'utilisation des outils de data catalogue\n(OpenMetadata et/ou Collibra) serait très appréciée\n• Intérêt pour la gouvernance de la donnée et pour les sciences de la vie.\n• Rigueur, sens de la documentation et esprit d'équipe.\n• Français courant, anglais professionnel, espagnol apprécié.",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-11-09T10:16:02Z",
+   "sector": "",
+   "specialization": "[\"331\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-11-09T10:16:02Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-11-10T00:00:00",
+    "endBroadcastDate": "2026-12-10T00:00:00"
+   },
+   "summary": "• Organiser et inventorier les données du département, puis piloter leur qualité et leur\nremédiation.\n• Construire des jeux de données partagés par domaine et des modèles de données.\n• Construire et maintenir le data lineage, au-delà de sa documentation, et formaliser les règles\nmétier.\n• Respecter les guidelines de gouvernance de la donnée du client et de sa plateforme data.\n• Animer des ateliers avec les départements, rédiger les spécifications et réaliser les tests.\n• Proposer des pistes pour accélérer les tâches data, avec des outils d'IA et d'agents.",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/248142",
+   "score": 29,
+   "label": "Périphérique",
+   "first_seen": "2026-11-10T14:51:04+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 10,
+    "qual": 8,
+    "calc": 36
+   },
+   "dominant_axis": "calc",
+   "matched_families": [
+    {
+     "id": "calc1",
+     "axis": "calc",
+     "source": "Éléments finis (256-1, 24 h), TP simulation numérique (272-1, 285-5, 285-4, 63 h), Calculs numériques de mise en forme (277-1, 286-1, 50 h)",
+     "weight": 12,
+     "terms": [
+      "modelisation"
+     ]
+    },
+    {
+     "id": "calc4",
+     "axis": "calc",
+     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
+     "weight": 4,
+     "terms": [
+      "python"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "ingenierie"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "qualite"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
    "id": "247999",
    "title": "Ingénieur excellence opérationnelle F/H (H/F)",
    "company": "ORANO MINING",
@@ -31330,7 +32092,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-05T14:01:30Z",
    "sector": "",
-   "specialization": "[\"109\"]",
+   "specialization": "109",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31402,7 +32164,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-28T18:24:36Z",
    "sector": "",
-   "specialization": "60, 65, 66, 71, 77, 110, 142, 149",
+   "specialization": "[\"60\",\"65\",\"66\",\"71\",\"77\",\"110\",\"142\",\"149\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31533,7 +32295,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-20T20:29:06Z",
    "sector": "",
-   "specialization": "[\"49\",\"56\",\"157\"]",
+   "specialization": "49, 56, 157",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31684,7 +32446,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-15T14:49:18Z",
    "sector": "",
-   "specialization": "[\"208\"]",
+   "specialization": "208",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31756,7 +32518,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-28T07:33:59Z",
    "sector": "",
-   "specialization": "[\"73\"]",
+   "specialization": "73",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31828,7 +32590,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-12T13:45:29Z",
    "sector": "",
-   "specialization": "[\"29\"]",
+   "specialization": "29",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32788,6 +33550,91 @@
    ]
   },
   {
+   "id": "248055",
+   "title": "HR Transformation Project Coordinator (H/F)",
+   "company": "SAFRAN AEROSYSTEMS",
+   "country": "ETATS-UNIS",
+   "city": "LANCASTER -NY-",
+   "description": "1. HRIS and Data Transformation\n• Support the deployment, implementation, and adoption of Safran HRIS systems and digital tools (e.g., Selia, ADP, timekeeping systems) across the site.\n• Drive the harmonization and standardization of HR data, processes, and documentation to ensure consistency, accuracy, and reliability.\n• Apply strong analytical skills to transform HR data into meaningful, actionable insights and clear, accessible reports that support decision-making and can be easily understood by stakeholders at all levels.\n• Identify and implement opportunities to enhance digital HR tools, reporting capabilities, and workflows, improving efficiency and supporting continuous improvement across the site and the Safety Systems Division.\n\n2. Documentation and Process Standardization\n• Audit, upgrade, and harmonize HR documentation, procedures, and policies to ensure consistency and compliance. Develop templates, guides, and documentation for HR teams and managers.\n• Collaborate with local team to drive best practices in process documentation.\n\n3. Training Process and TWI (Training Within Industry)\n• Coordinate and standardize training programs, supporting their deployment, implementation, and tracking to ensure consistency and effectiveness across the site.\n• Lead the Training Steering Committee, partnering with site leadership and key stakeholders to identify business priorities, assess skills and capability gaps, and align training initiatives with operational needs and strategic objectives.\n• Promote and support the adoption of Training Within Industry (TWI) and continuous improvement practices, equipping frontline supervisors and employees with the skills and tools needed to strengthen operational performance, standardize work, and drive a culture of continuous improvement.\n\n4. Employer Branding and Community Engagement\n• Design and implement a structured approach to internal branding that reinforces the site's identity, values, culture, and strategic priorities while fostering employee engagement, pride, and a sense of belonging.\n• Build and maintain strategic relationships with local educational and learning institutions, MEP (Manufacturing Extension Partnership), business chapters, and community organizations to foster collaboration and create talent pipeline opportunities.\n• Coordinate a structured site ambassador program, empowering employees to represent the company, share their experiences, and promote the employer brand internally and externally.\n\n5. Change Management and Transformation Support\n• Facilitate communication and engagement regarding HR transformation projects.\n• Assist in the coordination and execution of transformation initiatives, including process automation and organizational development.\n• Perform other HR projects and support tasks assigned by HR leadership.",
+   "mission": "",
+   "profile": "Skills\r\n• Strong communication skills; able to interact and present in English.\r\n• Proficiency with HRIS (especially Selia), digital tools (Microsoft Office, document management platforms), and project management.\r\n• Analytical skills and data-driven mindset, with attention to detail in documentation.\r\n• Knowledge and/or interest in TWI methodology and HR process improvement.\r\n• Ability to multitask, prioritize projects, and work in multidisciplinary teams.\r\n• Proactive, collaborative, and solutions-oriented approach.\r\nEducation and Experience\r\n• Degree in Human Resources\r\n• Master's level\r\n• Min 3 years of Human Resources experience\r\n• Project Management course or experience preferred, but required\r\n• English language proficiency",
+   "duration": 18,
+   "start_date": "2027-02-01T00:00:00",
+   "end_date": "2028-08-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-11-06T14:27:08Z",
+   "sector": "",
+   "specialization": "[\"178\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-11-06T14:27:08Z",
+    "missionStartDate": "2027-02-01T00:00:00",
+    "missionEndDate": "2028-08-01T00:00:00",
+    "startBroadcastDate": "2026-11-10T00:00:00",
+    "endBroadcastDate": "2026-12-10T00:00:00"
+   },
+   "summary": "1. HRIS and Data Transformation\n• Support the deployment, implementation, and adoption of Safran HRIS systems and digital tools (e.g., Selia, ADP, timekeeping systems) across the site.\n• Drive the harmonization and standardization of HR data, processes, and documentation to ensure consistency, accuracy, and reliability.\n• Apply strong analytical skills to transform HR data into meaningful, actionable insights and clear, accessible reports that support decision-making and can be easily understood by stakeholders at all levels.\n• Identify and implement opportunities to enhance digital HR tools, reporting capabilities, and workflows, improving efficiency and supporting continuous improvement across the site and the Safety Systems Division.\n\n2. Documentation and Process Standardization\n• Audit, upgrade, and harmonize HR documentation, procedures, and policies to ensure consistency and compliance. Develop templates, guides, and documentation for HR teams and managers.\n• Collaborate with local team to drive best practices in process documentation.\n\n3. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/248055",
+   "score": 28,
+   "label": "Périphérique",
+   "first_seen": "2026-11-10T14:51:04+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 10,
+    "qual": 34,
+    "calc": 9
+   },
+   "dominant_axis": "qual",
+   "matched_families": [
+    {
+     "id": "calc4",
+     "axis": "calc",
+     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
+     "weight": 4,
+     "terms": [
+      "automation"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "continuous improvement",
+      "manufacturing"
+     ]
+    },
+    {
+     "id": "qual3",
+     "axis": "qual",
+     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
+     "weight": 7,
+     "terms": [
+      "capability"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "audit",
+      "compliance"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
    "id": "245403",
    "title": "Ingenieur(e) support technique (H/F)",
    "company": "SAGEMCOM ENERGY & TELECOM SAS",
@@ -32802,7 +33649,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-25T11:40:26Z",
    "sector": "",
-   "specialization": "[\"213\"]",
+   "specialization": "213",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32873,7 +33720,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-29T10:37:20Z",
    "sector": "",
-   "specialization": "[\"66\",\"71\",\"74\",\"115\",\"149\",\"169\",\"262\",\"351\"]",
+   "specialization": "66, 71, 74, 115, 149, 169, 262, 351",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32965,7 +33812,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-06T07:58:34Z",
    "sector": "",
-   "specialization": "[\"209\"]",
+   "specialization": "209",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33544,7 +34391,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-05T10:10:13Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33712,7 +34559,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-19T13:06:41Z",
    "sector": "",
-   "specialization": "[\"17\"]",
+   "specialization": "17",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33846,6 +34693,88 @@
    ]
   },
   {
+   "id": "248183",
+   "title": "Go Software Engineer (H/F)",
+   "company": "CLEEVEN ND",
+   "country": "SUEDE",
+   "city": "STOCKHOLM",
+   "description": "We are looking for our future Senior Go Software Engineer to join our Stockholm team. You will work on innovative projects with our partners, recognized leaders in their fields.\n\nYou will contribute to the development of next-generation software solutions for advanced surveillance systems, working in a collaborative and technically challenging environment.\n\nYour main responsibilities:\n\nDesign, develop and maintain software applications in Go (Golang) for advanced technology products.\n\nContribute to the development of Linux-based system software, integrating multiple hardware sensors and sensor types.\n\nWork closely with embedded software engineers to ensure seamless integration between Go applications and embedded C components.\n\nDevelop clean, maintainable and testable code, following software engineering best practices.\n\nParticipate in software architecture discussions, technical design decisions and code reviews.\n\nCollaborate with cross-functional engineering teams to develop and deliver new product features.\n\nContribute to testing, troubleshooting, technical documentation and continuous improvement of development processes.\n\nWork in an Agile/Scrum environment, actively participating in team planning and technical discussions.",
+   "mission": "",
+   "profile": "With a degree in Computer Science, Software Engineering, Embedded Systems Engineering or equivalent training, you have significant professional experience in Go development, ideally within Linux-based or embedded software environments.\n\nYou are autonomous, structured and pragmatic, with strong problem-solving skills and a solid understanding of software design principles.\n\nYou enjoy working in collaborative environments while being capable of independently driving technical activities and taking ownership of your work.\n\nGood communication skills and professional proficiency in English are expected.\n\nThe main tools and technologies used include:\nProgramming languages: Go (Golang), Embedded C\nOperating systems: Linux, Embedded Linux\nBuild systems: Yocto\nCI/CD: Jenkins\nCode review and version control: Gerrit\nProject management: JIRA\nSoftware engineering: Clean Code, Software Design, Unit Testing, Testability\nMethodologies: Agile, Scrum",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-11-10T07:31:08Z",
+   "sector": "",
+   "specialization": "[\"248\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-11-10T07:31:08Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-11-10T00:00:00",
+    "endBroadcastDate": "2026-12-10T00:00:00"
+   },
+   "summary": "We are looking for our future Senior Go Software Engineer to join our Stockholm team. You will work on innovative projects with our partners, recognized leaders in their fields.\n\nYou will contribute to the development of next-generation software solutions for advanced surveillance systems, working in a collaborative and technically challenging environment.\n\nYour main responsibilities:\n\nDesign, develop and maintain software applications in Go (Golang) for advanced technology products.\n\nContribute to the development of Linux-based system software, integrating multiple hardware sensors and sensor types.\n\nWork closely with embedded software engineers to ensure seamless integration between Go applications and embedded C components.\n\nDevelop clean, maintainable and testable code, following software engineering best practices.\n\nParticipate in software architecture discussions, technical design decisions and code reviews.\n\nCollaborate with cross-functional engineering teams to develop and deliver new product features. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/248183",
+   "score": 27,
+   "label": "Périphérique",
+   "first_seen": "2026-11-10T14:51:04+00:00",
+   "axis_scores": {
+    "rd": 9,
+    "prod": 10,
+    "qual": 8,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "continuous improvement",
+      "engineering"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "testing"
+     ]
+    },
+    {
+     "id": "rd9",
+     "axis": "rd",
+     "source": "Vocabulaire de laboratoire courant",
+     "weight": 3,
+     "terms": [
+      "problem solving"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "engineer"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
    "id": "231808",
    "title": "FULL STACK ENGINEER (H/F)",
    "company": "HELLO POMELO",
@@ -33860,7 +34789,7 @@
    "expiry_date": "",
    "publish_date": "2025-10-13T08:46:35Z",
    "sector": "",
-   "specialization": "[\"245\",\"248\"]",
+   "specialization": "245, 248",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34276,7 +35205,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-15T14:51:50Z",
    "sector": "",
-   "specialization": "[\"251\"]",
+   "specialization": "251",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34602,6 +35531,89 @@
    ]
   },
   {
+   "id": "248159",
+   "title": "VIE/PANGEO Junior Site Engineer M/W (H/F)",
+   "company": "VEOLIA ENVIRONNEMENT",
+   "country": "IRLANDE",
+   "city": "DUBLIN",
+   "description": "We are looking for a motivated and safety-conscious individual to support the commercial and technical management of our on-site projects. The role involves overseeing all on-site activities to ensure tasks are completed safely, on time, within budget, and to high-quality standards, following the Veolia Minimum Requirement (VMR). Sites will be located in the West, Midlands, and North West regions, depending on current projects. On smaller sites,the role may also include acting as a First Aider or Temporary Works Supervisor/Coordinator.\r\n\nDay to Day Role\r\n\r\nSupport the planning, management, and monitoring of construction work while maintaining high standards of health, safety, and environmental management.\r\nAssist with understanding project documentation, schedules, and construction methods.\r\nHelp coordinate daily tasks and activities, ensuring they follow safety and quality standards.\r\nCheck that equipment is safe and inspected as needed.\r\nAssist in reviewing safety plans and procedures, ensuring alignment with company standards.\r\nPromote positive safety practices and report any unsafe conditions or incidents.\r\nCommunicate daily updates with supervisors, workers, and contractors.\r\nMonitor project progress and report any risks or issues to the project manager.\r\nMaintain a quality log to track subcontractor work and ensure timely resolution of defects.\r\nConduct basic safety checks and support health and safety audits as directed.\r\nEnsure workers receive a site-specific induction and that training records are kept up to date.\r\nHelp manage subcontractor performance and escalate issues when needed.\r\nLook for ways to improve efficiency and reduce project timelines.\r\nAssist with ensuring compliance with safety, environmental, and project management plans.\r\n\r\nQualifications\r\n\r\nDegree in Construction Management or Engineering\r\nUnderstanding of water industry construction methods and equipment (preferred).\r\nAbility to manage a multi-disciplinary site team, including trades and\r\nsubcontractors.\r\nStrong leadership skills, promoting health and safety on site.\r\nClear and professional communication style.\r\nExcellent relationship-building and team management abilities.\r\nStrong organizational, planning, and problem-solving skills.\r\nAbility to collaborate with team members to resolve issues efficiently.\r\nValid driving licence.",
+   "mission": "",
+   "profile": "Degree in Construction Management or Engineering\r\nUnderstanding of water industry construction methods and equipment (preferred).\r\nAbility to manage a multi-disciplinary site team, including trades and\r\nsubcontractors.\r\nStrong leadership skills, promoting health and safety on site.\r\nClear and professional communication style.\r\nExcellent relationship-building and team management abilities.\r\nStrong organizational, planning, and problem-solving skills.\r\nAbility to collaborate with team members to resolve issues efficiently.\r\nValid driving licence.",
+   "duration": 24,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2029-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-11-09T16:11:15Z",
+   "sector": "",
+   "specialization": "[\"62\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-11-09T16:11:15Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2029-01-01T00:00:00",
+    "startBroadcastDate": "2026-11-10T00:00:00",
+    "endBroadcastDate": "2026-12-10T00:00:00"
+   },
+   "summary": "We are looking for a motivated and safety-conscious individual to support the commercial and technical management of our on-site projects. The role involves overseeing all on-site activities to ensure tasks are completed safely, on time, within budget, and to high-quality standards, following the Veolia Minimum Requirement (VMR). Sites will be located in the West, Midlands, and North West regions, depending on current projects. On smaller sites,the role may also include acting as a First Aider or Temporary Works Supervisor/Coordinator.\r\n\nDay to Day Role\r\n\r\nSupport the planning, management, and monitoring of construction work while maintaining high standards of health, safety, and environmental management.\r\nAssist with understanding project documentation, schedules, and construction methods.\r\nHelp coordinate daily tasks and activities, ensuring they follow safety and quality standards.\r\nCheck that equipment is safe and inspected as needed.\r\nAssist in reviewing safety plans and procedures, ensuring alignment with company standards. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/248159",
+   "score": 27,
+   "label": "Périphérique",
+   "first_seen": "2026-11-10T14:51:04+00:00",
+   "axis_scores": {
+    "rd": 9,
+    "prod": 10,
+    "qual": 8,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "engineering"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "compliance",
+      "quality",
+      "standards"
+     ]
+    },
+    {
+     "id": "rd9",
+     "axis": "rd",
+     "source": "Vocabulaire de laboratoire courant",
+     "weight": 3,
+     "terms": [
+      "problem solving"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "engineer"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
    "id": "245492",
    "title": "PROJECT MANAGER (M/F) (H/F)",
    "company": "VOLTA INVESTISSEMENTS",
@@ -34866,7 +35878,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-27T10:23:57Z",
    "sector": "",
-   "specialization": "66",
+   "specialization": "[\"66\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34938,7 +35950,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-29T10:06:40Z",
    "sector": "",
-   "specialization": "[\"327\"]",
+   "specialization": "327",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35367,7 +36379,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-15T08:23:50Z",
    "sector": "",
-   "specialization": "[\"251\"]",
+   "specialization": "251",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35694,7 +36706,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-03T15:39:45Z",
    "sector": "",
-   "specialization": "[\"6\"]",
+   "specialization": "6",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35983,7 +36995,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-06T08:57:05Z",
    "sector": "",
-   "specialization": "[\"327\"]",
+   "specialization": "327",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -36055,7 +37067,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-06T08:54:04Z",
    "sector": "",
-   "specialization": "[\"327\"]",
+   "specialization": "327",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -36489,7 +37501,7 @@
    "expiry_date": "",
    "publish_date": "2025-08-22T12:46:54Z",
    "sector": "",
-   "specialization": "[\"106\"]",
+   "specialization": "106",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
