@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-10T14:51:22+00:00",
+ "generated_at": "2026-11-11T14:19:33+00:00",
  "source": "Business France — mon-vie-via.businessfrance.fr",
- "total_scanned": 905,
- "total_announced": 905,
- "total_kept": 396,
+ "total_scanned": 901,
+ "total_announced": 901,
+ "total_kept": 395,
  "threshold": 25,
  "axes": {
   "rd": {
@@ -855,7 +855,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-02T13:21:16Z",
    "sector": "",
-   "specialization": "[\"150\",\"262\",\"264\"]",
+   "specialization": "150, 262, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -1108,7 +1108,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-26T19:41:18Z",
    "sector": "",
-   "specialization": "142",
+   "specialization": "[\"142\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -2044,7 +2044,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-29T15:18:47Z",
    "sector": "",
-   "specialization": "65",
+   "specialization": "[\"65\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -3517,7 +3517,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-09T12:47:59Z",
    "sector": "",
-   "specialization": "[\"65\",\"66\",\"73\",\"110\",\"153\",\"160\"]",
+   "specialization": "65, 66, 73, 110, 153, 160",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5620,7 +5620,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-10T09:56:17Z",
    "sector": "",
-   "specialization": "[\"49\",\"63\",\"86\",\"125\",\"207\",\"208\",\"256\",\"366\"]",
+   "specialization": "49, 63, 86, 125, 207, 208, 256, 366",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6600,7 +6600,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-10T13:46:15Z",
    "sector": "",
-   "specialization": "152",
+   "specialization": "[\"152\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9127,7 +9127,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-19T14:31:40Z",
    "sector": "",
-   "specialization": "[\"64\",\"76\",\"77\",\"149\",\"244\",\"264\"]",
+   "specialization": "64, 76, 77, 149, 244, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9802,7 +9802,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-26T10:16:15Z",
    "sector": "",
-   "specialization": "130",
+   "specialization": "[\"130\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9991,7 +9991,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T15:29:09Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10585,7 +10585,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-21T16:27:04Z",
    "sector": "",
-   "specialization": "[\"2\"]",
+   "specialization": "2",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -11191,7 +11191,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-25T15:02:11Z",
    "sector": "",
-   "specialization": "",
+   "specialization": "[]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -11993,7 +11993,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T08:00:24Z",
    "sector": "",
-   "specialization": "[\"114\"]",
+   "specialization": "114",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12495,7 +12495,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-09T09:37:24Z",
    "sector": "",
-   "specialization": "[\"206\"]",
+   "specialization": "206",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -14742,7 +14742,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-12T13:36:38Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -15175,7 +15175,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-20T14:14:41Z",
    "sector": "",
-   "specialization": "[\"70\"]",
+   "specialization": "70",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -15248,7 +15248,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-29T09:57:49Z",
    "sector": "",
-   "specialization": "66",
+   "specialization": "[\"66\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -15893,7 +15893,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-28T09:16:05Z",
    "sector": "",
-   "specialization": "[\"237\"]",
+   "specialization": "237",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -16077,7 +16077,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-29T11:46:13Z",
    "sector": "",
-   "specialization": "[\"137\",\"149\",\"150\",\"244\",\"264\"]",
+   "specialization": "137, 149, 150, 244, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -16286,7 +16286,7 @@
    "expiry_date": "",
    "publish_date": "2025-11-12T08:45:10Z",
    "sector": "",
-   "specialization": "[\"149\",\"208\",\"209\"]",
+   "specialization": "149, 208, 209",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -16627,7 +16627,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-27T07:36:26Z",
    "sector": "",
-   "specialization": "[\"244\"]",
+   "specialization": "244",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -16744,7 +16744,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-27T07:28:59Z",
    "sector": "",
-   "specialization": "[\"244\"]",
+   "specialization": "244",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -18166,7 +18166,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-23T16:11:55Z",
    "sector": "",
-   "specialization": "[\"244\"]",
+   "specialization": "244",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19505,7 +19505,7 @@
    "expiry_date": "",
    "publish_date": "2026-02-23T15:38:40Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20683,7 +20683,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-05T09:04:27Z",
    "sector": "",
-   "specialization": "[\"2\"]",
+   "specialization": "2",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20794,7 +20794,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-09T16:00:19Z",
    "sector": "",
-   "specialization": "[\"63\",\"86\",\"106\",\"123\",\"192\"]",
+   "specialization": "63, 86, 106, 123, 192",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21516,7 +21516,7 @@
    "expiry_date": "",
    "publish_date": "2026-03-26T16:26:49Z",
    "sector": "",
-   "specialization": "245, 248, 249, 251, 330, 356",
+   "specialization": "[\"245\",\"248\",\"249\",\"251\",\"330\",\"356\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22355,7 +22355,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-26T10:10:10Z",
    "sector": "",
-   "specialization": "[\"327\"]",
+   "specialization": "327",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22513,6 +22513,95 @@
       "energy",
       "industrial",
       "mechanical"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
+   "id": "248204",
+   "title": "AUTOMATION AND ROBOTICS ENGINEER (H/F)",
+   "company": "PRODUCT DEVELOPMENT EMPLOYENEURSHIP",
+   "country": "ITALIE",
+   "city": "MILAN",
+   "description": "We are looking for a motivated and skilled Automation & Robotics Engineer to join our engineering team. The ideal candidate will be responsible for designing, developing, implementing, and maintaining automation and robotic systems to improve production processes, efficiency, and operational performance.",
+   "mission": "",
+   "profile": "Bachelor's or Master's degree in Automation Engineering, Robotics, Electrical Engineering, Mechatronics, or a related field.\nExperience or knowledge of industrial automation and robotics.\nFamiliarity with PLC programming, control systems, sensors, and industrial communication protocols.\nKnowledge of industrial robotic systems and automation technologies.\nAbility to read and interpret technical drawings and electrical schematics.\nGood problem-solving and analytical skills.\nAbility to work independently and as part of a multidisciplinary team.\nGood command of English and italian",
+   "duration": 6,
+   "start_date": "2027-02-01T00:00:00",
+   "end_date": "2027-08-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-11-10T15:43:49Z",
+   "sector": "",
+   "specialization": "[\"264\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-11-10T15:43:49Z",
+    "missionStartDate": "2027-02-01T00:00:00",
+    "missionEndDate": "2027-08-01T00:00:00",
+    "startBroadcastDate": "2026-11-10T00:00:00",
+    "endBroadcastDate": "2026-12-10T00:00:00"
+   },
+   "summary": "We are looking for a motivated and skilled Automation & Robotics Engineer to join our engineering team. The ideal candidate will be responsible for designing, developing, implementing, and maintaining automation and robotic systems to improve production processes, efficiency, and operational performance.",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/248204",
+   "score": 32,
+   "label": "Périphérique",
+   "first_seen": "2026-11-11T14:19:15+00:00",
+   "axis_scores": {
+    "rd": 9,
+    "prod": 10,
+    "qual": 0,
+    "calc": 9
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "calc4",
+     "axis": "calc",
+     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
+     "weight": 4,
+     "terms": [
+      "automation"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "engineering",
+      "product development"
+     ]
+    },
+    {
+     "id": "rd9",
+     "axis": "rd",
+     "source": "Vocabulaire de laboratoire courant",
+     "weight": 3,
+     "terms": [
+      "problem solving"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "engineer"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "industrial"
      ],
      "points": 5
     },
@@ -22890,7 +22979,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-27T14:55:20Z",
    "sector": "",
-   "specialization": "168",
+   "specialization": "[\"168\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -23948,6 +24037,87 @@
    ]
   },
   {
+   "id": "248201",
+   "title": "AUTOMOTIVE ENGINEER (H/F)",
+   "company": "PRODUCT DEVELOPMENT EMPLOYENEURSHIP",
+   "country": "ITALIE",
+   "city": "MILAN",
+   "description": "We are looking for a motivated and dynamic professional with an interest and/or experience in the automotive industry. The ideal candidate will have a proactive attitude, good problem-solving skills, and the ability to work effectively in an international and multicultural environment.\n\nThe role offers the opportunity to contribute to various automotive-related activities, supporting business operations, technical projects, and cross-functional teams.",
+   "mission": "",
+   "profile": "Previous experience or a strong interest in the automotive industry.\nBackground in Engineering, Automotive, Mechanical Engineering, Business, or a related field is considered an advantage.\nGood knowledge of English, both written and spoken.\nItalian language proficiency at B1 level (intermediate).\nGood communication and interpersonal skills.\nStrong organizational and problem-solving abilities.\nAbility to work independently as well as part of a team.\nFlexibility, adaptability, and a proactive approach.\nItalian B1 and English knowledge",
+   "duration": 6,
+   "start_date": "2027-02-01T00:00:00",
+   "end_date": "2027-08-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-11-10T15:04:53Z",
+   "sector": "",
+   "specialization": "[\"224\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-11-10T15:04:53Z",
+    "missionStartDate": "2027-02-01T00:00:00",
+    "missionEndDate": "2027-08-01T00:00:00",
+    "startBroadcastDate": "2026-11-11T00:00:00",
+    "endBroadcastDate": "2026-12-11T00:00:00"
+   },
+   "summary": "We are looking for a motivated and dynamic professional with an interest and/or experience in the automotive industry. The ideal candidate will have a proactive attitude, good problem-solving skills, and the ability to work effectively in an international and multicultural environment.\n\nThe role offers the opportunity to contribute to various automotive-related activities, supporting business operations, technical projects, and cross-functional teams.",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/248201",
+   "score": 31,
+   "label": "Périphérique",
+   "first_seen": "2026-11-11T14:19:15+00:00",
+   "axis_scores": {
+    "rd": 9,
+    "prod": 10,
+    "qual": 0,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "engineering",
+      "product development"
+     ]
+    },
+    {
+     "id": "rd9",
+     "axis": "rd",
+     "source": "Vocabulaire de laboratoire courant",
+     "weight": 3,
+     "terms": [
+      "problem solving"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "engineer"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "automotive",
+      "mechanical"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
    "id": "247874",
    "title": "Field Representative Support Engineer (H/F)",
    "company": "SAFRAN HELICOPTER ENGINES",
@@ -24651,7 +24821,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-03T11:28:24Z",
    "sector": "",
-   "specialization": "[\"62\"]",
+   "specialization": "62",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25035,7 +25205,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-29T10:05:02Z",
    "sector": "",
-   "specialization": "[\"355\"]",
+   "specialization": "355",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26038,7 +26208,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-21T07:16:38Z",
    "sector": "",
-   "specialization": "[\"35\"]",
+   "specialization": "35",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27028,7 +27198,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T12:21:39Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27425,7 +27595,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-09T14:40:36Z",
    "sector": "",
-   "specialization": "[\"21\"]",
+   "specialization": "21",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -28204,7 +28374,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-13T14:31:50Z",
    "sector": "",
-   "specialization": "70",
+   "specialization": "[\"70\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -28395,7 +28565,7 @@
    "expiry_date": "",
    "publish_date": "2026-03-17T15:45:44Z",
    "sector": "",
-   "specialization": "[\"144\"]",
+   "specialization": "144",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -28790,7 +28960,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-12T07:40:30Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29071,7 +29241,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-09T09:43:27Z",
    "sector": "",
-   "specialization": "[\"206\"]",
+   "specialization": "206",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29451,7 +29621,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-28T18:25:06Z",
    "sector": "",
-   "specialization": "52, 63, 118, 125, 168, 225, 256",
+   "specialization": "[\"52\",\"63\",\"118\",\"125\",\"168\",\"225\",\"256\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30361,105 +30531,6 @@
    ]
   },
   {
-   "id": "247054",
-   "title": "Scientist / Associate Scientist in Neurodegeneration projects (H/F)",
-   "company": "UCB PHARMA",
-   "country": "BELGIQUE",
-   "city": "BRAINE L ALLEUD",
-   "description": "UCB cherchant à développer son pôle biopharmaceutique en Belgique a besoin de ressources humaines aux compétences spécifiques afin de gérer depuis ce pôle la production de ses produits actifs dans le traitement des maladies auto-immunes. UCB France cherche dès lors à renforcer les compétences locales par des ressources en VIE, dans un but de maîtrise et d'optimisation de la compétitivité de ses productions, distribuées à l'échelle mondiale.\nVotre mission consistera en…\n• Sous la supervision du chef(fe) de projet et des membres seniors du groupe, participer au développement et à la mise en œuvre d'essais cellulaires et biochimiques pour l’avancement des projets thérapeutiques dans le domaine des maladie neurodégénératives.\n• De manière autonome, réaliser des tâches et des expériences de laboratoire de routine, y compris la gestion et la manipulation des cultures cellulaires (lignées cellulaires et neurones primaires), ainsi que l'exécution d'essais d'imagerie par immunocytochimie, d'essais biochimiques (extraction de protéines, Western blot conventionnel et capillaire, ELISA, FRET, essais de luciférase, etc.) et de biologie moléculaire (extraction d'ARN, qPCR, etc.).\n• Décrire et rapporter avec précision les expériences dans un cahier de laboratoire électronique.\n• Présenter les données de manière claire et concise lors des réunions internes.\n• Rejoignez un environnement d'équipe très dynamique, international et inter-fonctionnel. Il s'agit d'une grande opportunité de faire de la science intéressant et de haute qualité tout en soutenant des projets thérapeutiques dans le cadre de l'industrie biopharmaceutique.\n\nLe(la) volontaire sera chargé(e) de :\n- Le(la) volontaire sera chargé(e) de la réalisation d'expériences et de taches de laboratoire de diverses natures, y compris le management des cultures cellulaires et leur manipulation, telles que la transfection et la transduction virale ou le traitement avec des drogues, mais aussi l'exécution d'essais d'imagerie, de biochimiques et de biologie moléculaire.",
-   "mission": "",
-   "profile": "Votre profil :\n\n- Diplome : Master ou Doctorat en biologie moléculaire, biologie cellulaire, biochimie ou domaine similaire avec 2+ or 0+ ans respectivement d'expérience professionnelle dans un laboratoire universitaire ou dans l'industrie.\n- Langues : Anglais écrit et parlé.\n- Expérience en cultures de cellules de mammifères, immunocytochimie, microscopie, analyse d'images, western blot, qPCR, ELISA.\n- Expérience avec les cultures primaires de neurones de souris et/ou de neurones dérivés de cellules iPS est considérée comme un plus.\n- Capacité à analyser de données à grande échelle sur l'expression des protéines et de l'ARN en utilisant des outils informatiques et des méthodes statistiques est considérée comme un plus.\n- Capacité à apprendre rapidement de nouvelles techniques si nécessaire.",
-   "duration": 12,
-   "start_date": "2027-02-01T00:00:00",
-   "end_date": "2028-02-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-14T08:28:03Z",
-   "sector": "",
-   "specialization": "113, 123, 125, 256",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-14T08:28:03Z",
-    "missionStartDate": "2027-02-01T00:00:00",
-    "missionEndDate": "2028-02-01T00:00:00",
-    "startBroadcastDate": "2026-11-09T00:00:00",
-    "endBroadcastDate": "2026-12-09T00:00:00"
-   },
-   "summary": "UCB cherchant à développer son pôle biopharmaceutique en Belgique a besoin de ressources humaines aux compétences spécifiques afin de gérer depuis ce pôle la production de ses produits actifs dans le traitement des maladies auto-immunes. UCB France cherche dès lors à renforcer les compétences locales par des ressources en VIE, dans un but de maîtrise et d'optimisation de la compétitivité de ses productions, distribuées à l'échelle mondiale.\nVotre mission consistera en…\n• Sous la supervision du chef(fe) de projet et des membres seniors du groupe, participer au développement et à la mise en œuvre d'essais cellulaires et biochimiques pour l’avancement des projets thérapeutiques dans le domaine des maladie neurodégénératives. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/247054",
-   "score": 30,
-   "label": "Périphérique",
-   "first_seen": "2026-10-15T11:26:55+00:00",
-   "axis_scores": {
-    "rd": 40,
-    "prod": 10,
-    "qual": 34,
-    "calc": 0
-   },
-   "dominant_axis": "rd",
-   "matched_families": [
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "methodes"
-     ]
-    },
-    {
-     "id": "qual3",
-     "axis": "qual",
-     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
-     "weight": 7,
-     "terms": [
-      "statistiques"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "essais",
-      "qualite"
-     ]
-    },
-    {
-     "id": "rd8",
-     "axis": "rd",
-     "source": "Alternance : investigation & problem solving, analyse microstructurale",
-     "weight": 11,
-     "terms": [
-      "microscopie"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "laboratoire"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Aucun terme industriel : score plafonné",
-     "terms": [],
-     "points": -7,
-     "cap": 30
-    }
-   ]
-  },
-  {
    "id": "247425",
    "title": "Scientist: Biochemistry and Biophysics (H/F)",
    "company": "UCB PHARMA",
@@ -30546,112 +30617,6 @@
      "label": "Aucun terme industriel : score plafonné",
      "terms": [],
      "points": -16,
-     "cap": 30
-    }
-   ]
-  },
-  {
-   "id": "246801",
-   "title": "VIE/PANGEO - Financial Controller (M/W) (H/F)",
-   "company": "VEOLIA ENERGIE PERFORMANCE",
-   "country": "SUISSE",
-   "city": "BALE",
-   "description": "As a global leader in environmental services, Veolia operates across all 5 continents with nearly 218,000 employees. An expert in water, energy, and waste management, the Group designs and implements innovative solutions for decarbonization, depollution and resource regeneration to support communities and industries in their ecological transformation.\n\nAmbitious graduates and young professionals: Ready to challenge yourself and accelerate your career growth?🚀🌍\nLaunch your international journey with a world leader in ecological transformation!\nThe VIE/PANGEO program offers you:\n• Highly sought-after international expertise\n• Innovative and sustainable projects\n• Multicultural teamwork\n• Worldwide networking\nYour passport to a thrilling career awaits. Join us and make a global impact!\n\nVeolia Industry Building - Switzerland AG is looking for a VIE/PANGEO - Financial Controller (M/W) in Basel, Switzerland.\n\n🎯 THE MISSION\nStep into a pivotal role that bridges local management and corporate leadership. As Financial Controller, you'll be at the heart of our financial operations, managing complex reporting cycles, optimizing financial processes, and leveraging modern digital tools to drive business insights. Work in a trilingual, international environment where your analytical skills and financial acumen will directly impact strategic decisions.\nYour mission:\n✅ Master financial reporting at dual levels—local management and corporate leadership\n✅ Drive digital transformation using Workday, PowerBI, and Google Workspace\n✅ Optimize financial processes through automation and data-driven insights\n✅ Support strategic planning with budgeting, forecasting, and ad-hoc business case analysis\n✅ Collaborate seamlessly with remote teams and operational stakeholders\n✅ Build financial excellence in a growing international organization\n\n💼 YOUR RESPONSIBILITIES\nMonthly Closings & Financial Reporting:\nActively participate in monthly, quarterly, and year-end closing cycles\nPerform detailed variance analyses (Actual vs. Budget / Forecast)\nPrepare, consolidate, and deliver financial reporting packs and management dashboards\nTailor reporting for both Local Management and Corporate Leadership\nInterface daily with remote Shared Service Centre on accounting tasks and reconciliations\nBudgeting, Forecasting & Strategic Planning:\nCo-build annual budgets and periodic reforecasts with operational heads\nMonitor key operational and financial KPIs\nSurface actionable insights and corrective measures for cost optimization\nSupport strategic regional investment decisions\nDigital Transformation & Financial Systems:\nLeverage and optimize Google Workspace (advanced Google Sheets modeling)\nMaster Workday ERP for core accounting and reporting\nDevelop dynamic dashboards using PowerBI\nContribute to digitizing financial processes and automating recurring reports\nUpgrade analytical models and reporting infrastructure\nAd-Hoc Analysis & Operational Controlling:\nConduct special financial studies and profitability reviews\nEvaluate business cases for strategic investments\nProvide financial insights to support operational decision-making\n\n👤 THE IDEAL PROFILE\nEducation:\nMaster's Degree from University, Business School, or Engineering School specializing in:\nFinance\nControlling\nAuditing\nManagement Accounting (e.g., CCA)\nExperience:\nAudit Background (Highly Valued): First professional experience in an external audit firm (Big 4 or tier-1 audit firm)\nControlling Experience: Previous internship or apprenticeship in financial controlling, corporate FP&A, or financial analysis\nKey Skills:\n💻 Financial Toolkit: Hands-on proficiency with Google Sheets and Microsoft Excel\n🔧 ERP & Analytics: Practical experience or strong familiarity with Workday (ERP) and PowerBI\n📊 Analytical Rigor: Strong financial analysis, data modeling, and reconciliation capabilities\n🎯 Autonomy & Agility: Proactive, self-driven professional thriving in a small, agile 2-person team\n🤝 Communication: Clear, concise communicator building strong relationships with operational managers, remote teams, and executives\n🧠 Strategic Mindset: Ability to translate financial data into actionable business insights\nLanguages:\n🇬🇧 English: Fluent (written and spoken) – Mandatory\n🇩🇪 German: Proficiency is a distinct advantage\n🇫🇷 French\n\n🌟 READY TO TRANSFORM FINANCE?\nIf you're passionate about financial excellence, digital innovation, and international business, and you're ready to make an impact in a leading global organization, this is your opportunity!\nWe're waiting for you! 🚀",
-   "mission": "",
-   "profile": "👤 THE IDEAL PROFILE\nEducation:\nMaster's Degree from University, Business School, or Engineering School specializing in:\nFinance\nControlling\nAuditing\nManagement Accounting (e.g., CCA)\nExperience:\nAudit Background (Highly Valued): First professional experience in an external audit firm (Big 4 or tier-1 audit firm)\nControlling Experience: Previous internship or apprenticeship in financial controlling, corporate FP&A, or financial analysis\nKey Skills:\n💻 Financial Toolkit: Hands-on proficiency with Google Sheets and Microsoft Excel\n🔧 ERP & Analytics: Practical experience or strong familiarity with Workday (ERP) and PowerBI\n📊 Analytical Rigor: Strong financial analysis, data modeling, and reconciliation capabilities\n🎯 Autonomy & Agility: Proactive, self-driven professional thriving in a small, agile 2-person team\n🤝 Communication: Clear, concise communicator building strong relationships with operational managers, remote teams, and executives\n🧠 Strategic Mindset: Ability to translate financial data into actionable business insights",
-   "duration": 18,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-07-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-07T14:39:51Z",
-   "sector": "",
-   "specialization": "5, 9, 205, 259",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-07T14:39:51Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-07-01T00:00:00",
-    "startBroadcastDate": "2026-11-09T00:00:00",
-    "endBroadcastDate": "2026-11-10T00:00:00"
-   },
-   "summary": "As a global leader in environmental services, Veolia operates across all 5 continents with nearly 218,000 employees. An expert in water, energy, and waste management, the Group designs and implements innovative solutions for decarbonization, depollution and resource regeneration to support communities and industries in their ecological transformation.\n\nAmbitious graduates and young professionals: Ready to challenge yourself and accelerate your career growth?🚀🌍\nLaunch your international journey with a world leader in ecological transformation!\nThe VIE/PANGEO program offers you:\n• Highly sought-after international expertise\n• Innovative and sustainable projects\n• Multicultural teamwork\n• Worldwide networking\nYour passport to a thrilling career awaits. Join us and make a global impact!\n\nVeolia Industry Building - Switzerland AG is looking for a VIE/PANGEO - Financial Controller (M/W) in Basel, Switzerland.\n\n🎯 THE MISSION\nStep into a pivotal role that bridges local management and corporate leadership. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246801",
-   "score": 30,
-   "label": "Périphérique",
-   "first_seen": "2026-11-09T16:15:07+00:00",
-   "axis_scores": {
-    "rd": 11,
-    "prod": 10,
-    "qual": 8,
-    "calc": 36
-   },
-   "dominant_axis": "calc",
-   "matched_families": [
-    {
-     "id": "calc1",
-     "axis": "calc",
-     "source": "Éléments finis (256-1, 24 h), TP simulation numérique (272-1, 285-5, 285-4, 63 h), Calculs numériques de mise en forme (277-1, 286-1, 50 h)",
-     "weight": 12,
-     "terms": [
-      "modeling"
-     ]
-    },
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
-     "weight": 4,
-     "terms": [
-      "automation"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "engineering"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "audit"
-     ]
-    },
-    {
-     "id": "rd7",
-     "axis": "rd",
-     "source": "Recyclage des matériaux (8 h), Éco-conception (842-1, 8 h), Enjeux DDRS (838-1, 20 h)",
-     "weight": 4,
-     "terms": [
-      "decarbonization"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "energie",
-      "energy"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Aucun terme industriel : score plafonné",
-     "terms": [],
-     "points": -5,
      "cap": 30
     }
    ]
@@ -30824,7 +30789,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-29T09:30:31Z",
    "sector": "",
-   "specialization": "[\"107\"]",
+   "specialization": "107",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31268,7 +31233,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-03T16:05:59Z",
    "sector": "",
-   "specialization": "109, 248, 262, 328, 330, 338, 315",
+   "specialization": "[\"109\",\"248\",\"262\",\"328\",\"330\",\"338\",\"315\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31464,6 +31429,80 @@
    ]
   },
   {
+   "id": "243661",
+   "title": "INGÉNIEUR MAINTENANCE (H/F)",
+   "company": "MISSION CONSEIL ASSISTANCE INGENIERIE",
+   "country": "BELGIQUE",
+   "city": "BRUXELLES",
+   "description": "MCA Belgium, filiale belge de MCA GROUPE, société de Conseil et d'Etudes en Hautes Technologies, s'engage à accompagner les Grands Comptes de l'Industrie et des Services depuis plus de 15 ans. L'expertise de nos équipes, reconnue au niveau national et européen, nous permet de proposer des solutions techniques dans différents secteurs d’activités : Energy, Life Sciences, Mobility et Data Solutions. Envie de rejoindre une entreprise en plein essor et qui vous donnera toutes les clés pour faire évoluer votre carrière ? Postulez !\nDans le cadre du développement de l’activité MCA, nous recherchons plusieurs ingénieurs maintenance dont les missions seront d’optimiser la disponibilité et le bon fonctionnement des équipements mécaniques et/ou électriques de production de leurs secteurs. Grâce à vos compétences, vous serez en charge de :\nGestion des travaux\nMaintenir les installations en bon état et au besoin les faire réparer \nRéaliser, planifier et coordonner les ordres de travail de maintenance \nProposer des plans de maintenance préventive – prédictive \nSuperviser la bonne application des procédures, modes opératoires, …\nGérer la sous-traitance et l’équipe \nGérer et respecter le budget alloué \nManagement d’équipe de la zone\nParticiper activement aux réunions techniques \nGérer la charge de travail en fonction des besoins et compétences \nParticiper à la formation du personnel\nOperations de contrôle\nAmélioration continue\nIndicateurs de performance : veiller au suivi des résultats et prendre les mesures nécessaires en cas de déviation par rapport aux objectifs en accord avec son responsable hiérarchique.",
+   "mission": "",
+   "profile": "De formation Ingénieur Civil ou Industriel (ou équivalent) avec une spécialité mécanique/hydraulique, électrique/automatique/électromécanique ou fiabilité, vous justifiez d’une expérience significative dans un poste maintenance similaire. La maitrise de l'anglais est un plus. Rejoindre MCA, c’est bénéficier d’un suivi de carrière personnalisé corrélé à votre projet professionnel : développer une expertise, progresser dans un autre secteur, devenir chef de projet, manager une équipe sont les perspectives d’évolution associées au métier de consultant au sein du groupe MCA.",
+   "duration": 6,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2027-07-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-06-09T13:29:13Z",
+   "sector": "",
+   "specialization": "[\"107\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-06-09T13:29:13Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2027-07-01T00:00:00",
+    "startBroadcastDate": "2026-11-10T00:00:00",
+    "endBroadcastDate": "2026-12-10T00:00:00"
+   },
+   "summary": "MCA Belgium, filiale belge de MCA GROUPE, société de Conseil et d'Etudes en Hautes Technologies, s'engage à accompagner les Grands Comptes de l'Industrie et des Services depuis plus de 15 ans. L'expertise de nos équipes, reconnue au niveau national et européen, nous permet de proposer des solutions techniques dans différents secteurs d’activités : Energy, Life Sciences, Mobility et Data Solutions. Envie de rejoindre une entreprise en plein essor et qui vous donnera toutes les clés pour faire évoluer votre carrière ? Postulez !\nDans le cadre du développement de l’activité MCA, nous recherchons plusieurs ingénieurs maintenance dont les missions seront d’optimiser la disponibilité et le bon fonctionnement des équipements mécaniques et/ou électriques de production de leurs secteurs. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/243661",
+   "score": 29,
+   "label": "Périphérique",
+   "first_seen": "2026-08-24T16:01:18+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 10,
+    "qual": 0,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "amelioration continue",
+      "ingenierie"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "ingenieur",
+      "maintenance"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "energy",
+      "industriel",
+      "mecanique"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
    "id": "243659",
    "title": "INGÉNIEUR(E) NUCLÉAIRE (H/F)",
    "company": "MISSION CONSEIL ASSISTANCE INGENIERIE",
@@ -31478,7 +31517,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-09T13:01:31Z",
    "sector": "",
-   "specialization": "[\"65\",\"66\",\"71\",\"77\",\"153\",\"225\"]",
+   "specialization": "65, 66, 71, 77, 153, 225",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31674,80 +31713,6 @@
       "energie",
       "industriel",
       "nucleaire"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
-   "id": "243661",
-   "title": "INGÉNIEUR MAINTENANCE (H/F)",
-   "company": "MISSION CONSEIL ASSISTANCE INGENIERIE",
-   "country": "BELGIQUE",
-   "city": "BRUXELLES",
-   "description": "MCA Belgium, filiale belge de MCA GROUPE, société de Conseil et d'Etudes en Hautes Technologies, s'engage à accompagner les Grands Comptes de l'Industrie et des Services depuis plus de 15 ans. L'expertise de nos équipes, reconnue au niveau national et européen, nous permet de proposer des solutions techniques dans différents secteurs d’activités : Energy, Life Sciences, Mobility et Data Solutions. Envie de rejoindre une entreprise en plein essor et qui vous donnera toutes les clés pour faire évoluer votre carrière ? Postulez !\nDans le cadre du développement de l’activité MCA, nous recherchons plusieurs ingénieurs maintenance dont les missions seront d’optimiser la disponibilité et le bon fonctionnement des équipements mécaniques et/ou électriques de production de leurs secteurs. Grâce à vos compétences, vous serez en charge de :\nGestion des travaux\nMaintenir les installations en bon état et au besoin les faire réparer \nRéaliser, planifier et coordonner les ordres de travail de maintenance \nProposer des plans de maintenance préventive – prédictive \nSuperviser la bonne application des procédures, modes opératoires, …\nGérer la sous-traitance et l’équipe \nGérer et respecter le budget alloué \nManagement d’équipe de la zone\nParticiper activement aux réunions techniques \nGérer la charge de travail en fonction des besoins et compétences \nParticiper à la formation du personnel\nOperations de contrôle\nAmélioration continue\nIndicateurs de performance : veiller au suivi des résultats et prendre les mesures nécessaires en cas de déviation par rapport aux objectifs en accord avec son responsable hiérarchique.",
-   "mission": "",
-   "profile": "De formation Ingénieur Civil ou Industriel (ou équivalent) avec une spécialité mécanique/hydraulique, électrique/automatique/électromécanique ou fiabilité, vous justifiez d’une expérience significative dans un poste maintenance similaire. La maitrise de l'anglais est un plus. Rejoindre MCA, c’est bénéficier d’un suivi de carrière personnalisé corrélé à votre projet professionnel : développer une expertise, progresser dans un autre secteur, devenir chef de projet, manager une équipe sont les perspectives d’évolution associées au métier de consultant au sein du groupe MCA.",
-   "duration": 6,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2027-06-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-06-09T13:29:13Z",
-   "sector": "",
-   "specialization": "107",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-06-09T13:29:13Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2027-06-01T00:00:00",
-    "startBroadcastDate": "2026-10-16T00:00:00",
-    "endBroadcastDate": "2026-11-15T00:00:00"
-   },
-   "summary": "MCA Belgium, filiale belge de MCA GROUPE, société de Conseil et d'Etudes en Hautes Technologies, s'engage à accompagner les Grands Comptes de l'Industrie et des Services depuis plus de 15 ans. L'expertise de nos équipes, reconnue au niveau national et européen, nous permet de proposer des solutions techniques dans différents secteurs d’activités : Energy, Life Sciences, Mobility et Data Solutions. Envie de rejoindre une entreprise en plein essor et qui vous donnera toutes les clés pour faire évoluer votre carrière ? Postulez !\nDans le cadre du développement de l’activité MCA, nous recherchons plusieurs ingénieurs maintenance dont les missions seront d’optimiser la disponibilité et le bon fonctionnement des équipements mécaniques et/ou électriques de production de leurs secteurs. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/243661",
-   "score": 29,
-   "label": "Périphérique",
-   "first_seen": "2026-08-24T16:01:18+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 10,
-    "qual": 0,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "amelioration continue",
-      "ingenierie"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur",
-      "maintenance"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "energy",
-      "industriel",
-      "mecanique"
      ],
      "points": 5
     },
@@ -32164,7 +32129,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-28T18:24:36Z",
    "sector": "",
-   "specialization": "[\"60\",\"65\",\"66\",\"71\",\"77\",\"110\",\"142\",\"149\"]",
+   "specialization": "60, 65, 66, 71, 77, 110, 142, 149",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32358,80 +32323,6 @@
    "bonuses": []
   },
   {
-   "id": "247287",
-   "title": "JUNIOR MECHANICAL ENGINEER - H/F (H/F)",
-   "company": "WESTINGHOUSE ELECTRIQUE FRANCE SAS",
-   "country": "ITALIE",
-   "city": "MONFALCONE",
-   "description": "• Project monitoring support\n- Tracking of delays\n- Tracking and analysis of planning shifts impacts\n- Non-conformance reports (NCR) tracking\n- Tracking of welds and repairs\n- Weekly reporting of progress \n- Preparation of review gates\n- Monthly / weekly monitoring of timesheets\n• Technical support\n- Authoring NCR justifications and support NCR resolution and closure\n- Authoring manufacturing procedures, if needed\n- Facilitate manufacturing issue resolution\n- Interface with the internal and external stakeholders to facilitate comments resolution\n• Continuous improvement\n- Identification of bottlenecks at Westinghouse Electric Italy with proposed improvement solution\n- Implementation of internal processes to monitor the above points",
-   "mission": "",
-   "profile": "Bachelor’s or Master's degree in Mechanical Engineering, Nuclear Engineering or related technical discipline required",
-   "duration": 12,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-20T14:12:12Z",
-   "sector": "",
-   "specialization": "[\"77\"]",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-20T14:12:12Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-22T00:00:00",
-    "endBroadcastDate": "2026-11-21T00:00:00"
-   },
-   "summary": "• Project monitoring support\n- Tracking of delays\n- Tracking and analysis of planning shifts impacts\n- Non-conformance reports (NCR) tracking\n- Tracking of welds and repairs\n- Weekly reporting of progress \n- Preparation of review gates\n- Monthly / weekly monitoring of timesheets\n• Technical support\n- Authoring NCR justifications and support NCR resolution and closure\n- Authoring manufacturing procedures, if needed\n- Facilitate manufacturing issue resolution\n- Interface with the internal and external stakeholders to facilitate comments resolution\n• Continuous improvement\n- Identification of bottlenecks at Westinghouse Electric Italy with proposed improvement solution\n- Implementation of internal processes to monitor the above points",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/247287",
-   "score": 29,
-   "label": "Périphérique",
-   "first_seen": "2026-10-21T11:46:49+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 10,
-    "qual": 0,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "continuous improvement",
-      "engineering",
-      "manufacturing"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineer",
-      "mechanical"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "mechanical",
-      "nuclear"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "247121",
    "title": "Consultant.e Senior Qualité Opérationnelle (H/F)",
    "company": "ATRYON",
@@ -32446,7 +32337,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-15T14:49:18Z",
    "sector": "",
-   "specialization": "208",
+   "specialization": "[\"208\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33564,7 +33455,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-06T14:27:08Z",
    "sector": "",
-   "specialization": "[\"178\"]",
+   "specialization": "178",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34309,7 +34200,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-05T10:13:04Z",
    "sector": "",
-   "specialization": "[\"229\"]",
+   "specialization": "229",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34707,7 +34598,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-10T07:31:08Z",
    "sector": "",
-   "specialization": "[\"248\"]",
+   "specialization": "248",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34789,7 +34680,7 @@
    "expiry_date": "",
    "publish_date": "2025-10-13T08:46:35Z",
    "sector": "",
-   "specialization": "245, 248",
+   "specialization": "[\"245\",\"248\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34871,7 +34762,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T13:20:38Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35370,15 +35261,15 @@
    "expiry_date": "",
    "publish_date": "2026-10-16T08:33:49Z",
    "sector": "",
-   "specialization": "49, 65, 107, 109, 150, 169",
+   "specialization": "[\"49\",\"65\",\"107\",\"109\",\"150\",\"169\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-10-16T08:33:49Z",
     "missionStartDate": "2027-01-01T00:00:00",
     "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-16T00:00:00",
-    "endBroadcastDate": "2026-11-15T00:00:00"
+    "startBroadcastDate": "2026-11-11T00:00:00",
+    "endBroadcastDate": "2026-12-11T00:00:00"
    },
    "summary": "UCB cherchant à développer son pôle biopharmaceutique en Belgique a besoin de ressources humaines aux compétences spécifiques afin de gérer depuis ce pôle la production de ses produits actifs dans le traitement des maladies auto-immunes. UCB France cherche dès lors à renforcer les compétences locales par des ressources en VIE, dans un but de maîtrise et d'optimisation de la compétitivité de ses productions, distribuées à l'échelle mondiale.\n\nVotre mission consistera en...\n-Être responsable du suivi de projets liés aux procédés, aux équipements et aux systèmes, en intégrant les aspects produit, ingénierie, digitalisation et automatisation.\n-Prendre en charge les investigations mineures et majeures dans les domaines du produit, de l’ingénierie et de l’automatisation.\n-Jouer un rôle clé dans la bonne exécution d’initiatives majeures au sein de notre site de bioproduction de pointe.\n\nProjets :\n-Exécuter des projets liés aux procédés et aux équipements, en intégrant les aspects produit, ingénierie, digitalisation et automatisation. […]",
    "url": "https://mon-vie-via.businessfrance.fr/offres/247145",
@@ -35454,7 +35345,7 @@
    "expiry_date": "",
    "publish_date": "2026-03-26T13:23:47Z",
    "sector": "",
-   "specialization": "130",
+   "specialization": "[\"130\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35545,7 +35436,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-09T16:11:15Z",
    "sector": "",
-   "specialization": "[\"62\"]",
+   "specialization": "62",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -35878,7 +35769,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-27T10:23:57Z",
    "sector": "",
-   "specialization": "[\"66\"]",
+   "specialization": "66",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -36087,7 +35978,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T07:43:54Z",
    "sector": "",
-   "specialization": "[\"70\"]",
+   "specialization": "70",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -36706,7 +36597,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-03T15:39:45Z",
    "sector": "",
-   "specialization": "6",
+   "specialization": "[\"6\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -36845,8 +36736,8 @@
    "mission": "",
    "profile": "Compétences : \nUn Master en électromécanique, automatisme, informatique industrielle, cybersécurité....\nAu moins 1 an d'expérience dans un secteur industrie\nVous avez une bonne connaissance de l'anglais \nL'esprit d'équipe, le sens de la communication et l'engagement permettront à l'équipe de réussir.",
    "duration": 12,
-   "start_date": "2026-12-01T00:00:00",
-   "end_date": "2027-12-01T00:00:00",
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
    "expiry_date": "",
    "publish_date": "2026-06-09T13:44:09Z",
    "sector": "",
@@ -36855,10 +36746,10 @@
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-06-09T13:44:09Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-10-16T00:00:00",
-    "endBroadcastDate": "2026-11-15T00:00:00"
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-11-10T00:00:00",
+    "endBroadcastDate": "2026-12-10T00:00:00"
    },
    "summary": "Vous voulez avoir un impact réel sur la réussite des entreprises et de leurs salariés ? Vous souhaitez vous impliquer dans la gestion de projets dans des secteurs innovants ? Vous êtes intéressé par le développement de l'efficacité des outils et de la sécurité des organisations ? Alors cette opportunité est peut-être pour vous ! Nous recherchons un nouveau ingénieur(e) projets en VIE. \nResponsabilités :\nL'ingénieur(e) projets est responsable de la gestion de projets techniques \n- suivre, coordonner et communiquer avec les parties prenantes du projet (clients, fournisseurs, partenaires)\n- Installer, tester et intégrer des solutions automatisées sur le terrain (IOQ, FAT, SAT, ...)\n- Coordonner les sujets EHS\n- Établir et suivre le calendrier du projet\n- Fournir des conseils et des propositions pour obtenir le niveau de qualité requis \n- Suivi des FAT et SAT des fournisseurs ainsi que de la vérification de la qualité des fournisseurs\n- Gérer le changement dans le respect des bonnes pratiques",
    "url": "https://mon-vie-via.businessfrance.fr/offres/243663",
@@ -36995,7 +36886,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-06T08:57:05Z",
    "sector": "",
-   "specialization": "327",
+   "specialization": "[\"327\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -37429,7 +37320,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-29T10:11:33Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -37706,7 +37597,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-29T16:46:46Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -38046,7 +37937,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-09T10:11:00Z",
    "sector": "",
-   "specialization": "[\"327\"]",
+   "specialization": "327",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
