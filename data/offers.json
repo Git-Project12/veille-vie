@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-17T15:58:18+00:00",
+ "generated_at": "2026-11-18T15:38:25+00:00",
  "source": "Business France — mon-vie-via.businessfrance.fr",
- "total_scanned": 850,
- "total_announced": 850,
- "total_kept": 364,
+ "total_scanned": 862,
+ "total_announced": 862,
+ "total_kept": 366,
  "threshold": 25,
  "axes": {
   "rd": {
@@ -855,7 +855,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-02T13:21:16Z",
    "sector": "",
-   "specialization": "150, 262, 264",
+   "specialization": "[\"150\",\"262\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -983,7 +983,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-14T12:42:19Z",
    "sector": "",
-   "specialization": "[\"65\",\"206\",\"264\"]",
+   "specialization": "65, 206, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -1108,7 +1108,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-26T19:41:18Z",
    "sector": "",
-   "specialization": "[\"142\"]",
+   "specialization": "142",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -1508,7 +1508,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-03T11:49:46Z",
    "sector": "",
-   "specialization": "60",
+   "specialization": "[\"60\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -2095,133 +2095,6 @@
      "label": "Niveau bac+5 / ingénieur annoncé",
      "terms": [],
      "points": 4
-    }
-   ]
-  },
-  {
-   "id": "247924",
-   "title": "Concepteur mécanique - outillage H/F (H/F)",
-   "company": "FORTIL GROUP",
-   "country": "CANADA",
-   "city": "MONTREAL -QC",
-   "description": "Groupe international d’ingénierie, fortil repose sur un modèle indépendant et rassemble plus de 2 600 collaborateurs. Avec 30 agences réparties dans 14 pays, fortil cultive la liberté d'entreprendre et la libération des potentiels.\n\nContexte\nDans un environnement aéronautique exigeant, vous êtes responsable de la conception et du pilotage complet des outillages nécessaires à la production et à l’assemblage de pièces techniques. Vous intervenez en interface avec les équipes méthodes, production, qualité et les fournisseurs afin de garantir la disponibilité, la conformité et la performance des moyens d’outillage.\nDe l’analyse du besoin initial jusqu’à la mise en service en production, vous assurez le suivi des solutions techniques et veillez à leur adéquation avec les exigences industrielles, les contraintes de fabrication et les objectifs du projet.\n\nResponsabilités\n• Analyser les besoins en outillage à partir des données techniques (plans 2D/3D, dossiers de définition, cahiers des charges) et identifier les contraintes liées aux opérations de production et d’assemblage.\n• Concevoir les outillages sous CATIA en respectant les contraintes industrielles et de fabrication.\n• Exploiter et intégrer les tolérances dimensionnelles et géométriques (GD&T) dans la conception.\n• Définir, faire évoluer et valider les solutions techniques d’outillage en tenant compte des besoins des utilisateurs et des contraintes opérationnelles.\n• Réaliser les plans de définition, les modèles 3D et les dossiers techniques associés nécessaires à la fabrication des outillages.\n• Piloter les projets outillage de A à Z en assurant le suivi des coûts, de la qualité et des délais.\n• Participer à la consultation des fournisseurs, analyser leurs propositions techniques et contribuer à la sélection des solutions adaptées aux besoins du projet.\n• Assurer le suivi des fournisseurs tout au long du cycle de fabrication : transmission des données techniques, suivi de l'avancement, respect des échéanciers et gestion des éventuels écarts.\n• Être l'interlocuteur technique des fournisseurs et coordonner les échanges avec les équipes internes afin de répondre aux questions techniques et d'assurer la bonne réalisation des outillages.\n• Suivre la fabrication des outillages, examiner les livrables et s'assurer de leur conformité avec les spécifications techniques et les exigences définies.\n• Participer aux phases de validation, essais et mise en service en production afin de vérifier la conformité et le bon fonctionnement des moyens d’outillage.\n• Apporter un support technique à la production en cas de problématiques outillage et proposer des solutions adaptées aux contraintes rencontrées sur le terrain.\n• Analyser les non-conformités et participer aux plans d’actions correctives (RCA, 8D).\n• Assurer le suivi de la documentation technique et la traçabilité des évolutions apportées aux moyens d’outillage.",
-   "mission": "",
-   "profile": "• Formation technique en génie mécanique, conception ou génie industriel.\n• Expérience en conception d’outillage ou gestion de projets industriels en environnement manufacturier, idéalement aéronautique.\n• Maîtrise de CATIA V5 / V6 et lecture de plans techniques.\n• La connaissance d’ENOVIA ou d’un autre outil PLM constitue un atout.\n• Bonne compréhension des tolérances fonctionnelles et du GD&T.\n• Connaissance des procédés de fabrication et d’assemblage.\n• Expérience en gestion de projet et relation fournisseurs.\n• Capacité à assurer le suivi technique et opérationnel de fournisseurs et de sous-traitants.\n• Connaissance des standards qualité (EN9100, ISO 9001) appréciée.\n• Rigueur, autonomie et forte orientation terrain et résultat.\n\nLes raisons de nous rejoindre\nChez fortil, nous mettons en place des leviers concrets pour accompagner votre évolution et garantir un environnement de travail stimulant :\n- L’accompagnement sur la montée en compétences\n- Un écosystème pour sortir de votre zone de confort\n- La possibilité de devenir associé\n- L’engagement dans des projets associatifs\n- Une politique dédiée à la parentalité\nFortil s’engage en faveur de l’égalité des chances.\nTous nos postes sont ouverts aux personnes en situation de handicap, sans distinction de genre, d’origine ou d’orientation sexuelle",
-   "duration": 24,
-   "start_date": "2027-02-01T00:00:00",
-   "end_date": "2029-02-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-11-04T08:26:50Z",
-   "sector": "",
-   "specialization": "[\"77\"]",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-11-04T08:26:50Z",
-    "missionStartDate": "2027-02-01T00:00:00",
-    "missionEndDate": "2029-02-01T00:00:00",
-    "startBroadcastDate": "2026-11-04T00:00:00",
-    "endBroadcastDate": "2026-12-04T00:00:00"
-   },
-   "summary": "Groupe international d’ingénierie, fortil repose sur un modèle indépendant et rassemble plus de 2 600 collaborateurs. Avec 30 agences réparties dans 14 pays, fortil cultive la liberté d'entreprendre et la libération des potentiels.\n\nContexte\nDans un environnement aéronautique exigeant, vous êtes responsable de la conception et du pilotage complet des outillages nécessaires à la production et à l’assemblage de pièces techniques. Vous intervenez en interface avec les équipes méthodes, production, qualité et les fournisseurs afin de garantir la disponibilité, la conformité et la performance des moyens d’outillage.\nDe l’analyse du besoin initial jusqu’à la mise en service en production, vous assurez le suivi des solutions techniques et veillez à leur adéquation avec les exigences industrielles, les contraintes de fabrication et les objectifs du projet.\n\nResponsabilités\n• Analyser les besoins en outillage à partir des données techniques (plans 2D/3D, dossiers de définition, cahiers des charges) et identifier les contraintes liées aux opérations de production et d’assemblage. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/247924",
-   "score": 74,
-   "label": "Cœur de cible",
-   "first_seen": "2026-11-04T14:29:48+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 69,
-    "qual": 49,
-    "calc": 20
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "calc2",
-     "axis": "calc",
-     "source": "CAO (278-1, 30 h), Conception mécanique (264-1, 43 h)",
-     "weight": 9,
-     "terms": [
-      "catia",
-      "gd&t"
-     ]
-    },
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
-     "weight": 10,
-     "terms": [
-      "outillage"
-     ]
-    },
-    {
-     "id": "prod3",
-     "axis": "prod",
-     "source": "Assemblage des matériaux (297-2, 30 h)",
-     "weight": 7,
-     "terms": [
-      "assemblage"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "fabrication",
-      "ingenierie",
-      "methodes"
-     ]
-    },
-    {
-     "id": "qual3",
-     "axis": "qual",
-     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
-     "weight": 7,
-     "terms": [
-      "8d"
-     ]
-    },
-    {
-     "id": "qual2",
-     "axis": "qual",
-     "source": "Qualité et normes (774-1, 14 h, coefficient 0,5)",
-     "weight": 4,
-     "terms": [
-      "iso 9001"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "conformite",
-      "essais",
-      "qualite",
-      "standards"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "mecanique"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "aeronautique",
-      "industriel",
-      "mecanique"
-     ],
-     "points": 5
     }
    ]
   },
@@ -3448,7 +3321,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T15:32:41Z",
    "sector": "",
-   "specialization": "70",
+   "specialization": "[\"70\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -3542,6 +3415,116 @@
       "aeronautique",
       "ferroviaire",
       "mecanique"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
+   "id": "248418",
+   "title": "Ingénieur Stratégie Matériaux Produits Plats : Sélection des Matériaux et Enjeux Environnementaux H/F (H/F)",
+   "company": "RENAULT SAS",
+   "country": "INDE",
+   "city": "CHENNAI",
+   "description": "Mission principale\n\nDans le cadre de l’équipe d’Ingénierie des Matériaux du Groupe Renault en Inde, le/la VIE contribuera au développement de la future stratégie matériaux du Groupe en identifiant des solutions acier compétitives, innovantes et bas carbone pour les applications automobiles. Cette mission combinera veille marché, veille technologique, relations fournisseurs et évaluations de durabilité afin de soutenir les ambitions FutuREady de Renault Group.\n\nRéaliser une veille approfondie du marché et des technologies de l’industrie indienne de l’acier plat, incluant les sidérurgistes, centres de services, transformateurs et nouveaux acteurs de l’écosystème.\n\nConstruire et maintenir une cartographie stratégique de la chaîne d’approvisionnement en acier automobile en Inde, en évaluant les capacités industrielles, les portefeuilles produits, les performances qualité et les projets d’investissements futurs.\n\nRéaliser des études comparatives des nuances d’aciers automobiles avancées, des technologies de fabrication et des innovations matériaux disponibles en Inde par rapport aux standards mondiaux de Renault et aux meilleures pratiques internationales.\n\nIdentifier des opportunités d’amélioration de la compétitivité grâce à des solutions matériaux alternatives, à la diversification des fournisseurs et à des stratégies de localisation.\n\nAnalyser les initiatives liées à l’acier bas carbone, les stratégies d’intégration de matières recyclées et les approches d’économie circulaire développées par les producteurs d’acier indiens afin de soutenir les objectifs de décarbonation du Groupe Renault.\n\nÉvaluer la performance environnementale des fournisseurs, leur maturité technologique et leur niveau de préparation industrielle à travers des évaluations techniques, audits et visites de sites.\n\nCollaborer avec les experts Renault en ingénierie, achats et matériaux afin de développer des recommandations concernant les futures prescriptions matériaux et les stratégies d’approvisionnement.\n\nContribuer à l’identification de technologies émergentes et de partenariats stratégiques susceptibles de renforcer la compétitivité et la résilience du Groupe Renault à long terme dans la région.\n\nPréparer des rapports techniques, analyses stratégiques et présentations de synthèse à destination du management sur les tendances du marché, les évolutions technologiques, les évaluations d’empreinte carbone et les opportunités d’affaires.\n\nContribuer à la définition de la feuille de route Inde 2030 du Groupe Renault pour les matériaux en acier plat destinés à l’automobile, en soutenant les objectifs d’innovation, de durabilité et de performance industrielle.\n\nDescription des activités\n\nCartographie stratégique de l’écosystème indien de l’acier automobile.\n\nÉlaboration et mise à jour d’une base de données de benchmark fournisseurs et technologies.\n\nÉvaluation des opportunités liées à l’acier bas carbone.\n\nRecommandations en matière d’approvisionnement compétitif et de diversification des fournisseurs.\n\nRédaction de rapports techniques et réalisation de présentations pour le management.\n\nRecommandations de prescriptions matériaux pour les futurs programmes véhicules Renault.\n\nContribution à la stratégie matériaux à long terme du Groupe Renault en Inde.",
+   "mission": "",
+   "profile": "Ingénieur matériaux. La connaissance des produits métalliques est un atout.",
+   "duration": 24,
+   "start_date": "2027-03-01T00:00:00",
+   "end_date": "2029-03-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-11-17T12:25:59Z",
+   "sector": "",
+   "specialization": "251",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-11-17T12:25:59Z",
+    "missionStartDate": "2027-03-01T00:00:00",
+    "missionEndDate": "2029-03-01T00:00:00",
+    "startBroadcastDate": "2026-11-17T00:00:00",
+    "endBroadcastDate": "2026-12-17T00:00:00"
+   },
+   "summary": "Mission principale\n\nDans le cadre de l’équipe d’Ingénierie des Matériaux du Groupe Renault en Inde, le/la VIE contribuera au développement de la future stratégie matériaux du Groupe en identifiant des solutions acier compétitives, innovantes et bas carbone pour les applications automobiles. Cette mission combinera veille marché, veille technologique, relations fournisseurs et évaluations de durabilité afin de soutenir les ambitions FutuREady de Renault Group.\n\nRéaliser une veille approfondie du marché et des technologies de l’industrie indienne de l’acier plat, incluant les sidérurgistes, centres de services, transformateurs et nouveaux acteurs de l’écosystème.\n\nConstruire et maintenir une cartographie stratégique de la chaîne d’approvisionnement en acier automobile en Inde, en évaluant les capacités industrielles, les portefeuilles produits, les performances qualité et les projets d’investissements futurs. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/248418",
+   "score": 69,
+   "label": "Bonne adéquation",
+   "first_seen": "2026-11-18T15:38:10+00:00",
+   "axis_scores": {
+    "rd": 71,
+    "prod": 10,
+    "qual": 8,
+    "calc": 0
+   },
+   "dominant_axis": "rd",
+   "matched_families": [
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "fabrication",
+      "ingenierie"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "qualite",
+      "standards"
+     ]
+    },
+    {
+     "id": "rd1",
+     "axis": "rd",
+     "source": "Métallurgie 1 (280-1, 34 h), Métallurgie 2 (287-1, 45 h)",
+     "weight": 12,
+     "terms": [
+      "acier"
+     ]
+    },
+    {
+     "id": "rd2",
+     "axis": "rd",
+     "source": "Propriétés mécaniques et physique des matériaux (262-1, 30 h), Critères de choix des matériaux (265-1, 15 h)",
+     "weight": 9,
+     "terms": [
+      "materiaux"
+     ]
+    },
+    {
+     "id": "rd7",
+     "axis": "rd",
+     "source": "Recyclage des matériaux (8 h), Éco-conception (842-1, 8 h), Enjeux DDRS (838-1, 20 h)",
+     "weight": 4,
+     "terms": [
+      "decarbonation",
+      "economie circulaire"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "ingenieur",
+      "materiaux"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "automobile"
      ],
      "points": 5
     },
@@ -3788,7 +3771,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-19T13:48:04Z",
    "sector": "",
-   "specialization": "[\"60\",\"149\",\"208\",\"264\"]",
+   "specialization": "60, 149, 208, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -4952,7 +4935,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T07:35:28Z",
    "sector": "",
-   "specialization": "155, 208, 209",
+   "specialization": "[\"155\",\"208\",\"209\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5186,7 +5169,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-01T14:34:14Z",
    "sector": "",
-   "specialization": "[\"149\"]",
+   "specialization": "149",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5823,7 +5806,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-26T10:16:33Z",
    "sector": "",
-   "specialization": "114",
+   "specialization": "[\"114\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6139,6 +6122,118 @@
    ]
   },
   {
+   "id": "248454",
+   "title": "Ingénieur excellence opérationnelle et industrialisation F/H (H/F)",
+   "company": "ORANO MINING",
+   "country": "ETATS-UNIS",
+   "city": "BROWNSBURG - IN",
+   "description": "Rattaché(e) au Directeur de la Performance Industrielle d'Orano Med, vous êtes responsable de l'industrialisation, l'optimisation et la transformation numérique du site ATLab Indianapolis.\n\n Responsabilités Principales\n\n Industrialisation\n * Gérer la mise en production de nouveaux processus et l'amélioration des processus existants (montée en échelle, validation, amélioration continue)\n * Analyser les problèmes de production et mettre en place des solutions correctives et préventives durables\n * Collecter et analyser les données de production pour identifier les opportunités d'amélioration\n * Coordonner avec les équipes Opérations, Maintenance, Ingénierie et Qualité pour assurer le bon fonctionnement du site\n\n Excellence Opérationnelle\n * Conduire les projets d'amélioration continue (Lean, Kaizen)\n * Accompagner les changements et développer une culture d'excellence\n * Suivre les indicateurs clés de performance (délais, rendement, taux de succès des lots, OTIF)\n * Optimiser les processus et tester de nouvelles méthodes ou technologies\n\n Numérisation\n * Mettre en place et optimiser les outils numériques (système de commande de doses, plateformes de données) en collaboration avec les équipes Opérations, Qualité et IT",
+   "mission": "",
+   "profile": "Vous êtes diplômé(e) d'une école d'ingénieur (ou équivalent universitaire) en Génie Industriel, Génie des Procédés, Génie Mécanique, ou domaine similaire\n * Vous avez une première expérience en environnement industriel (stage, apprentissage ou premier emploi)\n * Si vous avez une expérience avec des projets d'industrialisation, d'amélioration continue ou de numérisation, c'est un vrai atout pour ce poste. \n\n Compétences techniques : \n * Connaissance des principes Lean et des outils de résolution de problèmes\n * Maîtrise d'Excel\n * Connaissance de Power BI ou d'autres outils d'analyse de données (un plus)\n\n Qualités humaines :\n * Esprit analytique\n * Curiosité et attitude proactive\n * Volonté d'apprendre auprès de collègues expérimentés\n * Bon relationnel et capacité à travailler en équipe, entre différentes fonctions et cultures\n * Anglais courant (écrit et oral)",
+   "duration": 12,
+   "start_date": "2027-02-01T00:00:00",
+   "end_date": "2028-02-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-11-18T13:30:17Z",
+   "sector": "",
+   "specialization": "[\"206\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-11-18T13:30:17Z",
+    "missionStartDate": "2027-02-01T00:00:00",
+    "missionEndDate": "2028-02-01T00:00:00",
+    "startBroadcastDate": "2026-11-18T00:00:00",
+    "endBroadcastDate": "2026-12-18T00:00:00"
+   },
+   "summary": "Rattaché(e) au Directeur de la Performance Industrielle d'Orano Med, vous êtes responsable de l'industrialisation, l'optimisation et la transformation numérique du site ATLab Indianapolis.\n\n Responsabilités Principales\n\n Industrialisation\n * Gérer la mise en production de nouveaux processus et l'amélioration des processus existants (montée en échelle, validation, amélioration continue)\n * Analyser les problèmes de production et mettre en place des solutions correctives et préventives durables\n * Collecter et analyser les données de production pour identifier les opportunités d'amélioration\n * Coordonner avec les équipes Opérations, Maintenance, Ingénierie et Qualité pour assurer le bon fonctionnement du site\n\n Excellence Opérationnelle\n * Conduire les projets d'amélioration continue (Lean, Kaizen)\n * Accompagner les changements et développer une culture d'excellence\n * Suivre les indicateurs clés de performance (délais, rendement, taux de succès des lots, OTIF)\n * Optimiser les processus et tester de nouvelles méthodes ou technologies\n\n Numérisation […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/248454",
+   "score": 61,
+   "label": "Bonne adéquation",
+   "first_seen": "2026-11-18T15:38:10+00:00",
+   "axis_scores": {
+    "rd": 9,
+    "prod": 59,
+    "qual": 8,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod4",
+     "axis": "prod",
+     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
+     "weight": 10,
+     "terms": [
+      "industrialisation"
+     ]
+    },
+    {
+     "id": "prod5",
+     "axis": "prod",
+     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
+     "weight": 4,
+     "terms": [
+      "kaizen",
+      "lean"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "amelioration continue",
+      "ingenierie",
+      "methodes"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "qualite",
+      "validation"
+     ]
+    },
+    {
+     "id": "rd9",
+     "axis": "rd",
+     "source": "Vocabulaire de laboratoire courant",
+     "weight": 3,
+     "terms": [
+      "resolution de problemes"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "industrialisation",
+      "ingenieur"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "industriel",
+      "mecanique"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
    "id": "247278",
    "title": "VIE - Methods Engineer - Uccle (H/F)",
    "company": "SCHNEIDER ELECTRIC INDUSTRIES SAS",
@@ -6263,7 +6358,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T07:31:41Z",
    "sector": "",
-   "specialization": "206",
+   "specialization": "[\"206\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -7210,6 +7305,106 @@
    ]
   },
   {
+   "id": "248448",
+   "title": "Industrialization Engineer H/F (H/F)",
+   "company": "HUTCHINSON",
+   "country": "POLOGNE",
+   "city": "LODZ",
+   "description": "Localisé au cœur de l’Europe avec des accès aux trois grands marchés mondiaux, la division AVS LODZ 2 emploie près de 160 personnes. Elle réalise un chiffre d’affaires annuel de 34 millions d’euros et produit des éléments antivibratoires à haute valeur technique pour toutes les grandes marques automobiles. \nAfin d’accompagner les mutations de son activité et l’orientation vers l’excellence industrielle, le département Antivibratoire recherche un(e) ingénieur(e) industrialisation pour accompagner l’arrivée de nouveaux projets mais aussi accompagner la rationalisation du schéma industriel de la division Europe (3 sites : 2 en France, 1 \nen Pologne).\n\nRapportant au Business unit manager et travaillant conjointement avec les services méthodes, qualité et management de projet le VIE sera garant de l’industrialisation des projets en phase de démarrage/ transfert : \n• Définition des moyens à mettre en œuvre \n• Démarrage sur site avec réalisation des échantillons initiaux pour validation (en accord avec les \nprocédures de la division) \n• Création des instructions de travail et formation des opérateurs \n• Suivi des budget alloués et rentabilité des produits",
+   "mission": "",
+   "profile": "- Ingénieur généraliste / mécanique \n- Anglais courant \n- Compétence en CAD / dessins technique \n- Management de projet \n- Pragmatique, autonome, flexible \n\nDe nombreux voyages à prévoir entre la France et la Pologne.",
+   "duration": 24,
+   "start_date": "2027-02-01T00:00:00",
+   "end_date": "2029-02-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-11-18T09:19:15Z",
+   "sector": "",
+   "specialization": "[\"149\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-11-18T09:19:15Z",
+    "missionStartDate": "2027-02-01T00:00:00",
+    "missionEndDate": "2029-02-01T00:00:00",
+    "startBroadcastDate": "2026-11-18T00:00:00",
+    "endBroadcastDate": "2026-12-18T00:00:00"
+   },
+   "summary": "Localisé au cœur de l’Europe avec des accès aux trois grands marchés mondiaux, la division AVS LODZ 2 emploie près de 160 personnes. Elle réalise un chiffre d’affaires annuel de 34 millions d’euros et produit des éléments antivibratoires à haute valeur technique pour toutes les grandes marques automobiles. \nAfin d’accompagner les mutations de son activité et l’orientation vers l’excellence industrielle, le département Antivibratoire recherche un(e) ingénieur(e) industrialisation pour accompagner l’arrivée de nouveaux projets mais aussi accompagner la rationalisation du schéma industriel de la division Europe (3 sites : 2 en France, 1 \nen Pologne). […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/248448",
+   "score": 56,
+   "label": "Bonne adéquation",
+   "first_seen": "2026-11-18T15:38:10+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 45,
+    "qual": 8,
+    "calc": 20
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "calc2",
+     "axis": "calc",
+     "source": "CAO (278-1, 30 h), Conception mécanique (264-1, 43 h)",
+     "weight": 9,
+     "terms": [
+      "cad"
+     ]
+    },
+    {
+     "id": "prod4",
+     "axis": "prod",
+     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
+     "weight": 10,
+     "terms": [
+      "industrialisation",
+      "industrialization"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "methodes"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "qualite",
+      "validation"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "engineer"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "industriel",
+      "mecanique"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
    "id": "247318",
    "title": "Ingénieur mécanique (H/F)",
    "company": "MOONGY",
@@ -7642,7 +7837,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-10T14:07:59Z",
    "sector": "",
-   "specialization": "[\"49\",\"109\",\"125\",\"149\",\"150\",\"169\",\"206\",\"207\",\"262\",\"264\"]",
+   "specialization": "49, 109, 125, 149, 150, 169, 206, 207, 262, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -7842,6 +8037,110 @@
       "automotive",
       "energy",
       "industrial"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
+   "id": "242227",
+   "title": "Ingénieur conception mécanique (H/F)",
+   "company": "FRATECH RP",
+   "country": "BELGIQUE",
+   "city": "BRUXELLES",
+   "description": "HOUSE OF ABY, groupe d'ingénierie et de conseil présent dans 9 pays, réunit 11 marques (Abylsen, ABMI, Pharmacos…) et s'appuie sur 4 grands piliers : Engineering (expertise technique et ingénierie de pointe), Solutions (développement et mise en œuvre de solutions adaptées), Digital (innovation et transformation numérique) et Advisory (conseil stratégique RH/QRSE).\r\n \r\nNous opérons dans 8 secteurs clés, dont l’aéronautique - spatial, l’automobile, la défense, l’énergie, le BTP – Infrastructure – Ferroviaire, l’IT – Télécommunications, Life Sciences, Banque – Finance – Assurances.\r\n \r\nDescription du poste :\r\n\r\n- Participer à la conception et au développement de composants et ensembles mécaniques complexes à l’aide de logiciel.\r\n\r\n- Gérer la documentation technique via l’outil Windchill\r\n\r\n- Veiller à la conformité des conceptions avec les standards industriels, les spécifications techniques et les procédures internes\r\n\r\n- Contribuer à l’amélioration continue des processus de développement et du cycle de vie produit\r\n\r\n- Concevoir des systèmes de câblage électrique (définition du routage, intégration dans les structures mécaniques, sélection des connecteurs)\r\n\r\n- Réaliser des modèles 3D et des dessins techniques\r\n\r\n- Collaborer activement avec les équipes design, production et qualité afin d’assurer la faisabilité technique du projet",
+   "mission": "",
+   "profile": "Votre profil :\r\n\r\n- Vous maitrisez parfaitement le français, et l’anglais professionnel\r\n\r\n- Vous disposez d’une formation supérieure en ingénierie mécanique ou domaine équivalent\r\n\r\n- Vous justifiez une expérience solide notamment en modélisation 3D, gestion d’assemblages et création de plans\r\n\r\n- Une expérience dans les secteurs de l’aéronautique, du ferroviaire ou de la défense sera considérée comme un plus.\r\n\r\nVous souhaitez contribuer à des projets d’envergure dans les secteurs de l'aéronautiques et industries ? N’attendez plus pour postuler !\r\n \r\nVous bénéficierez également d’un parcours de formation personnalisé afin de développer vos compétences et d’accompagner votre évolution professionnelle.\r\n \r\nLe process de recrutement\r\n \r\nLe processus débute par un échange téléphonique, suivi d’un entretien avec un Talent Acquisition Officer. Vous rencontrerez ensuite un Business Manager, avant un dernier entretien permettant de finaliser le processus et, le cas échéant, de vous présenter une proposition de contrat.\r\n \r\nDans le cadre de l'égalité des chances, toutes nos offres d'emploi sont ouvertes aux personnes en situation de handicap.",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-04-13T15:23:11Z",
+   "sector": "",
+   "specialization": "[\"77\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-04-13T15:23:11Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-11-18T00:00:00",
+    "endBroadcastDate": "2026-12-18T00:00:00"
+   },
+   "summary": "HOUSE OF ABY, groupe d'ingénierie et de conseil présent dans 9 pays, réunit 11 marques (Abylsen, ABMI, Pharmacos…) et s'appuie sur 4 grands piliers : Engineering (expertise technique et ingénierie de pointe), Solutions (développement et mise en œuvre de solutions adaptées), Digital (innovation et transformation numérique) et Advisory (conseil stratégique RH/QRSE).\r\n \r\nNous opérons dans 8 secteurs clés, dont l’aéronautique - spatial, l’automobile, la défense, l’énergie, le BTP – Infrastructure – Ferroviaire, l’IT – Télécommunications, Life Sciences, Banque – Finance – Assurances.\r\n \r\nDescription du poste :\r\n\r\n- Participer à la conception et au développement de composants et ensembles mécaniques complexes à l’aide de logiciel.\r\n\r\n- Gérer la documentation technique via l’outil Windchill\r\n\r\n- Veiller à la conformité des conceptions avec les standards industriels, les spécifications techniques et les procédures internes\r\n\r\n- Contribuer à l’amélioration continue des processus de développement et du cycle de vie produit […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/242227",
+   "score": 54,
+   "label": "Bonne adéquation",
+   "first_seen": "2026-11-18T15:38:10+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 10,
+    "qual": 8,
+    "calc": 47
+   },
+   "dominant_axis": "calc",
+   "matched_families": [
+    {
+     "id": "calc1",
+     "axis": "calc",
+     "source": "Éléments finis (256-1, 24 h), TP simulation numérique (272-1, 285-5, 285-4, 63 h), Calculs numériques de mise en forme (277-1, 286-1, 50 h)",
+     "weight": 12,
+     "terms": [
+      "modelisation"
+     ]
+    },
+    {
+     "id": "calc2",
+     "axis": "calc",
+     "source": "CAO (278-1, 30 h), Conception mécanique (264-1, 43 h)",
+     "weight": 9,
+     "terms": [
+      "conception mecanique"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "amelioration continue",
+      "engineering",
+      "ingenierie"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "conformite",
+      "qualite",
+      "standards"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "ingenieur",
+      "mecanique"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "aeronautique",
+      "automobile",
+      "defense"
      ],
      "points": 5
     },
@@ -8372,7 +8671,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-19T14:31:40Z",
    "sector": "",
-   "specialization": "64, 76, 77, 149, 244, 264",
+   "specialization": "[\"64\",\"76\",\"77\",\"149\",\"244\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8487,15 +8786,15 @@
    "expiry_date": "",
    "publish_date": "2026-11-12T08:00:30Z",
    "sector": "",
-   "specialization": "71",
+   "specialization": "[\"71\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-11-12T08:00:30Z",
     "missionStartDate": "2027-02-01T00:00:00",
     "missionEndDate": "2029-02-01T00:00:00",
-    "startBroadcastDate": "2026-11-13T00:00:00",
-    "endBroadcastDate": "2026-12-13T00:00:00"
+    "startBroadcastDate": "2026-11-18T00:00:00",
+    "endBroadcastDate": "2026-12-18T00:00:00"
    },
    "summary": "Réaliser des études de conception, de rénovation et d'optimisation des installations électriques et des systèmes de distribution d'énergie.\n\nDéfinir les dimensionnements, les spécifications techniques et les architectures des équipements électriques : générateurs, transformateurs, moteurs, tableaux électriques, alimentations de secours et câblages.\n\nRédiger les cahiers des charges et les spécifications techniques des équipements et prestations électriques.\n\nAnalyser les offres techniques et assurer la coordination avec les fournisseurs, les sous-traitants et les autres disciplines d'ingénierie.\n\nRéaliser des études techniques et des simulations afin d'identifier des solutions adaptées aux problématiques électriques complexes.\n\nParticiper aux évaluations techniques, aux essais de réception en usine (FAT), au suivi des installations sur site et aux activités de mise en service.\n\nVeiller au respect des normes électriques, des réglementations applicables et des exigences de sécurité.\n\nContribuer à l'amélioration continue des méthodes et des pratiques d'ingénierie électrique.",
    "url": "https://mon-vie-via.businessfrance.fr/offres/248249",
@@ -8661,192 +8960,6 @@
    ]
   },
   {
-   "id": "248064",
-   "title": "Industrie Automobile : Monter en compétence vers un poste de Responsable Opérationnel (F/H) (H/F)",
-   "company": "SCODER",
-   "country": "TCHEQUIE / REPUBLIQUE TCHEQUE",
-   "city": "PLZEN",
-   "description": "Contexte : Rejoindre notre filiale en République Tchèque pour renforcer l’équipe présente (1 Plant Manager + 30 opérateurs) – Organisation sur 3 équipes, ramp up de nouveaux projets et de volumes importants attendus pour l’industrie automobile \nSite travaillant pour le secteur de l’automobile sur des procédés de soudage robotisé.\n\nNotre objectif sera de trouver un(e) candidat(e) souhaitant monter en compétence dans notre domaine d’activités. La taille de notre site en République Tchèque permettra au candidat de se former et d’être former à tous les métiers en lien avec la production en grande série de pièces de sécurité pour l’industrie Automobile : Production/maintenance/qualité/logistique/amélioration continue/Gestion des audits\n\n Missions de 2 ans : \nLe/la candidat(e) aura pour mission d’être le support du Plant Manager du site. Au fur et à mesure de l’avancé de sa mission, le candidat acquerra de plus en plus d’autonomie sur les différents sujets et métiers de notre industrie jusqu’à possiblement être le responsable opérationnel du site (production / logistique / maintenance).\n\nLe/la candidat(e) découvrira dans un 1er temps tous les postes de l’usine : Operateur/team leader/qualité/maintenance/logistique pour connaître l’activité du site.\n\nPoste à forte consonnance opérationnelle : nous recherchons une personne motivée pour évoluer rapidement en compétence opérationnelle. Nos bureaux sont au milieu de la production afin d’appréhender rapidement et réagir efficacement à toute problématique liée à l’exigence de notre métier.\n\nProfil type : Ingénieur/BTS/DUT, idéalement mécanicien, fort esprit logique demandé.\n\nCompétences techniques : mécanique ; informatique ; anglais\n\nCompétences relationnelles : \nNous attendons une personne flexible, avec de bonnes capacités de communication, structurée et organisée. \n Le respect est une valeur fondamentale de l’entreprise.\n\nPermis B et véhicule nécessaire.\n\nPossibilité d’embauche à l’issue du VIE, sur site Scoder FR ou CZ ou sur sites du Groupe R.Bourgeois. Possibilité de poursuite d’études supérieures en alternance si le profil du candidat est intéressant.\n\n Présentation société + secteur d’activité\n\nRBOURGEOIS SCODER CZ\nR.Bourgeois Scoder CZ S.R.O, filiale de Scoder France basée en République Tchèque, est située dans la ville de Plzen et dans la zone industrielle de Borska pole. R.Bourgeois Scoder CZ est à une distance de 70 kilomètres de la frontière Allemande (Rozvadov) et 70 Kilomètres de la capitale Prague.\nSite à taille humaine, situé dans une ville d’environ 140 000 habitants.\nImportante ville étudiante, un gros pôle de VIE et ERASMUS présent, permettront aux candidats d’apprécier les joies de la vie en République Tchèque.\n\nNotre position géographique centrale nous permet d’être au milieu du trajet logistique Europe de l’Ouest/Europe Centrale/Europe de l’Est et au cœur d’une zone industrielle extrêmement dynamique et attractive.\n\nLe capital de la société Scoder est détenu par la famille de M et Mme Bourgeois et ses enfants. La société Raymond Bourgeois dispose de 4 sites de production dans le monde : France, Chine, Mexique, Suisse ; 30% du capital de R.Bourgeois est détenu par le groupe Arcelor-Mittal. R.Bourgeois est spécialisé dans la production de circuits magnétiques, et particulièrement aujourd’hui sur tous les sujets concernés par l’électromobilité.\n\nLa filiale Tchèque de Scoder a été fondée en 2005 grâce à l’arrivée d’un projet avec de grands volumes pour l’industrie Automobile. \nSuite à la demande de notre client, nous avons installé nos machines d’assemblage automatisées au sein même du site de notre client jusqu’en Novembre 2014, pour ensuite continuer de se développer avec d’autres clients.",
-   "mission": "",
-   "profile": "Profil type : Ingénieur/BTS/DUT, idéalement mécanicien, fort esprit logique demandé.\n\nCompétences techniques : mécanique ; informatique ; anglais\n\nCompétences relationnelles : \nNous attendons une personne flexible, avec de bonnes capacités de communication, structurée et organisée. \n Le respect est une valeur fondamentale de l’entreprise.\n\nPermis B et véhicule nécessaire.\n\nPossibilité d’embauche à l’issue du VIE, sur site Scoder FR ou CZ ou sur sites du Groupe R.Bourgeois. Possibilité de poursuite d’études supérieures en alternance si le profil du candidat est intéressant.",
-   "duration": 24,
-   "start_date": "2027-03-01T00:00:00",
-   "end_date": "2029-03-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-11-06T15:11:20Z",
-   "sector": "",
-   "specialization": "77",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-11-06T15:11:20Z",
-    "missionStartDate": "2027-03-01T00:00:00",
-    "missionEndDate": "2029-03-01T00:00:00",
-    "startBroadcastDate": "2026-11-09T00:00:00",
-    "endBroadcastDate": "2026-12-09T00:00:00"
-   },
-   "summary": "Contexte : Rejoindre notre filiale en République Tchèque pour renforcer l’équipe présente (1 Plant Manager + 30 opérateurs) – Organisation sur 3 équipes, ramp up de nouveaux projets et de volumes importants attendus pour l’industrie automobile \nSite travaillant pour le secteur de l’automobile sur des procédés de soudage robotisé.\n\nNotre objectif sera de trouver un(e) candidat(e) souhaitant monter en compétence dans notre domaine d’activités. La taille de notre site en République Tchèque permettra au candidat de se former et d’être former à tous les métiers en lien avec la production en grande série de pièces de sécurité pour l’industrie Automobile : Production/maintenance/qualité/logistique/amélioration continue/Gestion des audits\n\n Missions de 2 ans : \nLe/la candidat(e) aura pour mission d’être le support du Plant Manager du site. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/248064",
-   "score": 52,
-   "label": "Bonne adéquation",
-   "first_seen": "2026-11-09T16:15:07+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 69,
-    "qual": 8,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
-     "weight": 10,
-     "terms": [
-      "plant",
-      "usine"
-     ]
-    },
-    {
-     "id": "prod3",
-     "axis": "prod",
-     "source": "Assemblage des matériaux (297-2, 30 h)",
-     "weight": 7,
-     "terms": [
-      "assemblage",
-      "soudage"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "amelioration continue"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "qualite"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "automobile",
-      "mecanique"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
-   "id": "248063",
-   "title": "Industrie Automobile : Monter en compétence vers un poste de Responsable Opérationnel (F/H) (H/F)",
-   "company": "SCODER",
-   "country": "MAROC",
-   "city": "TANGER",
-   "description": "Contexte : Rejoindre notre filiale au Maroc pour renforcer l’équipe présente (1 Plant Manager + 15 opérateurs) – Organisation sur 3 équipes, ramp up de nouveaux projets et de volumes importants attendus pour l’industrie automobile \nSite travaillant pour le secteur de l’automobile sur des procédés de soudage robotisé.\n\nNotre objectif sera de trouver un(e) candidat(e) souhaitant monter en compétence dans notre domaine d’activités. La taille de notre site au Maroc permettra au candidat de se former et d’être former à tous les métiers en lien avec la production en grande série de pièces de sécurité pour l’industrie Automobile : Production / maintenance / qualité / logistique / amélioration continue / Gestion des audits.\n\nMission de 12 mois renouvelable 12 mois : Le/la candidat(e) aura pour mission d’être le support du Plant Manager du site. Au fur et à mesure de l’avancé de sa mission, le candidat acquerra de plus en plus d’autonomie sur les différents sujets et métiers de notre industrie jusqu’à possiblement être le responsable opérationnel du site (production / logistique / maintenance).\n\nLe/la candidat(e) découvrira dans un 1er temps tous les postes de l’usine : Operateur/team leader/qualité/maintenance/logistique pour connaître l’activité du site.\n\nPoste à forte consonnance opérationnelle : nous recherchons une personne motivée pour évoluer rapidement en compétence opérationnelle. Nos bureaux sont au milieu de la production afin d’appréhender rapidement et réagir efficacement à toute problématique liée à l’exigence de notre métier.\n\nProfil type : Ingénieur/BTS/DUT, idéalement mécanicien(ne), fort esprit logique demandé.\n\nCompétences techniques : mécanique ; informatique ; anglais ; Darija est un plus\n\nCompétences relationnelles : \nNous attendons une personne flexible, avec de bonnes capacités de communication, structurée et organisée. \nLe respect est une valeur fondamentale de l’entreprise.\n\nPermis B et véhicule nécessaire.\n\nPossibilité d’embauche à l’issue du VIE, sur site Scoder FR, CZ, Maroc ou sur sites du Groupe R.Bourgeois. Possibilité de poursuite d’études supérieures en alternance si le profil du candidat est intéressant.\n\nPrésentation société + secteur d’activité\n\nRBOURGEOIS SCODER Maroc\nR.Bourgeois Scoder Maroc, filiale de Scoder France basée au Maroc, est située dans une zone industrielle proche de Tanger\nSite à taille humaine, situé dans une agglomération d’environ 1.4 Millon d’habitants.\nC’est une ville étudiante en pleine expansion, Tanger est pleinement intégrée au réseau international Erasmus+, ce qui permettra aux candidats d’apprécier les joies de la vie au Maroc.\n\nLe capital de la société Scoder est détenu par la famille de M et Mme Bourgeois et ses enfants. La société Raymond Bourgeois dispose de 4 sites de production dans le monde : France, Chine, Mexique, Suisse ; 30% du capital de R.Bourgeois est détenu par le groupe Arcelor-Mittal. R.Bourgeois est spécialisé dans la production de circuits magnétiques, et particulièrement aujourd’hui sur tous les sujets concernés par l’électromobilité.\n\nLa filiale Maroc de Scoder sera fondée début 2026 grâce à l’arrivée d’un projet avec de grands volumes pour l’industrie Automobile. \nSuite à la demande de notre client, nous installons nos machines d’assemblage automatisées au sein de la même ville que notre client, pour ensuite continuer de se développer avec d’autres clients.",
-   "mission": "",
-   "profile": "Profil type : Ingénieur/BTS/DUT, idéalement mécanicien(ne), fort esprit logique demandé.\n\nCompétences techniques : mécanique ; informatique ; anglais ; Darija est un plus\n\nCompétences relationnelles : \nNous attendons une personne flexible, avec de bonnes capacités de communication, structurée et organisée. \n Le respect est une valeur fondamentale de l’entreprise.\n\nPermis B et véhicule nécessaire.\n\nPossibilité d’embauche à l’issue du VIE, sur site Scoder FR, CZ, Maroc ou sur sites du Groupe R.Bourgeois. Possibilité de poursuite d’études supérieures en alternance si le profil du candidat est intéressant.",
-   "duration": 12,
-   "start_date": "2027-03-01T00:00:00",
-   "end_date": "2028-03-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-11-06T15:08:15Z",
-   "sector": "",
-   "specialization": "[\"77\"]",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-11-06T15:08:15Z",
-    "missionStartDate": "2027-03-01T00:00:00",
-    "missionEndDate": "2028-03-01T00:00:00",
-    "startBroadcastDate": "2026-11-09T00:00:00",
-    "endBroadcastDate": "2026-12-09T00:00:00"
-   },
-   "summary": "Contexte : Rejoindre notre filiale au Maroc pour renforcer l’équipe présente (1 Plant Manager + 15 opérateurs) – Organisation sur 3 équipes, ramp up de nouveaux projets et de volumes importants attendus pour l’industrie automobile \nSite travaillant pour le secteur de l’automobile sur des procédés de soudage robotisé.\n\nNotre objectif sera de trouver un(e) candidat(e) souhaitant monter en compétence dans notre domaine d’activités. La taille de notre site au Maroc permettra au candidat de se former et d’être former à tous les métiers en lien avec la production en grande série de pièces de sécurité pour l’industrie Automobile : Production / maintenance / qualité / logistique / amélioration continue / Gestion des audits.\n\nMission de 12 mois renouvelable 12 mois : Le/la candidat(e) aura pour mission d’être le support du Plant Manager du site. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/248063",
-   "score": 52,
-   "label": "Bonne adéquation",
-   "first_seen": "2026-11-09T16:15:07+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 69,
-    "qual": 8,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
-     "weight": 10,
-     "terms": [
-      "plant",
-      "usine"
-     ]
-    },
-    {
-     "id": "prod3",
-     "axis": "prod",
-     "source": "Assemblage des matériaux (297-2, 30 h)",
-     "weight": 7,
-     "terms": [
-      "assemblage",
-      "soudage"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "amelioration continue"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "qualite"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "automobile",
-      "mecanique"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "247512",
    "title": "Ingénieur en performance opérationnelle (H/F)",
    "company": "SNCF VOYAGES DEVELOPPEMENT",
@@ -8861,7 +8974,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-26T10:16:15Z",
    "sector": "",
-   "specialization": "130",
+   "specialization": "[\"130\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9261,7 +9374,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-23T09:02:41Z",
    "sector": "",
-   "specialization": "52, 66, 114, 115, 143, 148, 153",
+   "specialization": "[\"52\",\"66\",\"114\",\"115\",\"143\",\"148\",\"153\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10217,7 +10330,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-26T15:04:30Z",
    "sector": "",
-   "specialization": "[\"106\"]",
+   "specialization": "106",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10829,7 +10942,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-04T11:55:50Z",
    "sector": "",
-   "specialization": "[\"125\"]",
+   "specialization": "125",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12165,7 +12278,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-21T14:45:41Z",
    "sector": "",
-   "specialization": "60, 149, 150, 206, 207, 264",
+   "specialization": "[\"60\",\"149\",\"150\",\"206\",\"207\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12522,7 +12635,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-21T12:36:21Z",
    "sector": "",
-   "specialization": "[\"225\"]",
+   "specialization": "225",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12695,7 +12808,7 @@
    "expiry_date": "",
    "publish_date": "2025-11-19T10:45:12Z",
    "sector": "",
-   "specialization": "71",
+   "specialization": "[\"71\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -13053,97 +13166,6 @@
    ]
   },
   {
-   "id": "248361",
-   "title": "INGENIEUR METHODES JUNIOR - DESSINATEUR HF (H/F)",
-   "company": "EIFFAGE INTERNATIONAL",
-   "country": "NORVEGE",
-   "city": "KRISTIANSAND",
-   "description": "Le projet : Eiffage, par l'intermédiaire de sa filiale Eiffage Génie Civil, s'est vu attribuer par Statens Vegvesen, une société détenue par le ministère norvégien des Transports, le contrat de conception-construction du nouveau tronçon de l'autoroute urbaine E18-E39 entre Gartnerløkka et Kolsdalen à Kristiansand, en Norvège, pour un montant de plus de 234 millions d'euros (2 755 millions de couronnes norvégiennes).\n\nSur le projet E18/39 Gartnerløkka – Kolsdalen \n\nVotre rôle: assister l'ingénieur méthodes et le projet en général pour obtenir les dessins, modèles 3D et présentations nécessaires pour se conformer aux exigences du contrat \n\nMissions: \n\n- Collaborer avec les ingénieurs méthodes et les concepteurs pour comprendre les exigences et les spécifications du projet. \n \n- Créer des dessins techniques détaillés, des plans et des schémas à l'aide de logiciels de conception assistée par ordinateur (CAO) et de modèles 3D. \n\n- Veiller à l'exactitude et à l'exhaustivité des dessins, en respectant les normes industrielles et les lignes directrices du projet. \n\n- Incorporer les changements et les modifications de conception. \n \n- Examiner et réviser les dessins pour résoudre les divergences ou les erreurs. \n \n- Préparer et tenir à jour la documentation des dessins, y compris les révisions et les mises à jour. \n\n- Assurer la coordination avec les autres membres de l'équipe afin de garantir l'achèvement des tâches de dessin dans les délais impartis\n\n- Aider à la préparation des décomptes de matériaux et des devis quantitatifs. \n\n- Communiquer efficacement avec l'équipe de projet pour clarifier les exigences et répondre aux préoccupations.",
-   "mission": "",
-   "profile": "très bon niveau d'anglais\nconnaissance du milieu de la Construction\nmaitrise d'Autocad et de REVIT",
-   "duration": 12,
-   "start_date": "2027-02-01T00:00:00",
-   "end_date": "2028-02-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-11-16T10:47:04Z",
-   "sector": "",
-   "specialization": "[\"62\"]",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-11-16T10:47:04Z",
-    "missionStartDate": "2027-02-01T00:00:00",
-    "missionEndDate": "2028-02-01T00:00:00",
-    "startBroadcastDate": "2026-11-16T00:00:00",
-    "endBroadcastDate": "2026-12-16T00:00:00"
-   },
-   "summary": "Le projet : Eiffage, par l'intermédiaire de sa filiale Eiffage Génie Civil, s'est vu attribuer par Statens Vegvesen, une société détenue par le ministère norvégien des Transports, le contrat de conception-construction du nouveau tronçon de l'autoroute urbaine E18-E39 entre Gartnerløkka et Kolsdalen à Kristiansand, en Norvège, pour un montant de plus de 234 millions d'euros (2 755 millions de couronnes norvégiennes).\n\nSur le projet E18/39 Gartnerløkka – Kolsdalen \n\nVotre rôle: assister l'ingénieur méthodes et le projet en général pour obtenir les dessins, modèles 3D et présentations nécessaires pour se conformer aux exigences du contrat \n\nMissions: \n\n- Collaborer avec les ingénieurs méthodes et les concepteurs pour comprendre les exigences et les spécifications du projet. \n \n- Créer des dessins techniques détaillés, des plans et des schémas à l'aide de logiciels de conception assistée par ordinateur (CAO) et de modèles 3D. \n\n- Veiller à l'exactitude et à l'exhaustivité des dessins, en respectant les normes industrielles et les lignes directrices du projet. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/248361",
-   "score": 40,
-   "label": "À examiner",
-   "first_seen": "2026-11-16T15:42:25+00:00",
-   "axis_scores": {
-    "rd": 26,
-    "prod": 10,
-    "qual": 8,
-    "calc": 20
-   },
-   "dominant_axis": "rd",
-   "matched_families": [
-    {
-     "id": "calc2",
-     "axis": "calc",
-     "source": "CAO (278-1, 30 h), Conception mécanique (264-1, 43 h)",
-     "weight": 9,
-     "terms": [
-      "cao"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "methodes"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "normes"
-     ]
-    },
-    {
-     "id": "rd2",
-     "axis": "rd",
-     "source": "Propriétés mécaniques et physique des matériaux (262-1, 30 h), Critères de choix des matériaux (265-1, 15 h)",
-     "weight": 9,
-     "terms": [
-      "materiaux"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur",
-      "methodes"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "247439",
    "title": "VIE – CONSEILLER TECHNIQUE EN CONSTRUCTION – 12 À 24 MOIS F/H (H/F)",
    "company": "GAZTRANSPORT ET TECHNIGAZ",
@@ -13239,7 +13261,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-10T15:15:30Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -13320,7 +13342,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-10T15:10:57Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -14476,7 +14498,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-09T13:20:34Z",
    "sector": "",
-   "specialization": "[\"60\"]",
+   "specialization": "60",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -14564,7 +14586,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-20T14:14:41Z",
    "sector": "",
-   "specialization": "[\"70\"]",
+   "specialization": "70",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -15384,7 +15406,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-04T10:47:36Z",
    "sector": "",
-   "specialization": "[\"149\",\"150\",\"244\"]",
+   "specialization": "149, 150, 244",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -15599,7 +15621,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-28T07:30:04Z",
    "sector": "",
-   "specialization": "71",
+   "specialization": "[\"71\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -16112,7 +16134,7 @@
    "expiry_date": "",
    "publish_date": "2025-11-12T08:45:10Z",
    "sector": "",
-   "specialization": "149, 208, 209",
+   "specialization": "[\"149\",\"208\",\"209\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -17117,7 +17139,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-10T14:00:20Z",
    "sector": "",
-   "specialization": "73",
+   "specialization": "[\"73\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -18545,95 +18567,6 @@
    ]
   },
   {
-   "id": "156182",
-   "title": "INGENIEUR PROJETS (H/F)",
-   "company": "SERIMAX",
-   "country": "MALAISIE",
-   "city": "KUALA LUMPUR",
-   "description": "SERIMAX est une société de premier plan au niveau mondial dans le domaine des solutions de soudage de pipelines. Avec plus de 800 collaborateurs, nos équipes sont réparties dans le monde entier : Europe, États-Unis, Asie du Sud-Est et Afrique.\r\n\r\nAu sein de cette organisation, la région EMEA-CIS (Europe, Afrique, Moyen-Orient et Communauté des États indépendants), dont le siège est basé à Roissy-en-France (95), recrute pour son entité en Malaisie dans la Région APAC un(e) VIE Ingénieur Projets pour une durée de de 24 mois.\r\n\r\nL’Ingénieur Projet supervise la gestion et la coordination de toutes les phases du projet, tant en interne (relations avec les Ingénieurs Soudage, le Support Projet, la Logistique, etc.) qu’en externe (relations avec les clients et les sous-traitants).\r\n\r\nRattaché(e) au Responsable du Département Projets, vous aurez pour principales missions :\r\n\r\nVeiller à travailler en toute sécurité et à disposer des outils et équipements adaptés à vos activités. Vous exercerez cette responsabilité avec rigueur dans une démarche d’amélioration continue.\r\n\r\nGérer la relation client afin de garantir le respect de l’ensemble des engagements contractuels.\r\n\r\nPréparer les réunions de lancement de projet (Kick-Off Meetings) avec les différentes parties prenantes (Asset Engineer, Project Manager, Technical Coordinator, Ingénieurs Soudeurs, etc.).\r\n\r\nÉlaborer et produire les rapports nécessaires au niveau régional et groupe.\r\n\r\nAssurer le respect des coûts, identifier les leviers de réduction ou d’élimination des coûts variables et contribuer à la rentabilité globale des projets.\r\n\r\nRépondre aux demandes des clients concernant les travaux supplémentaires et veiller à ce que les étapes nécessaires soient réalisées dans les délais impartis et dans le respect du budget.\r\n\r\nAssurer la coordination avec l’ensemble des fonctions support avant et pendant l’exécution des projets.",
-   "mission": "",
-   "profile": "Profil recherché : \nVous avez un diplome d'ingénieur, une connaisssance dans le soudage avec une certification professionnelle serait un plus.\nVous avez une expérience dans la gestion de projet et de préférence dans le secteur de l'Oil & Gas ou de l'industrie.\nVous avez le sens du service client et avez travaillé dans un environnement international.\nBon niveau en anglais et compétences en communication.\nBon sens de l'organisation pour la préparation des projets et la coordination des différents départements. Définir les points critiques et priorités pour la préparation du ou des projet(s) en charge.\nAvoir de bonnes compétences dans la gestion des plannings et ressources, le/la VIE sera amené(e) à être réactif(ve) quand aux fréquents changements de planning et la réorganisation des tâches et priorités.\nSavoir travailler sous pression avec des plannings serrées.\nFaire preuve de pragmatisme pour la résolution des problèmes pouvant survenir au quotidien et la mise en place d'actions correctives à long terme.",
-   "duration": 24,
-   "start_date": "2027-02-01T00:00:00",
-   "end_date": "2029-02-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2024-06-26T16:57:21Z",
-   "sector": "",
-   "specialization": "77",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2024-06-26T16:57:21Z",
-    "missionStartDate": "2027-02-01T00:00:00",
-    "missionEndDate": "2029-02-01T00:00:00",
-    "startBroadcastDate": "2026-10-21T00:00:00",
-    "endBroadcastDate": "2026-11-20T00:00:00"
-   },
-   "summary": "SERIMAX est une société de premier plan au niveau mondial dans le domaine des solutions de soudage de pipelines. Avec plus de 800 collaborateurs, nos équipes sont réparties dans le monde entier : Europe, États-Unis, Asie du Sud-Est et Afrique.\r\n\r\nAu sein de cette organisation, la région EMEA-CIS (Europe, Afrique, Moyen-Orient et Communauté des États indépendants), dont le siège est basé à Roissy-en-France (95), recrute pour son entité en Malaisie dans la Région APAC un(e) VIE Ingénieur Projets pour une durée de de 24 mois.\r\n\r\nL’Ingénieur Projet supervise la gestion et la coordination de toutes les phases du projet, tant en interne (relations avec les Ingénieurs Soudage, le Support Projet, la Logistique, etc.) qu’en externe (relations avec les clients et les sous-traitants).\r\n\r\nRattaché(e) au Responsable du Département Projets, vous aurez pour principales missions :\r\n\r\nVeiller à travailler en toute sécurité et à disposer des outils et équipements adaptés à vos activités. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/156182",
-   "score": 35,
-   "label": "À examiner",
-   "first_seen": "2026-10-21T18:37:56+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 34,
-    "qual": 8,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod3",
-     "axis": "prod",
-     "source": "Assemblage des matériaux (297-2, 30 h)",
-     "weight": 7,
-     "terms": [
-      "soudage"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "amelioration continue"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "certification"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Formation exigée hors cursus : score plafonné",
-     "terms": [
-      "gestion"
-     ],
-     "points": -5,
-     "cap": 35
-    }
-   ]
-  },
-  {
    "id": "247391",
    "title": "Construction Engineer / Project Manager High-Tech Industrial Buildings (H/F)",
    "company": "SETEC ADVICE & SERVICES",
@@ -19392,114 +19325,6 @@
    ]
   },
   {
-   "id": "247001",
-   "title": "Scientific Data Analyst (H/F)",
-   "company": "UCB PHARMA",
-   "country": "BELGIQUE",
-   "city": "BRAINE L ALLEUD",
-   "description": "UCB cherchant à développer son pôle biopharmaceutique en Belgique a besoin de ressources humaines aux compétences spécifiques afin de gérer depuis ce pôle la production de ses produits actifs dans le traitement des maladies auto-immunes. UCB France cherche dès lors à renforcer les compétences locales par des ressources en VIE, dans un but de maîtrise et d'optimisation de la compétitivité de ses productions, distribuées à l'échelle mondiale.\n\nVous êtes passionné(e) par la transformation des données scientifiques complexes en informations exploitables ? Vous souhaitez jouer un rôle clé dans la digitalisation du développement pharmaceutique ? Rejoignez UCB et contribuez, grâce à la science et à la technologie, à améliorer la vie des patients.\n\nLe poste\n\nAu sein de l’équipe CMC Development Digital Sciences, vous soutiendrez le développement de procédés de fabrication robustes et performants en valorisant pleinement les données générées en laboratoire. Vous serez l’interlocuteur privilégié des scientifiques pour concevoir et mettre en œuvre des solutions de visualisation et d’analyse des données.\n\nVos principales missions\n🔹 Compréhension des besoins scientifiques\n\n- Collaborer avec des équipes pluridisciplinaires pour cerner leurs besoins en visualisation de données, analyses et génération automatisée de rapports.\n\n- Veiller à ce que ces besoins contribuent à une meilleure compréhension des produits et procédés, et à l’accélération des projets.\n\n🔹 Conception et mise en œuvre de solutions\n\n- Définir des solutions adaptées en exploitant les plateformes digitales déjà en place chez UCB.\n\n- Promouvoir des approches harmonisées et standardisées.\n\n- Développer des prototypes pour valider certaines hypothèses ou faciliter la communication avec les utilisateurs.\n\n🔹 Validation, déploiement et accompagnement\n\n- Coordonner les activités de validation pour garantir la fiabilité des solutions mises en place.\n\n- Assurer leur déploiement et former les utilisateurs afin d’intégrer pleinement ces outils dans leur quotidien.\n\nLe(la) volontaire sera chargé(e) de :\n- Collaborer avec les scientifiques pour définir leurs besoins en termes d'analyse et de visualisation de données\n- Déterminer les solutions les plus appropriées pour répondre à ces besoins\n- Mettre en oeuvre ces solutions, depuis leur prototypage jusqu'à leur validation et industrialisation\n- Coordonner les activités de partenaires externes lorsque nécessaire\n- Accompagner le changement pour assurer une utilisation optimale des solutions en place",
-   "mission": "",
-   "profile": "Votre profil\n🔹 Compétences personnelles et attitude:\n\n- Une véritable passion pour la visualisation et l’analyse de données, à la fois sur le plan théorique et pratique.\n- Une forte capacité à comprendre les besoins des scientifiques et à fédérer les parties prenantes autour d’objectifs communs.\n- D’excellentes aptitudes en communication, y compris la capacité à vulgariser des sujets complexes.\n- Une grande autonomie dans l’organisation de votre travail ainsi qu’une capacité à coordonner les activités de partenaires internes ou externes.\n- Une exigence élevée en matière de qualité : vous ne transigez jamais sur la rigueur et la fiabilité des solutions livrées.\n- Et surtout : une curiosité naturelle, l’envie de tester, d’innover et d’apprendre de vos expériences.\n🔹 Compétences techniques:\n- Maîtrise pratique d’au moins un langage de programmation : Python et/ou R.\n- Bonnes connaissances des bases de données et du langage SQL.\n- Capacité à choisir et concevoir des visualisations de données pertinentes selon le type d’analyse.\n- Connaissances théoriques en analyse multivariée (ex. : analyse en composantes principales).\n- Une expérience avec des outils de visualisation comme Power BI, Spotfire ou Qlik Sense est un atout.\n- Maîtrise professionnelle du français et de l’anglais, à l’écrit comme à l’oral.\n🔹 Formation & expérience\n- Diplôme de niveau Master (ou équivalent) dans un domaine pertinent.\n- Une première expérience d’au moins 24 mois, en contexte académique ou industriel, dans une fonction similaire ou connexe.",
-   "duration": 12,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-13T09:28:11Z",
-   "sector": "",
-   "specialization": "86, 113, 123, 138, 144, 248, 256, 327, 332, 335, 367",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-13T09:28:11Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-11-09T00:00:00",
-    "endBroadcastDate": "2026-12-09T00:00:00"
-   },
-   "summary": "UCB cherchant à développer son pôle biopharmaceutique en Belgique a besoin de ressources humaines aux compétences spécifiques afin de gérer depuis ce pôle la production de ses produits actifs dans le traitement des maladies auto-immunes. UCB France cherche dès lors à renforcer les compétences locales par des ressources en VIE, dans un but de maîtrise et d'optimisation de la compétitivité de ses productions, distribuées à l'échelle mondiale.\n\nVous êtes passionné(e) par la transformation des données scientifiques complexes en informations exploitables ? Vous souhaitez jouer un rôle clé dans la digitalisation du développement pharmaceutique ? Rejoignez UCB et contribuez, grâce à la science et à la technologie, à améliorer la vie des patients.\n\nLe poste\n\nAu sein de l’équipe CMC Development Digital Sciences, vous soutiendrez le développement de procédés de fabrication robustes et performants en valorisant pleinement les données générées en laboratoire. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/247001",
-   "score": 35,
-   "label": "À examiner",
-   "first_seen": "2026-10-13T14:09:52+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 45,
-    "qual": 8,
-    "calc": 9
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
-     "weight": 4,
-     "terms": [
-      "python"
-     ]
-    },
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
-     "weight": 10,
-     "terms": [
-      "industrialisation"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "fabrication"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "qualite",
-      "validation"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "laboratoire"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "industriel"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Intitulé de métier du numérique : score plafonné",
-     "terms": [
-      "data"
-     ],
-     "points": -5,
-     "cap": 35
-    }
-   ]
-  },
-  {
    "id": "247752",
    "title": "Process Engineer (H/F)",
    "company": "UCB PHARMA",
@@ -19587,7 +19412,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-16T10:51:10Z",
    "sector": "",
-   "specialization": "[\"327\"]",
+   "specialization": "327",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19773,6 +19598,97 @@
      ],
      "points": -11,
      "cap": 35
+    }
+   ]
+  },
+  {
+   "id": "248378",
+   "title": "DESSINATEUR MECANIQUE  (H/F)",
+   "company": "ACALY",
+   "country": "BELGIQUE",
+   "city": "LIEGE",
+   "description": "Présentation d’ACALY\nACALY est une société de conseil en ingénierie créée en 2015 et implantée en France à Lille, Paris, Lyon et Nantes, ainsi qu’en Suisse et en Belgique. Partenaire privilégié des entreprises industrielles, ACALY accompagne ses clients sur des projets à forte valeur ajoutée. Nous accordons une importance particulière au suivi de nos collaborateurs, avec un accompagnement solide dès l’intégration et tout au long du parcours professionnel.\n\nDescription du poste\nDans le cadre de projets industriels chez notre client dans le secteur du transport, vous intervenez au sein d'un bureau d'études spécialisé dans la conception d'outillages et/ou de produits mécaniques.\n\nVos missions:\n- Concevoir et modéliser en 3D des ensembles et sous-ensembles mécaniques sous CATIA ou CREO.\n- Réaliser les plans techniques 2D (ensembles, détails, montage) en garantissant la conformité aux normes en vigueur ainsi que la cohérence des tolérances et cotations.\n- Développer des solutions mécaniques adaptées en lien avec les besoins fonctionnels exprimés.\n- Élaborer et maintenir les dossiers de définition et de fabrication (plans, nomenclatures, documents techniques) tout au long du cycle projet.\n- Mettre à jour les conceptions en fonction des évolutions techniques et des retours des phases de validation.\n- Participer aux échanges techniques avec les équipes projet, les ateliers, ainsi qu'avec les fournisseurs et sous-traitants.\n- Contribuer à l'analyse et à la résolution des problématiques rencontrées lors des phases de conception ou de montage.\n- Veiller au respect des standards qualité, des méthodologies internes et des contraintes de planning.",
+   "mission": "",
+   "profile": "A propos du profil recherché:\n- Titulaire d'un diplôme de DUT ou licence en conception mécanique, génie mécanique ou équivalent, vous justifiez de 2 ans d'expérience minimum en conception mécanique dans un environnement industriel.\n- Vous avez une solide maîtrise d'un logiciel de CAO (CATIA ou CREO notamment).\n- Une bonne compréhension des procédés de fabrication et tolérancement est indispensable.\n- Vous êtes une personne autonome, rigoureuse, avec un esprit d'analyse et une forte capacité à travailler en équipe.",
+   "duration": 24,
+   "start_date": "2027-02-01T00:00:00",
+   "end_date": "2029-02-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-11-16T15:17:22Z",
+   "sector": "",
+   "specialization": "[\"64\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-11-16T15:17:22Z",
+    "missionStartDate": "2027-02-01T00:00:00",
+    "missionEndDate": "2029-02-01T00:00:00",
+    "startBroadcastDate": "2026-11-18T00:00:00",
+    "endBroadcastDate": "2026-12-12T00:00:00"
+   },
+   "summary": "Présentation d’ACALY\nACALY est une société de conseil en ingénierie créée en 2015 et implantée en France à Lille, Paris, Lyon et Nantes, ainsi qu’en Suisse et en Belgique. Partenaire privilégié des entreprises industrielles, ACALY accompagne ses clients sur des projets à forte valeur ajoutée. Nous accordons une importance particulière au suivi de nos collaborateurs, avec un accompagnement solide dès l’intégration et tout au long du parcours professionnel.\n\nDescription du poste\nDans le cadre de projets industriels chez notre client dans le secteur du transport, vous intervenez au sein d'un bureau d'études spécialisé dans la conception d'outillages et/ou de produits mécaniques.\n\nVos missions:\n- Concevoir et modéliser en 3D des ensembles et sous-ensembles mécaniques sous CATIA ou CREO.\n- Réaliser les plans techniques 2D (ensembles, détails, montage) en garantissant la conformité aux normes en vigueur ainsi que la cohérence des tolérances et cotations.\n- Développer des solutions mécaniques adaptées en lien avec les besoins fonctionnels exprimés. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/248378",
+   "score": 34,
+   "label": "Périphérique",
+   "first_seen": "2026-11-18T15:38:10+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 10,
+    "qual": 8,
+    "calc": 20
+   },
+   "dominant_axis": "calc",
+   "matched_families": [
+    {
+     "id": "calc2",
+     "axis": "calc",
+     "source": "CAO (278-1, 30 h), Conception mécanique (264-1, 43 h)",
+     "weight": 9,
+     "terms": [
+      "bureau d'etudes",
+      "cao",
+      "catia",
+      "conception mecanique"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "fabrication",
+      "ingenierie"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "conformite",
+      "normes",
+      "qualite",
+      "standards"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "mecanique"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "industriel",
+      "mecanique"
+     ],
+     "points": 5
     }
    ]
   },
@@ -20302,7 +20218,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-03T13:47:44Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21309,7 +21225,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-26T10:10:10Z",
    "sector": "",
-   "specialization": "[\"327\"]",
+   "specialization": "327",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21492,7 +21408,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-10T15:43:49Z",
    "sector": "",
-   "specialization": "[\"264\"]",
+   "specialization": "264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21842,7 +21758,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-04T17:33:14Z",
    "sector": "",
-   "specialization": "180",
+   "specialization": "[\"180\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21934,7 +21850,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-21T14:28:55Z",
    "sector": "",
-   "specialization": "70",
+   "specialization": "[\"70\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22253,7 +22169,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-31T08:20:36Z",
    "sector": "",
-   "specialization": "[\"2\",\"60\",\"62\",\"63\",\"64\",\"65\",\"66\",\"71\",\"73\",\"110\",\"112\",\"114\",\"133\",\"143\",\"144\",\"145\",\"149\",\"155\",\"158\",\"159\",\"160\",\"161\",\"168\",\"169\",\"205\",\"206\",\"207\",\"208\",\"213\",\"244\",\"245\",\"246\",\"247\",\"248\",\"249\",\"251\",\"327\",\"328\",\"329\",\"330\",\"331\",\"345\",\"355\",\"358\"]",
+   "specialization": "2, 60, 62, 63, 64, 65, 66, 71, 73, 110, 112, 114, 133, 143, 144, 145, 149, 155, 158, 159, 160, 161, 168, 169, 205, 206, 207, 208, 213, 244, 245, 246, 247, 248, 249, 251, 327, 328, 329, 330, 331, 345, 355, 358",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22321,6 +22237,91 @@
    ]
   },
   {
+   "id": "242466",
+   "title": "Ingénieur Méthodes - Aéronautique-Spatial-Défense (H/F)",
+   "company": "FRATECH RP",
+   "country": "BELGIQUE",
+   "city": "BRUXELLES",
+   "description": "HOUSE OF ABY, groupe d'ingénierie et de conseil présent dans 9 pays, réunit 11 marques (Abylsen, ABMI, Pharmacos…) et s'appuie sur 4 grands piliers : Engineering (expertise technique et ingénierie de pointe), Solutions (développement et mise en œuvre de solutions adaptées), Digital (innovation et transformation numérique) et Advisory (conseil stratégique RH/QRSE).\r\n \r\nNous opérons dans 8 secteurs clés, dont l’aéronautique - spatial, l’automobile, la défense, l’énergie, le BTP – Infrastructure – Ferroviaire, l’IT – Télécommunications, Life Sciences, Banque – Finance – Assurances.\r\n\r\n- Analyser et optimiser les processus de fabrication pour augmenter l'efficacité et la qualité.\r\n- Développer et mettre en œuvre des outils et des méthodes de travail pour améliorer la production.\r\n- Gérer des projets d'amélioration continue en collaboration avec les équipes techniques.\r\n- Former et accompagner les équipes de production sur les nouvelles méthodes.\r\n- Assurer une veille technologique pour identifier et intégrer les innovations pertinentes.",
+   "mission": "",
+   "profile": "Nous recherchons un Ingénieur méthodes (F/H) avec une expérience de 2 à 3 ans, capable de mettre en œuvre des solutions ingénieuses grâce à un esprit entrepreneurial et une passion pour l'innovation.\r\n\r\n- Diplôme d'ingénieur (Bac+5) ou équivalent en génie industriel, mécanique ou un domaine similaire.\r\n- Expérience éprouvée de 2 à 3 ans dans un poste similaire, idéalement dans le secteur Aéronautique-Spatial-Défense.\r\n- Compétences techniques solides en amélioration des processus et gestion de projets.\r\n- Capacité à travailler en équipe et à communiquer efficacement avec différentes parties prenantes.\r\n- Esprit d'initiative, rigueur et sens de l'organisation.\r\n- Maîtrise des outils informatiques et des logiciels de gestion de production.\r\n\r\nVous souhaitez contribuer à des projets d’envergure dans les secteurs de l'aéronautique, du spatiale et de la défense ? N’attendez plus pour postuler !\r\n \r\nVous bénéficierez également d’un parcours de formation personnalisé afin de développer vos compétences et d’accompagner votre évolution professionnelle.\r\n \r\nLe process de recrutement\r\n \r\nLe processus débute par un échange téléphonique, suivi d’un entretien avec un Talent Acquisition Officer. Vous rencontrerez ensuite un Business Manager, avant un dernier entretien permettant de finaliser le processus et, le cas échéant, de vous présenter une proposition de contrat.\r\n \r\nDans le cadre de l'égalité des chances, toutes nos offres d'emploi sont ouvertes aux personnes en situation de handicap.",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-04-21T12:18:30Z",
+   "sector": "",
+   "specialization": "[\"60\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-04-21T12:18:30Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-11-18T00:00:00",
+    "endBroadcastDate": "2026-12-18T00:00:00"
+   },
+   "summary": "HOUSE OF ABY, groupe d'ingénierie et de conseil présent dans 9 pays, réunit 11 marques (Abylsen, ABMI, Pharmacos…) et s'appuie sur 4 grands piliers : Engineering (expertise technique et ingénierie de pointe), Solutions (développement et mise en œuvre de solutions adaptées), Digital (innovation et transformation numérique) et Advisory (conseil stratégique RH/QRSE).\r\n \r\nNous opérons dans 8 secteurs clés, dont l’aéronautique - spatial, l’automobile, la défense, l’énergie, le BTP – Infrastructure – Ferroviaire, l’IT – Télécommunications, Life Sciences, Banque – Finance – Assurances.\r\n\r\n- Analyser et optimiser les processus de fabrication pour augmenter l'efficacité et la qualité.\r\n- Développer et mettre en œuvre des outils et des méthodes de travail pour améliorer la production.\r\n- Gérer des projets d'amélioration continue en collaboration avec les équipes techniques.\r\n- Former et accompagner les équipes de production sur les nouvelles méthodes.\r\n- Assurer une veille technologique pour identifier et intégrer les innovations pertinentes.",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/242466",
+   "score": 31,
+   "label": "Périphérique",
+   "first_seen": "2026-11-18T15:38:10+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 10,
+    "qual": 8,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "amelioration continue",
+      "engineering",
+      "fabrication",
+      "ingenierie"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "qualite"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "ingenieur",
+      "methodes"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "aeronautique",
+      "automobile",
+      "defense"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
    "id": "244457",
    "title": "INGÉNIEUR PROJET - (H/F)",
    "company": "FRATECH RP",
@@ -22335,7 +22336,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-08T08:03:39Z",
    "sector": "",
-   "specialization": "[\"65\",\"73\",\"77\",\"107\",\"206\",\"207\",\"224\",\"264\"]",
+   "specialization": "65, 73, 77, 107, 206, 207, 224, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22663,7 +22664,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-16T10:51:40Z",
    "sector": "",
-   "specialization": "[\"251\"]",
+   "specialization": "251",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22892,6 +22893,94 @@
       "quality"
      ],
      "points": 14
+    }
+   ]
+  },
+  {
+   "id": "248450",
+   "title": "Ingénieur essais et mise en service Telecom/IT - Projet Abidjan (H/F)",
+   "company": "ALSTOM TRANSPORT SA",
+   "country": "COTE D'IVOIRE",
+   "city": "ABIDJAN",
+   "description": "Pourriez-vous être l’Ingénieur essais et mise en service à Abidjan que nous recherchons ?\n\nVotre futur rôle\nDans le cadre du projet de signalisation ferroviaire d’Abidjan et du déploiement d’un système de métro de nouvelle génération, Alstom recherche un(e) Ingénieur(e) Essais & Mise en Service Telecom & IT afin de renforcer ses équipes projet. Vous serez au cœur des phases finales de validation, d’intégration et de mise en exploitation d’une infrastructure moderne intégrant une plateforme virtualisée Alstom.\n\nÀ ce titre, vous participerez aux activités d’essais et de mise en service des environnements Telecom / IT, incluant les réseaux IP, fibre, backbone et Wifi, ainsi que l’intégration de systèmes critiques ferroviaire. Votre contribution permettra de garantir la performance, la sécurité, la disponibilité et la cohérence globale des systèmes avant leur mise en exploitation commerciale, dans un environnement international et multiculturel.\n\nContexte et environnement\nLe métier des essais et mise en service intervient à l’interface entre la conception des systèmes, leur installation sur site et leur validation finale avant exploitation commerciale.\n\nLe VIE sera basé à Abidjan, au sein de l’équipe projet Essais et Mise en Service.\nUne période de formation et d’intégration sera réalisée à l’établissement de Saint‑Ouen (France) ou Villeurbanne (France) afin d’acquérir les méthodes, outils et référentiels Alstom, avant la prise de poste sur site\n\nNous ferons appel à vous pour :\n• Participer à l’ensemble des activités d’essais, de la mise en route et de l’intégration jusqu’aux essais fonctionnels, opérationnels et à la réception du système par le client\n• Superviser la mise en service des réseaux backbone et Wifi\n• Piloter l’intégration d’une plateforme virtuelle Alstom \n• Contribuer à la rédaction des procédures et cahiers d’essais\n• Contribuer à l’analyse des résultats et au suivi des non conformités\n• Appliquer strictement les règles de sécurité et les procédures EHS\n• Travailler en collaboration avec les équipes projet, l’ingénierie et les équipes d’installation\n• Participer aux phases de validation et de réception avec le client et l’exploitant\n• Selon votre progression, vous pourrez également contribuer à des activités de coordination transverse et d’amélioration des méthodes d’essais.\n\nCette mission vous permettra de :\nAcquérir une expérience internationale terrain sur un projet ferroviaire majeur\nDévelopper des compétences en essais, validation et mise en service de systèmes complexes\nDévelopper une expertise sur les systèmes ferroviaires critiques et les environnements Telecom / IT\nÉvoluer au sein d’équipes multiculturelles",
+   "mission": "",
+   "profile": "Nous accordons plus d'importance à la passion et à l’état d’esprit qu'à l'expérience. C'est pourquoi nous n'attendons pas de vous que vous possédiez toutes les compétences. Nous avons plutôt dressé une liste de celles qui, selon nous, vous aideront à réussir et à vous épanouir dans ce rôle :\n\nDiplôme d’ingénieur ou équivalent avec des connaissance en Réseaux Telecom (IP, fibre, backbone, Wifi) ou Systèmes IT industrialisés et virtualisation\nJeune diplômé ou première expérience professionnelle.\nIntérêt marqué pour les systèmes ferroviaires, l’ingénierie, l’automatisme ou l’informatique industrielle.\nUne première expérience (stage ou alternance) dans un environnement industriel est un plus.\nRigueur, curiosité technique et capacité d’analyse.\nGoût du travail en équipe et ouverture culturelle.\nMotivation pour une mission internationale terrain.\n\nIl n'est pas nécessaire d'être un passionné de trains pour s'épanouir chez nous. Nous vous garantissons que lorsque vous monterez dans l'un de nos trains avec vos amis ou votre famille, vous en serez fier. Si vous êtes prêt à relever le défi, nous aimerions vous connaître !\n\nImportant\nEn tant qu'entreprise mondiale, nous sommes un employeur qui prône l'égalité des chances et qui célèbre la diversité dans les 63 pays où nous sommes présents. Nous nous engageons à créer un lieu de travail inclusif pour tous.",
+   "duration": 24,
+   "start_date": "2027-05-01T00:00:00",
+   "end_date": "2029-05-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-11-18T10:06:44Z",
+   "sector": "",
+   "specialization": "[\"35\",\"251\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-11-18T10:06:44Z",
+    "missionStartDate": "2027-05-01T00:00:00",
+    "missionEndDate": "2029-05-01T00:00:00",
+    "startBroadcastDate": "2026-11-18T00:00:00",
+    "endBroadcastDate": "2026-12-18T00:00:00"
+   },
+   "summary": "Pourriez-vous être l’Ingénieur essais et mise en service à Abidjan que nous recherchons ?\n\nVotre futur rôle\nDans le cadre du projet de signalisation ferroviaire d’Abidjan et du déploiement d’un système de métro de nouvelle génération, Alstom recherche un(e) Ingénieur(e) Essais & Mise en Service Telecom & IT afin de renforcer ses équipes projet. Vous serez au cœur des phases finales de validation, d’intégration et de mise en exploitation d’une infrastructure moderne intégrant une plateforme virtualisée Alstom.\n\nÀ ce titre, vous participerez aux activités d’essais et de mise en service des environnements Telecom / IT, incluant les réseaux IP, fibre, backbone et Wifi, ainsi que l’intégration de systèmes critiques ferroviaire. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/248450",
+   "score": 30,
+   "label": "Périphérique",
+   "first_seen": "2026-11-18T15:38:10+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 10,
+    "qual": 8,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "ingenierie",
+      "methodes"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "essais",
+      "validation"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "ingenieur"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "ferroviaire",
+      "industriel"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    },
+    {
+     "label": "Aucun terme industriel : score plafonné",
+     "terms": [],
+     "points": -1,
+     "cap": 30
     }
    ]
   },
@@ -23207,7 +23296,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-03T11:28:24Z",
    "sector": "",
-   "specialization": "62",
+   "specialization": "[\"62\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25001,15 +25090,15 @@
    "expiry_date": "",
    "publish_date": "2026-11-16T13:33:04Z",
    "sector": "",
-   "specialization": "158",
+   "specialization": "[\"158\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-11-16T13:33:04Z",
     "missionStartDate": "2027-03-01T00:00:00",
     "missionEndDate": "2029-03-01T00:00:00",
-    "startBroadcastDate": "2026-11-16T00:00:00",
-    "endBroadcastDate": "2026-12-16T00:00:00"
+    "startBroadcastDate": "2026-11-18T00:00:00",
+    "endBroadcastDate": "2026-12-18T00:00:00"
    },
    "summary": "You will contribute to the implementation of Project INDIANA, working closely with the Group Supply Chain management, local management and operational teams across Mauritius, Réunion and Madagascar.\nThe programme aims to support the development of a future regional logistics hub in Mauritius, improve flows and logistics performance, develop common ways of working \n• Analyze logistics flows, warehouse capacities and inventory positioning to support operational decisions and regional transformation studies.\n• Monitor project progress and results and prepare concise reporting for management and Steering Committees.\n• Support local teams in identifying and implementing practical improvements in warehouse operations and logistics performance.\n• Coordinate regional improvement initiatives, encourage the sharing of best practices and contribute to common tools, standards and performance indicators.\nThe role combines regular presence at operational sites with analytical and project coordination work. […]",
    "url": "https://mon-vie-via.businessfrance.fr/offres/248366",
@@ -25254,7 +25343,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-03T08:49:52Z",
    "sector": "",
-   "specialization": "68",
+   "specialization": "[\"68\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25615,7 +25704,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-16T09:37:58Z",
    "sector": "",
-   "specialization": "[\"361\"]",
+   "specialization": "361",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25713,7 +25802,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-21T09:50:40Z",
    "sector": "",
-   "specialization": "[\"66\",\"71\",\"143\",\"153\"]",
+   "specialization": "66, 71, 143, 153",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25801,7 +25890,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-05T15:06:12Z",
    "sector": "",
-   "specialization": "180",
+   "specialization": "[\"180\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26092,7 +26181,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T09:54:46Z",
    "sector": "",
-   "specialization": "330",
+   "specialization": "[\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26676,7 +26765,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-09T15:58:45Z",
    "sector": "",
-   "specialization": "86, 123, 125, 256",
+   "specialization": "[\"86\",\"123\",\"125\",\"256\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26777,7 +26866,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-09T15:57:29Z",
    "sector": "",
-   "specialization": "86, 123, 125, 150, 256, 264",
+   "specialization": "[\"86\",\"123\",\"125\",\"150\",\"256\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26874,7 +26963,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-13T14:31:50Z",
    "sector": "",
-   "specialization": "[\"70\"]",
+   "specialization": "70",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26964,7 +27053,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-10T14:22:44Z",
    "sector": "",
-   "specialization": "[\"168\"]",
+   "specialization": "168",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27065,7 +27154,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-14T08:34:30Z",
    "sector": "",
-   "specialization": "[\"65\"]",
+   "specialization": "65",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27155,7 +27244,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-21T12:23:26Z",
    "sector": "",
-   "specialization": "208",
+   "specialization": "[\"208\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27265,7 +27354,7 @@
    "expiry_date": "",
    "publish_date": "2026-03-17T15:45:44Z",
    "sector": "",
-   "specialization": "[\"144\"]",
+   "specialization": "144",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27911,7 +28000,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-28T18:25:06Z",
    "sector": "",
-   "specialization": "[\"52\",\"63\",\"118\",\"125\",\"168\",\"225\",\"256\"]",
+   "specialization": "52, 63, 118, 125, 168, 225, 256",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27999,7 +28088,7 @@
    "expiry_date": "",
    "publish_date": "2026-03-30T16:06:48Z",
    "sector": "",
-   "specialization": "[\"49\",\"52\",\"63\",\"114\",\"148\",\"245\",\"256\"]",
+   "specialization": "49, 52, 63, 114, 148, 245, 256",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -28405,7 +28494,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-06T08:59:23Z",
    "sector": "",
-   "specialization": "[\"327\"]",
+   "specialization": "327",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -28751,7 +28840,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-12T09:16:59Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29064,7 +29153,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-06T09:47:39Z",
    "sector": "",
-   "specialization": "[\"68\"]",
+   "specialization": "68",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29135,7 +29224,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-21T09:08:24Z",
    "sector": "",
-   "specialization": "[\"361\"]",
+   "specialization": "361",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29650,7 +29739,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-14T12:45:10Z",
    "sector": "",
-   "specialization": "[\"206\"]",
+   "specialization": "206",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30178,7 +30267,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-20T20:29:06Z",
    "sector": "",
-   "specialization": "[\"49\",\"56\",\"157\"]",
+   "specialization": "49, 56, 157",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30327,7 +30416,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-28T07:33:59Z",
    "sector": "",
-   "specialization": "[\"73\"]",
+   "specialization": "73",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30545,7 +30634,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T10:55:11Z",
    "sector": "",
-   "specialization": "[\"138\",\"248\",\"330\",\"355\"]",
+   "specialization": "138, 248, 330, 355",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31932,7 +32021,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-19T13:06:41Z",
    "sector": "",
-   "specialization": "[\"17\"]",
+   "specialization": "17",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32006,7 +32095,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-26T08:49:56Z",
    "sector": "",
-   "specialization": "[\"109\"]",
+   "specialization": "109",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32162,7 +32251,7 @@
    "expiry_date": "",
    "publish_date": "2025-10-13T08:46:35Z",
    "sector": "",
-   "specialization": "245, 248",
+   "specialization": "[\"245\",\"248\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33236,7 +33325,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-29T10:06:40Z",
    "sector": "",
-   "specialization": "327",
+   "specialization": "[\"327\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33886,6 +33975,78 @@
    ]
   },
   {
+   "id": "248390",
+   "title": "Ingénieur d'affaires H/F (H/F)",
+   "company": "EXTIA",
+   "country": "POLOGNE",
+   "city": "CRACOVIE",
+   "description": "Société de conseil spécialisée dans les métiers de l’IT, de l’ingénierie et du digital, Extia privilégie depuis sa création en 2007 une approche qui allie performance et bien-être au travail. Une vision de l’entreprise partagée aujourd’hui par plus de 2 500 Extien(ne)s en France et à l'international et récompensée depuis 2012 par le label Great Place to Work®. \r\nChez Extia, c’est « D’abord qui, ensuite quoi » alors, allons-y !(Paris, Lille, Nantes, Lyon, Aix-en-Provence, Sophia-Antipolis, Toulouse, Toulon, Rennes, Grenoble, Bordeaux et bientôt à Niort, Tours, Strasbourg et Rouen en 2023), mais aussi en Belgique (Bruxelles), en Suisse (Lausanne), en Roumanie (Bucarest), en Espagne (Barcelone), au Portugal (Lisbonne) et au Canada (Montréal). \r\nLa diversité de nos missions nous permet d’évoluer sans cesse et de faire bénéficier nos clients de cette expertise dans un seul but : optimiser la création de valeur. Nous sommes persuadés que la réussite des projets de nos clients passe par l’accomplissement professionnel et personnel de nos salariés, c'est pourquoi nous mettons l'humain au cœur de nos préoccupations. Être \"Extien\", c'est évoluer dans un environnement fondé sur la transparence, la collaboration, le plaisir et l'optimisation constante de la performance. Extia recrute !\r\n\r\nD'abord qui, \r\n- Vous êtes diplômé(e) d’un BAC+5 (école de commerce, d'ingénieur ou université), et possédez entre 1 et 3 ans d’expérience commerciale (alternance incluse)\r\n- Vous êtes capable de vous adapter à un environnement dynamique et en constante évolution\r\n- Votre proactivité, votre goût du challenge et votre leadership seront vos meilleurs atouts pour mener à bien vos missions\r\n- Pourvu(e) de qualités commerciales indéniables, le développement commercial, la gestion d’un centre de profit et le management d’une équipe de consultants sont des missions qui vous attirent.\r\n- Autonome, ambitieux(se) et doté(e) d’un esprit entrepreneurial, vous avez envie de vous investir pleinement\r\n- Bilingue en anglais, le polonais peut être un plus.\r\n\nEnsuite quoi,\r\n\r\nDans le cadre de l’ouverture de notre nouvelle agence en Pologne, nous lançons l’aventure aux côtés du Directeur d'Agence.\r\n\r\nAccompagné(e) et formé(e) par le Directeur d’Agence, vous jouerez un rôle clé dans l’implantation et le développement d’Extia en Pologne, en intervenant sur trois volets majeurs :\r\n\r\n1/ Développement et fidélisation d’un portefeuille clients :\r\n-Prospection ciblée et rendez-vous de présentation\r\n-Qualification des besoins auprès des prospects et clients\r\n-Contribution à l'élaboration des propositions techniques et commerciales (appels d'offres)\r\n-Participation aux échanges commerciaux et contractuels\r\n-Suivi de la relation client et développement de partenariats durables\r\n\r\n2/ Sélection et qualification des talents :\r\n-Réalisation des entretiens avec les consultants experts en IT et digital\r\n-Identification et évaluation des compétences techniques et humaines\r\n-Analyse des projets professionnels afin de positionner les consultants sur des missions adaptées chez nos clients\r\n\r\n3/ Animation et suivi de proximité des consultants :\r\n-Suivi de mission et accompagnement de proximité des consultants, en binôme avec l'équipe RH\r\n-Veille au bon déroulement opérationnel des prestations auprès du client et du consultant\r\n-Réalisation des points d'étape réguliers et des bilans de parcours\r\n-Animation de la communauté de consultants et contribution à leur épanouissement professionnel\r\n\nProcessus de recrutement :\r\n\r\nÉchange téléphonique et entretien avec l'équipe RH pour faire connaissance\r\n\r\nSecond entretien avec le Directeur d'Agence pour échanger sur la collaboration au quotidien\r\n\r\nTroisième entretien avec la Direction Générale / Direction Internationale pour aborder la vision stratégique du déploiement en Pologne\r\n\r\nVous vous reconnaissez dans le « Qui » et vous représentez le « Quoi » ? Rejoignez l’aventure entrepreneuriale d’Extia et relevez le défi du lancement en Pologne ! 🚀🇵🇱",
+   "mission": "",
+   "profile": "Vous êtes diplômé(e) d’un BAC+5 (école de commerce, d'ingénieur ou université), et possédez entre 1 et 3 ans d’expérience commerciale (alternance incluse)\r\n\r\nVous êtes capable de vous adapter à un environnement dynamique et en constante évolution\r\n\r\nVotre proactivité, votre goût du challenge et votre leadership seront vos meilleurs atouts pour mener à bien vos missions\r\n\r\nPourvu(e) de qualités commerciales indéniables, le développement commercial, la gestion d’un centre de profit et le management d’une équipe de consultants sont des missions qui vous attirent.\r\n\r\nAutonome, ambitieux(se) et doté(e) d’un esprit entrepreneurial, vous avez envie de vous investir pleinement\r\n\r\nBilingue en anglais.",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-11-17T09:03:09Z",
+   "sector": "",
+   "specialization": "[\"6\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-11-17T09:03:09Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-11-18T00:00:00",
+    "endBroadcastDate": "2026-12-18T00:00:00"
+   },
+   "summary": "Société de conseil spécialisée dans les métiers de l’IT, de l’ingénierie et du digital, Extia privilégie depuis sa création en 2007 une approche qui allie performance et bien-être au travail. Une vision de l’entreprise partagée aujourd’hui par plus de 2 500 Extien(ne)s en France et à l'international et récompensée depuis 2012 par le label Great Place to Work®. \r\nChez Extia, c’est « D’abord qui, ensuite quoi » alors, allons-y !(Paris, Lille, Nantes, Lyon, Aix-en-Provence, Sophia-Antipolis, Toulouse, Toulon, Rennes, Grenoble, Bordeaux et bientôt à Niort, Tours, Strasbourg et Rouen en 2023), mais aussi en Belgique (Bruxelles), en Suisse (Lausanne), en Roumanie (Bucarest), en Espagne (Barcelone), au Portugal (Lisbonne) et au Canada (Montréal). \r\nLa diversité de nos missions nous permet d’évoluer sans cesse et de faire bénéficier nos clients de cette expertise dans un seul but : optimiser la création de valeur. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/248390",
+   "score": 26,
+   "label": "Périphérique",
+   "first_seen": "2026-11-18T15:38:10+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 10,
+    "qual": 8,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "ingenierie"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "qualification"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "ingenieur"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
    "id": "243663",
    "title": "INGÉNIEUR(E) PROJETS (H/F)",
    "company": "MISSION CONSEIL ASSISTANCE INGENIERIE",
@@ -33900,7 +34061,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-09T13:44:09Z",
    "sector": "",
-   "specialization": "35, 144, 245, 246, 248, 249, 251",
+   "specialization": "[\"35\",\"144\",\"245\",\"246\",\"248\",\"249\",\"251\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34855,7 +35016,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-29T16:46:46Z",
    "sector": "",
-   "specialization": "[\"330\"]",
+   "specialization": "330",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
