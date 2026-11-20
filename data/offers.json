@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-19T15:43:11+00:00",
+ "generated_at": "2026-11-20T15:25:29+00:00",
  "source": "Business France — mon-vie-via.businessfrance.fr",
- "total_scanned": 843,
- "total_announced": 843,
- "total_kept": 357,
+ "total_scanned": 851,
+ "total_announced": 851,
+ "total_kept": 353,
  "threshold": 25,
  "axes": {
   "rd": {
@@ -1094,144 +1094,6 @@
    ]
   },
   {
-   "id": "247533",
-   "title": "INGÉNIEUR MÉTHODES & AMÉLIORATION CONTINUE (H/F)",
-   "company": "BAUD INDUSTRIES",
-   "country": "POLOGNE",
-   "city": "ZABKOWICE SLASKIE",
-   "description": "VIE – INGÉNIEUR AMÉLIORATION CONTINUE\nPOSTE ET MISSIONS\nBAUD POLSKA, filiale du groupe familial français BAUD INDUSTRIES, est spécialisée dans la fabrication de composants métalliques de haute précision par décolletage et usinage.\nDans le cadre du développement et de la modernisation de notre site industriel en Pologne, nous recherchons un(e) Ingénieur Amélioration Continue & Digitalisation (H/F) en VIE.\nAu contact direct des équipes de production et en collaboration avec les équipes techniques du Groupe, vos principales missions seront :\nPiloter des projets de productivité et d'amélioration continue sur les différents process du site.\nDévelopper des solutions d'automatisation permettant d'améliorer la productivité, la qualité et les conditions de travail.\nOptimiser les procédés d'usinage : temps de cycle, paramètres, outils, réduction des rebuts et amélioration de la capabilité.\nParticiper à la digitalisation de la production et des contrôles : collecte des données, suivi des mesures, connexion des moyens de contrôle et correction automatique des machines CNC.\nDéployer sur le site la politique R&D et Innovation du Groupe, notamment en développant des applications concrètes de l'intelligence artificielle dans l'industrie.\nParticiper à la mise en place du nouvel ERP Groupe sur le site polonais.\nPROFIL RECHERCHÉ\nDe formation Ingénieur ou Master en génie industriel, mécanique, productique, automatisation ou amélioration continue, vous avez idéalement une première expérience en environnement industriel (stage ou alternance compris).\nVous êtes attiré(e) par la technique, l'usinage, l'automatisation, la digitalisation et l'IA et appréciez le travail de terrain.\nVous êtes autonome, curieux(se), pragmatique et aimez transformer une problématique industrielle en solution concrète.\nAnglais professionnel obligatoire.\nPolonais : un vrai plus, mais non obligatoire.\nCe VIE vous permettra de piloter des projets concrets de transformation industrielle, de leur conception jusqu'à leur déploiement directement dans l'usine.",
-   "mission": "",
-   "profile": "De formation Ingénieur ou Master en génie industriel, mécanique, productique, automatisation ou amélioration continue, vous avez idéalement une première expérience en environnement industriel (stage ou alternance compris).\n\nVous êtes attiré(e) par la technique, l'usinage, l'automatisation, la digitalisation et l'IA et appréciez le travail de terrain.\n\nVous êtes autonome, curieux(se), pragmatique et aimez transformer une problématique industrielle en solution concrète.\nAnglais professionnel obligatoire.\nPolonais : un vrai plus, mais non obligatoire.",
-   "duration": 12,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-26T19:41:18Z",
-   "sector": "",
-   "specialization": "[\"142\"]",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-26T19:41:18Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-27T00:00:00",
-    "endBroadcastDate": "2026-11-26T00:00:00"
-   },
-   "summary": "VIE – INGÉNIEUR AMÉLIORATION CONTINUE\nPOSTE ET MISSIONS\nBAUD POLSKA, filiale du groupe familial français BAUD INDUSTRIES, est spécialisée dans la fabrication de composants métalliques de haute précision par décolletage et usinage.\nDans le cadre du développement et de la modernisation de notre site industriel en Pologne, nous recherchons un(e) Ingénieur Amélioration Continue & Digitalisation (H/F) en VIE.\nAu contact direct des équipes de production et en collaboration avec les équipes techniques du Groupe, vos principales missions seront :\nPiloter des projets de productivité et d'amélioration continue sur les différents process du site.\nDévelopper des solutions d'automatisation permettant d'améliorer la productivité, la qualité et les conditions de travail.\nOptimiser les procédés d'usinage : temps de cycle, paramètres, outils, réduction des rebuts et amélioration de la capabilité.\nParticiper à la digitalisation de la production et des contrôles : collecte des données, suivi des mesures, connexion des moyens de contrôle et correction automatique des machines CNC. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/247533",
-   "score": 83,
-   "label": "Cœur de cible",
-   "first_seen": "2026-10-27T12:09:09+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 83,
-    "qual": 34,
-    "calc": 9
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
-     "weight": 4,
-     "terms": [
-      "automatisation"
-     ]
-    },
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
-     "weight": 10,
-     "terms": [
-      "usine"
-     ]
-    },
-    {
-     "id": "prod6",
-     "axis": "prod",
-     "source": "Outils et moyens de fabrication (259-1, 30 h)",
-     "weight": 7,
-     "terms": [
-      "cnc",
-      "usinage"
-     ]
-    },
-    {
-     "id": "prod5",
-     "axis": "prod",
-     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
-     "weight": 4,
-     "terms": [
-      "productivite"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "amelioration continue",
-      "fabrication",
-      "methodes"
-     ]
-    },
-    {
-     "id": "qual3",
-     "axis": "qual",
-     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
-     "weight": 7,
-     "terms": [
-      "capabilite"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "qualite"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "r&d"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur",
-      "methodes"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "industriel",
-      "mecanique"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "247552",
    "title": "INGÉNIEUR MÉTHODES – TS & PEINTURE (H/F)",
    "company": "LATECOERE",
@@ -1717,6 +1579,149 @@
      "terms": [
       "industrial",
       "mechanical"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
+   "id": "248535",
+   "title": "Ingénieur Procédés Industriels (H/F)",
+   "company": "COMPAGNIE DE SAINT-GOBAIN",
+   "country": "SUEDE",
+   "city": "BILLESHOLM",
+   "description": "Rejoignez Saint-Gobain Isover en Suède et participez à l'amélioration d'un procédé industriel innovant au cœur de la transformation durable des matériaux.\n\nAu sein du département Technical & Quality, vous contribuerez à l'industrialisation et à l'optimisation du procédé Oxymelt, une technologie clé dans la fabrication d'isolants en laine minérale à partir de verre recyclé. Cette mission vous permettra de travailler sur des enjeux industriels concrets avec un impact direct sur la performance de l'usine, la consommation énergétique et la réduction des coûts de production.\n\nVotre mission :\n\nContribuer à l'industrialisation et à l'optimisation du procédé Oxymelt en pilotant des essais industriels, en analysant les performances de production et en mettant en œuvre des actions d'amélioration continue visant à augmenter les capacités de production, réduire les consommations énergétiques et améliorer la fiabilité des procédés.\n\nResponsabilités clés\n\nOptimisation des procédés industriels\n\nConcevoir, préparer et coordonner des essais de production sur le procédé Oxymelt.\nAnalyser les résultats techniques et économiques des essais réalisés.\nIdentifier les leviers d'amélioration de la productivité, des coûts et de la qualité.\nContribuer à l'augmentation des capacités de traitement des matières premières.\nRéduction de la consommation énergétique\n\nParticiper aux projets visant à améliorer l'efficacité énergétique des installations.\nAnalyser les données de production afin d'identifier les opportunités de réduction des consommations.\nContribuer à la mise en œuvre et au suivi des actions d'amélioration.\nExcellence opérationnelle et amélioration continue\n\nDéployer les standards process et les bonnes pratiques industrielles.\nAccompagner les équipes opérationnelles lors des phases de test et de mise en œuvre.\nParticiper aux démarches World Class Manufacturing (WCM).\nContribuer à l'amélioration de la fiabilité et de la stabilité des procédés.\nSécurité et développement durable\n\nParticiper aux analyses de risques et aux démarches EHS.\nContribuer aux initiatives de réduction des déchets et d'optimisation de l'utilisation des ressources.\nSoutenir les actions visant à améliorer la performance environnementale du site.",
+   "mission": "",
+   "profile": "Compétences incontournables\n\nFormation d'ingénieur ou Master 2 en Génie des Procédés, Génie Chimique, Science des Matériaux, Génie Industriel, Génie Mécanique ou équivalent.\nConnaissance des procédés industriels acquise lors d'un stage, d'une alternance ou d'une première expérience en environnement manufacturier.\nAnalyse de données permettant d'interpréter les résultats d'essais et d'identifier des axes d'amélioration.\nMaîtrise avancée d'Excel pour le traitement et l'analyse des données de production.\nAnglais courant, nécessaire pour évoluer dans un environnement international.\nCapacité à collaborer avec plusieurs fonctions telles que la production, la qualité, la maintenance et les équipes techniques internationales.\nCompétences appréciées\n\nConnaissance des outils statistiques tels que Minitab.\nPremière expérience en amélioration continue, optimisation de procédés ou gestion de projets industriels.\nFamiliarité avec les méthodologies de résolution de problèmes et d'excellence opérationnelle.\nSensibilité aux enjeux de développement durable et d'efficacité énergétique.\nLes qualités qui feront la différence\n\nCuriosité technique et envie d'apprendre.\nEsprit d'analyse et rigueur.\nAutonomie dans la gestion des sujets confiés.\nGoût du travail en équipe et des environnements multiculturels.\nCapacité à faire avancer plusieurs actions en parallèle.",
+   "duration": 12,
+   "start_date": "2027-03-01T00:00:00",
+   "end_date": "2028-03-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-11-19T17:30:15Z",
+   "sector": "",
+   "specialization": "[\"149\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-11-19T17:30:15Z",
+    "missionStartDate": "2027-03-01T00:00:00",
+    "missionEndDate": "2028-03-01T00:00:00",
+    "startBroadcastDate": "2026-11-20T00:00:00",
+    "endBroadcastDate": "2026-12-20T00:00:00"
+   },
+   "summary": "Rejoignez Saint-Gobain Isover en Suède et participez à l'amélioration d'un procédé industriel innovant au cœur de la transformation durable des matériaux.\n\nAu sein du département Technical & Quality, vous contribuerez à l'industrialisation et à l'optimisation du procédé Oxymelt, une technologie clé dans la fabrication d'isolants en laine minérale à partir de verre recyclé. Cette mission vous permettra de travailler sur des enjeux industriels concrets avec un impact direct sur la performance de l'usine, la consommation énergétique et la réduction des coûts de production.\n\nVotre mission :\n\nContribuer à l'industrialisation et à l'optimisation du procédé Oxymelt en pilotant des essais industriels, en analysant les performances de production et en mettant en œuvre des actions d'amélioration continue visant à augmenter les capacités de production, réduire les consommations énergétiques et améliorer la fiabilité des procédés.\n\nResponsabilités clés\n\nOptimisation des procédés industriels\n\nConcevoir, préparer et coordonner des essais de production sur le procédé Oxymelt. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/248535",
+   "score": 74,
+   "label": "Cœur de cible",
+   "first_seen": "2026-11-20T15:25:14+00:00",
+   "axis_scores": {
+    "rd": 51,
+    "prod": 59,
+    "qual": 34,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod4",
+     "axis": "prod",
+     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
+     "weight": 10,
+     "terms": [
+      "industrialisation",
+      "procede",
+      "usine"
+     ]
+    },
+    {
+     "id": "prod5",
+     "axis": "prod",
+     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
+     "weight": 4,
+     "terms": [
+      "optimisation des procedes",
+      "productivite"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "amelioration continue",
+      "fabrication",
+      "manufacturing"
+     ]
+    },
+    {
+     "id": "qual3",
+     "axis": "qual",
+     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
+     "weight": 7,
+     "terms": [
+      "statistiques"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "essais",
+      "qualite",
+      "quality",
+      "standards"
+     ]
+    },
+    {
+     "id": "rd2",
+     "axis": "rd",
+     "source": "Propriétés mécaniques et physique des matériaux (262-1, 30 h), Critères de choix des matériaux (265-1, 15 h)",
+     "weight": 9,
+     "terms": [
+      "materiaux",
+      "science des materiaux"
+     ]
+    },
+    {
+     "id": "rd9",
+     "axis": "rd",
+     "source": "Vocabulaire de laboratoire courant",
+     "weight": 3,
+     "terms": [
+      "resolution de problemes"
+     ]
+    },
+    {
+     "id": "rd5",
+     "axis": "rd",
+     "source": "Mise en forme des polymères et composites (304-2, 30 h), Céramiques et verre (303-2, 27 h)",
+     "weight": 6,
+     "terms": [
+      "verre"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "ingenieur"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "industriel",
+      "mecanique"
      ],
      "points": 5
     },
@@ -2617,7 +2622,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-29T13:44:29Z",
    "sector": "",
-   "specialization": "[\"110\"]",
+   "specialization": "110",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -2750,7 +2755,7 @@
    "expiry_date": "",
    "publish_date": "2026-03-03T08:40:40Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -3183,119 +3188,6 @@
       "chimie",
       "energie",
       "mecanique"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
-   "id": "248271",
-   "title": "Process Engineer (H/F)",
-   "company": "VALEO SYSTEMES D ESSUYAGE",
-   "country": "MEXIQUE",
-   "city": "SAN LUIS POTOSI",
-   "description": "Join our teams and build Augmented Visibility at Valeo!\r\n\r\nValeo Light is the world leader in automotive lighting. From the latest interior and exterior lighting innovations to cutting-edge wiping technologies, the Light division offers innovative visibility systems with a distinctive style, improving safety and driving comfort.\r\n\r\nThe site of San Luis Potosi based in Mexico belongs to the Light Division. We are looking for a VIE Process Engineer for 12 months within the Sensor Cleaning team.\r\n\r\nYour challenges?\r\n\r\n- You will integrate into a project team to contribute to all process activities and manage the Process team within your assigned scope.\r\n- You will define the industrial guidelines for your scope, covering processes, equipment, and plant layout.\r\n- You will ensure the deployment of process objectives and monitor compliance levels across all sites.\r\n- You will maintain the coherence of process and industrialization programs while supporting the industrial network (plants, production, and industrialization) within your Product Group.\r\n- You will manage the industrial investment program for your area of responsibility.\r\n- You will monitor machine performance, lead improvement plans, and conduct process performance analyses including FDPR (cycle time, Kosu, and operators).\r\n- You will coordinate interfaces between the project team, contributors, and the Platform Team in Issoire, France.\r\n- You will support the production and delivery of parts and prototype samples for customers.\r\n- You will collaborate with the Sensor Cleaning Process Manager in Issoire, France, for technical expertise and support needs.\r\n- You will drive worldwide product and process standardization projects, participate in the Standardization Committee, and validate process standards.",
-   "mission": "",
-   "profile": "Let’s talk about you…\n\n- You hold a Master’s degree from a university or engineering school in Mechanics, specializing in Mechanical Design and Process Manufacturing\n- You ideally have prior experience in mechanical and process manufacturing\n- You are fluent in English (mandatory)\n- You have good communication skills, have an international mindset and are open-minded to new cultures and new ways of working and thinking\n- You are humble, listening, positive attitude oriented, professional, and have the sense of diplomacy \n- Spanish is a plus\n\nPlease, don't forget to apply in English to facilitate the process with our managers. \n\nWhy Valeo?\n\nTo join a competitive group, a French pioneer in automotive innovation\nFor a dynamic career with possibilities for national or international mobility, adapted to your aspirations\nTo contribute to the development of greener mobility\n\nValeo places great importance on recruiting diverse profiles: we are open to all talents and we promote an inclusive and multicultural environment.",
-   "duration": 12,
-   "start_date": "2027-03-01T00:00:00",
-   "end_date": "2028-03-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-11-12T14:59:37Z",
-   "sector": "",
-   "specialization": "[\"77\"]",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-11-12T14:59:37Z",
-    "missionStartDate": "2027-03-01T00:00:00",
-    "missionEndDate": "2028-03-01T00:00:00",
-    "startBroadcastDate": "2026-11-13T00:00:00",
-    "endBroadcastDate": "2026-12-13T00:00:00"
-   },
-   "summary": "Join our teams and build Augmented Visibility at Valeo!\r\n\r\nValeo Light is the world leader in automotive lighting. From the latest interior and exterior lighting innovations to cutting-edge wiping technologies, the Light division offers innovative visibility systems with a distinctive style, improving safety and driving comfort.\r\n\r\nThe site of San Luis Potosi based in Mexico belongs to the Light Division. We are looking for a VIE Process Engineer for 12 months within the Sensor Cleaning team.\r\n\r\nYour challenges?\r\n\r\n- You will integrate into a project team to contribute to all process activities and manage the Process team within your assigned scope.\r\n- You will define the industrial guidelines for your scope, covering processes, equipment, and plant layout.\r\n- You will ensure the deployment of process objectives and monitor compliance levels across all sites.\r\n- You will maintain the coherence of process and industrialization programs while supporting the industrial network (plants, production, and industrialization) within your Product Group. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/248271",
-   "score": 70,
-   "label": "Cœur de cible",
-   "first_seen": "2026-11-13T14:32:46+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 69,
-    "qual": 8,
-    "calc": 20
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "calc2",
-     "axis": "calc",
-     "source": "CAO (278-1, 30 h), Conception mécanique (264-1, 43 h)",
-     "weight": 9,
-     "terms": [
-      "mechanical design"
-     ]
-    },
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
-     "weight": 10,
-     "terms": [
-      "industrialization",
-      "plant",
-      "process engineer"
-     ]
-    },
-    {
-     "id": "prod6",
-     "axis": "prod",
-     "source": "Outils et moyens de fabrication (259-1, 30 h)",
-     "weight": 7,
-     "terms": [
-      "cutting"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "engineering",
-      "manufacturing"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "compliance",
-      "standards"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineer",
-      "process"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "automotive",
-      "industrial",
-      "mechanical"
      ],
      "points": 5
     },
@@ -4140,7 +4032,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-29T10:41:15Z",
    "sector": "",
-   "specialization": "[\"149\"]",
+   "specialization": "149",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -4254,7 +4146,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-26T08:28:29Z",
    "sector": "",
-   "specialization": "[\"143\"]",
+   "specialization": "143",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -4564,7 +4456,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-29T15:13:54Z",
    "sector": "",
-   "specialization": "[\"49\",\"86\",\"109\",\"114\",\"123\",\"125\",\"206\",\"207\",\"208\",\"256\",\"262\"]",
+   "specialization": "49, 86, 109, 114, 123, 125, 206, 207, 208, 256, 262",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -4686,7 +4578,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-04T14:36:53Z",
    "sector": "",
-   "specialization": "[\"114\"]",
+   "specialization": "114",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -4810,7 +4702,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-04T11:11:03Z",
    "sector": "",
-   "specialization": "[\"114\"]",
+   "specialization": "114",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5048,7 +4940,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-27T15:03:59Z",
    "sector": "",
-   "specialization": "[\"209\"]",
+   "specialization": "209",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -5362,7 +5254,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-06T09:35:04Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6136,7 +6028,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-18T13:30:17Z",
    "sector": "",
-   "specialization": "[\"206\"]",
+   "specialization": "206",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6566,7 +6458,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-16T09:15:15Z",
    "sector": "",
-   "specialization": "[\"149\"]",
+   "specialization": "149",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6669,15 +6561,15 @@
    "expiry_date": "",
    "publish_date": "2026-04-21T12:28:26Z",
    "sector": "",
-   "specialization": "73",
+   "specialization": "[\"73\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-04-21T12:28:26Z",
     "missionStartDate": "2027-01-01T00:00:00",
     "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-27T00:00:00",
-    "endBroadcastDate": "2026-11-26T00:00:00"
+    "startBroadcastDate": "2026-11-20T00:00:00",
+    "endBroadcastDate": "2026-12-20T00:00:00"
    },
    "summary": "HOUSE OF ABY, groupe d'ingénierie et de conseil présent dans 9 pays, réunit 11 marques (Abylsen, ABMI, Pharmacos…) et s'appuie sur 4 grands piliers : Engineering (expertise technique et ingénierie de pointe), Solutions (développement et mise en œuvre de solutions adaptées), Digital (innovation et transformation numérique) et Advisory (conseil stratégique RH/QRSE).\r\n \r\nNous opérons dans 8 secteurs clés, dont l’aéronautique - spatial, l’automobile, la défense, l’énergie, le BTP – Infrastructure – Ferroviaire, l’IT – Télécommunications, Life Sciences, Banque – Finance – Assurances.\r\n \r\nDescription du poste :\r\n\r\nVos missions : \r\n\r\n- Gestion de vos projets\r\n- Identification du cahier des charges du client\r\n- Dimensionnement d'une solution complexe avec les différents services\r\n- Programmation complète d'automates Siemens\r\n- Tests de la solution en atelier\r\n- Mise en service de la solution à l'étranger",
    "url": "https://mon-vie-via.businessfrance.fr/offres/242469",
@@ -7419,7 +7311,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-21T07:02:12Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -7833,7 +7725,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-27T09:17:46Z",
    "sector": "",
-   "specialization": "73, 107, 224, 251, 330, 331",
+   "specialization": "[\"73\",\"107\",\"224\",\"251\",\"330\",\"331\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8165,7 +8057,7 @@
    "expiry_date": "",
    "publish_date": "2026-04-13T15:23:11Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -8549,6 +8441,108 @@
      "label": "Secteur industriel compatible",
      "terms": [
       "mechanical"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
+   "id": "248533",
+   "title": "Ingénieur Maintenance Préventive & Industrie 4.0 (H/F)",
+   "company": "COMPAGNIE DE SAINT-GOBAIN",
+   "country": "DANEMARK",
+   "city": "VANDRUP",
+   "description": "Rejoignez Saint-Gobain Insulation au Danemark et participez à la transformation digitale de nos usines à travers le déploiement de technologies Industrie 4.0 dédiées à la maintenance et à la performance industrielle.\n\nBasé(e) sur notre site pilote de Vamdrup, vous contribuerez à tester, valider et industrialiser de nouvelles solutions de maintenance prédictive, de suivi des équipements et d'analyse de données avant leur déploiement dans notre réseau international d'usines.\n\nCette mission vous permettra de travailler à l'interface entre les équipes terrain et l'organisation centrale, avec une forte exposition aux projets de digital manufacturing et aux experts industriels du Groupe.\n\nVotre mission\n\nContribuer à la validation, à l'industrialisation et au déploiement de solutions Industrie 4.0 destinées à améliorer la maintenance, le pilotage des équipements et la performance industrielle au sein du réseau mondial des usines Saint-Gobain Insulation.\n\nResponsabilités clés\n\nDéveloppement et validation des technologies Industrie 4.0\n\nParticiper à l'identification et à l'évaluation de nouvelles technologies de capteurs industriels.\nCoordonner les phases de test et de validation sur le site pilote de Vamdrup.\nMesurer les performances des solutions expérimentées avant leur déploiement plus large.\n\nAnalyse de données industrielles\n\nCollecter et analyser les données générées par les équipements et capteurs.\nIdentifier des opportunités d'amélioration de la performance industrielle.\nProduire des analyses permettant d'orienter les décisions techniques.\n\nMaintenance prédictive et digitalisation\n\nSoutenir les initiatives de Maintenance 4.0 au sein des usines du Groupe.\nParticiper à la mise en place d'outils facilitant l'anticipation des défaillances.\nContribuer à la digitalisation des processus de maintenance.\n\nDéploiement international\n\nCollaborer avec les usines du réseau Isolation afin de partager les retours d'expérience.\nDévelopper les standards, guides et documentations nécessaires au déploiement.\nAccompagner les équipes opérationnelles dans l'adoption des nouvelles solutions.\n\nCollaboration transverse\n\nTravailler avec les équipes production, maintenance, automatisme, procédés, engineering et experts digitaux.\nFaire le lien entre les sites industriels et l'équipe centrale Technology & Industrial Performance.",
+   "mission": "",
+   "profile": "Compétences incontournables\n\nFormation ingénieur ou Master 2 en génie industriel, mécanique, automatisme, maintenance, mécatronique ou domaine équivalent, permettant de comprendre les enjeux industriels du poste.\nPremière expérience en environnement industriel acquise en stage, alternance ou premier emploi, afin d'évoluer rapidement au contact des équipes opérationnelles.\nMaîtrise avancée d'Excel et des outils Microsoft, indispensables pour exploiter et structurer les données industrielles.\nCapacité d'analyse de données, afin d'identifier des tendances, mesurer les performances et proposer des recommandations concrètes.\nAnglais courant, nécessaire dans le cadre des échanges quotidiens avec les équipes internationales.\nCapacité à interagir avec des interlocuteurs variés, des opérateurs aux experts techniques en passant par les managers de sites.\n\nCompétences appréciées\n\nCompréhension des technologies Industrie 4.0 et des enjeux de digitalisation industrielle.\nPremière exposition à un département maintenance ou à des problématiques de fiabilité des équipements.\nConnaissances en programmation ou en traitement de données, notamment Python.\nSensibilité aux projets de transformation digitale en environnement industriel.\nConnaissance des technologies de capteurs ou des systèmes de monitoring industriel.\n\nLes qualités qui feront la différence\n\nCuriosité technique et envie d'explorer de nouvelles technologies.\nApproche pragmatique pour transformer une idée ou un pilote en solution déployable.\nAutonomie dans la gestion des projets confiés.\nCapacité à travailler dans un contexte international et multiculturel.\nGoût pour le terrain et les échanges avec les équipes industrielles.\nProactivité et sens des responsabilités.",
+   "duration": 12,
+   "start_date": "2027-03-01T00:00:00",
+   "end_date": "2028-03-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-11-19T17:24:49Z",
+   "sector": "",
+   "specialization": "[\"149\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-11-19T17:24:49Z",
+    "missionStartDate": "2027-03-01T00:00:00",
+    "missionEndDate": "2028-03-01T00:00:00",
+    "startBroadcastDate": "2026-11-20T00:00:00",
+    "endBroadcastDate": "2026-12-20T00:00:00"
+   },
+   "summary": "Rejoignez Saint-Gobain Insulation au Danemark et participez à la transformation digitale de nos usines à travers le déploiement de technologies Industrie 4.0 dédiées à la maintenance et à la performance industrielle.\n\nBasé(e) sur notre site pilote de Vamdrup, vous contribuerez à tester, valider et industrialiser de nouvelles solutions de maintenance prédictive, de suivi des équipements et d'analyse de données avant leur déploiement dans notre réseau international d'usines.\n\nCette mission vous permettra de travailler à l'interface entre les équipes terrain et l'organisation centrale, avec une forte exposition aux projets de digital manufacturing et aux experts industriels du Groupe.\n\nVotre mission\n\nContribuer à la validation, à l'industrialisation et au déploiement de solutions Industrie 4.0 destinées à améliorer la maintenance, le pilotage des équipements et la performance industrielle au sein du réseau mondial des usines Saint-Gobain Insulation. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/248533",
+   "score": 53,
+   "label": "Bonne adéquation",
+   "first_seen": "2026-11-20T15:25:14+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 45,
+    "qual": 8,
+    "calc": 9
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "calc4",
+     "axis": "calc",
+     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
+     "weight": 4,
+     "terms": [
+      "python"
+     ]
+    },
+    {
+     "id": "prod4",
+     "axis": "prod",
+     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
+     "weight": 10,
+     "terms": [
+      "industrialisation"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "engineering",
+      "manufacturing"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "standards",
+      "validation"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "ingenieur",
+      "maintenance"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "industrial",
+      "industriel",
+      "mecanique"
      ],
      "points": 5
     },
@@ -8982,15 +8976,15 @@
    "expiry_date": "",
    "publish_date": "2026-04-10T14:13:50Z",
    "sector": "",
-   "specialization": "107",
+   "specialization": "[\"107\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-04-10T14:13:50Z",
     "missionStartDate": "2027-01-01T00:00:00",
     "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-27T00:00:00",
-    "endBroadcastDate": "2026-11-26T00:00:00"
+    "startBroadcastDate": "2026-11-20T00:00:00",
+    "endBroadcastDate": "2026-12-20T00:00:00"
    },
    "summary": "HOUSE OF ABY, groupe d'ingénierie et de conseil présent dans 9 pays, réunit 11 marques (Abylsen, ABMI, Pharmacos…) et s'appuie sur 4 grands piliers : Engineering (expertise technique et ingénierie de pointe), Solutions (développement et mise en œuvre de solutions adaptées), Digital (innovation et transformation numérique) et Advisory (conseil stratégique RH/QRSE).\r\n\r\nNous opérons dans 8 secteurs clés, dont l’aéronautique - spatial, l’automobile, la défense, l’énergie, le BTP – Infrastructure – Ferroviaire, l’IT – Télécommunications, Life Sciences, Banque – Finance – Assurances.\r\n\r\nDescription du poste : \r\n\r\nEn tant qu’Ingénieur Maintenance au sein d’un environnement industriel (aéronautique, ferroviaire ou similaire), vous contribuez à garantir la disponibilité, la fiabilité et la performance des équipements de production.\r\n\r\n- Assurer le support technique des équipes de maintenance pour résoudre les pannes complexes.\r\n- Analyser les causes racines des défaillances et proposer des actions correctives et préventives. […]",
    "url": "https://mon-vie-via.businessfrance.fr/offres/242175",
@@ -9077,7 +9071,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-26T10:16:15Z",
    "sector": "",
-   "specialization": "130",
+   "specialization": "[\"130\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9477,7 +9471,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-23T09:02:41Z",
    "sector": "",
-   "specialization": "52, 66, 114, 115, 143, 148, 153",
+   "specialization": "[\"52\",\"66\",\"114\",\"115\",\"143\",\"148\",\"153\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9733,105 +9727,6 @@
    ]
   },
   {
-   "id": "247245",
-   "title": "Ingénieur HSE (Hygiène, Sécurité, Environnement) (H/F)",
-   "company": "COMPAGNIE DE SAINT-GOBAIN",
-   "country": "SUEDE",
-   "city": "BALSTA",
-   "description": "Vous souhaitez évoluer au cœur d'un environnement industriel et contribuer concrètement à l'amélioration des performances Environnement, Santé & Sécurité d'un site de production ?\n\nRejoignez Gyproc Sweden, l'activité plaques de plâtre de Saint-Gobain en Suède, en tant qu'Ingénieur HSE VIE.\n\nBasé sur notre site industriel de Bålsta, qui compte environ 120 collaborateurs, vous contribuerez au déploiement de la stratégie HSE du Groupe et à l'amélioration continue des standards Environnement, Santé & Sécurité.\n\nLe site dispose déjà d'une culture HSE solide. Cependant, plusieurs axes de progrès ont été identifiés afin d'atteindre les ambitions et standards du Groupe Saint-Gobain. Dans ce contexte, vous accompagnerez les équipes opérationnelles et les responsables HSE dans l'identification des écarts et la mise en œuvre d'actions d'amélioration concrètes.\n\nVotre mission se concentrera principalement sur le site de Bålsta, tout en vous donnant l'opportunité d'intervenir ponctuellement sur d'autres sites du Groupe situés dans la région de Stockholm et du centre de la Suède.\n\nÀ ce titre, vous serez notamment amené(e) à :\n\nRéaliser des analyses de risques sécurité et environnement et identifier les opportunités d'amélioration\nÉvaluer les écarts entre les pratiques existantes et les standards HSE du Groupe Saint-Gobain\nParticiper au déploiement de plans d'actions visant à réduire les risques et améliorer la performance HSE\nContribuer à la conduite de projets d'amélioration continue en lien avec les méthodologies World Class Manufacturing (WCM)\nCollaborer avec les équipes de production, les managers et les autres fonctions du site pour garantir la mise en œuvre des actions définies\nParticiper aux campagnes de communication et de sensibilisation afin de renforcer la culture HSE auprès des collaborateurs\nAssurer le suivi, l'analyse et le reporting des principaux indicateurs HSE (accidents, quasi-accidents, incidents environnementaux, etc.)\nParticiper aux inspections terrain, audits internes et audits externes, ainsi qu'au suivi des plans d'actions associés\nAccompagner et former les managers et les équipes sur les sujets Santé, Sécurité et Environnement\nSoutenir le déploiement des standards et bonnes pratiques HSE du Groupe sur l'ensemble des sites concernés\nCette mission vous offrira une forte exposition terrain et l'opportunité de travailler avec de nombreux interlocuteurs, tout en développant vos compétences en gestion de projets, amélioration continue et excellence opérationnelle dans un environnement industriel international.",
-   "mission": "",
-   "profile": "Formation\n\nDiplôme d'Ingénieur ou Master spécialisé en Santé, Sécurité, Environnement, HSE ou domaine équivalent\nExpérience\n\nUne première expérience en environnement industriel ou sur un site de production\nUne exposition aux problématiques HSE serait un réel atout\nUne première expérience en amélioration continue, Lean, WCM ou Six Sigma est appréciée\nCompétences techniques\n\nConnaissances des enjeux santé, sécurité et environnement\nCompréhension de la réglementation liée à l'environnement de travail et/ou à l'environnement\nCapacité à analyser des données et proposer des actions correctives\nLangues\n\nAnglais courant (B2/C1 minimum)\nSoft Skills\n\nNous recherchons une personne :\n\nCurieuse et motivée par les sujets HSE\nÀ l'aise dans les échanges avec des interlocuteurs variés\nProactive et force de proposition\nOrganisée et capable de gérer plusieurs sujets simultanément\nRigoureuse dans le suivi des actions\nOrientée solutions\nAppréciant le travail de terrain et le contact avec les équipes opérationnelles\nDotée d'un bon esprit d'équipe",
-   "duration": 12,
-   "start_date": "2027-03-01T00:00:00",
-   "end_date": "2028-03-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-19T15:45:02Z",
-   "sector": "",
-   "specialization": "155",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-19T15:45:02Z",
-    "missionStartDate": "2027-03-01T00:00:00",
-    "missionEndDate": "2028-03-01T00:00:00",
-    "startBroadcastDate": "2026-10-20T00:00:00",
-    "endBroadcastDate": "2026-11-19T00:00:00"
-   },
-   "summary": "Vous souhaitez évoluer au cœur d'un environnement industriel et contribuer concrètement à l'amélioration des performances Environnement, Santé & Sécurité d'un site de production ?\n\nRejoignez Gyproc Sweden, l'activité plaques de plâtre de Saint-Gobain en Suède, en tant qu'Ingénieur HSE VIE.\n\nBasé sur notre site industriel de Bålsta, qui compte environ 120 collaborateurs, vous contribuerez au déploiement de la stratégie HSE du Groupe et à l'amélioration continue des standards Environnement, Santé & Sécurité.\n\nLe site dispose déjà d'une culture HSE solide. Cependant, plusieurs axes de progrès ont été identifiés afin d'atteindre les ambitions et standards du Groupe Saint-Gobain. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/247245",
-   "score": 49,
-   "label": "À examiner",
-   "first_seen": "2026-10-20T11:34:12+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 24,
-    "qual": 34,
-    "calc": 0
-   },
-   "dominant_axis": "qual",
-   "matched_families": [
-    {
-     "id": "prod5",
-     "axis": "prod",
-     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
-     "weight": 4,
-     "terms": [
-      "lean"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "amelioration continue",
-      "manufacturing"
-     ]
-    },
-    {
-     "id": "qual3",
-     "axis": "qual",
-     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
-     "weight": 7,
-     "terms": [
-      "six sigma"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "standards"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "hse",
-      "ingenieur"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "industriel"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "233036",
    "title": "INGENIEUR METHODES H/F (H/F)",
    "company": "EFE INTERNATIONAL",
@@ -9846,7 +9741,7 @@
    "expiry_date": "",
    "publish_date": "2025-11-19T10:45:12Z",
    "sector": "",
-   "specialization": "[\"77\",\"149\",\"207\"]",
+   "specialization": "77, 149, 207",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10014,105 +9909,6 @@
      "label": "Secteur industriel compatible",
      "terms": [
       "industriel"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
-   "id": "247293",
-   "title": "Ingénieur-Chercheur (H/F)",
-   "company": "ELECTRICITE DE FRANCE",
-   "country": "CHINE",
-   "city": "PEKIN",
-   "description": "You will work at the EDF R&D China center located in Beijing. The main missions of R&D China center are to provide technical support to EDF China’s business units, and link with the very dynamic local innovation ecosystem. You will join the center as a “Electrification Research Engineer”. You will work within a small research team closely linked to EDF R&D’s international experts, and in interaction with business units and local academic partners and research labs.\nThe position focuses on electrification technologies to decarbonize the key industry sectors. The core research scope covers industrial electrification technologies such as high temperature heat pumps, electric boilers and electric furnaces for high temperature application scenarios (>800C), innovative electrification solutions for agriculture, or relevant innovations. Leveraging on a comprehensive vision on Europe and China’s electrification roadmap, you will study and evaluate critical situations, technical solutions and business models to support the deployment of electrification during energy transition.\nAs a VIE, you will support a broad range of Electrification R&D activities, that may include:\n• Support technical research, feasibility study for industrial electrification project based on different energy market scenarios.\n• Technical-economic analyses , or modeling of different technical solutions, including heat pumps and its hybrid solution with thermal storage or MVR (Mechanical Vapor Recompression), electric boilers, electric furnaces, or other electrification technologies.\n• Track industry policy and market trend, identify innovative solutions, technologies, or products, support internal technical iteration and knowledge accumulation.\n• Experimental data acquisition and analyses.\n• Participate to build research collaboration programs with academic and research institutes partners.",
-   "mission": "",
-   "profile": "EDUCATIONAL LEVEL  Bac + 5 \r\nDEGREE(S) : PhD, Master 2, Ingénieur...\r\nSPÉCIALIZATION : electric power system, power electronics, control engineering, energy engineering, \r\nINSTITUTIONS /SCHOOLS : Mines, Centrales, CentraleSupélec, etc...\r\nREQUIRED LANGUAGE(S) in order of priority: 1. English 2. Chinese 3. French \r\n Others skills : \r\nTechnical :\r\n• Solid understanding of industrial production workflow, heat transfer and heat recovery, heating systems (Heat pump, electric heater/boiler/furnace, etc) and energy consumption characteristics.\r\n• Familiar with thermodynamic modeling, process modeling or energy efficiency analysis.\r\n• Familiar with industrial simulation software such as Aspen Plus, HYSYS, PRO/II, ProSim, etc. Proficient in Python language.\r\n• Practical working experiences in utility companies on industry electrification will be a strong plus.\r\nPersonal:\r\n• Professional, positive attitudes with strong communication skills; both written and oral,\r\n• Strong logic thinking, self-motivated, ability to work efficiently both individually and in a team,\r\n• Rigorous, data sensitivity and able to handle multi-task technical work.\r\n• Motivated to tackle new problems and take on new responsibilities,\r\n• Attracted by a career in a large multicultural and international group.",
-   "duration": 12,
-   "start_date": "2027-03-01T00:00:00",
-   "end_date": "2028-03-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-20T16:06:13Z",
-   "sector": "",
-   "specialization": "68",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-20T16:06:13Z",
-    "missionStartDate": "2027-03-01T00:00:00",
-    "missionEndDate": "2028-03-01T00:00:00",
-    "startBroadcastDate": "2026-10-21T00:00:00",
-    "endBroadcastDate": "2026-11-19T00:00:00"
-   },
-   "summary": "You will work at the EDF R&D China center located in Beijing. The main missions of R&D China center are to provide technical support to EDF China’s business units, and link with the very dynamic local innovation ecosystem. You will join the center as a “Electrification Research Engineer”. You will work within a small research team closely linked to EDF R&D’s international experts, and in interaction with business units and local academic partners and research labs.\nThe position focuses on electrification technologies to decarbonize the key industry sectors. The core research scope covers industrial electrification technologies such as high temperature heat pumps, electric boilers and electric furnaces for high temperature application scenarios (>800C), innovative electrification solutions for agriculture, or relevant innovations. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/247293",
-   "score": 48,
-   "label": "À examiner",
-   "first_seen": "2026-10-21T11:46:49+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 10,
-    "qual": 0,
-    "calc": 36
-   },
-   "dominant_axis": "calc",
-   "matched_families": [
-    {
-     "id": "calc1",
-     "axis": "calc",
-     "source": "Éléments finis (256-1, 24 h), TP simulation numérique (272-1, 285-5, 285-4, 63 h), Calculs numériques de mise en forme (277-1, 286-1, 50 h)",
-     "weight": 12,
-     "terms": [
-      "modeling"
-     ]
-    },
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
-     "weight": 4,
-     "terms": [
-      "python"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "engineering"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "r&d"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "energy",
-      "industrial",
-      "mechanical"
      ],
      "points": 5
     },
@@ -10320,7 +10116,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-26T15:04:30Z",
    "sector": "",
-   "specialization": "106",
+   "specialization": "[\"106\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10714,6 +10510,108 @@
    ]
   },
   {
+   "id": "248526",
+   "title": "R&D Product Support – Engineering Profile (H/F)",
+   "company": "BAXTER S.A.S",
+   "country": "BELGIQUE",
+   "city": "BRUXELLES",
+   "description": "The Advanced Surgery R&D Operations team in Braine-l'Alleud is expanding its local capability to strengthen scientific and engineering support for our products throughout their lifecycle. The team provides cross-functional support for Change Control, product lifecycle management, Design control, technical assessments, investigations and laboratory activities. \nWe are looking for a VIE with a general engineering / functional background to join the team and contribute to both product support and laboratory activities. \nThe position will combine: \n- Change control, product support, design control and lifecycle management activities \n- Laboratory and technical activities \n\nThe role offers broad exposure to R&D Operations and requires the ability to work in a dynamic environment where priorities, technical questions, and project scope may evolve.\nRole and responsibilities: \n- Take ownership of assigned Change Control and product-support work packages with support from PDO, PRMO and Project Management. \n- Ensure appropriate follow-up of actions, documentation, timelines, and closure activities. \n- Provide engineering input into impact assessments, investigations, and product decisions. \n- Prepare clear and traceable Design Control and technical documentation. \n- Coordinate and execute functional, engineering, and laboratory testing activities. \n- Analyze technical data and translate results into clear engineering conclusions. \n- Collaborate effectively with multidisciplinary and international teams. \n- Work autonomously in an environment with evolving priorities and incomplete information, while knowing when alignment or escalation is required. \n- Contribute to the development of the R&D Product Support and laboratory capability at Braine-l’Alleud.",
+   "mission": "",
+   "profile": "- Master’s degree in engineering, for example mechanical engineering, biomedical engineering, chemical engineering, materials engineering, industrial engineering, pharmaceutical engineering, or another relevant engineering discipline. \n- Strong general engineering mindset and interest in product lifecycle and technical problem-solving. \n- Hands-on experience or interest in testing, experimental work, engineering studies, or laboratory activities. \n- Ability to analyze technical problems and develop structured, practical solutions. \n- Ability to prepare clear technical documentation and reports. \n- Strong organizational and project-follow-up skills. \n- Ability to manage multiple activities and changing priorities. \n- Comfortable working with uncertainty and incomplete information. \n- Rigorous, autonomous, pragmatic, and willing to take ownership. \n- Strong communication skills and ability to work in multidisciplinary and multicultural teams. \n- Professional French and English required. \n- Knowledge of medical devices, pharmaceutical products, Design Control, Change Control, functional testing, or regulated environments is an asset.",
+   "duration": 24,
+   "start_date": "2027-02-01T00:00:00",
+   "end_date": "2029-02-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-11-19T15:50:17Z",
+   "sector": "",
+   "specialization": "[\"109\",\"114\",\"125\",\"256\",\"262\",\"366\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-11-19T15:50:17Z",
+    "missionStartDate": "2027-02-01T00:00:00",
+    "missionEndDate": "2029-02-01T00:00:00",
+    "startBroadcastDate": "2026-11-20T00:00:00",
+    "endBroadcastDate": "2026-12-20T00:00:00"
+   },
+   "summary": "The Advanced Surgery R&D Operations team in Braine-l'Alleud is expanding its local capability to strengthen scientific and engineering support for our products throughout their lifecycle. The team provides cross-functional support for Change Control, product lifecycle management, Design control, technical assessments, investigations and laboratory activities. \nWe are looking for a VIE with a general engineering / functional background to join the team and contribute to both product support and laboratory activities. \nThe position will combine: \n- Change control, product support, design control and lifecycle management activities \n- Laboratory and technical activities \n\nThe role offers broad exposure to R&D Operations and requires the ability to work in a dynamic environment where priorities, technical questions, and project scope may evolve.\nRole and responsibilities: \n- Take ownership of assigned Change Control and product-support work packages with support from PDO, PRMO and Project Management. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/248526",
+   "score": 47,
+   "label": "À examiner",
+   "first_seen": "2026-11-20T15:25:14+00:00",
+   "axis_scores": {
+    "rd": 9,
+    "prod": 10,
+    "qual": 34,
+    "calc": 0
+   },
+   "dominant_axis": "qual",
+   "matched_families": [
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "engineering"
+     ]
+    },
+    {
+     "id": "qual3",
+     "axis": "qual",
+     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
+     "weight": 7,
+     "terms": [
+      "capability"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "testing"
+     ]
+    },
+    {
+     "id": "rd9",
+     "axis": "rd",
+     "source": "Vocabulaire de laboratoire courant",
+     "weight": 3,
+     "terms": [
+      "laboratory",
+      "problem solving",
+      "r&d"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "engineering",
+      "r&d"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "chemical",
+      "industrial",
+      "mechanical"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
    "id": "245839",
    "title": "Ingénieur matériaux (H/F)",
    "company": "FRATECH RP",
@@ -10728,15 +10626,15 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T08:00:24Z",
    "sector": "",
-   "specialization": "114",
+   "specialization": "[\"114\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-09-11T08:00:24Z",
     "missionStartDate": "2027-01-01T00:00:00",
     "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-27T00:00:00",
-    "endBroadcastDate": "2026-11-26T00:00:00"
+    "startBroadcastDate": "2026-11-20T00:00:00",
+    "endBroadcastDate": "2026-12-20T00:00:00"
    },
    "summary": "HOUSE OF ABY, groupe d'ingénierie et de conseil présent dans 9 pays, réunit 11 marques (Abylsen, ABMI, Pharmacos…) et s'appuie sur 4 grands piliers : Engineering (expertise technique et ingénierie de pointe), Solutions (développement et mise en œuvre de solutions adaptées), Digital (innovation et transformation numérique) et Advisory (conseil stratégique RH/QRSE).\r\n \r\nNous opérons dans 8 secteurs clés, dont l’aéronautique - spatial, l’automobile, la défense, l’énergie, le BTP – Infrastructure – Ferroviaire, l’IT – Télécommunications, Life Sciences, Banque – Finance – Assurances.\r\n\nVos responsabilités au quotidien ? \r\n\r\n· Soutenir l'ensemble des activités, allant de l'étude technique et de la R&D jusqu'aux nouveaux projets et au support de vie en série.\r\n· Soutenir le développement de projets concernant la caractérisation des matériaux, le développement et la caractérisation de nouveaux procédés, le développement et la qualification de pièces métalliques et de normes mécaniques.\r\n· Définition et suivi des programmes d'essais.\r\n· Sélection des matériaux et des procédés mécaniques.",
    "url": "https://mon-vie-via.businessfrance.fr/offres/245839",
@@ -11765,7 +11663,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-16T14:07:39Z",
    "sector": "",
-   "specialization": "[\"70\"]",
+   "specialization": "70",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -11856,7 +11754,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-30T15:52:14Z",
    "sector": "",
-   "specialization": "[\"64\",\"65\",\"66\",\"73\",\"77\",\"107\",\"155\",\"207\"]",
+   "specialization": "64, 65, 66, 73, 77, 107, 155, 207",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12034,118 +11932,6 @@
    ]
   },
   {
-   "id": "243256",
-   "title": "Project Manager, Engineering (H/F)",
-   "company": "CEVA SANTE ANIMALE",
-   "country": "ETATS-UNIS",
-   "city": "VERONA",
-   "description": "The Project Manager, Engineering is responsible for leading capital and operational projects including facility construction and renovation, equipment installation, and manufacturing process optimization. This role is accountable for managing scope, schedule, budget, and risk while ensuring projects are executed in compliance with applicable regulatory, quality, and safety requirements.\n\nProject & Portfolio Management\n• Define and manage project scope, resources, schedules, budgets, risks, and milestones.\n• Review, validate, and support approval of project requests in accordance with company governance.\n• Develop, maintain, and communicate project schedules and portfolio status.\n• Coordinate cross functional stakeholders (Production, Maintenance, Supply Chain, Procurement) to resolve priorities and schedule conflicts.\n• Lead and support project teams throughout execution, managing risks, quality, and change.\n• Monitor project performance (cost, schedule, risk, quality) and prepare status reports for management.\n• Ensure projects are executed and closed in compliance with company policies and procedures.\nEngineering, Equipment & Validation\n• Lead engineering projects involving facility construction, renovation, and production or laboratory equipment installation or modernization.\n• Manage internal equipment validation and qualification activities, including protocol development and execution.\n• Coordinate technical validation activities (process, cleaning, software, utilities).\n• Support production start up and ramp up following project completion.\nContinuous Improvement & Technical Support\n• Identify and implement processes, equipment, and workflow improvements using Lean principles and digital solutions.\n• Support Maintenance with technical troubleshooting and reliability improvements as needed.\nSupplier, Quality & Compliance\n• Develop technical and financial specifications, manage supplier, contractor, and integrator performance.\n• Ensure compliance with GMP, USDA, safety, and regulatory requirements; support audits and inspections in collaboration with Quality and Regulatory teams.",
-   "mission": "",
-   "profile": "Education –Master’s degree in Engineering or related field\n\nWork Experience – Minimum of 3 years of project management experience supporting capital projects in a regulated manufacturing environment\n\nOther – Experience in pharmaceutical, chemical or biotechnology industries, preferred",
-   "duration": 12,
-   "start_date": "2027-02-01T00:00:00",
-   "end_date": "2028-02-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-05-22T13:33:19Z",
-   "sector": "",
-   "specialization": "109",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-05-22T13:33:19Z",
-    "missionStartDate": "2027-02-01T00:00:00",
-    "missionEndDate": "2028-02-01T00:00:00",
-    "startBroadcastDate": "2026-11-12T00:00:00",
-    "endBroadcastDate": "2026-11-19T00:00:00"
-   },
-   "summary": "The Project Manager, Engineering is responsible for leading capital and operational projects including facility construction and renovation, equipment installation, and manufacturing process optimization. This role is accountable for managing scope, schedule, budget, and risk while ensuring projects are executed in compliance with applicable regulatory, quality, and safety requirements.\n\nProject & Portfolio Management\n• Define and manage project scope, resources, schedules, budgets, risks, and milestones.\n• Review, validate, and support approval of project requests in accordance with company governance.\n• Develop, maintain, and communicate project schedules and portfolio status.\n• Coordinate cross functional stakeholders (Production, Maintenance, Supply Chain, Procurement) to resolve priorities and schedule conflicts.\n• Lead and support project teams throughout execution, managing risks, quality, and change.\n• Monitor project performance (cost, schedule, risk, quality) and prepare status reports for management. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/243256",
-   "score": 44,
-   "label": "À examiner",
-   "first_seen": "2026-11-12T15:11:53+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 24,
-    "qual": 23,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod5",
-     "axis": "prod",
-     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
-     "weight": 4,
-     "terms": [
-      "lean",
-      "process optimization"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "continuous improvement",
-      "engineering",
-      "manufacturing"
-     ]
-    },
-    {
-     "id": "qual2",
-     "axis": "qual",
-     "source": "Qualité et normes (774-1, 14 h, coefficient 0,5)",
-     "weight": 4,
-     "terms": [
-      "supplier quality"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "compliance",
-      "qualification",
-      "quality",
-      "validation"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "laboratory"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineering"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "chemical"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "245352",
    "title": "INGÉNIEUR AMÉLIORATION CONTINUE (H/F)",
    "company": "FORTIL GROUP",
@@ -12160,7 +11946,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-21T14:45:41Z",
    "sector": "",
-   "specialization": "[\"60\",\"149\",\"150\",\"206\",\"207\",\"264\"]",
+   "specialization": "60, 149, 150, 206, 207, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -13143,7 +12929,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-10T15:15:30Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -13305,7 +13091,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-10T14:47:42Z",
    "sector": "",
-   "specialization": "[\"66\"]",
+   "specialization": "66",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -13476,7 +13262,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-09T11:49:54Z",
    "sector": "",
-   "specialization": "[\"68\",\"144\",\"180\",\"365\"]",
+   "specialization": "68, 144, 180, 365",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -13948,7 +13734,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-12T13:36:38Z",
    "sector": "",
-   "specialization": "77",
+   "specialization": "[\"77\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -14210,7 +13996,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-10T12:09:01Z",
    "sector": "",
-   "specialization": "86, 264",
+   "specialization": "[\"86\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -14468,7 +14254,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-20T14:14:41Z",
    "sector": "",
-   "specialization": "[\"70\"]",
+   "specialization": "70",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -14957,7 +14743,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-17T10:43:59Z",
    "sector": "",
-   "specialization": "[\"70\"]",
+   "specialization": "70",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -15057,7 +14843,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-17T10:41:14Z",
    "sector": "",
-   "specialization": "[\"70\"]",
+   "specialization": "70",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -16111,7 +15897,7 @@
    "expiry_date": "",
    "publish_date": "2025-11-12T08:45:10Z",
    "sector": "",
-   "specialization": "[\"149\",\"208\",\"209\"]",
+   "specialization": "149, 208, 209",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -16343,7 +16129,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-27T07:36:26Z",
    "sector": "",
-   "specialization": "[\"244\"]",
+   "specialization": "244",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -16460,7 +16246,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-27T07:28:59Z",
    "sector": "",
-   "specialization": "[\"244\"]",
+   "specialization": "244",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -17102,6 +16888,128 @@
    ]
   },
   {
+   "id": "242172",
+   "title": "Ingénieur électronique (H/F)",
+   "company": "FRATECH RP",
+   "country": "BELGIQUE",
+   "city": "BRUXELLES",
+   "description": "HOUSE OF ABY, groupe d'ingénierie et de conseil présent dans 9 pays, réunit 11 marques (Abylsen, ABMI, Pharmacos…) et s'appuie sur 4 grands piliers : Engineering (expertise technique et ingénierie de pointe), Solutions (développement et mise en œuvre de solutions adaptées), Digital (innovation et transformation numérique) et Advisory (conseil stratégique RH/QRSE).\r\n\r\nNous opérons dans 8 secteurs clés, dont l’aéronautique - spatial, l’automobile, la défense, l’énergie, le BTP – Infrastructure – Ferroviaire, l’IT – Télécommunications, Life Sciences, Banque – Finance – Assurances.\r\n\r\nNous recherchons un Ingénieur Électronique pour intervenir sur des projets industriels à forte exigence technique. Vous participez à la conception, au développement et à la validation de systèmes électroniques, depuis l’analyse du besoin jusqu’à l’industrialisation, en lien avec des équipes pluridisciplinaires.\r\n\r\nMissions principales :\r\n\r\n- Conception et développement\r\n- Analyser les besoins fonctionnels et techniques des systèmes électroniques.\r\n- Définir les standards et bonnes pratiques de conception électronique en collaboration avec les équipes projets.\r\n- Choisir les solutions d’architecture électronique adaptées aux contraintes techniques, normatives et économiques.\r\n- Concevoir les schémas électroniques (analogiques, numériques ou mixtes).\r\n- Sélectionner les composants et réaliser les calculs associés.\r\n- Suivre ou réaliser le routage des cartes électroniques (PCB).\r\n- Intégrer les contraintes de fiabilité, consommation, coût et durée de vie dès la phase de conception.\r\n- Validation, industrialisation et maintenance\r\n- Définir et mettre en œuvre les plans de tests et de validation.\r\n- Réaliser les essais fonctionnels, environnementaux et CEM.\r\n- Analyser les résultats de tests et piloter les actions correctives.\r\n- Contribuer aux phases d’industrialisation et de mise en production.\r\n- Assurer la conformité des produits aux normes et réglementations en vigueur (CE, CEM, sécurité électrique).\r\n- Participer aux évolutions produits et au traitement des faits techniques.\r\n- Mettre en place et suivre les indicateurs qualité liés aux systèmes électroniques.\r\n- Support et assistance\r\n- Apporter un support technique aux équipes logiciel embarqué, mécanique, méthodes et production.\r\n- Accompagner les équipes dans la résolution des problématiques électroniques.\r\n- Capitaliser les retours d’expérience et contribuer à l’amélioration continue.",
+   "mission": "",
+   "profile": "Votre profil : \r\n\r\n- Formation supérieure en électronique (Bac+5 ou équivalent).\r\n- Expérience en conception et développement de systèmes électroniques en environnement industriel.\r\n- Maîtrise des outils de CAO électronique (Altium, OrCAD, Cadence ou équivalent).\r\n- Solides compétences en électronique analogique, numérique et/ou de puissance.\r\n- Bonne connaissance des contraintes normatives, industrielles et qualité.\r\n- Rigueur, esprit d’analyse et capacité à travailler en équipe projet.\r\n- Autonomie et sens des responsabilités techniques.\r\n\r\nVous souhaitez contribuer à des projets d’envergure ? N’attendez plus pour postuler !\r\n\r\nVous bénéficierez également d’un parcours de formation personnalisé afin de développer vos compétences et d’accompagner votre évolution professionnelle.\r\n\r\nLe process de recrutement : \r\n\r\nLe processus débute par un échange téléphonique, suivi d’un entretien avec un Talent Acquisition Officer. Vous rencontrerez ensuite un Business Manager, avant un dernier entretien permettant de finaliser le processus et, le cas échéant, de vous présenter une proposition de contrat.\r\n\r\nDans le cadre de l'égalité des chances, toutes nos offres d'emploi sont ouvertes aux personnes en situation de handicap.",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-04-10T14:00:20Z",
+   "sector": "",
+   "specialization": "[\"73\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-04-10T14:00:20Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-11-20T00:00:00",
+    "endBroadcastDate": "2026-12-20T00:00:00"
+   },
+   "summary": "HOUSE OF ABY, groupe d'ingénierie et de conseil présent dans 9 pays, réunit 11 marques (Abylsen, ABMI, Pharmacos…) et s'appuie sur 4 grands piliers : Engineering (expertise technique et ingénierie de pointe), Solutions (développement et mise en œuvre de solutions adaptées), Digital (innovation et transformation numérique) et Advisory (conseil stratégique RH/QRSE).\r\n\r\nNous opérons dans 8 secteurs clés, dont l’aéronautique - spatial, l’automobile, la défense, l’énergie, le BTP – Infrastructure – Ferroviaire, l’IT – Télécommunications, Life Sciences, Banque – Finance – Assurances.\r\n\r\nNous recherchons un Ingénieur Électronique pour intervenir sur des projets industriels à forte exigence technique. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/242172",
+   "score": 35,
+   "label": "À examiner",
+   "first_seen": "2026-10-27T12:09:09+00:00",
+   "axis_scores": {
+    "rd": 29,
+    "prod": 45,
+    "qual": 8,
+    "calc": 20
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "calc2",
+     "axis": "calc",
+     "source": "CAO (278-1, 30 h), Conception mécanique (264-1, 43 h)",
+     "weight": 9,
+     "terms": [
+      "cao"
+     ]
+    },
+    {
+     "id": "prod4",
+     "axis": "prod",
+     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
+     "weight": 10,
+     "terms": [
+      "industrialisation"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "amelioration continue",
+      "engineering",
+      "ingenierie",
+      "methodes"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "conformite",
+      "essais",
+      "normes",
+      "qualite"
+     ]
+    },
+    {
+     "id": "rd4",
+     "axis": "rd",
+     "source": "Rupture et fatigue des matériaux (291-1, 47 h)",
+     "weight": 10,
+     "terms": [
+      "duree de vie"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "ingenieur"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "aeronautique",
+      "automobile",
+      "defense"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    },
+    {
+     "label": "Formation exigée hors cursus : score plafonné",
+     "terms": [
+      "electronique"
+     ],
+     "points": -24,
+     "cap": 35
+    }
+   ]
+  },
+  {
    "id": "242244",
    "title": "Ingénieur projets électrique (H/F)",
    "company": "FRATECH RP",
@@ -17206,128 +17114,6 @@
       "gestion"
      ],
      "points": -15,
-     "cap": 35
-    }
-   ]
-  },
-  {
-   "id": "242172",
-   "title": "Ingénieur électronique (H/F)",
-   "company": "FRATECH RP",
-   "country": "BELGIQUE",
-   "city": "BRUXELLES",
-   "description": "HOUSE OF ABY, groupe d'ingénierie et de conseil présent dans 9 pays, réunit 11 marques (Abylsen, ABMI, Pharmacos…) et s'appuie sur 4 grands piliers : Engineering (expertise technique et ingénierie de pointe), Solutions (développement et mise en œuvre de solutions adaptées), Digital (innovation et transformation numérique) et Advisory (conseil stratégique RH/QRSE).\r\n\r\nNous opérons dans 8 secteurs clés, dont l’aéronautique - spatial, l’automobile, la défense, l’énergie, le BTP – Infrastructure – Ferroviaire, l’IT – Télécommunications, Life Sciences, Banque – Finance – Assurances.\r\n\r\nNous recherchons un Ingénieur Électronique pour intervenir sur des projets industriels à forte exigence technique. Vous participez à la conception, au développement et à la validation de systèmes électroniques, depuis l’analyse du besoin jusqu’à l’industrialisation, en lien avec des équipes pluridisciplinaires.\r\n\r\nMissions principales :\r\n\r\n- Conception et développement\r\n- Analyser les besoins fonctionnels et techniques des systèmes électroniques.\r\n- Définir les standards et bonnes pratiques de conception électronique en collaboration avec les équipes projets.\r\n- Choisir les solutions d’architecture électronique adaptées aux contraintes techniques, normatives et économiques.\r\n- Concevoir les schémas électroniques (analogiques, numériques ou mixtes).\r\n- Sélectionner les composants et réaliser les calculs associés.\r\n- Suivre ou réaliser le routage des cartes électroniques (PCB).\r\n- Intégrer les contraintes de fiabilité, consommation, coût et durée de vie dès la phase de conception.\r\n- Validation, industrialisation et maintenance\r\n- Définir et mettre en œuvre les plans de tests et de validation.\r\n- Réaliser les essais fonctionnels, environnementaux et CEM.\r\n- Analyser les résultats de tests et piloter les actions correctives.\r\n- Contribuer aux phases d’industrialisation et de mise en production.\r\n- Assurer la conformité des produits aux normes et réglementations en vigueur (CE, CEM, sécurité électrique).\r\n- Participer aux évolutions produits et au traitement des faits techniques.\r\n- Mettre en place et suivre les indicateurs qualité liés aux systèmes électroniques.\r\n- Support et assistance\r\n- Apporter un support technique aux équipes logiciel embarqué, mécanique, méthodes et production.\r\n- Accompagner les équipes dans la résolution des problématiques électroniques.\r\n- Capitaliser les retours d’expérience et contribuer à l’amélioration continue.",
-   "mission": "",
-   "profile": "Votre profil : \r\n\r\n- Formation supérieure en électronique (Bac+5 ou équivalent).\r\n- Expérience en conception et développement de systèmes électroniques en environnement industriel.\r\n- Maîtrise des outils de CAO électronique (Altium, OrCAD, Cadence ou équivalent).\r\n- Solides compétences en électronique analogique, numérique et/ou de puissance.\r\n- Bonne connaissance des contraintes normatives, industrielles et qualité.\r\n- Rigueur, esprit d’analyse et capacité à travailler en équipe projet.\r\n- Autonomie et sens des responsabilités techniques.\r\n\r\nVous souhaitez contribuer à des projets d’envergure ? N’attendez plus pour postuler !\r\n\r\nVous bénéficierez également d’un parcours de formation personnalisé afin de développer vos compétences et d’accompagner votre évolution professionnelle.\r\n\r\nLe process de recrutement : \r\n\r\nLe processus débute par un échange téléphonique, suivi d’un entretien avec un Talent Acquisition Officer. Vous rencontrerez ensuite un Business Manager, avant un dernier entretien permettant de finaliser le processus et, le cas échéant, de vous présenter une proposition de contrat.\r\n\r\nDans le cadre de l'égalité des chances, toutes nos offres d'emploi sont ouvertes aux personnes en situation de handicap.",
-   "duration": 12,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-04-10T14:00:20Z",
-   "sector": "",
-   "specialization": "[\"73\"]",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-04-10T14:00:20Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-27T00:00:00",
-    "endBroadcastDate": "2026-11-26T00:00:00"
-   },
-   "summary": "HOUSE OF ABY, groupe d'ingénierie et de conseil présent dans 9 pays, réunit 11 marques (Abylsen, ABMI, Pharmacos…) et s'appuie sur 4 grands piliers : Engineering (expertise technique et ingénierie de pointe), Solutions (développement et mise en œuvre de solutions adaptées), Digital (innovation et transformation numérique) et Advisory (conseil stratégique RH/QRSE).\r\n\r\nNous opérons dans 8 secteurs clés, dont l’aéronautique - spatial, l’automobile, la défense, l’énergie, le BTP – Infrastructure – Ferroviaire, l’IT – Télécommunications, Life Sciences, Banque – Finance – Assurances.\r\n\r\nNous recherchons un Ingénieur Électronique pour intervenir sur des projets industriels à forte exigence technique. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/242172",
-   "score": 35,
-   "label": "À examiner",
-   "first_seen": "2026-10-27T12:09:09+00:00",
-   "axis_scores": {
-    "rd": 29,
-    "prod": 45,
-    "qual": 8,
-    "calc": 20
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "calc2",
-     "axis": "calc",
-     "source": "CAO (278-1, 30 h), Conception mécanique (264-1, 43 h)",
-     "weight": 9,
-     "terms": [
-      "cao"
-     ]
-    },
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
-     "weight": 10,
-     "terms": [
-      "industrialisation"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "amelioration continue",
-      "engineering",
-      "ingenierie",
-      "methodes"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "conformite",
-      "essais",
-      "normes",
-      "qualite"
-     ]
-    },
-    {
-     "id": "rd4",
-     "axis": "rd",
-     "source": "Rupture et fatigue des matériaux (291-1, 47 h)",
-     "weight": 10,
-     "terms": [
-      "duree de vie"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "aeronautique",
-      "automobile",
-      "defense"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Formation exigée hors cursus : score plafonné",
-     "terms": [
-      "electronique"
-     ],
-     "points": -24,
      "cap": 35
     }
    ]
@@ -18080,7 +17866,7 @@
    "expiry_date": "",
    "publish_date": "2026-05-11T14:33:59Z",
    "sector": "",
-   "specialization": "[\"86\",\"123\",\"125\",\"150\",\"155\",\"169\",\"206\",\"208\",\"209\",\"264\"]",
+   "specialization": "86, 123, 125, 150, 155, 169, 206, 208, 209, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -18273,7 +18059,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-16T09:46:27Z",
    "sector": "",
-   "specialization": "[\"29\"]",
+   "specialization": "29",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -18929,7 +18715,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-03T09:05:29Z",
    "sector": "",
-   "specialization": "[\"21\",\"79\",\"149\",\"150\"]",
+   "specialization": "21, 79, 149, 150",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19303,7 +19089,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-06T08:46:09Z",
    "sector": "",
-   "specialization": "175",
+   "specialization": "[\"175\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19909,7 +19695,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T08:07:40Z",
    "sector": "",
-   "specialization": "[\"251\"]",
+   "specialization": "251",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20085,7 +19871,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T15:08:09Z",
    "sector": "",
-   "specialization": "149",
+   "specialization": "[\"149\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20358,7 +20144,7 @@
    "expiry_date": "",
    "publish_date": "2025-11-19T10:45:12Z",
    "sector": "",
-   "specialization": "[\"71\",\"73\",\"224\"]",
+   "specialization": "71, 73, 224",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -20451,7 +20237,7 @@
    "expiry_date": "",
    "publish_date": "2025-10-08T09:46:46Z",
    "sector": "",
-   "specialization": "[\"71\",\"73\",\"224\"]",
+   "specialization": "71, 73, 224",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21016,7 +20802,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-26T10:10:10Z",
    "sector": "",
-   "specialization": "[\"327\"]",
+   "specialization": "327",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21382,7 +21168,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-20T07:14:32Z",
    "sector": "",
-   "specialization": "60, 77, 149, 150, 264",
+   "specialization": "[\"60\",\"77\",\"149\",\"150\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -21641,7 +21427,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-21T14:28:55Z",
    "sector": "",
-   "specialization": "[\"70\"]",
+   "specialization": "70",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22028,91 +21814,6 @@
    ]
   },
   {
-   "id": "242466",
-   "title": "Ingénieur Méthodes - Aéronautique-Spatial-Défense (H/F)",
-   "company": "FRATECH RP",
-   "country": "BELGIQUE",
-   "city": "BRUXELLES",
-   "description": "HOUSE OF ABY, groupe d'ingénierie et de conseil présent dans 9 pays, réunit 11 marques (Abylsen, ABMI, Pharmacos…) et s'appuie sur 4 grands piliers : Engineering (expertise technique et ingénierie de pointe), Solutions (développement et mise en œuvre de solutions adaptées), Digital (innovation et transformation numérique) et Advisory (conseil stratégique RH/QRSE).\r\n \r\nNous opérons dans 8 secteurs clés, dont l’aéronautique - spatial, l’automobile, la défense, l’énergie, le BTP – Infrastructure – Ferroviaire, l’IT – Télécommunications, Life Sciences, Banque – Finance – Assurances.\r\n\r\n- Analyser et optimiser les processus de fabrication pour augmenter l'efficacité et la qualité.\r\n- Développer et mettre en œuvre des outils et des méthodes de travail pour améliorer la production.\r\n- Gérer des projets d'amélioration continue en collaboration avec les équipes techniques.\r\n- Former et accompagner les équipes de production sur les nouvelles méthodes.\r\n- Assurer une veille technologique pour identifier et intégrer les innovations pertinentes.",
-   "mission": "",
-   "profile": "Nous recherchons un Ingénieur méthodes (F/H) avec une expérience de 2 à 3 ans, capable de mettre en œuvre des solutions ingénieuses grâce à un esprit entrepreneurial et une passion pour l'innovation.\r\n\r\n- Diplôme d'ingénieur (Bac+5) ou équivalent en génie industriel, mécanique ou un domaine similaire.\r\n- Expérience éprouvée de 2 à 3 ans dans un poste similaire, idéalement dans le secteur Aéronautique-Spatial-Défense.\r\n- Compétences techniques solides en amélioration des processus et gestion de projets.\r\n- Capacité à travailler en équipe et à communiquer efficacement avec différentes parties prenantes.\r\n- Esprit d'initiative, rigueur et sens de l'organisation.\r\n- Maîtrise des outils informatiques et des logiciels de gestion de production.\r\n\r\nVous souhaitez contribuer à des projets d’envergure dans les secteurs de l'aéronautique, du spatiale et de la défense ? N’attendez plus pour postuler !\r\n \r\nVous bénéficierez également d’un parcours de formation personnalisé afin de développer vos compétences et d’accompagner votre évolution professionnelle.\r\n \r\nLe process de recrutement\r\n \r\nLe processus débute par un échange téléphonique, suivi d’un entretien avec un Talent Acquisition Officer. Vous rencontrerez ensuite un Business Manager, avant un dernier entretien permettant de finaliser le processus et, le cas échéant, de vous présenter une proposition de contrat.\r\n \r\nDans le cadre de l'égalité des chances, toutes nos offres d'emploi sont ouvertes aux personnes en situation de handicap.",
-   "duration": 12,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-04-21T12:18:30Z",
-   "sector": "",
-   "specialization": "[\"60\"]",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-04-21T12:18:30Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-11-18T00:00:00",
-    "endBroadcastDate": "2026-12-18T00:00:00"
-   },
-   "summary": "HOUSE OF ABY, groupe d'ingénierie et de conseil présent dans 9 pays, réunit 11 marques (Abylsen, ABMI, Pharmacos…) et s'appuie sur 4 grands piliers : Engineering (expertise technique et ingénierie de pointe), Solutions (développement et mise en œuvre de solutions adaptées), Digital (innovation et transformation numérique) et Advisory (conseil stratégique RH/QRSE).\r\n \r\nNous opérons dans 8 secteurs clés, dont l’aéronautique - spatial, l’automobile, la défense, l’énergie, le BTP – Infrastructure – Ferroviaire, l’IT – Télécommunications, Life Sciences, Banque – Finance – Assurances.\r\n\r\n- Analyser et optimiser les processus de fabrication pour augmenter l'efficacité et la qualité.\r\n- Développer et mettre en œuvre des outils et des méthodes de travail pour améliorer la production.\r\n- Gérer des projets d'amélioration continue en collaboration avec les équipes techniques.\r\n- Former et accompagner les équipes de production sur les nouvelles méthodes.\r\n- Assurer une veille technologique pour identifier et intégrer les innovations pertinentes.",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/242466",
-   "score": 31,
-   "label": "Périphérique",
-   "first_seen": "2026-11-18T15:38:10+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 10,
-    "qual": 8,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "amelioration continue",
-      "engineering",
-      "fabrication",
-      "ingenierie"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "qualite"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur",
-      "methodes"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "aeronautique",
-      "automobile",
-      "defense"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "244457",
    "title": "INGÉNIEUR PROJET - (H/F)",
    "company": "FRATECH RP",
@@ -22127,15 +21828,15 @@
    "expiry_date": "",
    "publish_date": "2026-07-08T08:03:39Z",
    "sector": "",
-   "specialization": "65, 73, 77, 107, 206, 207, 224, 264",
+   "specialization": "[\"65\",\"73\",\"77\",\"107\",\"206\",\"207\",\"224\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-07-08T08:03:39Z",
     "missionStartDate": "2027-01-01T00:00:00",
     "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-27T00:00:00",
-    "endBroadcastDate": "2026-11-26T00:00:00"
+    "startBroadcastDate": "2026-11-20T00:00:00",
+    "endBroadcastDate": "2026-12-20T00:00:00"
    },
    "summary": "HOUSE OF ABY, groupe d'ingénierie et de conseil présent dans 9 pays, réunit 11 marques (Abylsen, ABMI, Pharmacos…) et s'appuie sur 4 grands piliers : Engineering (expertise technique et ingénierie de pointe), Solutions (développement et mise en œuvre de solutions adaptées), Digital (innovation et transformation numérique) et Advisory (conseil stratégique RH/QRSE).\r\n \r\nNous opérons dans 8 secteurs clés, dont l’aéronautique - spatial, l’automobile, la défense, l’énergie, le BTP – Infrastructure – Ferroviaire, l’IT – Télécommunications, Life Sciences, Banque – Finance – Assurances.\r\n\r\nVos responsabilités au quotidien ?\r\n\r\n• Analyse et compréhension des besoins exprimés par le client ou les parties prenantes\r\n• Rédaction du cahier des charges en intégrant les objectifs, les contraintes, les livrables, les délais et le budget\r\n• Réalisation d'études de faisabilité techniques, économiques et réglementaires\r\n• Élaboration du planning projet et répartition des ressources\r\n• Coordination des équipes techniques internes et/ou externes tout au long du projet […]",
    "url": "https://mon-vie-via.businessfrance.fr/offres/244457",
@@ -22209,15 +21910,15 @@
    "expiry_date": "",
    "publish_date": "2026-04-13T14:00:13Z",
    "sector": "",
-   "specialization": "109",
+   "specialization": "[\"109\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-04-13T14:00:13Z",
     "missionStartDate": "2027-01-01T00:00:00",
     "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-27T00:00:00",
-    "endBroadcastDate": "2026-11-26T00:00:00"
+    "startBroadcastDate": "2026-11-20T00:00:00",
+    "endBroadcastDate": "2026-12-20T00:00:00"
    },
    "summary": "HOUSE OF ABY, groupe d'ingénierie et de conseil présent dans 9 pays, réunit 11 marques (Abylsen, ABMI, Pharmacos…) et s'appuie sur 4 grands piliers : Engineering (expertise technique et ingénierie de pointe), Solutions (développement et mise en œuvre de solutions adaptées), Digital (innovation et transformation numérique) et Advisory (conseil stratégique RH/QRSE).\r\n\r\nNous opérons dans 8 secteurs clés, dont l’aéronautique - spatial, l’automobile, la défense, l’énergie, le BTP – Infrastructure – Ferroviaire, l’IT – Télécommunications, Life Sciences, Banque – Finance – Assurances.\r\n\r\nDescription du poste : \r\n\r\n- Gérer les projets de A à Z, dans le respect des délais, des coûts et de la qualité\r\n- Respecter et faire respecter le budget et le planning en y intégrant la gestion des risques\r\n- Encadrer les tâches d’études, de rédaction des cahiers des charges ainsi que les phases d’offres et de commande\r\n- Assurer la coordination et le respect des prescriptions du cahier des charges\r\n- Conserver une attache technique (électrique, instrumentation, mécanique, hydraulique…) […]",
    "url": "https://mon-vie-via.businessfrance.fr/offres/242220",
@@ -22257,6 +21958,91 @@
      "label": "Intitulé technique ciblé",
      "terms": [
       "ingenieur"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "aeronautique",
+      "automobile",
+      "defense"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    }
+   ]
+  },
+  {
+   "id": "242466",
+   "title": "Ingénieur Méthodes - Aéronautique-Spatial-Défense (H/F)",
+   "company": "FRATECH RP",
+   "country": "BELGIQUE",
+   "city": "BRUXELLES",
+   "description": "HOUSE OF ABY, groupe d'ingénierie et de conseil présent dans 9 pays, réunit 11 marques (Abylsen, ABMI, Pharmacos…) et s'appuie sur 4 grands piliers : Engineering (expertise technique et ingénierie de pointe), Solutions (développement et mise en œuvre de solutions adaptées), Digital (innovation et transformation numérique) et Advisory (conseil stratégique RH/QRSE).\r\n \r\nNous opérons dans 8 secteurs clés, dont l’aéronautique - spatial, l’automobile, la défense, l’énergie, le BTP – Infrastructure – Ferroviaire, l’IT – Télécommunications, Life Sciences, Banque – Finance – Assurances.\r\n\r\n- Analyser et optimiser les processus de fabrication pour augmenter l'efficacité et la qualité.\r\n- Développer et mettre en œuvre des outils et des méthodes de travail pour améliorer la production.\r\n- Gérer des projets d'amélioration continue en collaboration avec les équipes techniques.\r\n- Former et accompagner les équipes de production sur les nouvelles méthodes.\r\n- Assurer une veille technologique pour identifier et intégrer les innovations pertinentes.",
+   "mission": "",
+   "profile": "Nous recherchons un Ingénieur méthodes (F/H) avec une expérience de 2 à 3 ans, capable de mettre en œuvre des solutions ingénieuses grâce à un esprit entrepreneurial et une passion pour l'innovation.\r\n\r\n- Diplôme d'ingénieur (Bac+5) ou équivalent en génie industriel, mécanique ou un domaine similaire.\r\n- Expérience éprouvée de 2 à 3 ans dans un poste similaire, idéalement dans le secteur Aéronautique-Spatial-Défense.\r\n- Compétences techniques solides en amélioration des processus et gestion de projets.\r\n- Capacité à travailler en équipe et à communiquer efficacement avec différentes parties prenantes.\r\n- Esprit d'initiative, rigueur et sens de l'organisation.\r\n- Maîtrise des outils informatiques et des logiciels de gestion de production.\r\n\r\nVous souhaitez contribuer à des projets d’envergure dans les secteurs de l'aéronautique, du spatiale et de la défense ? N’attendez plus pour postuler !\r\n \r\nVous bénéficierez également d’un parcours de formation personnalisé afin de développer vos compétences et d’accompagner votre évolution professionnelle.\r\n \r\nLe process de recrutement\r\n \r\nLe processus débute par un échange téléphonique, suivi d’un entretien avec un Talent Acquisition Officer. Vous rencontrerez ensuite un Business Manager, avant un dernier entretien permettant de finaliser le processus et, le cas échéant, de vous présenter une proposition de contrat.\r\n \r\nDans le cadre de l'égalité des chances, toutes nos offres d'emploi sont ouvertes aux personnes en situation de handicap.",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-04-21T12:18:30Z",
+   "sector": "",
+   "specialization": "[\"60\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-04-21T12:18:30Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-11-18T00:00:00",
+    "endBroadcastDate": "2026-12-18T00:00:00"
+   },
+   "summary": "HOUSE OF ABY, groupe d'ingénierie et de conseil présent dans 9 pays, réunit 11 marques (Abylsen, ABMI, Pharmacos…) et s'appuie sur 4 grands piliers : Engineering (expertise technique et ingénierie de pointe), Solutions (développement et mise en œuvre de solutions adaptées), Digital (innovation et transformation numérique) et Advisory (conseil stratégique RH/QRSE).\r\n \r\nNous opérons dans 8 secteurs clés, dont l’aéronautique - spatial, l’automobile, la défense, l’énergie, le BTP – Infrastructure – Ferroviaire, l’IT – Télécommunications, Life Sciences, Banque – Finance – Assurances.\r\n\r\n- Analyser et optimiser les processus de fabrication pour augmenter l'efficacité et la qualité.\r\n- Développer et mettre en œuvre des outils et des méthodes de travail pour améliorer la production.\r\n- Gérer des projets d'amélioration continue en collaboration avec les équipes techniques.\r\n- Former et accompagner les équipes de production sur les nouvelles méthodes.\r\n- Assurer une veille technologique pour identifier et intégrer les innovations pertinentes.",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/242466",
+   "score": 31,
+   "label": "Périphérique",
+   "first_seen": "2026-11-18T15:38:10+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 10,
+    "qual": 8,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "amelioration continue",
+      "engineering",
+      "fabrication",
+      "ingenierie"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "qualite"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "ingenieur",
+      "methodes"
      ],
      "points": 14
     },
@@ -22374,7 +22160,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-10T15:04:53Z",
    "sector": "",
-   "specialization": "[\"224\"]",
+   "specialization": "224",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22600,94 +22386,6 @@
    ]
   },
   {
-   "id": "247560",
-   "title": "Quality Control Operations Specialist (H/F)",
-   "company": "SERVIER INTERNATIONAL",
-   "country": "IRLANDE",
-   "city": "ARKLOW",
-   "description": "Leading French independent pharmaceutical Company, specialised in ethical medicinal products. 92% of Servier’s sales are achieved internationally, with several subsidiary companies abroad. We are looking for V.I.E’s, for our subsidiary in Ireland.\nDescription of the mission:\n\n- Carrying out the review of Analytical documentation relating to analysis of oral solid dose Bulk tablets.\n- Assist in Preparation of documentation for QC Testing (Analytical Methods, Release specifications, Analytical Worksheets etc).\n- Investigating and close out of Laboratory Incident reports (LIR’s)\n- Carrying out & Assisting in Root Cause Problem Solving (RCPS) sessions in response to Right First Time issues. Identifying and implementing corrective and preventative actions from RCPS.\n- Participate in, and lead, relevant Quality Risk Management Assessments\n- Being involved in the continuous improvements of Quality Control Systems, working with the Operational Performance department.\n- Providing QC support to other departments. \n- Collaborate with Regulatory Affairs department to develop a central file for all Products used in SII and establishing the relevant release specification requirements.\n\nDuration of the mission: 12 months (renewable)",
-   "mission": "",
-   "profile": "Educational background: University/Technical College\n\nSpecialization: Science/Quality Assurance /Production\n\nField of study: Pharmaceutical or Manufacturing\n\nLanguages: English\n\nComputer skills: MS Office, MS Project",
-   "duration": 12,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-27T12:50:23Z",
-   "sector": "",
-   "specialization": "49, 86, 109, 206, 208, 209, 264",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-27T12:50:23Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-27T00:00:00",
-    "endBroadcastDate": "2026-11-26T00:00:00"
-   },
-   "summary": "Leading French independent pharmaceutical Company, specialised in ethical medicinal products. 92% of Servier’s sales are achieved internationally, with several subsidiary companies abroad. We are looking for V.I.E’s, for our subsidiary in Ireland.\nDescription of the mission:\n\n- Carrying out the review of Analytical documentation relating to analysis of oral solid dose Bulk tablets.\n- Assist in Preparation of documentation for QC Testing (Analytical Methods, Release specifications, Analytical Worksheets etc).\n- Investigating and close out of Laboratory Incident reports (LIR’s)\n- Carrying out & Assisting in Root Cause Problem Solving (RCPS) sessions in response to Right First Time issues. Identifying and implementing corrective and preventative actions from RCPS.\n- Participate in, and lead, relevant Quality Risk Management Assessments\n- Being involved in the continuous improvements of Quality Control Systems, working with the Operational Performance department.\n- Providing QC support to other departments. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/247560",
-   "score": 31,
-   "label": "Périphérique",
-   "first_seen": "2026-10-27T19:25:47+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 10,
-    "qual": 23,
-    "calc": 0
-   },
-   "dominant_axis": "qual",
-   "matched_families": [
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "manufacturing"
-     ]
-    },
-    {
-     "id": "qual2",
-     "axis": "qual",
-     "source": "Qualité et normes (774-1, 14 h, coefficient 0,5)",
-     "weight": 4,
-     "terms": [
-      "quality assurance"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "quality",
-      "root cause",
-      "testing"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "laboratory",
-      "problem solving"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "quality"
-     ],
-     "points": 14
-    }
-   ]
-  },
-  {
    "id": "248450",
    "title": "Ingénieur essais et mise en service Telecom/IT - Projet Abidjan (H/F)",
    "company": "ALSTOM TRANSPORT SA",
@@ -22702,7 +22400,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-18T10:06:44Z",
    "sector": "",
-   "specialization": "[\"35\",\"251\"]",
+   "specialization": "35, 251",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -23869,7 +23567,7 @@
    "expiry_date": "",
    "publish_date": "2026-05-12T14:43:27Z",
    "sector": "",
-   "specialization": "5, 21, 49, 86, 125, 144, 150, 155, 208, 209, 244, 256, 262, 264",
+   "specialization": "[\"5\",\"21\",\"49\",\"86\",\"125\",\"144\",\"150\",\"155\",\"208\",\"209\",\"244\",\"256\",\"262\",\"264\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -24068,6 +23766,92 @@
      "cap": 30
     }
    ]
+  },
+  {
+   "id": "248527",
+   "title": "Demand Planning Specialist (H/F)",
+   "company": "BEAUTE PRESTIGE INTERNATIONAL",
+   "country": "ITALIE",
+   "city": "MILAN",
+   "description": "1. Demand Forecasting & Business Intelligence\n• Supervise, consolidate, and validate local forecasts ensuring accuracy, consistency, and timely delivery.\n• Integrate historical data, statistical modelling, market trends, and commercial plans into the forecasting process.\n• Manage the impact of new product launches, promotions, media plans, and retail activities on the demand outlook.\n• Develop advanced analyses and insights using BI tools (e.g., Power BI) to identify risks, opportunities, and demand patterns.\n• Map and optimize the end-to-end demand planning process in alignment with EMEA guidelines.\n\n3. Cross-Functional Collaboration & Governance\n• Facilitate structured alignment moments such as S&OP/S&OE meetings, demand reviews, and forecast consensus sessions.\n• Act as the main point of contact between demand planning and Marketing, Sales, Supply Chain, Finance, and Customer Service.\n4. Inventory & Supply Alignment\n• Monitor and improve key performance indicators (forecast accuracy, bias, service level)\n• Provide insights to Supply Chain teams to ensure optimal stock levels in line with demand projections.\n5. Reporting & Insights\n• Prepare structured reporting for management with focus on forecast performance, deviations, and key drivers.\n• Produce predictive insights and recommendations to support strategic decisions.",
+   "mission": "",
+   "profile": "• At least 2/3 year experience in Demand Planning, Forecasting, or Supply Chain within the FMCG or Beauty industry. \n• Knowledge of Excel, Power BI, ERP systems, and data analysis/forecasting tools (SAP – AFO - IBP). \n• Communication skills and ability to manage and influence cross functional stakeholders. \n• Strategic thinking combined with structured problem solving and prioritization skills. \n• Ability to work effectively in dynamic, fast paced environments. \n• High attention to detail, accuracy, and a proactive, improvement driven approach. \n• Alignment with the Group’s TRUST 8 Working Principles. \n• Degree in Economics, Statistics, Business Administration, Engineering, or a related field. \n• Fluency in English. \n• Alignment with Trust8 values: Think Big, Take Risks, Hands On, Collaborate, Be Open, Act with Integrity, Be Accountable, Applaud Success.",
+   "duration": 13,
+   "start_date": "2027-02-01T00:00:00",
+   "end_date": "2028-03-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-11-19T15:53:27Z",
+   "sector": "",
+   "specialization": "[\"244\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-11-19T15:53:27Z",
+    "missionStartDate": "2027-02-01T00:00:00",
+    "missionEndDate": "2028-03-01T00:00:00",
+    "startBroadcastDate": "2026-11-20T00:00:00",
+    "endBroadcastDate": "2026-12-20T00:00:00"
+   },
+   "summary": "1. Demand Forecasting & Business Intelligence\n• Supervise, consolidate, and validate local forecasts ensuring accuracy, consistency, and timely delivery.\n• Integrate historical data, statistical modelling, market trends, and commercial plans into the forecasting process.\n• Manage the impact of new product launches, promotions, media plans, and retail activities on the demand outlook.\n• Develop advanced analyses and insights using BI tools (e.g., Power BI) to identify risks, opportunities, and demand patterns.\n• Map and optimize the end-to-end demand planning process in alignment with EMEA guidelines.\n\n3. Cross-Functional Collaboration & Governance\n• Facilitate structured alignment moments such as S&OP/S&OE meetings, demand reviews, and forecast consensus sessions.\n• Act as the main point of contact between demand planning and Marketing, Sales, Supply Chain, Finance, and Customer Service.\n4. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/248527",
+   "score": 30,
+   "label": "Périphérique",
+   "first_seen": "2026-11-20T15:25:14+00:00",
+   "axis_scores": {
+    "rd": 9,
+    "prod": 10,
+    "qual": 27,
+    "calc": 36
+   },
+   "dominant_axis": "calc",
+   "matched_families": [
+    {
+     "id": "calc1",
+     "axis": "calc",
+     "source": "Éléments finis (256-1, 24 h), TP simulation numérique (272-1, 285-5, 285-4, 63 h), Calculs numériques de mise en forme (277-1, 286-1, 50 h)",
+     "weight": 12,
+     "terms": [
+      "modelling"
+     ]
+    },
+    {
+     "id": "calc4",
+     "axis": "calc",
+     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
+     "weight": 4,
+     "terms": [
+      "data analysis"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "engineering"
+     ]
+    },
+    {
+     "id": "qual3",
+     "axis": "qual",
+     "source": "Plans d'expériences (283-1, 15 h), Outils logiciels mathématiques et statistiques (289-1, 25 h)",
+     "weight": 7,
+     "terms": [
+      "statistical"
+     ]
+    },
+    {
+     "id": "rd9",
+     "axis": "rd",
+     "source": "Vocabulaire de laboratoire courant",
+     "weight": 3,
+     "terms": [
+      "problem solving"
+     ]
+    }
+   ],
+   "bonuses": []
   },
   {
    "id": "248370",
@@ -24975,7 +24759,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-21T07:16:38Z",
    "sector": "",
-   "specialization": "35",
+   "specialization": "[\"35\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25047,7 +24831,7 @@
    "expiry_date": "",
    "publish_date": "2025-09-30T14:46:47Z",
    "sector": "",
-   "specialization": "[\"62\",\"71\",\"77\",\"161\"]",
+   "specialization": "62, 71, 77, 161",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -25134,7 +24918,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-03T08:49:52Z",
    "sector": "",
-   "specialization": "68",
+   "specialization": "[\"68\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26069,7 +25853,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T09:30:50Z",
    "sector": "",
-   "specialization": "330",
+   "specialization": "[\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26467,7 +26251,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-21T14:42:01Z",
    "sector": "",
-   "specialization": "[\"2\",\"29\",\"60\",\"62\",\"63\",\"64\",\"65\",\"66\",\"68\",\"69\",\"70\",\"71\",\"72\",\"73\",\"76\",\"109\",\"114\",\"134\",\"138\",\"149\",\"150\",\"155\",\"158\",\"159\",\"160\",\"168\",\"169\",\"197\",\"205\",\"206\",\"207\",\"208\",\"209\",\"224\",\"225\",\"244\",\"248\",\"251\",\"262\",\"264\",\"330\",\"331\",\"358\",\"361\"]",
+   "specialization": "2, 29, 60, 62, 63, 64, 65, 66, 68, 69, 70, 71, 72, 73, 76, 109, 114, 134, 138, 149, 150, 155, 158, 159, 160, 168, 169, 197, 205, 206, 207, 208, 209, 224, 225, 244, 248, 251, 262, 264, 330, 331, 358, 361",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26740,6 +26524,206 @@
    ]
   },
   {
+   "id": "245917",
+   "title": "Ingénieur(e)/Technicien(ne) en Intsrumentation  (H/F)",
+   "company": "FRATECH RP",
+   "country": "BELGIQUE",
+   "city": "BRUXELLES",
+   "description": "HOUSE OF ABY, groupe d'ingénierie et de conseil présent dans 9 pays, réunit 11 marques (Abylsen, ABMI, Pharmacos…) et s'appuie sur 4 grands piliers : Engineering (expertise technique et ingénierie de pointe), Solutions (développement et mise en œuvre de solutions adaptées), Digital (innovation et transformation numérique) et Advisory (conseil stratégique RH/QRSE).\r\n\r\nNous opérons dans 8 secteurs clés, dont l’aéronautique - spatial, l’automobile, la défense, l’énergie, le BTP – Infrastructure – Ferroviaire, l’IT – Télécommunications, Life Sciences, Banque – Finance – Assurances.\r\n\r\nVos responsabilités au quotidien ?\r\n\r\n- Participer à la conception, l’installation et la mise en service des systèmes d’instrumentation sur des installations industrielles.\r\n- Assurer le suivi et la maintenance des équipements de mesure et de contrôle : capteurs, transmetteurs, sondes, vannes et systèmes de régulation.\r\n- Analyser les dysfonctionnements des équipements d’instrumentation et proposer des actions correctives et préventives.\r\n- Réaliser et/ou vérifier les études, schémas et documents techniques liés à l’instrumentation.\r\n- Veiller au respect des normes, procédures de sécurité et exigences techniques applicables aux installations.\r\n- Participer aux essais, calibrations et contrôles des équipements afin de garantir leur fiabilité et leur performance.\r\n- Collaborer avec les équipes électricité, automatisme, maintenance et process afin d’assurer la bonne intégration des systèmes.\r\n- Rédiger les rapports d’intervention, comptes rendus techniques et documents de suivi.",
+   "mission": "",
+   "profile": "Votre profil\r\n\r\n- Issu(e) d’une formation supérieure BAC+2 à BAC+5 en instrumentation, automatisme, électrotechnique, électricité, maintenance industrielle ou domaine équivalent, vous disposez de solides connaissances techniques en instrumentation et systèmes de mesure et de contrôle.\r\n- Vous justifiez idéalement d’une première expérience industrielle réussie, acquise en stage, alternance ou dans un environnement professionnel, sur des sujets liés à l’instrumentation, à la maintenance ou aux installations industrielles.\r\n- Vous avez de bonnes connaissances en capteurs, chaînes de mesure, régulation, équipements de contrôle et lecture de schémas techniques.\r\n- Vous êtes à l’aise avec l’analyse de dysfonctionnements et la recherche de solutions techniques. Une connaissance des environnements industriels, énergétiques ou nucléaires constitue un plus.\r\n- Vous maîtrisez le français et disposez d’un bon niveau d’anglais, vous permettant d’évoluer dans un environnement technique et international. La connaissance du néerlandais est un plus.\r\n\r\nSi vous vous reconnaissez dans ce profil et souhaitez contribuer à des projets techniques d’envergure, n’attendez plus pour postuler !\r\n\r\nVous bénéficierez également d’un parcours de formation personnalisé afin de développer vos compétences et d’accompagner votre évolution professionnelle.\r\n\r\nLe process de recrutement\r\n\r\nLe processus débute par un échange téléphonique, suivi d’un entretien avec un Talent Acquisition Officer. Vous rencontrerez ensuite un Business Manager, avant un dernier entretien permettant de finaliser le processus et, le cas échéant, de vous présenter une proposition de contrat.\r\n\r\nDans le cadre de l'égalité des chances, toutes nos offres d'emploi sont ouvertes aux personnes en situation de handicap.",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-09-14T08:34:30Z",
+   "sector": "",
+   "specialization": "[\"65\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-09-14T08:34:30Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-11-20T00:00:00",
+    "endBroadcastDate": "2026-12-20T00:00:00"
+   },
+   "summary": "HOUSE OF ABY, groupe d'ingénierie et de conseil présent dans 9 pays, réunit 11 marques (Abylsen, ABMI, Pharmacos…) et s'appuie sur 4 grands piliers : Engineering (expertise technique et ingénierie de pointe), Solutions (développement et mise en œuvre de solutions adaptées), Digital (innovation et transformation numérique) et Advisory (conseil stratégique RH/QRSE).\r\n\r\nNous opérons dans 8 secteurs clés, dont l’aéronautique - spatial, l’automobile, la défense, l’énergie, le BTP – Infrastructure – Ferroviaire, l’IT – Télécommunications, Life Sciences, Banque – Finance – Assurances.\r\n\r\nVos responsabilités au quotidien ?\r\n\r\n- Participer à la conception, l’installation et la mise en service des systèmes d’instrumentation sur des installations industrielles.\r\n- Assurer le suivi et la maintenance des équipements de mesure et de contrôle : capteurs, transmetteurs, sondes, vannes et systèmes de régulation.\r\n- Analyser les dysfonctionnements des équipements d’instrumentation et proposer des actions correctives et préventives. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/245917",
+   "score": 30,
+   "label": "Périphérique",
+   "first_seen": "2026-10-27T12:09:09+00:00",
+   "axis_scores": {
+    "rd": 0,
+    "prod": 10,
+    "qual": 8,
+    "calc": 0
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "engineering",
+      "ingenierie",
+      "installations industrielles"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "essais",
+      "normes"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "ingenieur"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "aeronautique",
+      "automobile",
+      "defense"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    },
+    {
+     "label": "Aucun terme industriel : score plafonné",
+     "terms": [],
+     "points": -1,
+     "cap": 30
+    }
+   ]
+  },
+  {
+   "id": "242467",
+   "title": "Ingénieur Qualité (H/F)",
+   "company": "FRATECH RP",
+   "country": "BELGIQUE",
+   "city": "BRUXELLES",
+   "description": "HOUSE OF ABY, groupe d'ingénierie et de conseil présent dans 9 pays, réunit 11 marques (Abylsen, ABMI, Pharmacos…) et s'appuie sur 4 grands piliers : Engineering (expertise technique et ingénierie de pointe), Solutions (développement et mise en œuvre de solutions adaptées), Digital (innovation et transformation numérique) et Advisory (conseil stratégique RH/QRSE).\r\n \r\nNous opérons dans 8 secteurs clés, dont l’aéronautique - spatial, l’automobile, la défense, l’énergie, le BTP – Infrastructure – Ferroviaire, l’IT – Télécommunications, Life Sciences, Banque – Finance – Assurances.\r\n \r\nDescription du poste\r\n\r\nPassionné(e) par l’aéronautique, le spatial ou la défense ? Rejoignez notre équipe pour explorer ensemble de nouveaux horizons.\r\n\r\nEn tant qu’ingénieur(e) qualité, vous jouerez un rôle crucial dans le maintien et l’amélioration des standards de qualité de nos projets innovants. Vous serez responsable de garantir que tous les produits et processus respectent les normes de qualité les plus élevées. Votre expertise et votre engagement permettront d’assurer la fiabilité et la sécurité des systèmes dans un secteur où l’excellence est primordiale.\r\n\r\n- Définir, mettre en œuvre et maintenir les processus qualité.\r\n- Réaliser des audits internes et externes.\r\n- Assurer la conformité des produits aux normes et aux spécifications techniques.\r\n- Participer aux revues de conception et aux analyses de risques.\r\n- Collaborer avec les équipes de production, R&D et fournisseurs pour résoudre les problèmes qualité.\r\n- Mettre en place des actions correctives et préventives.",
+   "mission": "",
+   "profile": "Nous recherchons plusieurs professionnels expérimentés de la qualité, spécialisés dans les domaines fournisseurs, production et projet, pour rejoindre nos équipes.\r\n\r\n- Expérience professionnelle de 2 ans dans un poste similaire.\r\n- Diplôme en ingénierie, qualité ou domaine connexe.\r\n- Connaissance approfondie des normes qualité ISO 9001, et des standards de l'industrie.\r\n- Expérience dans la conduite d'audits qualité et la gestion des non-conformités.\r\n- Compétences en gestion de projet.\r\n- Capacité à communiquer efficacement à tous les niveaux de l'organisation.\r\n- Maîtrise de l'anglais et du français.\r\n\r\nVous souhaitez contribuer à des projets d’envergure dans les secteurs de l'aéronautique, le life science et l'industrie ? N’attendez plus pour postuler !\r\n \r\nVous bénéficierez également d’un parcours de formation personnalisé afin de développer vos compétences et d’accompagner votre évolution professionnelle.\r\n \r\nLe process de recrutement\r\n \r\nLe processus débute par un échange téléphonique, suivi d’un entretien avec un Talent Acquisition Officer. Vous rencontrerez ensuite un Business Manager, avant un dernier entretien permettant de finaliser le processus et, le cas échéant, de vous présenter une proposition de contrat.\r\n \r\nDans le cadre de l'égalité des chances, toutes nos offres d'emploi sont ouvertes aux personnes en situation de handicap.",
+   "duration": 12,
+   "start_date": "2027-01-01T00:00:00",
+   "end_date": "2028-01-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-04-21T12:23:26Z",
+   "sector": "",
+   "specialization": "[\"208\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-04-21T12:23:26Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-11-20T00:00:00",
+    "endBroadcastDate": "2026-12-20T00:00:00"
+   },
+   "summary": "HOUSE OF ABY, groupe d'ingénierie et de conseil présent dans 9 pays, réunit 11 marques (Abylsen, ABMI, Pharmacos…) et s'appuie sur 4 grands piliers : Engineering (expertise technique et ingénierie de pointe), Solutions (développement et mise en œuvre de solutions adaptées), Digital (innovation et transformation numérique) et Advisory (conseil stratégique RH/QRSE).\r\n \r\nNous opérons dans 8 secteurs clés, dont l’aéronautique - spatial, l’automobile, la défense, l’énergie, le BTP – Infrastructure – Ferroviaire, l’IT – Télécommunications, Life Sciences, Banque – Finance – Assurances.\r\n \r\nDescription du poste\r\n\r\nPassionné(e) par l’aéronautique, le spatial ou la défense ? Rejoignez notre équipe pour explorer ensemble de nouveaux horizons.\r\n\r\nEn tant qu’ingénieur(e) qualité, vous jouerez un rôle crucial dans le maintien et l’amélioration des standards de qualité de nos projets innovants. Vous serez responsable de garantir que tous les produits et processus respectent les normes de qualité les plus élevées. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/242467",
+   "score": 30,
+   "label": "Périphérique",
+   "first_seen": "2026-10-27T12:09:09+00:00",
+   "axis_scores": {
+    "rd": 9,
+    "prod": 10,
+    "qual": 23,
+    "calc": 0
+   },
+   "dominant_axis": "qual",
+   "matched_families": [
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "engineering",
+      "ingenierie"
+     ]
+    },
+    {
+     "id": "qual2",
+     "axis": "qual",
+     "source": "Qualité et normes (774-1, 14 h, coefficient 0,5)",
+     "weight": 4,
+     "terms": [
+      "iso 9001"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "conformite",
+      "normes",
+      "qualite",
+      "standards"
+     ]
+    },
+    {
+     "id": "rd9",
+     "axis": "rd",
+     "source": "Vocabulaire de laboratoire courant",
+     "weight": 3,
+     "terms": [
+      "r&d"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "ingenieur",
+      "qualite"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Secteur industriel compatible",
+     "terms": [
+      "aeronautique",
+      "automobile",
+      "defense"
+     ],
+     "points": 5
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    },
+    {
+     "label": "Aucun terme industriel : score plafonné",
+     "terms": [],
+     "points": -10,
+     "cap": 30
+    }
+   ]
+  },
+  {
    "id": "242224",
    "title": "Ingénieur HVAC/CVC (H/F)",
    "company": "FRATECH RP",
@@ -26931,206 +26915,6 @@
    ]
   },
   {
-   "id": "245917",
-   "title": "Ingénieur(e)/Technicien(ne) en Intsrumentation  (H/F)",
-   "company": "FRATECH RP",
-   "country": "BELGIQUE",
-   "city": "BRUXELLES",
-   "description": "HOUSE OF ABY, groupe d'ingénierie et de conseil présent dans 9 pays, réunit 11 marques (Abylsen, ABMI, Pharmacos…) et s'appuie sur 4 grands piliers : Engineering (expertise technique et ingénierie de pointe), Solutions (développement et mise en œuvre de solutions adaptées), Digital (innovation et transformation numérique) et Advisory (conseil stratégique RH/QRSE).\r\n\r\nNous opérons dans 8 secteurs clés, dont l’aéronautique - spatial, l’automobile, la défense, l’énergie, le BTP – Infrastructure – Ferroviaire, l’IT – Télécommunications, Life Sciences, Banque – Finance – Assurances.\r\n\r\nVos responsabilités au quotidien ?\r\n\r\n- Participer à la conception, l’installation et la mise en service des systèmes d’instrumentation sur des installations industrielles.\r\n- Assurer le suivi et la maintenance des équipements de mesure et de contrôle : capteurs, transmetteurs, sondes, vannes et systèmes de régulation.\r\n- Analyser les dysfonctionnements des équipements d’instrumentation et proposer des actions correctives et préventives.\r\n- Réaliser et/ou vérifier les études, schémas et documents techniques liés à l’instrumentation.\r\n- Veiller au respect des normes, procédures de sécurité et exigences techniques applicables aux installations.\r\n- Participer aux essais, calibrations et contrôles des équipements afin de garantir leur fiabilité et leur performance.\r\n- Collaborer avec les équipes électricité, automatisme, maintenance et process afin d’assurer la bonne intégration des systèmes.\r\n- Rédiger les rapports d’intervention, comptes rendus techniques et documents de suivi.",
-   "mission": "",
-   "profile": "Votre profil\r\n\r\n- Issu(e) d’une formation supérieure BAC+2 à BAC+5 en instrumentation, automatisme, électrotechnique, électricité, maintenance industrielle ou domaine équivalent, vous disposez de solides connaissances techniques en instrumentation et systèmes de mesure et de contrôle.\r\n- Vous justifiez idéalement d’une première expérience industrielle réussie, acquise en stage, alternance ou dans un environnement professionnel, sur des sujets liés à l’instrumentation, à la maintenance ou aux installations industrielles.\r\n- Vous avez de bonnes connaissances en capteurs, chaînes de mesure, régulation, équipements de contrôle et lecture de schémas techniques.\r\n- Vous êtes à l’aise avec l’analyse de dysfonctionnements et la recherche de solutions techniques. Une connaissance des environnements industriels, énergétiques ou nucléaires constitue un plus.\r\n- Vous maîtrisez le français et disposez d’un bon niveau d’anglais, vous permettant d’évoluer dans un environnement technique et international. La connaissance du néerlandais est un plus.\r\n\r\nSi vous vous reconnaissez dans ce profil et souhaitez contribuer à des projets techniques d’envergure, n’attendez plus pour postuler !\r\n\r\nVous bénéficierez également d’un parcours de formation personnalisé afin de développer vos compétences et d’accompagner votre évolution professionnelle.\r\n\r\nLe process de recrutement\r\n\r\nLe processus débute par un échange téléphonique, suivi d’un entretien avec un Talent Acquisition Officer. Vous rencontrerez ensuite un Business Manager, avant un dernier entretien permettant de finaliser le processus et, le cas échéant, de vous présenter une proposition de contrat.\r\n\r\nDans le cadre de l'égalité des chances, toutes nos offres d'emploi sont ouvertes aux personnes en situation de handicap.",
-   "duration": 12,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-14T08:34:30Z",
-   "sector": "",
-   "specialization": "65",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-14T08:34:30Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-27T00:00:00",
-    "endBroadcastDate": "2026-11-26T00:00:00"
-   },
-   "summary": "HOUSE OF ABY, groupe d'ingénierie et de conseil présent dans 9 pays, réunit 11 marques (Abylsen, ABMI, Pharmacos…) et s'appuie sur 4 grands piliers : Engineering (expertise technique et ingénierie de pointe), Solutions (développement et mise en œuvre de solutions adaptées), Digital (innovation et transformation numérique) et Advisory (conseil stratégique RH/QRSE).\r\n\r\nNous opérons dans 8 secteurs clés, dont l’aéronautique - spatial, l’automobile, la défense, l’énergie, le BTP – Infrastructure – Ferroviaire, l’IT – Télécommunications, Life Sciences, Banque – Finance – Assurances.\r\n\r\nVos responsabilités au quotidien ?\r\n\r\n- Participer à la conception, l’installation et la mise en service des systèmes d’instrumentation sur des installations industrielles.\r\n- Assurer le suivi et la maintenance des équipements de mesure et de contrôle : capteurs, transmetteurs, sondes, vannes et systèmes de régulation.\r\n- Analyser les dysfonctionnements des équipements d’instrumentation et proposer des actions correctives et préventives. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/245917",
-   "score": 30,
-   "label": "Périphérique",
-   "first_seen": "2026-10-27T12:09:09+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 10,
-    "qual": 8,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "engineering",
-      "ingenierie",
-      "installations industrielles"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "essais",
-      "normes"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "aeronautique",
-      "automobile",
-      "defense"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Aucun terme industriel : score plafonné",
-     "terms": [],
-     "points": -1,
-     "cap": 30
-    }
-   ]
-  },
-  {
-   "id": "242467",
-   "title": "Ingénieur Qualité (H/F)",
-   "company": "FRATECH RP",
-   "country": "BELGIQUE",
-   "city": "BRUXELLES",
-   "description": "HOUSE OF ABY, groupe d'ingénierie et de conseil présent dans 9 pays, réunit 11 marques (Abylsen, ABMI, Pharmacos…) et s'appuie sur 4 grands piliers : Engineering (expertise technique et ingénierie de pointe), Solutions (développement et mise en œuvre de solutions adaptées), Digital (innovation et transformation numérique) et Advisory (conseil stratégique RH/QRSE).\r\n \r\nNous opérons dans 8 secteurs clés, dont l’aéronautique - spatial, l’automobile, la défense, l’énergie, le BTP – Infrastructure – Ferroviaire, l’IT – Télécommunications, Life Sciences, Banque – Finance – Assurances.\r\n \r\nDescription du poste\r\n\r\nPassionné(e) par l’aéronautique, le spatial ou la défense ? Rejoignez notre équipe pour explorer ensemble de nouveaux horizons.\r\n\r\nEn tant qu’ingénieur(e) qualité, vous jouerez un rôle crucial dans le maintien et l’amélioration des standards de qualité de nos projets innovants. Vous serez responsable de garantir que tous les produits et processus respectent les normes de qualité les plus élevées. Votre expertise et votre engagement permettront d’assurer la fiabilité et la sécurité des systèmes dans un secteur où l’excellence est primordiale.\r\n\r\n- Définir, mettre en œuvre et maintenir les processus qualité.\r\n- Réaliser des audits internes et externes.\r\n- Assurer la conformité des produits aux normes et aux spécifications techniques.\r\n- Participer aux revues de conception et aux analyses de risques.\r\n- Collaborer avec les équipes de production, R&D et fournisseurs pour résoudre les problèmes qualité.\r\n- Mettre en place des actions correctives et préventives.",
-   "mission": "",
-   "profile": "Nous recherchons plusieurs professionnels expérimentés de la qualité, spécialisés dans les domaines fournisseurs, production et projet, pour rejoindre nos équipes.\r\n\r\n- Expérience professionnelle de 2 ans dans un poste similaire.\r\n- Diplôme en ingénierie, qualité ou domaine connexe.\r\n- Connaissance approfondie des normes qualité ISO 9001, et des standards de l'industrie.\r\n- Expérience dans la conduite d'audits qualité et la gestion des non-conformités.\r\n- Compétences en gestion de projet.\r\n- Capacité à communiquer efficacement à tous les niveaux de l'organisation.\r\n- Maîtrise de l'anglais et du français.\r\n\r\nVous souhaitez contribuer à des projets d’envergure dans les secteurs de l'aéronautique, le life science et l'industrie ? N’attendez plus pour postuler !\r\n \r\nVous bénéficierez également d’un parcours de formation personnalisé afin de développer vos compétences et d’accompagner votre évolution professionnelle.\r\n \r\nLe process de recrutement\r\n \r\nLe processus débute par un échange téléphonique, suivi d’un entretien avec un Talent Acquisition Officer. Vous rencontrerez ensuite un Business Manager, avant un dernier entretien permettant de finaliser le processus et, le cas échéant, de vous présenter une proposition de contrat.\r\n \r\nDans le cadre de l'égalité des chances, toutes nos offres d'emploi sont ouvertes aux personnes en situation de handicap.",
-   "duration": 12,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-04-21T12:23:26Z",
-   "sector": "",
-   "specialization": "208",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-04-21T12:23:26Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-27T00:00:00",
-    "endBroadcastDate": "2026-11-26T00:00:00"
-   },
-   "summary": "HOUSE OF ABY, groupe d'ingénierie et de conseil présent dans 9 pays, réunit 11 marques (Abylsen, ABMI, Pharmacos…) et s'appuie sur 4 grands piliers : Engineering (expertise technique et ingénierie de pointe), Solutions (développement et mise en œuvre de solutions adaptées), Digital (innovation et transformation numérique) et Advisory (conseil stratégique RH/QRSE).\r\n \r\nNous opérons dans 8 secteurs clés, dont l’aéronautique - spatial, l’automobile, la défense, l’énergie, le BTP – Infrastructure – Ferroviaire, l’IT – Télécommunications, Life Sciences, Banque – Finance – Assurances.\r\n \r\nDescription du poste\r\n\r\nPassionné(e) par l’aéronautique, le spatial ou la défense ? Rejoignez notre équipe pour explorer ensemble de nouveaux horizons.\r\n\r\nEn tant qu’ingénieur(e) qualité, vous jouerez un rôle crucial dans le maintien et l’amélioration des standards de qualité de nos projets innovants. Vous serez responsable de garantir que tous les produits et processus respectent les normes de qualité les plus élevées. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/242467",
-   "score": 30,
-   "label": "Périphérique",
-   "first_seen": "2026-10-27T12:09:09+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 10,
-    "qual": 23,
-    "calc": 0
-   },
-   "dominant_axis": "qual",
-   "matched_families": [
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "engineering",
-      "ingenierie"
-     ]
-    },
-    {
-     "id": "qual2",
-     "axis": "qual",
-     "source": "Qualité et normes (774-1, 14 h, coefficient 0,5)",
-     "weight": 4,
-     "terms": [
-      "iso 9001"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "conformite",
-      "normes",
-      "qualite",
-      "standards"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "r&d"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur",
-      "qualite"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "aeronautique",
-      "automobile",
-      "defense"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Aucun terme industriel : score plafonné",
-     "terms": [],
-     "points": -10,
-     "cap": 30
-    }
-   ]
-  },
-  {
    "id": "238025",
    "title": "Ingénieur DATA (H/F)",
    "company": "HELLO POMELO",
@@ -27145,7 +26929,7 @@
    "expiry_date": "",
    "publish_date": "2026-03-17T15:45:44Z",
    "sector": "",
-   "specialization": "144",
+   "specialization": "[\"144\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27222,6 +27006,113 @@
      "label": "Aucun terme industriel : score plafonné",
      "terms": [],
      "points": -13,
+     "cap": 30
+    }
+   ]
+  },
+  {
+   "id": "248515",
+   "title": "Quality Analyst (H/F)",
+   "company": "HENDRIX GENETICS RECHERCHE TECHNOLOGIE ET SERVICES",
+   "country": "PAYS-BAS",
+   "city": "BOXMEER",
+   "description": "As a Quality Analyst, you will support our Global Quality and Operations teams by transforming complex operational and quality data into actionable insights that drive continuous improvement across our Layer Breeding and SASSO businesses.\nWorking closely with Quality, Operations and other key stakeholders, you will analyze shipment quality, mortality, customer feedback and breed standards to identify trends, uncover improvement opportunities and support data-driven decision-making.\nThis six-month VIE assignment is a unique opportunity to combine data analytics, quality management and operational exposure within an international agricultural environment\n\nResponsibilities\nShipment Quality & Mortality Analysis\nPerform detailed analyses of shipment quality, customer feedback and first-week mortality data across Global Layer Breeding and SASSO operations.\nIdentify trends, correlations, outliers and performance differences between countries, breeds, production sites and operational processes.\nInvestigate recurring quality issues and potential root causes.\nDevelop meaningful analyses and visualizations to support quality improvement initiatives.\nContribute to a more data-driven approach to operational and quality decision-making.\nData Analysis & Business Insights\nTranslate complex datasets into clear, practical conclusions for Quality and Operations teams.\nDevelop dashboards, reporting tools and performance analyses to monitor key quality indicators.\nHighlight areas requiring corrective actions or further investigation.\nProvide recommendations based on factual data analysis.\nSupport the Global Quality team with ad hoc analytical projects when needed.\nStandards & Data Alignment\nReview existing breed-specific standards and operational data within internal systems.\nAssess alignment between operational requirements and available standards.\nIdentify missing, inconsistent or unclear data and standards.\nCollaborate with stakeholders to clarify gaps and propose improvements.\nSupport the development of clear and reliable data governance practices.\nProcess Improvement & Operational Support\nParticipate in continuous improvement initiatives across the Layer Business Unit in the Netherlands.\nContribute to quality and operational projects using structured methodologies and analytical approaches.\nSupport Internal Sales and Operations teams with data-related activities when required.\nGain practical exposure to breeding, hatchery and farm operations to better understand the business context behind the data.",
+   "mission": "",
+   "profile": "Education & Experience\nBachelor's or Master's degree in Data Analytics, Quality Management, Engineering, Animal Science, Agriculture or a related field.\nBasic knowledge of quality management principles and continuous improvement methodologies.\nUnderstanding of statistics, data analysis and project management.\nExperience in a similar analytical or quality-related role is considered an advantage.\nTechnical Skills\nStrong proficiency in Microsoft Excel.\nKnowledge of Power BI or similar data visualization and analytics tools is a plus.\nGood command of Microsoft Office applications (Word, Excel, Teams, Planner).\nFamiliarity with Lean methodologies is appreciated.\nKey Competencies\nStrong analytical mindset with the ability to identify patterns and derive meaningful conclusions.\nMethodical, organized and detail-oriented.\nProactive and eager to learn new business processes and operational activities.\nExcellent communication and stakeholder management skills.\nTeam player with the confidence to challenge and improve existing practices.\nCurious and motivated to investigate issues beyond the data.\nAble to work independently while maintaining strong collaboration with international teams.\nComfortable working in a multicultural and international environment.\nLanguages\nGood command of English is required.\nAdditional languages are considered an advantage.",
+   "duration": 6,
+   "start_date": "2027-02-01T00:00:00",
+   "end_date": "2027-08-01T00:00:00",
+   "expiry_date": "",
+   "publish_date": "2026-11-19T12:30:56Z",
+   "sector": "",
+   "specialization": "[\"155\"]",
+   "contract": "VIE",
+   "dates_raw": {
+    "candidateCounter": 0,
+    "creationDate": "2026-11-19T12:30:56Z",
+    "missionStartDate": "2027-02-01T00:00:00",
+    "missionEndDate": "2027-08-01T00:00:00",
+    "startBroadcastDate": "2026-11-20T00:00:00",
+    "endBroadcastDate": "2026-12-20T00:00:00"
+   },
+   "summary": "As a Quality Analyst, you will support our Global Quality and Operations teams by transforming complex operational and quality data into actionable insights that drive continuous improvement across our Layer Breeding and SASSO businesses.\nWorking closely with Quality, Operations and other key stakeholders, you will analyze shipment quality, mortality, customer feedback and breed standards to identify trends, uncover improvement opportunities and support data-driven decision-making.\nThis six-month VIE assignment is a unique opportunity to combine data analytics, quality management and operational exposure within an international agricultural environment\n\nResponsibilities\nShipment Quality & Mortality Analysis\nPerform detailed analyses of shipment quality, customer feedback and first-week mortality data across Global Layer Breeding and SASSO operations.\nIdentify trends, correlations, outliers and performance differences between countries, breeds, production sites and operational processes.\nInvestigate recurring quality issues and potential root causes. […]",
+   "url": "https://mon-vie-via.businessfrance.fr/offres/248515",
+   "score": 30,
+   "label": "Périphérique",
+   "first_seen": "2026-11-20T15:25:14+00:00",
+   "axis_scores": {
+    "rd": 9,
+    "prod": 24,
+    "qual": 8,
+    "calc": 9
+   },
+   "dominant_axis": "prod",
+   "matched_families": [
+    {
+     "id": "calc4",
+     "axis": "calc",
+     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
+     "weight": 4,
+     "terms": [
+      "data analysis"
+     ]
+    },
+    {
+     "id": "prod5",
+     "axis": "prod",
+     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
+     "weight": 4,
+     "terms": [
+      "lean"
+     ]
+    },
+    {
+     "id": "prod7",
+     "axis": "prod",
+     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
+     "weight": 3,
+     "terms": [
+      "continuous improvement",
+      "engineering"
+     ]
+    },
+    {
+     "id": "qual5",
+     "axis": "qual",
+     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
+     "weight": 2,
+     "terms": [
+      "quality",
+      "standards"
+     ]
+    },
+    {
+     "id": "rd9",
+     "axis": "rd",
+     "source": "Vocabulaire de laboratoire courant",
+     "weight": 3,
+     "terms": [
+      "investigation"
+     ]
+    }
+   ],
+   "bonuses": [
+    {
+     "label": "Intitulé technique ciblé",
+     "terms": [
+      "quality"
+     ],
+     "points": 14
+    },
+    {
+     "label": "Niveau bac+5 / ingénieur annoncé",
+     "terms": [],
+     "points": 4
+    },
+    {
+     "label": "Aucun terme industriel : score plafonné",
+     "terms": [],
+     "points": -6,
      "cap": 30
     }
    ]
@@ -27524,7 +27415,7 @@
    "expiry_date": "",
    "publish_date": "2026-06-09T09:43:27Z",
    "sector": "",
-   "specialization": "[\"206\"]",
+   "specialization": "206",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27791,7 +27682,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-28T18:25:06Z",
    "sector": "",
-   "specialization": "52, 63, 118, 125, 168, 225, 256",
+   "specialization": "[\"52\",\"63\",\"118\",\"125\",\"168\",\"225\",\"256\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27879,7 +27770,7 @@
    "expiry_date": "",
    "publish_date": "2026-03-30T16:06:48Z",
    "sector": "",
-   "specialization": "49, 52, 63, 114, 148, 245, 256",
+   "specialization": "[\"49\",\"52\",\"63\",\"114\",\"148\",\"245\",\"256\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -28285,7 +28176,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-06T08:59:23Z",
    "sector": "",
-   "specialization": "327",
+   "specialization": "[\"327\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -28872,7 +28763,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-29T09:30:31Z",
    "sector": "",
-   "specialization": "107",
+   "specialization": "[\"107\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29243,15 +29134,15 @@
    "expiry_date": "",
    "publish_date": "2026-07-08T08:05:59Z",
    "sector": "",
-   "specialization": "68, 168",
+   "specialization": "[\"68\",\"168\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-07-08T08:05:59Z",
     "missionStartDate": "2027-01-01T00:00:00",
     "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-27T00:00:00",
-    "endBroadcastDate": "2026-11-26T00:00:00"
+    "startBroadcastDate": "2026-11-20T00:00:00",
+    "endBroadcastDate": "2026-12-20T00:00:00"
    },
    "summary": "HOUSE OF ABY, groupe d'ingénierie et de conseil présent dans 9 pays, réunit 11 marques (Abylsen, ABMI, Pharmacos…) et s'appuie sur 4 grands piliers : Engineering (expertise technique et ingénierie de pointe), Solutions (développement et mise en œuvre de solutions adaptées), Digital (innovation et transformation numérique) et Advisory (conseil stratégique RH/QRSE).\r\n \r\nNous opérons dans 8 secteurs clés, dont l’aéronautique - spatial, l’automobile, la défense, l’énergie, le BTP – Infrastructure – Ferroviaire, l’IT – Télécommunications, Life Sciences, Banque – Finance – Assurances.\r\n \r\nDescription du poste :\r\n\r\nVos responsabilités au quotidien ?\r\n\r\n• Veiller à ce que les autorisations nucléaires, la sécurité et la sûreté soient intégrées dans les études et projets.\r\n• S'assurer que les équipements fonctionnent conformément aux règles de sûreté.\r\n• Effectuer une analyse régulière de leur fonctionnement pour garantir leur efficacité.\r\n• Fournir des comptes rendus à la direction et formuler des préconisations pour optimiser les processus. […]",
    "url": "https://mon-vie-via.businessfrance.fr/offres/244459",
@@ -29530,7 +29421,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-14T12:45:10Z",
    "sector": "",
-   "specialization": "[\"206\"]",
+   "specialization": "206",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30058,7 +29949,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-20T20:29:06Z",
    "sector": "",
-   "specialization": "[\"49\",\"56\",\"157\"]",
+   "specialization": "49, 56, 157",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30207,7 +30098,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-28T07:33:59Z",
    "sector": "",
-   "specialization": "[\"73\"]",
+   "specialization": "73",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30279,7 +30170,7 @@
    "expiry_date": "",
    "publish_date": "2026-08-12T13:45:29Z",
    "sector": "",
-   "specialization": "[\"29\"]",
+   "specialization": "29",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -30326,80 +30217,6 @@
       "energie",
       "industriel",
       "mecanique"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
-   "id": "247233",
-   "title": "CHARGE DE MISSION ENERGIE ALTERNATIVES HORS NUCLEAIRE (H/F)",
-   "company": "COMMISSARIAT A L' ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
-   "country": "CHINE",
-   "city": "PEKIN",
-   "description": "La Direction des Relations Internationales du CEA (DRI) gère, en lien étroit avec le Ministère de l’Europe et des Affaires Etrangères (MEAE) français, le réseau des services nucléaires au sein de certaines ambassades à l'étranger. Ce réseau assure : la mise en œuvre sur le terrain de la politique extérieure française dans le domaine des énergies alternatives et du nucléaire et dans le domaine du numérique, en interface avec les acteurs clefs des pays (responsables politiques, administrations, industriels et organismes de recherche) ; et représente le CEA dans les pays concernés.\nLe Service nucléaire est en charge de développer et de suivre pour le compte de différents ministères français, la coopération franco-chinoise dans le domaine des énergies décarbonées et de défendre les intérêts de la France dans ce domaine, avec un point particulier pour le nucléaire. Le Service travaille en étroite interaction avec les industriels français présents en Chine, qu'il s'agisse des grands groupes comme EDF, ou des ETI et PME. Il aide également les différents organismes français, dont le CEA, à développer une coopération équilibrée avec les différents acteurs chinois de la R&D. Dans ce cadre, le Service nucléaire mène spécifiquement des activités de veille politique, industrielle et technologique et entretient un réseau de relations parmi les différents acteurs chinois du secteur des énergies décarbonées et du numérique afin de fournir des éléments de réflexion et de décision aux acteurs français.\nLe Service accueille trois Volontaires Internationaux, couvrant respectivement le nucléaire, les énergies alternatives et les nouvelles technologies du numérique.\nEn tant que représentant(e) adjoint(e) chargé(e) des énergies alternatives, vous travaillerez au sein du Service nucléaire de l’ambassade de France en Chine (SNAFC). Le portefeuille « énergies alternatives » couvre notamment le photovoltaïque, l’éolien, l’hydrogène, les batteries et leurs applications, ainsi que les réseaux électriques.\nSous la supervision de la Conseillère nucléaire, une grande autonomie est attendue dans la conduite des dossiers avec une capacité à rendre compte par des échanges et des remontées d’information fiables très réguliers avec la Conseillère nucléaire.\nLa mission consiste en priorité à contribuer à la défense des intérêts de la France dans le domaine des énergies décarbonées en Chine. Elle repose sur une veille politique, industrielle et technologique approfondie et sur la production d’analyses à destination des administrations françaises, du CEA, des organismes de recherche et des entreprises françaises du secteur, en coordination avec les autres services de l’ambassade (notamment avec le service économique régional et la Chancellerie).\nLe poste comprend également une dimension importante de relations extérieures et de coopération franco-chinoise. Il s’agit de développer et d’entretenir un réseau de contacts avec les administrations, entreprises, associations professionnelles et organismes de recherche chinois. Les associations d’industriels constituent notamment des interlocuteurs privilégiés permettant de suivre un nombre important d’acteurs et les évolutions du secteur.\nLe poste est à la croisée des sciences et des politiques de l’Etat chinois et des industriels. Il demande à la fois une réelle curiosité pour les technologies et la capacité à en comprendre rapidement les principes et les implications et une capacité à relier les évolutions technologiques aux stratégies des entreprises, aux chaînes de valeur, aux marchés, aux politiques publiques et aux intérêts français.\nPlus spécifiquement, les missions seront les suivantes :\n• Rédiger une veille bihebdomadaire sur les politiques, les entreprises, les technologies et les évolutions industrielles chinoises dans le domaine des énergies décarbonées, et répondre aux demandes ponctuelles des différents destinataires du Service.\n• Contribuer à la rédaction de notes d’analyse et d’éléments de réflexion stratégique, certaines en collaboration avec les autres services de l’ambassade, en mobilisant lorsque nécessaire l’expertise scientifique et technique du CEA. L’objectif est d’aller au-delà de la description des politiques publiques pour expliquer les dynamiques industrielles, technologiques et économiques à l’œuvre.\n• Comprendre et suivre l’écosystème chinois et contribuer à entretenir et approfondir un réseau d’interlocuteurs chinois, notamment par la participation à des salons professionnels, des visites de sites industriels ou de recherche et des échanges réguliers avec les partenaires privilégiés du Service.\n• Développer de manière proactive un réseau d’interlocuteurs français, au sein des administrations, du CEA, des organismes de recherche et des entreprises, afin de faire connaître les travaux du Service, d’identifier leurs besoins vis-à-vis de la Chine et de favoriser des échanges réguliers.\n• Préparer et accompagner les missions françaises en Chine, notamment celles du CEA : construire les programmes, identifier les interlocuteurs pertinents, organiser les rendez-vous avec l’appui du Service, préparer les éléments de fond et assurer le suivi des dossiers.\nUne bonne connaissance du chinois est fortement appréciée (HSK 4 minimum ou niveau équivalent) afin de disposer d’une autonomie suffisante dans les recherches, les déplacements et les échanges avec les interlocuteurs chinois. Le Service nucléaire prendra en charge des cours de perfectionnement en chinois.\nAvant la prise de fonction, le CEA organisera une période de visites et de rencontres avec ses équipes afin de permettre une prise en main rapide des technologies suivies et des principaux interlocuteurs français.",
-   "mission": "",
-   "profile": "Diplômes demandés : BAC +5 - Diplôme d’ingénieur d’une grande école, diplôme de niveau master en sciences politiques, relations internationales, économie, études chinoises, commerce ou formation équivalente.\n\nLangues : Maîtrise professionnelle de l’anglais, à l’écrit comme à l’oral. Chinois mandarin : HSK 4 ou niveau équivalent fortement apprécié.\n\nLogiciels de bureautique / Autres : Maîtrise des outils bureautiques classiques, des outils d’IA optimisant et massifiant les recherches et le traitement des données \n\nExpériences / Stages : Une expérience en Chine est particulièrement appréciée. Sont également pertinentes les expériences dans les domaines de l’énergie, de l’industrie, des technologies, de l’action publique, des relations internationales ou de l’analyse économique.\n\nCompétences internet : Très bonne capacité à mener des recherches en sources ouvertes, à croiser les informations et à identifier les sources pertinentes, notamment en chinois.\n\nObservations particulières sur le poste :\nCuriosité, proactivité, initiative et autonomie. Très bonnes capacités rédactionnelles et d’analyse. Capacité à travailler en équipe et à rendre compte régulièrement. Intérêt marqué pour les technologies sans nécessité d’une formation technique poussée, capacité à apprendre rapidement et à comprendre les enjeux industriels, économiques et entrepreneuriaux associés. Capacité à aller au-delà du constat et à identifier les implications d’une évolution pour les acteurs français.",
-   "duration": 12,
-   "start_date": "2027-05-01T00:00:00",
-   "end_date": "2028-05-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-19T12:58:57Z",
-   "sector": "",
-   "specialization": "[\"365\"]",
-   "contract": "VIA",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-19T12:58:57Z",
-    "missionStartDate": "2027-05-01T00:00:00",
-    "missionEndDate": "2028-05-01T00:00:00",
-    "startBroadcastDate": "2026-10-20T00:00:00",
-    "endBroadcastDate": "2026-11-19T00:00:00"
-   },
-   "summary": "La Direction des Relations Internationales du CEA (DRI) gère, en lien étroit avec le Ministère de l’Europe et des Affaires Etrangères (MEAE) français, le réseau des services nucléaires au sein de certaines ambassades à l'étranger. Ce réseau assure : la mise en œuvre sur le terrain de la politique extérieure française dans le domaine des énergies alternatives et du nucléaire et dans le domaine du numérique, en interface avec les acteurs clefs des pays (responsables politiques, administrations, industriels et organismes de recherche) ; et représente le CEA dans les pays concernés.\nLe Service nucléaire est en charge de développer et de suivre pour le compte de différents ministères français, la coopération franco-chinoise dans le domaine des énergies décarbonées et de défendre les intérêts de la France dans ce domaine, avec un point particulier pour le nucléaire. Le Service travaille en étroite interaction avec les industriels français présents en Chine, qu'il s'agisse des grands groupes comme EDF, ou des ETI et PME. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/247233",
-   "score": 28,
-   "label": "Périphérique",
-   "first_seen": "2026-10-20T11:34:12+00:00",
-   "axis_scores": {
-    "rd": 31,
-    "prod": 0,
-    "qual": 0,
-    "calc": 0
-   },
-   "dominant_axis": "rd",
-   "matched_families": [
-    {
-     "id": "rd6",
-     "axis": "rd",
-     "source": "Comportement mécanique des matériaux non conventionnels (298-2, 30 h), Projet de recherche (261-1, 10 h)",
-     "weight": 8,
-     "terms": [
-      "hydrogene"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "r&d"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "defense",
-      "energie",
-      "nucleaire"
      ],
      "points": 5
     },
@@ -30516,15 +30333,15 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T08:20:52Z",
    "sector": "",
-   "specialization": "64",
+   "specialization": "[\"64\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
     "creationDate": "2026-09-11T08:20:52Z",
     "missionStartDate": "2027-01-01T00:00:00",
     "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-27T00:00:00",
-    "endBroadcastDate": "2026-11-26T00:00:00"
+    "startBroadcastDate": "2026-11-20T00:00:00",
+    "endBroadcastDate": "2026-12-20T00:00:00"
    },
    "summary": "HOUSE OF ABY, groupe d'ingénierie et de conseil présent dans 9 pays, réunit 11 marques (Abylsen, ABMI, Pharmacos…) et s'appuie sur 4 grands piliers : Engineering (expertise technique et ingénierie de pointe), Solutions (développement et mise en œuvre de solutions adaptées), Digital (innovation et transformation numérique) et Advisory (conseil stratégique RH/QRSE).\r\n \r\nNous opérons dans 8 secteurs clés, dont l’aéronautique - spatial, l’automobile, la défense, l’énergie, le BTP – Infrastructure – Ferroviaire, l’IT – Télécommunications, Life Sciences, Banque – Finance – Assurances.\r\n \r\nDescription du poste :\r\n\r\nDans le cadre de la croissance de ses activités BTP, Infrastructure et Ferroviaire dans la région de Bruxelles-Capitale et en Wallonie, nous recherchons un(e) BIM Modeleur(se).\r\n\r\nVos responsabilités au quotidien ?\r\nRéaliser et mettre à jour des maquettes numériques BIM à partir de plans, données techniques et relevés.\r\nModéliser les différents éléments d’un projet en 3D dans le respect des standards et conventions BIM. […]",
    "url": "https://mon-vie-via.businessfrance.fr/offres/245842",
@@ -30741,81 +30558,6 @@
    ]
   },
   {
-   "id": "245854",
-   "title": "German Customer Adoption Manager (H/F)",
-   "company": "NEXTCUBE.IO",
-   "country": "ALLEMAGNE",
-   "city": "HAMBOURG",
-   "description": "Key Responsibilities\r\n\r\nAs a Technical Business Consultant V.I.E, you will support customers in their digital transformation projects while developing expertise in Dassault Systèmes solutions.\r\n\r\n- Explore Dassault Systèmes cloud solutions and technologies.\r\n- Participate in customer presentations, workshops and technical meetings.\r\n- Provide technical support and consulting on 3D CAD, Simulation, PLM and Data Management solutions.\r\n- Deliver user onboarding and training sessions on the 3DEXPERIENCE platform and SOLIDWORKS ecosystem.\r\n- Create technical content such as videos, articles and training materials.\r\n- Support sales activities through demonstrations, audits and requirements analysis.\r\n- Contribute to digital transformation projects for industrial customers.\r\n\r\nSkills and Competencies Developed\r\n\r\nDuring this assignment, you will develop:\r\n\r\n- Dassault Systèmes certifications and technical expertise.\r\n- Knowledge of cloud technologies and the 3DEXPERIENCE platform.\r\n- Digital transformation and project management skills.\r\n- Customer consulting and presentation skills.\r\n- Proficiency with CRM tools including HubSpot.\r\n- Customer success and satisfaction best practices.\r\n- Experience working with international customers and teams.\r\n\r\nWhy Join Us?\r\n- Structured training and mentoring from experienced professionals.\r\n- Exposure to innovative industrial projects and cutting-edge technologies.\r\n- International business experience within the Dassault Systèmes ecosystem.\r\n- Development of valuable technical, consulting and project management skills.",
-   "mission": "",
-   "profile": "Fresh Graduated Mechanical Engineer Master 2\r\nUser of CAD Software like Solidworks, Catia or Autodesk\r\nNative or bilingual in German\r\nFluent in English",
-   "duration": 12,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-11T12:38:54Z",
-   "sector": "",
-   "specialization": "248",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-11T12:38:54Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-26T00:00:00",
-    "endBroadcastDate": "2026-11-25T00:00:00"
-   },
-   "summary": "Key Responsibilities\r\n\r\nAs a Technical Business Consultant V.I.E, you will support customers in their digital transformation projects while developing expertise in Dassault Systèmes solutions.\r\n\r\n- Explore Dassault Systèmes cloud solutions and technologies.\r\n- Participate in customer presentations, workshops and technical meetings.\r\n- Provide technical support and consulting on 3D CAD, Simulation, PLM and Data Management solutions.\r\n- Deliver user onboarding and training sessions on the 3DEXPERIENCE platform and SOLIDWORKS ecosystem.\r\n- Create technical content such as videos, articles and training materials.\r\n- Support sales activities through demonstrations, audits and requirements analysis.\r\n- Contribute to digital transformation projects for industrial customers.\r\n\r\nSkills and Competencies Developed\r\n\r\nDuring this assignment, you will develop:\r\n\r\n- Dassault Systèmes certifications and technical expertise.\r\n- Knowledge of cloud technologies and the 3DEXPERIENCE platform.\r\n- Digital transformation and project management skills.\r\n- Customer consulting and presentation skills. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/245854",
-   "score": 28,
-   "label": "Périphérique",
-   "first_seen": "2026-10-26T19:56:34+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 24,
-    "qual": 0,
-    "calc": 20
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "calc2",
-     "axis": "calc",
-     "source": "CAO (278-1, 30 h), Conception mécanique (264-1, 43 h)",
-     "weight": 9,
-     "terms": [
-      "cad",
-      "catia",
-      "solidworks"
-     ]
-    },
-    {
-     "id": "prod6",
-     "axis": "prod",
-     "source": "Outils et moyens de fabrication (259-1, 30 h)",
-     "weight": 7,
-     "terms": [
-      "cutting"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "industrial",
-      "mechanical"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "247294",
    "title": "Program & R&D Controller (H/F)",
    "company": "OPMOBILITY EXTERIOR SERVICES",
@@ -30971,7 +30713,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-29T10:37:20Z",
    "sector": "",
-   "specialization": "66, 71, 74, 115, 149, 169, 262, 351",
+   "specialization": "[\"66\",\"71\",\"74\",\"115\",\"149\",\"169\",\"262\",\"351\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31469,7 +31211,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-05T10:13:04Z",
    "sector": "",
-   "specialization": "229",
+   "specialization": "[\"229\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31551,7 +31293,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-05T10:10:13Z",
    "sector": "",
-   "specialization": "330",
+   "specialization": "[\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -31793,7 +31535,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-26T08:49:56Z",
    "sector": "",
-   "specialization": "[\"109\"]",
+   "specialization": "109",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32995,7 +32737,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-11T07:43:54Z",
    "sector": "",
-   "specialization": "[\"70\"]",
+   "specialization": "70",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -33443,71 +33185,6 @@
    ]
   },
   {
-   "id": "246325",
-   "title": "VIE Achats Indirects - F/H (H/F)",
-   "company": "ERAMET",
-   "country": "ARGENTINE",
-   "city": "SALTA",
-   "description": "Eramine Sudamérica SA est une filiale d’Eramet, groupe minier et métallurgique français d’envergure mondiale. Elle est située dans le Salar Centenario Ratones, à 3 800 mètres d’altitude, dans le département de Los Andes, au sein de la province de Salta, en Argentine.\r\nLes activités d’exploration ont débuté il y a 12 ans et, fin 2019, notre usine pilote a commencé à fonctionner. Elle permet de démontrer la qualité du produit final, le carbonate de lithium, avec une efficacité d’extraction directe supérieure à 90 %.\r\n\r\nContexte: \r\nLa mission VIE se déroule au sein du service Achats de la Direction Supply Chain de Eramine en charge d’acheter les biens et services nécessaires aux opérations pour la production de lithium. \r\nLe site Eramine commence sa production de Lithium depuis début 2025. Dans ce cadre, le département achats recherche un VIE pour accompagner la montée en puissance de la production et renforcer les échanges avec le siège à Paris.  \r\n\r\nLieu : Salta - ARGENTINE \r\nDate de début prévisionnelle : Dès que possible selon les délais administratifs \r\nDurée : 12 mois \r\n\r\nDéplacements ponctuels sur le site de Centenario une fois tous les deux mois. \r\n\nMissions principales : \r\n- Gestion d’un portefeuille Achats Indirects du sourcing à la commande et jusqu’à la réception (ex : EPI, matériel pour le marketing, équipements de bureaux, services, ...). \r\n- Mise en place et suivi d’indicateurs de performance. \r\n- Support des équipes sur les aspects RSE, Carbon émission, éthiques des achats.",
-   "mission": "",
-   "profile": "Votre Profil : \n- Formation BAC+5 école d’ingénieurs ou école de commerce ou cursus universitaire avec une spécialisation en achats. \n- Idéalement 2 à 5 années en achats avec une bonne connaissance des processus achats, connaissances de base en contrats. \n- Ouverture d’esprit, curiosité, esprit analytique. \n- Aptitude à la communication et à la négociation. \n- Outils : Microsoft Office (niveau avancé), SAP (un plus).\n- Langues : espagnol natif ou courant et anglais courant. \n\nPrésent sur les cinq continents et regroupant plus de 70 nationalités, Eramet est par nature un groupe empreint de diversité.\nNous nous engageons à accueillir tous les talents, quels que soient leur genre, leur handicap, leur âge, leur origine sociale ou culturelle, leur orientation sexuelle, leur croyance.\nChoisir Eramet, c’est rejoindre un Groupe au sein duquel la diversité est reconnue, respectée et valorisée.\nA tous, nous garantissons un accompagnement et des opportunités de développement tout au long de leur parcours professionnel.",
-   "duration": 12,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-09-23T14:21:39Z",
-   "sector": "",
-   "specialization": "2",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-09-23T14:21:39Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-27T00:00:00",
-    "endBroadcastDate": "2026-11-26T00:00:00"
-   },
-   "summary": "Eramine Sudamérica SA est une filiale d’Eramet, groupe minier et métallurgique français d’envergure mondiale. Elle est située dans le Salar Centenario Ratones, à 3 800 mètres d’altitude, dans le département de Los Andes, au sein de la province de Salta, en Argentine.\r\nLes activités d’exploration ont débuté il y a 12 ans et, fin 2019, notre usine pilote a commencé à fonctionner. Elle permet de démontrer la qualité du produit final, le carbonate de lithium, avec une efficacité d’extraction directe supérieure à 90 %.\r\n\r\nContexte: \r\nLa mission VIE se déroule au sein du service Achats de la Direction Supply Chain de Eramine en charge d’acheter les biens et services nécessaires aux opérations pour la production de lithium. \r\nLe site Eramine commence sa production de Lithium depuis début 2025. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/246325",
-   "score": 26,
-   "label": "Périphérique",
-   "first_seen": "2026-10-27T19:25:47+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 34,
-    "qual": 8,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod4",
-     "axis": "prod",
-     "source": "Outils de production (269-1, 20 h), Tenue mécanique des outillages (284-3 et 292-1, 45 h)",
-     "weight": 10,
-     "terms": [
-      "usine"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "qualite"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "248390",
    "title": "Ingénieur d'affaires H/F (H/F)",
    "company": "EXTIA",
@@ -33666,7 +33343,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-06T08:54:04Z",
    "sector": "",
-   "specialization": "327",
+   "specialization": "[\"327\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34185,7 +33862,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-26T08:39:03Z",
    "sector": "",
-   "specialization": "[\"66\"]",
+   "specialization": "66",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -34332,7 +34009,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-29T16:46:46Z",
    "sector": "",
-   "specialization": "330",
+   "specialization": "[\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
