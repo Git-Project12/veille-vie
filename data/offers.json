@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-21T17:35:20+00:00",
+ "generated_at": "2026-11-22T17:51:36+00:00",
  "source": "Business France — mon-vie-via.businessfrance.fr",
- "total_scanned": 821,
- "total_announced": 821,
- "total_kept": 337,
+ "total_scanned": 805,
+ "total_announced": 805,
+ "total_kept": 333,
  "threshold": 25,
  "axes": {
   "rd": {
@@ -2251,7 +2251,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-06T15:56:34Z",
    "sector": "",
-   "specialization": "68",
+   "specialization": "[\"68\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6140,7 +6140,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-30T07:31:41Z",
    "sector": "",
-   "specialization": "206",
+   "specialization": "[\"206\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6242,7 +6242,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-09T09:27:06Z",
    "sector": "",
-   "specialization": "[\"73\",\"251\"]",
+   "specialization": "73, 251",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6671,7 +6671,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-16T13:59:39Z",
    "sector": "",
-   "specialization": "[\"70\"]",
+   "specialization": "70",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6880,7 +6880,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-14T17:08:48Z",
    "sector": "",
-   "specialization": "149, 169",
+   "specialization": "[\"149\",\"169\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -6989,7 +6989,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-18T09:19:15Z",
    "sector": "",
-   "specialization": "149",
+   "specialization": "[\"149\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -7610,7 +7610,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-10T14:07:59Z",
    "sector": "",
-   "specialization": "[\"49\",\"109\",\"125\",\"149\",\"150\",\"169\",\"206\",\"207\",\"262\",\"264\"]",
+   "specialization": "49, 109, 125, 149, 150, 169, 206, 207, 262, 264",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -9429,7 +9429,7 @@
    "expiry_date": "",
    "publish_date": "2026-09-23T07:15:58Z",
    "sector": "",
-   "specialization": "[\"66\"]",
+   "specialization": "66",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -10223,7 +10223,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-19T15:50:17Z",
    "sector": "",
-   "specialization": "109, 114, 125, 256, 262, 366",
+   "specialization": "[\"109\",\"114\",\"125\",\"256\",\"262\",\"366\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -12465,7 +12465,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-23T16:36:29Z",
    "sector": "",
-   "specialization": "[\"77\"]",
+   "specialization": "77",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -15121,7 +15121,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-28T09:16:05Z",
    "sector": "",
-   "specialization": "237",
+   "specialization": "[\"237\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -15757,7 +15757,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-27T07:36:26Z",
    "sector": "",
-   "specialization": "244",
+   "specialization": "[\"244\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -15874,7 +15874,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-27T07:28:59Z",
    "sector": "",
-   "specialization": "244",
+   "specialization": "[\"244\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -17672,7 +17672,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-22T14:14:40Z",
    "sector": "",
-   "specialization": "70",
+   "specialization": "[\"70\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -18229,7 +18229,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-03T09:05:29Z",
    "sector": "",
-   "specialization": "[\"21\",\"79\",\"149\",\"150\"]",
+   "specialization": "21, 79, 149, 150",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -19925,113 +19925,6 @@
    ]
   },
   {
-   "id": "247324",
-   "title": "Ingénieur Développement Commercial | Allemagne (H/F)",
-   "company": "FIVES",
-   "country": "ALLEMAGNE",
-   "city": "STUTTGART",
-   "description": "Prêt(e) à façonner l’avenir de la fabrication de précision ?\nVous êtes passionné(e) par les technologies industrielles, curieux(se) de comprendre comment les produits sont fabriqués et motivé(e) par le défi de développer de nouveaux marchés ?\nRejoignez Fives et participez au développement de notre présence sur l’un des marchés industriels les plus dynamiques d’Europe !\nFives est un groupe international d’ingénierie industrielle qui conçoit et fournit des solutions de pointe aux industriels du monde entier.\nAu sein de notre BU Grinding | Ultra Precision, nous développons des technologies et solutions de rectification de haute précision destinées à de grands acteurs industriels des secteurs de l’automobile, de l’aéronautique, de l’énergie, du roulement et d’autres industries exigeantes.\nGrâce à des marques reconnues à l’international et à une expertise d’ingénierie présente en Europe, aux États-Unis et en Asie, nous accélérons aujourd’hui notre développement commercial en Allemagne.\nNous recherchons un talent entreprenant, proactif et curieux sur le plan technique pour contribuer à cette ambition.\nVotre mission : Découvrir. Créer des liens. Développer.\nBasé(e) à Stuttgart et en étroite collaboration avec nos équipes internationales commerciales et techniques, vous jouerez un rôle actif dans l’expansion de notre présence sur le marché allemand.\nVos principales responsabilités\n• Explorer le marché : identifier de nouveaux clients industriels, des projets d’investissement, des applications émergentes et des opportunités commerciales à travers toute l’Allemagne.\n• Ouvrir des portes : approcher de manière proactive des prospects, développer des relations avec les décideurs industriels et organiser des visites sur site.\n• Créer des opportunités : comprendre les enjeux de production des clients et identifier comment les technologies et services de rectification de Fives peuvent leur apporter de la valeur.\n• Développer l’intelligence marché : suivre la concurrence, les tendances du secteur, les évolutions technologiques et les grands investissements industriels.\n• Activer notre réseau : collaborer avec les différentes entités internationales de Fives afin de mettre les clients en relation avec les experts et solutions les plus pertinents.\n• Représenter Fives : participer à des salons professionnels, événements sectoriels et activités de networking.\n• Piloter la performance commerciale : construire et maintenir un pipeline structuré de prospects qualifiés, de contacts clients et de nouvelles opportunités d’affaires.\nPourquoi nous rejoindre ?\nUne véritable mission de développement commercial, et non un simple rôle de support\nChez Fives, vous aurez l’opportunité de :\n• Prendre la responsabilité d’un projet stratégique de développement de marché.\n• Travailler directement avec des responsables commerciaux internationaux et des experts techniques.\n• Évoluer au contact de technologies de fabrication avancées et de clients industriels de premier plan.\n• Développer vos compétences commerciales, techniques et stratégiques.\n• Construire un solide réseau professionnel international.\n• Contribuer de manière tangible à la croissance d’un groupe industriel mondial.\nVous bénéficierez du soutien d’équipes expérimentées tout en disposant d’une réelle autonomie pour prendre des initiatives et obtenir des résultats.",
-   "mission": "",
-   "profile": "Nous recherchons plus qu’un profil technique.\nNous souhaitons intégrer un(e) véritable développeur d’affaires, qui aime rencontrer de nouvelles personnes, créer des connexions et transformer des analyses de marché en opportunités concrètes.\n• Diplôme d’ingénieur ou de commerce, idéalement avec une orientation technique ou industrielle.\n• Allemand niveau bilingue indispensable.\n• Très bonne maîtrise professionnelle de l’anglais ; le français constitue un atout.\n• Fort intérêt pour l’industrie manufacturière, les machines-outils, l’automatisation ou les technologies avancées.\n• Excellentes aptitudes relationnelles et de communication.\n• Personnalité proactive, autonome, curieuse et orientée résultats.\n• À l’aise pour prospecter de nouveaux clients et échanger avec des décideurs techniques et achats.\n• Disponibilité pour des déplacements réguliers à travers l’Allemagne.\n• Une première expérience en vente industrielle, développement commercial ou études de marché est appréciée, sans être indispensable.",
-   "duration": 12,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-21T09:15:10Z",
-   "sector": "",
-   "specialization": "149, 195, 264",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-21T09:15:10Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-22T00:00:00",
-    "endBroadcastDate": "2026-11-21T00:00:00"
-   },
-   "summary": "Prêt(e) à façonner l’avenir de la fabrication de précision ?\nVous êtes passionné(e) par les technologies industrielles, curieux(se) de comprendre comment les produits sont fabriqués et motivé(e) par le défi de développer de nouveaux marchés ?\nRejoignez Fives et participez au développement de notre présence sur l’un des marchés industriels les plus dynamiques d’Europe !\nFives est un groupe international d’ingénierie industrielle qui conçoit et fournit des solutions de pointe aux industriels du monde entier.\nAu sein de notre BU Grinding | Ultra Precision, nous développons des technologies et solutions de rectification de haute précision destinées à de grands acteurs industriels des secteurs de l’automobile, de l’aéronautique, de l’énergie, du roulement et d’autres industries exigeantes.\nGrâce à des marques reconnues à l’international et à une expertise d’ingénierie présente en Europe, aux États-Unis et en Asie, nous accélérons aujourd’hui notre développement commercial en Allemagne. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/247324",
-   "score": 32,
-   "label": "Périphérique",
-   "first_seen": "2026-10-22T11:50:05+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 48,
-    "qual": 0,
-    "calc": 9
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "calc4",
-     "axis": "calc",
-     "source": "Outils et méthodes de calcul numérique (258-1, 15 h), Excel et macros (266-1, 20 h), Asservissement (840-1, 12 h)",
-     "weight": 4,
-     "terms": [
-      "automatisation"
-     ]
-    },
-    {
-     "id": "prod6",
-     "axis": "prod",
-     "source": "Outils et moyens de fabrication (259-1, 30 h)",
-     "weight": 7,
-     "terms": [
-      "rectification"
-     ]
-    },
-    {
-     "id": "prod5",
-     "axis": "prod",
-     "source": "Gestion de projet (232-5), Management (233-1, 241-3, 775-2)",
-     "weight": 4,
-     "terms": [
-      "ingenierie industrielle"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "fabrication",
-      "ingenierie"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "aeronautique",
-      "automobile",
-      "energie"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    },
-    {
-     "label": "Intitulé hors formation",
-     "terms": [
-      "commercial"
-     ],
-     "points": -22
-    }
-   ]
-  },
-  {
    "id": "247689",
    "title": "Technical & Market Support Engineer (H/F)",
    "company": "HAGER ELECTRO SAS",
@@ -21320,89 +21213,6 @@
    ]
   },
   {
-   "id": "247272",
-   "title": "INGENIEUR MECANIQUE EN CARRIERE (H/F)",
-   "company": "HERVE",
-   "country": "COTE D'IVOIRE",
-   "city": "ABIDJAN",
-   "description": "Présentation de l'entreprise:\r\nCaderac est la filiale ivoirienne du groupe de BTP Hervé, basé dans l'ouest de la France.\r\nProducteur local de granulats (sables, graves, graviers, enrochements), Caderac alimente les chantiers du bâtiment, des routes et des grands projets en Côte d’Ivoire.\r\nAvec trois carrières : Abidjan (PK44), Bouaké (route de Béoumi) et Aboisso (route d’Ayamé) et Laoundi Ba (Bondoukou Nord), nous sécurisons la qualité, la continuité d’approvisionnement et la proximité logistique, pour des coûts livrés maîtrisés et des délais tenus.\r\nPartenaire de confiance des plus grands projets de Côte d’Ivoire, Caderac s’impose comme un fournisseur de granulats de référence en Afrique de l’Ouest.\r\n\r\nContexte\r\nDans le cadre de notre développement international, nous recherchons un(e) Volontaire International en Entreprise (VIE) pour rejoindre notre équipe en Côte d’Ivoire, spécialisé(e) en mécanique appliquée au secteur minier. Le/la candidat(e) interviendra sur la maintenance, l’optimisation, le montage et le transfert des installations industrielles utilisées dans les opérations minières, en collaboration avec les équipes locales et le siège social.\r\n\r\nMissions principales\r\n- Suivi de transfert d’installations industrielles : Coordination des opérations de démontage, transport, remontage et remise en service des installations industrielles.\r\n- Maintenance et optimisation des équipements : Planification, suivi et amélioration des performances des machines et installations industrielles minières.\r\n- Diagnostic technique : Analyse des pannes, proposition de solutions correctives et préventives pour assurer la continuité des opérations.\r\n- Optimisation des processus : Proposition et mise en oeuvre de solutions pour améliorer la fiabilité, la sécurité et l’efficacité des installations industrielles.\r\n- Reporting : Rédaction de rapports techniques, de fiches de maintenance et de tableaux de bord pour le suivi des performances.\r\n\r\nPourquoi postuler?\r\n- Expérience internationale valorisante en Côte d’Ivoire, dans un secteur industriel porteur.\r\n- Immersion dans un environnement technique exigeant et dynamique.\r\n- Opportunité de développer un réseau professionnel à l’international et d’acquérir une expertise reconnue en mécanique industrielle appliquée aux mines.",
-   "mission": "",
-   "profile": "Profil recherché\r\n- Formation : Diplôme d’ingénieur en mécanique, maintenance industrielle, ou équivalent avec une spécialisation ou expérience en milieu minier.\r\n- Expérience : Une première expérience en maintenance ou gestion d’installations industrielles, idéalement dans le secteur minier (stage, alternance).\r\n- Homme/Femme de terrain : Goût prononcé pour le travail sur le terrain, capacité à évoluer dans des environnements parfois exigeants, résistance physique et psychologique, sens pratique et réactivité face aux imprévus.\r\n- Compétences techniques : Maîtrise des outils de diagnostic mécanique, connaissance des normes de sécurité et des méthodes de maintenance appliquées",
-   "duration": 12,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-20T08:09:32Z",
-   "sector": "",
-   "specialization": "107",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-20T08:09:32Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-22T00:00:00",
-    "endBroadcastDate": "2026-11-21T00:00:00"
-   },
-   "summary": "Présentation de l'entreprise:\r\nCaderac est la filiale ivoirienne du groupe de BTP Hervé, basé dans l'ouest de la France.\r\nProducteur local de granulats (sables, graves, graviers, enrochements), Caderac alimente les chantiers du bâtiment, des routes et des grands projets en Côte d’Ivoire.\r\nAvec trois carrières : Abidjan (PK44), Bouaké (route de Béoumi) et Aboisso (route d’Ayamé) et Laoundi Ba (Bondoukou Nord), nous sécurisons la qualité, la continuité d’approvisionnement et la proximité logistique, pour des coûts livrés maîtrisés et des délais tenus.\r\nPartenaire de confiance des plus grands projets de Côte d’Ivoire, Caderac s’impose comme un fournisseur de granulats de référence en Afrique de l’Ouest.\r\n\r\nContexte\r\nDans le cadre de notre développement international, nous recherchons un(e) Volontaire International en Entreprise (VIE) pour rejoindre notre équipe en Côte d’Ivoire, spécialisé(e) en mécanique appliquée au secteur minier. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/247272",
-   "score": 31,
-   "label": "Périphérique",
-   "first_seen": "2026-10-22T18:32:10+00:00",
-   "axis_scores": {
-    "rd": 0,
-    "prod": 10,
-    "qual": 8,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "installations industrielles",
-      "methodes"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "normes",
-      "qualite"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "ingenieur",
-      "mecanique"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "industriel",
-      "mecanique"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "248201",
    "title": "AUTOMOTIVE ENGINEER (H/F)",
    "company": "PRODUCT DEVELOPMENT EMPLOYENEURSHIP",
@@ -21943,7 +21753,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-16T16:54:38Z",
    "sector": "",
-   "specialization": "60, 149, 251",
+   "specialization": "[\"60\",\"149\",\"251\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -22042,7 +21852,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-03T11:28:24Z",
    "sector": "",
-   "specialization": "[\"62\"]",
+   "specialization": "62",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -23242,7 +23052,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-16T13:35:39Z",
    "sector": "",
-   "specialization": "[\"70\"]",
+   "specialization": "70",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -23918,7 +23728,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-21T07:16:38Z",
    "sector": "",
-   "specialization": "[\"35\"]",
+   "specialization": "35",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -24077,7 +23887,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-03T08:49:52Z",
    "sector": "",
-   "specialization": "[\"68\"]",
+   "specialization": "68",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26184,7 +25994,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-19T12:30:56Z",
    "sector": "",
-   "specialization": "155",
+   "specialization": "[\"155\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26291,7 +26101,7 @@
    "expiry_date": "",
    "publish_date": "2026-10-08T10:01:20Z",
    "sector": "",
-   "specialization": "161",
+   "specialization": "[\"161\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -26469,7 +26279,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-06T16:41:17Z",
    "sector": "",
-   "specialization": "149",
+   "specialization": "[\"149\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -27583,7 +27393,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-12T09:16:59Z",
    "sector": "",
-   "specialization": "330",
+   "specialization": "[\"330\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -29873,87 +29683,6 @@
    ]
   },
   {
-   "id": "247340",
-   "title": "Bid Network Planner (H/F)",
-   "company": "TRANSDEV GROUP",
-   "country": "ROYAUME-UNI",
-   "city": "MANCHESTER",
-   "description": "Your Destination\nBased in Manchester, you will join Transdev UK's Business Development team and report directly to the Bid & Performance Director. Your main role: plan, schedule and optimise bus services across the network to win offensive tenders in UK bus franchises. You will work closely with the bid, commercial, finance and operations teams, and stay connected to the field to understand the network first hand.\n\nKey Responsibilities :\n- Build and optimise bus schedules on HASTUS for offensive tenders in UK bus franchises, covering timetables, vehicle blocks, and driver duties.\n- Design and apply scheduling rules that comply with working time regulations, collective agreements, and company policies, while minimising Peak Vehicle Requirement without compromising reliability.\n- Analyse run times, punctuality, and operational performance data to challenge assumptions and identify concrete scheduling improvements.\n- Run scenario modelling to test service changes, quantify operational impacts, and feed key metrics and driver establishment figures into the financial workstream.\n- Contribute to the technical writing of tender submissions, documenting scheduling methodology in a clear and persuasive way for the client.\n- Work hand in hand with the finance, operations, and commercial teams to deliver a coherent, winning bid, and go on the ground to understand the network first hand.",
-   "mission": "",
-   "profile": "Graduate from a university, engineering school, or business school, ideally with a specialisation in transport, industrial engineering, operations research, data, or supply chain.\nFirst experience (internship, apprenticeship, or 1 year) in transport planning, scheduling, network planning, or bus operations.\nWorking knowledge of HASTUS — or a strong appetite to master it quickly — combined with advanced Microsoft Excel skills and comfort handling large datasets.\nSharp analytical mindset, structured problem-solving, and a genuine attention to detail when working with performance metrics and operational constraints.\nFluent English, both written and spoken, with the ability to explain complex scheduling concepts clearly to non-technical stakeholders.\nProactive, autonomous, resilient under pressure, and a real team player who thrives in a fast-paced, team-oriented environment..",
-   "duration": 12,
-   "start_date": "2027-02-01T00:00:00",
-   "end_date": "2028-02-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-21T13:44:37Z",
-   "sector": "",
-   "specialization": "80",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-21T13:44:37Z",
-    "missionStartDate": "2027-02-01T00:00:00",
-    "missionEndDate": "2028-02-01T00:00:00",
-    "startBroadcastDate": "2026-10-22T00:00:00",
-    "endBroadcastDate": "2026-11-21T00:00:00"
-   },
-   "summary": "Your Destination\nBased in Manchester, you will join Transdev UK's Business Development team and report directly to the Bid & Performance Director. Your main role: plan, schedule and optimise bus services across the network to win offensive tenders in UK bus franchises. You will work closely with the bid, commercial, finance and operations teams, and stay connected to the field to understand the network first hand.\n\nKey Responsibilities :\n- Build and optimise bus schedules on HASTUS for offensive tenders in UK bus franchises, covering timetables, vehicle blocks, and driver duties.\n- Design and apply scheduling rules that comply with working time regulations, collective agreements, and company policies, while minimising Peak Vehicle Requirement without compromising reliability.\n- Analyse run times, punctuality, and operational performance data to challenge assumptions and identify concrete scheduling improvements.\n- Run scenario modelling to test service changes, quantify operational impacts, and feed key metrics and driver establishment figures into the financial workstream. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/247340",
-   "score": 28,
-   "label": "Périphérique",
-   "first_seen": "2026-10-22T11:50:05+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 10,
-    "qual": 0,
-    "calc": 27
-   },
-   "dominant_axis": "calc",
-   "matched_families": [
-    {
-     "id": "calc1",
-     "axis": "calc",
-     "source": "Éléments finis (256-1, 24 h), TP simulation numérique (272-1, 285-5, 285-4, 63 h), Calculs numériques de mise en forme (277-1, 286-1, 50 h)",
-     "weight": 12,
-     "terms": [
-      "modelling"
-     ]
-    },
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "engineering"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "problem solving"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Secteur industriel compatible",
-     "terms": [
-      "industrial"
-     ],
-     "points": 5
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
    "id": "247707",
    "title": "Assistant Engineer - Civil, Water, Structural (H/F)",
    "company": "ARTELIA",
@@ -30761,90 +30490,6 @@
      "label": "Intitulé technique ciblé",
      "terms": [
       "ingenieur"
-     ],
-     "points": 14
-    },
-    {
-     "label": "Niveau bac+5 / ingénieur annoncé",
-     "terms": [],
-     "points": 4
-    }
-   ]
-  },
-  {
-   "id": "247372",
-   "title": "Product Engineering Officer (H/F)",
-   "company": "SOCIETE GENERALE",
-   "country": "ITALIE",
-   "city": "MILAN",
-   "description": "The Product Engineering Office is responsible for the design, development and implementation of products, solutions and services supporting SGSS business development objectives. \nAs part of the Commercial Department, the Office works in close collaboration with the Commercial and Marketing teams to support SGSS Italy business development, identify client and market needs, and translate them into client-focused solutions. \nIt also partners with Operations and IT teams to design and implement scalable, efficient and compliant products, services and operating models, addressing complex client requirements and contributing to the continuous enhancement of SGSS’s service offering.\n\nThe successful candidate will work closely with the Product Engineering team and support the delivery of new products, solutions and services throughout their lifecycle, from analysis and design to implementation and client onboarding.\n\nKey responsibilities include:\n\nSupporting product and solution development projects;\nGathering and documenting business requirements;\nAssisting in feasibility studies with Operations, IT, Risk and Compliance teams;\nContributing to the design of operational solutions and target operating models;\nPreparing documentation for governance committees and project follow-up;\nSupporting the preparation of onboarding documentation, KPIs and SLAs;\nMaintaining product documentation and service descriptions;\nAssisting with implementation activities and client onboarding;\nParticipating in client requests, RFP responses and commercial initiatives when required.\nIn addition, the candidate will support transversal Product Engineering Office activities, including budget monitoring, pricing database maintenance, internal benchmarking and the preparation of management dashboards.\n\nA questionnaire will be provided to you in order to check your VIE (Société Générale and Business France) eligibility. For an efficient analysis of your application, please make sure to truthfully answer all the questions.\n\nPlease note that it is mandatory to communicate us a formal proof of your M2 diploma validation at least 2 weeks before the assignment start. No VIE mission will start without this document. *Grade sheets are not accepted as justification of diploma.",
-   "mission": "",
-   "profile": "PLEASE NOTE that since this program is primarily an international development program, candidates cannot apply to a VIE assignment in their own country of citizenship.\n\nTo facilitate the examination of your application by our English-speaking managers, we thank you for applying in English.\n\nStudies & experience:\n\nGraduate with a Master degree from Business/Engineering School or University with a specialization in Economics, Finance or a related field\n\nLanguage skills:\n\nFluent in English (B2-C1)\nItalian: B2 (Upper Intermediate) - C1 (Advanced / Skilled)\nOperational, technical & soft skills:\n\nGood command of Microsoft Office tools, especially Excel and PowerPoint\n\nKnowledge of financial markets and Securities Services activities\n\nUnderstanding of project management and business analysis concepts\n\nGood analytical and organizational skills\n\nClient-oriented approach\n\nStrong communication and presentation skills, with the ability to clearly articulate concepts and information to different stakeholders;\nHigh attention to detail and a rigorous approach to work, ensuring accuracy, consistency and compliance with high-quality standards;\nAnalytical mindset and problem-solving capabilities, with the ability to assess complex situations and identify effective, data-driven solutions;\nInquisitive attitude and strong motivation to learn, with a proactive approach to professional development;\nCollaborative and proactive team player, able to contribute effectively in a structured and multi-disciplinary environment;\nHighly adaptable, well-organised, motivated and able to manage multiple tasks and priorities simultaneously.",
-   "duration": 12,
-   "start_date": "2027-01-01T00:00:00",
-   "end_date": "2028-01-01T00:00:00",
-   "expiry_date": "",
-   "publish_date": "2026-10-22T07:06:22Z",
-   "sector": "",
-   "specialization": "17, 259",
-   "contract": "VIE",
-   "dates_raw": {
-    "candidateCounter": 0,
-    "creationDate": "2026-10-22T07:06:22Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-22T00:00:00",
-    "endBroadcastDate": "2026-11-21T00:00:00"
-   },
-   "summary": "The Product Engineering Office is responsible for the design, development and implementation of products, solutions and services supporting SGSS business development objectives. \nAs part of the Commercial Department, the Office works in close collaboration with the Commercial and Marketing teams to support SGSS Italy business development, identify client and market needs, and translate them into client-focused solutions. \nIt also partners with Operations and IT teams to design and implement scalable, efficient and compliant products, services and operating models, addressing complex client requirements and contributing to the continuous enhancement of SGSS’s service offering.\n\nThe successful candidate will work closely with the Product Engineering team and support the delivery of new products, solutions and services throughout their lifecycle, from analysis and design to implementation and client onboarding. […]",
-   "url": "https://mon-vie-via.businessfrance.fr/offres/247372",
-   "score": 27,
-   "label": "Périphérique",
-   "first_seen": "2026-10-22T11:50:05+00:00",
-   "axis_scores": {
-    "rd": 9,
-    "prod": 10,
-    "qual": 8,
-    "calc": 0
-   },
-   "dominant_axis": "prod",
-   "matched_families": [
-    {
-     "id": "prod7",
-     "axis": "prod",
-     "source": "Vocabulaire industriel courant (présent dans plus de 8 % des offres)",
-     "weight": 3,
-     "terms": [
-      "engineering"
-     ]
-    },
-    {
-     "id": "qual5",
-     "axis": "qual",
-     "source": "Vocabulaire qualité courant (présent dans plus de 8 % des offres)",
-     "weight": 2,
-     "terms": [
-      "compliance",
-      "quality",
-      "standards",
-      "validation"
-     ]
-    },
-    {
-     "id": "rd9",
-     "axis": "rd",
-     "source": "Vocabulaire de laboratoire courant",
-     "weight": 3,
-     "terms": [
-      "problem solving"
-     ]
-    }
-   ],
-   "bonuses": [
-    {
-     "label": "Intitulé technique ciblé",
-     "terms": [
-      "engineering"
      ],
      "points": 14
     },
@@ -32026,7 +31671,7 @@
    "expiry_date": "",
    "publish_date": "2026-07-06T08:54:04Z",
    "sector": "",
-   "specialization": "327",
+   "specialization": "[\"327\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
@@ -32253,7 +31898,7 @@
    "expiry_date": "",
    "publish_date": "2026-11-06T08:22:32Z",
    "sector": "",
-   "specialization": "6, 7",
+   "specialization": "[\"6\",\"7\"]",
    "contract": "VIE",
    "dates_raw": {
     "candidateCounter": 0,
